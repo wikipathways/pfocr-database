@@ -1,40 +1,23 @@
 ---
-title: "stats"
-author: "Alex"
-date: "9/11/2022"
-# output: html_document
-output:
-  md_document:
-    variant: markdown_github
-    includes:
-      before_body: stats_title.md
+title: stats
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # PFOCR Stats
-This R notebooks prepares counts and figures to summarize PFOCR activity. The output files are displayed on the website and used in publications and grant applications.
 
-* Data points are collected in _*data/*
-* Plots are saved in *assets/img/*
- 
-```{r install, include=FALSE}
-library(tidyr)
-library(dplyr)
-library(magrittr)
-library(ggplot2)
-```
+This R notebooks prepares counts and figures to summarize PFOCR
+activity. The output files are displayed on the website and used in
+publications and grant applications.
+
+-   Data points are collected in \_*data/*
+-   Plots are saved in *assets/img/*
 
 ## Read PFOCR .rds files
+
 Set the path to these files
-```{r setpath, include=FALSE}
-local.path <- "/Users/alexpico/Dropbox (Gladstone)/Pathway Figure OCR/LATEST"
-```
 
 Read in files
-```{r read}
+
+``` r
 figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
 years <- readRDS(file.path(local.path,"pfocr_years.rds"))
 genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
@@ -43,7 +26,8 @@ dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 ```
 
 ## Main page plot
-```{r plot}
+
+``` r
 years.plot <- years %>%
       group_by(year) %>%
       summarize(fig_cnt = n())
@@ -74,10 +58,11 @@ years.plot %>%
           legend.background = element_rect(fill='transparent'), #transparent legend bg
           legend.box.background = element_rect(fill='transparent') #transparent legend panel
       ) 
-
 ```
-```{r save, warning=FALSE}
 
+![](stats_files/figure-markdown_github/plot-1.png)
+
+``` r
 ggsave("../assets/img/pfocr_stats.png", plot = last_plot(), 
        width = 550, height = 300, units = "px", dpi = 250, bg='transparent')
 ```
@@ -85,4 +70,3 @@ ggsave("../assets/img/pfocr_stats.png", plot = last_plot(),
 ![](assets/img/pfocr_stats.png)
 
 ## Counts
-
