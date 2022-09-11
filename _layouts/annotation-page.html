@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<a class="btn btn-sm btn-pill btn-annotation" style="float: right;" href="/browse/annotations.html">Annotations</a>
+    <h1> {{ page.type }}</h1>
+    <h2> 
+      <a href="http://bioportal.bioontology.org/ontologies/{{ page.xref-dataSource }}?p=classes&conceptid=http://purl.obolibrary.org/obo/{{ page.xref-dataSource }}_{{page.xref-identifier}}"
+        target="_blank">
+        {{ page.value }} <font size="+1">({{ page.xref-dataSource }}:{{page.xref-identifier}})</font>
+      </a>
+    </h2>
+    <p>{{ page.definition }}</p>
+    <ul class="nav nav-tabs">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#gallery">Gallery</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#list">List</a>
+      </li> 
+    </ul>
+    {% assign sorted_figures = site.figures | sort: "title" %}
+    <div class="tab-content" >
+      <div class="tab-pane fade show active" id="gallery" role="tabpanel">
+        <br/>
+    <div class="row">
+      {% for pw in sorted_figures %}
+        {% assign annot-values= pw.annotations | where: "type", page.type | map: "parent" %}
+        {% if annot-values contains page.value %}
+          <div class="col-sm-auto">
+            <div class="card" style="width: 10rem;">
+              <a class="card-link" href="{{ pw.url }}">
+              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+              <div class="card-body">
+                <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em></p>
+              </div>
+              </a>
+            </div>
+          </div> 
+          {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  <div class="tab-pane fade" id="list" role="tabpanel">
+    <br/>
+    <div class="row" style="margin-left: 10px;">
+      <ul>
+        {% for pw in sorted_figures %}
+          {% assign annot-values= pw.annotations | where: "type", page.type | map: "parent" %}
+          {% if annot-values contains page.value %}
+              <li><a href="{{ pw.url }}">{{ pw.title }} <em>({{ pw.organisms.first }})</em></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>  
+  </div>
+</div>
+<br/><hr/>

@@ -1,0 +1,346 @@
+---
+layout: default
+---
+  <a class="page-title" href="{{site.url}}{{page.url}}">
+    <h1 id="title">{{ page.figtitle }}
+      <a href="{{ page.path }}"
+      target="_blank">
+        <span title="Edit title and caption" style="color: #666; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+      </a></h1>
+  </a>
+
+  <div id="caption" style="max-height:75px; overflow-y:hidden;margin-bottom: 20px;">
+    {{ page.caption }}
+  </div>
+  <input type="button" class="badge badge-secondary" id="descMore" value="more text" style="float: right; margin-top: -26px;">
+  <input type="button" class="badge badge-secondary" id="descLess" value="less text" style="float: right; margin-top: -26px;">
+
+  <div id="pathway-figure">
+    <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" alt="{{ page.figtitle }}" 
+    style="max-height:600px;"/>
+  </div>
+  <div class="dropdown" style="float:right; margin-top: -1px;">
+    <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      options
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <button class="dropdown-item copy-btn" type="button" to-copy="{{ page.url }}">Copy permalink</button>
+    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/{{page.figlink}}" target="_blank">View figure at PMC</a>
+    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}" target="_blank">Read paper at PMC</a>
+    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" target="_blank">Download JPG</a>
+    </div> 
+  </div>
+  
+  <div>
+    <h2 id="publication">Publication</h2>
+    {{ page.papertitle }} ({{ page.year }})
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}"
+      target="_blank">{{ page.reftext}} </a>
+
+    <h2 id="organism">Organisms
+      <a href="{{ page.path }}"
+      target="_blank">
+        <span title="Edit organims" style="color: #666; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+      </a>
+    </h2>
+    {% for org in site.organisms %}
+    {% if page.organisms contains org.latin %}
+    <a class="btn btn-sm btn-pill btn-organism" href="{{org.url}}">{{org.latin}}</a>
+    {% endif %}
+    {% endfor %}
+
+    <h2 id="annotations">Annotations
+      <a href="{{ page.path }}"
+      target="_blank">
+        <span title="Edit annotations" style="color: #666; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+      </a></h2>
+    {% assign annot-types = page.annotations | map: "type" | uniq %}
+    {% for type in annot-types %}
+    <p>{{ type }}: 
+      {% assign annot-values= page.annotations | where: "type", type | map: "value" %}
+      {% for annot in annot-values %}
+        <a class="btn btn-sm btn-pill btn-annotation" href="/browse/table.html?{{ type }}={{ annot }}">{{ annot }}</a>
+      {% endfor %}
+    </p>
+    {% endfor %}
+
+    <h2 id="participants">Gene mentions
+      {% assign data-genes = "https://github.com/wikipathways/pfocr-database/blob/main/_data/" | append: page.figid | append: "-genes.tsv" %}
+      <a href="{{ data-gene }}"
+      target="_blank">
+        <span title="Edit genes" style="color: #666; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+      </a></h2>
+      {% assign figid-genes = page.figid | append: "-genes" %}
+      {% assign genes=site.data[figid-genes] %}
+      <table id="participants-table"> 
+      <thead>
+        <th title="Word in figure as detected by OCR">Word</th>
+        <th title="Transformed word that matched lexicon">Lexicon</th>
+        <th title="Source of lexicon that matched">Source</th>
+        <th title="HUGO Gene Nomenclature Committee">HGNC</th>
+        <th title="National Center for Biotechnology Information's Gene database">NCBI Gene</th>
+      </thead>
+      <tbody>
+        {% for row in genes %}
+        <tr>
+          <td title="Word in figure as detected by OCR">{{ row["word"] }}</td>
+          <td title="Transformed word that matched lexicon">{{ row["symbol"] }}</td>
+          <td title="Source of lexicon that matched">{{ row["source"] }}</td>
+          <td title="Visit HGNC page"><a href='https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/{{ row["hgnc_symbol"] }}' target="_blank">{{ row["hgnc_symbol"] }}</a></td>
+          <td title="Visit NCBI Gene page"><a href='https://www.ncbi.nlm.nih.gov/gene/{{ row["entrez"] }}' target="_blank">{{ row["entrez"] }}</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table> 
+    <div class="dropdown" style="float:right; margin-top: -13px;">
+      <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonDatanodes" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        options
+      </button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes">
+      <a class="dropdown-item" href="https://gitcdn.link/cdn/wikipathways/pfocr-database/main/_data/{{ page.figid }}-genes.tsv">Download TSV</a>
+      </div>
+    </div>
+    <input type="button" class="badge badge-secondary" id="tableMore" value="more rows" style="float: left; margin-top: -8px;">
+    <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
+    
+    <br /><hr />
+    <h2 id="chemicals">Chemical mentions
+      {% assign data-chems = site.data_github | append: page.figid | append: "-chems.tsv" %}
+      <a href="{{ data-chems }}"
+      target="_blank">
+        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+      </a></h2>
+      {% assign figid-chems = page.figid | append: "-chemicals" %}
+      {% assign chems=site.data[figid-chems] %}
+      <table id="chems-table"> 
+        <thead>
+          <th title="Word in figure as detected by OCR">Word</th>
+          <th title="Database maintaining identifiers">Datasource</th>
+          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+        </thead>
+        <tbody>
+          {% for row in chems %}
+          <tr>
+            <td title="Word in figure as detected by OCR">{{ row["word"] }}</td>
+            <td title="Database maintaining identifiers">{{ row["source"] }}</td>
+            {% if row["source"] == "MESH" %}
+              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/{{ row["identifier"] }}' target="_blank">{{ row["identifier"] }}</a></td>
+            {% else %}
+              <td title="Identifier">{{ row["identifier"] }}</td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <div class="dropdown" style="float:right; margin-top: -13px;">
+        <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonChems" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          options
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonChems">
+        <a class="dropdown-item" href="https://gitcdn.link/cdn/wikipathways/pfocr-database/main/_data/{{ page.figid }}-chemicals.tsv">Download TSV</a>
+        </div>
+      </div>
+      <input type="button" class="badge badge-secondary" id="tableMoreChems" value="more rows" style="float: left; margin-top: -8px;">
+      <input type="button" class="badge badge-secondary" id="tableLessChems" value="fewer rows" style="float: left; margin-top: -8px;">
+
+      <br /><hr />
+      <h2 id="diseases">Disease mentions
+        {% assign data-dis = site.data_github | append: page.figid | append: "-diseases.tsv" %}
+        <a href="{{ data-dis }}"
+        target="_blank">
+          <span title="Edit diseases" style="color: #666; font-size: 0.8em;">
+            <i class="fa fa-pencil"></i>
+          </span>
+        </a></h2>
+        {% assign figid-dis = page.figid | append: "-diseases" %}
+        {% assign dis=site.data[figid-dis] %}
+        <table id="dis-table"> 
+          <thead>
+            <th title="Word in figure as detected by OCR">Word</th>
+            <th title="Database maintaining identifiers">Datasource</th>
+            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          </thead>
+          <tbody>
+            {% for row in dis %}
+            <tr>
+              <td title="Word in figure as detected by OCR">{{ row["word"] }}</td>
+              <td title="Database maintaining identifiers">{{ row["source"] }}</td>
+              {% if row["source"] == "MESH" %}
+                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/{{ row["identifier"] }}' target="_blank">{{ row["identifier"] }}</a></td>
+              {% else %}
+                <td title="Identifier">{{ row["identifier"] }}</td>
+              {% endif %}
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        <div class="dropdown" style="float:right; margin-top: -13px;">
+          <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonDis" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            options
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDis">
+          <a class="dropdown-item" href="https://gitcdn.link/cdn/wikipathways/pfocr-database/main/_data/{{ page.figid }}-diseases.tsv">Download TSV</a>
+          </div>
+        </div>
+        <input type="button" class="badge badge-secondary" id="tableMoreDis" value="more rows" style="float: left; margin-top: -8px;">
+        <input type="button" class="badge badge-secondary" id="tableLessDis" value="fewer rows" style="float: left; margin-top: -8px;">
+  
+  </div>
+
+<script> 
+  var trs = $("#participants-table tr");
+  var trsChem = $("#chems-table tr");
+  var trsDis = $("#dis-table tr");
+  var btnMoreDesc = $("#descMore");
+  var btnLessDesc = $("#descLess");
+  var btnMore = $("#tableMore");
+  var btnLess = $("#tableLess");
+  var btnMoreChems = $("#tableMoreChems");
+  var btnLessChems = $("#tableLessChems");
+  var btnMoreDis = $("#tableMoreDis");
+  var btnLessDis = $("#tableLessDis");
+  var trsLen = trs.length;
+  var trsLenChems = trsChem.length;
+  var trsLenDis = trsDis.length;
+  var startIndex = 5;
+  var currentIndex = startIndex;
+  var currentIndexChems = startIndex;
+  var currentIndexDis = startIndex;
+  var addIndex = 40;
+  
+  function UrlExists(url) {
+    var http = new XMLHttpRequest();
+    http.open('HEAD', url, false);
+    http.send();
+    if (http.status != 404)
+      return true;
+    else
+      return false;
+  }
+
+  trs.hide();
+  trs.slice(0, startIndex).show();
+  checkButton(trsLen,$("#participants-table tr:visible").length, btnMore, btnLess);
+  trsChem.hide();
+  trsChem.slice(0, startIndex).show();
+  checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+  trsDis.hide();
+  trsDis.slice(0, startIndex).show();
+  checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+  checkButtonDesc();
+
+  btnMoreDesc.click(function (e) {
+    e.preventDefault();
+    document.getElementById("caption").style.maxHeight = ""; 
+    checkButtonDesc();
+  });
+
+  btnLessDesc.click(function (e) {
+    e.preventDefault();
+    document.getElementById("caption").style.maxHeight = "75px"; 
+    checkButtonDesc();
+  });
+
+  function checkButtonDesc() {
+    var currentHeight = $("#caption").height();
+    var scrollHeight = document.getElementById("caption").scrollHeight;
+
+    if (scrollHeight <= 75){ // no need to expand/collapse
+      btnMoreDesc.hide();
+      btnLessDesc.hide();
+    } else {
+      if (currentHeight > 75) { // time to collapse
+        btnMoreDesc.hide();
+        btnLessDesc.show();
+      } else {                  // time to expand
+        btnMoreDesc.show();
+        btnLessDesc.hide();
+      }
+    } 
+  }
+
+  btnMore.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(currentIndex, currentIndex + addIndex).show();
+    currentIndex += addIndex;
+    checkButton(trsLen, $("#participants-table tr:visible").length, btnMore, btnLess);
+  });
+
+  btnLess.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(currentIndex - addIndex, currentIndex).hide();
+    currentIndex -= addIndex;
+    checkButton(trsLen, $("#participants-table tr:visible").length, btnMore, btnLess);
+  });
+
+  btnMoreChems.click(function (e) {
+    e.preventDefault();
+    $("#chems-table tr").slice(currentIndexChems, currentIndexChems + addIndex).show();
+    currentIndexChems += addIndex;
+    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+  });
+
+  btnLessChems.click(function (e) {
+    e.preventDefault();
+    $("#chems-table tr").slice(currentIndexChems - addIndex, currentIndexChems).hide();
+    currentIndexChems -= addIndex;
+    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+  });
+
+  btnMoreDis.click(function (e) {
+    e.preventDefault();
+    $("#dis-table tr").slice(currentIndexDis, currentIndexDis + addIndex).show();
+    currentIndexDis += addIndex;
+    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+  });
+
+  btnLessDis.click(function (e) {
+    e.preventDefault();
+    $("#dis-table tr").slice(currentIndexDis - addIndex, currentIndexDis).hide();
+    currentIndexDis -= addIndex;
+    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+  });
+
+  function checkButton(trsLength, currentLength, btnM, btnL) {
+
+    if (currentLength >= trsLength) {
+      btnM.hide();
+    } else {
+      btnM.show();
+    }
+
+    if (trsLength > startIndex && currentLength > startIndex) {
+      btnL.show();
+    } else {
+      btnL.hide();
+    }
+
+  }
+
+  const copyBtn = document.querySelector('.copy-btn');
+  const toCopy = document.querySelector('.copy-btn').getAttribute('to-copy');
+
+  copyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(toCopy)
+      .then(() => {
+        toCopy.value = '';
+      })
+      .catch(err => {
+        console.log('Something went wrong', err);
+      })
+  });
+</script>
