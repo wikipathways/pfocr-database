@@ -30,7 +30,11 @@ layout: default
     <button class="dropdown-item copy-btn" type="button" to-copy="{{ site.url }}{{ page.url }}">Copy permalink</button>
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/{{page.figlink}}" target="_blank">View figure at PMC</a>
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}" target="_blank">Read paper at PMC</a>
+    {% if page.ndex %}
+    <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open in NDEx</a>
+    {% endif %}
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" target="_blank">Download JPG</a>
+    <a class="dropdown-item" href="" target="_blank">Download GPML</a>
     </div> 
   </div>
   

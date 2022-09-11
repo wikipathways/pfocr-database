@@ -26,7 +26,7 @@ layout: home2
 	   var gcse = document.createElement("script");
 	   gcse.type = "text/javascript";
 	   gcse.async = true;
-	   gcse.src = ""; //ADD GOOGLE CSE HERE
+	   gcse.src = "https://cse.google.com/cse.js?cx=f76f25bb7375c4c11";
 	   var s = document.getElementsByTagName("script")[0];
 	   s.parentNode.insertBefore(gcse, s);
 	 })();
