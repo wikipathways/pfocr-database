@@ -58,7 +58,7 @@ chems <- dplyr::filter(chems, figid %in% keep)
 dis <- dplyr::filter(dis, figid %in% keep)
 ```
 
-## Produce md
+## Produce md and tsv
 ```{r md}
 
 test.figs = figs[1:10,]
@@ -67,10 +67,20 @@ by(test.figs, seq_len(nrow(test.figs)), function(f){
   fid = tools::file_path_sans_ext(fls$figid)
   ffp = file.path("..","_figures",paste(fid,"md",sep = "."))
   print(ffp)
-  # tweak content
-  fls$organisms = as.list(fls$organism) 
-  fls$organism = NULL
-  if (is.na(fls$year)){fls$year = ''}
+  
+  # build tables
+  tbg = genes %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::select(-c(figid,pmcid))
+  tbgy = list(genes = unname(lapply( split(tbg,seq_along(tbg[,1])), as.list)))
+  tbc = chems %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::select(-c(figid))
+  tbcy = list(chemicals = unname(lapply( split(tbc,seq_along(tbc[,1])), as.list)))
+  tbd = dis %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::select(-c(figid))
+  tbdy = list(diseases = unname(lapply( split(tbd,seq_along(tbd[,1])), as.list)))
   
   # get ndex
   ndex = list(ndex = "")
@@ -79,14 +89,11 @@ by(test.figs, seq_len(nrow(test.figs)), function(f){
   annots = list(annotations = list())
   
   # get keywords
-  kwg = genes %>%
-    dplyr::filter(figid == fls$figid) %>%
+  kwg = tbg %>%
     dplyr::distinct(hgnc_symbol)
-  kwc = chems %>%
-    dplyr::filter(figid == fls$figid) %>%
+  kwc = tbc %>%
     dplyr::distinct(word)
-  kwd = dis %>%
-    dplyr::filter(figid == fls$figid) %>%
+  kwd = tbd %>%
     dplyr::distinct(word)
   
   keywords = c(unlist(kwg), unlist(kwc), unlist(kwd))
@@ -103,6 +110,13 @@ by(test.figs, seq_len(nrow(test.figs)), function(f){
                                    creator = list("@type"="Organization",
                                                   name = "WikiPathways"),
                                    keywords = keywords))
+  
+  # final tweaks to content
+  fls$figid = fid #stripped ext
+  fls$organisms = as.list(fls$organism) 
+  fls$organism = NULL
+  if (is.na(fls$year)){fls$year = ''}
+  
   # write to md file
   con <- file(ffp, "w")
   write("---", con)
@@ -110,10 +124,26 @@ by(test.figs, seq_len(nrow(test.figs)), function(f){
   yaml::write_yaml(ndex, con)
   yaml::write_yaml(annots, con)
   yaml::write_yaml(schema, con)
+  yaml::write_yaml(tbgy, con)
+  yaml::write_yaml(tbcy, con)
+  yaml::write_yaml(tbdy, con)
   write("---", con)
   
-  
   close.connection(con)
+  
+  # write tsvs for download
+  if (nrow(tbg) > 0){
+    gfp = file.path("..","_data",paste0(fid,"-genes.tsv"))
+    write.table(tbg, gfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
+  if (nrow(tbc) > 0){
+    cfp = file.path("..","_data",paste0(fid,"-chemicals.tsv"))
+    write.table(tbc, cfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
+  if (nrow(tbd) > 0){
+    dfp = file.path("..","_data",paste0(fid,"-diseases.tsv"))
+    write.table(tbd, dfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
 } )
 
 ```

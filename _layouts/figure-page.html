@@ -76,25 +76,26 @@ layout: default
     {% endfor %}
 
     <h2 id="participants">Gene mentions
-      {% assign data-genes = "https://github.com/wikipathways/pfocr-database/blob/main/_data/" | append: page.figid | append: "-genes.tsv" %}
-      <a href="{{ data-genes }}"
+      <!-- {% assign data-genes = "https://github.com/wikipathways/pfocr-database/blob/main/_data/" | append: page.figid | append: "-genes.tsv" %} -->
+      <a href="https://github.com/wikipathways/pfocr-database/blob/main/{{ page.path }}"
       target="_blank">
         <span title="Edit genes" style="color: #666; font-size: 0.8em;">
           <i class="fa fa-pencil"></i>
         </span>
       </a></h2>
-      {% assign figid-genes = page.figid | append: "-genes" %}
-      {% assign genes=site.data[figid-genes] %}
+      <!-- {% assign figid-genes = page.figid | append: "-genes" %} -->
+      <!-- {% assign genes=site.data[figid-genes] %} -->
+      <!-- {% assign genes=page.genes %} -->
       <table id="participants-table"> 
       <thead>
         <th title="Word in figure as detected by OCR">Word</th>
-        <th title="Transformed word that matched lexicon">Lexicon</th>
+        <th title="Transformed word that matched lexicon">Match</th>
         <th title="Source of lexicon that matched">Source</th>
         <th title="HUGO Gene Nomenclature Committee">HGNC</th>
         <th title="National Center for Biotechnology Information's Gene database">NCBI Gene</th>
       </thead>
       <tbody>
-        {% for row in genes %}
+        {% for row in page.genes %} 
         <tr>
           <td title="Word in figure as detected by OCR">{{ row["word"] }}</td>
           <td title="Transformed word that matched lexicon">{{ row["symbol"] }}</td>
@@ -119,15 +120,16 @@ layout: default
     
     <br /><hr />
     <h2 id="chemicals">Chemical mentions
-      {% assign data-chems = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-chemicals.tsv" %}
-      <a href="{{ data-chems }}"
+      <!-- {% assign data-chems = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-chemicals.tsv" %} -->
+      <a href="https://github.com/wikipathways/pfocr-database/blob/main/{{ page.path }}"
       target="_blank">
         <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
           <i class="fa fa-pencil"></i>
         </span>
       </a></h2>
-      {% assign figid-chems = page.figid | append: "-chemicals" %}
-      {% assign chems=site.data[figid-chems] %}
+      <!-- {% assign figid-chems = page.figid | append: "-chemicals" %} -->
+      <!-- {% assign chems=site.data[figid-chems] %} -->
+      {% assign chems=page.chemicals %}
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
@@ -162,15 +164,16 @@ layout: default
 
       <br /><hr />
       <h2 id="diseases">Disease mentions
-        {% assign data-dis = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-diseases.tsv" %}
-        <a href="{{ data-dis }}"
+        <!-- {% assign data-dis = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-diseases.tsv" %} -->
+        <a href="https://github.com/wikipathways/pfocr-database/blob/main/{{ page.path }}"
         target="_blank">
           <span title="Edit diseases" style="color: #666; font-size: 0.8em;">
             <i class="fa fa-pencil"></i>
           </span>
         </a></h2>
-        {% assign figid-dis = page.figid | append: "-diseases" %}
-        {% assign dis=site.data[figid-dis] %}
+        <!-- {% assign figid-dis = page.figid | append: "-diseases" %} -->
+        <!-- {% assign dis=site.data[figid-dis] %} -->
+        {% assign dis=page.diseases %}
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>

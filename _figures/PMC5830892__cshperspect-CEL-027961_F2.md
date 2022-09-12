@@ -1,5 +1,5 @@
 ---
-figid: PMC5830892__cshperspect-CEL-027961_F2.jpg
+figid: PMC5830892__cshperspect-CEL-027961_F2
 figlink: pmc/articles/PMC5830892/figure/A027961F2/
 number: Figure 2
 caption: FERM-binding partners of Crumbs3. Through its FERM-binding domain (rectangle),
@@ -45,4 +45,47 @@ schema-jsonld:
   - ACTG2
   - ETV5
   - YY1AP1
+genes:
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTA1
+  entrez: '58'
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTA2
+  entrez: '59'
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTG1
+  entrez: '71'
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTB
+  entrez: '60'
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTC1
+  entrez: '70'
+- word: Actin
+  symbol: Actin
+  source: bioentities_symbol
+  hgnc_symbol: ACTG2
+  entrez: '72'
+- word: ERM
+  symbol: ERM
+  source: hgnc_alias_symbol
+  hgnc_symbol: ETV5
+  entrez: '2119'
+- word: Yap
+  symbol: YAP
+  source: hgnc_alias_symbol
+  hgnc_symbol: YY1AP1
+  entrez: '55249'
+chemicals: []
+diseases: []
 ---
