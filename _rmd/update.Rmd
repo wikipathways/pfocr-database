@@ -61,7 +61,7 @@ dis <- dplyr::filter(dis, figid %in% keep)
 ## Produce md and tsv
 ```{r md}
 
-test.figs = figs[1:10,]
+test.figs = figs[101:1000,]
 by(test.figs, seq_len(nrow(test.figs)), function(f){
   fls = as.list(f)
   fid = tools::file_path_sans_ext(fls$figid)
@@ -133,15 +133,15 @@ by(test.figs, seq_len(nrow(test.figs)), function(f){
   
   # write tsvs for download
   if (nrow(tbg) > 0){
-    gfp = file.path("..","_data",paste0(fid,"-genes.tsv"))
+    gfp = file.path("..","download",paste0(fid,"-genes.tsv"))
     write.table(tbg, gfp, row.names = F, col.names = T, sep = "\t", quote = F)
   }
   if (nrow(tbc) > 0){
-    cfp = file.path("..","_data",paste0(fid,"-chemicals.tsv"))
+    cfp = file.path("..","download",paste0(fid,"-chemicals.tsv"))
     write.table(tbc, cfp, row.names = F, col.names = T, sep = "\t", quote = F)
   }
   if (nrow(tbd) > 0){
-    dfp = file.path("..","_data",paste0(fid,"-diseases.tsv"))
+    dfp = file.path("..","download",paste0(fid,"-diseases.tsv"))
     write.table(tbd, dfp, row.names = F, col.names = T, sep = "\t", quote = F)
   }
 } )

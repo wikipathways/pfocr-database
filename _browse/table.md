@@ -11,14 +11,13 @@ btn-class: "btn-front"
   <col style="width:500px" />
   <col style="width:75px" />
   <col style="width:auto" />
-  <col style="width:120px" />
   <!-- NOTE: SORT IS TOO SLOW FOR FULL TABLE -->
   <th>Figure Title
   <span id="sortable" onclick="sortTable(0)" title="Sort by title" style="color: #666;"><i class="fa fa-sort"></i></span>
   <br /><input type="text" id="0" style="width:250px;" onkeyup="filterTable()"></th>
   <th>Year
   <span id="sortable" onclick="sortTable(1)" title="Sort by year" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="1" style="width:70px;" onkeyup="filterTable()"></th>
+  <br /><input type="text" id="1" style="width:50px;" onkeyup="filterTable()"></th>
   <th>Organism
   <span id="sortable" onclick="sortTable(2)" title="Sort by organism" style="color: #666;"><i class="fa fa-sort"></i></span>
   <br /><input type="text" id="2" style="width:100px;" onkeyup="filterTable()"></th>
@@ -222,7 +221,7 @@ function sortTable(n) {
             break;
           }
         }
-      }
+      } 
     }
     if (shouldSwitch) {
       rows[visibleRows[r]].parentNode.insertBefore(rows[visibleRows[r + 1]], rows[visibleRows[r]]);

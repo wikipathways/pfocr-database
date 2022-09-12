@@ -90,11 +90,11 @@ btn-class: "btn-front"
             <th style="display:none;">Pathway Terms<br /><input type="text" id="pwo" style="width:50px;" onkeyup="filterTable()"></th>
             <th style="display:none;">Disease Terms<br /><input type="text" id="dio" style="width:50px;" onkeyup="filterTable()"></th>
             <th style="display:none;">Cell Types<br /><input type="text" id="cto" style="width:50px;" onkeyup="filterTable()"></th>
-            <th style="display:none;" >wpid</th>
-            <th style="display:none;" >title</th>
+            <th style="display:none;" >figid</th>
+            <th style="display:none;" >figtitle</th>
             <th style="display:none;" >url</th>
             <th style="display:none;" >firstorg</th>
-            <th style="display:none;" >lastedited</th>
+            <th style="display:none;" >year</th>
             {% assign pw-sorted = site.figures | sort: "title" %}
             {% for pw in pw-sorted %}
               {% assign pw-type-group = pw.annotations | group_by: "type" %}
@@ -119,11 +119,11 @@ btn-class: "btn-front"
                     </div>
                   </td>
                 {% endfor %}
-                <td style="display:none;" >{{ pw.wpid }}</td>
-                <td style="display:none;" >{{ pw.title }}</td>
+                <td style="display:none;" >{{ pw.figid }}</td>
+                <td style="display:none;" >{{ pw.figtitle }}</td>
                 <td style="display:none;" >{{ pw.url }}</td>
                 <td style="display:none;" >{{ pw.organisms.first }}</td>
-                <td style="display:none;" >{{ pw.last-edited }}</td> 
+                <td style="display:none;" >{{ pw.year }}</td> 
               </tr>
             {% endfor %}
         </table>
@@ -227,7 +227,7 @@ function filterTable() {
     if (tr[i].style.display == "" && i > 0){
       j++;
       cardVars = {};
-      cardVars["wpid"] = tr[i].cells[5].innerText;
+      cardVars["figid"] = tr[i].cells[5].innerText;
       cardVars["title"] = tr[i].cells[6].innerText;
       cardVars["url"] = tr[i].cells[7].innerText;
       cardVars["org"] = tr[i].cells[8].innerText;
@@ -254,18 +254,6 @@ for (var index = 0; index < interests.length; index++) {
         //console.log(checkbox.value + " changed to " + checkbox.checked); 
         orgList = $("input:checkbox[name=organisms]:checked").map(function(){return $(this).val()}).get();
         document.getElementById('org').value = orgList;
-        filterTable();
-    }); 
-}
-// Listen for community checkboxes
-var comList = []
-var interests = document.querySelectorAll("[name=communities"); 
-for (var index = 0; index < interests.length; index++) { 
-    interests[index].addEventListener("change", function(evt){ 
-        var checkbox = evt.target; 
-        //console.log(checkbox.value + " changed to " + checkbox.checked); 
-        comList = $("input:checkbox[name=communities]:checked").map(function(){return $(this).val()}).get();
-        document.getElementById('com').value = comList;
         filterTable();
     }); 
 }
@@ -308,19 +296,17 @@ for (var index = 0; index < interests.length; index++) {
 
 
 // URL PARAMETERS
-var orgList, comList, pwoList, dioList, ctoList;
+var orgList, pwoList, dioList, ctoList;
 var url_string = window.location.href;
 var url = new URL(url_string);
 if (url.searchParams.toString().length > 0){
   orgList = url.searchParams.get("Organism");
-  comList = url.searchParams.get("Community");
   pwoList = url.searchParams.get("Pathway Ontology");
   dioList = url.searchParams.get("Disease Ontology");
   ctoList = url.searchParams.get("Cell Type Ontology");
 } else {
   // Check org:human by default if no other parameters
   orgList = "Homo sapiens"; 
-  comList = null;
   pwoList = null;
   dioList = null;
   ctoList = null;
@@ -344,14 +330,6 @@ orgList.split(",").forEach(key => {
   document.getElementById("organisms").classList.add('hide');
   document.getElementById("organisms").classList.remove('show');
 }
-if(null != comList){
-  document.getElementById("communities").classList.add('show');
-  document.getElementById("communities").classList.remove('hide'); 
-comList.split(",").forEach(key => {
-  var checkbox = document.querySelectorAll(`input[type='checkbox'][name='communities'][value=${CSS.escape(key)}]`)[0];
-  checkbox.checked = true;
-  checkbox.dispatchEvent(event);
-});
 } else {
   document.getElementById("communities").classList.add('hide');
   document.getElementById("communities").classList.remove('show');
