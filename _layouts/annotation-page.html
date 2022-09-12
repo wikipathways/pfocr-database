@@ -10,48 +10,14 @@ layout: default
       </a>
     </h2>
     <p>{{ page.definition }}</p>
-    <ul class="nav nav-tabs">
-      <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#gallery">Gallery</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" href="#list">List</a>
-      </li> 
-    </ul>
-    {% assign sorted_figures = site.figures | sort: "title" %}
-    <div class="tab-content" >
-      <div class="tab-pane fade show active" id="gallery" role="tabpanel">
-        <br/>
-    <div class="row">
-      {% for pw in sorted_figures %}
-        {% assign annot-values= pw.annotations | where: "type", page.type | map: "parent" %}
-        {% if annot-values contains page.value %}
-          <div class="col-sm-auto">
-            <div class="card" style="width: 10rem;">
-              <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
-              <div class="card-body">
-                <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em></p>
-              </div>
-              </a>
-            </div>
-          </div> 
-          {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  <div class="tab-pane fade" id="list" role="tabpanel">
-    <br/>
-    <div class="row" style="margin-left: 10px;">
+    <hr/>
+    {% assign sorted_figures = site.figures | sort: "year" | reverse %}
       <ul>
         {% for pw in sorted_figures %}
           {% assign annot-values= pw.annotations | where: "type", page.type | map: "parent" %}
           {% if annot-values contains page.value %}
-              <li><a href="{{ pw.url }}">{{ pw.title }} <em>({{ pw.organisms.first }})</em></a></li>
+              <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms.first }})</em></a></li>
           {% endif %}
         {% endfor %}
       </ul>
-    </div>  
-  </div>
-</div>
 <br/><hr/>

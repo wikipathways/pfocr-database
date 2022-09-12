@@ -4,46 +4,13 @@ layout: default
 <a class="btn btn-sm btn-pill btn-organism" style="float: right;" href="/browse/organisms.html">Organisms</a>
 <h1 id="title"> {{ page.title }}</h1>
     <p>This is an organism page.</p>
-    <ul class="nav nav-tabs">
-      <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#gallery">Gallery</a>
-      </li> 
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" href="#list">List</a>
-      </li>
-    </ul>
-    {% assign sorted_figures = site.figures | sort: "title" %}
-    <div class="tab-content" >
-      <div class="tab-pane fade show active" id="gallery" role="tabpanel">
-        <br/>
-    <div class="row">
-      {% for pw in sorted_figures %}
-        {% if pw.organisms contains page.latin %}
-          <div class="col-sm-auto">
-            <div class="card" style="width: 10rem;">
-              <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
-              <div class="card-body">
-                <p class="card-text">{{ pw.title }}</p>
-              </div>
-              </a>
-            </div>
-          </div>
-          {% endif %}
-      {% endfor %} 
-    </div>
-  </div>
-  <div class="tab-pane fade" id="list" role="tabpanel">
-    <br/>
-    <div class="row" style="margin-left: 10px;">
+    <hr/>
+    {% assign sorted_figures = site.figures | sort: "year" | reverse %}
       <ul>
         {% for pw in sorted_figures %}
           {% if pw.organisms contains page.latin %}
-              <li><a href="{{ pw.url }}">{{ pw.title }}</a></li>
+              <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }})</a></li>
           {% endif %}
         {% endfor %}
       </ul>
-    </div>  
-  </div>
-</div>
-<br/><hr/>
+<br/><hr/> 

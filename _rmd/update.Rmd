@@ -1,0 +1,120 @@
+---
+title: "stats"
+author: "Alex"
+date: "9/11/2022"
+# output: html_document
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# PFOCR Update
+This R notebooks prepares md and tsv files from the latest PFOCR rds files and overwrites the Jekyll web content. ***Be sure to extract any curated content and merge with latest rds files prior to this updating.***
+ 
+```{r install, include=FALSE}
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(tools)
+library(yaml)
+```
+
+## Read PFOCR .rds files
+Set the path to these files
+```{r setpath, include=FALSE}
+local.path <- "/Users/alexpico/Dropbox (Gladstone)/Pathway Figure OCR/LATEST"
+```
+
+Read in files
+```{r read}
+figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
+years <- readRDS(file.path(local.path,"pfocr_years.rds"))
+genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
+chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
+dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
+```
+
+## Prefilter for gene and chem content
+```{r prefilter}
+keep.g <- genes %>%
+  group_by(figid, symbol) %>% # count unique matches (avoids overcounting bioentities)
+  summarise(cnt = n()) %>%
+  dplyr::filter(cnt >= 3) %>%
+  dplyr::distinct(figid)
+keep.c <- chems %>%
+  group_by(figid, word) %>% # count unique matches
+  summarise(cnt = n()) %>%
+  dplyr::filter(cnt >= 3) %>%
+  dplyr::distinct(figid) 
+keep <- union(unlist(keep.g),unlist(keep.c))
+
+figs <- dplyr::filter(figs, figid %in% keep)
+genes <- dplyr::filter(genes, figid %in% keep)
+chems <- dplyr::filter(chems, figid %in% keep)
+dis <- dplyr::filter(dis, figid %in% keep)
+```
+
+## Produce md
+```{r md}
+
+test.figs = figs[1:10,]
+by(test.figs, seq_len(nrow(test.figs)), function(f){
+  fls = as.list(f)
+  fid = tools::file_path_sans_ext(fls$figid)
+  ffp = file.path("..","_figures",paste(fid,"md",sep = "."))
+  print(ffp)
+  # tweak content
+  fls$organisms = as.list(fls$organism) 
+  fls$organism = NULL
+  if (is.na(fls$year)){fls$year = ''}
+  
+  # get ndex
+  ndex = list(ndex = "")
+  
+  # get annotations
+  annots = list(annotations = list())
+  
+  # get keywords
+  kwg = genes %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::distinct(hgnc_symbol)
+  kwc = chems %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::distinct(word)
+  kwd = dis %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::distinct(word)
+  
+  keywords = c(unlist(kwg), unlist(kwc), unlist(kwd))
+  
+  # build schema
+  schema = list(seo = "CreativeWork",
+                "schema-jsonld" = list("@context"="https://schema.org/",
+                                   "@id"=paste0("https://pfocr.wikipathways.org/figures/",
+                                                                        fid, ".html"),
+                                   "@type"="Dataset",
+                                   description = fls$caption,
+                                   license = "CC0",
+                                   name = "CreativeWork",
+                                   creator = list("@type"="Organization",
+                                                  name = "WikiPathways"),
+                                   keywords = keywords))
+  # write to md file
+  con <- file(ffp, "w")
+  write("---", con)
+  yaml::write_yaml(fls, con)
+  yaml::write_yaml(ndex, con)
+  yaml::write_yaml(annots, con)
+  yaml::write_yaml(schema, con)
+  write("---", con)
+  
+  
+  close.connection(con)
+} )
+
+```
+

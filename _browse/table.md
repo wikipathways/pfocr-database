@@ -12,42 +12,34 @@ btn-class: "btn-front"
   <col style="width:75px" />
   <col style="width:auto" />
   <col style="width:120px" />
-  <th>Pathway Title
   <!-- NOTE: SORT IS TOO SLOW FOR FULL TABLE -->
+  <th>Figure Title
   <span id="sortable" onclick="sortTable(0)" title="Sort by title" style="color: #666;"><i class="fa fa-sort"></i></span>
   <br /><input type="text" id="0" style="width:250px;" onkeyup="filterTable()"></th>
-  <th>ID
-  <span id="sortable" onclick="sortTable(1)" title="Sort by ID" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="1" style="width:50px;" onkeyup="filterTable()"></th>
+  <th>Year
+  <span id="sortable" onclick="sortTable(1)" title="Sort by year" style="color: #666;"><i class="fa fa-sort"></i></span>
+  <br /><input type="text" id="1" style="width:70px;" onkeyup="filterTable()"></th>
   <th>Organism
   <span id="sortable" onclick="sortTable(2)" title="Sort by organism" style="color: #666;"><i class="fa fa-sort"></i></span>
   <br /><input type="text" id="2" style="width:100px;" onkeyup="filterTable()"></th>
-  <th>Last Edited
-  <span id="sortable" onclick="sortTable(3)" title="Sort by last edited date" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="3" style="width:70px;" onkeyup="filterTable()"></th>
-  <th>Communities
-  <span id="sortable" onclick="sortTable(4)" title="Sort by communities" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="4" style="width:100px;" onkeyup="filterTable()"></th>
   <th>Pathway Terms
-  <span id="sortable" onclick="sortTable(5)" title="Sort by pathway ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="5" style="width:100px;" onkeyup="filterTable()"></th>
+  <span id="sortable" onclick="sortTable(3)" title="Sort by pathway ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
+  <br /><input type="text" id="3" style="width:100px;" onkeyup="filterTable()"></th>
   <th>Disease Terms
-  <span id="sortable" onclick="sortTable(6)" title="Sort by disease ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="6" style="width:100px;" onkeyup="filterTable()"></th>
+  <span id="sortable" onclick="sortTable(4)" title="Sort by disease ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
+  <br /><input type="text" id="4" style="width:100px;" onkeyup="filterTable()"></th>
   <th>Cell Types
-  <span id="sortable" onclick="sortTable(7)" title="Sort by cell type ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
-  <br /><input type="text" id="7" style="width:100px;" onkeyup="filterTable()"></th>
-  {% assign pw-sorted = site.figures | sort: "title" %}
+  <span id="sortable" onclick="sortTable(5)" title="Sort by cell type ontology terms" style="color: #666;"><i class="fa fa-sort"></i></span>
+  <br /><input type="text" id="5" style="width:100px;" onkeyup="filterTable()"></th>
+  {% assign pw-sorted = site.figures | sort: "year" | reverse %}
   {% for pw in pw-sorted %}
   {% assign pw-type-group = pw.annotations | group_by: "type" %}
   <tr>
-    <td title="{{ pw.title }}" style="overflow: hidden; max-height: 50px; white-space: nowrap; text-overflow: ellipsis;">
-      <a href="{{ pw.url }}">{{ pw.title }}</a>
+    <td title="{{ pw.figtitle }}" style="overflow: hidden; max-height: 50px; white-space: nowrap; text-overflow: ellipsis;">
+      <a href="{{ pw.url }}">{{ pw.figtitle }}</a>
     </td>
-    <td>{{ pw.wpid }}</td>
+    <td>{{ pw.year}}</td>
     <td title="{{ pw.organisms | join: ", "}}">{{ pw.organisms | join: ", "}}</td>
-    <td>{{ pw.last-edited | date_to_string}}</td>
-    <td title="{{ pw.communities | join: ", "}}">{{ pw.communities | join: ", "}}</td>
     {% for type in type-group %}  
       {% assign pw-items = "" %}
       {% for pw-type in pw-type-group %}
@@ -97,14 +89,12 @@ var url_string = window.location.href;
 var url = new URL(url_string);
 if (url.searchParams.toString().length > 0){
   orgList = url.searchParams.get("Organism");
-  comList = url.searchParams.get("Community");
   pwoList = url.searchParams.get("Pathway Ontology");
   dioList = url.searchParams.get("Disease Ontology");
   ctoList = url.searchParams.get("Cell Type Ontology");
 } else {
   // Any defaults if no parameters provided
   orgList = null;
-  comList = null;
   pwoList = null;
   dioList = null;
   ctoList = null;
@@ -112,10 +102,9 @@ if (url.searchParams.toString().length > 0){
 }  
 // console.log(dioList);
 document.getElementById(2).value = orgList;
-document.getElementById(4).value = comList;
-document.getElementById(5).value = pwoList;
-document.getElementById(6).value = dioList;
-document.getElementById(7).value = ctoList;
+document.getElementById(3).value = pwoList;
+document.getElementById(4).value = dioList;
+document.getElementById(5).value = ctoList;
 filterTable();
 
 function filterTable() {
@@ -210,17 +199,7 @@ function sortTable(n) {
       /* Check if the two rows should switch place,
       based on the direction, asc or desc: */
       if (dir == "asc") {
-        if (n == 3){ // Date
-          if (new Date(x.innerHTML) > new Date(y.innerHTML)) {
-            shouldSwitch = true;
-            break;
-          }
-        } else if (n == 1) { // WPID (numeric part)
-          if (x.innerHTML.split("WP")[1] > y.innerHTML.split("WP")[1]) {
-            shouldSwitch = true;
-            break;
-          }
-        } else if (n == 0) { // hyperlinked title
+        if (n == 0) { // hyperlinked title
           if (x.innerHTML.toLowerCase().split(">")[1] > y.innerHTML.toLowerCase().split(">")[1]) {
             shouldSwitch = true;
             break;
@@ -232,12 +211,7 @@ function sortTable(n) {
           }
         }
       } else if (dir == "desc") {
-        if (n == 3){ // Date
-          if (new Date(x.innerHTML) < new Date(y.innerHTML)) {
-            shouldSwitch = true;
-            break;
-          }
-        } else if (n == 0) { // hyperlinked title
+        if (n == 0) { // hyperlinked title
           if (x.innerHTML.toLowerCase().split(">")[1] < y.innerHTML.toLowerCase().split(">")[1]) {
             shouldSwitch = true;
             break;

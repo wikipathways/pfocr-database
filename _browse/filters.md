@@ -66,36 +66,18 @@ btn-class: "btn-front"
       </section>
     </div> <!-- End checkboxes div -->
     <div class="col-sm" id="tabs">
-      <ul class="nav nav-tabs" style="float:left; margin-left: 0px;">
-        <li class="nav-item">
-          <a class="nav-link active" data-toggle="tab" href="#gallery">Gallery</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#list">List</a>
-        </li>
-      </ul>
       <div id="sortable" style="margin-left:300px;"> 
       <button type="button" class="btn btn-sm btn-outline-secondary" onclick="sortTable(6)" title="Sort by title">Title <i class="fa fa-sort"></i></button>
       <button type="button" class="btn btn-sm btn-outline-secondary" onclick="sortTable(5)" title="Sort by ID">ID <i class="fa fa-sort"></i></button>
       <button type="button" class="btn btn-sm btn-outline-secondary" onclick="sortTable(9)" title="Sort by last edited date">Date <i class="fa fa-sort"></i></button>
       </div>
       <div class="tab-content"  style="clear:both;">
-        <div class="tab-pane fade show active" id="gallery" role="tabpanel">
-          <br/>
-          <div class="row" id="pwcards" style="margin-right: 0px; margin-left: 0px;">
-            <!-- Add cards here -->
-          </div>
-          <br/>
-          <input type="button" class="badge badge-secondary" id="cardsMore" value="show more" style="">
-        </div>
-        <div class="tab-pane fade" id="list" role="tabpanel">
           <br/>
           <ul id="pwlist" style="margin-left: 0px; list-style-type: none">
             <!-- Add list here -->
           </ul>
-        </div>
-      </div> 
-    </div> <!-- End tabs -->
+      </div>
+    </div>
   </div> <!-- End row -->
   <div class="col-sm" id="hidden-table">
     <div class="row">
@@ -157,7 +139,6 @@ var sortDiv = document.getElementById("sortable");
 var btnMore = $("#cardsMore");
 var table = document.getElementById("myTable");
 var tr = table.getElementsByTagName("tr");
-var cardDiv = document.getElementById('pwcards');
 var listDiv = document.getElementById('pwlist');
 var fils = {
   'org':0,
@@ -199,7 +180,6 @@ function filterTable() {
   emptyFils = [];
   cardVars = {};
   cardVarsMore = [];
-  cardDiv.innerHTML = "";
   listDiv.innerHTML = "";
   j = 0;
   btnMore.hide();
@@ -413,16 +393,6 @@ ctoList.split(",").forEach(key => {
   document.getElementById("cell_type_ontology").classList.remove('show');
 }
 
-// function to add card
-function addCard(c){
-  cardDiv.innerHTML += '<div class="col-sm-auto">' +
-    '<div class="card" style="width: 10rem;">' +
-      '<a class="card-link" href="'+c["url"]+'">' +
-        '<img class="card-img-top" src="/assets/img/'+c["wpid"]+'/'+c["wpid"]+'-thumb.png" alt="'+c["title"]+'>' +
-        '<div class="card-body">' +
-          '<p class="card-text">'+c["title"]+' <em>('+c["org"]+')</em></p>' +
-  '</div></a></div></div>';
-}
 // function to add item to list
 function addList(c){
   listDiv.innerHTML += '<li><a href="'+c["url"]+'">'+c["title"]+' <em>('+c["org"]+')</em></a></li>';
