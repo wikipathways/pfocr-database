@@ -33,9 +33,10 @@ btn-class: "btn-front"
   {% assign pw-sorted = site.figures | sort: "year" | reverse %}
   {% for pw in pw-sorted %}
   {% assign pw-type-group = pw.annotations | group_by: "type" %}
+  {% assign clean-title = pw.figtitle | remove: "'" | remove: '"' %}
   <tr>
-    <td title="{{ pw.figtitle }}" style="overflow: hidden; max-height: 50px; white-space: nowrap; text-overflow: ellipsis;">
-      <a href="{{ pw.url }}">{{ pw.figtitle }}</a>
+    <td title="{{ clean-title }}" style="overflow: hidden; max-height: 50px; white-space: nowrap; text-overflow: ellipsis;">
+      <a href="{{ pw.url }}">{{ clean-title }}</a>
     </td>
     <td>{{ pw.year}}</td>
     <td title="{{ pw.organisms | join: ", "}}">{{ pw.organisms | join: ", "}}</td>
