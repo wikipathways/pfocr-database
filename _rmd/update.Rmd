@@ -42,15 +42,18 @@ dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 ```{r prefilter}
 keep.g <- genes %>%
   group_by(figid, symbol) %>% # count unique matches (avoids overcounting bioentities)
+  group_by(figid) %>% 
   summarise(cnt = n()) %>%
   dplyr::filter(cnt >= 3) %>%
   dplyr::distinct(figid)
 keep.c <- chems %>%
   group_by(figid, word) %>% # count unique matches
+  group_by(figid) %>% 
   summarise(cnt = n()) %>%
   dplyr::filter(cnt >= 3) %>%
   dplyr::distinct(figid) 
 keep <- union(unlist(keep.g),unlist(keep.c))
+# unkept <- setdiff(figs$figid, keep) # to do the small and empty ones as well
 
 figs <- dplyr::filter(figs, figid %in% keep)
 genes <- dplyr::filter(genes, figid %in% keep)
@@ -61,9 +64,9 @@ dis <- dplyr::filter(dis, figid %in% keep)
 ## Produce md and tsv
 ```{r md}
 
-test.figs = figs[10001:nrow(figs),]
+batch.figs = figs[1:10,]
 
-by(test.figs, seq_len(nrow(test.figs)), function(f){
+by(test.figs, seq_len(nrow(batch.figs)), function(f){
   fls = as.list(f)
   fid = tools::file_path_sans_ext(fls$figid)
   ffp = file.path("..","_figures",paste(fid,"md",sep = "."))
