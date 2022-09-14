@@ -30,20 +30,44 @@ layout: default
     <button class="dropdown-item copy-btn" type="button" to-copy="{{ site.url }}{{ page.url }}">Copy permalink</button>
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/{{page.figlink}}" target="_blank">View figure at PMC</a>
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}" target="_blank">Read paper at PMC</a>
-    {% if page.ndex %}
-    <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open in NDEx</a>
+    {% if page.wpid and page.wpid != '' %}
+    <a class="dropdown-item" href="https://www.wikipathways.org/instance/{{ page.wpid }}" target="_blank">Open at WikiPathways</a>
+    {% endif %}
+    {% if page.ndex and page.ndex != '' %}
+    <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open at NDEx</a>
     {% endif %}
     <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" target="_blank">Download JPG</a>
     <a class="dropdown-item" href="" target="_blank">Download GPML</a>
     </div> 
   </div>
-  
+  <!-- This badge is updated by Jekyll via the value of "pmcid" in each pathway .md-->
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}"
+    target="_blank">
+    <img alt="PMC"
+    src="https://img.shields.io/static/v1?label=PMC&message={{ page.pmcid }}&color=blue">
+  </a>
+  <!-- This badge is updated by Jekyll via the value of "ndex" in each pathway .md-->
+  {% if page.ndex and page.ndex != '' %}
+  {% assign ndex-short =  page.ndex | truncate: 8 %}
+  <a href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}"
+    target="_blank">
+    <img alt="NDEx"
+    src="https://img.shields.io/static/v1?label=NDEx&message={{ ndex-short }}&color=brightgreen">
+  </a>
+  {% endif %}
+  <!-- This badge is updated by Jekyll via the value of "wpid" in each pathway .md-->
+  {% if page.wpid and page.wpid != '' %}
+  <a href="https://www.wikipathways.org/instance/{{ page.wpid }}"
+    target="_blank">
+    <img alt="WikiPathways"
+    src="https://img.shields.io/static/v1?label=WikiPathways&message={{ page.wpid }}&color=orange">
+  </a>
+  {% endif %}
   <div>
     <h2 id="publication">Publication</h2>
     {{ page.papertitle }} ({{ page.year }})
       <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}"
       target="_blank">{{ page.reftext}} </a>
-
     <h2 id="organism">Organisms
       <a href="https://github.com/wikipathways/pfocr-database/blob/main/{{ page.path }}"
       target="_blank">
