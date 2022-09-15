@@ -110,7 +110,13 @@ layout: default
       <!-- {% assign figid-genes = page.figid | append: "-genes" %} -->
       <!-- {% assign genes=site.data[figid-genes] %} -->
       <!-- {% assign genes=page.genes %} -->
-      <table id="participants-table"> 
+      {% assign pv-datanodes-genes = '<?xml version="1.0" encoding="UTF-8"?>
+      <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="untitled" Data-Source="COPIED">
+        '  %}
+        {% assign GraphIdNum = 1000 %}
+        {% assign CenterX = 100 %}
+        {% assign CenterY = 100 %}
+        <table id="participants-table"> 
       <thead>
         <th title="Word in figure as detected by OCR">Word</th>
         <th title="Transformed word that matched lexicon">Match</th>
@@ -120,6 +126,17 @@ layout: default
       </thead>
       <tbody>
         {% for row in page.genes %} 
+        {% assign GraphId = "a" | append: GraphIdNum %}
+        {% assign datanode = '<DataNode TextLabel="' | append: row["hgnc_symbol"] 
+        | append: '" GraphId="' | append: GraphId 
+        | append: '" Type="GeneProduct">
+          <Graphics CenterX="' | append: CenterX 
+        | append: '" CenterY="' | append: CenterY 
+        | append: '" Width="90.0" Height="25.0" ZOrder="33000" FontSize="12" Valign="Middle" />
+          <Xref Database="Entrez Gene" ID="' | append: row["entrez"] | append: '" />
+        </DataNode>
+        ' %}
+        {% assign pv-datanodes-genes = pv-datanodes-genes | append: datanode %}
         <tr>
           <td title="Word in figure as detected by OCR">{{ row["word"] }}</td>
           <td title="Transformed word that matched lexicon">{{ row["symbol"] }}</td>
@@ -127,7 +144,16 @@ layout: default
           <td title="Visit HGNC page"><a href='https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/{{ row["hgnc_symbol"] }}' target="_blank">{{ row["hgnc_symbol"] }}</a></td>
           <td title="Visit NCBI Gene page"><a href='https://www.ncbi.nlm.nih.gov/gene/{{ row["entrez"] }}' target="_blank">{{ row["entrez"] }}</a></td>
         </tr>
+        {% assign GraphIdNum = GraphIdNum | plus: 1 %}
+        {% assign CenterY = CenterY | plus: 25 %}
+        {% assign rowCheck = GraphIdNum | modulo: 10 %}
+        {% if rowCheck == 0 %}
+          {% assign CenterX = CenterX | plus: 100 %}
+          {% assign CenterY = 100 %}
+        {% endif %}
         {% endfor %}
+        {% assign pv-datanodes-genes = pv-datanodes-genes | append: '<InfoBox CenterX="0.0" CenterY="0.0" />
+      </Pathway>' | escape %}
       </tbody>
     </table> 
     <div class="dropdown" style="float:right; margin-top: -13px;">
@@ -137,6 +163,7 @@ layout: default
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes">
       <a class="dropdown-item" href="https://gitcdn.link/cdn/wikipathways/pfocr-database/main/download/{{ page.figid }}-genes.tsv">Download TSV</a>
+      <button class="dropdown-item pvg-btn" type="button" to-pvg="{{ pv-datanodes-genes }}">Copy DataNodes for PathVisio</button>
       </div>
     </div>
     <input type="button" class="badge badge-secondary" id="tableMore" value="more rows" style="float: left; margin-top: -8px;">
@@ -374,4 +401,18 @@ layout: default
         console.log('Something went wrong', err);
       })
   });
+
+  const pvgBtn = document.querySelector('.pvg-btn');
+  const toPvg = document.querySelector('.pvg-btn').getAttribute('to-pvg');
+
+  pvgBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(toPvg)
+      .then(() => {
+        toPvg.value = '';
+      })
+      .catch(err => {
+        console.log('Something went wrong', err);
+      })
+  });
+
 </script>
