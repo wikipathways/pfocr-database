@@ -1,0 +1,64 @@
+---
+title: "ndex"
+author: "Alex"
+date: "9/12/2022"
+# output: html_document
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# PFOCR NDEx update
+This R notebooks updates the ndex field in the frontmatter of pathway figure md files based on updates to a tsv mapping file. 
+ 
+```{r install, include=FALSE}
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(tools)
+library(yaml)
+```
+
+## Update mapping file via NDEx API
+Run this after new uploads to NDEx in order to update the local mapping file. 
+***Do not include this chunk in the GitHub action (use eval=FALSE).***
+***This chunk can take ~3 hours to run!***
+```{r ndex-api, eval=FALSE}
+library(RJSONIO)
+library(httr)
+library(utils)
+
+get.networkset <- "http://www.ndexbio.org/v2/networkset/85034b42-de8a-11ea-99da-0ac135e8bacf"
+res <- GET(url=URLencode(get.networkset))
+res.char <- rawToChar(res$content)
+res.json <- RJSONIO::fromJSON(res.char)
+pfocr.ndex <- res.json$networks
+
+for(i in seq(1, length(pfocr.ndex), by=10)){ # ten at a time, write as we go
+  pfocr.ndex.sub <- pfocr.ndex[i:(i+9)]
+  pfocr.figid <- unlist(lapply(pfocr.ndex.sub, function(n){
+    if (!is.na(n)){
+      get.summary <- paste("http://www.ndexbio.org/v2/network",n,"summary", sep = "/")
+      res <- GET(url=URLencode(get.summary))
+      res.char <- rawToChar(res$content)
+      res.json <- RJSONIO::fromJSON(res.char)
+      figid <- res.json$properties[[10]]$value
+      tools::file_path_sans_ext(figid)
+    }
+  }))
+  ndex.figid.df <- data.frame(pfocr.figid, pfocr.ndex.sub)
+  write.table(ndex.figid.df, "../_data/ndex_map.tsv", sep = "\t",
+              row.names = F, col.names = F, quote = F, append = T) #APPEND
+  Sys.sleep(2) # give ndex api a break
+}
+```
+
+## Update md files
+This chunk should be run as part of a GitHub action triggerd by changes to the mapping tsv file.
+```{r update}
+
+```
