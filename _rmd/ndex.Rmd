@@ -1,5 +1,5 @@
 ---
-title: "ndex"
+title: "ndex-get"
 author: "Alex"
 date: "9/12/2022"
 # output: html_document
@@ -12,20 +12,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# PFOCR NDEx update
-This R notebooks updates the ndex field in the frontmatter of pathway figure md files based on updates to a tsv mapping file. 
- 
-```{r install, include=FALSE}
-library(tidyr)
-library(dplyr)
-library(magrittr)
-library(tools)
-library(yaml)
-```
-
 ## Update mapping file via NDEx API
 Run this after new uploads to NDEx in order to update the local mapping file. 
-***Do not include this chunk in the GitHub action (use eval=FALSE).***
 ***This chunk can take ~3 hours to run!***
 ```{r ndex-api, eval=FALSE}
 library(RJSONIO)
@@ -57,8 +45,3 @@ for(i in seq(1, length(pfocr.ndex), by=10)){ # ten at a time, write as we go
 }
 ```
 
-## Update md files
-This chunk should be run as part of a GitHub action triggerd by changes to the mapping tsv file.
-```{r update}
-
-```
