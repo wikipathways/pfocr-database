@@ -50,7 +50,7 @@ updateFrontmatter <- function(field=NULL, file=NULL){
     if(!is.null(oldval))
       if (oldval==newval)
         next
-    cat(sprintf("`%s` field updated in %s", field, ffp))
+    cat(sprintf("`%s` field updated in %s\n", field, ffp))
     con = file(ffp, "w")
     write("---", con)
     md[field] = map.df[i,2]
