@@ -1,6 +1,5 @@
 ---
 layout: table-page
-order: 2
 display-title: "Table"
 btn-class: "btn-front"
 ---

@@ -1,11 +1,10 @@
 ---
-order: 3
 display-title: "Organism"
 btn-class: "btn-organism btn-pill"
 ---
 
 <h1>Pathway Figures by Organism</h1>
-<p>Browse non-human species below to identify pathway figures.</p>
+<p>Browse species below to identify pathway figures.</p>
 {% assign type-group = site.organisms | group_by: "group" | sort: "name" | reverse  %}
 {% for type in type-group %}
 <section class="facet">

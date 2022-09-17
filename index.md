@@ -143,19 +143,15 @@ layout: home2
                 <div class="row mx-auto" style="display:flex; flex-wrap: wrap;">            
                   <div class="col-4 px-0" style="display:flex;"></div>
                   <div class="col-3 mx-auto" style="display:flex;">
-                    <div class="container">
-      {% assign sorted_browse = site.browse | where_exp:"item","item.btn-class contains 'pill'" | sort: "order" %}
-      {% for bp in sorted_browse %}
-        <a class="btn btn-sm {{bp.btn-class}} w-100 my-2" style="font-size:large" href="{{bp.url}}"> {{ bp.display-title }}</a>
-      {% endfor %}           
+                    <div class="container">      
+                    <a class="btn btn-sm btn-front w-100 my-2" style="font-size:large" href="browse/table.html">Table</a>       
+                    <a class="btn btn-sm btn-organism btn-pill w-100 my-2" style="font-size:large" href="browse/organisms.html">Organisms</a> 
                     </div>
                   </div>
                   <div class="col-3 mx-auto>" style="display:flex;">
                     <div class="container">
-      {% assign sorted_browse = site.browse | where:"btn-class","btn-front" | sort: "order" %} 
-      {% for bp in sorted_browse %}
-        <a class="btn btn-sm {{bp.btn-class}} w-100 my-2" style="font-size:large" href="{{bp.url}}"> {{ bp.display-title }}</a>
-      {% endfor %}           
+                    <a class="btn btn-sm btn-wikipathways btn-pill w-100 my-2" style="font-size:large" href="browse/wikipathways.html">WikiPathways</a>     
+                    <a class="btn btn-sm btn-ndex btn-pill w-100 my-2" style="font-size:large" href="browse/ndex.html">NDEx</a>     
                     </div>
                   </div>
                 </div>
