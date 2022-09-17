@@ -20,9 +20,8 @@ pathway_score: 0.6111578
 filename: cshperspect-NFK-000182_F5.jpg
 figtitle: NFKB in conventional T-cell activation
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 680414bd-df35-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

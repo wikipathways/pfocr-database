@@ -17,9 +17,8 @@ pathway_score: 0.9256667
 filename: mSphere.00047-19-f0004.jpg
 figtitle: Mapping of hits in the MAPK signaling pathway
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 57f7194f-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

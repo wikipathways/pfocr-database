@@ -13,9 +13,8 @@ filename: pharmaceuticals-03-01792-g001.jpg
 figtitle: Biosynthetic pathway of leukotrienes (LTs), LT receptors, and mechanisms
   of action of antileukotriene drugs (reproduced with permission from reference [])
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c8b5d12e-deef-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

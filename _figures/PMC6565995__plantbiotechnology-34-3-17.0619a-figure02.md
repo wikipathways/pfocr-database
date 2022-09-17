@@ -13,9 +13,8 @@ filename: plantbiotechnology-34-3-17.0619a-figure02.jpg
 figtitle: Gene coexpression network for trans-1,4-polyisoprene biosynthesis involving
   mevalonate and methylerythritol phosphate pathways in Eucommia ulmoides Oliver
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 9dfc9b6c-dea1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -23,9 +23,8 @@ filename: cshperspect-SYP-009886_F2.jpg
 figtitle: Synaptic Dysfunction in Neurodevelopmental Disorders Associated with Autism
   and Intellectual Disabilities.
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 99c4b89c-de8e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

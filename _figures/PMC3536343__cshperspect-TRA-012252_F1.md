@@ -24,9 +24,8 @@ pathway_score: 0.9348234
 filename: cshperspect-TRA-012252_F1.jpg
 figtitle: MTORC1 signaling to the translational machinery
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d25b428b-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

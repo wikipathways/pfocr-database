@@ -18,9 +18,8 @@ filename: cshperspect-EPI-019331_F10.jpg
 figtitle: Sonic Hedgehog signaling maintains proliferation/self-renewal of cerebellar
   progenitor cells
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 91ffc4e7-df1f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

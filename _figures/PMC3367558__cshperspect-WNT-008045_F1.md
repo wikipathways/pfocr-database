@@ -37,9 +37,8 @@ pathway_score: 0.9508614
 filename: cshperspect-WNT-008045_F1.jpg
 figtitle: Wnt signaling pathways
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0a1ccc19-def3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

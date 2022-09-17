@@ -22,9 +22,8 @@ pathway_score: 0.7215179
 filename: cshperspect-WNT-007948_F1.jpg
 figtitle: Conserved Wnt/Beta-catenin-dependent signaling pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 64d4396f-df32-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

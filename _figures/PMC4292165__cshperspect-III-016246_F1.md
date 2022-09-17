@@ -27,9 +27,8 @@ pathway_score: 0.953234
 filename: cshperspect-III-016246_F1.jpg
 figtitle: Signaling pathway of cell surface TLRs
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: eb285b02-deec-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

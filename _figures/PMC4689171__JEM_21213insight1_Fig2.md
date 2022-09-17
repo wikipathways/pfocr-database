@@ -24,9 +24,8 @@ filename: JEM_21213insight1_Fig2.jpg
 figtitle: IRAK4 inhibition to shut down TLR signaling in autoimmunity and MyD88-dependent
   lymphomas
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c50ac5fb-def6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

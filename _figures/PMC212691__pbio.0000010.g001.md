@@ -25,9 +25,8 @@ filename: pbio.0000010.g001.jpg
 figtitle: Roles of APC and Axin Derived from Experimental and Theoretical Analysis
   of the Wnt Pathway
 year: '2003'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 5685c04b-debe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

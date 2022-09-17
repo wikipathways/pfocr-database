@@ -27,9 +27,8 @@ pathway_score: 0.9444817
 filename: cshperspect-MDV-008151_F2.jpg
 figtitle: Canonical (left) and noncanonical (right) WNT signaling pathways
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 758abe7c-dec2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

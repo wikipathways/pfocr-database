@@ -16,9 +16,8 @@ filename: medscimonit-18-1-BR33-g007.jpg
 figtitle: 'Pathway in MAS and differentially expressed genes: as shown in Figure,
   IGSF4, PTPRC (CD45) and CD3D belong to a family of cell surface adhesion molecules'
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0f3dd772-df20-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

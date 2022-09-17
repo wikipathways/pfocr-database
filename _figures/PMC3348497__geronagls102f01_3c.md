@@ -21,9 +21,8 @@ pathway_score: 0.9587623
 filename: geronagls102f01_3c.jpg
 figtitle: Insulin-like growth factor (IGF)-1 signal transduction
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 00407c8f-dee3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

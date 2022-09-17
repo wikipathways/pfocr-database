@@ -25,9 +25,8 @@ pathway_score: 0.9564605
 filename: cshperspect-TRA-012252_F4.jpg
 figtitle: MAPK signaling to the translational machinery
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: bd43088f-dee7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

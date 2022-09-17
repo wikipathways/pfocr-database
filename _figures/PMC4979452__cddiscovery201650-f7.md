@@ -35,9 +35,8 @@ pathway_score: 0.9197294
 filename: cddiscovery201650-f7.jpg
 figtitle: Cell adhesion
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: f2f5d46c-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

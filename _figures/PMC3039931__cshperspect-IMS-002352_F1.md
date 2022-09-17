@@ -52,9 +52,8 @@ filename: cshperspect-IMS-002352_F1.jpg
 figtitle: Cytoplasmic tyrosine kinases in the activating signaling pathways utilizing
   ITAM-containing adapters
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 2e38e802-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

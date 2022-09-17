@@ -21,9 +21,8 @@ pathway_score: 0.8700704
 filename: cshperspect-MDV-008151_F5.jpg
 figtitle: Notch pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1c496430-deb5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

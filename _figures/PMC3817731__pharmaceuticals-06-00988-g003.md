@@ -14,9 +14,8 @@ filename: pharmaceuticals-06-00988-g003.jpg
 figtitle: Activation of the EGFR pathway and the consequent engagement of the Ras/Raf/MAPK
   and PI3K/Akt pathways
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d97eb3fc-dece-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -17,9 +17,8 @@ pathway_score: 0.7081965
 filename: elife-30883-fig3-figsupp1.jpg
 figtitle: Gene networks with the genes in core from GSEA analysis
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 20c61d17-df30-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

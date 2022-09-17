@@ -18,9 +18,8 @@ filename: bic-suppl.2-2015-025f1.jpg
 figtitle: 'Oncogene Overdose: Too Much of a Bad Thing for Oncogene-Addicted Cancer
   Cells.'
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: aba91445-df25-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

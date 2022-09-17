@@ -21,9 +21,8 @@ pathway_score: 0.9131249
 filename: cddiscovery201771-f2.jpg
 figtitle: Molecular pathways regulated by ZNFs in physiological conditions
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d17894e9-dea2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

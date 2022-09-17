@@ -25,9 +25,8 @@ pathway_score: 0.8397916
 filename: Neurosciences-21-306-g002.jpg
 figtitle: Mechanisms of regulated neurotrophin secretion
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 98dfd1d5-dea0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

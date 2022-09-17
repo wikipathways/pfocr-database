@@ -20,9 +20,8 @@ pathway_score: 0.9431716
 filename: cshperspect-END-020669_F1.jpg
 figtitle: Endocytosis in neurons
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 6852a606-de9d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

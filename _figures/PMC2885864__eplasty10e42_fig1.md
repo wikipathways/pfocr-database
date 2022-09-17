@@ -14,9 +14,8 @@ pathway_score: 0.9220769
 filename: eplasty10e42_fig1.jpg
 figtitle: Nitric oxide signaling pathway
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: ce5d4229-df05-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

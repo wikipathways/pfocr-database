@@ -26,9 +26,8 @@ pathway_score: 0.6304036
 filename: cshperspect-RTK-009076_F3.jpg
 figtitle: TAM-regulated cycle of inflammation in dendritic cells
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 200cdacf-df37-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

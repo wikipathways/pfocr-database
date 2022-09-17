@@ -18,9 +18,8 @@ filename: theoncologist_14475_f2.jpg
 figtitle: Diagrammatic sketch shows the hypothetical mechanism of HOTAIR in digestive
   tract cancers
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 690dd39b-defc-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -26,9 +26,8 @@ filename: cshperspectmed-PCA-026062_F1.jpg
 figtitle: Appropriate activation and feedback control of TP53 activity is critical
   to effective tumor suppression
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: fe069822-dea0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

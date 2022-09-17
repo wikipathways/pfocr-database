@@ -17,9 +17,8 @@ filename: schbulsbq132f04_ht.jpg
 figtitle: Top Networks Associated With MK-801 Treatment Identified by Ingenuity Pathway
   Analysis
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: add773d0-df2a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

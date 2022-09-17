@@ -17,9 +17,8 @@ pathway_score: 0.913985
 filename: cshperspect-JCT-029140_F3.jpg
 figtitle: Trafficking pathways of E-cadherin
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 8c85a158-df10-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

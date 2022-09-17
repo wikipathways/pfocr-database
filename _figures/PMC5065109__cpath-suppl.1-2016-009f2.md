@@ -33,9 +33,8 @@ figtitle: 'Current hypotheses for IFNGamma-mediated effect on NSPC activity.Note
   IFNG binds to the IFNG receptor (IFNGR1 and 2) and activates Janus-activated kinases
   1 and 2 and signal transducers and activators of transcription-1 (JAK-STAT1) pathway'
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 678ff52d-dea1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -23,9 +23,8 @@ filename: geronaglr200f01_3c.jpg
 figtitle: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major
   candidate pathway in human longevity
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 2ea7c352-ded8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

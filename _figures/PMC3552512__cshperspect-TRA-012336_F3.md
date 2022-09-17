@@ -30,9 +30,8 @@ pathway_score: 0.9585009
 filename: cshperspect-TRA-012336_F3.jpg
 figtitle: Oncogenic signals regulate each stage of translation
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: a24b07de-dee3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

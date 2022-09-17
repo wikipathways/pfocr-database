@@ -30,9 +30,8 @@ pathway_score: 0.9438261
 filename: PROCATS5197fig2.jpg
 figtitle: Migration of Airway Smooth Muscle Cells
 year: '2008'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 01ca38d5-df02-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

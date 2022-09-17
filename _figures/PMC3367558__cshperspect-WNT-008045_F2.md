@@ -19,9 +19,8 @@ pathway_score: 0.97509
 filename: cshperspect-WNT-008045_F2.jpg
 figtitle: Wnt signaling at vertebrate neuromuscular junctions
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 41c1b663-dec1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

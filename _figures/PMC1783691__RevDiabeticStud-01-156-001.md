@@ -18,9 +18,8 @@ filename: RevDiabeticStud-01-156-001.jpg
 figtitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabetes
   Mellitus
 year: '2004'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e4f8e859-dea1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

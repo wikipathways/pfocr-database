@@ -22,9 +22,8 @@ pathway_score: 0.961171
 filename: pharmaceuticals-10-00054-g003.jpg
 figtitle: Schematic overview of TGFB signalling
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 59df1ec6-dedb-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

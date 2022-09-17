@@ -18,9 +18,8 @@ filename: hippokratia-13-29-g001.jpg
 figtitle: Enzymatic function of multiple origins regulates the progression of colorectal
   cancer and the development of metastases
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 94b119de-dee6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

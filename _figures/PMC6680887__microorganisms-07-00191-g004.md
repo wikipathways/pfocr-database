@@ -15,9 +15,8 @@ filename: microorganisms-07-00191-g004.jpg
 figtitle: Diagrammatic summary of the dinoflagellate orthologues predicted in the
   nucleotide excision repair pathway
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 8e5fc966-df19-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

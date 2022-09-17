@@ -28,9 +28,8 @@ pathway_score: 0.9301097
 filename: molbiolevolmsr149f01_3c.jpg
 figtitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolution
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e8199cf4-df03-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

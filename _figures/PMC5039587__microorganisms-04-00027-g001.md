@@ -31,9 +31,8 @@ filename: microorganisms-04-00027-g001.jpg
 figtitle: Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal epithelial
   (PIE) cells
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: db725bf8-def5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

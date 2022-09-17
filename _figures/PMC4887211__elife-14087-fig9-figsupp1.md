@@ -18,9 +18,8 @@ pathway_score: 0.9433823
 filename: elife-14087-fig9-figsupp1.jpg
 figtitle: Proposed working model for Fbxo21-mediated innate antiviral response
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d7da78d3-ded9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

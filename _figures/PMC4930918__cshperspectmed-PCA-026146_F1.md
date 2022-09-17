@@ -20,9 +20,8 @@ pathway_score: 0.9745075
 filename: cshperspectmed-PCA-026146_F1.jpg
 figtitle: p53 integrates metabolic stress signals to direct cell metabolism
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4965f592-debf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

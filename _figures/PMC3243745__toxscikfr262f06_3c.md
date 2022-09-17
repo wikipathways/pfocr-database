@@ -19,9 +19,8 @@ filename: toxscikfr262f06_3c.jpg
 figtitle: Metabolic pathways illustrating TCDD-elicited changes in the mouse (A) and
   rat (B)
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0d1ff7b3-df14-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -16,9 +16,8 @@ figtitle: Proteins modified by lysine methylation from the PhosphoSitePlus datab
   were mapped onto the Kyoto Encyclopedia of Genes and Genomes (KEGG) prostate cancer
   pathway
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 29a944b7-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

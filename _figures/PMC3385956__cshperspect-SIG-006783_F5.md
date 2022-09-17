@@ -23,9 +23,8 @@ filename: cshperspect-SIG-006783_F5.jpg
 figtitle: Hexosamine and acetyl-CoA metabolite levels integrate signaling with cell
   growth and proliferation
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 9d0b2c94-dec5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

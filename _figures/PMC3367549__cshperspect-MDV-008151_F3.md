@@ -29,9 +29,8 @@ pathway_score: 0.90849
 filename: cshperspect-MDV-008151_F3.jpg
 figtitle: Sonic hedgehog (SHH) signaling pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 3f3f1204-df10-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

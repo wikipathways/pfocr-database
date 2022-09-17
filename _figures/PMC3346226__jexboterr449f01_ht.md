@@ -16,9 +16,8 @@ figtitle: Simplified flavonoid biosynthetic pathway showing steps specific to th
   biosynthesis of flavonols (VvFLS), proanthocyanidins (VvLAR and VvANR), and anthocyanins
   (VvGST); genes included in expression analysis are in bold type
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: f224eabb-df1e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -21,9 +21,8 @@ filename: RevDiabeticStud-09-188-002.jpg
 figtitle: 'Protein Tyrosine Phosphatases and Type 1 Diabetes: Genetic and Functional
   Implications of PTPN2 and PTPN22'
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 07458581-df22-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

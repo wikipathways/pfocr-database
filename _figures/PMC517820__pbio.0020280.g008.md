@@ -20,9 +20,8 @@ filename: pbio.0020280.g008.jpg
 figtitle: Sterol-Derived Hormone(s) Controls Entry into Diapause in Caenorhabditis
   elegans by Consecutive Activation of DAF-12 and DAF-16
 year: '2004'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 018fc6c1-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

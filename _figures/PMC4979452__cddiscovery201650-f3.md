@@ -26,9 +26,8 @@ pathway_score: 0.9043524
 filename: cddiscovery201650-f3.jpg
 figtitle: Ion homeostasis
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d927db6c-df10-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

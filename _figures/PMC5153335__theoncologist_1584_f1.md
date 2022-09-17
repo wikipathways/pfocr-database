@@ -15,9 +15,8 @@ pathway_score: 0.903
 filename: theoncologist_1584_f1.jpg
 figtitle: KRAS pathway biology
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: a3bf4ca8-dea3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

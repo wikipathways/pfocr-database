@@ -37,9 +37,8 @@ pathway_score: 0.6445458
 filename: pharmaceuticals-11-00114-g001.jpg
 figtitle: NCOA4-mediated ferritinophagy pathway is regulated by intracellular iron
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 8cccc779-df36-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

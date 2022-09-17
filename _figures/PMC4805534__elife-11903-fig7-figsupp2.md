@@ -13,9 +13,8 @@ filename: elife-11903-fig7-figsupp2.jpg
 figtitle: Schematic illustration of GSK3B/eIF2BE and mTORC1 signaling in AKT-induced
   CNS axon regeneration
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: de554a4d-dec0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

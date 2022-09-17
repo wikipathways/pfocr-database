@@ -23,9 +23,8 @@ pathway_score: 0.8401214
 filename: cshperspectmed-HMG-013433_F4.jpg
 figtitle: Physiologic hemoglobin scavengers and detoxification systems
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e171f26b-df20-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

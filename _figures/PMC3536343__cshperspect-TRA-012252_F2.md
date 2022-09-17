@@ -22,9 +22,8 @@ pathway_score: 0.8014809
 filename: cshperspect-TRA-012252_F2.jpg
 figtitle: MTORC2 signaling pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: fc929420-df25-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

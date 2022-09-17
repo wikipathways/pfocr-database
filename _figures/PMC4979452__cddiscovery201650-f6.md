@@ -22,9 +22,8 @@ pathway_score: 0.8793685
 filename: cddiscovery201650-f6.jpg
 figtitle: Protein kinase A (PKA) signaling pathway
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: ca616bef-df19-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

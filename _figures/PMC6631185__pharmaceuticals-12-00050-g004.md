@@ -19,9 +19,8 @@ filename: pharmaceuticals-12-00050-g004.jpg
 figtitle: Signaling pathway nodes effected by loss of CDK11 in A375 melanoma cells
   following PanCancer Reactome pathways analysis
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7beb9411-df2d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

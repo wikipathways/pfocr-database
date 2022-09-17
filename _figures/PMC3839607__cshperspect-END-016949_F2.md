@@ -23,9 +23,8 @@ pathway_score: 0.9043594
 filename: cshperspect-END-016949_F2.jpg
 figtitle: Involvement of mutant p53 in lamellipodium dynamics and cell migration
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 55cbb48d-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -36,9 +36,8 @@ pathway_score: 0.8409762
 filename: pharmaceuticals-11-00100-g001.jpg
 figtitle: Transient receptor potential (TRP) channels and itch signaling
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 024f4f03-df24-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -29,9 +29,8 @@ pathway_score: 0.8478113
 filename: AnnalsATS.201507-450MG_f1.jpg
 figtitle: Autophagy pathway
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 496772c6-de8e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

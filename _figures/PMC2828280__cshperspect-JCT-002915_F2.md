@@ -21,9 +21,8 @@ pathway_score: 0.9639386
 filename: cshperspect-JCT-002915_F2.jpg
 figtitle: Canonical Wnt pathway
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: b8610dfe-ded5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

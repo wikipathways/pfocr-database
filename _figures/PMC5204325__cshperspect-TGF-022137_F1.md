@@ -25,9 +25,8 @@ filename: cshperspect-TGF-022137_F1.jpg
 figtitle: Cross talk between the transforming growth factor B (TGFB) family and Wnt
   signaling at multiple points
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: fbb1536f-dec4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

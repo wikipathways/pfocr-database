@@ -27,9 +27,8 @@ pathway_score: 0.9500853
 filename: intimmdxp017f01_4c.jpg
 figtitle: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 34afdc35-dec7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

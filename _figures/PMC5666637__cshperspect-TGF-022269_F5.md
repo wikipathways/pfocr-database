@@ -28,9 +28,8 @@ filename: cshperspect-TGF-022269_F5.jpg
 figtitle: Transforming growth factor B (TGFB) and bone morphogenetic protein (BMP)
   signaling in bone homeostasis
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: ec795ec2-de92-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

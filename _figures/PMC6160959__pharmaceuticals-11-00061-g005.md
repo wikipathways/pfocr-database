@@ -19,9 +19,8 @@ pathway_score: 0.783429
 filename: pharmaceuticals-11-00061-g005.jpg
 figtitle: Orlistat from PxEA perspective
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: fc36dcfc-df21-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

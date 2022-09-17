@@ -28,9 +28,8 @@ pathway_score: 0.9519418
 filename: cshperspectmed-BAC-010272_F4.jpg
 figtitle: Bacterial nucleomodulins targeting chromatin
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 119651ef-def1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

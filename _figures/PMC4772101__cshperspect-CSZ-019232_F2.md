@@ -30,9 +30,8 @@ pathway_score: 0.893937
 filename: cshperspect-CSZ-019232_F2.jpg
 figtitle: Mechanical signaling and tissue growth
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e27d086c-dea0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

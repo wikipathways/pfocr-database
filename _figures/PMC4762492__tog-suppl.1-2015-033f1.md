@@ -22,9 +22,8 @@ filename: tog-suppl.1-2015-033f1.jpg
 figtitle: 'PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each of
   its components.Note: RSK, 90 kDa ribosomal protein S6 kinase'
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 732c6ab1-debc-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

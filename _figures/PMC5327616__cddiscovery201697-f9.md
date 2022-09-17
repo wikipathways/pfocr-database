@@ -24,9 +24,8 @@ filename: cddiscovery201697-f9.jpg
 figtitle: BM-MSC modulates inflammation response through mTORC1-p70S6K/mTORC2-Akt
   Signal Pathway
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 18a4c16c-dec7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

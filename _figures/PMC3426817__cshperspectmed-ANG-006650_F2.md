@@ -24,9 +24,8 @@ pathway_score: 0.9129131
 filename: cshperspectmed-ANG-006650_F2.jpg
 figtitle: Agonist and antagonist roles for Ang2 on Tie2 function
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 8ed6e8ef-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

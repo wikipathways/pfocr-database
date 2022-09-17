@@ -17,9 +17,8 @@ pathway_score: 0.9336799
 filename: pharmaceuticals-03-03478-g001.jpg
 figtitle: Classical Jak/STAT Signaling Pathway
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 37d3b392-df06-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

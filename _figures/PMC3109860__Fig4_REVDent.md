@@ -14,9 +14,8 @@ pathway_score: 0.9647431
 filename: Fig4_REVDent.jpg
 figtitle: CHK1 Inhibitors in Combination Chemotherapy
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 637a4918-dea5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

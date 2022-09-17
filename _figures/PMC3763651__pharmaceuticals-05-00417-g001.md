@@ -17,9 +17,8 @@ filename: pharmaceuticals-05-00417-g001.jpg
 figtitle: Schematic presentation depicting the regulation of receptor signaling through
   G-proteins
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d53b1feb-de90-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

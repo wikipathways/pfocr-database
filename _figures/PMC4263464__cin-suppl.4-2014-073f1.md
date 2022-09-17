@@ -14,9 +14,8 @@ filename: cin-suppl.4-2014-073f1.jpg
 figtitle: 'Top overlapped pathways for non-users (top) and users (bottom) of oral
   contraceptives.Notes: Hexagon shaped are genes'
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 197645c6-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

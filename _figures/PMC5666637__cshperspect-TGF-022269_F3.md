@@ -29,9 +29,8 @@ figtitle: Summary of the bone morphogenetic protein (BMP) and growth and differe
   factor (GDF) signaling pathway and mutations causing connective tissue and skeletal
   disorders
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 13982716-dea5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

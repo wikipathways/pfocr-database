@@ -30,9 +30,8 @@ pathway_score: 0.8951542
 filename: Dtsch_Arztebl_Int-106-0677_002.jpg
 figtitle: Enzymatic sources of ROS, their effects and pharmacological modulation
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 3f31cffc-defe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

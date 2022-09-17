@@ -20,9 +20,8 @@ pathway_score: 0.8673209
 filename: carcinbgq073f06_4c.jpg
 figtitle: Composite network presentation of the response to BPDE in normal fibroblasts
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4163ec44-df1b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

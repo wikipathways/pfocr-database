@@ -28,9 +28,8 @@ filename: cshperspectmed-TUB-022459_F1.jpg
 figtitle: Host cell apoptosis pathways are classified into two main categories—extrinsic
   and intrinsic pathways
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4d07a72c-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

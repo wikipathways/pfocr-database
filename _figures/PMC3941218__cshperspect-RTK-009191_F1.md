@@ -21,9 +21,8 @@ pathway_score: 0.915613
 filename: cshperspect-RTK-009191_F1.jpg
 figtitle: Insulin- and IGF-1-signaling pathways
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 74253390-df0f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

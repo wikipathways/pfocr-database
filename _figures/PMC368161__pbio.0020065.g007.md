@@ -27,9 +27,8 @@ filename: pbio.0020065.g007.jpg
 figtitle: Interaction Networks in Yeast Define and Enumerate the Signaling Steps of
   the Vertebrate Aryl Hydrocarbon Receptor
 year: '2004'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: a68a3ed3-de96-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

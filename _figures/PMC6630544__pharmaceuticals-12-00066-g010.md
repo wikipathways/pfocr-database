@@ -16,9 +16,8 @@ filename: pharmaceuticals-12-00066-g010.jpg
 figtitle: Illustration of how SerB2 can be secreted within macrophage cytosol to disturb
   immune response and cause cytoskeletal remodeling (adapted from [])
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e681731f-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

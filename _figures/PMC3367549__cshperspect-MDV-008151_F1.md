@@ -34,9 +34,8 @@ pathway_score: 0.9598402
 filename: cshperspect-MDV-008151_F1.jpg
 figtitle: FGF signaling cascades, an example of RTK signaling
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 348d50ae-ded8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

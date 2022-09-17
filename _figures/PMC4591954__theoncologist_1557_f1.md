@@ -27,9 +27,8 @@ pathway_score: 0.9723808
 filename: theoncologist_1557_f1.jpg
 figtitle: Therapeutic targeting of the canonical WNT pathway
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 30bb63ad-dec2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

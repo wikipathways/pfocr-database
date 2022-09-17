@@ -56,9 +56,8 @@ filename: jclintranslres-3-233-g002.jpg
 figtitle: 'Scorpion and spider venoms in cancer treatment: state of the art, challenges,
   and perspectives'
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 37f46bfc-df0f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

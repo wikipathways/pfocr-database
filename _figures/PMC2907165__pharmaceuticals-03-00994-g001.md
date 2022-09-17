@@ -26,9 +26,8 @@ pathway_score: 0.9412221
 filename: pharmaceuticals-03-00994-g001.jpg
 figtitle: Type I IFN Signaling
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0cccf33f-df05-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

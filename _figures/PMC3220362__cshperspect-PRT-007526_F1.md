@@ -44,9 +44,8 @@ pathway_score: 0.9537184
 filename: cshperspect-PRT-007526_F1.jpg
 figtitle: ER quality control system
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7b2a4fe4-deec-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

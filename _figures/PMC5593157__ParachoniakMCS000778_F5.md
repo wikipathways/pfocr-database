@@ -15,9 +15,8 @@ pathway_score: 0.9154808
 filename: ParachoniakMCS000778_F5.jpg
 figtitle: The signaling pathway
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 417d8331-deb6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

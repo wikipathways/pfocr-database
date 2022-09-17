@@ -29,9 +29,8 @@ pathway_score: 0.8929748
 filename: cshperspect-CSZ-019224_F2.jpg
 figtitle: Drosophila Hippo pathway
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 70342d5f-dea1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

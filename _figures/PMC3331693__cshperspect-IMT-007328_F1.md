@@ -16,9 +16,8 @@ pathway_score: 0.8901957
 filename: cshperspect-IMT-007328_F1.jpg
 figtitle: Examples of pattern recognition in ancient symbioses
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 15cfda68-de98-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

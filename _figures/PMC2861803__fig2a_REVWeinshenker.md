@@ -17,9 +17,8 @@ pathway_score: 0.9489237
 filename: fig2a_REVWeinshenker.jpg
 figtitle: Disulfiram inhibition of the norepinephrine (NE) biosynthetic pathway
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: bce386fb-dea1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

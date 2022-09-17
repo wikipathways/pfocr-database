@@ -34,9 +34,8 @@ pathway_score: 0.9515702
 filename: intimmdxq053f02_4c.jpg
 figtitle: The intracellular signaling network regulating T-cell trafficking and differentiation
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 6fd6f5bd-deef-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

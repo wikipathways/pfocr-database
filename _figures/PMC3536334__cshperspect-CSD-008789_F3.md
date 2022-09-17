@@ -14,9 +14,8 @@ pathway_score: 0.9423387
 filename: cshperspect-CSD-008789_F3.jpg
 figtitle: PTEN acts as the endogenous antagonist of the PI3K-regulated growth pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: ff91a56e-deea-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

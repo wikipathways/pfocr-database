@@ -22,9 +22,8 @@ filename: cshperspectmed-CYS-009589_F5.jpg
 figtitle: MUC5B gene expression is transcriptionally regulated by various mediators
   and pathways
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 9a34f1b7-ded6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

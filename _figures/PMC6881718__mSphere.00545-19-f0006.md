@@ -22,9 +22,8 @@ filename: mSphere.00545-19-f0006.jpg
 figtitle: Cellular context of TLR5 engagement by UPEC FliC in the bladder leading
   to early IL-10 induction
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 5c94bd65-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

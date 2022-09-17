@@ -47,9 +47,8 @@ filename: cshperspectmed-HFP-019612_F2.jpg
 figtitle: PRR and signaling pathways that lead to differentiation of antifungal T-helper
   cells
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0a360f6e-dea0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

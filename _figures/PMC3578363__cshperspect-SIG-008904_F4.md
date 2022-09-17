@@ -15,9 +15,8 @@ pathway_score: 0.9527767
 filename: cshperspect-SIG-008904_F4.jpg
 figtitle: Targeting ubiquitin-dependent degradation of CDK inhibitors
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: f99ad529-ded7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

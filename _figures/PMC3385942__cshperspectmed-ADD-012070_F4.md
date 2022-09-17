@@ -40,9 +40,8 @@ filename: cshperspectmed-ADD-012070_F4.jpg
 figtitle: Up-regulation of the cAMP pathway in LC as a mechanism of opiate tolerance
   and dependence
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: b7b83f5b-df04-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

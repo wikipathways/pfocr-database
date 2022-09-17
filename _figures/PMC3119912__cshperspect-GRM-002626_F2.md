@@ -19,9 +19,8 @@ pathway_score: 0.7946405
 filename: cshperspect-GRM-002626_F2.jpg
 figtitle: CREM-ACT-KIF17b regulatory pathway
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 66c621b5-df2b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

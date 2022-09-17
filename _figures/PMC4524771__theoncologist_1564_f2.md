@@ -20,9 +20,8 @@ filename: theoncologist_1564_f2.jpg
 figtitle: Proposed anticancer effects of statins (HMG-CoA reductase inhibitors) involving
   the mevalonate pathway
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 232c076c-df35-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

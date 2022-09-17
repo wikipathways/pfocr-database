@@ -24,9 +24,8 @@ pathway_score: 0.8850555
 filename: cshperspect-REP-012948_F3.jpg
 figtitle: Initiation of endoreplication in Drosophila follicle cells
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 82c2ccd8-deb6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

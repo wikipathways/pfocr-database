@@ -11,9 +11,8 @@ pathway_score: 0.9125235
 filename: austprescr-38-074-f1.jpg
 figtitle: Action of BRAF and MEK inhibitors in the MAP kinase signalling pathway
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c25d1f4d-deb9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

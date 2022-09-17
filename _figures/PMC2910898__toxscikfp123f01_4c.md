@@ -20,9 +20,8 @@ filename: toxscikfp123f01_4c.jpg
 figtitle: During normoxia, HIF-1A is rapidly degraded by the ubiquitin-proteasome
   pathway
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 38617403-dee1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

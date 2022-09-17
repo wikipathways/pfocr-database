@@ -19,9 +19,8 @@ filename: cshperspect-IMT-007146_F4.jpg
 figtitle: Positive selection of nonautoreactive immature B cells into the peripheral
   B-cell compartment requires a threshold level of tonic BCR signaling
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 6f05a86f-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

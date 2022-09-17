@@ -16,9 +16,8 @@ pathway_score: 0.9033984
 filename: bioengineering-05-00022-g004.jpg
 figtitle: Hypoxia on HIF-1A
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: de8040b7-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

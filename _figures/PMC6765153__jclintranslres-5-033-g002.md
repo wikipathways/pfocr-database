@@ -19,9 +19,8 @@ filename: jclintranslres-5-033-g002.jpg
 figtitle: Circulating extracellular RNAs, myocardial remodeling, and heart failure
   in patients with acute coronary syndrome
 year: '2019'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7a75714b-df31-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

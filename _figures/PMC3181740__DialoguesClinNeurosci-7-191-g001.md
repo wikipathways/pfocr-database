@@ -40,9 +40,8 @@ filename: DialoguesClinNeurosci-7-191-g001.jpg
 figtitle: Neuroplasticity and cellular resilience in mood disorders; the multiple
   influences on neuroplasticity and cellular resilience in mood disorders
 year: '2005'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 2a00a7c0-deee-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

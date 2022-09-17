@@ -23,9 +23,8 @@ pathway_score: 0.9423068
 filename: cshperspect-CSD-008797_F5.jpg
 figtitle: Models of apoptosis-induced proliferation in mammals
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: fa630cd6-dedf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

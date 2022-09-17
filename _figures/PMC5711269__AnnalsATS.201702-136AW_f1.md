@@ -23,9 +23,8 @@ pathway_score: 0.9294673
 filename: AnnalsATS.201702-136AW_f1.jpg
 figtitle: Reverse cholesterol transport pathway
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7f275fc9-decd-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

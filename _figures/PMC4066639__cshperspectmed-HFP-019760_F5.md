@@ -31,9 +31,8 @@ pathway_score: 0.7562708
 filename: cshperspectmed-HFP-019760_F5.jpg
 figtitle: Stress-signaling pathways in C
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 516fa6b0-df2f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

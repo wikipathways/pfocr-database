@@ -20,9 +20,8 @@ figtitle: Map of selected p53 pathway-associated genes that harbor known or pote
   functional SNPs (octagon-shaped boxes) and their closely interacting genes (rectangular
   boxes)
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 2048e720-df14-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

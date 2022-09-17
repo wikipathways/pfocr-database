@@ -44,9 +44,8 @@ pathway_score: 0.8071149
 filename: cshperspect-CAL-004317_F2.jpg
 figtitle: Endoplasmic-Reticulum Calcium Depletion and Disease
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 81ab4652-df29-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

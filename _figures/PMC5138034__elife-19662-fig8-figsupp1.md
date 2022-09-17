@@ -20,9 +20,8 @@ pathway_score: 0.9252801
 filename: elife-19662-fig8-figsupp1.jpg
 figtitle: Extracellular actin-induced JAK/STAT pathway activation
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4cec982a-dea7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

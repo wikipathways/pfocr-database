@@ -14,9 +14,8 @@ pathway_score: 0.9443048
 filename: DialoguesClinNeurosci-4-73-g001.jpg
 figtitle: Neuroplasticity and cellular resilience in mood disorders
 year: '2002'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1aa307dc-deff-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

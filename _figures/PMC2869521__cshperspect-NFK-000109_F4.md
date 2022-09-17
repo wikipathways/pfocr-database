@@ -23,9 +23,8 @@ pathway_score: 0.9569199
 filename: cshperspect-NFK-000109_F4.jpg
 figtitle: Solid tumors activate the NFKB pathway to maintain cell survival
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 80ad638c-decd-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

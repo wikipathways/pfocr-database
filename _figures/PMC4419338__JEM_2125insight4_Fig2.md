@@ -14,9 +14,8 @@ pathway_score: 0.9567036
 filename: JEM_2125insight4_Fig2.jpg
 figtitle: 'Going with the flow: How shear stress signals the emergence of adult hematopoiesis'
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1c682efc-dee8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

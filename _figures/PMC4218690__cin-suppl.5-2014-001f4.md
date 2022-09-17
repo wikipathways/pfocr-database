@@ -21,9 +21,8 @@ pathway_score: 0.8627307
 filename: cin-suppl.5-2014-001f4.jpg
 figtitle: Two potential mechanisms of honokiol regulation of Notch ligands
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 502ce53d-de9e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

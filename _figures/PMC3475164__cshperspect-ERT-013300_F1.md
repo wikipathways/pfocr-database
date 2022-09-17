@@ -20,9 +20,8 @@ pathway_score: 0.9320905
 filename: cshperspect-ERT-013300_F1.jpg
 figtitle: Biosynthesis of glycerophospholipids
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1558356a-de9f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

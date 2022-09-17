@@ -19,9 +19,8 @@ filename: lpi-suppl.1-2015-045f2.jpg
 figtitle: Man-P-Dol acts as mannosyl donor for the synthesis of M9-DLO, GPI anchors,
   and C- and O-mannosylated proteins
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c2d503e9-df27-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -20,9 +20,8 @@ pathway_score: 0.9383077
 filename: cshperspectmed-HMG-011668_F3.jpg
 figtitle: Regulation of hepcidin by iron and inflammation
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1fb850af-deae-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

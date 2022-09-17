@@ -25,9 +25,8 @@ filename: theoncologist_15282_f6.jpg
 figtitle: IDO pathway effects to slow the immune response, anti-CTLA-4 blocks CTLA-4
   from binding CD80
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 76290330-ded9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

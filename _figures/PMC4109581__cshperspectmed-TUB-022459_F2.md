@@ -30,9 +30,8 @@ pathway_score: 0.9196375
 filename: cshperspectmed-TUB-022459_F2.jpg
 figtitle: Necroptosis and pyroptosis both lead to the loss of cell membrane integrity
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 3fb2c26b-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

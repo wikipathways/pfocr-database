@@ -21,9 +21,8 @@ pathway_score: 0.7315416
 filename: cshperspect-SIG-006080_F2.jpg
 figtitle: Mitochondrial apoptotic pathway
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: cdef0bc6-df29-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -11,9 +11,8 @@ pathway_score: 0.9351552
 filename: cshperspect-SIG-011593_F1.jpg
 figtitle: Simplified view of the mTOR pathway
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7c32d59c-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

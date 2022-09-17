@@ -34,9 +34,8 @@ pathway_score: 0.8838834
 filename: cddiscovery201650-f8.jpg
 figtitle: Cytoskeleton remodeling and axonal transport
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 8c542a0f-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

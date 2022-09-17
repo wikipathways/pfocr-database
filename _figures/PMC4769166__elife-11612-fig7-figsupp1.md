@@ -19,9 +19,8 @@ pathway_score: 0.6444628
 filename: elife-11612-fig7-figsupp1.jpg
 figtitle: Working models
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7901f49f-df20-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

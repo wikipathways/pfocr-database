@@ -18,9 +18,8 @@ pathway_score: 0.8039795
 filename: pharmaceuticals-08-00675-g002.jpg
 figtitle: Mitochondrial dysfunction caused by inhibition of pyruvate transfer to mitochondria
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4316ff0d-dea2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

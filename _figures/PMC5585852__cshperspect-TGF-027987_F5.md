@@ -25,9 +25,8 @@ filename: cshperspect-TGF-027987_F5.jpg
 figtitle: An “integrator” role for Smad3 in the maintenance of chronic myelogenous
   leukemia (CML) stemness
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c1b28696-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

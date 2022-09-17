@@ -17,9 +17,8 @@ pathway_score: 0.9243724
 filename: elife-10859-fig2-figsupp2.jpg
 figtitle: Assay for defining the immunostimulatory potential of different RNAs
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d4f597b1-dea0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

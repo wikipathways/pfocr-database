@@ -16,9 +16,8 @@ filename: carcinbgr020f01_ht.jpg
 figtitle: Variation in the suppressive abilities of Wnt antagonists with respect to
   canonical and non-canonical Wnt signaling pathways
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 6f31de8a-defe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

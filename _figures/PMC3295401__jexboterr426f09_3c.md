@@ -19,9 +19,8 @@ filename: jexboterr426f09_3c.jpg
 figtitle: The signalling induced by salt stress and biotic stress (as induced by the
   Harpin elicitor) in grapevine
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d04b5b73-de9e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

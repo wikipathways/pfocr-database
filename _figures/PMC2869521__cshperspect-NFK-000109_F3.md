@@ -32,9 +32,8 @@ pathway_score: 0.8123336
 filename: cshperspect-NFK-000109_F3.jpg
 figtitle: Constitutive NFKB pathway activation in multiple myeloma
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 16c3b8d5-df29-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

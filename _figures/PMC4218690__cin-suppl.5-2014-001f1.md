@@ -22,9 +22,8 @@ pathway_score: 0.8477215
 filename: cin-suppl.5-2014-001f1.jpg
 figtitle: Honokiol and ionizing radiation (IR) affect Notch signaling
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 55cf2fb7-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

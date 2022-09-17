@@ -16,9 +16,8 @@ pathway_score: 0.9500357
 filename: cshperspect-AND-018887_F2.jpg
 figtitle: Wnt signaling
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: efb7be00-de8e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -22,9 +22,8 @@ pathway_score: 0.8810952
 filename: elife-32110-fig6-figsupp1.jpg
 figtitle: Genes directly effecting TAG biosynthesis in R
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 3b623034-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

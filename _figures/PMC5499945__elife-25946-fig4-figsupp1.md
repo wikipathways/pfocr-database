@@ -30,9 +30,8 @@ filename: elife-25946-fig4-figsupp1.jpg
 figtitle: Model summarizing regulation of glycolysis and its contribution to photoreceptor
   physiology
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 3bb41d76-de9e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

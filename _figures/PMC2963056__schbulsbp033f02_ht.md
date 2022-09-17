@@ -15,9 +15,8 @@ filename: schbulsbp033f02_ht.jpg
 figtitle: Fibroblast Growth Factor (FGF) Receptor Complex and Its Schematic Signaling
   Pathway
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 76c68bfd-debd-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

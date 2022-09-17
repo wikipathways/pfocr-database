@@ -29,9 +29,8 @@ filename: jexboterp394f01_ht.jpg
 figtitle: Biosynthetic pathway for anthocyanins, caffeoylquinates, and other major
   phenolic derivatives in potato tuber
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: cd50db5a-df2a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

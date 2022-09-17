@@ -13,9 +13,8 @@ filename: cshperspect-SIG-011189_F2.jpg
 figtitle: Signalling events activating PKB/Akt and cellular functions regulated by
   PKB/Akt
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 09c985e9-deff-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

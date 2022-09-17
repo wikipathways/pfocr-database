@@ -38,9 +38,8 @@ figtitle: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localizatio
   model of regulators and pathways contributing to polar PIN localization in roots
   is proposed based on results discussed in this review
 year: '2008'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 2a895cb7-deea-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

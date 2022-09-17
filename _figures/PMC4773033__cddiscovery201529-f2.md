@@ -22,9 +22,8 @@ filename: cddiscovery201529-f2.jpg
 figtitle: Comprehensive picture showing gene expression changes and crosstalk of pathways
   associated with Igf1 and Pacap rescue of apoptotic CGNs
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 20251ec8-dee2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

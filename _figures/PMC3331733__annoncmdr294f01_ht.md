@@ -37,9 +37,8 @@ filename: annoncmdr294f01_ht.jpg
 figtitle: Human epidermal growth factor receptor (HER) 2 signaling pathways involved
   in tumorigenesis and cardiac survival
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 18c59910-deae-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -22,9 +22,8 @@ pathway_score: 0.8698782
 filename: cshperspect-SIG-008904_F1.jpg
 figtitle: G1 cell cycle control by the pRB pathway
 year: '2013'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 05acf2b5-df1c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -27,9 +27,8 @@ figtitle: Suggested mechanisms by which NPs may induce molecular signaling casca
   leading to upregulation of the HMG-CoA reductase pathway in the liver of exposed
   C57BL/6 mice
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 45c667d2-de97-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

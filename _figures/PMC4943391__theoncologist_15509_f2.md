@@ -21,9 +21,8 @@ pathway_score: 0.9097474
 filename: theoncologist_15509_f2.jpg
 figtitle: Melanocyte differentiation pathway dependent on MSHA and ACTH
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1007474f-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

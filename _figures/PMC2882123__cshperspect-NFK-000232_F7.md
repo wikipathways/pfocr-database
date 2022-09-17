@@ -20,9 +20,8 @@ pathway_score: 0.9489272
 filename: cshperspect-NFK-000232_F7.jpg
 figtitle: Imd pathway in adult Drosophila melanogaster
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 907455e7-deed-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -19,9 +19,8 @@ pathway_score: 0.9366329
 filename: cshperspect-MAM-003186_F4.jpg
 figtitle: Cytokine signaling through the Jak/Stat pathway in mammary gland development
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: df2ee95b-df07-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

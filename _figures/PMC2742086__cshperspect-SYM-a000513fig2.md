@@ -25,9 +25,8 @@ pathway_score: 0.9609012
 filename: cshperspect-SYM-a000513fig2.jpg
 figtitle: Functional and structural organization of migratory mesenchymal cells
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 0d507e86-ded9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

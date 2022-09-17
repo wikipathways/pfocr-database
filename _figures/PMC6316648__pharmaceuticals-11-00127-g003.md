@@ -33,9 +33,8 @@ pathway_score: 0.9611003
 filename: pharmaceuticals-11-00127-g003.jpg
 figtitle: Major mechanisms for hepcidin regulation
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e0135b3d-ded0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -43,9 +43,8 @@ pathway_score: 0.9365593
 filename: jclintranslres-4-001-g002.jpg
 figtitle: Intercellular and intracellular signals that initiate liver regeneration
 year: '2018'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: e3f26791-dec1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

@@ -36,9 +36,8 @@ filename: cshperspect-AND-018838_F4.jpg
 figtitle: Regulation of neural precursor plasticity within the classical neurogenic
   zones
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 76d74459-defe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

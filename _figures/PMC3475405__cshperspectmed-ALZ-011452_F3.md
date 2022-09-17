@@ -29,9 +29,8 @@ pathway_score: 0.9284314
 filename: cshperspectmed-ALZ-011452_F3.jpg
 figtitle: Blood–brain barrier (BBB) transport in homeostasis of brain AB
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 266676eb-defe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

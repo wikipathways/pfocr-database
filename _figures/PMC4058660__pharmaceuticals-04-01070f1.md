@@ -12,9 +12,8 @@ pathway_score: 0.8462295
 filename: pharmaceuticals-04-01070f1.jpg
 figtitle: PI3K signaling in normal neural function and LTP induction
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 32b27652-df22-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

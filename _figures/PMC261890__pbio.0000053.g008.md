@@ -23,9 +23,8 @@ filename: pbio.0000053.g008.jpg
 figtitle: T Cell Receptor-Independent Basal Signaling via Erk and Abl Kinases Suppresses
   RAG Gene Expression
 year: '2003'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d0db0dda-def2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

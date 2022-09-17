@@ -22,9 +22,8 @@ filename: cshperspect-TGF-022145_F1.jpg
 figtitle: Transforming growth factor B (TGFB) signaling pathway and its context-dependent
   regulation
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 42ced798-df24-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

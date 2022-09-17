@@ -11,9 +11,8 @@ pathway_score: 0.9448079
 filename: carcinbgn267f02_ht.jpg
 figtitle: Metabolic pathway for PhIP activation and induced mutations
 year: '2009'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 9948449d-def7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

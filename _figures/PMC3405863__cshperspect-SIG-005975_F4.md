@@ -27,9 +27,8 @@ pathway_score: 0.9626806
 filename: cshperspect-SIG-005975_F4.jpg
 figtitle: EGFR pathway in Drosophila
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d508fec7-ded8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

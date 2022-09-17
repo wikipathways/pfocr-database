@@ -30,9 +30,8 @@ pathway_score: 0.8650374
 filename: medscimonit-17-2-RA44-g001.jpg
 figtitle: Schematic diagram represents the ischemic preconditioning pathway in cardiomyocytes
 year: '2011'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 7265ac74-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

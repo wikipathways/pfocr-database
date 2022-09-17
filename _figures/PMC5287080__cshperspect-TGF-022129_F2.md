@@ -29,9 +29,8 @@ figtitle: Transforming growth factor B (TGFB)-induced activation of c-Jun amino 
   kinase (JNK) and p38 mitogen-activated protein kinase (MAPK) signaling, and the
   IKB kinase (IKK) pathway
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 58c1e886-ded3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

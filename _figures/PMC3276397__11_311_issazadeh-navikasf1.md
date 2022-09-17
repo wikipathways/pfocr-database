@@ -29,9 +29,8 @@ pathway_score: 0.918232
 filename: 11_311_issazadeh-navikasf1.jpg
 figtitle: Effects of VitA in gut-associated lymphoid tissue
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 60d5746a-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

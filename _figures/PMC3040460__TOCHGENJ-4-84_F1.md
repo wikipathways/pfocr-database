@@ -16,9 +16,8 @@ pathway_score: 0.9599287
 filename: TOCHGENJ-4-84_F1.jpg
 figtitle: Schematic diagram showing major GPCR signaling pathways
 year: '2010'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1684e4e6-dee0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

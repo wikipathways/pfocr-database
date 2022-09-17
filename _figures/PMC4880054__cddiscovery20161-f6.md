@@ -20,9 +20,8 @@ pathway_score: 0.9575137
 filename: cddiscovery20161-f6.jpg
 figtitle: Proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced apoptosis
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: b4275e8d-debf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

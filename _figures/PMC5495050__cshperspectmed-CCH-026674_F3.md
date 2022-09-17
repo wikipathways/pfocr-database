@@ -19,9 +19,8 @@ pathway_score: 0.7967747
 filename: cshperspectmed-CCH-026674_F3.jpg
 figtitle: BRD4 pathway in acute myeloid leukemia (AML) cells
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: bc730945-df29-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

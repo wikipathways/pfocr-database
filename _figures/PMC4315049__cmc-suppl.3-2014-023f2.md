@@ -25,9 +25,8 @@ pathway_score: 0.963857
 filename: cmc-suppl.3-2014-023f2.jpg
 figtitle: Secretion of FABP4 in association with lipolysis
 year: '2014'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: d75b8d33-decb-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

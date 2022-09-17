@@ -23,9 +23,8 @@ pathway_score: 0.9171736
 filename: jexboters067f01_3c.jpg
 figtitle: Flavonoid biosynthetic pathway in Arabidopsis seed
 year: '2012'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: c7b4240f-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

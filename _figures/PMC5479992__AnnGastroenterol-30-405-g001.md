@@ -21,9 +21,8 @@ pathway_score: 0.9679326
 filename: AnnGastroenterol-30-405-g001.jpg
 figtitle: Iron homeostasis
 year: '2017'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 85eec762-deb0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

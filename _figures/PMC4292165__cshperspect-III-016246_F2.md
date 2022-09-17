@@ -23,9 +23,8 @@ pathway_score: 0.9409218
 filename: cshperspect-III-016246_F2.jpg
 figtitle: Signaling pathway of endosomal TLRs
 year: '2015'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 4b028c74-df05-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:

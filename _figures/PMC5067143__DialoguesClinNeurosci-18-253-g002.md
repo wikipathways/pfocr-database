@@ -25,9 +25,8 @@ pathway_score: 0.8373299
 filename: DialoguesClinNeurosci-18-253-g002.jpg
 figtitle: (Opposite and overleaf) Visualizing drug action
 year: '2016'
-organisms:
-- Homo sapiens
-ndex: ''
+organisms: Homo sapiens
+ndex: 1cf1c277-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork
 schema-jsonld:
