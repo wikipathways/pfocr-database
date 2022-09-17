@@ -16,8 +16,8 @@
 #' @export 
 #'
 #' @examples
-#'   updateFrontmatter('ndex', 'ndex_map')
-#'   updateFrontmatter('wpid', 'wpid_map')
+#'   updateFrontmatter("ndex", "ndex_map")
+#'   updateFrontmatter("wpid", "wpid_map")
 #'   
 updateFrontmatter <- function(field=NULL, file=NULL){
   if(is.null(field))
