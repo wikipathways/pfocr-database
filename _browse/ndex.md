@@ -12,9 +12,6 @@ btn-class: "btn-front"
     {% if pw.ndex and pw.ndex != '' %}
     {% assign ndex-short =  pw.ndex | truncate: 11 %}
       <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms.first }})</em></a>
-        <a href="https://www.ndexbio.org/viewer/networks/{{pw.ndex}}" target="_blank">
-          <img alt="NDEx" src="https://img.shields.io/static/v1?label=NDEx&message={{ ndex-short }}&color=brightgreen">
-        </a>
       </li>
     {% endif %} 
   {% endfor %} 
