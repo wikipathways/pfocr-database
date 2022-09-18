@@ -3,7 +3,14 @@ display-title: "WikiPathways"
 btn-class: "btn-front"
 ---
 
-<h1>Pathway Figures translated to WikiPathways</h1>
+<h1>Pathway Figures translated to WikiPathways
+    <a href="https://github.com/wikipathways/pfocr-database/blob/main/_data/wpid_map.tsv"
+      target="_blank">
+      <span title="Edit list" style="color: #666; font-size: 0.8em;">
+         <i class="fa fa-pencil"></i>
+      </span>
+    </a>
+</h1>
 <p>Browse the subset of pathway figures below that have been manually translated into WikiPathways models.</p>
 <hr/><br/>
 {% assign sorted_figures = site.figures | sort: "year" | reverse %}
