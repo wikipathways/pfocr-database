@@ -172,7 +172,7 @@ layout: home2
                 <div class="col-3 px-0" style="display:flex;">
                   <div style="width:150px;">
                 <a class="btn btn-sm btn-front w-100 my-2" href="download.html">Download</a>
-                <a class="btn btn-sm btn-front w-100 my-2" href="/analyze.html">Analyze</a>
+                <a class="btn btn-sm btn-front w-100 my-2" href="/help.html#analyze">Analyze</a>
                   </div>
                 </div>              
                 <div class="col-5 mx-auto" style="display:flex;">
