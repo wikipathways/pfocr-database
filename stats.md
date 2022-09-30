@@ -25,6 +25,45 @@ chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
 dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 ```
 
+## Contents and counts
+
+``` r
+fig.num <- nrow(figs)
+paper.num <- length(unique(figs$pmcid))
+gene.total <- nrow(genes)
+gene.unique <- length(unique(genes$hgnc_symbol))
+chem.total <- nrow(chems)
+chem.unique <- length(unique(chems$identifier))
+di.total <- nrow(dis)
+di.unique <- length(unique(dis$identifier))
+
+sprintf("The Pathway Figure OCR project has identified %i pathway figures from %i published papers.", fig.num, paper.num)
+```
+
+    ## [1] "The Pathway Figure OCR project has identified 79949 pathway figures from 68978 published papers."
+
+``` r
+data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique, di.unique))
+row.names(data) = c("Genes", "Chemicals", "Diseases")
+```
+
+``` r
+knitr::kable(data, 
+             format = "pipe",
+             format.args = list(big.mark = ','),
+             padding = 20,
+             caption = "Contents extracted from figures"
+             )
+```
+
+|           |     Total | Unique |
+|:----------|----------:|-------:|
+| Genes     | 1,530,196 | 14,253 |
+| Chemicals |   217,792 | 11,100 |
+| Diseases  |    28,783 |  1,204 |
+
+Contents extracted from figures
+
 ## Main page plot
 
 ``` r
