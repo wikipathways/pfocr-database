@@ -37,24 +37,12 @@ chem.unique <- length(unique(chems$identifier))
 di.total <- nrow(dis)
 di.unique <- length(unique(dis$identifier))
 
-sprintf("The Pathway Figure OCR project has identified %i pathway figures from %i published papers.", fig.num, paper.num)
-```
-
-    ## [1] "The Pathway Figure OCR project has identified 79949 pathway figures from 68978 published papers."
-
-``` r
 data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique, di.unique))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-``` r
-knitr::kable(data, 
-             format = "pipe",
-             format.args = list(big.mark = ','),
-             padding = 20,
-             caption = "Contents extracted from figures"
-             )
-```
+The Pathway Figure OCR project has identified 79949 pathway figures from
+68978 published papers.
 
 |           |     Total | Unique |
 |:----------|----------:|-------:|
