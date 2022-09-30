@@ -101,17 +101,16 @@ layout: home2
     <li data-target="#carouselBrowse" data-slide-to="1"></li>
     <li data-target="#carouselBrowse" data-slide-to="2"></li>
     <li data-target="#carouselBrowse" data-slide-to="3"></li>
-    <li data-target="#carouselBrowse" data-slide-to="4"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <a href="/browse/filters.html">
-      <img class="d-block w-100" src="/assets/img/slideshow/browse-1.png" alt="Category filter">
+  <div class="carousel-item active">
+          <a href="/browse/table.html">
+      <img class="d-block w-100" src="/assets/img/slideshow/browse-2.png" alt="Table filter">
       </a>
     </div>
     <div class="carousel-item">
           <a href="/browse/table.html">
-      <img class="d-block w-100" src="/assets/img/slideshow/browse-2.png" alt="Table filter">
+      <img class="d-block w-100" src="/assets/img/slideshow/browse-6.png" alt="WikiPathways">
       </a>
     </div>
     <div class="carousel-item">
@@ -120,8 +119,8 @@ layout: home2
       </a>
     </div>
     <div class="carousel-item">
-          <a href="/browse/annotations.html">
-      <img class="d-block w-100" src="/assets/img/slideshow/browse-5.png" alt="Annotation">
+          <a href="/browse/organisms.html">
+      <img class="d-block w-100" src="/assets/img/slideshow/analyze-4.png" alt="NDEx">
       </a>
     </div>
   </div>
@@ -173,7 +172,7 @@ layout: home2
                 <div class="col-3 px-0" style="display:flex;">
                   <div style="width:150px;">
                 <a class="btn btn-sm btn-front w-100 my-2" href="download.html">Download</a>
-                <a class="btn btn-sm btn-front w-100 my-2" href="/analyze.html">Analyze</a>
+                <a class="btn btn-sm btn-front w-100 my-2" href="/help.html#analyze">Analyze</a>
                   </div>
                 </div>              
                 <div class="col-5 mx-auto" style="display:flex;">
@@ -208,11 +207,6 @@ layout: home2
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-          <a href="download.html" target="_blank">
-      <img class="d-block w-100" src="/assets/img/slideshow/download-2.png" alt="Download">
-      </a>
-    </div>
-    <div class="carousel-item">
           <a href="https://pathvisio.org/" target="_blank">
       <img class="d-block w-100" src="/assets/img/slideshow/analyze-1.png" alt="PathVisio">
       </a>
@@ -225,6 +219,11 @@ layout: home2
     <div class="carousel-item">
           <a href="https://gladstone-bioinformatics.shinyapps.io/shiny-25years/" target="_blank">
       <img class="d-block w-100" src="/assets/img/slideshow/analyze-5.png" alt="R Shiny app">
+      </a>
+    </div>
+    <div class="carousel-item">
+          <a href="https://maayanlab.cloud/Enrichr/" target="_blank">
+      <img class="d-block w-100" src="/assets/img/slideshow/analyze-6.png" alt="Enrichr">
       </a>
     </div>
   </div>
