@@ -171,7 +171,7 @@ layout: home2
               <div class="row mx-auto" style="display:flex; flex-wrap: wrap;">
                 <div class="col-3 px-0" style="display:flex;">
                   <div style="width:150px;">
-                <a class="btn btn-sm btn-front w-100 my-2" href="download.html">Download</a>
+                <a class="btn btn-sm btn-front w-100 my-2" href="/help.html#download">Download</a>
                 <a class="btn btn-sm btn-front w-100 my-2" href="/help.html#analyze">Analyze</a>
                   </div>
                 </div>              
