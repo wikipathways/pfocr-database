@@ -13,7 +13,7 @@ btn-class: "btn-front"
   <th>Figure Title</th>
   <th>Year</th>
   <th>Organism</th>
-  {% assign pw-sorted = site.figures | sort: "year"  %}
+  {% assign pw-sorted = site.figures | sort: "year" | reverse  %}
   {% for pw in pw-sorted %}
   {% assign clean-title = pw.figtitle | remove: "'" | remove: '"' %}
   <tr>
