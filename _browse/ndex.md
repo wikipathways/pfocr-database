@@ -11,7 +11,7 @@ btn-class: "btn-front"
   {% for pw in sorted_figures %}
     {% if pw.ndex and pw.ndex != '' %}
     {% assign ndex-short =  pw.ndex | truncate: 11 %}
-      <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms.first }})</em></a>
+      <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms | join: "," }})</em></a>
       </li>
     {% endif %} 
   {% endfor %} 

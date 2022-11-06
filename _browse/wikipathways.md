@@ -17,7 +17,7 @@ btn-class: "btn-front"
 <ul>
   {% for pw in sorted_figures %}
     {% if pw.wpid and pw.wpid != '' %}
-      <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms.first }})</em></a>
+      <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms | join: "," }})</em></a>
         <a href="https://www.wikipathways.org/instance/{{ pw.wpid }}" target="_blank">
           <img alt="WikiPathways" src="https://img.shields.io/static/v1?label=WikiPathways&message={{ pw.wpid }}&color=orange">
         </a>
