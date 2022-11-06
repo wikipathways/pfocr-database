@@ -1,5 +1,6 @@
 ---
 layout: home2
+title: Home
 ---
 <div>
   {%- include_cached header.html %}
