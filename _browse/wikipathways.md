@@ -4,7 +4,7 @@ btn-class: "btn-front"
 ---
 
 <h1>Pathway Figures translated to WikiPathways
-    <a href="https://github.com/wikipathways/pfocr-database/blob/main/_data/wpid_map.tsv"
+    <a href="https://github.com/wikipathways/pfocr-database/edit/main/_data/wpid_map.tsv"
       target="_blank">
       <span title="Edit list" style="color: #666; font-size: 0.8em;">
          <i class="fa fa-pencil"></i>
