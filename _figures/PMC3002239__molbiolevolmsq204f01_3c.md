@@ -1,7 +1,7 @@
 ---
 figid: PMC3002239__molbiolevolmsq204f01_3c
 figlink: /pmc/articles/PMC3002239/figure/fig1/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 1'
+number: F1
 caption: Metabolic pathways in 35 metabolites in Arabidopsis. (A) Open circles and
   dots denote chemical compounds and enzyme reactions, respectively. The chemical
   compounds of 17 amino acids (red circles) were quantified in this study. All metabolic
@@ -26,8 +26,7 @@ filename: molbiolevolmsq204f01_3c.jpg
 figtitle: Functional Compensation of Primary and Secondary Metabolites by Duplicate
   Genes in Arabidopsis thaliana
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC3002239__F1
+redirect_from: /figures/PMC3002239__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2981456__carcinbgq156f01_lw
 figlink: /pmc/articles/PMC2981456/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The estrogen biosynthesis pathway. The pathway from cholesterol through estrogen
   synthesis and metabolism is shown with the enzymes involved. Bolded enzymes are
   those in which SNPs were investigated in relation to estrogen measures and lung
@@ -15,8 +15,7 @@ pathway_score: 0.9170867
 filename: carcinbgq156f01_lw.jpg
 figtitle: The estrogen biosynthesis pathway
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -121,4 +120,7 @@ chemicals:
   source: MESH
   identifier: D015114
 diseases: []
+figid_alias: PMC2981456__F1
+redirect_from: /figures/PMC2981456__F1
+figtype: Figure
 ---

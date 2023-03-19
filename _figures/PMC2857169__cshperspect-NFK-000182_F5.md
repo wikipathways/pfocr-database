@@ -1,7 +1,7 @@
 ---
 figid: PMC2857169__cshperspect-NFK-000182_F5
 figlink: /pmc/articles/PMC2857169/figure/A000182F5/
-number: Figure 5
+number: F5
 caption: NF-κB in conventional T-cell activation. TCR-dependent activation of naïve
   CD4 and CD8 T cells by antigen presenting cells (APC) leads to T-cell activation,
   division, and effector T-cell differentiation. The various CD4 T helper cell subsets
@@ -184,4 +184,7 @@ genes:
   entrez: '3567'
 chemicals: []
 diseases: []
+figid_alias: PMC2857169__F5
+redirect_from: /figures/PMC2857169__F5
+figtype: Figure
 ---

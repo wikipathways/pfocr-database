@@ -1,7 +1,7 @@
 ---
 figid: PMC1828287__RevDiabeticStud-03-161-001
 figlink: /pmc/articles/PMC1828287/figure/F1/
-number: Figure 1
+number: F1
 caption: Shown are effects on amyloidogenic and non-amyloidogenic APP metabolism (blue)
   as well as intra- and extracellular accumulation of Aβ products. The insulin receptor
   (IR) is located within the caveolae and its signaling is promoted by caveolin-1,
@@ -154,4 +154,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC1828287__F1
+redirect_from: /figures/PMC1828287__F1
+figtype: Figure
 ---

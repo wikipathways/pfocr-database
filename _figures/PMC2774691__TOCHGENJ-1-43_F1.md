@@ -1,7 +1,7 @@
 ---
 figid: PMC2774691__TOCHGENJ-1-43_F1
 figlink: /pmc/articles/PMC2774691/figure/F1/
-number: Fig. (1)
+number: F1
 caption: Schematic of fluorescent assay formats used to characterize kinase inhibitors
   within the RAF-MEK-ERK pathway. (A) The FRET direct kinase assay uses a peptide
   substrate terminally labeled with a coumarin-fluorescein FRET pair and measures
@@ -194,4 +194,7 @@ genes:
   entrez: '5604'
 chemicals: []
 diseases: []
+figid_alias: PMC2774691__F1
+redirect_from: /figures/PMC2774691__F1
+figtype: Figure
 ---

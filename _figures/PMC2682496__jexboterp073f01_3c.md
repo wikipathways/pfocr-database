@@ -1,7 +1,7 @@
 ---
 figid: PMC2682496__jexboterp073f01_3c
 figlink: /pmc/articles/PMC2682496/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Outline of the two isoprenoid biosynthetic pathways in an Arabidopsis cell:
   the MVA and MEP pathways. Blue arrows indicate metabolic flow between the cytosol
   and plastid. Two genes, HMG1 and HMG2, encoding HMGR are shown in red letters. MVA,
@@ -17,8 +17,7 @@ filename: jexboterp073f01_3c.jpg
 figtitle: 'Outline of the two isoprenoid biosynthetic pathways in an Arabidopsis cell:
   the MVA and MEP pathways'
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC2682496__F1
+redirect_from: /figures/PMC2682496__F1
+figtype: Figure
 ---

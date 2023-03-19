@@ -1,7 +1,7 @@
 ---
 figid: PMC2887276__Beilstein_J_Org_Chem-06-49-19
 figlink: /pmc/articles/PMC2887276/figure/C2/
-number: Scheme 2
+number: S2
 caption: Synthetic pathway for hydrazono acyclic nucleoside 2h–2o.
 pmcid: PMC2887276
 papertitle: Synthesis of some novel hydrazono acyclic nucleoside analogues.
@@ -11,8 +11,7 @@ pathway_score: 0.7000759
 filename: Beilstein_J_Org_Chem-06-49-19.jpg
 figtitle: Synthetic pathway for hydrazono acyclic nucleoside 2h–2o
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -54,4 +53,7 @@ chemicals:
   source: MESH
   identifier: D014498
 diseases: []
+figid_alias: PMC2887276__S2
+redirect_from: /figures/PMC2887276__S2
+figtype: Scheme
 ---

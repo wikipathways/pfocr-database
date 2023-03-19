@@ -1,7 +1,7 @@
 ---
 figid: PMC2645299__PROCATS5115fig2
 figlink: /pmc/articles/PMC2645299/figure/fig2/
-number: <b>Figure 2.</b>
+number: F2
 caption: An integrative model of differential recruitment of cellular calcium mobilization
   mechanisms. Acetylcholine acts on M2 and M3 subtypes of muscarinic cholinergic receptors
   on the ASM cells to elicit a calcium response. M3 subtype of receptor, which is
@@ -141,4 +141,7 @@ genes:
   entrez: '2281'
 chemicals: []
 diseases: []
+figid_alias: PMC2645299__F2
+redirect_from: /figures/PMC2645299__F2
+figtype: Figure
 ---

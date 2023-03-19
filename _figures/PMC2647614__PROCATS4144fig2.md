@@ -1,7 +1,7 @@
 ---
 figid: PMC2647614__PROCATS4144fig2
 figlink: /pmc/articles/PMC2647614/figure/fig2/
-number: <b>Figure 2.</b>
+number: F2
 caption: Relationship of genes significantly changed in acute rejection to process
   pathways. The relationship of genes significantly changed in acute rejection (as
   compared with no rejection) to different biological pathways was investigated using
@@ -222,4 +222,7 @@ genes:
   entrez: '942'
 chemicals: []
 diseases: []
+figid_alias: PMC2647614__F2
+redirect_from: /figures/PMC2647614__F2
+figtype: Figure
 ---

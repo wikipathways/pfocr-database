@@ -1,7 +1,7 @@
 ---
 figid: PMC2930807__carcinbgq148f04_ht
 figlink: /pmc/articles/PMC2930807/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Gene pathway analysis. Pathway analysis of downregulated genes was performed
   using Pathway Miner software from Biorag Web site (http://www.biorag.org). Nodes
   represent genes that were downregulated by CLA. Lines connecting the nodes represent
@@ -358,4 +358,7 @@ genes:
   entrez: '22885'
 chemicals: []
 diseases: []
+figid_alias: PMC2930807__F4
+redirect_from: /figures/PMC2930807__F4
+figtype: Figure
 ---

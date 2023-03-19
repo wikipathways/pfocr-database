@@ -1,7 +1,7 @@
 ---
 figid: PMC2926749__cshperspect-IMS-003004_F4
 figlink: /pmc/articles/PMC2926749/figure/A003004F4/
-number: Figure 4
+number: F4
 caption: Proposed model for MALT1 function in NF-κB activation. B-cell receptor (BCR)
   stimulation induces formation of the CBM complex, which controls NF-κB activation
   through at least two different mechanisms. The scaffold function of BCL10 and MALT1
@@ -23,8 +23,7 @@ pathway_score: 0.9539304
 filename: cshperspect-IMS-003004_F4.jpg
 figtitle: Proposed model for MALT1 function in NFKB activation
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -108,4 +107,7 @@ genes:
   entrez: '8915'
 chemicals: []
 diseases: []
+figid_alias: PMC2926749__F4
+redirect_from: /figures/PMC2926749__F4
+figtype: Figure
 ---

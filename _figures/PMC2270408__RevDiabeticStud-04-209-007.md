@@ -1,7 +1,7 @@
 ---
 figid: PMC2270408__RevDiabeticStud-04-209-007
 figlink: /pmc/articles/PMC2270408/figure/F6/
-number: Figure 6
+number: F6
 caption: Oxidative stress and the subsequent activation of the JNK pathway induce
   nuclear translocation of Foxo1 through modification of insulin signaling in β-cells,
   which leads to the nucleo-cytoplasmic translocation of PDX-1 and reduction of its
@@ -14,8 +14,7 @@ pathway_score: 0.9537118
 filename: RevDiabeticStud-04-209-007.jpg
 figtitle: Pleiotropic Roles of PDX-1 in the Pancreas
 year: '2007'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -90,4 +89,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC2270408__F6
+redirect_from: /figures/PMC2270408__F6
+figtype: Figure
 ---

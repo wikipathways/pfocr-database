@@ -1,7 +1,7 @@
 ---
 figid: PMC2907165__pharmaceuticals-03-00994-g001
 figlink: /pmc/articles/PMC2907165/figure/pharmaceuticals-03-00994-f001/
-number: Figure 1
+number: F1
 caption: Type I IFN Signaling. Type-I IFNs bind to a heterodimer composed of the transmembrane
   receptor subunits IFNAR1 and IFNAR2, which results in activation of the receptor-associated
   kinases Jak1 and Tyk2. In the canonical signaling pathway, the cytoplasmic signal
@@ -248,4 +248,7 @@ genes:
   entrez: '10000'
 chemicals: []
 diseases: []
+figid_alias: PMC2907165__F1
+redirect_from: /figures/PMC2907165__F1
+figtype: Figure
 ---

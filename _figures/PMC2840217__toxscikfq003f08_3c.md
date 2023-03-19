@@ -1,7 +1,7 @@
 ---
 figid: PMC2840217__toxscikfq003f08_3c
 figlink: /pmc/articles/PMC2840217/figure/fig8/
-number: FIG. 8
+number: F8
 caption: Alteration in Ubiquitin-Proteasome System (UPS) in response to MG132 (A),
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells. A knowledge-based UPS
   pathway was built in GenMAPP program. Differential gene expression was based on
@@ -25,8 +25,7 @@ filename: toxscikfq003f08_3c.jpg
 figtitle: Alteration in Ubiquitin-Proteasome System (UPS) in response to MG132 (A),
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ genes:
   entrez: '367'
 chemicals: []
 diseases: []
+figid_alias: PMC2840217__F8
+redirect_from: /figures/PMC2840217__F8
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2908764__cshperspect-AXN-002055_F3
 figlink: /pmc/articles/PMC2908764/figure/A002055F3/
-number: Figure 3
+number: F3
 caption: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
   midline. (A) Comm regulates Robo1 trafficking and midline crossing. Model for the
   sorting action of Comm on Robo1; inset to the left shows enlarged view of the boxed
@@ -29,8 +29,7 @@ filename: cshperspect-AXN-002055_F3.jpg
 figtitle: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
   midline
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ genes:
   entrez: '7869'
 chemicals: []
 diseases: []
+figid_alias: PMC2908764__F3
+redirect_from: /figures/PMC2908764__F3
+figtype: Figure
 ---

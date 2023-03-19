@@ -1,7 +1,7 @@
 ---
 figid: PMC3119912__cshperspect-GRM-002626_F2
 figlink: /pmc/articles/PMC3119912/figure/A002626F2/
-number: Figure 2
+number: F2
 caption: Schematic model of the CREM-ACT-KIF17b regulatory pathway. (A) In somatic
   cells, CREB and CREM activate transcription following phosphorylation of a conserved
   serine residue and recruitment of the CBP and p300 coactivators. CREB and CREM can
@@ -140,4 +140,7 @@ genes:
   entrez: '9586'
 chemicals: []
 diseases: []
+figid_alias: PMC3119912__F2
+redirect_from: /figures/PMC3119912__F2
+figtype: Figure
 ---

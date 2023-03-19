@@ -1,7 +1,7 @@
 ---
 figid: PMC2639048__carcinbgn267f02_ht
 figlink: /pmc/articles/PMC2639048/figure/fig2/
-number: Fig. 2
+number: F2
 caption: Metabolic pathway for PhIP activation and induced mutations.
 pmcid: PMC2639048
 papertitle: Mouse models for the study of colon carcinogenesis.
@@ -139,4 +139,7 @@ chemicals:
   source: MESH
   identifier: D003849
 diseases: []
+figid_alias: PMC2639048__F2
+redirect_from: /figures/PMC2639048__F2
+figtype: Figure
 ---

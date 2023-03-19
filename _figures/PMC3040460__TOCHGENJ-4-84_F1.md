@@ -1,7 +1,7 @@
 ---
 figid: PMC3040460__TOCHGENJ-4-84_F1
 figlink: /pmc/articles/PMC3040460/figure/F1/
-number: Fig. (1)
+number: F1
 caption: Schematic diagram showing major GPCR signaling pathways. Upon stimulation,
   Gs coupled receptors activate adenylyl cyclase (AC) resulting in an increase of
   cAMP; Gi-coupled receptors inhibit AC, and the βγ subunits activate ERK pathway;
@@ -277,4 +277,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3040460__F1
+redirect_from: /figures/PMC3040460__F1
+figtype: Figure
 ---

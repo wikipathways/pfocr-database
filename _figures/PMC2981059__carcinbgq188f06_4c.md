@@ -1,7 +1,7 @@
 ---
 figid: PMC2981059__carcinbgq188f06_4c
 figlink: /pmc/articles/PMC2981059/figure/fig6/
-number: Fig. 6
+number: F6
 caption: The HER/HER2-PI3K-Akt-NF-κB-elicited pathway in prostate cancer cells. PI3K-Akt
   signaling cross talks with the NF-κB-mediated pathway by Akt phosphorylation and
   activation of IKK, an upstream kinase of NF-κB. Small molecule inhibitors Erlotinib,
@@ -160,4 +160,7 @@ chemicals:
   source: MESH
   identifier: D015232
 diseases: []
+figid_alias: PMC2981059__F6
+redirect_from: /figures/PMC2981059__F6
+figtype: Figure
 ---

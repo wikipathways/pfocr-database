@@ -1,7 +1,7 @@
 ---
 figid: PMC2840217__toxscikfq003f06_3c
 figlink: /pmc/articles/PMC2840217/figure/fig6/
-number: FIG. 6
+number: F6
 caption: Antioxidant and phase II detoxifying enzyme genes in response to MG132 (A),
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells. A knowledge-based pathway
   about antioxidant and phase II detoxifying enzyme regulation was built in GenMAPP
@@ -422,4 +422,7 @@ genes:
   entrez: '3727'
 chemicals: []
 diseases: []
+figid_alias: PMC2840217__F6
+redirect_from: /figures/PMC2840217__F6
+figtype: Figure
 ---

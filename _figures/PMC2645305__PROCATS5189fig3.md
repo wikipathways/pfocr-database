@@ -1,7 +1,7 @@
 ---
 figid: PMC2645305__PROCATS5189fig3
 figlink: /pmc/articles/PMC2645305/figure/fig3/
-number: <b>Figure 3.</b>
+number: F3
 caption: Signaling intermediates and eukaryotic translation initiation factors regulating
   cell size and contractile protein expression. The eIF4E and eIF2 pathways regulate
   the efficiency of translation, whereas the p70 ribosomal S6 kinase pathway regulates
@@ -14,8 +14,7 @@ pathway_score: 0.9086091
 filename: PROCATS5189fig3.jpg
 figtitle: Airway Smooth Muscle Growth in Asthma
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ genes:
   entrez: '207'
 chemicals: []
 diseases: []
+figid_alias: PMC2645305__F3
+redirect_from: /figures/PMC2645305__F3
+figtype: Figure
 ---

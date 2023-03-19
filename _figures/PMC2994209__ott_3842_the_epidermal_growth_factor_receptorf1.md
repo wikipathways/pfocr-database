@@ -1,7 +1,7 @@
 ---
 figid: PMC2994209__ott_3842_the_epidermal_growth_factor_receptorf1
 figlink: /pmc/articles/PMC2994209/figure/f1-ott_3842_the_epidermal_growth_factor_receptor/
-number: Figure 1
+number: F1
 caption: 'HER receptors and their ligands. Despite their structural homology, HER
   receptors differ in their ligand specificities. Some of these ligands bind exclusively
   to EGFR, such as EGF, TGF-α, and AREG, or bind exclusively to HER-4, such as NRG3
@@ -478,4 +478,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC2994209__F1
+redirect_from: /figures/PMC2994209__F1
+figtype: Figure
 ---

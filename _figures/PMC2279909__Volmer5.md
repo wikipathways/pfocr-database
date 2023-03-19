@@ -1,7 +1,7 @@
 ---
 figid: PMC2279909__Volmer5
 figlink: /pmc/articles/PMC2279909/figure/f5/
-number: FIGURE 5
+number: F5
 caption: Metabolic pathway for lactose degradation.
 pmcid: PMC2279909
 papertitle: 'Differential Proteome Analysis: Two-Dimensional Nano-LC/MS of E. Coli
@@ -12,8 +12,7 @@ pathway_score: 0.9226835
 filename: Volmer5.jpg
 figtitle: Metabolic pathway for lactose degradation
 year: '2003'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -65,4 +64,7 @@ chemicals:
   source: MESH
   identifier: D014530
 diseases: []
+figid_alias: PMC2279909__F5
+redirect_from: /figures/PMC2279909__F5
+figtype: Figure
 ---

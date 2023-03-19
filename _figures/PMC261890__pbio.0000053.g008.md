@@ -1,7 +1,7 @@
 ---
 figid: PMC261890__pbio.0000053.g008
 figlink: /pmc/articles/PMC261890/figure/pbio.0000053-g008/
-number: Figure 8
+number: F8
 caption: 'Constitutive signaling in resting thymoytes and our model Jurkat T cell
   line represses RAG gene expression. Chemical inhibition of signaling molecules,
   genetic modifications, or induced expression of genes that resulted in elevated
@@ -506,4 +506,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC261890__F8
+redirect_from: /figures/PMC261890__F8
+figtype: Figure
 ---

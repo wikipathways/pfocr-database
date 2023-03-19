@@ -1,7 +1,7 @@
 ---
 figid: PMC2206000__eplasty08e2_fig2
 figlink: /pmc/articles/PMC2206000/figure/F2/
-number: Figure 2
+number: F2
 caption: Molecules and pathways implicated in sulfur mustard (SM)-induced apoptosis.
   All molecules in red have been demonstrated to be activated or upregulated in SM
   exposure. Molecules in white have been demonstrated to play a fundamental role in
@@ -185,4 +185,7 @@ genes:
   entrez: '143'
 chemicals: []
 diseases: []
+figid_alias: PMC2206000__F2
+redirect_from: /figures/PMC2206000__F2
+figtype: Figure
 ---

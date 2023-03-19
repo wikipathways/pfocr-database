@@ -1,7 +1,7 @@
 ---
 figid: PMC2908475__intimmdxq053f02_4c
 figlink: /pmc/articles/PMC2908475/figure/fig2/
-number: Fig. 2
+number: F2
 caption: Model of the intracellular signaling network regulating T-cell trafficking
   and differentiation. Antigen-specific CD8+ T cells are activated following engagement
   of the TCR with cognate peptide antigen presented in the context of MHC-I (p–MHCI).
@@ -292,4 +292,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2908475__F2
+redirect_from: /figures/PMC2908475__F2
+figtype: Figure
 ---

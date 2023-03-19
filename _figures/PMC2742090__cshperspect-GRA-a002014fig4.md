@@ -1,7 +1,7 @@
 ---
 figid: PMC2742090__cshperspect-GRA-a002014fig4
 figlink: /pmc/articles/PMC2742090/figure/A002014F4/
-number: Figure 4
+number: F4
 caption: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
   proteins. The membrane proteins Gas1, Cdo, and Boc promote the activation of Smo
   and are transcriptionally inhibited by SHH signaling. Conversely, Ptc1 and Hhip1
@@ -17,8 +17,7 @@ filename: cshperspect-GRA-a002014fig4.jpg
 figtitle: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
   proteins
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -64,4 +63,7 @@ genes:
   entrez: '2619'
 chemicals: []
 diseases: []
+figid_alias: PMC2742090__F4
+redirect_from: /figures/PMC2742090__F4
+figtype: Figure
 ---

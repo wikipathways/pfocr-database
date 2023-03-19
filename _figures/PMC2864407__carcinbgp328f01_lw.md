@@ -1,7 +1,7 @@
 ---
 figid: PMC2864407__carcinbgp328f01_lw
 figlink: /pmc/articles/PMC2864407/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Description of the sex hormone metabolic pathway: genes involved in synthesis,
   bioactivation, metabolism, and inactivation of estrogen and other hormones.'
 pmcid: PMC2864407
@@ -125,4 +125,7 @@ chemicals:
   source: MESH
   identifier: D013739
 diseases: []
+figid_alias: PMC2864407__F1
+redirect_from: /figures/PMC2864407__F1
+figtype: Figure
 ---

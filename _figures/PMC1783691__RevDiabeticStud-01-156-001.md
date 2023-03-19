@@ -1,7 +1,7 @@
 ---
 figid: PMC1783691__RevDiabeticStud-01-156-001
 figlink: /pmc/articles/PMC1783691/figure/F1/
-number: Figure 1
+number: F1
 caption: The figure depicts the role of various costimulatory molecules in the activation
   of naïve and differentiated T cells. Naïve T cells and Th1 cells rely heavily on
   CD28 and CD40L engagement to expand and differentiate. The ICOS/ICOSL pathway works
@@ -125,4 +125,7 @@ genes:
   entrez: '6964'
 chemicals: []
 diseases: []
+figid_alias: PMC1783691__F1
+redirect_from: /figures/PMC1783691__F1
+figtype: Figure
 ---

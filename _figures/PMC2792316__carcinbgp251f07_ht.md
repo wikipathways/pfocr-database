@@ -1,7 +1,7 @@
 ---
 figid: PMC2792316__carcinbgp251f07_ht
 figlink: /pmc/articles/PMC2792316/figure/fig7/
-number: Fig. 7
+number: F7
 caption: A hypothetical model of the Abi1 signaling that regulates invadopodia formation
   and the Src pathway in MDA-MB-231 breast cancer cells.
 pmcid: PMC2792316
@@ -15,8 +15,7 @@ filename: carcinbgp251f07_ht.jpg
 figtitle: A hypothetical model of the Abi1 signaling that regulates invadopodia formation
   and the Src pathway in MDA-MB-231 breast cancer cells
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ genes:
   entrez: '8976'
 chemicals: []
 diseases: []
+figid_alias: PMC2792316__F7
+redirect_from: /figures/PMC2792316__F7
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3101847__cshperspect-PRT-004440_F1
 figlink: /pmc/articles/PMC3101847/figure/A004440F1/
-number: Figure 1
+number: F1
 caption: Pathways that regulate aging. The insulin-signaling pathway and dietary restriction
   pathway induce longevity through mechanisms that are at least partially understood.
   Reduced mitochondrial function also increases lifespan, but the signaling components
@@ -137,4 +137,7 @@ genes:
   entrez: '5571'
 chemicals: []
 diseases: []
+figid_alias: PMC3101847__F1
+redirect_from: /figures/PMC3101847__F1
+figtype: Figure
 ---

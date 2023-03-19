@@ -1,7 +1,7 @@
 ---
 figid: PMC2908766__cshperspect-IMS-002436_F2
 figlink: /pmc/articles/PMC2908766/figure/A002436F2/
-number: Figure 2
+number: F2
 caption: PI3K dependent signal pathway. Tyrosine phosphorylation of the YMNM motif
   via Src family kinases initiates the binding of the p85 subunit of PI3K. PI3K activity
   leads to the production of D-3 lipids, which recruit proteins via their pleckstrin
@@ -183,4 +183,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2908766__F2
+redirect_from: /figures/PMC2908766__F2
+figtype: Figure
 ---

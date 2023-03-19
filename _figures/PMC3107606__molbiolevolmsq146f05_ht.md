@@ -1,7 +1,7 @@
 ---
 figid: PMC3107606__molbiolevolmsq146f05_ht
 figlink: /pmc/articles/PMC3107606/figure/fig5/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 5'
+number: F5
 caption: Genes uniquely induced in F1 hybrids throughout humoral immune pathways.
   Genes in black are induced only in hybrids 6 (A) or 12 h (B) after infection with
   Serratia marcescens. Pathway genes and interactions included based on information
@@ -16,8 +16,7 @@ filename: molbiolevolmsq146f05_ht.jpg
 figtitle: Functional Regulatory Divergence of the Innate Immune System in Interspecific
   Drosophila Hybrids
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '3654'
 chemicals: []
 diseases: []
+figid_alias: PMC3107606__F5
+redirect_from: /figures/PMC3107606__F5
+figtype: Figure
 ---

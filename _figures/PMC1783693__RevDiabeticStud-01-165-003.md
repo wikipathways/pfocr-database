@@ -1,7 +1,7 @@
 ---
 figid: PMC1783693__RevDiabeticStud-01-165-003
 figlink: /pmc/articles/PMC1783693/figure/F3/
-number: Figure 3
+number: F3
 caption: The JNK pathway in the liver is activated by factors such as oxidative stress,
   free fatty acids (FFAs), and TNF-α. The levels of these factors are elevated under
   obese diabetic conditions. Serine phosphorylation of insulin receptor substrate-1
@@ -18,8 +18,7 @@ pathway_score: 0.8827739
 filename: RevDiabeticStud-01-165-003.jpg
 figtitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicity
 year: '2004'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC1783693__F3
+redirect_from: /figures/PMC1783693__F3
+figtype: Figure
 ---

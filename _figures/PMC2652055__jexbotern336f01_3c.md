@@ -1,7 +1,7 @@
 ---
 figid: PMC2652055__jexbotern336f01_3c
 figlink: /pmc/articles/PMC2652055/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Simplified overview of flavonol and anthocyanin biosynthesis within the
   phenylpropanoid pathway and its regulation in grape by characterized MYB genes (flavan-3-ols
   are not shown in this pathway). The repressor MYB4 is shown in red, while all MYB
@@ -21,8 +21,7 @@ figtitle: Simplified overview of flavonol and anthocyanin biosynthesis within th
   phenylpropanoid pathway and its regulation in grape by characterized MYB genes (flavan-3-ols
   are not shown in this pathway)
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -95,4 +94,7 @@ chemicals:
   source: MESH
   identifier: D044949
 diseases: []
+figid_alias: PMC2652055__F1
+redirect_from: /figures/PMC2652055__F1
+figtype: Figure
 ---

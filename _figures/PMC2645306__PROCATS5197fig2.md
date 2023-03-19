@@ -1,7 +1,7 @@
 ---
 figid: PMC2645306__PROCATS5197fig2
 figlink: /pmc/articles/PMC2645306/figure/fig2/
-number: <b>Figure 2.</b>
+number: F2
 caption: Signaling pathways that regulate actin polymerization and myosin II motors
   in smooth muscle cell migration. Activation of G protein–coupled receptors (GPCR)
   and receptor tyrosine kinases (RTK) initiates activation of parallel signaling cascades
@@ -464,4 +464,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC2645306__F2
+redirect_from: /figures/PMC2645306__F2
+figtype: Figure
 ---

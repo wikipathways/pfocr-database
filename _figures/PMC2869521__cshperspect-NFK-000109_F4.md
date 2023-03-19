@@ -1,7 +1,7 @@
 ---
 figid: PMC2869521__cshperspect-NFK-000109_F4
 figlink: /pmc/articles/PMC2869521/figure/A000109F4/
-number: Figure 4
+number: F4
 caption: Solid tumors activate the NF-κB pathway to maintain cell survival. (A) IKKε
   is frequently overexpressed in breast cancer in association with a gain or amplification
   of its genomic locus. IKKε phosphorylates a serine residue in CYLD, thereby lowering
@@ -184,4 +184,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2869521__F4
+redirect_from: /figures/PMC2869521__F4
+figtype: Figure
 ---

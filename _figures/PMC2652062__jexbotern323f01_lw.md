@@ -1,7 +1,7 @@
 ---
 figid: PMC2652062__jexbotern323f01_lw
 figlink: /pmc/articles/PMC2652062/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'The flavonoid pathway in Arabidopsis. Shown are the locations of the transparent
   testa mutations included in these experiments (in brackets). Mutations tt1, tt2,
   tt8, and ttg are in regulatory genes involved in several points of the pathway.
@@ -25,8 +25,7 @@ pathway_score: 0.8321596
 filename: jexbotern323f01_lw.jpg
 figtitle: The flavonoid pathway in Arabidopsis
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ chemicals:
   source: MESH
   identifier: D044949
 diseases: []
+figid_alias: PMC2652062__F1
+redirect_from: /figures/PMC2652062__F1
+figtype: Figure
 ---

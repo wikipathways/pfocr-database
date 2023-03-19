@@ -1,7 +1,7 @@
 ---
 figid: PMC2840217__toxscikfq003f09_3c
 figlink: /pmc/articles/PMC2840217/figure/fig9/
-number: FIG. 9
+number: F9
 caption: Parkinson's disease (PD)-related gene pathway in response to MG132 (A), methylmercury
   (MeHg, B), and cadmium (Cd, C) in MEF cells. PD pathway was modified from KEGG in
   GenMAPP program. Differential gene expression was based on treatment versus control
@@ -281,4 +281,7 @@ chemicals:
   source: MESH
   identifier: D004298
 diseases: []
+figid_alias: PMC2840217__F9
+redirect_from: /figures/PMC2840217__F9
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2882123__cshperspect-NFK-000232_F7
 figlink: /pmc/articles/PMC2882123/figure/A000232F7/
-number: Figure 7
+number: F7
 caption: Imd pathway in adult Drosophila melanogaster. The transmembrane protein PGRP-LC
   senses the presence of DAP-type PGN and activates the Imd pathway Imd has an essential
   role in controlling the phosphorylation of Relish through the activation of TAK1
@@ -117,4 +117,7 @@ genes:
   entrez: '8772'
 chemicals: []
 diseases: []
+figid_alias: PMC2882123__F7
+redirect_from: /figures/PMC2882123__F7
+figtype: Figure
 ---

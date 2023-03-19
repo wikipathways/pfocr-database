@@ -1,7 +1,7 @@
 ---
 figid: PMC2877891__jexboterq066f04_3c
 figlink: /pmc/articles/PMC2877891/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Methionine metabolic pathway during Chinese fir seed filling. The proteins
   identified in our study as being significantly up- or down-regulated are shown with
   the corresponding grading.
@@ -14,8 +14,7 @@ pathway_score: 0.9094445
 filename: jexboterq066f04_3c.jpg
 figtitle: Methionine metabolic pathway during Chinese fir seed filling
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -63,4 +62,7 @@ chemicals:
   source: MESH
   identifier: D008715
 diseases: []
+figid_alias: PMC2877891__F4
+redirect_from: /figures/PMC2877891__F4
+figtype: Figure
 ---

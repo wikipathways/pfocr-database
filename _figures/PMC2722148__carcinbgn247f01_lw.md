@@ -1,7 +1,7 @@
 ---
 figid: PMC2722148__carcinbgn247f01_lw
 figlink: /pmc/articles/PMC2722148/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The MAPK transduction signaling pathway.
 pmcid: PMC2722148
 papertitle: Hormone-dependent effects of FGFR2 and MAP3K1 in breast cancer susceptibility
@@ -199,4 +199,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC2722148__F1
+redirect_from: /figures/PMC2722148__F1
+figtype: Figure
 ---

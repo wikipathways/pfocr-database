@@ -1,7 +1,7 @@
 ---
 figid: PMC2733841__intimmdxn088f01_lw
 figlink: /pmc/articles/PMC2733841/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The proposed pathway of regulatory controls (see list of abbreviations).
 pmcid: PMC2733841
 papertitle: What roles do regulatory T cells play in the control of the adaptive immune
@@ -12,8 +12,7 @@ pathway_score: 0.8303138
 filename: intimmdxn088f01_lw.jpg
 figtitle: The proposed pathway of regulatory controls (see list of abbreviations)
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -61,4 +60,7 @@ genes:
   entrez: '2296'
 chemicals: []
 diseases: []
+figid_alias: PMC2733841__F1
+redirect_from: /figures/PMC2733841__F1
+figtype: Figure
 ---

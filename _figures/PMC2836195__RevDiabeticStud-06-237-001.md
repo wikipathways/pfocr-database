@@ -1,7 +1,7 @@
 ---
 figid: PMC2836195__RevDiabeticStud-06-237-001
 figlink: /pmc/articles/PMC2836195/figure/F1/
-number: Figure 1
+number: F1
 caption: The figure shows the molecular pathway of mitochondrial biogenesis. The two
   major initial events are transcription and replication of mitochondrial DNA. These
   events are the pre-requisite for ATP production to fulfill the energy requirements
@@ -321,4 +321,7 @@ genes:
   entrez: '5534'
 chemicals: []
 diseases: []
+figid_alias: PMC2836195__F1
+redirect_from: /figures/PMC2836195__F1
+figtype: Figure
 ---

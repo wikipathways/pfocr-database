@@ -1,7 +1,7 @@
 ---
 figid: PMC2905205__jexboterq177f01_ht
 figlink: /pmc/articles/PMC2905205/figure/fig1/
-number: Fig. 1
+number: F1
 caption: A schematic representation of possible signalling routes of copper (A) and
   hydrogen peroxide (B) (the dotted line denotes a putative pathway; for details see
   the Introduction).
@@ -14,8 +14,7 @@ pathway_score: 0.764123
 filename: jexboterq177f01_ht.jpg
 figtitle: Signalling routes of copper and hydrogen peroxide
 year: '2010'
-organisms:
-- XXX
+organisms: XXX
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -239,4 +238,7 @@ chemicals:
   source: MESH
   identifier: D013438
 diseases: []
+figid_alias: PMC2905205__F1
+redirect_from: /figures/PMC2905205__F1
+figtype: Figure
 ---

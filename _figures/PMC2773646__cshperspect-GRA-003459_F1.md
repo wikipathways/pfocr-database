@@ -1,7 +1,7 @@
 ---
 figid: PMC2773646__cshperspect-GRA-003459_F1
 figlink: /pmc/articles/PMC2773646/figure/A003459F1/
-number: Figure 1
+number: F1
 caption: The Nodal signaling pathway. After processing of the Nodal precursor by convertases,
   Nodal ligands signal through activin receptors and EGF-CFC coreceptors. Cerberus
   and Lefty act as extracellular inhibitors. MicroRNAs belonging to the miR-430 family
@@ -127,4 +127,7 @@ genes:
   entrez: '4089'
 chemicals: []
 diseases: []
+figid_alias: PMC2773646__F1
+redirect_from: /figures/PMC2773646__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2736891__jexboterp218f01_lw
 figlink: /pmc/articles/PMC2736891/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Carotenoid biosynthetic pathway in plants. Enzymatic conversions are shown
   by arrows with the enzymes responsible in bold. PSY, phytoene synthase; PDS, phytoene
   desaturase; ZDS, zeta-carotene desaturase; CRTISO, carotene isomerase; LCY-β, lycopene
@@ -16,8 +16,7 @@ pathway_score: 0.8720425
 filename: jexboterp218f01_lw.jpg
 figtitle: Carotenoid biosynthetic pathway in plants
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -79,4 +78,7 @@ chemicals:
   source: MESH
   identifier: D065146
 diseases: []
+figid_alias: PMC2736891__F1
+redirect_from: /figures/PMC2736891__F1
+figtype: Figure
 ---

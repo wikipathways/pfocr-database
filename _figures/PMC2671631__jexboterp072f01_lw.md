@@ -1,7 +1,7 @@
 ---
 figid: PMC2671631__jexboterp072f01_lw
 figlink: /pmc/articles/PMC2671631/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'The L-arginine biosynthetic pathway and its association to proline and polyamine
   biosynthesis. NAGS, N-acetylglutamate synthase; NAGK, N-acetylglutamate kinase;
   NAGPR, N-acetylglutamate 5-phosphate reductase; NAOAT, N-acetylornithine transaminase;
@@ -25,8 +25,7 @@ filename: jexboterp072f01_lw.jpg
 figtitle: The L-arginine biosynthetic pathway and its association to proline and polyamine
   biosynthesis
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -140,4 +139,7 @@ chemicals:
   source: MESH
   identifier: D018698
 diseases: []
+figid_alias: PMC2671631__F1
+redirect_from: /figures/PMC2671631__F1
+figtype: Figure
 ---

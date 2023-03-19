@@ -1,7 +1,7 @@
 ---
 figid: PMC2828273__cshperspect-PFT-001057_F1
 figlink: /pmc/articles/PMC2828273/figure/A001057F1/
-number: Figure 1
+number: F1
 caption: The interconnections between p53 and IGF-1/AKT/mTOR pathways. p53 negatively
   regulates IGF-1/AKT and mTOR pathways through its up-regulation of IGF-BP3, PTEN,
   TSC2, AMPK β1, and Sestrin1/2 in response to stress. mTORC1 activates the α-4 subunit
@@ -233,4 +233,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2828273__F1
+redirect_from: /figures/PMC2828273__F1
+figtype: Figure
 ---

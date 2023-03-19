@@ -1,7 +1,7 @@
 ---
 figid: PMC2651457__jexbotern290f01_ht
 figlink: /pmc/articles/PMC2651457/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The monolignol biosynthesis pathway. The grey route is the most favoured
   in angiosperms. All the enzymatic reactions presented in the pathway have been demonstrated
   at least in vitro. Because of the variety of isoenzymes and kinetic properties,
@@ -20,8 +20,7 @@ pathway_score: 0.7935909
 filename: jexbotern290f01_ht.jpg
 figtitle: The monolignol biosynthesis pathway
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ chemicals:
   source: MESH
   identifier: D010649
 diseases: []
+figid_alias: PMC2651457__F1
+redirect_from: /figures/PMC2651457__F1
+figtype: Figure
 ---

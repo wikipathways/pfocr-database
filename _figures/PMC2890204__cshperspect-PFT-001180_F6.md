@@ -1,7 +1,7 @@
 ---
 figid: PMC2890204__cshperspect-PFT-001180_F6
 figlink: /pmc/articles/PMC2890204/figure/A001180F6/
-number: Figure 6
+number: F6
 caption: Existence of two branches in the p53 pathway allows pharmacological dissection
   of different p53 activities. By selective blocking of the mitochondrial branch of
   the pathway (by PFTμ) can protect from lethal hematopoietic radiation syndrome without
@@ -17,8 +17,7 @@ filename: cshperspect-PFT-001180_F6.jpg
 figtitle: Existence of two branches in the p53 pathway allows pharmacological dissection
   of different p53 activities
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -71,4 +70,7 @@ genes:
   entrez: '1647'
 chemicals: []
 diseases: []
+figid_alias: PMC2890204__F6
+redirect_from: /figures/PMC2890204__F6
+figtype: Figure
 ---

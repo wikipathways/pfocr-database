@@ -1,7 +1,7 @@
 ---
 figid: PMC2734294__toxscikfm301f03_4c
 figlink: /pmc/articles/PMC2734294/figure/fig3/
-number: FIG. 3
+number: F3
 caption: (A) Several molecular features in the cell body of an oxidatively stressed
   neuron. Acrolein and HNE are endogenous by-products of membrane lipid peroxidation
   that develop as a consequence of oxidative stress (a). These type-2 alkenes can
@@ -233,4 +233,7 @@ chemicals:
   source: MESH
   identifier: D000171
 diseases: []
+figid_alias: PMC2734294__F3
+redirect_from: /figures/PMC2734294__F3
+figtype: Figure
 ---

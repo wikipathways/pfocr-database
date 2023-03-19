@@ -1,7 +1,7 @@
 ---
 figid: PMC2633249__hippokratia-13-29-g001
 figlink: /pmc/articles/PMC2633249/figure/F3/
-number: 'Figure 3:'
+number: F3
 caption: '. Signal pathways by autocrine motility factor (AMF). The pathways of migration
   and suppression of apoptosis refer to tumour cells, whereas angiogenesis pathway
   refers to endothelial cells. Rho-like proteins and Rac1: GTPases. Fms related tyrosine
@@ -214,4 +214,7 @@ genes:
   entrez: '7422'
 chemicals: []
 diseases: []
+figid_alias: PMC2633249__F3
+redirect_from: /figures/PMC2633249__F3
+figtype: Figure
 ---

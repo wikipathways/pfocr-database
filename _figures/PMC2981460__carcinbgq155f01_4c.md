@@ -1,7 +1,7 @@
 ---
 figid: PMC2981460__carcinbgq155f01_4c
 figlink: /pmc/articles/PMC2981460/figure/fig1/
-number: Fig. 1
+number: F1
 caption: TGFβ canonical signal transduction pathway and transcriptional responses
   mediating TGFβ growth inhibitory effects. At the cell surface, TGFβ assembles a
   complex of transmembrane receptor serine/threonine kinases (types I and II) and
@@ -109,4 +109,7 @@ genes:
   entrez: '4609'
 chemicals: []
 diseases: []
+figid_alias: PMC2981460__F1
+redirect_from: /figures/PMC2981460__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2869518__cshperspect-IMS-002485_F3
 figlink: /pmc/articles/PMC2869518/figure/A002485F3/
-number: Figure 3
+number: F3
 caption: Proximal signaling events in the TCR-coupled signaling pathway. Interactions
   between the TCR and peptide-MHC results in the activation of Lck, a member of the
   Src family of tyrosine kinases. Lck then phosphorylates the two-tyrosine residues
@@ -434,4 +434,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC2869518__F3
+redirect_from: /figures/PMC2869518__F3
+figtype: Figure
 ---

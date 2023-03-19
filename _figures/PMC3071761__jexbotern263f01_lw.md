@@ -1,7 +1,7 @@
 ---
 figid: PMC3071761__jexbotern263f01_lw
 figlink: /pmc/articles/PMC3071761/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
   rhizome. Solid and dashed arrows are for established and proposed conversions, respectively.
   Note that compounds 9 and 10 are not proposed to be intermediates in the biosynthesis
@@ -20,8 +20,7 @@ filename: jexbotern263f01_lw.jpg
 figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
   rhizome
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: D061065
 diseases: []
+figid_alias: PMC3071761__F1
+redirect_from: /figures/PMC3071761__F1
+figtype: Figure
 ---

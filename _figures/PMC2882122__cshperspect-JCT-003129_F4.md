@@ -1,7 +1,7 @@
 ---
 figid: PMC2882122__cshperspect-JCT-003129_F4
 figlink: /pmc/articles/PMC2882122/figure/A003129F4/
-number: Figure 4
+number: F4
 caption: 'Selection of expression patterns and activities of members of the cadherin
   superfamily in cancer. Three cell types are partly depicted: a cancer cell, an endothelial
   cell, and another type of stromal cell. Protein domains in green are strongly homologous
@@ -378,4 +378,7 @@ genes:
   entrez: '6416'
 chemicals: []
 diseases: []
+figid_alias: PMC2882122__F4
+redirect_from: /figures/PMC2882122__F4
+figtype: Figure
 ---

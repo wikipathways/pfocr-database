@@ -1,7 +1,7 @@
 ---
 figid: PMC2857166__cshperspect-AXN-001941_F2
 figlink: /pmc/articles/PMC2857166/figure/A001941F2/
-number: Figure 2
+number: F2
 caption: Regulation of receptor activation and signaling by proteolytic processing.
   (A) Following ligand-receptor complex formation, ADAM10 cleaves the ephrinA5 ligand.
   This regulated proteolytic event both leads to release from the initial cell–cell
@@ -26,8 +26,7 @@ pathway_score: 0.9506227
 filename: cshperspect-AXN-001941_F2.jpg
 figtitle: Regulation of receptor activation and signaling by proteolytic processing
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -77,4 +76,7 @@ genes:
   entrez: '102'
 chemicals: []
 diseases: []
+figid_alias: PMC2857166__F2
+redirect_from: /figures/PMC2857166__F2
+figtype: Figure
 ---

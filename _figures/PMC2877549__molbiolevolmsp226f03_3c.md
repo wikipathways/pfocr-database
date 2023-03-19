@@ -1,7 +1,7 @@
 ---
 figid: PMC2877549__molbiolevolmsp226f03_3c
 figlink: /pmc/articles/PMC2877549/figure/fig3/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 3'
+number: F3
 caption: The proposed major metabolic pathways in Ascogregarina taiwanensis as determined
   by annotations of the GSS. Pathways and features that are shared with Cryptosporidium
   to the exclusion of other apicomplexans are shown in red, whereas those shared with
@@ -17,8 +17,7 @@ filename: molbiolevolmsp226f03_3c.jpg
 figtitle: A Genome-Sequence Survey for Ascogregarina taiwanensis Supports Evolutionary
   Affiliation but Metabolic Diversity between a Gregarine and Cryptosporidium
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC2877549__F3
+redirect_from: /figures/PMC2877549__F3
+figtype: Figure
 ---

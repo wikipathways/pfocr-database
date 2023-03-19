@@ -1,7 +1,7 @@
 ---
 figid: PMC2826661__jexboterp394f01_ht
 figlink: /pmc/articles/PMC2826661/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Schematic diagram of the biosynthetic pathway for anthocyanins, caffeoylquinates,
   and other major phenolic derivatives in potato tuber. Enzymes abbreviated are as
   follows: ADH, arogenate dehydrogenase; ADT, arogenate dehydratase; AGMT, anthocyanidin-glycoside-3′-O-methyl
@@ -247,4 +247,7 @@ chemicals:
   source: MESH
   identifier: D047188
 diseases: []
+figid_alias: PMC2826661__F1
+redirect_from: /figures/PMC2826661__F1
+figtype: Figure
 ---

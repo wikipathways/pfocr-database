@@ -1,7 +1,7 @@
 ---
 figid: PMC2773630__cshperspect-SYM-003384_F6
 figlink: /pmc/articles/PMC2773630/figure/A003384F6/
-number: Figure 6
+number: F6
 caption: Molecular interactions during pheromone induced cell polarization. (A) Polarized
   growth is initiated toward the activated pheromone receptor through a complex signaling
   network. Cdc24 accumulates in the region of activated pheromone receptor (Gβγ) through
@@ -28,8 +28,7 @@ pathway_score: 0.9023828
 filename: cshperspect-SYM-003384_F6.jpg
 figtitle: Molecular interactions during pheromone induced cell polarization
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ chemicals:
   source: MESH
   identifier: D010675
 diseases: []
+figid_alias: PMC2773630__F6
+redirect_from: /figures/PMC2773630__F6
+figtype: Figure
 ---

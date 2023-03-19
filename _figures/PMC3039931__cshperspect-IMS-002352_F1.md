@@ -1,7 +1,7 @@
 ---
 figid: PMC3039931__cshperspect-IMS-002352_F1
 figlink: /pmc/articles/PMC3039931/figure/A002352F1/
-number: Figure 1
+number: F1
 caption: Cytoplasmic tyrosine kinases in the activating signaling pathways utilizing
   ITAM-containing adapters. Examples of immunoreceptors, hemi-ITAM C-type lectin receptors,
   and nonimmunoreceptors that utilize ITAM-signaling adapters and the cytoplasmic
@@ -347,4 +347,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3039931__F1
+redirect_from: /figures/PMC3039931__F1
+figtype: Figure
 ---

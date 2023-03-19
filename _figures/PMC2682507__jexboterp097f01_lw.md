@@ -1,7 +1,7 @@
 ---
 figid: PMC2682507__jexboterp097f01_lw
 figlink: /pmc/articles/PMC2682507/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'A stylized diagram of the flavonoid biosynthetic pathway. CHS is the first
   committed step towards flavonoid production, leading to the production of the major
   flavonoids, flavonols, and anthocyanins. Abbreviations: PAL, phenylalanine ammonia
@@ -16,8 +16,7 @@ pathway_score: 0.8840669
 filename: jexboterp097f01_lw.jpg
 figtitle: A stylized diagram of the flavonoid biosynthetic pathway
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ chemicals:
   source: MESH
   identifier: D047188
 diseases: []
+figid_alias: PMC2682507__F1
+redirect_from: /figures/PMC2682507__F1
+figtype: Figure
 ---

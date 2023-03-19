@@ -1,7 +1,7 @@
 ---
 figid: PMC2930805__carcinbgq142f01_ht
 figlink: /pmc/articles/PMC2930805/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Metabolic signaling pathway of candidate pathway.
 pmcid: PMC2930805
 papertitle: 'Genetic variation in a metabolic signaling pathway and colon and rectal
@@ -150,4 +150,7 @@ genes:
   entrez: '5728'
 chemicals: []
 diseases: []
+figid_alias: PMC2930805__F1
+redirect_from: /figures/PMC2930805__F1
+figtype: Figure
 ---

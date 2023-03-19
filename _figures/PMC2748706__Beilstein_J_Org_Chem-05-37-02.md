@@ -1,7 +1,7 @@
 ---
 figid: PMC2748706__Beilstein_J_Org_Chem-05-37-02
 figlink: /pmc/articles/PMC2748706/figure/C1/
-number: Scheme 1
+number: S1
 caption: Biosynthetic pathway from fluoride ion to fluoroacetate 1 and 4-fluorothreonine
   2 in S. cattleya [].
 pmcid: PMC2748706
@@ -13,8 +13,7 @@ filename: Beilstein_J_Org_Chem-05-37-02.jpg
 figtitle: Biosynthetic pathway from fluoride ion to fluoroacetate 1 and 4-fluorothreonine
   2 in S
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: D011685
 diseases: []
+figid_alias: PMC2748706__S1
+redirect_from: /figures/PMC2748706__S1
+figtype: Scheme
 ---

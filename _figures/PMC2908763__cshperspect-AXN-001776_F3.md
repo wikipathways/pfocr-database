@@ -1,7 +1,7 @@
 ---
 figid: PMC2908763__cshperspect-AXN-001776_F3
 figlink: /pmc/articles/PMC2908763/figure/A001776F3/
-number: Figure 3
+number: F3
 caption: Olfactory sensory neuron projections along the anterior–posterior axis in
   the mouse olfactory system. Each OR is thought to generate a unique level of cAMP
   signaling, which is converted to relative expression levels of axon guidance molecules
@@ -178,4 +178,7 @@ genes:
   entrez: '5575'
 chemicals: []
 diseases: []
+figid_alias: PMC2908763__F3
+redirect_from: /figures/PMC2908763__F3
+figtype: Figure
 ---

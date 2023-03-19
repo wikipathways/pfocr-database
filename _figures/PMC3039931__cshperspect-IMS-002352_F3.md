@@ -1,7 +1,7 @@
 ---
 figid: PMC3039931__cshperspect-IMS-002352_F3
 figlink: /pmc/articles/PMC3039931/figure/A002352F3/
-number: Figure 3
+number: F3
 caption: Inhibitory pathways in innate cells utilizing ITIM or “inhibitory” ITAM signaling
   pathways. Shown to the left are classical inhibitory receptors that contain ITIM
   binding sequences within their cytoplasmic tails. Like activating receptors, the
@@ -346,4 +346,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3039931__F3
+redirect_from: /figures/PMC3039931__F3
+figtype: Figure
 ---

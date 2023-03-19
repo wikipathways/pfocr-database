@@ -1,7 +1,7 @@
 ---
 figid: PMC2515871__molbiolevolmsn138f02_ht
 figlink: /pmc/articles/PMC2515871/figure/fig2/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 2.—'
+number: F2
 caption: Signaling pathway in the regulation of gluconeogenesis by carbon source-responsive
   element-binding factors, Cat8p and Sip4p. Adapted from .
 pmcid: PMC2515871
@@ -14,8 +14,7 @@ filename: molbiolevolmsn138f02_ht.jpg
 figtitle: Roles of cis- and trans-Changes in the Regulatory Evolution of Genes in
   the Gluconeogenic Pathway in Yeast
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ genes:
   entrez: '2203'
 chemicals: []
 diseases: []
+figid_alias: PMC2515871__F2
+redirect_from: /figures/PMC2515871__F2
+figtype: Figure
 ---

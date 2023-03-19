@@ -1,7 +1,7 @@
 ---
 figid: PMC2924424__chemsebjq045f02_3c
 figlink: /pmc/articles/PMC2924424/figure/fig2/
-number: Figure 2
+number: F2
 caption: 'Potential model for phosphoinositide-3-kinase (PI3K)-dependent opponent
   input to rodent olfactory receptor neurons (ORNs). One component of a binary odorant
   mixture (yellow circles) excites the cell through the canonical cyclic nucleotide
@@ -126,4 +126,7 @@ genes:
   entrez: '51196'
 chemicals: []
 diseases: []
+figid_alias: PMC2924424__F2
+redirect_from: /figures/PMC2924424__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2803207__jexboterp310f01_lw
 figlink: /pmc/articles/PMC2803207/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
   pathway in higher plants. Enzymes are (1) phosphoglucose isomerase, (2) phosphomannose
   isomerase (3), phosphomannose mutase (PMM), (4) GDP-mannose pyrophosphorylase (VTC1),
@@ -19,8 +19,7 @@ filename: jexboterp310f01_lw.jpg
 figtitle: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
   pathway in higher plants
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ chemicals:
   source: MESH
   identifier: D008358
 diseases: []
+figid_alias: PMC2803207__F1
+redirect_from: /figures/PMC2803207__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2691147__carcinbgp048f01_4c
 figlink: /pmc/articles/PMC2691147/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Hh signalling—a simplified model. In the absence of Hh ligand (Hh), the pathway
   is inactive. Ptch1 inhibits the activity of Smo, thus the pathway activating Gli
   transcription factors is prevented from entering the nucleus and the Hh target genes
@@ -112,4 +112,7 @@ genes:
   entrez: '2735'
 chemicals: []
 diseases: []
+figid_alias: PMC2691147__F1
+redirect_from: /figures/PMC2691147__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2773638__cshperspect-SYM-001644_F4
 figlink: /pmc/articles/PMC2773638/figure/A001644F4/
-number: Figure 4
+number: F4
 caption: Coordination of extracellular and intracellular signaling regulates cytoskeletal
   dynamics and axon formation. Overview of selected signaling pathways that may initiate
   neuronal polarization and axon specification. BDNF signaling (blue) leads to activation
@@ -433,4 +433,7 @@ genes:
   entrez: '7483'
 chemicals: []
 diseases: []
+figid_alias: PMC2773638__F4
+redirect_from: /figures/PMC2773638__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2721684__intimmdxp017f01_4c
 figlink: /pmc/articles/PMC2721684/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2. (A) The TLR4–MD-2
   complex engages with LPS on the cell surface via LBP and CD14 (data not shown) and
   then recruits a TIR domain-containing adapter complex including TIRAP and MyD88.
@@ -242,4 +242,7 @@ genes:
   entrez: '3661'
 chemicals: []
 diseases: []
+figid_alias: PMC2721684__F1
+redirect_from: /figures/PMC2721684__F1
+figtype: Figure
 ---

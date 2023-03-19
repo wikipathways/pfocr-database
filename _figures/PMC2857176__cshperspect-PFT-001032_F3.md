@@ -1,7 +1,7 @@
 ---
 figid: PMC2857176__cshperspect-PFT-001032_F3
 figlink: /pmc/articles/PMC2857176/figure/A001032F3/
-number: Figure 3
+number: F3
 caption: Map of selected p53 pathway-associated genes that harbor known or potential
   functional SNPs (octagon-shaped boxes) and their closely interacting genes (rectangular
   boxes). The map depicts genes involved in the core regulation of p53 (light red
@@ -230,4 +230,7 @@ diseases:
 - word: Melanoma
   source: ''
   identifier: ''
+figid_alias: PMC2857176__F3
+redirect_from: /figures/PMC2857176__F3
+figtype: Figure
 ---

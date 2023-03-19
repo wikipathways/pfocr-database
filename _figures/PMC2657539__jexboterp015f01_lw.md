@@ -1,7 +1,7 @@
 ---
 figid: PMC2657539__jexboterp015f01_lw
 figlink: /pmc/articles/PMC2657539/figure/fig1/
-number: Fig. 1
+number: F1
 caption: LOX pathway, simplified scheme. LOX, lipoxygenase; PXG, peroxygenase; HPL,
   hydroperoxide lyase; AOS, allene oxide synthase; AOC, allene oxide cyclase; ADH,
   alcohol dehydrogenase; HPOD/T, hydroperoxide of linoleic/linolenic acid; KOD/T,
@@ -17,8 +17,7 @@ pathway_score: 0.8120108
 filename: jexboterp015f01_lw.jpg
 figtitle: LOX pathway, simplified scheme
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -122,4 +121,7 @@ chemicals:
   source: MESH
   identifier: D058610
 diseases: []
+figid_alias: PMC2657539__F1
+redirect_from: /figures/PMC2657539__F1
+figtype: Figure
 ---

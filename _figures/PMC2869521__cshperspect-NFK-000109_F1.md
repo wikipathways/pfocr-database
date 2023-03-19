@@ -1,7 +1,7 @@
 ---
 figid: PMC2869521__cshperspect-NFK-000109_F1
 figlink: /pmc/articles/PMC2869521/figure/A000109F1/
-number: Figure 1
+number: F1
 caption: Role of BCR signaling to NF-κB in ABC DLBCL. (A) Schematic of BCR signaling
   to NF-κB. Recurrent genetic alterations in ABC DLBCL that result in constitutive
   NF-κB activation are indicated by the gray boxes. Proximal signaling by the BCR
@@ -245,4 +245,7 @@ genes:
   entrez: '10725'
 chemicals: []
 diseases: []
+figid_alias: PMC2869521__F1
+redirect_from: /figures/PMC2869521__F1
+figtype: Figure
 ---

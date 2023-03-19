@@ -1,7 +1,7 @@
 ---
 figid: PMC2869521__cshperspect-NFK-000109_F3
 figlink: /pmc/articles/PMC2869521/figure/A000109F3/
-number: Figure 3
+number: F3
 caption: Constitutive NF-κB pathway activation in multiple myeloma. (A) Genetic abnormalities
   that activate NF-κB in multiple myeloma. Gray boxes highlight recurrent genetic
   aberrations in multiple myeloma involving NF-κB pathway components. The kinase NIK
@@ -161,4 +161,7 @@ genes:
   entrez: '10673'
 chemicals: []
 diseases: []
+figid_alias: PMC2869521__F3
+redirect_from: /figures/PMC2869521__F3
+figtype: Figure
 ---

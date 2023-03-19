@@ -1,7 +1,7 @@
 ---
 figid: PMC2780706__Dtsch_Arztebl_Int-106-0677_002
 figlink: /pmc/articles/PMC2780706/figure/F2/
-number: Figure 2
+number: F2
 caption: Enzymatic sources of ROS, their effects and pharmacological modulation. NO
   synthases (NOS) generate nitric oxide (NO) from the amino acid arginine. NO activates
   soluble guanylate cyclase (sGC), which mediates its protective effects. sGC generates
@@ -236,4 +236,7 @@ chemicals:
   source: MESH
   identifier: D009566
 diseases: []
+figid_alias: PMC2780706__F2
+redirect_from: /figures/PMC2780706__F2
+figtype: Figure
 ---

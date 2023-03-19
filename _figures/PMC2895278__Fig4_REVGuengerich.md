@@ -1,7 +1,7 @@
 ---
 figid: PMC2895278__Fig4_REVGuengerich
 figlink: /pmc/articles/PMC2895278/figure/f4-0100153/
-number: Figure 4
+number: F4
 caption: Latter steps of postulated pathway for synthesis of morphine, based on studies
   with plants. See (–).
 pmcid: PMC2895278
@@ -14,8 +14,7 @@ filename: Fig4_REVGuengerich.jpg
 figtitle: Latter steps of postulated pathway for synthesis of morphine, based on studies
   with plants
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -54,4 +53,7 @@ chemicals:
   source: MESH
   identifier: D013797
 diseases: []
+figid_alias: PMC2895278__F4
+redirect_from: /figures/PMC2895278__F4
+figtype: Figure
 ---

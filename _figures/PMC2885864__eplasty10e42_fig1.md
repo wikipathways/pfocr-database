@@ -1,7 +1,7 @@
 ---
 figid: PMC2885864__eplasty10e42_fig1
 figlink: /pmc/articles/PMC2885864/figure/F1/
-number: Figure 1
+number: F1
 caption: Nitric oxide signaling pathway. NO indicates nitric oxide; sGC, soluble guanylate
   cyclase; GTP, Guanine triphosphate; cGMP, cyclic Guanine monophosphate; PDE, phosphodiesterase;
   PKG, protein kinase G.
@@ -172,4 +172,7 @@ genes:
   entrez: '5139'
 chemicals: []
 diseases: []
+figid_alias: PMC2885864__F1
+redirect_from: /figures/PMC2885864__F1
+figtype: Figure
 ---

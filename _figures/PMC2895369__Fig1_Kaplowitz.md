@@ -1,7 +1,7 @@
 ---
 figid: PMC2895369__Fig1_Kaplowitz
 figlink: /pmc/articles/PMC2895369/figure/f1-0100098/
-number: Figure 1
+number: F1
 caption: High-flux and low-flux systems of electron transfer pathways. High-flux systems
   (left), which support ATP production, transfer electrons into the inner membrane
   electron transfer chain via NADH and electron-carrying proteins such as Coenzyme
@@ -39,8 +39,7 @@ pathway_score: 0.9544901
 filename: Fig1_Kaplowitz.jpg
 figtitle: High-flux and low-flux systems of electron transfer pathways
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -140,4 +139,7 @@ chemicals:
   source: MESH
   identifier: D019803
 diseases: []
+figid_alias: PMC2895369__F1
+redirect_from: /figures/PMC2895369__F1
+figtype: Figure
 ---

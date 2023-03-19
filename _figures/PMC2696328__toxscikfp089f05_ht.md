@@ -1,7 +1,7 @@
 ---
 figid: PMC2696328__toxscikfp089f05_ht
 figlink: /pmc/articles/PMC2696328/figure/fig5/
-number: FIG. 5
+number: F5
 caption: Proposed model for the effect of HPTE in the granulosa cell. FSH binding
   to the FSH receptor initiates the PKA signaling pathway that promotes E2 production
   in granulosa cells. HPTE appears to inhibit this cascade through an unknown mechanism,
@@ -562,4 +562,7 @@ genes:
   entrez: '5567'
 chemicals: []
 diseases: []
+figid_alias: PMC2696328__F5
+redirect_from: /figures/PMC2696328__F5
+figtype: Figure
 ---

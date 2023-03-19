@@ -1,7 +1,7 @@
 ---
 figid: PMC3039927__cshperspect-CAL-004069_F1
 figlink: /pmc/articles/PMC3039927/figure/A004069F1/
-number: Figure 1
+number: F1
 caption: 'Organellar Ca2+ buffering and intracellular Ca2+ dynamics. Ca2+ is stored
   within several different organelles including the endoplasmic reticulum (ER), ERGIC,
   the Golgi apparatus, mitochondria, and peroxisomes. A typical Ca2+ release pathway
@@ -181,4 +181,7 @@ genes:
   entrez: '6786'
 chemicals: []
 diseases: []
+figid_alias: PMC3039927__F1
+redirect_from: /figures/PMC3039927__F1
+figtype: Figure
 ---

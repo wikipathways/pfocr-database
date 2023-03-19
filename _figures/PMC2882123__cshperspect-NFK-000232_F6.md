@@ -1,7 +1,7 @@
 ---
 figid: PMC2882123__cshperspect-NFK-000232_F6
 figlink: /pmc/articles/PMC2882123/figure/A000232F6/
-number: Figure 6
+number: F6
 caption: Toll pathway in adult Drosophila melanogaster. Signaling through Toll involves
   the receptor/adaptor complex, composed of three death-domain-containing proteins,
   MyD88, Tube, and Pelle. The trimeric complex assembles around the bipartite DD of
@@ -18,8 +18,7 @@ pathway_score: 0.8879623
 filename: cshperspect-NFK-000232_F6.jpg
 figtitle: Toll pathway in adult Drosophila melanogaster
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '51175'
 chemicals: []
 diseases: []
+figid_alias: PMC2882123__F6
+redirect_from: /figures/PMC2882123__F6
+figtype: Figure
 ---

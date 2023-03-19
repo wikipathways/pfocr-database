@@ -1,7 +1,7 @@
 ---
 figid: PMC2878364__carcinbgq073f06_4c
 figlink: /pmc/articles/PMC2878364/figure/fig6/
-number: Fig. 6
+number: F6
 caption: Composite network presentation of the response to BPDE in normal fibroblasts.
   A PPI network was created with genes whose expression changed significantly and
   were annotated with functions most affected by BPDE exposure, namely those related
@@ -250,4 +250,7 @@ genes:
   entrez: '3449'
 chemicals: []
 diseases: []
+figid_alias: PMC2878364__F6
+redirect_from: /figures/PMC2878364__F6
+figtype: Figure
 ---

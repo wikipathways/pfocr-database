@@ -1,7 +1,7 @@
 ---
 figid: PMC2742089__cshperspect-GRA-a001701fig3
 figlink: /pmc/articles/PMC2742089/figure/A001701F3/
-number: Figure 3
+number: F3
 caption: 'A biochemical pathway of secreted proteins that regulate D-V patterning
   in Xenopus. Black arrows indicate direct protein–protein interactions, blue arrows
   transcriptional regulation, and red arrows the flux of Chordin/BMP complexes toward
@@ -29,8 +29,7 @@ filename: cshperspect-GRA-a001701fig3.jpg
 figtitle: A biochemical pathway of secreted proteins that regulate D-V patterning
   in Xenopus
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ genes:
   entrez: '655'
 chemicals: []
 diseases: []
+figid_alias: PMC2742089__F3
+redirect_from: /figures/PMC2742089__F3
+figtype: Figure
 ---

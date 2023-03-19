@@ -1,7 +1,7 @@
 ---
 figid: PMC2840217__toxscikfq003f07_3c
 figlink: /pmc/articles/PMC2840217/figure/fig7/
-number: FIG. 7
+number: F7
 caption: Changes in cell cycle regulation in response to MG132 (A), methylmercury
   (MeHg, B), and cadmium (Cd, C) in MEF cells. Cell cycle regulation pathway was modified
   from KEGG in GenMAPP program. Differential gene expression was based on treatment
@@ -254,4 +254,7 @@ genes:
   entrez: '53947'
 chemicals: []
 diseases: []
+figid_alias: PMC2840217__F7
+redirect_from: /figures/PMC2840217__F7
+figtype: Figure
 ---

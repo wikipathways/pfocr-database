@@ -1,7 +1,7 @@
 ---
 figid: PMC2834246__DialoguesClinNeurosci-11-257-g002
 figlink: /pmc/articles/PMC2834246/figure/DialoguesClinNeurosci-11-257-g002/
-number: Figure 2
+number: F2
 caption: 'Regulation of chromatin structure by drugs of abuse. Drug-induced signaling
   events are depicted for psychostimulants such as cocaine and amphetamine. These
   drugs increase cAMP levels in striatum, which activates protein kinase A (PKA) and
@@ -528,4 +528,7 @@ chemicals:
   source: MESH
   identifier: D003042
 diseases: []
+figid_alias: PMC2834246__F2
+redirect_from: /figures/PMC2834246__F2
+figtype: Figure
 ---

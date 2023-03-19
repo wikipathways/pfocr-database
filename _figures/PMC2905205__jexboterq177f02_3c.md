@@ -1,7 +1,7 @@
 ---
 figid: PMC2905205__jexboterq177f02_3c
 figlink: /pmc/articles/PMC2905205/figure/fig2/
-number: Fig. 2
+number: F2
 caption: A schematic presentation of relationships between the key components of the
   ethylene signal transduction pathway. (A and B) Ethylene action on downstream components
   of its signalling route. (C) Inhibitory effect of silver ions on ethylene signalling.
@@ -18,8 +18,7 @@ filename: jexboterq177f02_3c.jpg
 figtitle: A schematic presentation of relationships between the key components of
   the ethylene signal transduction pathway
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -103,4 +102,7 @@ chemicals:
   source: MESH
   identifier: D005030
 diseases: []
+figid_alias: PMC2905205__F2
+redirect_from: /figures/PMC2905205__F2
+figtype: Figure
 ---

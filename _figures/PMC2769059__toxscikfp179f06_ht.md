@@ -1,7 +1,7 @@
 ---
 figid: PMC2769059__toxscikfp179f06_ht
 figlink: /pmc/articles/PMC2769059/figure/fig6/
-number: FIG. 6
+number: F6
 caption: Schematic of DA catabolism. DA catabolism yields DOPAL, which undergoes oxidation
   to an acid (DOPAC) or reduction to an alcohol (DOPET) as a minor pathway. Increased
   cytosolic DA or impairment of aldehyde metabolism yields elevated levels of the
@@ -14,8 +14,7 @@ pathway_score: 0.9427659
 filename: toxscikfp179f06_ht.jpg
 figtitle: Schematic of DA catabolism
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -62,4 +61,7 @@ chemicals:
   source: MESH
   identifier: D004298
 diseases: []
+figid_alias: PMC2769059__F6
+redirect_from: /figures/PMC2769059__F6
+figtype: Figure
 ---

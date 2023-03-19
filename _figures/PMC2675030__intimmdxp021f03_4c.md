@@ -1,7 +1,7 @@
 ---
 figid: PMC2675030__intimmdxp021f03_4c
 figlink: /pmc/articles/PMC2675030/figure/fig3/
-number: Fig. 3
+number: F3
 caption: Steps in the generation of Th17 cells. The activation of naive T cells in
   the presence of TGF-β and IL-6 initiates the Th17 differentiation pathway. Th17
   cells produce IL-21, which further amplifies Th17 generation in an autocrine manner.
@@ -127,4 +127,7 @@ genes:
   entrez: '6774'
 chemicals: []
 diseases: []
+figid_alias: PMC2675030__F3
+redirect_from: /figures/PMC2675030__F3
+figtype: Figure
 ---

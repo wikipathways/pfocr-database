@@ -1,7 +1,7 @@
 ---
 figid: PMC2639036__carcinbgn250f01_ht
 figlink: /pmc/articles/PMC2639036/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Single-strand break repair pathways. BER corrects damaged bases by first
   generating SSBs, through the activity of glycosylases. An alternative pathway corrects
   SSBs that arise directly. One of the most common sources of direct SSBs is oxidative
@@ -115,4 +115,7 @@ genes:
   entrez: '4968'
 chemicals: []
 diseases: []
+figid_alias: PMC2639036__F1
+redirect_from: /figures/PMC2639036__F1
+figtype: Figure
 ---

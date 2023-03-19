@@ -1,7 +1,7 @@
 ---
 figid: PMC3086918__Fig1_VPHuggins
 figlink: /pmc/articles/PMC3086918/figure/f1-0110095/
-number: Figure 1
+number: F1
 caption: Pathway analysis tools can use biological knowledge to focus the number of
   genetic markers for association analysis from millions of potential variants to
   a few thousand tightly focused on the trait under study. The initial hypothesis,
@@ -38,8 +38,7 @@ pathway_score: 0.868829
 filename: Fig1_VPHuggins.jpg
 figtitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological Mechanisms'
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -131,4 +130,7 @@ genes:
   entrez: '2268'
 chemicals: []
 diseases: []
+figid_alias: PMC3086918__F1
+redirect_from: /figures/PMC3086918__F1
+figtype: Figure
 ---

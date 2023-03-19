@@ -1,7 +1,7 @@
 ---
 figid: PMC3109859__Fig6_REVRettie
 figlink: /pmc/articles/PMC3109859/figure/f6-0110124/
-number: Figure 6
+number: F6
 caption: Steps where genetic mutations are linked to ichthyoses are illustrated. Mutations
   in either ALOX12B or ALOXE3 result in nonbullous congenital ichthyosiform erythroderma
   (NCIE), also referred to as type 5 lamellar ichthyosis. We speculate that CYP4F22
@@ -18,8 +18,7 @@ filename: Fig6_REVRettie.jpg
 figtitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Disease
   States'
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ chemicals:
   source: MESH
   identifier: D004852
 diseases: []
+figid_alias: PMC3109859__F6
+redirect_from: /figures/PMC3109859__F6
+figtype: Figure
 ---

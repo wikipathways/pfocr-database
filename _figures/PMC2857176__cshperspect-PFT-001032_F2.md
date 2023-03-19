@@ -1,7 +1,7 @@
 ---
 figid: PMC2857176__cshperspect-PFT-001032_F2
 figlink: /pmc/articles/PMC2857176/figure/A001032F2/
-number: Figure 2
+number: F2
 caption: Individuals with different genotypes of MDM2 SNP309 could be affected differently
   by estrogen signaling manipulation. A model has been proposed that the primarily
   female-specific hormone, estrogen, preferentially stimulated transcription of the
@@ -20,8 +20,7 @@ filename: cshperspect-PFT-001032_F2.jpg
 figtitle: Individuals with different genotypes of MDM2 SNP309 could be affected differently
   by estrogen signaling manipulation
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -81,4 +80,7 @@ chemicals:
   source: MESH
   identifier: D004967
 diseases: []
+figid_alias: PMC2857176__F2
+redirect_from: /figures/PMC2857176__F2
+figtype: Figure
 ---

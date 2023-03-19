@@ -1,7 +1,7 @@
 ---
 figid: PMC3063716__Fig1_REVGrandis
 figlink: /pmc/articles/PMC3063716/figure/f1-0110018/
-number: Figure 1
+number: F1
 caption: In the canonical STAT3 signaling pathway, activation of cell surface growth
   factor and cytokine receptors induces specific tyrosine phosphorylation (small red
   circles) of receptor chains to create docking sites for the recruitment of latent
@@ -27,8 +27,7 @@ pathway_score: 0.741298
 filename: Fig1_REVGrandis.jpg
 figtitle: 'STAT3 SIGNALING: Anticancer Strategies and Challenges'
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '7297'
 chemicals: []
 diseases: []
+figid_alias: PMC3063716__F1
+redirect_from: /figures/PMC3063716__F1
+figtype: Figure
 ---

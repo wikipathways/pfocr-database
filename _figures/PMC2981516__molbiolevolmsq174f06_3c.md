@@ -1,7 +1,7 @@
 ---
 figid: PMC2981516__molbiolevolmsq174f06_3c
 figlink: /pmc/articles/PMC2981516/figure/fig6/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 6'
+number: F6
 caption: Maximum parsimony phylogenetic tree (A) based on concatenated sequences of
   proteins involved in signaling pathways. Homologs with E values of 1 × 10−20 or
   less in at least one organism were chosen for the analysis. Bootstrap values based
@@ -22,8 +22,7 @@ filename: molbiolevolmsq174f06_3c.jpg
 figtitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Simplest
   Metazoans
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -98,4 +97,7 @@ genes:
   entrez: '56259'
 chemicals: []
 diseases: []
+figid_alias: PMC2981516__F6
+redirect_from: /figures/PMC2981516__F6
+figtype: Figure
 ---

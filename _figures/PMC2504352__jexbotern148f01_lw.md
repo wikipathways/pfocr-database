@@ -1,7 +1,7 @@
 ---
 figid: PMC2504352__jexbotern148f01_lw
 figlink: /pmc/articles/PMC2504352/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
   monoligols. ρ-Coumaroyl CoA is at the junction of the metabolic routes leading to
   anthocyanin synthesis or to lignin production. Enzymes in each step: PAL, phenylalanine
@@ -22,8 +22,7 @@ filename: jexbotern148f01_lw.jpg
 figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
   monoligols
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -132,4 +131,7 @@ chemicals:
   source: MESH
   identifier: D047188
 diseases: []
+figid_alias: PMC2504352__F1
+redirect_from: /figures/PMC2504352__F1
+figtype: Figure
 ---

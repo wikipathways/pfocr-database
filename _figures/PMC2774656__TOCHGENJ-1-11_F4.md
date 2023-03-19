@@ -1,7 +1,7 @@
 ---
 figid: PMC2774656__TOCHGENJ-1-11_F4
 figlink: /pmc/articles/PMC2774656/figure/F4/
-number: Fig. (4)
+number: F4
 caption: Panel A. Requirement for active proteasomes in TNF-α-induced, NFκB-dependent
   signaling. Inactive NFκB is sequestered in the cytoplasm by IκB. IκB must be phosphorylated
   upon TNF-α induction (1) and degraded by the proteasome (2) in order for NFκB to
@@ -22,8 +22,7 @@ pathway_score: 0.334582
 filename: TOCHGENJ-1-11_F4.jpg
 figtitle: Multiplexing Bioluminescent and Fluorescent Reporters to Monitor Live Cells
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ genes:
   entrez: '7124'
 chemicals: []
 diseases: []
+figid_alias: PMC2774656__F4
+redirect_from: /figures/PMC2774656__F4
+figtype: Figure
 ---

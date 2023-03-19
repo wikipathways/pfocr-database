@@ -1,7 +1,7 @@
 ---
 figid: PMC2828280__cshperspect-JCT-002915_F2
 figlink: /pmc/articles/PMC2828280/figure/A002915F2/
-number: Figure 2
+number: F2
 caption: Canonical Wnt pathway. (A) In the absence of a Wnt ligand, β-catenin is sequentially
   phosphorylated in the destruction complex of axin and APC by the kinases CK1α and
   GSK3β, which results in ubiquitination by β-TRCP and, finally, in the degradation
@@ -323,4 +323,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2828280__F2
+redirect_from: /figures/PMC2828280__F2
+figtype: Figure
 ---

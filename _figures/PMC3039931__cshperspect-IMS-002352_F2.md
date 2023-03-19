@@ -1,7 +1,7 @@
 ---
 figid: PMC3039931__cshperspect-IMS-002352_F2
 figlink: /pmc/articles/PMC3039931/figure/A002352F2/
-number: Figure 2
+number: F2
 caption: Tyrosine kinase pathways leading to CARD9 and TLR signaling responses. The
   central role of the CARD9/Malt1/Bcl10 complex in activating primarily the NF-κB
   pathway and to a lesser extent the MAPK pathway is shown (see ). Engagement of C-type
@@ -26,8 +26,7 @@ pathway_score: 0.9480017
 filename: cshperspect-IMS-002352_F2.jpg
 figtitle: Tyrosine kinase pathways leading to CARD9 and TLR signaling responses
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ genes:
   entrez: '6850'
 chemicals: []
 diseases: []
+figid_alias: PMC3039931__F2
+redirect_from: /figures/PMC3039931__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2713768__mplantssp037f02_lw
 figlink: /pmc/articles/PMC2713768/figure/fig2/
-number: Figure 2
+number: F2
 caption: Cell Wall-Related Biochemical Pathways Active in Mature Trichomes.(A) Synthesis
   of monosaccharides required for cell wall biosynthesis. Pathway was derived from
   a Mapman analysis ().(B) Synthesis of monolignols required for lignin biosynthesis.
@@ -18,8 +18,7 @@ filename: mplantssp037f02_lw.jpg
 figtitle: Cell Wall-Related Biochemical Pathways Active in Mature Trichomes.(A) Synthesis
   of monosaccharides required for cell wall biosynthesis
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -163,4 +162,7 @@ chemicals:
   source: MESH
   identifier: D019298
 diseases: []
+figid_alias: PMC2713768__F2
+redirect_from: /figures/PMC2713768__F2
+figtype: Figure
 ---

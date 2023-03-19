@@ -1,7 +1,7 @@
 ---
 figid: PMC2857176__cshperspect-PFT-001032_F1
 figlink: /pmc/articles/PMC2857176/figure/A001032F1/
-number: Figure 1
+number: F1
 caption: Incorporating information of both the inherited and somatic genetics of the
   p53 gene could further define patient populations in their abilities to respond
   to certain therapies. (A) Some studies suggest that cells from individuals with
@@ -24,8 +24,7 @@ figtitle: Incorporating information of both the inherited and somatic genetics o
   the p53 gene could further define patient populations in their abilities to respond
   to certain therapies
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ chemicals:
   source: MESH
   identifier: D001120
 diseases: []
+figid_alias: PMC2857176__F1
+redirect_from: /figures/PMC2857176__F1
+figtype: Figure
 ---

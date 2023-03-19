@@ -1,7 +1,7 @@
 ---
 figid: PMC2790391__cercorbhm206f01_ht
 figlink: /pmc/articles/PMC2790391/figure/fig1/
-number: Figure 1
+number: F1
 caption: Activity-dependent gene expression in neurons. In response to membrane depolarization
   and neurotransmitters, an influx of calcium occurs through ligand- and voltage-gated
   ion channels, resulting in a rise of intracellular calcium levels. This activates
@@ -184,4 +184,7 @@ genes:
   entrez: '817'
 chemicals: []
 diseases: []
+figid_alias: PMC2790391__F1
+redirect_from: /figures/PMC2790391__F1
+figtype: Figure
 ---

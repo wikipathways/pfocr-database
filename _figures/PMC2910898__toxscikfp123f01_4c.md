@@ -1,7 +1,7 @@
 ---
 figid: PMC2910898__toxscikfp123f01_4c
 figlink: /pmc/articles/PMC2910898/figure/fig1/
-number: FIG. 1
+number: F1
 caption: 'During normoxia, HIF-1α is rapidly degraded by the ubiquitin-proteasome
   pathway. However, under hypoxic conditions, prolyl hydroxylase activity is attenuated,
   which decreases the proteasomal degradation of intracellular HIF-1α. The accumulated
@@ -106,4 +106,7 @@ genes:
   entrez: '3091'
 chemicals: []
 diseases: []
+figid_alias: PMC2910898__F1
+redirect_from: /figures/PMC2910898__F1
+figtype: Figure
 ---

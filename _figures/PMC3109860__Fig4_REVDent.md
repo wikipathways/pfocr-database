@@ -1,7 +1,7 @@
 ---
 figid: PMC3109860__Fig4_REVDent
 figlink: /pmc/articles/PMC3109860/figure/f4-0110133/
-number: Figure 4
+number: F4
 caption: Multiple CHK1 inhibitors promote compensatory activation of the RAS-SRC /
   MEK1/2 / ERK1/2 pathway. The survival pathway can be inhibited at various points
   along its course that reveals the true toxicity of CHK1 inhibitor exposure. Killing
@@ -179,4 +179,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3109860__F4
+redirect_from: /figures/PMC3109860__F4
+figtype: Figure
 ---

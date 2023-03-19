@@ -1,7 +1,7 @@
 ---
 figid: PMC2773619__cshperspect-NFK-000034_F3
 figlink: /pmc/articles/PMC2773619/figure/A000034F3/
-number: Figure 3
+number: F3
 caption: Canonical and non-canonical signaling to NF-κB. The canonical pathway is,
   e.g., induced by TNFα, IL-1, or LPS and uses a large variety of signaling adaptors
   to engage IKK activity. Phosphorylation of serine residues in the signal responsive
@@ -20,8 +20,7 @@ pathway_score: 0.9520361
 filename: cshperspect-NFK-000034_F3.jpg
 figtitle: Canonical and non-canonical signaling to NFKB
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ genes:
   entrez: '3552'
 chemicals: []
 diseases: []
+figid_alias: PMC2773619__F3
+redirect_from: /figures/PMC2773619__F3
+figtype: Figure
 ---

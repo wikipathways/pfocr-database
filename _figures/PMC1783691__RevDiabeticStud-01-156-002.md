@@ -1,7 +1,7 @@
 ---
 figid: PMC1783691__RevDiabeticStud-01-156-002
 figlink: /pmc/articles/PMC1783691/figure/F2/
-number: Figure 2
+number: F2
 caption: A number of cell surface molecules controls and suppresses T cell activation
   by directly suppressing T cell activation (via CTLA-4 or PD-1), by directly signaling
   the T cell, or indirectly in the case of CTLA4Ig, or regulatory T cells by binding
@@ -137,4 +137,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC1783691__F2
+redirect_from: /figures/PMC1783691__F2
+figtype: Figure
 ---

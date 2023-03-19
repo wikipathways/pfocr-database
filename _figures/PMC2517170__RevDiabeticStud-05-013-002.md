@@ -1,7 +1,7 @@
 ---
 figid: PMC2517170__RevDiabeticStud-05-013-002
 figlink: /pmc/articles/PMC2517170/figure/F2/
-number: Figure 2
+number: F2
 caption: 'Ceramide, a second messenger in the sphngomyelin signaling pathway, is generated
   during hydrolysis of sphigomyelin or de novo synthesis from serine and palmitoyl-CoA.
   Ceramide might be deacylated to form sphingosine and fatty acid, phosphorylated
@@ -17,8 +17,7 @@ filename: RevDiabeticStud-05-013-002.jpg
 figtitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insulin
   Resistance
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ chemicals:
   source: MESH
   identifier: D013110
 diseases: []
+figid_alias: PMC2517170__F2
+redirect_from: /figures/PMC2517170__F2
+figtype: Figure
 ---

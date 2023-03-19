@@ -1,7 +1,7 @@
 ---
 figid: PMC3002804__scipharm.2010.78.133f3
 figlink: /pmc/articles/PMC3002804/figure/f3-scipharm.2010.78.133/
-number: Fig. 3
+number: F3
 caption: Proposed biosynthetic pathway for oleuropein in Oleaceae
 pmcid: PMC3002804
 papertitle: Oleuropein in Olive and its Pharmacological Effects.
@@ -11,8 +11,7 @@ pathway_score: 0.7452486
 filename: scipharm.2010.78.133f3.jpg
 figtitle: Proposed biosynthetic pathway for oleuropein in Oleaceae
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -58,4 +57,7 @@ chemicals:
   source: MESH
   identifier: D018698
 diseases: []
+figid_alias: PMC3002804__F3
+redirect_from: /figures/PMC3002804__F3
+figtype: Figure
 ---

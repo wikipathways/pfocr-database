@@ -1,7 +1,7 @@
 ---
 figid: PMC2963056__schbulsbp033f02_ht
 figlink: /pmc/articles/PMC2963056/figure/fig2/
-number: Fig. 2
+number: F2
 caption: Fibroblast Growth Factor (FGF) Receptor Complex and Its Schematic Signaling
   Pathway. After ligand binding, a complex of 2 FGF molecules, bound to a receptor
   and linked by heparan sulphate proteoglycan, is formed. This can activate the Stat
@@ -283,4 +283,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2963056__F2
+redirect_from: /figures/PMC2963056__F2
+figtype: Figure
 ---

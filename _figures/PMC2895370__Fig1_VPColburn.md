@@ -1,7 +1,7 @@
 ---
 figid: PMC2895370__Fig1_VPColburn
 figlink: /pmc/articles/PMC2895370/figure/f1-0100076/
-number: Figure 1
+number: F1
 caption: 'TLR4 signaling: The MyD88-dependent pathway through PDCD4. LPS activates
   TLR4 and stimulates activation of the MyD88-dependent early-phase activation of
   NF-κB, which leads to an increase in miR-21 expression. miR-21 inhibits PDCD4 expression
@@ -17,8 +17,7 @@ pathway_score: 0.9388604
 filename: Fig1_VPColburn.jpg
 figtitle: 'TLR4 signaling: The MyD88-dependent pathway through PDCD4'
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -83,4 +82,7 @@ genes:
   entrez: '27250'
 chemicals: []
 diseases: []
+figid_alias: PMC2895370__F1
+redirect_from: /figures/PMC2895370__F1
+figtype: Figure
 ---

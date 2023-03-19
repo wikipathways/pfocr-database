@@ -1,7 +1,7 @@
 ---
 figid: PMC2828279__cshperspect-NFK-000166_F2
 figlink: /pmc/articles/PMC2828279/figure/A000166F2/
-number: Figure 2
+number: F2
 caption: 'Ubiquitin-mediated proteolysis at the central stage of the NF-κB. Many regulatory
   steps in the NF-κB pathway involve ubiquitin-regulated proteolysis. In resting cells
   (right panel), basal level processing of the NF-κB1 precursor p105 to p50, mediated
@@ -30,8 +30,7 @@ pathway_score: 0.9548761
 filename: cshperspect-NFK-000166_F2.jpg
 figtitle: Ubiquitin-mediated proteolysis at the central stage of the NFKB
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ genes:
   entrez: '4790'
 chemicals: []
 diseases: []
+figid_alias: PMC2828279__F2
+redirect_from: /figures/PMC2828279__F2
+figtype: Figure
 ---

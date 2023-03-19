@@ -1,7 +1,7 @@
 ---
 figid: PMC2861803__fig2a_REVWeinshenker
 figlink: /pmc/articles/PMC2861803/figure/f30090175/
-number: Figure 3
+number: F3
 caption: Disulfiram inhibition of the norepinephrine (NE) biosynthetic pathway. In
   the catecholamine synthesis pathway, tyrosine is converted into 3,4-dihydroxy-L-phenylalanine
   (L-DOPA) by tyrosine hydroxylase (TH), which is then transformed into dopamine by
@@ -198,4 +198,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC2861803__F3
+redirect_from: /figures/PMC2861803__F3
+figtype: Figure
 ---

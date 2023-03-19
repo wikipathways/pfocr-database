@@ -1,7 +1,7 @@
 ---
 figid: PMC212691__pbio.0000010.g001
 figlink: /pmc/articles/PMC212691/figure/pbio-0000010-g001/
-number: Figure 1
+number: F1
 caption: The reaction steps of the Wnt pathway are numbered 1 to 19. Protein complexes
   are denoted by the names of their components, separated by a slash and enclosed
   in brackets. Phosphorylated components are marked by an asterisk. Single-headed
@@ -210,4 +210,7 @@ genes:
   entrez: '7484'
 chemicals: []
 diseases: []
+figid_alias: PMC212691__F1
+redirect_from: /figures/PMC212691__F1
+figtype: Figure
 ---

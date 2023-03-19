@@ -1,7 +1,7 @@
 ---
 figid: PMC2577137__carcinbgn186f01_ht
 figlink: /pmc/articles/PMC2577137/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Schematic representation of cross talk between PKA, PI3K/AKT and WNT/CTNNB1
   intracellular signaling pathways. AC = adenylyl cyclase, APC = adenomatosis polyposis
   coli, CREB = cAMP response element binding, DSH = disheveled, FOXO1 = forkhead box
@@ -483,4 +483,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2577137__F1
+redirect_from: /figures/PMC2577137__F1
+figtype: Figure
 ---

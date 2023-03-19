@@ -1,7 +1,7 @@
 ---
 figid: PMC2837255__jexboterq002f05_3c
 figlink: /pmc/articles/PMC2837255/figure/fig5/
-number: Fig. 5
+number: F5
 caption: 'Comparative visualization of central metabolism as determined by metabolic
   profiling of trichomes, basal and pavement cells collected by micro sampling. The
   pathway connectivity and bar diagram visualisation of relative metabolite pool sizes
@@ -18,8 +18,7 @@ filename: jexboterq002f05_3c.jpg
 figtitle: Comparative visualization of central metabolism as determined by metabolic
   profiling of trichomes, basal and pavement cells collected by micro sampling
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -147,4 +146,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC2837255__F5
+redirect_from: /figures/PMC2837255__F5
+figtype: Figure
 ---

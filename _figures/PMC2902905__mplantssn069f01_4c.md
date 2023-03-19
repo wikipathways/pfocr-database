@@ -1,7 +1,7 @@
 ---
 figid: PMC2902905__mplantssn069f01_4c
 figlink: /pmc/articles/PMC2902905/figure/fig1/
-number: Figure 1
+number: F1
 caption: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localization.A
   model of regulators and pathways contributing to polar PIN localization in roots
   is proposed based on results discussed in this review. Endosome-mediated trafficking
@@ -151,4 +151,7 @@ chemicals:
   source: MESH
   identifier: D010710
 diseases: []
+figid_alias: PMC2902905__F1
+redirect_from: /figures/PMC2902905__F1
+figtype: Figure
 ---

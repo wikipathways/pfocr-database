@@ -1,7 +1,7 @@
 ---
 figid: PMC3101845__cshperspect-LIP-004762_F1
 figlink: /pmc/articles/PMC3101845/figure/A004762F1/
-number: Figure 1
+number: F1
 caption: Regulation of Tat2 sorting to the vacuole. (Upper left) Following starvation,
   the TOR signaling pathway is inactivated. This leads to ubiquitin-dependent sorting
   of both newly synthesized and plasma membrane-localized Tat2 to the vacuole. (Upper
@@ -19,8 +19,7 @@ pathway_score: 0.9448658
 filename: cshperspect-LIP-004762_F1.jpg
 figtitle: Regulation of Tat2 sorting to the vacuole
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -64,4 +63,7 @@ genes:
   entrez: '2078'
 chemicals: []
 diseases: []
+figid_alias: PMC3101845__F1
+redirect_from: /figures/PMC3101845__F1
+figtype: Figure
 ---

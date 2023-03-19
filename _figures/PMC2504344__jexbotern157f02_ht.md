@@ -1,7 +1,7 @@
 ---
 figid: PMC2504344__jexbotern157f02_ht
 figlink: /pmc/articles/PMC2504344/figure/fig2/
-number: Fig. 2
+number: F2
 caption: The central metabolic pathway of Synechocystis sp. PCC 6803 in the integration
   of metabolites described in this study. Thick arrows indicate the direction of the
   metabolic flow of the Calvin cycle.
@@ -15,8 +15,7 @@ pathway_score: 0.9620865
 filename: jexbotern157f02_ht.jpg
 figtitle: The central metabolic pathway of Synechocystis sp
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ chemicals:
   source: MESH
   identifier: D013386
 diseases: []
+figid_alias: PMC2504344__F2
+redirect_from: /figures/PMC2504344__F2
+figtype: Figure
 ---

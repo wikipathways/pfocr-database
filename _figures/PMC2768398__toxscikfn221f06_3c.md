@@ -1,7 +1,7 @@
 ---
 figid: PMC2768398__toxscikfn221f06_3c
 figlink: /pmc/articles/PMC2768398/figure/fig6/
-number: FIG. 6
+number: F6
 caption: Cd-induced alterations within the ingenuity canonical p53-signaling pathway
   in C57BL/6J and SWV embryos. Cd-induced alterations in C57 and SWV embryos were
   mapped to the p53 Signaling canonical ingenuity pathway (w/modifications). Genes
@@ -16,8 +16,7 @@ filename: toxscikfn221f06_3c.jpg
 figtitle: Cd-induced alterations within the ingenuity canonical p53-signaling pathway
   in C57BL/6J and SWV embryos
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -63,4 +62,7 @@ genes:
   entrez: '29760'
 chemicals: []
 diseases: []
+figid_alias: PMC2768398__F6
+redirect_from: /figures/PMC2768398__F6
+figtype: Figure
 ---

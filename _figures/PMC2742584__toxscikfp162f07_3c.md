@@ -1,7 +1,7 @@
 ---
 figid: PMC2742584__toxscikfp162f07_3c
 figlink: /pmc/articles/PMC2742584/figure/fig7/
-number: FIG. 7
+number: F7
 caption: Interaction networks of As sensitivity in yeast. (A) Requirement of genes
   from the sulfur metabolic pathway for growth in the presence of MMAIII. The transcription
   factor genes MET28 and MET32, and several of their target genes involved in sulfur
@@ -156,4 +156,7 @@ genes:
   entrez: '5985'
 chemicals: []
 diseases: []
+figid_alias: PMC2742584__F7
+redirect_from: /figures/PMC2742584__F7
+figtype: Figure
 ---

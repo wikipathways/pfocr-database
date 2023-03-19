@@ -1,7 +1,7 @@
 ---
 figid: PMC2773628__cshperspect-NFK-000067_F1
 figlink: /pmc/articles/PMC2773628/figure/A000067F1/
-number: Figure 1
+number: F1
 caption: A schematic representation of how NF-κB DNA binding is regulated by IκB degradation
   and processing following activating stimuli. (A) IκB degradation mechanism that
   depends on site-specific phosphorylation of IκBs mediated by activated IKKβ in the
@@ -143,4 +143,7 @@ genes:
   entrez: '8517'
 chemicals: []
 diseases: []
+figid_alias: PMC2773628__F1
+redirect_from: /figures/PMC2773628__F1
+figtype: Figure
 ---

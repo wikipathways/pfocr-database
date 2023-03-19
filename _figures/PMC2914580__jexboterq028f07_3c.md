@@ -1,7 +1,7 @@
 ---
 figid: PMC2914580__jexboterq028f07_3c
 figlink: /pmc/articles/PMC2914580/figure/fig7/
-number: Fig. 7
+number: F7
 caption: A hypothetical ananplerotic pathway for glycolate/glyoxylate in relation
   to oxalate formation. Glycolate/glyoxylate is produced during photorespiration (red
   arrows) or can be compensated via ananplerotic reactions related to the glyoxylate
@@ -20,8 +20,7 @@ filename: jexboterq028f07_3c.jpg
 figtitle: A hypothetical ananplerotic pathway for glycolate/glyoxylate in relation
   to oxalate formation
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -132,4 +131,7 @@ chemicals:
   source: MESH
   identifier: D013386
 diseases: []
+figid_alias: PMC2914580__F7
+redirect_from: /figures/PMC2914580__F7
+figtype: Figure
 ---

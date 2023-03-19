@@ -1,7 +1,7 @@
 ---
 figid: PMC2874417__Beilstein_J_Org_Chem-06-24-05
 figlink: /pmc/articles/PMC2874417/figure/C3/
-number: Scheme 3
+number: S3
 caption: 'Metabolic pathway of Ac4GlcNAz and the genetic control of Neu5Ac 1 synthesis
   by feedback inhibition. The accumulation of Neu5Hex 3 is proposed by incubation
   of 3 with the target cell line as the synthesis of Neu5Ac 1 is down-regulated [,].
@@ -18,8 +18,7 @@ filename: Beilstein_J_Org_Chem-06-24-05.jpg
 figtitle: Metabolic pathway of Ac4GlcNAz and the genetic control of Neu5Ac 1 synthesis
   by feedback inhibition
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ genes:
   entrez: '6576'
 chemicals: []
 diseases: []
+figid_alias: PMC2874417__S3
+redirect_from: /figures/PMC2874417__S3
+figtype: Scheme
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC2915629__carcinbgq100f04_4c
 figlink: /pmc/articles/PMC2915629/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Identification of RON-targeting genes. (A) ChIP assay coupled with microarray
   (ChIP-chip) was conducted to identify the potential targets of RON, which is summarized
   into a heat map of 134 genes. Starved TSGH8301 cells at the indicated time periods
@@ -291,4 +291,7 @@ genes:
   entrez: '140885'
 chemicals: []
 diseases: []
+figid_alias: PMC2915629__F4
+redirect_from: /figures/PMC2915629__F4
+figtype: Figure
 ---

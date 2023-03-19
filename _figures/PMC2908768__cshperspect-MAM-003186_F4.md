@@ -1,7 +1,7 @@
 ---
 figid: PMC2908768__cshperspect-MAM-003186_F4
 figlink: /pmc/articles/PMC2908768/figure/A003186F4/
-number: Figure 4
+number: F4
 caption: Cytokine signaling through the Jak/Stat pathway in mammary gland development.
   Sequential activation of Stat6 and Stat5 control alveologenesis during pregnancy.
   These Stats are activated in response to specific ligands, IL-4 and IL-13 (Stat6)
@@ -216,4 +216,7 @@ genes:
   entrez: '6775'
 chemicals: []
 diseases: []
+figid_alias: PMC2908768__F4
+redirect_from: /figures/PMC2908768__F4
+figtype: Figure
 ---

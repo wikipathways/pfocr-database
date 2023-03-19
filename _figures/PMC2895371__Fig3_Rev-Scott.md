@@ -1,7 +1,7 @@
 ---
 figid: PMC2895371__Fig3_Rev-Scott
 figlink: /pmc/articles/PMC2895371/figure/f3-0100086/
-number: Figure 3
+number: F3
 caption: AKAP-Lbc integrates multiple signaling pathways. GPCRs such as M1 muscarinic
   receptor (M1-R) initiate a signaling cascade involving PKC-mediated activation of
   PKD and phosphorylation of HDAC in the nucleus. In another pathway, Gα12-coupled
@@ -243,4 +243,7 @@ genes:
   entrez: '3065'
 chemicals: []
 diseases: []
+figid_alias: PMC2895371__F3
+redirect_from: /figures/PMC2895371__F3
+figtype: Figure
 ---

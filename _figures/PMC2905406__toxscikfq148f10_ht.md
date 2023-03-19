@@ -1,7 +1,7 @@
 ---
 figid: PMC2905406__toxscikfq148f10_ht
 figlink: /pmc/articles/PMC2905406/figure/fig10/
-number: FIG. 10
+number: F10
 caption: 'Illustration of GDNF signaling disruption by coated silver nanoparticles.
   A: potential targets for disruption of GDNF signaling in C18-4 cells that inhibit
   proliferation. (1) Nanoparticles bind to GDNF and prevent receptor binding, (2)
@@ -22,8 +22,7 @@ pathway_score: 0.875026
 filename: toxscikfq148f10_ht.jpg
 figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticles
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -109,4 +108,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2905406__F10
+redirect_from: /figures/PMC2905406__F10
+figtype: Figure
 ---

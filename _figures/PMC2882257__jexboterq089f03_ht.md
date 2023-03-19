@@ -1,7 +1,7 @@
 ---
 figid: PMC2882257__jexboterq089f03_ht
 figlink: /pmc/articles/PMC2882257/figure/fig3/
-number: Fig. 3
+number: F3
 caption: Induction of the oxylipin biosynthethic pathway in arbuscular mycorrhizal
   symbiosis. Metabolic scheme of the oxylipin pathway including the 9-LOX and 13-LOX
   branches (modified after ). Shaded boxes show the metabolites analysed by LC-MS/MS
@@ -23,8 +23,7 @@ filename: jexboterq089f03_ht.jpg
 figtitle: Induction of the oxylipin biosynthethic pathway in arbuscular mycorrhizal
   symbiosis
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -125,4 +124,7 @@ chemicals:
   source: MESH
   identifier: D008042
 diseases: []
+figid_alias: PMC2882257__F3
+redirect_from: /figures/PMC2882257__F3
+figtype: Figure
 ---

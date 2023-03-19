@@ -1,7 +1,7 @@
 ---
 figid: PMC2675653__carcinbgp058f01_lw
 figlink: /pmc/articles/PMC2675653/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'CART analysis of NER pathway and esophageal cancer risk. ORs and 95% CIs
   (in parenthesis) are presented underneath each terminal node box. Please refer to  for
   name of the SNPs. For each SNP, ‘WW’ represents wild type, ‘WM’ represents heterozygous
@@ -17,8 +17,7 @@ pathway_score: 0.5111392
 filename: carcinbgp058f01_lw.jpg
 figtitle: CART analysis of NER pathway and esophageal cancer risk
 year: '2009'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -65,4 +64,7 @@ genes:
   entrez: '10189'
 chemicals: []
 diseases: []
+figid_alias: PMC2675653__F1
+redirect_from: /figures/PMC2675653__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC270017__pbio.0000060.g006
 figlink: /pmc/articles/PMC270017/figure/pbio.0000060-g006/
-number: Figure 6
+number: F6
 caption: Enzymes identified as miR-277 targets are boxed and identified by CG number.
   Red boxes required Z > 3 in Anopheles. Blue boxes required Z > 2 in Anopheles. In
   addition to the predicted targets, the other enzymes for which the gene has been
@@ -15,8 +15,7 @@ pathway_score: 0.755289
 filename: pbio.0000060.g006.jpg
 figtitle: Identification of Drosophila MicroRNA Targets
 year: '2003'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: D014633
 diseases: []
+figid_alias: PMC270017__F6
+redirect_from: /figures/PMC270017__F6
+figtype: Figure
 ---

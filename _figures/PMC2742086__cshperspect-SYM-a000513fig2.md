@@ -1,7 +1,7 @@
 ---
 figid: PMC2742086__cshperspect-SYM-a000513fig2
 figlink: /pmc/articles/PMC2742086/figure/A000513F2/
-number: Figure 2
+number: F2
 caption: Functional and structural organization of migratory mesenchymal cells. (A)
   Front–rear polarity overview. Migratory cells have a distinctive organization between
   the front of the cell (leading edge) and rear (uropod). Rho family GTPase activities
@@ -170,4 +170,7 @@ genes:
   entrez: '72'
 chemicals: []
 diseases: []
+figid_alias: PMC2742086__F2
+redirect_from: /figures/PMC2742086__F2
+figtype: Figure
 ---

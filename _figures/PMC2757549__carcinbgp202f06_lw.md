@@ -1,7 +1,7 @@
 ---
 figid: PMC2757549__carcinbgp202f06_lw
 figlink: /pmc/articles/PMC2757549/figure/fig6/
-number: Fig. 6
+number: F6
 caption: Diagram depicting the inhibitory and activating effects of OSU-A9 on the
   Akt–NF-κB signaling axis and stress response signaling, respectively. The ability
   of OSU-A9 to affect these two signaling networks and thus target different facets
@@ -178,4 +178,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC2757549__F6
+redirect_from: /figures/PMC2757549__F6
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3098671__cshperspect-CAL-004317_F2
 figlink: /pmc/articles/PMC3098671/figure/A004317F2/
-number: Figure 2
+number: F2
 caption: The UPR. At a normal [Ca2+]ER the ER-stress sensors are scaffolded and inactivated
   by GRP78/BiP. Protein trafficking and quality-control mechanisms work normally.
   Polypeptides are translocated through Sec61 and glycosylated. This transport is
@@ -245,4 +245,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC3098671__F2
+redirect_from: /figures/PMC3098671__F2
+figtype: Figure
 ---

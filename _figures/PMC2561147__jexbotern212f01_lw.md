@@ -1,7 +1,7 @@
 ---
 figid: PMC2561147__jexbotern212f01_lw
 figlink: /pmc/articles/PMC2561147/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Carotenoid biosynthetic pathway in maize. PSY, phytoene synthase; PDS, phytoene
   desaturase; ZDS, ζ-carotene desaturase; CRTISO, carotenoid isomerase; βLCY, β-cyclase;
   εLCY, ε-cyclase; HYD, carotene hydroxylases; CRTB, bacterial homologue of PSY; CRTI,
@@ -14,8 +14,7 @@ pathway_score: 0.9196467
 filename: jexbotern212f01_lw.jpg
 figtitle: Carotenoid biosynthetic pathway in maize
 year: '2008'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ chemicals:
   source: MESH
   identifier: D065366
 diseases: []
+figid_alias: PMC2561147__F1
+redirect_from: /figures/PMC2561147__F1
+figtype: Figure
 ---

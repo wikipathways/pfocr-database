@@ -1,7 +1,7 @@
 ---
 figid: PMC2807926__mplantssp098f02_4c
 figlink: /pmc/articles/PMC2807926/figure/fig2/
-number: Figure 2
+number: F2
 caption: Schematic Representation of Indole Glucosinolate Pathway Showing the Importance
   of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
   in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid. Known
@@ -16,8 +16,7 @@ figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the I
   of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
   in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -73,4 +72,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC2807926__F2
+redirect_from: /figures/PMC2807926__F2
+figtype: Figure
 ---
