@@ -1,7 +1,7 @@
 ---
 figid: PMC5088510__cshperspectmed-CCH-026435_F3
 figlink: /pmc/articles/PMC5088510/figure/A026435F3/
-number: Figure 3
+number: F3
 caption: Proteins modified by lysine methylation from the PhosphoSitePlus database
   were mapped onto the Kyoto Encyclopedia of Genes and Genomes (KEGG) prostate cancer
   pathway. The figure shows a simplified pathway diagram; methylated proteins are
@@ -499,4 +499,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC5088510__F3
+redirect_from: /figures/PMC5088510__F3
+figtype: Figure
 ---

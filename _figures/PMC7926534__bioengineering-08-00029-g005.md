@@ -1,7 +1,7 @@
 ---
 figid: PMC7926534__bioengineering-08-00029-g005
 figlink: pmc/articles/PMC7926534/figure/bioengineering-08-00029-f005/
-number: Figure 5
+number: F5
 caption: 'Biosynthetic pathway of poly(3-hydroxybutyrate) production within the bacterial
   cytoplasm. PHB is synthesized by the successive action of three enzymes: β-ketoacyl-CoA
   thiolase (phbA), acetoacetyl-CoA dehydrogenase (phbB), and PHB polymerase (phbC)
@@ -15,8 +15,7 @@ filename: bioengineering-08-00029-g005.jpg
 figtitle: Biosynthetic pathway of poly(3-hydroxybutyrate) production within the bacterial
   cytoplasm
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ chemicals:
   source: MESH
   identifier: C514366
 diseases: []
+figid_alias: PMC7926534__F5
+redirect_from: /figures/PMC7926534__F5
+figtype: Figure
 ---

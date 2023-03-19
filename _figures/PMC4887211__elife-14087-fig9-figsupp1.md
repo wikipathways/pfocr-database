@@ -1,7 +1,7 @@
 ---
 figid: PMC4887211__elife-14087-fig9-figsupp1
 figlink: /pmc/articles/PMC4887211/figure/fig9s1/
-number: Figure 9—figure supplement 1
+number: SF9_1
 caption: 'Upon infection with RNA or DNA viruses, host cells can recognize nucleic
   acids of viruses and initiate MAVS- or STING-dependent signaling pathway to induce
   the production of inflammatory cytokines and type I interferons. When Fbxo21 is
@@ -219,4 +219,7 @@ chemicals:
   source: MESH
   identifier: C093642
 diseases: []
+figid_alias: PMC4887211__SF9_1
+redirect_from: /figures/PMC4887211__SF9_1
+figtype: Supplemental figure
 ---

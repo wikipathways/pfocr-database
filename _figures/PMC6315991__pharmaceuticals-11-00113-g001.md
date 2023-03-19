@@ -1,7 +1,7 @@
 ---
 figid: PMC6315991__pharmaceuticals-11-00113-g001
 figlink: /pmc/articles/PMC6315991/figure/pharmaceuticals-11-00113-f001/
-number: Figure 1
+number: F1
 caption: Links between Lipid and Iron Metabolic Pathways. (Top) Pyruvate, a product
   of glycolysis, is converted to acetyl-CoA in the mitochondria. Acetyl-CoA feeds
   into the Krebs (TCA) cycle, illustrated in light blue, to generate citrate; the
@@ -624,4 +624,7 @@ chemicals:
   source: MESH
   identifier: C069135
 diseases: []
+figid_alias: PMC6315991__F1
+redirect_from: /figures/PMC6315991__F1
+figtype: Figure
 ---

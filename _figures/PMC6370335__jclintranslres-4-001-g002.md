@@ -1,7 +1,7 @@
 ---
 figid: PMC6370335__jclintranslres-4-001-g002
 figlink: /pmc/articles/PMC6370335/figure/jclintranslres-4-001-g002/
-number: Figure 2
+number: F2
 caption: 'Intercellular and intracellular signals that initiate liver regeneration.
   Three mechanisms lead to hepatocyte proliferation. In response to complement factors
   C3a, C5a, PAMPs, and DAMPs, Kupffer cells release TNF-α, IL-6, PGE2, and IL-1β.
@@ -290,4 +290,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC6370335__F2
+redirect_from: /figures/PMC6370335__F2
+figtype: Figure
 ---

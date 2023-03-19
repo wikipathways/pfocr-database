@@ -1,7 +1,7 @@
 ---
 figid: PMC4315934__cshperspect-SIG-006023_F5
 figlink: /pmc/articles/PMC4315934/figure/A006023F5/
-number: Figure 5
+number: F5
 caption: Smooth muscle contraction. Calcium released by L-type calcium channels or
   IP3Rs downstream from Gq-coupled cell-surface receptors causes smooth muscle contraction.
   It binds to calmodulin (CaM) and the resulting complex stimulates myosin light-chain
@@ -151,4 +151,7 @@ genes:
   entrez: '5331'
 chemicals: []
 diseases: []
+figid_alias: PMC4315934__F5
+redirect_from: /figures/PMC4315934__F5
+figtype: Figure
 ---

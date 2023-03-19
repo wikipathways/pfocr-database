@@ -1,7 +1,7 @@
 ---
 figid: PMC3721271__cshperspectmed-MYC-014217_F4
 figlink: /pmc/articles/PMC3721271/figure/A014217F4/
-number: Figure 4
+number: F4
 caption: MYC is shown to stimulate genes involved in lipid synthesis. Citrate generated
   from glucose or glutamine is converted to acetyl-CoA for fatty acid synthesis. Glycerol
   coming from glucose provides the glyceride backbone for lipid synthesis. Not shown
@@ -14,8 +14,7 @@ pathway_score: 0.9519772
 filename: cshperspectmed-MYC-014217_F4.jpg
 figtitle: MYC is shown to stimulate genes involved in lipid synthesis
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -61,4 +60,7 @@ chemicals:
   source: MESH
   identifier: D005990
 diseases: []
+figid_alias: PMC3721271__F4
+redirect_from: /figures/PMC3721271__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6396338__cshperspectmed-HAE-033464_F6
 figlink: pmc/articles/PMC6396338/figure/A033464F6/
-number: Figure 6
+number: F6
 caption: Contrasting strategies for disrupting interferon (IFN)-mediated responses
   in hepatitis A virus (HAV) versus hepatitis E virus (HEV) infections. (A) In HAV-infected
   cells, viral double-stranded RNA (dsRNA) replication intermediates are sensed by
@@ -31,8 +31,7 @@ filename: cshperspectmed-HAE-033464_F6.jpg
 figtitle: Contrasting strategies for disrupting interferon (IFN)-mediated responses
   in hepatitis A virus (HAV) versus hepatitis E virus (HEV) infections
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -351,4 +350,7 @@ diseases:
 - word: OAS
   source: MESH
   identifier: C537769
+figid_alias: PMC6396338__F6
+redirect_from: /figures/PMC6396338__F6
+figtype: Figure
 ---

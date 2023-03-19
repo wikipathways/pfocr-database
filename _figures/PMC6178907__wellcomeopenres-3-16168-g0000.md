@@ -1,7 +1,7 @@
 ---
 figid: PMC6178907__wellcomeopenres-3-16168-g0000
 figlink: /pmc/articles/PMC6178907/figure/f1/
-number: Figure 1.
+number: F1
 caption: Cellular response to low oxygen as mediated through HIFs and alpha-ketoglutarate-dependent
   dioxygenases signalling. HIF-1α is hydroxylated by prolyl-4-hydroxylases 1-3 (PHD1-3)
   under normoxic conditions and targets the protein for proteasomal degradation by
@@ -131,4 +131,7 @@ diseases:
 - word: VHL
   source: MESH
   identifier: D006623
+figid_alias: PMC6178907__F1
+redirect_from: /figures/PMC6178907__F1
+figtype: Figure
 ---

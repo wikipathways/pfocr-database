@@ -1,7 +1,7 @@
 ---
 figid: PMC3281591__cshperspectmed-PKD-009332_F4
 figlink: /pmc/articles/PMC3281591/figure/A009332F4/
-number: Figure 4
+number: F4
 caption: Mitochondrial-dependent apoptosis. Apoptosis can result from the activation
   of two distinct molecular cascades, known as the extrinsic (or death receptor) and
   the intrinsic (or mitochondrial) pathways. Both pathways, which can converge at
@@ -269,4 +269,7 @@ genes:
   entrez: '9131'
 chemicals: []
 diseases: []
+figid_alias: PMC3281591__F4
+redirect_from: /figures/PMC3281591__F4
+figtype: Figure
 ---

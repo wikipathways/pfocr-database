@@ -1,7 +1,7 @@
 ---
 figid: PMC3524689__medscimonit-17-1-SC1-g002
 figlink: /pmc/articles/PMC3524689/figure/f2-medscimonit-17-1-sc1/
-number: Figure 2
+number: F2
 caption: 'Proposed model of OGP(10-14) differentiation signalling. (A) Control cells:
   TPO induces M07-e cells proliferation by SFK activation and RhoA inhibition. (B)
   OGP(10-14)-treated cells: the pentapeptide induces cell differentiation by activating
@@ -16,8 +16,7 @@ pathway_score: 0.9579886
 filename: medscimonit-17-1-SC1-g002.jpg
 figtitle: Proposed model of OGP(10-14) differentiation signalling
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -63,4 +62,7 @@ genes:
   entrez: '4352'
 chemicals: []
 diseases: []
+figid_alias: PMC3524689__F2
+redirect_from: /figures/PMC3524689__F2
+figtype: Figure
 ---

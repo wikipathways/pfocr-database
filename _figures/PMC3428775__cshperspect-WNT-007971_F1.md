@@ -1,7 +1,7 @@
 ---
 figid: PMC3428775__cshperspect-WNT-007971_F1
 figlink: /pmc/articles/PMC3428775/figure/A007971F1/
-number: Figure 1
+number: F1
 caption: Feed-forward network of stem cell transcription factors. Three transcription
   factors—Oct4, Sox2, and Nanog—bind to one another’s gene regulatory regions and
   control expression of one another’s gene products. Downstream targets (genes X,
@@ -15,8 +15,7 @@ pathway_score: 0.8859748
 filename: cshperspect-WNT-007971_F1.jpg
 figtitle: Feed-forward network of stem cell transcription factors
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -56,4 +55,7 @@ genes:
   entrez: '6657'
 chemicals: []
 diseases: []
+figid_alias: PMC3428775__F1
+redirect_from: /figures/PMC3428775__F1
+figtype: Figure
 ---

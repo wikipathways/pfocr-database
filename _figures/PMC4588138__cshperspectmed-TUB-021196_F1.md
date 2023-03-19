@@ -1,7 +1,7 @@
 ---
 figid: PMC4588138__cshperspectmed-TUB-021196_F1
 figlink: /pmc/articles/PMC4588138/figure/A021196F1/
-number: Figure 1
+number: F1
 caption: Schematic of opportunities for host-directed therapies modulating eicosanoid
   balance. Clinically approved drugs that modulate eicosanoid production and that
   have been tested in animal models of mycobacterial infection are shown in boxes.
@@ -20,8 +20,7 @@ filename: cshperspectmed-TUB-021196_F1.jpg
 figtitle: Schematic of opportunities for host-directed therapies modulating eicosanoid
   balance
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -129,4 +128,7 @@ chemicals:
   source: MESH
   identifier: D015232
 diseases: []
+figid_alias: PMC4588138__F1
+redirect_from: /figures/PMC4588138__F1
+figtype: Figure
 ---

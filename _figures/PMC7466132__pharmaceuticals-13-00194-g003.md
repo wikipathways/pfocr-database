@@ -1,7 +1,7 @@
 ---
 figid: PMC7466132__pharmaceuticals-13-00194-g003
 figlink: pmc/articles/PMC7466132/figure/pharmaceuticals-13-00194-f003/
-number: Figure 3
+number: F3
 caption: Schema summarizing synergistic effects of suberoylanilide hydroxamic acid
   (SAHA) and parthenolide PN in triple-negative breast cancer cells prepared based
   on Carlisi et al., []. SAHA (histone deacetylase 1 inhibitor, HDACIs) and PN used
@@ -24,8 +24,7 @@ figtitle: 'Schema summarizing synergistic effects of suberoylanilide hydroxamic 
   (SAHA) and parthenolide PN in triple-negative breast cancer cells prepared based
   on Carlisi et al., '
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -229,4 +228,7 @@ chemicals:
   source: MESH
   identifier: D005978
 diseases: []
+figid_alias: PMC7466132__F3
+redirect_from: /figures/PMC7466132__F3
+figtype: Figure
 ---

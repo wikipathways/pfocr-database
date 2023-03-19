@@ -1,7 +1,7 @@
 ---
 figid: PMC4292165__cshperspect-III-016246_F3
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F3/
-number: Figure 3
+number: F3
 caption: RLR Signaling pathway. RLR family contains of RIG-I, MDA5, and LGP2. RIG-I
   and MDA5 recognize viruses differentially. RIG-I recognizes SeV, VSV, RSV, NDV,
   EBV, and JEV, whereas MDA5 recognizes viruses of picornavirus family members. After
@@ -136,4 +136,7 @@ genes:
   entrez: '7187'
 chemicals: []
 diseases: []
+figid_alias: PMC4292165__F3
+redirect_from: /figures/PMC4292165__F3
+figtype: Figure
 ---

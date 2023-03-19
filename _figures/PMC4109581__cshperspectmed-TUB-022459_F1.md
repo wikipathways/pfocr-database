@@ -1,7 +1,7 @@
 ---
 figid: PMC4109581__cshperspectmed-TUB-022459_F1
 figlink: /pmc/articles/PMC4109581/figure/A022459F1/
-number: Figure 1
+number: F1
 caption: Host cell apoptosis pathways are classified into two main categories—extrinsic
   and intrinsic pathways. The extrinsic pathway of cell death is triggered by the
   interaction of death receptors (DRs) with specific death ligands and involves activation
@@ -165,4 +165,7 @@ genes:
   entrez: '6964'
 chemicals: []
 diseases: []
+figid_alias: PMC4109581__F1
+redirect_from: /figures/PMC4109581__F1
+figtype: Figure
 ---

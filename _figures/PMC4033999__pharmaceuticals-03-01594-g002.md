@@ -1,7 +1,7 @@
 ---
 figid: PMC4033999__pharmaceuticals-03-01594-g002
 figlink: /pmc/articles/PMC4033999/figure/pharmaceuticals-03-01594-f002/
-number: Figure 2
+number: F2
 caption: Dual effects of NSAIDs on the novel LTCC-mediated LTC4synthesis pathway.
 pmcid: PMC4033999
 papertitle: 'NSAIDs, Mitochondria and Calcium Signaling: Special Focus on Aspirin/Salicylates.'
@@ -11,8 +11,7 @@ pathway_score: 0.8729519
 filename: pharmaceuticals-03-01594-g002.jpg
 figtitle: Dual effects of NSAIDs on the novel LTCC-mediated LTC4synthesis pathway
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ chemicals:
   source: MESH
   identifier: D012459
 diseases: []
+figid_alias: PMC4033999__F2
+redirect_from: /figures/PMC4033999__F2
+figtype: Figure
 ---

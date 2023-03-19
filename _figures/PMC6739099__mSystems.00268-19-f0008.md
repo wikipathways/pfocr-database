@@ -1,7 +1,7 @@
 ---
 figid: PMC6739099__mSystems.00268-19-f0008
 figlink: /pmc/articles/PMC6739099/figure/fig8/
-number: FIG 8
+number: F8
 caption: Identification of DEGs relevant to protein processing in the endoplasmic
   reticulum pathway. Red boxes refer to genes with an associated unigene(s) that was/were
   upregulated in the BVECs.
@@ -227,4 +227,7 @@ diseases:
 - word: SIP
   source: ''
   identifier: ''
+figid_alias: PMC6739099__F8
+redirect_from: /figures/PMC6739099__F8
+figtype: Figure
 ---

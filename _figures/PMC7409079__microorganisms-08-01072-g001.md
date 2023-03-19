@@ -1,7 +1,7 @@
 ---
 figid: PMC7409079__microorganisms-08-01072-g001
 figlink: pmc/articles/PMC7409079/figure/microorganisms-08-01072-f001/
-number: Figure 1
+number: F1
 caption: Schematic representation of the signal transduction and metabolic pathways
   involved in the Ustilaginomycetes multicellular growth. Several authors have suggested
   that the mitogen-activated protein kinase (MAPK) and cyclic AMP (cAMP)/protein kinase
@@ -21,8 +21,7 @@ filename: microorganisms-08-01072-g001.jpg
 figtitle: Signal transduction and metabolic pathways involved in the Ustilaginomycetes
   multicellular growth
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -220,4 +219,7 @@ chemicals:
   source: MESH
   identifier: D013095
 diseases: []
+figid_alias: PMC7409079__F1
+redirect_from: /figures/PMC7409079__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6902898__Beilstein_J_Org_Chem-15-2889-g012
 figlink: /pmc/articles/PMC6902898/figure/F11/
-number: Figure 11
+number: F11
 caption: 'Engineering of terpenoid pathways. a) Metabolic network of terpenoid biosynthesis.
   Toxic intermediates are labeled with skull signs and known enzyme inhibition by
   intermediates is indicated. Bottleneck enzymes that have been subjected to optimization/engineering
@@ -23,8 +23,7 @@ pathway_score: 0.8058385
 filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
 figtitle: Engineering of terpenoid pathways
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ chemicals:
   source: MESH
   identifier: C039834
 diseases: []
+figid_alias: PMC6902898__F11
+redirect_from: /figures/PMC6902898__F11
+figtype: Figure
 ---

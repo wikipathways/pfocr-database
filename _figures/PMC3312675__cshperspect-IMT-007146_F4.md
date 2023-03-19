@@ -1,7 +1,7 @@
 ---
 figid: PMC3312675__cshperspect-IMT-007146_F4
 figlink: /pmc/articles/PMC3312675/figure/A007146F4/
-number: Figure 4
+number: F4
 caption: Positive selection of nonautoreactive immature B cells into the peripheral
   B-cell compartment requires a threshold level of tonic BCR signaling. Differentiation
   of nonautoreactive immature B cells into transitional and mature B cells and entry
@@ -116,4 +116,7 @@ genes:
   entrez: '5594'
 chemicals: []
 diseases: []
+figid_alias: PMC3312675__F4
+redirect_from: /figures/PMC3312675__F4
+figtype: Figure
 ---

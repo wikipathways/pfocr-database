@@ -1,7 +1,7 @@
 ---
 figid: PMC7912673__pharmaceuticals-14-00099-g001
 figlink: pmc/articles/PMC7912673/figure/pharmaceuticals-14-00099-f001/
-number: Figure 1
+number: F1
 caption: 'Panel (A): Mechanisms of drug inhibition on cellular pathways. (Letrozole).
   Aromatase catalyzes the conversion of androgens to estrogens by aromatization of
   the A-ring. A-ring structure of androgens is noted by the red star. (CellCept) GTP
@@ -27,8 +27,7 @@ pathway_score: 0.8841149
 filename: pharmaceuticals-14-00099-g001.jpg
 figtitle: 'Panel (A): Mechanisms of drug inhibition on cellular pathways'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -260,4 +259,7 @@ chemicals:
   source: MESH
   identifier: C098350
 diseases: []
+figid_alias: PMC7912673__F1
+redirect_from: /figures/PMC7912673__F1
+figtype: Figure
 ---

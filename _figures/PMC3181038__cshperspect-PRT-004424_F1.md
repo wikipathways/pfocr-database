@@ -1,7 +1,7 @@
 ---
 figid: PMC3181038__cshperspect-PRT-004424_F1
 figlink: /pmc/articles/PMC3181038/figure/A004424F1/
-number: Figure 1
+number: F1
 caption: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
   and ATF6 regulate the UPR through their respective signaling cascades. Under nonstressed
   conditions, BiP binds to the lumenal domains of IRE1 and PERK to prevent their dimerization.
@@ -27,8 +27,7 @@ filename: cshperspect-PRT-004424_F1.jpg
 figtitle: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
   and ATF6 regulate the UPR through their respective signaling cascades'
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ genes:
   entrez: '8720'
 chemicals: []
 diseases: []
+figid_alias: PMC3181038__F1
+redirect_from: /figures/PMC3181038__F1
+figtype: Figure
 ---

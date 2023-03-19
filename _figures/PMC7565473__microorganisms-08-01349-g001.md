@@ -1,7 +1,7 @@
 ---
 figid: PMC7565473__microorganisms-08-01349-g001
 figlink: pmc/articles/PMC7565473/figure/microorganisms-08-01349-f001/
-number: Figure 1
+number: F1
 caption: 'Scheme of the proposed pathway of aromatic amino acids metabolism: The blue
   box (left) includes the metabolites related to the tryptophan metabolism studied
   in this work. The green box (right) includes the metabolites related to the tyrosine
@@ -19,8 +19,7 @@ figtitle: 'Scheme of the proposed pathway of aromatic amino acids metabolism: Th
   blue box (left) includes the metabolites related to the tryptophan metabolism studied
   in this work'
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -508,4 +507,7 @@ chemicals:
   source: MESH
   identifier: C443440
 diseases: []
+figid_alias: PMC7565473__F1
+redirect_from: /figures/PMC7565473__F1
+figtype: Figure
 ---

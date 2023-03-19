@@ -1,7 +1,7 @@
 ---
 figid: PMC6879386__plantbiotechnology-35-2-18.0324a-figure01
 figlink: /pmc/articles/PMC6879386/figure/figure1/
-number: ''
+number: F1
 caption: .na.character
 pmcid: PMC6879386
 papertitle: Identification and characterization of a novel sesquiterpene synthase,
@@ -13,8 +13,7 @@ filename: plantbiotechnology-35-2-18.0324a-figure01.jpg
 figtitle: Identification and characterization of a novel sesquiterpene synthase, 4-amorphen-11-ol
   synthase, from Artemisia maritima
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -82,4 +81,7 @@ chemicals:
   source: MESH
   identifier: D037621
 diseases: []
+figid_alias: PMC6879386__F1
+redirect_from: /figures/PMC6879386__F1
+figtype: Figure
 ---

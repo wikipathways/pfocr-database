@@ -1,7 +1,7 @@
 ---
 figid: PMC7770493__pharmrev.120.000086f2
 figlink: pmc/articles/PMC7770493/figure/F2/
-number: Fig. 2
+number: F2
 caption: Mitochondrial cAMP signalosomes. Multiple cAMP signalosomes localize to the
   mitochondria. Red gradients illustrate cAMP. The MOM is permeable to cytosolic cAMP,
   whereas the MIM is not. In the matrix, AC10 generates the second messenger locally.
@@ -17,8 +17,7 @@ pathway_score: 0.9407051
 filename: pharmrev.120.000086f2.jpg
 figtitle: Mitochondrial cAMP signalosomes
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -227,4 +226,7 @@ chemicals:
   source: MESH
   identifier: C091716
 diseases: []
+figid_alias: PMC7770493__F2
+redirect_from: /figures/PMC7770493__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5710031__RomJOphthalmol-61-152-g002
 figlink: /pmc/articles/PMC5710031/figure/F2/
-number: Fig. 2
+number: F2
 caption: The CDP-choline pathway
 pmcid: PMC5710031
 papertitle: Citicoline – a neuroprotector with proven  effects on glaucomatous disease
@@ -12,8 +12,7 @@ pathway_score: 0.9097828
 filename: RomJOphthalmol-61-152-g002.jpg
 figtitle: The CDP-choline pathway
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -71,4 +70,7 @@ chemicals:
   source: MESH
   identifier: D003568
 diseases: []
+figid_alias: PMC5710031__F2
+redirect_from: /figures/PMC5710031__F2
+figtype: Figure
 ---

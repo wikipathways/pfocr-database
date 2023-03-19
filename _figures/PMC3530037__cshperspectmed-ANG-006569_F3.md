@@ -1,7 +1,7 @@
 ---
 figid: PMC3530037__cshperspectmed-ANG-006569_F3
 figlink: /pmc/articles/PMC3530037/figure/A006569F3/
-number: Figure 3
+number: F3
 caption: Canonical Notch signaling pathway. The Notch pathway is an evolutionarily
   conserved intercellular signaling mechanism implicated in cell fate determination
   and differentiation of endothelial cells. Notch signaling begins with receptor–ligand
@@ -23,8 +23,7 @@ pathway_score: 0.9132099
 filename: cshperspectmed-ANG-006569_F3.jpg
 figtitle: Canonical Notch signaling pathway
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ genes:
   entrez: '114899'
 chemicals: []
 diseases: []
+figid_alias: PMC3530037__F3
+redirect_from: /figures/PMC3530037__F3
+figtype: Figure
 ---

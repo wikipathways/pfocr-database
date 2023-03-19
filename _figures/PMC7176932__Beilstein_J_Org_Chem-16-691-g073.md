@@ -1,7 +1,7 @@
 ---
 figid: PMC7176932__Beilstein_J_Org_Chem-16-691-g073
 figlink: pmc/articles/PMC7176932/figure/C72/
-number: Scheme 72
+number: S72
 caption: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
   and proposed mechanism for product formation of 456 and 457 (bottom).
 pmcid: PMC7176932
@@ -13,8 +13,7 @@ filename: Beilstein_J_Org_Chem-16-691-g073.jpg
 figtitle: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
   and proposed mechanism for product formation of 456 and 457 (bottom)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ chemicals:
   source: MESH
   identifier: D003300
 diseases: []
+figid_alias: PMC7176932__S72
+redirect_from: /figures/PMC7176932__S72
+figtype: Scheme
 ---

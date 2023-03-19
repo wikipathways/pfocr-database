@@ -1,7 +1,7 @@
 ---
 figid: PMC4695805__pharmaceuticals-08-00675-g002
 figlink: /pmc/articles/PMC4695805/figure/pharmaceuticals-08-00675-f002/
-number: Figure 2
+number: F2
 caption: Mitochondrial dysfunction caused by inhibition of pyruvate transfer to mitochondria.
   The activity of the PDH complex is blocked by PDK enzymes. PDK1 can phosphorylate
   all three sites—S1, S2, and S3 (Ser-264, Ser-271, and Ser-203, respectively) whereas
@@ -122,4 +122,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC4695805__F2
+redirect_from: /figures/PMC4695805__F2
+figtype: Figure
 ---

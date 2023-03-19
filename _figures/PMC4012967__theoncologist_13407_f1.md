@@ -1,7 +1,7 @@
 ---
 figid: PMC4012967__theoncologist_13407_f1
 figlink: /pmc/articles/PMC4012967/figure/F1/
-number: Figure 1
+number: F1
 caption: 'The IL-6/JAK/STAT pathway. The endogenous inhibitors of the latter are shown
   including SOCS3 and PIAS. Knocking the SOCS off cancer: SOCS3 and PIAS keep STAT3-mediated
   proliferation in balance under normal conditions. Inflammation is needed to deploy
@@ -210,4 +210,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4012967__F1
+redirect_from: /figures/PMC4012967__F1
+figtype: Figure
 ---

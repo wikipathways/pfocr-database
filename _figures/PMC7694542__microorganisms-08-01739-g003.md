@@ -1,7 +1,7 @@
 ---
 figid: PMC7694542__microorganisms-08-01739-g003
 figlink: pmc/articles/PMC7694542/figure/microorganisms-08-01739-f003/
-number: Figure 3
+number: F3
 caption: Conservation of signalling pathway proteins in Myxococcaceae. Regulatory
   proteins are shown as ovals. Positive regulation is shown with pointed arrows, and
   negative regulation with blunt-headed arrows. (A) Carotenoid production. In the
@@ -35,8 +35,7 @@ pathway_score: 0.8644862
 filename: microorganisms-08-01739-g003.jpg
 figtitle: Conservation of signalling pathway proteins in Myxococcaceae
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -172,4 +171,7 @@ chemicals:
   source: MESH
   identifier: C030654
 diseases: []
+figid_alias: PMC7694542__F3
+redirect_from: /figures/PMC7694542__F3
+figtype: Figure
 ---

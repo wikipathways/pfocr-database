@@ -1,7 +1,7 @@
 ---
 figid: PMC7915726__pharmaceuticals-14-00130-g005
 figlink: pmc/articles/PMC7915726/figure/pharmaceuticals-14-00130-f005/
-number: Figure 5
+number: F5
 caption: The role of MERTK in Yes-associated protein (YAP)-mediated EGFR-TKI resistance.
   Activation of hippo pathway blocks the nuclear translocation of YAP or promotes
   YAP degradation. In the EGFR-TKI resistant cancer cells, MERTK and Axl are upregulated.
@@ -18,8 +18,7 @@ pathway_score: 0.937083
 filename: pharmaceuticals-14-00130-g005.jpg
 figtitle: MERTK in Yes-associated protein (YAP)-mediated EGFR-TKI resistance
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -236,4 +235,7 @@ genes:
   entrez: '2305'
 chemicals: []
 diseases: []
+figid_alias: PMC7915726__F5
+redirect_from: /figures/PMC7915726__F5
+figtype: Figure
 ---

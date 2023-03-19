@@ -1,7 +1,7 @@
 ---
 figid: PMC3539509__medscimonit-17-4-RA100-g002
 figlink: /pmc/articles/PMC3539509/figure/f2-medscimonit-17-4-ra100/
-number: Figure 2
+number: F2
 caption: 'TLR4 signaling pathway: TLR4 is localized on cell surface for ligand recognition
   and activates both MyD88-dependent pathway and TRIF-dependent pathway. In MyD88-dependent
   pathway, TLR4 recruits MAL to link TIR domain of TLR4 with MyD88. MyD88 recruits
@@ -165,4 +165,7 @@ genes:
   entrez: '10454'
 chemicals: []
 diseases: []
+figid_alias: PMC3539509__F2
+redirect_from: /figures/PMC3539509__F2
+figtype: Figure
 ---

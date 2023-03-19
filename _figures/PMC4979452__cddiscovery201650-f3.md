@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f3
 figlink: /pmc/articles/PMC4979452/figure/fig3/
-number: Figure 3
+number: F3
 caption: Ion homeostasis. Ca2+ homeostasis is regulated by several transporters. Ca2+
   influx is primarily mediated by voltage-gated Ca2+ channels (VGCCs), transient receptor
   potential channels (TRPs) and ligand-gated channels. Ca2+ efflux is achieved by
@@ -360,4 +360,7 @@ chemicals:
   source: MESH
   identifier: D018350
 diseases: []
+figid_alias: PMC4979452__F3
+redirect_from: /figures/PMC4979452__F3
+figtype: Figure
 ---

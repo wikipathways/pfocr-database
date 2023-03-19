@@ -1,7 +1,7 @@
 ---
 figid: PMC5666637__cshperspect-TGF-022269_F2
 figlink: /pmc/articles/PMC5666637/figure/A022269F2/
-number: Figure 2
+number: F2
 caption: Summary of the transforming growth factor β (TGF-β) signaling pathway and
   mutations causing connective tissue disorders. TGF-β molecules (TGF-β1, -β2, and
   -β3) are secreted in latent forms that are unable to interact with the receptors.
@@ -172,4 +172,7 @@ genes:
   entrez: '4088'
 chemicals: []
 diseases: []
+figid_alias: PMC5666637__F2
+redirect_from: /figures/PMC5666637__F2
+figtype: Figure
 ---

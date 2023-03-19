@@ -1,7 +1,7 @@
 ---
 figid: PMC3579397__cshperspect-MIT-011437_F1
 figlink: /pmc/articles/PMC3579397/figure/A011437F1/
-number: Figure 1
+number: F1
 caption: Sulfide production. Methionine, derived from alimentary sources, is converted
   into S-adenosylmethionine by methionine adenosyltransferase (MAT). S-adenosylmethionine
   is hydrolyzed to homocysteine by glycine N-methyltransferase (GNMT). Cystathionine
@@ -26,8 +26,7 @@ pathway_score: 0.9086325
 filename: cshperspect-MIT-011437_F1.jpg
 figtitle: Sulfide production
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ genes:
   entrez: '51380'
 chemicals: []
 diseases: []
+figid_alias: PMC3579397__F1
+redirect_from: /figures/PMC3579397__F1
+figtype: Figure
 ---

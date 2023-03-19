@@ -1,7 +1,7 @@
 ---
 figid: PMC4932542__pharmaceuticals-09-00024-g002
 figlink: /pmc/articles/PMC4932542/figure/pharmaceuticals-09-00024-f002/
-number: Figure 2
+number: F2
 caption: Pathways associated with the sensitivity or resistance of tumor cells to
   metformin under normoglycemic or hyperglycemic conditions. (A) Under normoglycemic
   conditions metformin opposes the expression of MYC and tumor cells display sensitivity
@@ -21,8 +21,7 @@ filename: pharmaceuticals-09-00024-g002.jpg
 figtitle: Pathways associated with the sensitivity or resistance of tumor cells to
   metformin under normoglycemic or hyperglycemic conditions
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: D008687
 diseases: []
+figid_alias: PMC4932542__F2
+redirect_from: /figures/PMC4932542__F2
+figtype: Figure
 ---

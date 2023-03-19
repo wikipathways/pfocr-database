@@ -1,7 +1,7 @@
 ---
 figid: PMC3941218__cshperspect-RTK-009191_F1
 figlink: /pmc/articles/PMC3941218/figure/A009191F1/
-number: Figure 1
+number: F1
 caption: Insulin- and IGF-1-signaling pathways. Activation of insulin and IGF-1 receptors
   by their ligands initiates a cascade of phosphorylation events. A conformational
   change and autophosphorylation of the receptors occur at the time of ligand binding,
@@ -408,4 +408,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3941218__F1
+redirect_from: /figures/PMC3941218__F1
+figtype: Figure
 ---

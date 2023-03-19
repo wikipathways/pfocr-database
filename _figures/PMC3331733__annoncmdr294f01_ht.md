@@ -1,7 +1,7 @@
 ---
 figid: PMC3331733__annoncmdr294f01_ht
 figlink: /pmc/articles/PMC3331733/figure/fig1/
-number: Figure 1
+number: F1
 caption: Human epidermal growth factor receptor (HER) 2 signaling pathways involved
   in tumorigenesis and cardiac survival. (A) In breast cancer cells, HER dimer formation
   results in cross-phosphorylation of the dimer tyrosine kinase domain and leads to
@@ -222,4 +222,7 @@ chemicals:
   source: MESH
   identifier: D018943
 diseases: []
+figid_alias: PMC3331733__F1
+redirect_from: /figures/PMC3331733__F1
+figtype: Figure
 ---

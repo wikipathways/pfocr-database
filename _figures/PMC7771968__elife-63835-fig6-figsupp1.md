@@ -1,7 +1,7 @@
 ---
 figid: PMC7771968__elife-63835-fig6-figsupp1
 figlink: pmc/articles/PMC7771968/figure/fig6s1/
-number: Figure 6—figure supplement 1
+number: SF6_1
 caption: 'Metabolites that were increased in the metabolomics analysis of aged Cdk1
   cKO mice are highlighted in red. Enzymes with known associations to liver metabolic
   disease are included. ADA: Adenosine deaminase. XDH: Xanthine dehydrogenase.'
@@ -14,8 +14,7 @@ pathway_score: 0.9683858
 filename: elife-63835-fig6-figsupp1.jpg
 figtitle: Purine catabolism pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -120,4 +119,7 @@ chemicals:
   source: MESH
   identifier: D014527
 diseases: []
+figid_alias: PMC7771968__SF6_1
+redirect_from: /figures/PMC7771968__SF6_1
+figtype: Supplemental figure
 ---

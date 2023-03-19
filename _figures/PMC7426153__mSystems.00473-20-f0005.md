@@ -1,7 +1,7 @@
 ---
 figid: PMC7426153__mSystems.00473-20-f0005
 figlink: .na.character
-number: ''
+number: F5
 caption: Reconstruction of metabolic features found in the genomes of SAR324 (A),
   Crenarchaeota (B), Patescibacteria (C), and Nanoarchaeota (D). Solid lines indicate
   that genes/enzymes, or >50% of a given pathway, were found, and dashed lines indicate
@@ -18,8 +18,7 @@ pathway_score: 0.9365936
 filename: mSystems.00473-20-f0005.jpg
 figtitle: Microbial Strategies for Survival in the Glass Sponge Vazella pourtalesii
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -344,4 +343,7 @@ diseases:
 - word: FOFIATPe
   source: ''
   identifier: ''
+figid_alias: PMC7426153__F5
+redirect_from: /figures/PMC7426153__F5
+figtype: Figure
 ---

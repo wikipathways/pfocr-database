@@ -1,7 +1,7 @@
 ---
 figid: PMC7918072__pharmaceuticals-14-00149-g001
 figlink: pmc/articles/PMC7918072/figure/pharmaceuticals-14-00149-f001/
-number: Figure 1
+number: F1
 caption: A graphical representation of the canonical pathway of miRNA biogenesis in
   animals. The MIR gene encodes pri-miRNA. Modification of the pri-miRNA hairpin with
   two free ends takes place in the cell nucleus. The DGCR8 (DiGeorge critical region
@@ -20,8 +20,7 @@ filename: pharmaceuticals-14-00149-g001.jpg
 figtitle: Graphical representation of the canonical pathway of miRNA biogenesis in
   animals
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -71,4 +70,7 @@ genes:
   entrez: '59342'
 chemicals: []
 diseases: []
+figid_alias: PMC7918072__F1
+redirect_from: /figures/PMC7918072__F1
+figtype: Figure
 ---

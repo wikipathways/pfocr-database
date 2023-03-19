@@ -1,7 +1,7 @@
 ---
 figid: PMC6636906__elife-40593-fig4-figsupp2
 figlink: /pmc/articles/PMC6636906/figure/fig4s2/
-number: Figure 4—figure supplement 2
+number: SF4_2
 caption: A schematic diagram of enzymes (Drosophila homologs) and biochemical reactions
   in the metabolic pathway of serine, glycine, and threonine was adopted and modified
   from KEGG pathway database (http://www.genome.jp/kegg/pathway.html). SHMT, serine
@@ -15,8 +15,7 @@ pathway_score: 0.7414364
 filename: elife-40593-fig4-figsupp2.jpg
 figtitle: A metabolic pathway of serine, glycine, and threonine
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ chemicals:
   source: MESH
   identifier: C005087
 diseases: []
+figid_alias: PMC6636906__SF4_2
+redirect_from: /figures/PMC6636906__SF4_2
+figtype: Supplemental figure
 ---

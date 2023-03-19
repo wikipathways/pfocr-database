@@ -1,7 +1,7 @@
 ---
 figid: PMC3579398__cshperspect-REP-012948_F3
 figlink: /pmc/articles/PMC3579398/figure/A012948F3/
-number: Figure 3
+number: F3
 caption: Initiation of endoreplication in Drosophila follicle cells. (A) The follicle
   cells that encapsulate the ovary originate from stem cells and undergo three different
   cell cycle variants during their differentiation. Up to stage 6, follicle cells
@@ -127,4 +127,7 @@ genes:
   entrez: '4853'
 chemicals: []
 diseases: []
+figid_alias: PMC3579398__F3
+redirect_from: /figures/PMC3579398__F3
+figtype: Figure
 ---

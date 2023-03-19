@@ -1,7 +1,7 @@
 ---
 figid: PMC4012960__theoncologist_13333_f1
 figlink: /pmc/articles/PMC4012960/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Overview of the PTEN/PI3K/Akt signaling pathway. PI3K is initially activated
   by membrane receptor (such as cytokine receptor, RTK, CD19, and integrin). An increase
   in PI3K function leads to the accumulation of PIP3, which subsequently activates
@@ -122,4 +122,7 @@ genes:
   entrez: '5728'
 chemicals: []
 diseases: []
+figid_alias: PMC4012960__F1
+redirect_from: /figures/PMC4012960__F1
+figtype: Figure
 ---

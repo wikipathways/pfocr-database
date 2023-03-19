@@ -1,7 +1,7 @@
 ---
 figid: PMC3857071__pharmaceutics-03-00354f1
 figlink: /pmc/articles/PMC3857071/figure/f1-pharmaceutics-03-00354/
-number: Figure 1
+number: F1
 caption: Heme biosynthesis. Schematic illustrating the interaction of the heme biosynthesis
   pathway with exogenous 5-aminolevulinic acid to give intracellular Protoporphyrin
   IX.
@@ -13,8 +13,7 @@ pathway_score: 0.9521888
 filename: pharmaceutics-03-00354f1.jpg
 figtitle: Heme biosynthesis
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ chemicals:
   source: MESH
   identifier: D014577
 diseases: []
+figid_alias: PMC3857071__F1
+redirect_from: /figures/PMC3857071__F1
+figtype: Figure
 ---

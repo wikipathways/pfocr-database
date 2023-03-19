@@ -1,7 +1,7 @@
 ---
 figid: PMC5397988__RevDiabeticStud-12-134-002
 figlink: /pmc/articles/PMC5397988/figure/F2/
-number: Figure 2
+number: F2
 caption: The presence of high levels of ROS/NS can lead to downstream activation of
   cell death pathways. The type of cell death that occurs depends on the parts of
   the cell that are damaged. For example, oxidized protein damage can induce ER stress
@@ -182,4 +182,7 @@ chemicals:
   source: MESH
   identifier: D015632
 diseases: []
+figid_alias: PMC5397988__F2
+redirect_from: /figures/PMC5397988__F2
+figtype: Figure
 ---

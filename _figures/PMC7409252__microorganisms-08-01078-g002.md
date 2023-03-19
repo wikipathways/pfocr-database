@@ -1,7 +1,7 @@
 ---
 figid: PMC7409252__microorganisms-08-01078-g002
 figlink: pmc/articles/PMC7409252/figure/microorganisms-08-01078-f002/
-number: Figure 2
+number: F2
 caption: 'Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
   the context of cytomegalovirus (CMV) viral reactivation. The rupture of the epithelial
   junctions increases intestinal permeability and facilitates the passage of microorganisms
@@ -58,8 +58,7 @@ filename: microorganisms-08-01078-g002.jpg
 figtitle: Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
   the context of cytomegalovirus (CMV) viral reactivation
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -351,4 +350,7 @@ chemicals:
   source: MESH
   identifier: C479163
 diseases: []
+figid_alias: PMC7409252__F2
+redirect_from: /figures/PMC7409252__F2
+figtype: Figure
 ---

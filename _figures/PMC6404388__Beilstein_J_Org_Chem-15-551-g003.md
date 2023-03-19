@@ -1,7 +1,7 @@
 ---
 figid: PMC6404388__Beilstein_J_Org_Chem-15-551-g003
 figlink: /pmc/articles/PMC6404388/figure/F2/
-number: Figure 2
+number: F2
 caption: Two level 4 pathways that were recently realized in vitro. (a) The CETCH
   cycle for CO2 fixation [] and (b) the formolase pathway for formate assimilation
   []. Important enzymes that were engineered to establish these cycles and are mentioned
@@ -15,8 +15,7 @@ pathway_score: 0.9377887
 filename: Beilstein_J_Org_Chem-15-551-g003.jpg
 figtitle: Two level 4 pathways that were recently realized in vitro
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -209,4 +208,7 @@ diseases:
 - word: semialdehyde
   source: MESH
   identifier: C566402
+figid_alias: PMC6404388__F2
+redirect_from: /figures/PMC6404388__F2
+figtype: Figure
 ---

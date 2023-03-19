@@ -1,7 +1,7 @@
 ---
 figid: PMC5683310__cddiscovery201771-f2
 figlink: /pmc/articles/PMC5683310/figure/fig2/
-number: Figure 2
+number: F2
 caption: Molecular pathways regulated by ZNFs in physiological conditions. (a) ZNF750
   regulates keratinocytes terminal differentiation by interacting with KLF4 and chromatin
   regulators. This interaction leads to the positive regulation of genes (PPL, PKP1)
@@ -308,4 +308,7 @@ genes:
   entrez: '7472'
 chemicals: []
 diseases: []
+figid_alias: PMC5683310__F2
+redirect_from: /figures/PMC5683310__F2
+figtype: Figure
 ---

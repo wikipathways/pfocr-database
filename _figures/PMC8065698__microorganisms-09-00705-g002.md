@@ -1,7 +1,7 @@
 ---
 figid: PMC8065698__microorganisms-09-00705-g002
 figlink: pmc/articles/PMC8065698/figure/microorganisms-09-00705-f002/
-number: Figure 2
+number: F2
 caption: The UPR drives pro-inflammatory responses to ER stress. (a) TLR signaling
   activates Ire1 and XBP1 mRNA splicing via a MyD88-dependent pathway. Translocation
   of XBP1s into the nucleus enhances the transcription of pro-inflammatory cytokines
@@ -23,8 +23,7 @@ pathway_score: 0.8720782
 filename: microorganisms-09-00705-g002.jpg
 figtitle: UPR drives pro-inflammatory responses to ER stress
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -335,4 +334,7 @@ genes:
   entrez: '7124'
 chemicals: []
 diseases: []
+figid_alias: PMC8065698__F2
+redirect_from: /figures/PMC8065698__F2
+figtype: Figure
 ---

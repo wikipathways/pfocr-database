@@ -1,7 +1,7 @@
 ---
 figid: PMC4419338__JEM_2125insight4_Fig2
 figlink: /pmc/articles/PMC4419338/figure/fig2/
-number: ''
+number: F2
 caption: Model of flow-induced signal transduction events. Shear force induces signaling
   events that are orchestrated by the cAMP–PKA–CREB pathway to produce PGE2, adenosine,
   and BMP, which drive HSC production.
@@ -442,4 +442,7 @@ chemicals:
   source: MESH
   identifier: D011458
 diseases: []
+figid_alias: PMC4419338__F2
+redirect_from: /figures/PMC4419338__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6978502__plantbiotechnology-36-4-19.1025a-figure01
 figlink: /pmc/articles/PMC6978502/figure/figure1/
-number: ''
+number: F1
 caption: .na.character
 pmcid: PMC6978502
 papertitle: Identification of novel MYB transcription factors involved in the isoflavone
@@ -15,8 +15,7 @@ figtitle: Identification of novel MYB transcription factors involved in the isof
   biosynthetic pathway by using the combination screening system with agroinfiltration
   and hairy root transformation
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -146,4 +145,7 @@ diseases:
 - word: Flavan
   source: ''
   identifier: ''
+figid_alias: PMC6978502__F1
+redirect_from: /figures/PMC6978502__F1
+figtype: Figure
 ---

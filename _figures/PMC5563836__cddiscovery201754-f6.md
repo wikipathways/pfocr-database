@@ -1,7 +1,7 @@
 ---
 figid: PMC5563836__cddiscovery201754-f6
 figlink: /pmc/articles/PMC5563836/figure/fig6/
-number: Figure 6
+number: F6
 caption: Main mechanisms of EE in post-stroke neurogenesis and functional recovery.
   Post-ischemic EE increased the production and secretion of activated astrocytes
   after ischemic stroke. Astrocytic HMGB1 then enhances the production and secretion
@@ -16,8 +16,7 @@ pathway_score: 0.79305
 filename: cddiscovery201754-f6.jpg
 figtitle: Main mechanisms of EE in post-stroke neurogenesis and functional recovery
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -69,4 +68,7 @@ genes:
   entrez: '3569'
 chemicals: []
 diseases: []
+figid_alias: PMC5563836__F6
+redirect_from: /figures/PMC5563836__F6
+figtype: Figure
 ---

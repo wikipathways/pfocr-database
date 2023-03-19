@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g179
 figlink: /pmc/articles/PMC6664406/figure/C171/
-number: Scheme 171
+number: S171
 caption: Mechanistic pathway for C–H arylation of imidazo[1,2-a]pyridine.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.6221621
 filename: Beilstein_J_Org_Chem-15-1612-g179.jpg
 figtitle: Mechanistic pathway for C–H arylation of imidazo[1,2-a]pyridine
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ chemicals:
   source: MESH
   identifier: D011188
 diseases: []
+figid_alias: PMC6664406__S171
+redirect_from: /figures/PMC6664406__S171
+figtype: Scheme
 ---

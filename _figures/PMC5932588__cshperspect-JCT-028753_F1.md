@@ -1,7 +1,7 @@
 ---
 figid: PMC5932588__cshperspect-JCT-028753_F1
 figlink: pmc/articles/PMC5932588/figure/A028753F1/
-number: Figure 1
+number: F1
 caption: Schematic representation of molecular mechanisms that connect cellular junctions
   to the Hippo pathway. (A) Effect of tight junctions in Drosophila. Crumbs (Crb)
   and atypical protein kinase C (aPKC) polarity complexes promote Hippo signaling
@@ -25,8 +25,7 @@ pathway_score: 0.6986581
 filename: cshperspect-JCT-028753_F1.jpg
 figtitle: Molecular mechanisms that connect cellular junctions to the Hippo pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -276,4 +275,7 @@ genes:
   entrez: '55249'
 chemicals: []
 diseases: []
+figid_alias: PMC5932588__F1
+redirect_from: /figures/PMC5932588__F1
+figtype: Figure
 ---

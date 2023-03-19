@@ -1,7 +1,7 @@
 ---
 figid: PMC8001969__pharmaceuticals-14-00217-g004
 figlink: pmc/articles/PMC8001969/figure/pharmaceuticals-14-00217-f004/
-number: Figure 4
+number: F4
 caption: 'The mTOR signaling pathway and its important regulatory functions are shown.
   Activated mTORC1 results in increased protein synthesis via downstream effectors
   S6K1 and 4EBP1. AKT-mediated activation of NF-κB increases gene expression followed
@@ -33,8 +33,7 @@ pathway_score: 0.8823422
 filename: pharmaceuticals-14-00217-g004.jpg
 figtitle: MTOR signaling pathway and its important regulatory functions are shown
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -368,4 +367,7 @@ chemicals:
   source: MESH
   identifier: D020123
 diseases: []
+figid_alias: PMC8001969__F4
+redirect_from: /figures/PMC8001969__F4
+figtype: Figure
 ---

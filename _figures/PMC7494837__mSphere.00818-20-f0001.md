@@ -1,7 +1,7 @@
 ---
 figid: PMC7494837__mSphere.00818-20-f0001
 figlink: pmc/articles/PMC7494837/figure/fig1/
-number: FIG 1
+number: F1
 caption: The two branches of Snl1 and Sho1 which are responsible for the activation
   of the S. cerevisiae high-osmolarity glycerol (HOG) pathway. (Adapted from reference
   ).
@@ -16,8 +16,7 @@ filename: mSphere.00818-20-f0001.jpg
 figtitle: Two branches of Snl1 and Sho1 which are responsible for the activation of
   the S
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -196,4 +195,7 @@ genes:
   entrez: '284459'
 chemicals: []
 diseases: []
+figid_alias: PMC7494837__F1
+redirect_from: /figures/PMC7494837__F1
+figtype: Figure
 ---

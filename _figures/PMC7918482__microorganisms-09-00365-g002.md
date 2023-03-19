@@ -1,7 +1,7 @@
 ---
 figid: PMC7918482__microorganisms-09-00365-g002
 figlink: pmc/articles/PMC7918482/figure/microorganisms-09-00365-f002/
-number: Figure 2
+number: F2
 caption: 'Carbon metabolism of Dehalococcoides mccartyi strain CBDB1 demonstrating
   the main routes of acetate utilization via acetyl-CoA, gluconeogenesis, and acetyl-CoA
   synthase/CO dehydrogenase (black arrows) and the diverging biosynthetic pathways
@@ -24,8 +24,7 @@ filename: microorganisms-09-00365-g002.jpg
 figtitle: Changes of the Proteome and Acetylome during Transition into the Stationary
   Phase in the Organohalide-Respiring Dehalococcoides mccartyi Strain CBDB1
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -222,4 +221,7 @@ diseases:
 - word: Glucose-6-P
   source: MESH
   identifier: C537241
+figid_alias: PMC7918482__F2
+redirect_from: /figures/PMC7918482__F2
+figtype: Figure
 ---

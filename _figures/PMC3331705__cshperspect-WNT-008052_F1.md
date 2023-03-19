@@ -1,7 +1,7 @@
 ---
 figid: PMC3331705__cshperspect-WNT-008052_F1
 figlink: /pmc/articles/PMC3331705/figure/A008052F1/
-number: Figure 1
+number: F1
 caption: Tumor suppressors and oncogenes in the Wnt pathway. Diagram of a basic Wnt
   signaling pathway in which oncogenes are depicted in green and tumor suppressors
   in red.
@@ -297,4 +297,7 @@ genes:
   entrez: '4040'
 chemicals: []
 diseases: []
+figid_alias: PMC3331705__F1
+redirect_from: /figures/PMC3331705__F1
+figtype: Figure
 ---

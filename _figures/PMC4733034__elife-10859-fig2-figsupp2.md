@@ -1,7 +1,7 @@
 ---
 figid: PMC4733034__elife-10859-fig2-figsupp2
 figlink: /pmc/articles/PMC4733034/figure/fig2s2/
-number: Figure 2—figure supplement 2
+number: SF2_2
 caption: '(A) Endogenous RLRs in HEK 293T ISRE-FF/RFP cells (stably express firefly
   luciferase (FF) and RFP under control of an interferon stimulated response element
   (ISRE) promoter) induce a downstream signaling cascade upon binding to transfected
@@ -112,4 +112,7 @@ genes:
   entrez: '6773'
 chemicals: []
 diseases: []
+figid_alias: PMC4733034__SF2_2
+redirect_from: /figures/PMC4733034__SF2_2
+figtype: Supplemental figure
 ---

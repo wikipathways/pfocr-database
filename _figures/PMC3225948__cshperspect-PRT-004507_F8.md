@@ -1,7 +1,7 @@
 ---
 figid: PMC3225948__cshperspect-PRT-004507_F8
 figlink: /pmc/articles/PMC3225948/figure/A004507F8/
-number: Figure 8
+number: F8
 caption: Small molecule activation of the unfolded protein response improves the folding,
   trafficking, and function of folding compromised secreted proteins. Small molecule
   activation of one or more arms of the unfolded protein response stress responsive
@@ -26,8 +26,7 @@ filename: cshperspect-PRT-004507_F8.jpg
 figtitle: Small molecule activation of the unfolded protein response improves the
   folding, trafficking, and function of folding compromised secreted proteins
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -83,4 +82,7 @@ genes:
   entrez: '22926'
 chemicals: []
 diseases: []
+figid_alias: PMC3225948__F8
+redirect_from: /figures/PMC3225948__F8
+figtype: Figure
 ---

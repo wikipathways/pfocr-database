@@ -1,7 +1,7 @@
 ---
 figid: PMC5287080__cshperspect-TGF-022129_F2
 figlink: /pmc/articles/PMC5287080/figure/A022129F2/
-number: Figure 2
+number: F2
 caption: Transforming growth factor β (TGF-β)-induced activation of c-Jun amino terminal
   kinase (JNK) and p38 mitogen-activated protein kinase (MAPK) signaling, and the
   IκB kinase (IKK) pathway. Ligand-bound TGF-β receptors interact with TRAF6 and TGF-β-activated
@@ -244,4 +244,7 @@ genes:
   entrez: '5599'
 chemicals: []
 diseases: []
+figid_alias: PMC5287080__F2
+redirect_from: /figures/PMC5287080__F2
+figtype: Figure
 ---

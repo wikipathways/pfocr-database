@@ -1,7 +1,7 @@
 ---
 figid: PMC7097628__41579_2018_Article_BFnrmicro2017170_Fig3_HTML
 figlink: pmc/articles/PMC7097628/figure/Fig3/
-number: Figure 3
+number: F3
 caption: A | Expression of the viral proteins during hepatitis C virus (HCV) and dengue
   virus (DENV) infection recruits immunoglobulin heavy chain-binding protein (BiP),
   resulting in depletion of BiP from the endoplasmic reticulum (ER)-stress sensors
@@ -49,8 +49,7 @@ pathway_score: 0.8976009
 filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
 figtitle: Rewiring cellular networks by members of the Flaviviridae family
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -305,4 +304,7 @@ genes:
   entrez: '5007'
 chemicals: []
 diseases: []
+figid_alias: PMC7097628__F3
+redirect_from: /figures/PMC7097628__F3
+figtype: Figure
 ---

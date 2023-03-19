@@ -1,7 +1,7 @@
 ---
 figid: PMC3817534__Beilstein_J_Org_Chem-09-2048-g032
 figlink: /pmc/articles/PMC3817534/figure/C21/
-number: Scheme 21
+number: S21
 caption: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
   [].
 pmcid: PMC3817534
@@ -13,8 +13,7 @@ filename: Beilstein_J_Org_Chem-09-2048-g032.jpg
 figtitle: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
   []
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -59,4 +58,7 @@ chemicals:
   source: MESH
   identifier: D013729
 diseases: []
+figid_alias: PMC3817534__S21
+redirect_from: /figures/PMC3817534__S21
+figtype: Scheme
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7823603__pharmaceuticals-14-00029-g003
 figlink: pmc/articles/PMC7823603/figure/pharmaceuticals-14-00029-f003/
-number: Figure 3
+number: F3
 caption: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
   signaling pathway in oxidative stress. Under normal condition, Nrf2 is bound to
   Kelch-like ECH-associated protein-1 (Keap1), gets ubiquitinated through Keap1, and
@@ -26,8 +26,7 @@ filename: pharmaceuticals-14-00029-g003.jpg
 figtitle: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
   signaling pathway in oxidative stress
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ diseases:
 - word: inflammation
   source: MESH
   identifier: D007249
+figid_alias: PMC7823603__F3
+redirect_from: /figures/PMC7823603__F3
+figtype: Figure
 ---

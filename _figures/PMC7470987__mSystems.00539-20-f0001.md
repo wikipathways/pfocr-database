@@ -1,7 +1,7 @@
 ---
 figid: PMC7470987__mSystems.00539-20-f0001
 figlink: pmc/articles/PMC7470987/figure/fig1/
-number: FIG 1
+number: F1
 caption: Working model for cross-pathway regulation between competence and biofilm
   in B. subtilis. Competence development is initiated when the quorum-sensing (QS)
   peptide derived from ComX (ComX*) is sensed by a membrane histidine kinase ComP
@@ -35,8 +35,7 @@ filename: mSystems.00539-20-f0001.jpg
 figtitle: Working model for cross-pathway regulation between competence and biofilm
   in B
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -103,4 +102,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7470987__F1
+redirect_from: /figures/PMC7470987__F1
+figtype: Figure
 ---

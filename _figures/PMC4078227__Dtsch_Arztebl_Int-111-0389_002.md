@@ -1,7 +1,7 @@
 ---
 figid: PMC4078227__Dtsch_Arztebl_Int-111-0389_002
 figlink: /pmc/articles/PMC4078227/figure/F2/
-number: Figure 2
+number: F2
 caption: Hedgehog signal pathway. While the hedgehog signal pathway is important in
   embryogenesis, it is usually inactivated in adult cells. The figure shows mutations
   (red border) which can lead to the activation of the hedgehog pathway in a basal
@@ -16,8 +16,7 @@ pathway_score: 0.8953119
 filename: Dtsch_Arztebl_Int-111-0389_002.jpg
 figtitle: Hedgehog signal pathway
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: C561435
 diseases: []
+figid_alias: PMC4078227__F2
+redirect_from: /figures/PMC4078227__F2
+figtype: Figure
 ---

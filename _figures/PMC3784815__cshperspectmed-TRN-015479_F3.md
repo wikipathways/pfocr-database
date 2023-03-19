@@ -1,7 +1,7 @@
 ---
 figid: PMC3784815__cshperspectmed-TRN-015479_F3
 figlink: /pmc/articles/PMC3784815/figure/A015479F3/
-number: Figure 3
+number: F3
 caption: Kidney immune activation against ischemia-reperfusion and transplant injury.
   Ischemic stress to the kidney induces the local synthesis and secretion of complement
   proteins directly by proximal tubule epithelial cells. Subsequent activation of
@@ -184,4 +184,7 @@ genes:
   entrez: '6352'
 chemicals: []
 diseases: []
+figid_alias: PMC3784815__F3
+redirect_from: /figures/PMC3784815__F3
+figtype: Figure
 ---

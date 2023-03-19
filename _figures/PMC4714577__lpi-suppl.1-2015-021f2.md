@@ -1,7 +1,7 @@
 ---
 figid: PMC4714577__lpi-suppl.1-2015-021f2
 figlink: /pmc/articles/PMC4714577/figure/f2-lpi-suppl.1-2015-021/
-number: Figure 2
+number: F2
 caption: Schematic of the PG biogenesis pathway in E. coli. Synthesis of PG precursors
   begins in the cytoplasm where nucleotide-linked precursors UDP-N-acetylglucosamine
   and UDP-N-acetylmuramic acid-l-Ala-γ-d-Glu-A2pm-d-Ala-d-Ala are made. The latter
@@ -20,8 +20,7 @@ pathway_score: 0.932534
 filename: lpi-suppl.1-2015-021f2.jpg
 figtitle: Schematic of the PG biogenesis pathway in E
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ chemicals:
   source: MESH
   identifier: D014530
 diseases: []
+figid_alias: PMC4714577__F2
+redirect_from: /figures/PMC4714577__F2
+figtype: Figure
 ---

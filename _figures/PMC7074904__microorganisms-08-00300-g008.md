@@ -1,7 +1,7 @@
 ---
 figid: PMC7074904__microorganisms-08-00300-g008
 figlink: pmc/articles/PMC7074904/figure/microorganisms-08-00300-f008/
-number: Figure 8
+number: F8
 caption: 'Functional display of OrfB-ER gene and OrfC-ER gene in fatty acid synthesis
   and central carbon metabolic regulation related to fatty acid biosynthesis when
   triclosan was added in S. limacinum. Red arrow means promoted; blue arrow means
@@ -23,8 +23,7 @@ figtitle: Functional display of OrfB-ER gene and OrfC-ER gene in fatty acid synt
   and central carbon metabolic regulation related to fatty acid biosynthesis when
   triclosan was added in S
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -166,4 +165,7 @@ chemicals:
   source: MESH
   identifier: C502590
 diseases: []
+figid_alias: PMC7074904__F8
+redirect_from: /figures/PMC7074904__F8
+figtype: Figure
 ---

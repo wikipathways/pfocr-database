@@ -1,7 +1,7 @@
 ---
 figid: PMC7148509__bioengineering-07-00018-g006
 figlink: pmc/articles/PMC7148509/figure/bioengineering-07-00018-f006/
-number: Figure 6
+number: F6
 caption: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
   stiffening. Integrins bind to ECM and induce the formation of focal adhesions, leading
   to actin polymerization via the activation of Rho GTPases such as Rho, Rac, and
@@ -21,8 +21,7 @@ filename: bioengineering-07-00018-g006.jpg
 figtitle: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
   stiffening
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -89,4 +88,7 @@ genes:
   entrez: '10893'
 chemicals: []
 diseases: []
+figid_alias: PMC7148509__F6
+redirect_from: /figures/PMC7148509__F6
+figtype: Figure
 ---

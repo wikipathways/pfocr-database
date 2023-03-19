@@ -1,7 +1,7 @@
 ---
 figid: PMC3295395__jexboterr411f01_ht
 figlink: /pmc/articles/PMC3295395/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Schematic representation of the biosynthetic pathway of RFOs.
 pmcid: PMC3295395
 papertitle: Isolation and characterization of galactinol synthases from hybrid poplar.
@@ -11,8 +11,7 @@ pathway_score: 0.8905486
 filename: jexboterr411f01_ht.jpg
 figtitle: Schematic representation of the biosynthetic pathway of RFOs
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -50,4 +49,7 @@ chemicals:
   source: MESH
   identifier: D014531
 diseases: []
+figid_alias: PMC3295395__F1
+redirect_from: /figures/PMC3295395__F1
+figtype: Figure
 ---

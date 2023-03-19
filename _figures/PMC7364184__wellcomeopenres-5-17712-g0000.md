@@ -1,7 +1,7 @@
 ---
 figid: PMC7364184__wellcomeopenres-5-17712-g0000
 figlink: pmc/articles/PMC7364184/figure/f1/
-number: Figure 1.
+number: F1
 caption: Under normal circumstances, the presence of endothelial protein C receptor
   (EPCR)-activated protein C (aPC) on the endothelial surface is able to modulate
   the protease-activated receptor 1 (PAR1) response (by cleavage of R46) to thrombin
@@ -21,8 +21,7 @@ filename: wellcomeopenres-5-17712-g0000.jpg
 figtitle: Proposed mechanisms of endothelial dysregulation via Plasmodium falciparum
   cytoadherence
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '55486'
 chemicals: []
 diseases: []
+figid_alias: PMC7364184__F1
+redirect_from: /figures/PMC7364184__F1
+figtype: Figure
 ---

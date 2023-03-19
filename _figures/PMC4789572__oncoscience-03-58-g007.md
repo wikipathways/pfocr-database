@@ -1,7 +1,7 @@
 ---
 figid: PMC4789572__oncoscience-03-58-g007
 figlink: /pmc/articles/PMC4789572/figure/F7/
-number: Figure 7
+number: F7
 caption: Each gene is broken down into three portions and represents the three sequenced
   samples, with red correlating to overexpressed and green correlating to underexpressed
   genes. Pathways were generated using KEGG graphs and rendered by Pathview.
@@ -284,4 +284,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4789572__F7
+redirect_from: /figures/PMC4789572__F7
+figtype: Figure
 ---

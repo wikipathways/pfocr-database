@@ -1,7 +1,7 @@
 ---
 figid: PMC7143722__microorganisms-08-00434-g003
 figlink: pmc/articles/PMC7143722/figure/microorganisms-08-00434-f003/
-number: Figure 3
+number: F3
 caption: '(A) De-novo fatty acid synthesis in oleaginous microorganisms (adapted from
   [,,,,,]), and enzymes involved in lipid accumulation. AC, aconitase; ACC, acetyl-CoA
   carboxylase; ACL, ATP-citrate lyase; ACP, acyl carrier protein; FAS, fatty acid
@@ -20,8 +20,7 @@ filename: microorganisms-08-00434-g003.jpg
 figtitle: ' De-novo fatty acid synthesis in oleaginous microorganisms (adapted from
   [,,,,,]), and enzymes involved in lipid accumulation'
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -393,4 +392,7 @@ diseases:
 - word: MHD
   source: ''
   identifier: ''
+figid_alias: PMC7143722__F3
+redirect_from: /figures/PMC7143722__F3
+figtype: Figure
 ---

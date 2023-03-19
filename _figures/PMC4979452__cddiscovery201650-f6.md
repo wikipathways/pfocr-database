@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f6
 figlink: /pmc/articles/PMC4979452/figure/fig6/
-number: Figure 6
+number: F6
 caption: Protein kinase A (PKA) signaling pathway. The majority of G-protein coupled
   receptors (GPCR) are associated with activation of distinctive adenylate cyclases
   (ACs) to regulate intracellular cAMP levels. When active, AC produces the second
@@ -296,4 +296,7 @@ diseases:
 - word: Glycogen storage disease
   source: ''
   identifier: ''
+figid_alias: PMC4979452__F6
+redirect_from: /figures/PMC4979452__F6
+figtype: Figure
 ---

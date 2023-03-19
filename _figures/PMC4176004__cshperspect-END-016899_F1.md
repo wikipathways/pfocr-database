@@ -1,7 +1,7 @@
 ---
 figid: PMC4176004__cshperspect-END-016899_F1
 figlink: /pmc/articles/PMC4176004/figure/A016899F1/
-number: Figure 1
+number: F1
 caption: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
   cells. (A) Apical Crumbs is endocytosed from the apical surface via Avl and Rab5
   to the early endosome (EE), to maintain the level of surface expression of Crumbs
@@ -32,8 +32,7 @@ filename: cshperspect-END-016899_F1.jpg
 figtitle: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
   cells
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ chemicals:
   source: MESH
   identifier: D008239
 diseases: []
+figid_alias: PMC4176004__F1
+redirect_from: /figures/PMC4176004__F1
+figtype: Figure
 ---

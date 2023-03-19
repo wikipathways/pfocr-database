@@ -1,7 +1,7 @@
 ---
 figid: PMC5210134__rcsann.2015.0008-01
 figlink: /pmc/articles/PMC5210134/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Important genetic defects that characterise the diverse pathways underlying
   urothelial cell carcinoma (UCC): Low grade, non-invasive papillary tumours are associated
   with mutations in either RAS pathway components or FGFR3, which are thought to be
@@ -15,8 +15,7 @@ pathway_score: 0.8542458
 filename: rcsann.2015.0008-01.jpg
 figtitle: The role of WNT signalling in urothelial cell carcinoma
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '2261'
 chemicals: []
 diseases: []
+figid_alias: PMC5210134__F1
+redirect_from: /figures/PMC5210134__F1
+figtype: Figure
 ---

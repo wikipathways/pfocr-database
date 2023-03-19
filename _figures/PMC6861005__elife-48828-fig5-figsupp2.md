@@ -1,7 +1,7 @@
 ---
 figid: PMC6861005__elife-48828-fig5-figsupp2
 figlink: /pmc/articles/PMC6861005/figure/fig5s2/
-number: Figure 5—figure supplement 2
+number: SF5_2
 caption: (A) Relative abundances of intracellular metabolites in hTim8aMUT compared
   to control SH-SY5Y cells (n = 6) were mapped onto metabolic networks using VANTED
   analysis tool. Each pathway is color-coded as indicated and p-value significant
@@ -15,8 +15,7 @@ pathway_score: 0.5098273
 filename: elife-48828-fig5-figsupp2.jpg
 figtitle: Metabolomic profile in hTim8aMUT SH-SY5Y cells
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -283,4 +282,7 @@ chemicals:
   source: MESH
   identifier: D011700
 diseases: []
+figid_alias: PMC6861005__SF5_2
+redirect_from: /figures/PMC6861005__SF5_2
+figtype: Supplemental figure
 ---

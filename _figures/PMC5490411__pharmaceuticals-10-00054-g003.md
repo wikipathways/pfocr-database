@@ -1,7 +1,7 @@
 ---
 figid: PMC5490411__pharmaceuticals-10-00054-g003
 figlink: /pmc/articles/PMC5490411/figure/pharmaceuticals-10-00054-f003/
-number: Figure 3
+number: F3
 caption: Schematic overview of TGFβ signalling. Binding of a TGFβ/BMP ligand to specific
   cell surface receptors induces the formation of a heteromeric type II/type I receptor
   complex. This binding is further regulated by type III receptors/co-receptors. Upon
@@ -293,4 +293,7 @@ genes:
   entrez: '4089'
 chemicals: []
 diseases: []
+figid_alias: PMC5490411__F3
+redirect_from: /figures/PMC5490411__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5793761__cshperspect-TGF-031989_F1
 figlink: pmc/articles/PMC5793761/figure/A031989F1/
-number: Figure 1
+number: F1
 caption: Bone morphogenetic protein (BMP) signaling pathway. Schematic representation
   of the BMP signaling pathway. BMPs interact with specific type I and type II receptors
   to form a heterotetrameric complex. Complex formation and ligand binding can be
@@ -26,8 +26,7 @@ pathway_score: 0.9663982
 filename: cshperspect-TGF-031989_F1.jpg
 figtitle: Bone morphogenetic protein (BMP) signaling pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -396,4 +395,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC5793761__F1
+redirect_from: /figures/PMC5793761__F1
+figtype: Figure
 ---

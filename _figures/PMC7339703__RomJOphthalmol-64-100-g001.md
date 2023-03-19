@@ -1,7 +1,7 @@
 ---
 figid: PMC7339703__RomJOphthalmol-64-100-g001
 figlink: pmc/articles/PMC7339703/figure/F1/
-number: Fig. 1
+number: F1
 caption: Melanin synthesis pathway
 pmcid: PMC7339703
 papertitle: Photoprotection role of melanin in the human retinal pigment epithelium.
@@ -12,8 +12,7 @@ pathway_score: 0.9226382
 filename: RomJOphthalmol-64-100-g001.jpg
 figtitle: Melanin synthesis pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -99,4 +98,7 @@ chemicals:
   source: MESH
   identifier: C041877
 diseases: []
+figid_alias: PMC7339703__F1
+redirect_from: /figures/PMC7339703__F1
+figtype: Figure
 ---

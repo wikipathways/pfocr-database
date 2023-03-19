@@ -28,16 +28,16 @@ layout: default
     </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <button class="dropdown-item copy-btn" type="button" to-copy="{{ site.url }}{{ page.url }}">Copy permalink</button>
-    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/{{page.figlink}}" target="_blank">View figure at PMC</a>
-    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}" target="_blank">Read paper at PMC</a>
+    <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/{{page.figlink}}" target="_blank">View figure at PMC</a>
+    <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}" target="_blank">Read paper at PMC</a>
     {% if page.wpid and page.wpid != '' %}
-    <a class="dropdown-item" href="https://www.wikipathways.org/instance/{{ page.wpid }}" target="_blank">Open at WikiPathways</a>
+    <a class="dropdown-item" style="color: #000000;" href="https://www.wikipathways.org/instance/{{ page.wpid }}" target="_blank">Open at WikiPathways</a>
     {% endif %}
     {% if page.ndex and page.ndex != '' %}
-    <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open at NDEx</a>
+    <a class="dropdown-item" style="color: #000000;" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open at NDEx</a>
     {% endif %}
-    <a class="dropdown-item" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" target="_blank">Download JPG</a>
-    <a class="dropdown-item" href="" target="_blank">Download GPML</a>
+    <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}/bin/{{ page.filename }}" target="_blank">Download JPG</a>
+    <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
     </div> 
   </div>
   <!-- This badge is updated by Jekyll via the value of "pmcid" in each pathway .md-->
@@ -67,7 +67,7 @@ layout: default
     <h2 id="publication">Publication</h2>
     {{ page.papertitle }} ({{ page.year }})
       <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ page.pmcid }}"
-      target="_blank">{{ page.reftext}} </a>
+      target="_blank">{{ page.reftext}} </a> {{ page.figtype }}: {{ page.number }}.
     <h2 id="organism">Organisms
       <a href="https://github.com/wikipathways/pfocr-database/edit/main/{{ page.path }}"
       target="_blank">
@@ -107,6 +107,7 @@ layout: default
           <i class="fa fa-pencil"></i>
         </span>
       </a></h2>
+      <input type="button" class="badge badge-secondary" id="tableLess1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       <!-- {% assign figid-genes = page.figid | append: "-genes" %} -->
       <!-- {% assign genes=site.data[figid-genes] %} -->
       <!-- {% assign genes=page.genes %} -->
@@ -116,6 +117,7 @@ layout: default
         {% assign GraphIdNum = 1000 %}
         {% assign CenterX = 100 %}
         {% assign CenterY = 100 %}
+        <div class="table-container">
         <table id="participants-table"> 
       <thead>
         <th title="Word in figure as detected by OCR">Word</th>
@@ -156,6 +158,8 @@ layout: default
       </Pathway>' | escape %}
       </tbody>
     </table> 
+    <div id="tableGrad" class="table-gradient-overlay"></div>
+    </div>
     {% assign geneIdList = page.genes | map: "hgnc_symbol" | uniq | slice: 0,99 | join: "," %}
     <div class="dropdown" style="float:right; margin-top: -13px;">
       <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonDatanodes" data-toggle="dropdown"
@@ -163,18 +167,18 @@ layout: default
         options
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes">
-      <a class="dropdown-item" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-genes.tsv">Download TSV</a>
+      <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-genes.tsv">Download TSV</a>
       <button class="dropdown-item pvg-btn" type="button" to-pvg="{{ pv-datanodes-genes }}">Copy DataNodes for PathVisio</button>
-      <a class="dropdown-item" style="background-image: url(https://cdn.drugst.one/libs/drugstone-buttons/0.0.1/android-chrome-192x192.png);background-repeat: no-repeat;background-position: left;background-position-x: left;background-size: 20px 20px;background-position-x: 6px;background-origin: padding-box;padding-left: 32px !important; margin: 10px;"
+      <a class="dropdown-item" style="color: #000000; background-image: url(https://cdn.drugst.one/libs/drugstone-buttons/0.0.1/android-chrome-192x192.png);background-repeat: no-repeat;background-position: left;background-position-x: left;background-size: 20px 20px;background-position-x: 6px;background-origin: padding-box;padding-left: 32px !important; margin: 10px;"
       href="https://drugst.one/standalone?nodes={{geneIdList}}&autofillEdges=true&activateNetworkMenuButtonAdjacentDrugs=true&interactionDrugProtein=NeDRex&licensedDatasets=true" 
       target="_blank" 
-      title="Query Drugst.One with the genes in this figure">Drugst.One</a>
+      title="Query drug interactions with the genes in this figure. Learn more at the link destination.">Query Drugst.One</a>
       </div>
     </div>
     <input type="button" class="badge badge-secondary" id="tableMore" value="more rows" style="float: left; margin-top: -8px;">
     <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
     
-    <br /><hr />
+    <br />
     <h2 id="chemicals">Chemical mentions
       <!-- {% assign data-chems = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-chemicals.tsv" %} -->
       <a href="https://github.com/wikipathways/pfocr-database/edit/main/{{ page.path }}"
@@ -183,9 +187,11 @@ layout: default
           <i class="fa fa-pencil"></i>
         </span>
       </a></h2>
+      <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       <!-- {% assign figid-chems = page.figid | append: "-chemicals" %} -->
       <!-- {% assign chems=site.data[figid-chems] %} -->
       {% assign chems=page.chemicals %}
+      <div class="table-container">
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
@@ -206,19 +212,21 @@ layout: default
           {% endfor %}
         </tbody>
       </table>
+      <div id="tableGradChems" class="table-gradient-overlay"></div>
+      </div>
       <div class="dropdown" style="float:right; margin-top: -13px;">
         <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonChems" data-toggle="dropdown"
           aria-haspopup="true" aria-expanded="false">
           options
         </button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonChems">
-        <a class="dropdown-item" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-chemicals.tsv">Download TSV</a>
+        <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-chemicals.tsv">Download TSV</a>
         </div>
       </div>
       <input type="button" class="badge badge-secondary" id="tableMoreChems" value="more rows" style="float: left; margin-top: -8px;">
       <input type="button" class="badge badge-secondary" id="tableLessChems" value="fewer rows" style="float: left; margin-top: -8px;">
 
-      <br /><hr />
+      <br />
       <h2 id="diseases">Disease mentions
         <!-- {% assign data-dis = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-diseases.tsv" %} -->
         <a href="https://github.com/wikipathways/pfocr-database/edit/main/{{ page.path }}"
@@ -227,9 +235,11 @@ layout: default
             <i class="fa fa-pencil"></i>
           </span>
         </a></h2>
+        <input type="button" class="badge badge-secondary" id="tableLessDis1" value="fewer rows" style="float: left; margin-bottom: 2px;">
         <!-- {% assign figid-dis = page.figid | append: "-diseases" %} -->
         <!-- {% assign dis=site.data[figid-dis] %} -->
         {% assign dis=page.diseases %}
+        <div class="table-container">
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
@@ -250,13 +260,15 @@ layout: default
             {% endfor %}
           </tbody>
         </table>
+        <div id="tableGradDis" class="table-gradient-overlay"></div>
+      </div>
         <div class="dropdown" style="float:right; margin-top: -13px;">
           <button class="badge badge-secondary dropdown-toggle" type="button" id="dropdownMenuButtonDis" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
             options
           </button>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDis">
-          <a class="dropdown-item" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-diseases.tsv">Download TSV</a>
+          <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-diseases.tsv">Download TSV</a>
           </div>
         </div>
         <input type="button" class="badge badge-secondary" id="tableMoreDis" value="more rows" style="float: left; margin-top: -8px;">
@@ -272,18 +284,23 @@ layout: default
   var btnLessDesc = $("#descLess");
   var btnMore = $("#tableMore");
   var btnLess = $("#tableLess");
+  var btnLess1 = $("#tableLess1");
+  const tblGrad = $("#tableGrad")[0];
   var btnMoreChems = $("#tableMoreChems");
   var btnLessChems = $("#tableLessChems");
+  var btnLessChems1 = $("#tableLessChems1");
+  const tblGradChems = $("#tableGradChems")[0];
   var btnMoreDis = $("#tableMoreDis");
   var btnLessDis = $("#tableLessDis");
-  var trsLen = trs.length;
+  var btnLessDis1 = $("#tableLessDis1");
+  const tblGradDis = $("#tableGradDis")[0];
+  var trsLength = trs.length;
   var trsLenChems = trsChem.length;
   var trsLenDis = trsDis.length;
-  var startIndex = 5;
+  var startIndex = 6;
   var currentIndex = startIndex;
   var currentIndexChems = startIndex;
   var currentIndexDis = startIndex;
-  var addIndex = 40;
   
   function UrlExists(url) {
     var http = new XMLHttpRequest();
@@ -297,13 +314,13 @@ layout: default
 
   trs.hide();
   trs.slice(0, startIndex).show();
-  checkButton(trsLen,$("#participants-table tr:visible").length, btnMore, btnLess);
+  checkButton(trsLength,$("#participants-table tr:visible").length, btnMore, btnLess, btnLess1, tblGrad);
   trsChem.hide();
   trsChem.slice(0, startIndex).show();
-  checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+  checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems, btnLessChems1, tblGradChems);
   trsDis.hide();
   trsDis.slice(0, startIndex).show();
-  checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+  checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
   checkButtonDesc();
 
   btnMoreDesc.click(function (e) {
@@ -338,60 +355,71 @@ layout: default
 
   btnMore.click(function (e) {
     e.preventDefault();
-    $("#participants-table tr").slice(currentIndex, currentIndex + addIndex).show();
-    currentIndex += addIndex;
-    checkButton(trsLen, $("#participants-table tr:visible").length, btnMore, btnLess);
+    $("#participants-table tr").slice(startIndex, trsLength).show();
+    checkButton(trsLength, $("#participants-table tr:visible").length, btnMore, btnLess, btnLess1,tblGrad);
   });
-
   btnLess.click(function (e) {
     e.preventDefault();
-    $("#participants-table tr").slice(currentIndex - addIndex, currentIndex).hide();
-    currentIndex -= addIndex;
-    checkButton(trsLen, $("#participants-table tr:visible").length, btnMore, btnLess);
+    $("#participants-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLength, $("#participants-table tr:visible").length, btnMore, btnLess, btnLess1,tblGrad);
+  });
+  btnLess1.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLength, $("#participants-table tr:visible").length, btnMore, btnLess, btnLess1,tblGrad);
   });
 
   btnMoreChems.click(function (e) {
     e.preventDefault();
-    $("#chems-table tr").slice(currentIndexChems, currentIndexChems + addIndex).show();
-    currentIndexChems += addIndex;
-    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+    $("#chems-table tr").slice(startIndex, trsLength).show();
+    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems, btnLessChems1, tblGradChems);
   });
-
   btnLessChems.click(function (e) {
     e.preventDefault();
-    $("#chems-table tr").slice(currentIndexChems - addIndex, currentIndexChems).hide();
-    currentIndexChems -= addIndex;
-    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems);
+    $("#chems-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems, btnLessChems1, tblGradChems);
+  });
+  btnLessChems1.click(function (e) {
+    e.preventDefault();
+    $("#chems-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems, btnLessChems1, tblGradChems);
   });
 
   btnMoreDis.click(function (e) {
     e.preventDefault();
-    $("#dis-table tr").slice(currentIndexDis, currentIndexDis + addIndex).show();
-    currentIndexDis += addIndex;
-    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+    $("#dis-table tr").slice(startIndex, trsLength).show();
+    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
   });
-
   btnLessDis.click(function (e) {
     e.preventDefault();
-    $("#dis-table tr").slice(currentIndexDis - addIndex, currentIndexDis).hide();
-    currentIndexDis -= addIndex;
-    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis);
+    $("#dis-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
+  });
+  btnLessDis.click(function (e) {
+    e.preventDefault();
+    $("#dis-table tr").slice(startIndex, trsLength).hide();
+    checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
   });
 
-  function checkButton(trsLength, currentLength, btnM, btnL) {
-
-    if (currentLength >= trsLength) {
+  function checkButton(trsLength, currentLength, btnM, btnL,btnL1,tblG) {
+    if (trsLength > startIndex){
+      if (currentLength == trsLength ) {
       btnM.hide();
-    } else {
-      btnM.show();
-    }
-
-    if (trsLength > startIndex && currentLength > startIndex) {
       btnL.show();
-    } else {
+      btnL1.show();
+      tblG.style.display = 'none';
+      } else {
+      btnM.show();
       btnL.hide();
+      btnL1.hide();
+      tblG.style.display = 'block';
+      }
+    } else {
+      btnM.hide();
+      btnL.hide();
+      btnL1.hide();
+      tblG.style.display = 'none';
     }
-
   }
 
   const copyBtn = document.querySelector('.copy-btn');

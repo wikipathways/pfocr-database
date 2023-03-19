@@ -1,7 +1,7 @@
 ---
 figid: PMC6316710__pharmaceuticals-11-00114-g001
 figlink: /pmc/articles/PMC6316710/figure/pharmaceuticals-11-00114-f001/
-number: Figure 1
+number: F1
 caption: 'NCOA4-mediated ferritinophagy pathway is regulated by intracellular iron.
   (a) Schematic of NCOA4 transcript variants in humans: NCOA4α and NCOA4β. NCOA4α
   is a 614 Aa protein (70 kDa) with an N-terminal coiled coil domain and a C-terminal
@@ -178,4 +178,7 @@ chemicals:
   source: MESH
   identifier: D006418
 diseases: []
+figid_alias: PMC6316710__F1
+redirect_from: /figures/PMC6316710__F1
+figtype: Figure
 ---

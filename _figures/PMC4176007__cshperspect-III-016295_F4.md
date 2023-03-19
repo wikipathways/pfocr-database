@@ -1,7 +1,7 @@
 ---
 figid: PMC4176007__cshperspect-III-016295_F4
 figlink: /pmc/articles/PMC4176007/figure/A016295F4/
-number: Figure 4
+number: F4
 caption: IL-6 receptor system and IL-6 blocker, a humanized anti-IL-6 receptor antibody
   tocilizumab. IL-6 binds to soluble and transmembrane IL-6R and the complex, then
   induces homodimerization of gp130, leading to activation of the signaling system.
@@ -17,8 +17,7 @@ filename: cshperspect-III-016295_F4.jpg
 figtitle: IL-6 receptor system and IL-6 blocker, a humanized anti-IL-6 receptor antibody
   tocilizumab
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -59,4 +58,7 @@ genes:
   entrez: '5781'
 chemicals: []
 diseases: []
+figid_alias: PMC4176007__F4
+redirect_from: /figures/PMC4176007__F4
+figtype: Figure
 ---

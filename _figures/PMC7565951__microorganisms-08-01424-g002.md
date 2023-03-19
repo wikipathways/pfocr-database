@@ -1,7 +1,7 @@
 ---
 figid: PMC7565951__microorganisms-08-01424-g002
 figlink: pmc/articles/PMC7565951/figure/microorganisms-08-01424-f002/
-number: Figure 2
+number: F2
 caption: Roles of TRIM proteins in pattern recognition receptors (PRRs)-mediated immune
   signaling pathway. Sensing influenza viral component, herein 5′-triphosphated viral
   RNA or short dsRNA, by host PRRs triggers signaling pathways that promote production
@@ -22,8 +22,7 @@ filename: microorganisms-08-01424-g002.jpg
 figtitle: Roles of TRIM proteins in pattern recognition receptors (PRRs)-mediated
   immune signaling pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -279,4 +278,7 @@ genes:
   entrez: '5971'
 chemicals: []
 diseases: []
+figid_alias: PMC7565951__F2
+redirect_from: /figures/PMC7565951__F2
+figtype: Figure
 ---

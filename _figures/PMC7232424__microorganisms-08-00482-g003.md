@@ -1,7 +1,7 @@
 ---
 figid: PMC7232424__microorganisms-08-00482-g003
 figlink: pmc/articles/PMC7232424/figure/microorganisms-08-00482-f003/
-number: Figure 3
+number: F3
 caption: C. jejuni LOS and TLR-4 Signaling. The activation of TLR-4 leads to the synthesis
   of inflammatory mediators via two different pathways; TRIF-TRAM pathway, which induces
   the secretion of tumor necrosis factor alpha and TIRAP-MyD88, which is responsible
@@ -18,8 +18,7 @@ figtitle: Novel Clinical Campylobacter jejuni Infection Models Based on Sensitiz
   of Mice to Lipooligosaccharide, a Major Bacterial Factor Triggering Innate Immune
   Responses in Human Campylobacteriosis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -110,4 +109,7 @@ chemicals:
   source: MESH
   identifier: C411671
 diseases: []
+figid_alias: PMC7232424__F3
+redirect_from: /figures/PMC7232424__F3
+figtype: Figure
 ---

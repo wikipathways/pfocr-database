@@ -1,7 +1,7 @@
 ---
 figid: PMC4246201__pharmaceuticals-07-01008-g010
 figlink: /pmc/articles/PMC4246201/figure/pharmaceuticals-07-01008-f010/
-number: Figure 10
+number: F10
 caption: Relationship between GPxs and the NF-κB pathway in the antiproliferation
   action of butyrate. In response to proatherogenic stimuli, ROS, including hydroperoxides
   and lipid peroxides, are produced, which activate the redox-sensitive NF-κB signal
@@ -25,8 +25,7 @@ filename: pharmaceuticals-07-01008-g010.jpg
 figtitle: Relationship between GPxs and the NFKB pathway in the antiproliferation
   action of butyrate
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ chemicals:
   source: MESH
   identifier: D002087
 diseases: []
+figid_alias: PMC4246201__F10
+redirect_from: /figures/PMC4246201__F10
+figtype: Figure
 ---

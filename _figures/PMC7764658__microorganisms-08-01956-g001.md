@@ -1,7 +1,7 @@
 ---
 figid: PMC7764658__microorganisms-08-01956-g001
 figlink: pmc/articles/PMC7764658/figure/microorganisms-08-01956-f001/
-number: Figure 1
+number: F1
 caption: Model of the type III secretion system (T3SS) regulation and modes of action
   of T3SS inhibitors in Dickeya dadantii. The expression of T3SS master regulator
   HrpL is transcriptionally regulated by the HrpX/HrpY-HrpS-RpoN pathway and post-transcriptionally
@@ -29,8 +29,7 @@ filename: microorganisms-08-01956-g001.jpg
 figtitle: The type III secretion system (T3SS) regulation and modes of action of T3SS
   inhibitors in Dickeya dadantii
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -90,4 +89,7 @@ chemicals:
   source: MESH
   identifier: C000589078
 diseases: []
+figid_alias: PMC7764658__F1
+redirect_from: /figures/PMC7764658__F1
+figtype: Figure
 ---

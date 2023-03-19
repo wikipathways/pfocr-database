@@ -1,7 +1,7 @@
 ---
 figid: PMC4762491__lpi-suppl.1-2015-045f2
 figlink: /pmc/articles/PMC4762491/figure/f2-lpi-suppl.1-2015-045/
-number: Figure 2
+number: F2
 caption: Man-P-Dol acts as mannosyl donor for the synthesis of M9-DLO, GPI anchors,
   and C- and O-mannosylated proteins. Man-P-Dol is synthesized on the cytosolic monolayer
   of the ER membrane from GDP-Man and Dol-P and flips (Flippase 2) to the lumenal
@@ -134,4 +134,7 @@ diseases:
 - word: Congenital disorder of glycosylation
   source: ''
   identifier: ''
+figid_alias: PMC4762491__F2
+redirect_from: /figures/PMC4762491__F2
+figtype: Figure
 ---

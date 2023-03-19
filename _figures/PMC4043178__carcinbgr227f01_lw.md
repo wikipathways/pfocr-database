@@ -1,7 +1,7 @@
 ---
 figid: PMC4043178__carcinbgr227f01_lw
 figlink: /pmc/articles/PMC4043178/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Mechanism of apoptosis induction in oncogenically transformed cells through
   signalling by surrounding cells (intercellular induction of apoptosis; reviewed
   in ref. ). Panel A: Three steps in the mechanism of intercellular induction of apoptosis
@@ -31,8 +31,7 @@ figtitle: Mechanism of apoptosis induction in oncogenically transformed cells th
   signalling by surrounding cells (intercellular induction of apoptosis; reviewed
   in ref
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -91,4 +90,7 @@ genes:
   entrez: '7040'
 chemicals: []
 diseases: []
+figid_alias: PMC4043178__F1
+redirect_from: /figures/PMC4043178__F1
+figtype: Figure
 ---

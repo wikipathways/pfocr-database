@@ -1,7 +1,7 @@
 ---
 figid: PMC4066639__cshperspectmed-HFP-019760_F5
 figlink: /pmc/articles/PMC4066639/figure/A019760F5/
-number: Figure 5
+number: F5
 caption: The stress-signaling pathways in C. neoformans and C. gattii. The HOG pathway
   consists of a phosphorelay system (Tco, hybrid sensor histidine kinase [HHKs]; Ypd1,
   a His-containing phosphotransfer protein [HPt]; Ssk1, a response regulator [RR])
@@ -254,4 +254,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4066639__F5
+redirect_from: /figures/PMC4066639__F5
+figtype: Figure
 ---

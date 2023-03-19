@@ -1,7 +1,7 @@
 ---
 figid: PMC7996224__microorganisms-09-00472-g007
 figlink: pmc/articles/PMC7996224/figure/microorganisms-09-00472-f007/
-number: Figure 7
+number: F7
 caption: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
   prototrophic suppressor mutants. The L-alanine auxotrophic strain HYE032 senses
   the stress of L-alanine starvation, which leads to activation of a DNA-related metabolic
@@ -19,8 +19,7 @@ filename: microorganisms-09-00472-g007.jpg
 figtitle: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
   prototrophic suppressor mutants
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -71,4 +70,7 @@ chemicals:
   source: MESH
   identifier: C435323
 diseases: []
+figid_alias: PMC7996224__F7
+redirect_from: /figures/PMC7996224__F7
+figtype: Figure
 ---

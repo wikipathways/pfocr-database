@@ -1,7 +1,7 @@
 ---
 figid: PMC7527139__mSystems.00755-20-f0001
 figlink: pmc/articles/PMC7527139/figure/fig1/
-number: FIG 1
+number: F1
 caption: 'Summary of metabolic networks in iFermCell215. Metabolites with an asterisk
   are required for biomass production. Open hexagons indicate consumption of ATP (orange),
   NADH (green), NADPH (gray), and reduced ferredoxin (red). Closed hexagons indicate
@@ -34,8 +34,7 @@ pathway_score: 0.7757471
 filename: mSystems.00755-20-f0001.jpg
 figtitle: Summary of metabolic networks in iFermCell215
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -652,4 +651,7 @@ chemicals:
   source: MESH
   identifier: D002245
 diseases: []
+figid_alias: PMC7527139__F1
+redirect_from: /figures/PMC7527139__F1
+figtype: Figure
 ---

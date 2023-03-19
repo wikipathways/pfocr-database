@@ -1,7 +1,7 @@
 ---
 figid: PMC5793760__cshperspect-TGF-022210_F4
 figlink: pmc/articles/PMC5793760/figure/A022210F4/
-number: Figure 4
+number: F4
 caption: TGF-β signaling pathways. TGF-βs signal by binding to a specific, heteromeric
   complex that includes types I and II kinase receptors (TβRI/ALK-5 and TβRII, respectively).
   In most cells, TGF-β binds to a complex of TβRII and TβRI/ALK-5 complex, but in
@@ -25,8 +25,7 @@ pathway_score: 0.9328298
 filename: cshperspect-TGF-022210_F4.jpg
 figtitle: TGFB signaling pathways
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -330,4 +329,7 @@ genes:
   entrez: '6498'
 chemicals: []
 diseases: []
+figid_alias: PMC5793760__F4
+redirect_from: /figures/PMC5793760__F4
+figtype: Figure
 ---

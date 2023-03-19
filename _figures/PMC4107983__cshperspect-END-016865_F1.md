@@ -1,7 +1,7 @@
 ---
 figid: PMC4107983__cshperspect-END-016865_F1
 figlink: /pmc/articles/PMC4107983/figure/A016865F1/
-number: Figure 1
+number: F1
 caption: 'Transcriptional programs controlling endocytosis. Lysosomal stress (A) and/or
   starvation (B) cause nuclear translocation of the TFEB transcription factor, which
   binds to the E-box sequence on promoters and induces transcription of a cluster
@@ -27,8 +27,7 @@ pathway_score: 0.9513091
 filename: cshperspect-END-016865_F1.jpg
 figtitle: Transcriptional programs controlling endocytosis
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ genes:
   entrez: '5868'
 chemicals: []
 diseases: []
+figid_alias: PMC4107983__F1
+redirect_from: /figures/PMC4107983__F1
+figtype: Figure
 ---

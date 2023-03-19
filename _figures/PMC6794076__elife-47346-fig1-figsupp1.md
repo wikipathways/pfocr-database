@@ -1,7 +1,7 @@
 ---
 figid: PMC6794076__elife-47346-fig1-figsupp1
 figlink: /pmc/articles/PMC6794076/figure/fig1s1/
-number: Figure 1—figure supplement 1
+number: SF1_1
 caption: In Drosophila the secreted protein Fog activates the two G protein coupled
   receptors (GPCRs) Mist (Mesoderm-invagination signal transducer, also known as Mthl1
   (Methuselah-like1)) () and Smog (; ). The active receptors act through a heterotrimeric
@@ -22,8 +22,7 @@ pathway_score: 0.911347
 filename: elife-47346-fig1-figsupp1.jpg
 figtitle: Fog and T48 pathway in Drosophila
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: C440608
 diseases: []
+figid_alias: PMC6794076__SF1_1
+redirect_from: /figures/PMC6794076__SF1_1
+figtype: Supplemental figure
 ---

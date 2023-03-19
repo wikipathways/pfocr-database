@@ -1,7 +1,7 @@
 ---
 figid: PMC7558951__pharmaceuticals-13-00211-sch022
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch022/
-number: Scheme 22
+number: S22
 caption: Synthetic pathway to obtain the key selenosugar intermediate 131a.
 pmcid: PMC7558951
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
@@ -12,8 +12,7 @@ pathway_score: 0.6750178
 filename: pharmaceuticals-13-00211-sch022.jpg
 figtitle: Synthetic pathway to obtain the key selenosugar intermediate 131a
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -99,4 +98,7 @@ chemicals:
   source: MESH
   identifier: C115019
 diseases: []
+figid_alias: PMC7558951__S22
+redirect_from: /figures/PMC7558951__S22
+figtype: Scheme
 ---

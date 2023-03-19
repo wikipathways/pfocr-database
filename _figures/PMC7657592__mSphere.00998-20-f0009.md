@@ -1,7 +1,7 @@
 ---
 figid: PMC7657592__mSphere.00998-20-f0009
 figlink: pmc/articles/PMC7657592/figure/fig9/
-number: FIG 9
+number: F9
 caption: Genetic model depicting the role of RgdA in A. fumigatus. RgdA negatively
   regulates the cAMP-PKA signaling and SakA MAP kinase pathway. The lack of RgdA leads
   to the enhanced activation of the cAMP-PKA signaling pathway and SakA MAP kinase
@@ -16,8 +16,7 @@ pathway_score: 0.9184786
 filename: mSphere.00998-20-f0009.jpg
 figtitle: Genetic model depicting the role of RgdA in A
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -57,4 +56,7 @@ genes:
   entrez: '2735'
 chemicals: []
 diseases: []
+figid_alias: PMC7657592__F9
+redirect_from: /figures/PMC7657592__F9
+figtype: Figure
 ---

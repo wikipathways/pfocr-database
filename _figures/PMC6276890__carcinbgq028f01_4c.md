@@ -1,7 +1,7 @@
 ---
 figid: PMC6276890__carcinbgq028f01_4c
 figlink: /pmc/articles/PMC6276890/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Canonical and non-canonical signaling pathways of the AhR. ( A ) Schematic
   representation of canonical AhR signaling pathway. The cytosolic AhR is complexed
   by two molecules of Hsp90, XAP2 and the co-chaperone p23. Binding of a ligand, e.g.
@@ -220,4 +220,7 @@ genes:
   entrez: '4790'
 chemicals: []
 diseases: []
+figid_alias: PMC6276890__F1
+redirect_from: /figures/PMC6276890__F1
+figtype: Figure
 ---

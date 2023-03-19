@@ -1,7 +1,7 @@
 ---
 figid: PMC3348497__geronagls102f01_3c
 figlink: /pmc/articles/PMC3348497/figure/fig1/
-number: Figure 1
+number: F1
 caption: Insulin-like growth factor (IGF)-1 signal transduction. IGF-1 binds to IGF-1R
   and IGF-1/Insulin hybrid receptor, whereas insulin binds only to the insulin receptor
   (Insulin-R), and triggers several signaling pathways. IGF binding proteins modulate
@@ -228,4 +228,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3348497__F1
+redirect_from: /figures/PMC3348497__F1
+figtype: Figure
 ---

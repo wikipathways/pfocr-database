@@ -1,7 +1,7 @@
 ---
 figid: PMC8003559__microorganisms-09-00638-g003
 figlink: pmc/articles/PMC8003559/figure/microorganisms-09-00638-f003/
-number: Figure 3
+number: F3
 caption: Activation of innate immune signaling pathway by lipopolysaccharide (LPS)
   and tumor necrosis factor (TNF). LPS is bound by toll-like receptor 4 (TLR4), and
   then adaptor protein MyD88 interacts with IRAK protein kinases. Recruitment of IRAK
@@ -24,8 +24,7 @@ filename: microorganisms-09-00638-g003.jpg
 figtitle: Activation of innate immune signaling pathway by lipopolysaccharide (LPS)
   and tumor necrosis factor (TNF)
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -234,4 +233,7 @@ diseases:
 - word: LPS
   source: MESH
   identifier: C536528
+figid_alias: PMC8003559__F3
+redirect_from: /figures/PMC8003559__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4979440__cddiscovery201545-f8
 figlink: /pmc/articles/PMC4979440/figure/fig8/
-number: Figure 8
+number: F8
 caption: Role of EtOH-mediated cytotoxicity and neuroinflammation in context to HAND
   via cPLA2signaling in human astrocytes. EtOH and HIV-1 alone or in combination induce
   cPLA2 phosphorylation through MAPK pathway. Phosphorylated cPLA2 releases arachidonic
@@ -181,4 +181,7 @@ genes:
   entrez: '1571'
 chemicals: []
 diseases: []
+figid_alias: PMC4979440__F8
+redirect_from: /figures/PMC4979440__F8
+figtype: Figure
 ---

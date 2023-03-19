@@ -1,7 +1,7 @@
 ---
 figid: PMC3254682__jexboterr306f04_3c
 figlink: /pmc/articles/PMC3254682/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Simplified, schematic representation of cross-talk between general phosphoinositol
   pathway and biosynthetic pathways of ascorbic acid (vitamin C).
 pmcid: PMC3254682
@@ -15,8 +15,7 @@ filename: jexboterr306f04_3c.jpg
 figtitle: Simplified, schematic representation of cross-talk between general phosphoinositol
   pathway and biosynthetic pathways of ascorbic acid (vitamin C)
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,4 +74,7 @@ chemicals:
   source: MESH
   identifier: D007783
 diseases: []
+figid_alias: PMC3254682__F4
+redirect_from: /figures/PMC3254682__F4
+figtype: Figure
 ---

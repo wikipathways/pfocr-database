@@ -1,7 +1,7 @@
 ---
 figid: PMC5318160__elife-20214-fig5-figsupp1
 figlink: /pmc/articles/PMC5318160/figure/fig5s1/
-number: Figure 5—figure supplement 1
+number: SF5_1
 caption: 'Twelve of the top-25 ranked genes in the PLSR onesample and PLSR two-sample
   differential models (indicated by a red asterisk) are linked in a network that is
   driven by glucocorticoid signaling. Glucocorticoid (GC) acting via glucocorticoid
@@ -319,4 +319,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC5318160__SF5_1
+redirect_from: /figures/PMC5318160__SF5_1
+figtype: Supplemental figure
 ---

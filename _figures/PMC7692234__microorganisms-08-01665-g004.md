@@ -1,7 +1,7 @@
 ---
 figid: PMC7692234__microorganisms-08-01665-g004
 figlink: pmc/articles/PMC7692234/figure/microorganisms-08-01665-f004/
-number: Figure 4
+number: F4
 caption: Hypothetical host-cell signaling pathways linking Cryptosporidium parvum
   infection and tumorigenesis. Different studies have shown that C. parvum induces
   cytoskeleton remodeling and actin reorganization through the implication of several
@@ -22,8 +22,7 @@ filename: microorganisms-08-01665-g004.jpg
 figtitle: Hypothetical host-cell signaling pathways linking Cryptosporidium parvum
   infection and tumorigenesis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -103,4 +102,7 @@ genes:
   entrez: '1499'
 chemicals: []
 diseases: []
+figid_alias: PMC7692234__F4
+redirect_from: /figures/PMC7692234__F4
+figtype: Figure
 ---

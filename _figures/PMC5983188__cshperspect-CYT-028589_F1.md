@@ -1,7 +1,7 @@
 ---
 figid: PMC5983188__cshperspect-CYT-028589_F1
 figlink: pmc/articles/PMC5983188/figure/A028589F1/
-number: Figure 1
+number: F1
 caption: Cytokine/long noncoding RNA (lncRNA) interplay in controlling immune cell
   development and function. This figure shows lncRNAs that are controlling cytokine
   production and cytokines controlling lncRNA expression. (A) Interferon (IFN)/lncRNA
@@ -24,8 +24,7 @@ filename: cshperspect-CYT-028589_F1.jpg
 figtitle: Cytokine/long noncoding RNA (lncRNA) interplay in controlling immune cell
   development and function
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -431,4 +430,7 @@ diseases:
 - word: LPS
   source: MESH
   identifier: C536528
+figid_alias: PMC5983188__F1
+redirect_from: /figures/PMC5983188__F1
+figtype: Figure
 ---

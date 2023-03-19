@@ -1,7 +1,7 @@
 ---
 figid: PMC7023064__biomolecules-10-00123-sch002
 figlink: pmc/articles/PMC7023064/figure/biomolecules-10-00123-sch002/
-number: Scheme 2
+number: S2
 caption: Synthetic pathway for derivatives of etherification of 2-methoxyestradiol
   at 3-phenolic hydroxyl.
 pmcid: PMC7023064
@@ -14,8 +14,7 @@ filename: biomolecules-10-00123-sch002.jpg
 figtitle: Synthetic pathway for derivatives of etherification of 2-methoxyestradiol
   at 3-phenolic hydroxyl
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ chemicals:
   source: MESH
   identifier: C103208
 diseases: []
+figid_alias: PMC7023064__S2
+redirect_from: /figures/PMC7023064__S2
+figtype: Scheme
 ---

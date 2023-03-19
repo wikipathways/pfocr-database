@@ -1,7 +1,7 @@
 ---
 figid: PMC6912245__antioxidants-08-00564-g0A1
 figlink: /pmc/articles/PMC6912245/figure/antioxidants-08-00564-f0A1/
-number: Figure A1
+number: AF1
 caption: Reconstruction and manual curation of the genome–scale metabolic networks
   of S. japonica and C. okamuranus. In green, the reactions present initially in the
   GSMNs, in red those that were deleted, in brown those added, and in orange those
@@ -16,8 +16,7 @@ filename: antioxidants-08-00564-g0A1.jpg
 figtitle: Reconstruction and manual curation of the genome–scale metabolic networks
   of S
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -310,4 +309,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC6912245__AF1
+redirect_from: /figures/PMC6912245__AF1
+figtype: Appendix figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6680887__microorganisms-07-00191-g004
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f004/
-number: Figure 4
+number: F4
 caption: Diagrammatic summary of the dinoflagellate orthologues predicted in the nucleotide
   excision repair pathway. The ellipses filled with grey color mean the absence of
   putative dinoflagellate orthologues in the searched transcriptomes. The other colors
@@ -207,4 +207,7 @@ diseases:
 - word: XPD
   source: MESH
   identifier: C562591
+figid_alias: PMC6680887__F4
+redirect_from: /figures/PMC6680887__F4
+figtype: Figure
 ---

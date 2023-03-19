@@ -1,7 +1,7 @@
 ---
 figid: PMC3949354__cshperspect-END-017020_F3
 figlink: /pmc/articles/PMC3949354/figure/A017020F3/
-number: Figure 3
+number: F3
 caption: Endocytosis and activation of the Notch (N) pathway. The precleaved transmembrane
   receptor Notch binds to its transmembrane ligand Delta (Dl, blue) on the adjacent
   cell (1). Conformation of the membrane proximal region of the Notch extracellular
@@ -24,8 +24,7 @@ pathway_score: 0.9315326
 filename: cshperspect-END-017020_F3.jpg
 figtitle: Endocytosis and activation of the Notch (N) pathway
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -87,4 +86,7 @@ genes:
   entrez: '57534'
 chemicals: []
 diseases: []
+figid_alias: PMC3949354__F3
+redirect_from: /figures/PMC3949354__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3632064__cshperspect-RTK-009167_F3
 figlink: /pmc/articles/PMC3632064/figure/A009167F3/
-number: Figure 3
+number: F3
 caption: Motor axons release Agrin and ACh. Agrin binds to Lrp4, which stimulates
   association between Lrp4 and MuSK and MuSK phosphorylation. Once phosphorylated
   in the juxtamembrane region, MuSK recruits Dok-7, which forms a dimer and stabilizes
@@ -16,8 +16,7 @@ pathway_score: 0.6901382
 filename: cshperspect-RTK-009167_F3.jpg
 figtitle: Motor axons release Agrin and ACh
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ genes:
   entrez: '10699'
 chemicals: []
 diseases: []
+figid_alias: PMC3632064__F3
+redirect_from: /figures/PMC3632064__F3
+figtype: Figure
 ---

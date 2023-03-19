@@ -1,7 +1,7 @@
 ---
 figid: PMC3367552__cshperspect-SIG-009654_F6
 figlink: /pmc/articles/PMC3367552/figure/A009654F6/
-number: Figure 6
+number: F6
 caption: Interaction map showing potential links between the Par proteins and components
   of the Hippo pathway. A signaling cascade involving Salvador, Hippo, and Warts controls
   phosphorylation and nuclear localization of the transcription factors Yorkie (YKI)
@@ -121,4 +121,7 @@ genes:
   entrez: '6093'
 chemicals: []
 diseases: []
+figid_alias: PMC3367552__F6
+redirect_from: /figures/PMC3367552__F6
+figtype: Figure
 ---

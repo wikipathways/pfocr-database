@@ -1,7 +1,7 @@
 ---
 figid: PMC7074686__microorganisms-08-00180-g001
 figlink: pmc/articles/PMC7074686/figure/microorganisms-08-00180-f001/
-number: Figure 1
+number: F1
 caption: 'The interplay of different signalling pathways that enable C. neoformans
   to turn environmental stresses into phenotypic and physiologic advantages that help
   in the production of virulence factors during pathogenesis in the host. A number
@@ -41,8 +41,7 @@ pathway_score: 0.8935673
 filename: microorganisms-08-00180-g001.jpg
 figtitle: Interplay of different signalling pathways that enable C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -142,4 +141,7 @@ diseases:
 - word: Hyposia
   source: ''
   identifier: ''
+figid_alias: PMC7074686__F1
+redirect_from: /figures/PMC7074686__F1
+figtype: Figure
 ---

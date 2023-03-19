@@ -1,7 +1,7 @@
 ---
 figid: PMC3996470__cshperspect-END-016931_F3
 figlink: /pmc/articles/PMC3996470/figure/A016931F3/
-number: Figure 3
+number: F3
 caption: Processing of APP to form Aβ peptide. APP is secreted by a constitutive secretory
   pathway from the Golgi. While on the plasma membrane, APP can be cleaved by α-secretases
   in the middle of the Aβ peptide region, thus preventing formation of Aβ peptide.
@@ -21,8 +21,7 @@ pathway_score: 0.7181439
 filename: cshperspect-END-016931_F3.jpg
 figtitle: Processing of APP to form AB peptide
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '7038'
 chemicals: []
 diseases: []
+figid_alias: PMC3996470__F3
+redirect_from: /figures/PMC3996470__F3
+figtype: Figure
 ---

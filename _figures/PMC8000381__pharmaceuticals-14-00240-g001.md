@@ -1,7 +1,7 @@
 ---
 figid: PMC8000381__pharmaceuticals-14-00240-g001
 figlink: pmc/articles/PMC8000381/figure/pharmaceuticals-14-00240-f001/
-number: Figure 1
+number: F1
 caption: 'Alternate use of B2R and B1R in cardioprotection in non-diabetic and diabetic
   mice, respectively, during cardiac ischemia-reperfusion. B1R ago: pharmacological
   B1R agonist; B2R ago: pharmacological B2R agonist. G: G proteins; pAkT: phosphoinositide
@@ -20,8 +20,7 @@ filename: pharmaceuticals-14-00240-g001.jpg
 figtitle: Alternate use of B2R and B1R in cardioprotection in non-diabetic and diabetic
   mice, respectively, during cardiac ischemia-reperfusion
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ diseases:
 - word: Diabetic
   source: MESH
   identifier: D003920
+figid_alias: PMC8000381__F1
+redirect_from: /figures/PMC8000381__F1
+figtype: Figure
 ---

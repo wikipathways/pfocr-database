@@ -1,7 +1,7 @@
 ---
 figid: PMC7511216__mSystems.00745-20-f0001
 figlink: pmc/articles/PMC7511216/figure/fig1/
-number: FIG 1
+number: F1
 caption: 'Alternative assimilation pathways of d-arabitol with an example of the measured
   and expected labeling of Rib5P. Arabitol entry point into the metabolism is expected
   to be Ribu5P or Xyl5P, depending on the substrate specificity of the PTS system
@@ -23,8 +23,7 @@ filename: mSystems.00745-20-f0001.jpg
 figtitle: Alternative assimilation pathways of d-arabitol with an example of the measured
   and expected labeling of Rib5P
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -107,4 +106,7 @@ chemicals:
   source: MESH
   identifier: D009243
 diseases: []
+figid_alias: PMC7511216__F1
+redirect_from: /figures/PMC7511216__F1
+figtype: Figure
 ---

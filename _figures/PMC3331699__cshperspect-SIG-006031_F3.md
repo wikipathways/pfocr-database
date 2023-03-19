@@ -1,7 +1,7 @@
 ---
 figid: PMC3331699__cshperspect-SIG-006031_F3
 figlink: /pmc/articles/PMC3331699/figure/A006031F3/
-number: Figure 3
+number: F3
 caption: Regulation of muscle glucose uptake and glycogen synthesis by insulin and
   contraction. In resting muscle in the fed state, insulin binding to its receptor
   activates the PI-3-kinase → Akt pathway. Akt phosphorylates the Rab-GAP protein
@@ -606,4 +606,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC3331699__F3
+redirect_from: /figures/PMC3331699__F3
+figtype: Figure
 ---

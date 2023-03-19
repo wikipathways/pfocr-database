@@ -1,7 +1,7 @@
 ---
 figid: PMC3204345__carcinbgr172f01_4c
 figlink: /pmc/articles/PMC3204345/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Multiple Smad phosphoisoforms exist. (A) The canonical TGF-β and Ras-activated
   MAPK pathways. Following phosphorylation (p) of their C-termini by TβRI, Smad2 and
   Smad3 partner with the common mediator Smad4 and translocate to the nucleus. TGF-β
@@ -256,4 +256,7 @@ genes:
   entrez: '5595'
 chemicals: []
 diseases: []
+figid_alias: PMC3204345__F1
+redirect_from: /figures/PMC3204345__F1
+figtype: Figure
 ---

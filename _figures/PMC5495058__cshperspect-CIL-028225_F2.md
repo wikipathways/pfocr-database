@@ -1,7 +1,7 @@
 ---
 figid: PMC5495058__cshperspect-CIL-028225_F2
 figlink: /pmc/articles/PMC5495058/figure/A028225F2/
-number: Figure 2
+number: F2
 caption: Signaling pathway in sea urchin sperm. (A) The guanylate cyclase (GC) serves
   as the receptor for the chemoattractant resact. Resact binding activates the GC,
   resulting in cGMP synthesis. cGMP activates the K+-selective cyclic nucleotide-gated
@@ -217,4 +217,7 @@ genes:
   entrez: '150921'
 chemicals: []
 diseases: []
+figid_alias: PMC5495058__F2
+redirect_from: /figures/PMC5495058__F2
+figtype: Figure
 ---

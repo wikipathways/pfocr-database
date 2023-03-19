@@ -1,7 +1,7 @@
 ---
 figid: PMC3282496__cshperspectmed-DIA-007807_F2
 figlink: /pmc/articles/PMC3282496/figure/A007807F2/
-number: Figure 2
+number: F2
 caption: Role of the IL-2 pathway and the Teff/Treg balance in the tissue. This figure
   depicts how the balance of Teff and Tregs and their complex interactions, notably
   the IL-2 pathway, results in destruction or protection of pancreatic islets (see
@@ -26,8 +26,7 @@ pathway_score: 0.9657006
 filename: cshperspectmed-DIA-007807_F2.jpg
 figtitle: Role of the IL-2 pathway and the Teff/Treg balance in the tissue
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ genes:
   entrez: '6776'
 chemicals: []
 diseases: []
+figid_alias: PMC3282496__F2
+redirect_from: /figures/PMC3282496__F2
+figtype: Figure
 ---

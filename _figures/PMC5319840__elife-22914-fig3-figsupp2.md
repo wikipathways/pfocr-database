@@ -1,7 +1,7 @@
 ---
 figid: PMC5319840__elife-22914-fig3-figsupp2
 figlink: /pmc/articles/PMC5319840/figure/fig3s2/
-number: Figure 3—figure supplement 2
+number: SF3_2
 caption: 'Using ToppCluster, the genes upregulated in CD34+ SCC cells were compared
   to previously published datasets and a network of genes shared between Tgfbr2 deficient
   transitional epithelial CD34+ SCC cells and aggressive human cancers was generated.
@@ -387,4 +387,7 @@ genes:
   entrez: '6347'
 chemicals: []
 diseases: []
+figid_alias: PMC5319840__SF3_2
+redirect_from: /figures/PMC5319840__SF3_2
+figtype: Supplemental figure
 ---

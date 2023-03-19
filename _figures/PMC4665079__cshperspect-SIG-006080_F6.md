@@ -1,7 +1,7 @@
 ---
 figid: PMC4665079__cshperspect-SIG-006080_F6
 figlink: /pmc/articles/PMC4665079/figure/A006080F6/
-number: Figure 6
+number: F6
 caption: The autophagic signaling pathway. Under metabolic stress, AMPK activation
   and/or mTORC1 inhibition lead to the activation of the preinitiation complex (ULK1,
   FIP200, and ATG13). The latter activates the initiation complex (beclin 1, VPS15,
@@ -223,4 +223,7 @@ genes:
   entrez: '8655'
 chemicals: []
 diseases: []
+figid_alias: PMC4665079__F6
+redirect_from: /figures/PMC4665079__F6
+figtype: Figure
 ---

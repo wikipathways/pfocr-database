@@ -1,7 +1,7 @@
 ---
 figid: PMC4526751__cshperspect-RCM-016501_F1
 figlink: /pmc/articles/PMC4526751/figure/A016501F1/
-number: Figure 1
+number: F1
 caption: Homologous recombination (HR) and pathway choices. The pathways of double-strand
   break (DSB) repair include nonhomologous endjoing (NHEJ), alternative endjoining
   (aEJ, also called microhomology-mediated endjoining), which are differentiated whether
@@ -30,8 +30,7 @@ pathway_score: 0.9014725
 filename: cshperspect-RCM-016501_F1.jpg
 figtitle: Homologous recombination (HR) and pathway choices
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ genes:
   entrez: '80210'
 chemicals: []
 diseases: []
+figid_alias: PMC4526751__F1
+redirect_from: /figures/PMC4526751__F1
+figtype: Figure
 ---

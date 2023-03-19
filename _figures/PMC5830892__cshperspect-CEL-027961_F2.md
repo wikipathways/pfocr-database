@@ -1,7 +1,7 @@
 ---
 figid: PMC5830892__cshperspect-CEL-027961_F2
 figlink: pmc/articles/PMC5830892/figure/A027961F2/
-number: Figure 2
+number: F2
 caption: FERM-binding partners of Crumbs3. Through its FERM-binding domain (rectangle),
   Crumbs3 can connect to FERM domain-containing proteins. Crumbs3 can connect the
   apical membrane to the actin cytoskeleton and regulate the cell cortex via ezrin–radixin–moesin
@@ -16,8 +16,7 @@ pathway_score: 0.6931113
 filename: cshperspect-CEL-027961_F2.jpg
 figtitle: FERM-binding partners of Crumbs3
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ genes:
   entrez: '55249'
 chemicals: []
 diseases: []
+figid_alias: PMC5830892__F2
+redirect_from: /figures/PMC5830892__F2
+figtype: Figure
 ---

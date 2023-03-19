@@ -1,7 +1,7 @@
 ---
 figid: PMC4591954__theoncologist_1557_f1
 figlink: /pmc/articles/PMC4591954/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Therapeutic targeting of the canonical WNT pathway. The WNT signaling pathway
   plays an essential role in regulating self-renewal of the cancer stem cell population
   and tumorigenesis by enhancing cellular proliferation and survival. When WNT ligands
@@ -442,4 +442,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4591954__F1
+redirect_from: /figures/PMC4591954__F1
+figtype: Figure
 ---

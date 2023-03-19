@@ -1,7 +1,7 @@
 ---
 figid: PMC5039587__microorganisms-04-00027-g001
 figlink: /pmc/articles/PMC5039587/figure/microorganisms-04-00027-f001/
-number: Figure 1
+number: F1
 caption: Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal epithelial
   (PIE) cells. Upon recognition of its cognate ligand, TLR4 dimerizes and initiates
   a signaling cascade that leads to the activation of a pro-inflammatory response.
@@ -346,4 +346,7 @@ genes:
   entrez: '929'
 chemicals: []
 diseases: []
+figid_alias: PMC5039587__F1
+redirect_from: /figures/PMC5039587__F1
+figtype: Figure
 ---

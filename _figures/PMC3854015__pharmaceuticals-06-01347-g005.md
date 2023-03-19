@@ -1,7 +1,7 @@
 ---
 figid: PMC3854015__pharmaceuticals-06-01347-g005
 figlink: /pmc/articles/PMC3854015/figure/pharmaceuticals-06-01347-f005/
-number: Figure 5
+number: F5
 caption: Effect of the SNP variant (Q141K) on the protein expression level and degradation
   of ABCG2. (A) The ABCG2 wild type (WT) protein has glutamine residue at amino acid
   position 141. To assess the effect of Q141K variant on the protein expression level,
@@ -27,8 +27,7 @@ filename: pharmaceuticals-06-01347-g005.jpg
 figtitle: Effect of the SNP variant (Q141K) on the protein expression level and degradation
   of ABCG2
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ genes:
   entrez: '9429'
 chemicals: []
 diseases: []
+figid_alias: PMC3854015__F5
+redirect_from: /figures/PMC3854015__F5
+figtype: Figure
 ---

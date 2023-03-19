@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g020
 figlink: /pmc/articles/PMC6664406/figure/C12/
-number: Scheme 12
+number: S12
 caption: Radical pathway.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.6889541
 filename: Beilstein_J_Org_Chem-15-1612-g020.jpg
 figtitle: Radical pathway
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -91,4 +90,7 @@ chemicals:
   source: MESH
   identifier: D003300
 diseases: []
+figid_alias: PMC6664406__S12
+redirect_from: /figures/PMC6664406__S12
+figtype: Scheme
 ---

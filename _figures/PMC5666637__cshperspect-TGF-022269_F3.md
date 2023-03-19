@@ -1,7 +1,7 @@
 ---
 figid: PMC5666637__cshperspect-TGF-022269_F3
 figlink: /pmc/articles/PMC5666637/figure/A022269F3/
-number: Figure 3
+number: F3
 caption: Summary of the bone morphogenetic protein (BMP) and growth and differentiation
   factor (GDF) signaling pathway and mutations causing connective tissue and skeletal
   disorders. The BMP signaling pathway is activated by extracellular ligands, such
@@ -482,4 +482,7 @@ genes:
   entrez: '9241'
 chemicals: []
 diseases: []
+figid_alias: PMC5666637__F3
+redirect_from: /figures/PMC5666637__F3
+figtype: Figure
 ---

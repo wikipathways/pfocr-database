@@ -1,7 +1,7 @@
 ---
 figid: PMC3173505__infdisjir508f06_3c
 figlink: /pmc/articles/PMC3173505/figure/fig6/
-number: Figure 6
+number: F6
 caption: Pathways involved in protein turnover. Protein turnover involves a delicate
   balance of synthetic and catabolic mechanisms. Insulin and insulin-like growth factor
   1 (IGF-1) signaling lead to protein synthesis through activation of the mTOR pathway,
@@ -23,8 +23,7 @@ pathway_score: 0.8337612
 filename: infdisjir508f06_3c.jpg
 figtitle: Pathways involved in protein turnover
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -108,4 +107,7 @@ genes:
   entrez: '84676'
 chemicals: []
 diseases: []
+figid_alias: PMC3173505__F6
+redirect_from: /figures/PMC3173505__F6
+figtype: Figure
 ---

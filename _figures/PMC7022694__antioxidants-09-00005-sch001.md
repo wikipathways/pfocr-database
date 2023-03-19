@@ -1,7 +1,7 @@
 ---
 figid: PMC7022694__antioxidants-09-00005-sch001
 figlink: pmc/articles/PMC7022694/figure/antioxidants-09-00005-sch001/
-number: Scheme 1
+number: S1
 caption: Synthesis pathway for functionalized nanoparticles 1A and 1B.
 pmcid: PMC7022694
 papertitle: Antioxidant Activity of Metal Nanoparticles Coated with Tocopherol-Like
@@ -12,8 +12,7 @@ pathway_score: 0.7296444
 filename: antioxidants-09-00005-sch001.jpg
 figtitle: Synthesis pathway for functionalized nanoparticles 1A and 1B
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -63,4 +62,7 @@ chemicals:
   source: MESH
   identifier: C522238
 diseases: []
+figid_alias: PMC7022694__S1
+redirect_from: /figures/PMC7022694__S1
+figtype: Scheme
 ---

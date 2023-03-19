@@ -1,7 +1,7 @@
 ---
 figid: PMC6955965__microorganisms-07-00634-g004
 figlink: /pmc/articles/PMC6955965/figure/microorganisms-07-00634-f004/
-number: Figure 4
+number: F4
 caption: Metabolic pathway analysis of VBNC E. coli O157:H7 cells. (+) represents
   upregulated proteins, and (−) represents downregulated proteins.
 pmcid: PMC6955965
@@ -13,8 +13,7 @@ pathway_score: 0.9366119
 filename: microorganisms-07-00634-g004.jpg
 figtitle: Metabolic pathway analysis of VBNC E
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -59,4 +58,7 @@ chemicals:
   source: MESH
   identifier: C034758
 diseases: []
+figid_alias: PMC6955965__F4
+redirect_from: /figures/PMC6955965__F4
+figtype: Figure
 ---

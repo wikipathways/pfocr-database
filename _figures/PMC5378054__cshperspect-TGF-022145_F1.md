@@ -1,7 +1,7 @@
 ---
 figid: PMC5378054__cshperspect-TGF-022145_F1
 figlink: /pmc/articles/PMC5378054/figure/A022145F1/
-number: Figure 1
+number: F1
 caption: 'The transforming growth factor β (TGF-β) signaling pathway and its context-dependent
   regulation. (Left) A schematic diagram of TGF-β signaling. (Right) TGF-β signaling
   is regulated at several levels by context-dependent factors: (1) Different combinations
@@ -285,4 +285,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5378054__F1
+redirect_from: /figures/PMC5378054__F1
+figtype: Figure
 ---

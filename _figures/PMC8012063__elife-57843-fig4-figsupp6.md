@@ -1,7 +1,7 @@
 ---
 figid: PMC8012063__elife-57843-fig4-figsupp6
 figlink: pmc/articles/PMC8012063/figure/fig4s6/
-number: Figure 4—figure supplement 6
+number: SF4_6
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
@@ -15,8 +15,7 @@ filename: elife-57843-fig4-figsupp6.jpg
 figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
   hsa05012 Parkinson’s disease at the cross-tissue level
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -177,4 +176,7 @@ diseases:
 - word: Depuninangic arun
   source: ''
   identifier: ''
+figid_alias: PMC8012063__SF4_6
+redirect_from: /figures/PMC8012063__SF4_6
+figtype: Supplemental figure
 ---

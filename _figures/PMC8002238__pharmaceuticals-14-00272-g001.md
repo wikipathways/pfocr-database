@@ -1,7 +1,7 @@
 ---
 figid: PMC8002238__pharmaceuticals-14-00272-g001
 figlink: pmc/articles/PMC8002238/figure/pharmaceuticals-14-00272-f001/
-number: Figure 1
+number: F1
 caption: Cyclophosphamide metabolic pathway (adapted from Jonge et al., 2005 []).
   Active metabolites are bold, metabolites measured in this study are blue. CYP; Cytochrome
   P450, ADH; Alcohol dehydrogenase, ALDH; aldehyde dehydrogenase, GST; Glutathione-S-transferase.
@@ -14,8 +14,7 @@ pathway_score: 0.871349
 filename: pharmaceuticals-14-00272-g001.jpg
 figtitle: Cyclophosphamide metabolic pathway (adapted from Jonge et al., 2005 )
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -319,4 +318,7 @@ chemicals:
   source: MESH
   identifier: D000171
 diseases: []
+figid_alias: PMC8002238__F1
+redirect_from: /figures/PMC8002238__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5385391__cddiscovery20178-f9
 figlink: /pmc/articles/PMC5385391/figure/fig9/
-number: Figure 9
+number: F9
 caption: HMGB1 release regulated by the PLCγ1–IP3R–SOC signalling pathway during calcium
   overload in hepatocytes. The proposed model showing the release of HMGB1 following
   H2O2 treatment. H2O2 activates the PLCγ1–IP3R–SOC signalling pathway, leading to
@@ -132,4 +132,7 @@ genes:
   entrez: '5330'
 chemicals: []
 diseases: []
+figid_alias: PMC5385391__F9
+redirect_from: /figures/PMC5385391__F9
+figtype: Figure
 ---

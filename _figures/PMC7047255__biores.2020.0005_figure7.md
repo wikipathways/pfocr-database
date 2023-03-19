@@ -1,7 +1,7 @@
 ---
 figid: PMC7047255__biores.2020.0005_figure7
 figlink: pmc/articles/PMC7047255/figure/f7/
-number: FIG. 7
+number: F7
 caption: Pathway interaction schematic constructed to demonstrate overlap of gene
   expression data with critical osteogenic pathways. Pathways for BMP, HH, and Wnt
   signaling are shown with upregulated genes (gray) and the similarly expressed Runx2
@@ -32,8 +32,7 @@ filename: biores.2020.0005_figure7.jpg
 figtitle: Pathway interaction schematic constructed to demonstrate overlap of gene
   expression data with critical osteogenic pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -699,4 +698,7 @@ genes:
   entrez: '2200'
 chemicals: []
 diseases: []
+figid_alias: PMC7047255__F7
+redirect_from: /figures/PMC7047255__F7
+figtype: Figure
 ---

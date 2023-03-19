@@ -1,7 +1,7 @@
 ---
 figid: PMC3331693__cshperspect-IMT-007328_F1
 figlink: /pmc/articles/PMC3331693/figure/A007328F1/
-number: Figure 1
+number: F1
 caption: Examples of pattern recognition in ancient symbioses. Cross talk between
   eukaryotic host cells and bacterial commensals is necessary to establish homeostasis.
   (A) Rhizobial Nod factors (NFs) are recognized by legume PRRs. (B) Vibrio polysaccharides
@@ -187,4 +187,7 @@ chemicals:
   source: MESH
   identifier: D005419
 diseases: []
+figid_alias: PMC3331693__F1
+redirect_from: /figures/PMC3331693__F1
+figtype: Figure
 ---

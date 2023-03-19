@@ -1,7 +1,7 @@
 ---
 figid: PMC6958404__pharmaceuticals-12-00170-g001
 figlink: /pmc/articles/PMC6958404/figure/pharmaceuticals-12-00170-f001/
-number: Figure 1
+number: F1
 caption: Major Signalling Pathways Involved in Hepcidin Regulation. Increased BMP6
   levels induce hepcidin mRNA expression via the bone morphogenic protein (BMP)/sma
   and mothers against decapentaplegic homologue (SMAD) pathway. Under inflammatory
@@ -25,8 +25,7 @@ pathway_score: 0.9278397
 filename: pharmaceuticals-12-00170-g001.jpg
 figtitle: Major Signalling Pathways Involved in Hepcidin Regulation
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -429,4 +428,7 @@ diseases:
 - word: Hypoxia
   source: MESH
   identifier: D000860
+figid_alias: PMC6958404__F1
+redirect_from: /figures/PMC6958404__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6680887__microorganisms-07-00191-g002
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f002/
-number: Figure 2
+number: F2
 caption: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
   of DNA damage pathway. (A) Repair of O6-methylguanine by the MGMT protein. (B) Repair
   of N1-methyladenine and N3-methylcytosine by ALKB protein. Only N1-methyladenine
@@ -15,8 +15,7 @@ filename: microorganisms-07-00191-g002.jpg
 figtitle: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
   of DNA damage pathway
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -65,4 +64,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC6680887__F2
+redirect_from: /figures/PMC6680887__F2
+figtype: Figure
 ---

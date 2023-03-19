@@ -1,7 +1,7 @@
 ---
 figid: PMC3346226__jexboterr449f01_ht
 figlink: /pmc/articles/PMC3346226/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Simplified flavonoid biosynthetic pathway showing steps specific to the biosynthesis
   of flavonols (VvFLS), proanthocyanidins (VvLAR and VvANR), and anthocyanins (VvGST);
   genes included in expression analysis are in bold type.
@@ -202,4 +202,7 @@ chemicals:
   source: MESH
   identifier: D044949
 diseases: []
+figid_alias: PMC3346226__F1
+redirect_from: /figures/PMC3346226__F1
+figtype: Figure
 ---

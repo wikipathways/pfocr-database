@@ -1,7 +1,7 @@
 ---
 figid: PMC509304__pbio.0020242.g007
 figlink: /pmc/articles/PMC509304/figure/pbio-0020242-g007/
-number: Figure 7
+number: F7
 caption: At the genetic level, treatment of mouse skin with DMBA induces mutations
   in Hras resulting in initiated cells that express constitutively active Ras protein
   (grey rectangles). TPA treatment is required for clonal expansion of these Hras
@@ -25,8 +25,7 @@ filename: pbio.0020242.g007.jpg
 figtitle: p19 Arf Suppresses Growth, Progression, and Metastasis of Hras-Driven Carcinomas
   through p53-Dependent and -Independent Pathways
 year: '2004'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -81,4 +80,7 @@ genes:
   entrez: '3845'
 chemicals: []
 diseases: []
+figid_alias: PMC509304__F7
+redirect_from: /figures/PMC509304__F7
+figtype: Figure
 ---

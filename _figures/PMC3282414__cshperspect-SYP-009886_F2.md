@@ -1,7 +1,7 @@
 ---
 figid: PMC3282414__cshperspect-SYP-009886_F2
 figlink: /pmc/articles/PMC3282414/figure/A009886F2/
-number: Figure 2
+number: F2
 caption: '(A) Schematic of a neuron and axonal-dendritic synapse that depict examples
   of cellular localization of the various types of defects in ASD/ID. (B) A signaling
   pathway at the excitatory synapses that couples activity as registered by the release
@@ -226,4 +226,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3282414__F2
+redirect_from: /figures/PMC3282414__F2
+figtype: Figure
 ---

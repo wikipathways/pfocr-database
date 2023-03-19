@@ -1,7 +1,7 @@
 ---
 figid: PMC6680887__microorganisms-07-00191-g003
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f003/
-number: Figure 3
+number: F3
 caption: Diagrammatic summary of dinoflagellate orthologues predicted in the base
   excision repair pathway. The ellipses filled with grey color mean the absence of
   putative dinoflagellate orthologues in the searched transcriptomes. The other colors
@@ -14,8 +14,7 @@ pathway_score: 0.8992398
 filename: microorganisms-07-00191-g003.jpg
 figtitle: Dinoflagellate orthologues predicted in the base excision repair pathway
 year: '2019'
-organisms:
-- Dinoflagellates
+organisms: Dinoflagellates
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -202,4 +201,7 @@ chemicals:
   source: MESH
   identifier: C108537
 diseases: []
+figid_alias: PMC6680887__F3
+redirect_from: /figures/PMC6680887__F3
+figtype: Figure
 ---

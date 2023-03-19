@@ -1,7 +1,7 @@
 ---
 figid: PMC4448615__cshperspect-CSZ-019158_F1
 figlink: /pmc/articles/PMC4448615/figure/A019158F1/
-number: Figure 1
+number: F1
 caption: Schematics of the TORC1/TORC2, PI3K, and TSC1/TSC2 signaling pathways and
   portions of plant and yeast cell walls (CWs). (A) In conjunction with LST8 and other
   proteins, the TORC1/TORC2 pathway stimulates protein translation and transcription,
@@ -24,8 +24,7 @@ pathway_score: 0.7830027
 filename: cshperspect-CSZ-019158_F1.jpg
 figtitle: Plant and yeast cell walls (CWs)
 year: '2015'
-organisms:
-- XXX
+organisms: XXX
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -210,4 +209,7 @@ chemicals:
   source: MESH
   identifier: C042097
 diseases: []
+figid_alias: PMC4448615__F1
+redirect_from: /figures/PMC4448615__F1
+figtype: Figure
 ---

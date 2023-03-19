@@ -1,7 +1,7 @@
 ---
 figid: PMC7407942__pharmaceuticals-13-00156-g001
 figlink: pmc/articles/PMC7407942/figure/pharmaceuticals-13-00156-f001/
-number: Figure 1
+number: F1
 caption: 'Schematic process of the autophagic pathway. Autophagy consists of the following
   stages: induction, phagophore nucleation, elongation, and completion; fusion to
   lysosome, degradation, and recycling. Receptor tyrosine kinases (EGF (epidermal
@@ -31,8 +31,7 @@ pathway_score: 0.9371405
 filename: pharmaceuticals-13-00156-g001.jpg
 figtitle: Schematic process of the autophagic pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -682,4 +681,7 @@ genes:
   entrez: '8408'
 chemicals: []
 diseases: []
+figid_alias: PMC7407942__F1
+redirect_from: /figures/PMC7407942__F1
+figtype: Figure
 ---

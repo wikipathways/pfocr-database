@@ -1,7 +1,7 @@
 ---
 figid: PMC4292165__cshperspect-III-016246_F1
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F1/
-number: Figure 1
+number: F1
 caption: Signaling pathway of cell surface TLRs. TLR4 recognizes LPS in complex with
   MD2 to start a signaling cascade by recruiting adaptors MyD88 and TIRAP and forming
   a complex of IRAK4, 1, and 2, and TRAF6. TRAF6 catalyzes formation of K-63 linked
@@ -425,4 +425,7 @@ genes:
   entrez: '29110'
 chemicals: []
 diseases: []
+figid_alias: PMC4292165__F1
+redirect_from: /figures/PMC4292165__F1
+figtype: Figure
 ---

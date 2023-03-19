@@ -1,7 +1,7 @@
 ---
 figid: PMC3865377__gahmj.2013.088.g001
 figlink: /pmc/articles/PMC3865377/figure/F1/
-number: Figure 1
+number: F1
 caption: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
   and glutathione synthesis. The methionine cycle (transmethylation) involves the
   regeneration of methionine from homocysteine via the B12-dependent transfer of a
@@ -33,8 +33,7 @@ filename: gahmj.2013.088.g001.jpg
 figtitle: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
   and glutathione synthesis
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: D019803
 diseases: []
+figid_alias: PMC3865377__F1
+redirect_from: /figures/PMC3865377__F1
+figtype: Figure
 ---

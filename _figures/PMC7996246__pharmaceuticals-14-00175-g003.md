@@ -1,7 +1,7 @@
 ---
 figid: PMC7996246__pharmaceuticals-14-00175-g003
 figlink: pmc/articles/PMC7996246/figure/pharmaceuticals-14-00175-f003/
-number: Figure 3
+number: F3
 caption: AT2R-mediated intracellular signaling pathways involved in neuronal cells.
   Several intracellular signaling pathways are associated with AT2R activation in
   neuronal cells leading to apoptosis via activation of the phosphatase MPK-1, neurite
@@ -23,8 +23,7 @@ pathway_score: 0.9594027
 filename: pharmaceuticals-14-00175-g003.jpg
 figtitle: AT2R-mediated intracellular signaling pathways involved in neuronal cells
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -138,4 +137,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC7996246__F3
+redirect_from: /figures/PMC7996246__F3
+figtype: Figure
 ---

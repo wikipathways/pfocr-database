@@ -1,7 +1,7 @@
 ---
 figid: PMC3475405__cshperspectmed-ALZ-011452_F3
 figlink: /pmc/articles/PMC3475405/figure/A011452F3/
-number: Figure 3
+number: F3
 caption: 'The role of blood–brain barrier (BBB) transport in homeostasis of brain
   Aβ. Influx pathway: RAGE, the receptor for advanced glycation end products, mediates
   influx and reentry of circulating Aβ across the BBB. RAGE-mediated Aβ influx is
@@ -130,4 +130,7 @@ genes:
   entrez: '445'
 chemicals: []
 diseases: []
+figid_alias: PMC3475405__F3
+redirect_from: /figures/PMC3475405__F3
+figtype: Figure
 ---

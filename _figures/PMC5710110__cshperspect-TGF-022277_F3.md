@@ -1,7 +1,7 @@
 ---
 figid: PMC5710110__cshperspect-TGF-022277_F3
 figlink: /pmc/articles/PMC5710110/figure/A022277F3/
-number: Figure 3
+number: F3
 caption: The transforming growth factor β (TGF-β)-induced transcriptional program
   and its alterations in cancer. The diagram depicts mutations or alterations that
   occur in genes that encode mediators of the TGF-β signaling pathway in distinct
@@ -160,4 +160,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5710110__F3
+redirect_from: /figures/PMC5710110__F3
+figtype: Figure
 ---

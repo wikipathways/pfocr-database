@@ -1,7 +1,7 @@
 ---
 figid: PMC3552512__cshperspect-TRA-012336_F3
 figlink: /pmc/articles/PMC3552512/figure/A012336F3/
-number: Figure 3
+number: F3
 caption: Oncogenic signals regulate each stage of translation. Oncogenic stimuli (red)
   such as PI3K-AKT-mTOR, Myc, and Ras promote protein synthesis by coordinating the
   regulation of ribosome biogenesis, translation initiation, and translation elongation.
@@ -217,4 +217,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3552512__F3
+redirect_from: /figures/PMC3552512__F3
+figtype: Figure
 ---

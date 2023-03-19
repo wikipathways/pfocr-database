@@ -1,7 +1,7 @@
 ---
 figid: PMC6872982__41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML
 figlink: /pmc/articles/PMC6872982/figure/Fig2/
-number: Figure 2
+number: F2
 caption: Metabolic enzymes and enzyme systems are shown in yellow, transporters in
   brown, storage granules in pink and structural features in grey. Features only encoded
   in the draft genomes of Ca. Thiodiazotropha endoloripes and not yet found in the
@@ -25,8 +25,7 @@ filename: 41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML.jpg
 figtitle: Chemosynthetic symbionts of marine invertebrate animals are capable of nitrogen
   fixation
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -80,4 +79,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC6872982__F2
+redirect_from: /figures/PMC6872982__F2
+figtype: Figure
 ---

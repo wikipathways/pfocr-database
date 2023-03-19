@@ -1,7 +1,7 @@
 ---
 figid: PMC6028070__cshperspect-CYT-028571_F1
 figlink: pmc/articles/PMC6028070/figure/A028571F1/
-number: Figure 1
+number: F1
 caption: 'The cytokine signaling and their major negative regulators. There are four
   types of cytokine receptors: (1) receptors that activate nuclear factor (NF)-κB
   and mitogen-activated protein (MAP) kinases; (2) receptors that activate the Janus
@@ -19,8 +19,7 @@ pathway_score: 0.9582163
 filename: cshperspect-CYT-028571_F1.jpg
 figtitle: Cytokine signaling and their major negative regulators
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -405,4 +404,7 @@ genes:
   entrez: '3551'
 chemicals: []
 diseases: []
+figid_alias: PMC6028070__F1
+redirect_from: /figures/PMC6028070__F1
+figtype: Figure
 ---

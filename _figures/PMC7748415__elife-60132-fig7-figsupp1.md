@@ -1,7 +1,7 @@
 ---
 figid: PMC7748415__elife-60132-fig7-figsupp1
 figlink: pmc/articles/PMC7748415/figure/fig7s1/
-number: Figure 7—figure supplement 1
+number: SF7_1
 caption: A schematic illustration visualizing how our finding of the calcium-Calpain-A-Importin
   α3 pathway extends the current feedback cycle of TDP-43 aggregation and NCT defects
   during ALS pathogenesis.
@@ -16,8 +16,7 @@ figtitle: Schematic illustration visualizing how our finding of the calcium-Calp
   A3 pathway extends the current feedback cycle of TDP-43 aggregation and NCT defects
   during ALS pathogenesis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -228,4 +227,7 @@ diseases:
 - word: TDP
   source: MESH
   identifier: D016171
+figid_alias: PMC7748415__SF7_1
+redirect_from: /figures/PMC7748415__SF7_1
+figtype: Supplemental figure
 ---

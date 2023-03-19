@@ -1,7 +1,7 @@
 ---
 figid: PMC3204345__carcinbgr172f05_4c
 figlink: /pmc/articles/PMC3204345/figure/fig5/
-number: Fig. 5
+number: F5
 caption: Cell type-specific temporal dynamics of R-Smad phosphoisoforms. Although
   linker phosphorylation is transient after mitogen treatment of normal epithelial
   cells (A), mitogen-inducible phosphorylation generally persists in various mesenchymal
@@ -21,8 +21,7 @@ pathway_score: 0.5232455
 filename: carcinbgr172f05_4c.jpg
 figtitle: Cell type-specific temporal dynamics of R-Smad phosphoisoforms
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ genes:
   entrez: '3845'
 chemicals: []
 diseases: []
+figid_alias: PMC3204345__F5
+redirect_from: /figures/PMC3204345__F5
+figtype: Figure
 ---

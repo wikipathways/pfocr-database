@@ -1,7 +1,7 @@
 ---
 figid: PMC3367549__cshperspect-MDV-008151_F2
 figlink: /pmc/articles/PMC3367549/figure/A008151F2/
-number: Figure 2
+number: F2
 caption: Canonical (left) and noncanonical (right) WNT signaling pathways. In the
   absence of WNT signaling, the effector of canonical WNT signaling, β-catenin is
   found complexed in the cytoplasm with a destruction complex containing Axin and
@@ -468,4 +468,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3367549__F2
+redirect_from: /figures/PMC3367549__F2
+figtype: Figure
 ---

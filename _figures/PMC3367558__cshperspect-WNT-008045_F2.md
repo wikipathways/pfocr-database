@@ -1,7 +1,7 @@
 ---
 figid: PMC3367558__cshperspect-WNT-008045_F2
 figlink: /pmc/articles/PMC3367558/figure/A008045F2/
-number: Figure 2
+number: F2
 caption: Wnt signaling at vertebrate neuromuscular junctions. (A) Mouse Wnt3 and zebrafish
   Wnt11r function during prepatterning. Wnt11r signaling through Unplugged/MuSK before
   innervation leads to aneural AChR clustering and also via a parallel signaling pathway
@@ -189,4 +189,7 @@ genes:
   entrez: '7855'
 chemicals: []
 diseases: []
+figid_alias: PMC3367558__F2
+redirect_from: /figures/PMC3367558__F2
+figtype: Figure
 ---

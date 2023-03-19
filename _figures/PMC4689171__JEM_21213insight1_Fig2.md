@@ -1,7 +1,7 @@
 ---
 figid: PMC4689171__JEM_21213insight1_Fig2
 figlink: /pmc/articles/PMC4689171/figure/fig2/
-number: ''
+number: F2
 caption: The TLR pathway is overactivated in various types of inflammatory and autoimmune
   diseases by ligands binding to the TLR. In 30% of ABC DLBCL and in several other
   B cell lymphomas, MyD88, which links TLRs to the IRAK1 and IRAK4 kinases, is affected
@@ -177,4 +177,7 @@ chemicals:
   source: MESH
   identifier: C551803
 diseases: []
+figid_alias: PMC4689171__F2
+redirect_from: /figures/PMC4689171__F2
+figtype: Figure
 ---

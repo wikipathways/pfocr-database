@@ -1,7 +1,7 @@
 ---
 figid: PMC5224427__Neurosciences-21-306-g002
 figlink: /pmc/articles/PMC5224427/figure/F2/
-number: Figure 2
+number: F2
 caption: The mechanisms of regulated neurotrophin secretion. Neurotrophins secretion
   relies on elevation of intracellular Ca2+ concentration. The Ca2+ influx through
   voltage gated calcium channels (VGCC) and/or NMDA receptor upon depolarization and
@@ -242,4 +242,7 @@ chemicals:
   source: MESH
   identifier: D018350
 diseases: []
+figid_alias: PMC5224427__F2
+redirect_from: /figures/PMC5224427__F2
+figtype: Figure
 ---

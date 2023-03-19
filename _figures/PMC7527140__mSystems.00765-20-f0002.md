@@ -1,7 +1,7 @@
 ---
 figid: PMC7527140__mSystems.00765-20-f0002
 figlink: pmc/articles/PMC7527140/figure/fig2/
-number: FIG 2
+number: F2
 caption: 'Deduced sterol biosynthesis pathways in Symbiodiniaceae. Enzyme abbreviations:
   DXS, 1-deoxy-d-xylulose 5-phosphate synthase; HMGR, hydroxy-methyl-glutaryl-CoA
   (hydroxy-methyl-glutaryl-coenzyme A) reductase; CAS, cycloartenol synthase; LAS,
@@ -26,8 +26,7 @@ pathway_score: 0.7895118
 filename: mSystems.00765-20-f0002.jpg
 figtitle: Deduced sterol biosynthesis pathways in Symbiodiniaceae
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -248,4 +247,7 @@ chemicals:
   source: MESH
   identifier: C060809
 diseases: []
+figid_alias: PMC7527140__F2
+redirect_from: /figures/PMC7527140__F2
+figtype: Figure
 ---

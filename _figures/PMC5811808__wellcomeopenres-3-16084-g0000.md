@@ -1,7 +1,7 @@
 ---
 figid: PMC5811808__wellcomeopenres-3-16084-g0000
 figlink: /pmc/articles/PMC5811808/figure/f1/
-number: Figure 1.
+number: F1
 caption: The labelling patterns arising from [1,2- 13C] glucose ( A & B) as well as
   from [U- 13C, 15N] glutamine ( C for 13C labelling and A– C for 15N labelling) are
   shown. Metabolism of [1,2- 13C] glucose leads to distinctive labelling patterns
@@ -20,8 +20,7 @@ pathway_score: 0.7385337
 filename: wellcomeopenres-3-16084-g0000.jpg
 figtitle: Tracing of metabolic pathways
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -60,4 +59,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC5811808__F1
+redirect_from: /figures/PMC5811808__F1
+figtype: Figure
 ---

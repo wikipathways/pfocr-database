@@ -1,7 +1,7 @@
 ---
 figid: PMC7353316__nanomaterials-10-01143-sch001
 figlink: pmc/articles/PMC7353316/figure/nanomaterials-10-01143-sch001/
-number: Scheme 1
+number: S1
 caption: Synthetic pathway for imidazolium/benzimidazolium salts 5–9.
 pmcid: PMC7353316
 papertitle: 'New Amphiphilic Imidazolium/Benzimidazolium Calix[4]arene Derivatives:
@@ -13,8 +13,7 @@ pathway_score: 0.9564713
 filename: nanomaterials-10-01143-sch001.jpg
 figtitle: Synthetic pathway for imidazolium/benzimidazolium salts 5–9
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -74,4 +73,7 @@ chemicals:
   source: MESH
   identifier: C103208
 diseases: []
+figid_alias: PMC7353316__S1
+redirect_from: /figures/PMC7353316__S1
+figtype: Scheme
 ---

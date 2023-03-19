@@ -1,7 +1,7 @@
 ---
 figid: PMC7694653__microorganisms-08-01742-g003
 figlink: pmc/articles/PMC7694653/figure/microorganisms-08-01742-f003/
-number: Figure 3
+number: F3
 caption: Schematic representation of the branched pathway as related to bacterial
   growth rate. The orange frame stands for the cell wall separating the intracellular
   and extracellular variables.
@@ -15,8 +15,7 @@ pathway_score: 0.7671686
 filename: microorganisms-08-01742-g003.jpg
 figtitle: Branched pathway as related to bacterial growth rate
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -60,4 +59,7 @@ chemicals:
   source: MESH
   identifier: D002208
 diseases: []
+figid_alias: PMC7694653__F3
+redirect_from: /figures/PMC7694653__F3
+figtype: Figure
 ---

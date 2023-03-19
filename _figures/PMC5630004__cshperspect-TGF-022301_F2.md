@@ -1,7 +1,7 @@
 ---
 figid: PMC5630004__cshperspect-TGF-022301_F2
 figlink: /pmc/articles/PMC5630004/figure/A022301F2/
-number: Figure 2
+number: F2
 caption: Drug targets on the TGF-β signaling pathway. The figure indicates molecular
   targets during the synthesis, activation, and signaling of TGF-β to which drugs
   have been raised. Molecular targets and processes are shown in boxes.
@@ -13,8 +13,7 @@ pathway_score: 0.9584624
 filename: cshperspect-TGF-022301_F2.jpg
 figtitle: Drug targets on the TGFB signaling pathway
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ genes:
   entrez: '7046'
 chemicals: []
 diseases: []
+figid_alias: PMC5630004__F2
+redirect_from: /figures/PMC5630004__F2
+figtype: Figure
 ---

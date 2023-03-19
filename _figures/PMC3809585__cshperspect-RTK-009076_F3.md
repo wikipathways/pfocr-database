@@ -1,7 +1,7 @@
 ---
 figid: PMC3809585__cshperspect-RTK-009076_F3
 figlink: /pmc/articles/PMC3809585/figure/A009076F3/
-number: Figure 3
+number: F3
 caption: A TAM-regulated cycle of inflammation in dendritic cells. An initial recognition
   phase (1, green), mediated by Toll-like receptors (e.g., TLR4 on the cell surface
   and TLR3 in endosomes) and other pattern recognition receptors triggers a kinase
@@ -234,4 +234,7 @@ genes:
   entrez: '3727'
 chemicals: []
 diseases: []
+figid_alias: PMC3809585__F3
+redirect_from: /figures/PMC3809585__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5088527__cshperspect-EPI-019463_F2
 figlink: /pmc/articles/PMC5088527/figure/A019463F2/
-number: Figure 2
+number: F2
 caption: Biosynthesis pathways of acetyl-CoA and NAD cofactors, and their involvement
   in chromatin-related processes. Acetyl-CoA is produced via two pathways to metabolize
   pyruvate, involving the key catalytic action of ACL or AceCS1. Acetyl-CoA is an
@@ -191,4 +191,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC5088527__F2
+redirect_from: /figures/PMC5088527__F2
+figtype: Figure
 ---

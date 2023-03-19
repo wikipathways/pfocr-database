@@ -1,7 +1,7 @@
 ---
 figid: PMC7143216__microorganisms-08-00313-g005
 figlink: pmc/articles/PMC7143216/figure/microorganisms-08-00313-f005/
-number: Figure 5
+number: F5
 caption: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta.
   The non-mevalonate pathway shows the synthesis of farnesyl diphosphate for either
   conversion into carotenoids (orange) or incorporation into the final chlorophyll
@@ -32,8 +32,7 @@ pathway_score: 0.8896882
 filename: microorganisms-08-00313-g005.jpg
 figtitle: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -177,4 +176,7 @@ chemicals:
   source: MESH
   identifier: D008798
 diseases: []
+figid_alias: PMC7143216__F5
+redirect_from: /figures/PMC7143216__F5
+figtype: Figure
 ---

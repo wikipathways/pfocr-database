@@ -1,7 +1,7 @@
 ---
 figid: PMC7684689__Beilstein_J_Org_Chem-16-2776-g012
 figlink: pmc/articles/PMC7684689/figure/C5/
-number: Scheme 5
+number: S5
 caption: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
   of the isoprenyl esters. All acids shown were found in form of their isoprenyl esters.
   (Z)-9-Hexadecenoic acid is obtained from palmitic acid by a Δ9-desaturase (ds).
@@ -28,8 +28,7 @@ filename: Beilstein_J_Org_Chem-16-2776-g012.jpg
 figtitle: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
   of the isoprenyl esters
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -133,4 +132,7 @@ chemicals:
   source: MESH
   identifier: C572289
 diseases: []
+figid_alias: PMC7684689__S5
+redirect_from: /figures/PMC7684689__S5
+figtype: Scheme
 ---

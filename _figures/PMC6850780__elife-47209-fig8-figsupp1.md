@@ -1,7 +1,7 @@
 ---
 figid: PMC6850780__elife-47209-fig8-figsupp1
 figlink: /pmc/articles/PMC6850780/figure/fig8s1/
-number: Figure 8—figure supplement 1
+number: SF8_1
 caption: DA neurons and the involvement of EVs and Sig1R-ARF6 signaling pathway. As
   shown previously (), cocaine stimulates the synthesis of 2-AG via promotion of the
   activation of α1-noradrenergic receptors following inhibition of the norepinephrine
@@ -28,8 +28,7 @@ filename: elife-47209-fig8-figsupp1.jpg
 figtitle: Proposed mechanisms underlying the cocaine-regulated synthesis and release
   of 2-AG in VTA
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -111,4 +110,7 @@ chemicals:
   source: MESH
   identifier: D003042
 diseases: []
+figid_alias: PMC6850780__SF8_1
+redirect_from: /figures/PMC6850780__SF8_1
+figtype: Supplemental figure
 ---

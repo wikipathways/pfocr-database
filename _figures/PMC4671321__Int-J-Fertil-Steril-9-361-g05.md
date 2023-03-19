@@ -1,7 +1,7 @@
 ---
 figid: PMC4671321__Int-J-Fertil-Steril-9-361-g05
 figlink: /pmc/articles/PMC4671321/figure/F5/
-number: Fig.5
+number: F5
 caption: Predicted model for the action of GSK3-β in buffalo embryonic stem ( ES )
   cells. Leukemia inhibitory factor ( LIF ) and fibroblast growth factor-2 ( FGF-2
   ) stimulation appear to cause inactivation of GSK3-β through the PI3K/Akt pathway
@@ -487,4 +487,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4671321__F5
+redirect_from: /figures/PMC4671321__F5
+figtype: Figure
 ---

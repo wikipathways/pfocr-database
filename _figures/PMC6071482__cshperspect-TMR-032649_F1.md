@@ -1,7 +1,7 @@
 ---
 figid: PMC6071482__cshperspect-TMR-032649_F1
 figlink: pmc/articles/PMC6071482/figure/A032649F1/
-number: Figure 1
+number: F1
 caption: Model of the eukaryotic translation elongation pathway. At the top, an eEF1A•GTP•aminoacyl-tRNA
   (transfer RNA) ternary complex binds to the A (aminoacyl) site of an 80S ribosome
   with the anticodon loop of the tRNA in contact with the messenger RNA (mRNA). Following
@@ -30,8 +30,7 @@ pathway_score: 0.931945
 filename: cshperspect-TMR-032649_F1.jpg
 figtitle: The eukaryotic translation elongation pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ chemicals:
   source: MESH
   identifier: C027528
 diseases: []
+figid_alias: PMC6071482__F1
+redirect_from: /figures/PMC6071482__F1
+figtype: Figure
 ---

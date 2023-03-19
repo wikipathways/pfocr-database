@@ -1,7 +1,7 @@
 ---
 figid: PMC4066641__cshperspectmed-MYC-014407_F1
 figlink: /pmc/articles/PMC4066641/figure/A014407F1/
-number: Figure 1
+number: F1
 caption: Apoptotic signaling pathways in normal and malignant cells. Fundamental differences
   in MYC-linked signaling pathways distinguish normal and malignant cells. (Left)
   In normal cells whose environment has adequate nutrients and growth factors, surveillance
@@ -144,4 +144,7 @@ genes:
   entrez: '5155'
 chemicals: []
 diseases: []
+figid_alias: PMC4066641__F1
+redirect_from: /figures/PMC4066641__F1
+figtype: Figure
 ---

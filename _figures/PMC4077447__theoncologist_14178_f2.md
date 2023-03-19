@@ -1,7 +1,7 @@
 ---
 figid: PMC4077447__theoncologist_14178_f2
 figlink: /pmc/articles/PMC4077447/figure/F2/
-number: Figure 2
+number: F2
 caption: 'MTAP. (A): MTAP metabolic pathway in normal cells. (B): MTAP-deficient cells
   are unable to salvage adenine and rely on de novo biosynthesis of purines.Abbreviations:
   5-FU, 5-fluorouracil; 6-TG, 6-thioguanine; MTA, methylthioadenosine; MTAP, methylthioadenosine
@@ -14,8 +14,7 @@ pathway_score: 0.9623597
 filename: theoncologist_14178_f2.jpg
 figtitle: '6-Thioguanine: A Drug With Unrealized Potential for Cancer Therapy'
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -80,4 +79,7 @@ chemicals:
   source: MESH
   identifier: D011687
 diseases: []
+figid_alias: PMC4077447__F2
+redirect_from: /figures/PMC4077447__F2
+figtype: Figure
 ---

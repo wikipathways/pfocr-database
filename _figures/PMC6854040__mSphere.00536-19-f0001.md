@@ -1,7 +1,7 @@
 ---
 figid: PMC6854040__mSphere.00536-19-f0001
 figlink: /pmc/articles/PMC6854040/figure/fig1/
-number: FIG 1
+number: F1
 caption: Generalized MEV and MEP pathways leading to downstream isoprenoid products.
   The green arrows indicate the presence of annotated enzymes encoded in the R. parkeri
   genome. The gray arrows indicate the absence of annotated enzymes encoded in the
@@ -25,8 +25,7 @@ pathway_score: 0.9443204
 filename: mSphere.00536-19-f0001.jpg
 figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid products
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -134,4 +133,7 @@ diseases:
 - word: Rickettsia
   source: MESH
   identifier: D012282
+figid_alias: PMC6854040__F1
+redirect_from: /figures/PMC6854040__F1
+figtype: Figure
 ---

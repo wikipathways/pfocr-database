@@ -1,7 +1,7 @@
 ---
 figid: PMC6722697__microorganisms-07-00222-g005
 figlink: /pmc/articles/PMC6722697/figure/microorganisms-07-00222-f005/
-number: Figure 5
+number: F5
 caption: 'Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,]).
   The reaction steps are as follows; 1: Claisen condensation; 2: amidino transfer;
   3: heterocyclization; 4: desaturation (Double bond formation); 5: epoxidation of
@@ -15,8 +15,7 @@ pathway_score: 0.8900813
 filename: microorganisms-07-00222-g005.jpg
 figtitle: Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,])
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -148,4 +147,7 @@ diseases:
 - word: SAH
   source: MESH
   identifier: D013345
+figid_alias: PMC6722697__F5
+redirect_from: /figures/PMC6722697__F5
+figtype: Figure
 ---

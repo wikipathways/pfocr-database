@@ -1,7 +1,7 @@
 ---
 figid: PMC6680887__microorganisms-07-00191-g005
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f005/
-number: Figure 5
+number: F5
 caption: Diagrammatic summary of the dinoflagellate orthologues predicted in the DNA
   mismatch repair pathway. The rectangles and ellipses filled with grey color indicate
   the absence of putative dinoflagellate orthologues in the searched transcriptomes.
@@ -15,8 +15,7 @@ pathway_score: 0.9277315
 filename: microorganisms-07-00191-g005.jpg
 figtitle: Dinoflagellate orthologues predicted in the DNA mismatch repair pathway
 year: '2019'
-organisms:
-- Dinoflagellates
+organisms: Dinoflagellates
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -110,4 +109,7 @@ genes:
   entrez: '5982'
 chemicals: []
 diseases: []
+figid_alias: PMC6680887__F5
+redirect_from: /figures/PMC6680887__F5
+figtype: Figure
 ---

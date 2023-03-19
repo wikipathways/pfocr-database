@@ -1,7 +1,7 @@
 ---
 figid: PMC5874888__bioengineering-05-00022-g004
 figlink: /pmc/articles/PMC5874888/figure/bioengineering-05-00022-f004/
-number: Figure 4
+number: F4
 caption: Effects of hypoxia on HIF-1α. The thickness of the line indicates the ratio
   of protein amount in thre—dimensional (3D) cultures compared to 2D cultures. Dotted
   lines indicate reduced expression. Green lines ending in arrowheads indicate activators,
@@ -184,4 +184,7 @@ diseases:
 - word: VHL
   source: MESH
   identifier: D006623
+figid_alias: PMC5874888__F4
+redirect_from: /figures/PMC5874888__F4
+figtype: Figure
 ---

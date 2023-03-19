@@ -1,7 +1,7 @@
 ---
 figid: PMC3660828__cshperspect-ERT-013235_F2
 figlink: /pmc/articles/PMC3660828/figure/A013235F2/
-number: Figure 2
+number: F2
 caption: Biosynthetic pathways of aminoglycerophospholipids. (A) Biosynthesis of aminoglycerophospholipids
   in yeast. Formation of PS is accomplished in the ER and catalyzed in a CDP-DAG-dependent
   reaction by the PS synthase, Pss1p. Decarboxylation of PS yielding PE occurs in
@@ -25,8 +25,7 @@ pathway_score: 0.9039014
 filename: cshperspect-ERT-013235_F2.jpg
 figtitle: Biosynthetic pathways of aminoglycerophospholipids
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -107,4 +106,7 @@ genes:
   entrez: '9791'
 chemicals: []
 diseases: []
+figid_alias: PMC3660828__F2
+redirect_from: /figures/PMC3660828__F2
+figtype: Figure
 ---

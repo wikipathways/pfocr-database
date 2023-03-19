@@ -1,7 +1,7 @@
 ---
 figid: PMC6120701__cshperspect-CYT-028449_F3
 figlink: pmc/articles/PMC6120701/figure/A028449F3/
-number: Figure 3
+number: F3
 caption: The interleukin (IL)-2 signaling pathway. Activation of Janus kinase (JAK)/signal
   transducers and activators of transcription (STAT), mitogen-activated protein kinase
   (MAPK), and phosphatidylinositol 3-kinase (PI3K) pathways by γ chain (γc) family
@@ -15,8 +15,7 @@ pathway_score: 0.9640428
 filename: cshperspect-CYT-028449_F3.jpg
 figtitle: Interleukin (IL)-2 signaling pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -386,4 +385,7 @@ chemicals:
   source: MESH
   identifier: D020123
 diseases: []
+figid_alias: PMC6120701__F3
+redirect_from: /figures/PMC6120701__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3839607__cshperspect-END-016949_F2
 figlink: /pmc/articles/PMC3839607/figure/A016949F2/
-number: Figure 2
+number: F2
 caption: Involvement of mutant p53 in lamellipodium dynamics and cell migration. To
   safeguard sustained forward movement of the leading edge, integrin and RTKs constantly
   internalize and directionally recycle by means of vesicular trafficking. A critical
@@ -478,4 +478,7 @@ genes:
   entrez: '326624'
 chemicals: []
 diseases: []
+figid_alias: PMC3839607__F2
+redirect_from: /figures/PMC3839607__F2
+figtype: Figure
 ---

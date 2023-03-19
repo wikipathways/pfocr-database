@@ -1,7 +1,7 @@
 ---
 figid: PMC6211389__cshperspect-CYT-028423_F3
 figlink: pmc/articles/PMC6211389/figure/A028423F3/
-number: Figure 3
+number: F3
 caption: Schematic illustration of type I interferon (IFN) gene induction by IFN regulatory
   factors (IRFs) on innate recognition of cytosolic nucleic acids. Type I IFN genes,
   particularly IFN-β, are induced via TIR domain-containing adaptor, including IFN-β
@@ -27,8 +27,7 @@ filename: cshperspect-CYT-028423_F3.jpg
 figtitle: Type I interferon (IFN) gene induction by IFN regulatory factors (IRFs)
   on innate recognition of cytosolic nucleic acids
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -194,4 +193,7 @@ chemicals:
   source: MESH
   identifier: D003633
 diseases: []
+figid_alias: PMC6211389__F3
+redirect_from: /figures/PMC6211389__F3
+figtype: Figure
 ---

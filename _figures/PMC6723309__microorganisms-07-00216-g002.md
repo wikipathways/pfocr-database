@@ -1,7 +1,7 @@
 ---
 figid: PMC6723309__microorganisms-07-00216-g002
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f002/
-number: Figure 2
+number: F2
 caption: Hypothetical model for adenoviral regulation of stress-induced EGFR signaling
   through NFκB. We hypothesize that viral cell entry activates two host cell pathways
   converging on NFκB. Capsid binding to αV integrins induces PI3K/Akt, which activates
@@ -239,4 +239,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC6723309__F2
+redirect_from: /figures/PMC6723309__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC8065760__pharmaceuticals-14-00322-g003
 figlink: pmc/articles/PMC8065760/figure/pharmaceuticals-14-00322-f003/
-number: Figure 3
+number: F3
 caption: Involvement of the significantly dysregulated microRNAs in renal cancer signaling
   pathways. Red arrows show the contribution of miRNAs to the development of RCC.
   As illustrated, miR-17-5p, miR-224 and miR-210 contribute to tumor growth by targeting
@@ -23,8 +23,7 @@ filename: pharmaceuticals-14-00322-g003.jpg
 figtitle: Involvement of the significantly dysregulated microRNAs in renal cancer
   signaling pathways
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -254,4 +253,7 @@ diseases:
 - word: VHL
   source: MESH
   identifier: D006623
+figid_alias: PMC8065760__F3
+redirect_from: /figures/PMC8065760__F3
+figtype: Figure
 ---

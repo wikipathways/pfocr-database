@@ -1,7 +1,7 @@
 ---
 figid: PMC3179337__cshperspect-GRM-005553_F3
 figlink: /pmc/articles/PMC3179337/figure/A005553F3/
-number: Figure 3
+number: F3
 caption: Gap junctional communication between the oocyte and the surrounding somatic
   cells regulates oocyte meiotic maturation. (A) High levels of cyclic adenosine 3′,
   5′-monophosphate (cAMP) in the oocyte inhibit meiotic maturation in mammals. The
@@ -286,4 +286,7 @@ genes:
   entrez: '2779'
 chemicals: []
 diseases: []
+figid_alias: PMC3179337__F3
+redirect_from: /figures/PMC3179337__F3
+figtype: Figure
 ---

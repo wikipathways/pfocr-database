@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g156
 figlink: /pmc/articles/PMC6664406/figure/C148/
-number: Scheme 148
+number: S148
 caption: Palladium acetate-catalyzed mechanistic pathway.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.9050742
 filename: Beilstein_J_Org_Chem-15-1612-g156.jpg
 figtitle: Palladium acetate-catalyzed mechanistic pathway
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: D010165
 diseases: []
+figid_alias: PMC6664406__S148
+redirect_from: /figures/PMC6664406__S148
+figtype: Scheme
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4653963__austprescr-38-074-f1
 figlink: /pmc/articles/PMC4653963/figure/f1/
-number: Fig
+number: F1
 caption: Action of BRAF and MEK inhibitors in the MAP kinase signalling pathway
 pmcid: PMC4653963
 papertitle: Medical management of malignant melanoma.
@@ -99,4 +99,7 @@ chemicals:
   source: MESH
   identifier: C574276
 diseases: []
+figid_alias: PMC4653963__F1
+redirect_from: /figures/PMC4653963__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6881718__mSphere.00545-19-f0006
 figlink: /pmc/articles/PMC6881718/figure/fig6/
-number: FIG 6
+number: F6
 caption: 'Cellular context of TLR5 engagement by UPEC FliC in the bladder leading
   to early IL-10 induction. Gene transcriptional responses analyzed using innateDB
   and overlaid on KEGG pathway 4620 Toll-like receptor signaling. Color key: green,
@@ -692,4 +692,7 @@ chemicals:
   source: MESH
   identifier: D016559
 diseases: []
+figid_alias: PMC6881718__F6
+redirect_from: /figures/PMC6881718__F6
+figtype: Figure
 ---

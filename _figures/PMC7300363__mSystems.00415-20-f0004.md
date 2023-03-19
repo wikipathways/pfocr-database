@@ -1,7 +1,7 @@
 ---
 figid: PMC7300363__mSystems.00415-20-f0004
 figlink: pmc/articles/PMC7300363/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Hypothesized central carbon metabolism, electron transport chain, and selected
   transport capabilities in HMT. Dashed arrows indicate pathways with uncertain enzymology.
   Pathways: 1, branched-chain alpha-ketoacid dehydrogenase complex; 2, beta oxidation;
@@ -25,8 +25,7 @@ filename: mSystems.00415-20-f0004.jpg
 figtitle: Hypothesized central carbon metabolism, electron transport chain, and selected
   transport capabilities in HMT
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -136,4 +135,7 @@ chemicals:
   source: MESH
   identifier: D009243
 diseases: []
+figid_alias: PMC7300363__F4
+redirect_from: /figures/PMC7300363__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5553762__RevDiabeticStud-13-113-003
 figlink: /pmc/articles/PMC5553762/figure/F2/
-number: Figure 2
+number: F2
 caption: The diagram specifies potential mechanisms of bioactive components from dandelion
   (CGA, CRA, TS, and SEL) on insulin secretion and cAMP pathway. T2D can arise from
   several defects, including low response in β-cells (at the level of GLUT2, SUR1,
@@ -234,4 +234,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC5553762__F2
+redirect_from: /figures/PMC5553762__F2
+figtype: Figure
 ---

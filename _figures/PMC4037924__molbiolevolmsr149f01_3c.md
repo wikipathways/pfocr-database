@@ -1,7 +1,7 @@
 ---
 figid: PMC4037924__molbiolevolmsr149f01_3c
 figlink: /pmc/articles/PMC4037924/figure/fig1/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 1'
+number: F1
 caption: 'Schematic representation of Ca2+signaling machineries in animals and fungi.
   (A) Animal Ca2+signaling machinery. Ca2+ concentration in animal cells is tightly
   regulated by various Ca2+ permeable channels, Ca2+ ATPases and exchangers at the
@@ -159,4 +159,7 @@ genes:
   entrez: '3954'
 chemicals: []
 diseases: []
+figid_alias: PMC4037924__F1
+redirect_from: /figures/PMC4037924__F1
+figtype: Figure
 ---

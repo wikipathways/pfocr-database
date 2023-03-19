@@ -1,7 +1,7 @@
 ---
 figid: PMC7912173__microorganisms-09-00249-g001
 figlink: pmc/articles/PMC7912173/figure/microorganisms-09-00249-f001/
-number: Figure 1
+number: F1
 caption: 'Overview of the microbial, sugar-based, solvent production pathways for
   alcohols, terpenoids, and aromatic compounds. (1) Aromatics (yellow) are predominantly
   based on Tyr(osine) and synthesized through the shikimate (Shik.) pathway [,]. (2)
@@ -24,8 +24,7 @@ filename: microorganisms-09-00249-g001.jpg
 figtitle: Microbial, sugar-based, solvent production pathways for alcohols, terpenoids,
   and aromatic compounds
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -112,4 +111,7 @@ chemicals:
   source: MESH
   identifier: C081489
 diseases: []
+figid_alias: PMC7912173__F1
+redirect_from: /figures/PMC7912173__F1
+figtype: Figure
 ---

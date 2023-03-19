@@ -1,7 +1,7 @@
 ---
 figid: PMC4681422__bic-suppl.2-2015-025f1
 figlink: /pmc/articles/PMC4681422/figure/f1-bic-suppl.2-2015-025/
-number: Figure 1
+number: F1
 caption: 'Downstream signaling and targeted pathway inhibition for mutant BRAF in
   melanoma (A) NPM-ALK in ALCL (B).Notes: (A) The dimerization of mutant BRAF in melanoma,
   activated by RAS, turns on several pro-survival and pro-proliferation pathways driving
@@ -247,4 +247,7 @@ diseases:
 - word: Lung cancer
   source: ''
   identifier: ''
+figid_alias: PMC4681422__F1
+redirect_from: /figures/PMC4681422__F1
+figtype: Figure
 ---

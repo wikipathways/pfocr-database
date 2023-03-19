@@ -1,7 +1,7 @@
 ---
 figid: PMC6531879__mSphere.00047-19-f0004
 figlink: /pmc/articles/PMC6531879/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Mapping of hits in the MAPK signaling pathway. Hits that affected RABV at
   18 h (yellow) or 36 h (red) or both (orange) are indicated (see link on KEGG database).
   Displayed proteins correspond to identified genes as follows: NIK = MAP3K14, MEK1 = MAP2K1,
@@ -727,4 +727,7 @@ diseases:
 - word: LPS
   source: MESH
   identifier: C536528
+figid_alias: PMC6531879__F4
+redirect_from: /figures/PMC6531879__F4
+figtype: Figure
 ---

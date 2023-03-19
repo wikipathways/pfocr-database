@@ -1,7 +1,7 @@
 ---
 figid: PMC7498680__mSystems.00277-20-f0004
 figlink: .na.character
-number: ''
+number: F4
 caption: 'The Wood-Ljungdahl pathway (WLP). (A) Pathway diagram of the methyl and
   carbonyl branches of the WLP (note: H2 is not directly used as a reductant). (B)
   Genetic representation of the WLP cluster I (formate dehydrogenase), cluster II
@@ -23,8 +23,7 @@ filename: mSystems.00277-20-f0004.jpg
 figtitle: Defining Genomic and Predicted Metabolic Features of the Acetobacterium
   Genus
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -152,4 +151,7 @@ chemicals:
   source: MESH
   identifier: D000085
 diseases: []
+figid_alias: PMC7498680__F4
+redirect_from: /figures/PMC7498680__F4
+figtype: Figure
 ---

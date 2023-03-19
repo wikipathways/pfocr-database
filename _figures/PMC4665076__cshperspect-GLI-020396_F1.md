@@ -1,7 +1,7 @@
 ---
 figid: PMC4665076__cshperspect-GLI-020396_F1
 figlink: /pmc/articles/PMC4665076/figure/A020396F1/
-number: Figure 1
+number: F1
 caption: 'Overview of astrocytic metabolism. (Inset) Astrocytes (green) reside between
   blood vessels (red) and neurons (yellow). Neurons and oligodendrocytes (blue) are
   not in direct contact with vessels. Astrocytes form metabolic domains and are coupled
@@ -46,8 +46,7 @@ pathway_score: 0.8967831
 filename: cshperspect-GLI-020396_F1.jpg
 figtitle: Overview of astrocytic metabolism
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -167,4 +166,7 @@ chemicals:
   source: MESH
   identifier: D019803
 diseases: []
+figid_alias: PMC4665076__F1
+redirect_from: /figures/PMC4665076__F1
+figtype: Figure
 ---

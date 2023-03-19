@@ -1,7 +1,7 @@
 ---
 figid: PMC3536343__cshperspect-TRA-012252_F2
 figlink: /pmc/articles/PMC3536343/figure/A012252F2/
-number: Figure 2
+number: F2
 caption: Schematic representation of mTORC2 signaling pathway. Cellular functions
   of mTORC2 are described less well than those of mTORC1. Protor, Rictor, and mSin1
   (orange) are specific components of mTORC2. mTORC2 stimulates the activity of AGC
@@ -184,4 +184,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3536343__F2
+redirect_from: /figures/PMC3536343__F2
+figtype: Figure
 ---

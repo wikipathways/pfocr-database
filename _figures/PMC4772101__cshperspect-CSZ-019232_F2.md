@@ -1,7 +1,7 @@
 ---
 figid: PMC4772101__cshperspect-CSZ-019232_F2
 figlink: /pmc/articles/PMC4772101/figure/A019232F2/
-number: Figure 2
+number: F2
 caption: Mechanical signaling and tissue growth. (A) Force generation and force transmission
   occur at apical adherens junctions (left) and basal focal adhesion sites (right).
   At apical junctions, the contractile actomyosin cortices of two neighboring cells
@@ -182,4 +182,7 @@ genes:
   entrez: '5600'
 chemicals: []
 diseases: []
+figid_alias: PMC4772101__F2
+redirect_from: /figures/PMC4772101__F2
+figtype: Figure
 ---

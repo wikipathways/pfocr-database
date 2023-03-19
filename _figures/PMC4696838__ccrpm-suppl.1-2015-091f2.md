@@ -1,7 +1,7 @@
 ---
 figid: PMC4696838__ccrpm-suppl.1-2015-091f2
 figlink: /pmc/articles/PMC4696838/figure/f2-ccrpm-suppl.1-2015-091/
-number: Figure 2
+number: F2
 caption: 'MSCs reduce a central profibrotic factor, TGF-β1, using STC1 in bleomycin-induced
   pulmonary fibrosis. The model of our study quoted in Ref.  is shown in this figure.
   Oxidative stress induces ER stress and unfolded protein response (UPR) in AECs and
@@ -21,8 +21,7 @@ filename: ccrpm-suppl.1-2015-091f2.jpg
 figtitle: MSCs reduce a central profibrotic factor, TGFB1, using STC1 in bleomycin-induced
   pulmonary fibrosis
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ genes:
   entrez: '3309'
 chemicals: []
 diseases: []
+figid_alias: PMC4696838__F2
+redirect_from: /figures/PMC4696838__F2
+figtype: Figure
 ---

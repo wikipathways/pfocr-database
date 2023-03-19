@@ -1,7 +1,7 @@
 ---
 figid: PMC3140140__carcinbgr020f01_ht
 figlink: /pmc/articles/PMC3140140/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Variation in the suppressive abilities of Wnt antagonists with respect to
   canonical and non-canonical Wnt signaling pathways. DKKs inhibit the canonical Wnt
   pathway by internalizing LRP5/6, whereas SFRPs inhibit both the canonical and non-canonical
@@ -265,4 +265,7 @@ genes:
   entrez: '81029'
 chemicals: []
 diseases: []
+figid_alias: PMC3140140__F1
+redirect_from: /figures/PMC3140140__F1
+figtype: Figure
 ---

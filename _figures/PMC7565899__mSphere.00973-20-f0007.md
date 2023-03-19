@@ -1,7 +1,7 @@
 ---
 figid: PMC7565899__mSphere.00973-20-f0007
 figlink: pmc/articles/PMC7565899/figure/fig7/
-number: FIG 7
+number: F7
 caption: Model for MAPK signaling cross talk in response to antifungal drugs in C.
   auris. Linear MAP kinase pathways (MAPKKK→MAPKK→MAPK) are represented in rectangles;
   upstream components are in ovals. Cek1 (green)-, Hog1 (orange)-, and Mkc1 (brown)-containing
@@ -27,8 +27,7 @@ pathway_score: 0.9458335
 filename: mSphere.00973-20-f0007.jpg
 figtitle: MAPK signaling cross talk in response to antifungal drugs in C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -188,4 +187,7 @@ genes:
   entrez: '79109'
 chemicals: []
 diseases: []
+figid_alias: PMC7565899__F7
+redirect_from: /figures/PMC7565899__F7
+figtype: Figure
 ---

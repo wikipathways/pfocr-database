@@ -1,7 +1,7 @@
 ---
 figid: PMC7185565__gr2ad_lrg
 figlink: .na.character
-number: ''
+number: F2a
 caption: PDZ domain proteins are involved in a variety of signal transduction pathways.
   (A) PDZ domains interact with neuronal receptor proteins. A neuronal synapse is
   depicted showing PDZ proteins and several receptors they bind. (B) Adhesion proteins
@@ -22,8 +22,7 @@ pathway_score: 0.9502269
 filename: gr2ad_lrg.jpg
 figtitle: Emerging Themes in PDZ Domain Signaling
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -813,4 +812,7 @@ diseases:
 - word: CRD
   source: OMIM
   identifier: '120970'
+figid_alias: PMC7185565__F2a
+redirect_from: /figures/PMC7185565__F2a
+figtype: Figure
 ---

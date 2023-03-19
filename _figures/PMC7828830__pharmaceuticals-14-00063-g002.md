@@ -1,7 +1,7 @@
 ---
 figid: PMC7828830__pharmaceuticals-14-00063-g002
 figlink: pmc/articles/PMC7828830/figure/pharmaceuticals-14-00063-f002/
-number: Figure 2
+number: F2
 caption: 'Proposed biosynthetic pathway of mycosporine-like amino acids. DAHP: 3-deoxy-D-arabino-heptulosonate
   phosphate, DHQS: 3-dehydroquinate synthase, 3-DHQ: 3-dehydroquinate, SH-7P: sedoheptulose-7-phosphate,
   EVS: cyclase-2-epi-5-epi-valiolone synthase, OMT: O-methyltransferase, 4DG: 4-deoxygadusol,
@@ -16,8 +16,7 @@ pathway_score: 0.9141513
 filename: pharmaceuticals-14-00063-g002.jpg
 figtitle: Proposed biosynthetic pathway of mycosporine-like amino acids
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -77,4 +76,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC7828830__F2
+redirect_from: /figures/PMC7828830__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7407804__pharmaceuticals-13-00140-g001
 figlink: pmc/articles/PMC7407804/figure/pharmaceuticals-13-00140-f001/
-number: Figure 1
+number: F1
 caption: Signaling events downstream of EphA activation by ephrin-As. Pathways in
   gray are not detailed in this review.
 pmcid: PMC7407804
@@ -12,8 +12,7 @@ pathway_score: 0.9560595
 filename: pharmaceuticals-13-00140-g001.jpg
 figtitle: Signaling events downstream of EphA activation by ephrin-As
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '5879'
 chemicals: []
 diseases: []
+figid_alias: PMC7407804__F1
+redirect_from: /figures/PMC7407804__F1
+figtype: Figure
 ---

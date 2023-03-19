@@ -1,7 +1,7 @@
 ---
 figid: PMC5327616__cddiscovery201697-f9
 figlink: /pmc/articles/PMC5327616/figure/fig9/
-number: Figure 9
+number: F9
 caption: BM-MSC modulates inflammation response through mTORC1-p70S6K/mTORC2-Akt Signal
   Pathway. MSC modulated the level of proinflammatory cytokines. Meanwhile, the anti-inflammatory
   cytokine IL-10 also decreased in Raptor overexpression group. Engrafted BM-MSCs
@@ -215,4 +215,7 @@ genes:
   entrez: '2475'
 chemicals: []
 diseases: []
+figid_alias: PMC5327616__F9
+redirect_from: /figures/PMC5327616__F9
+figtype: Figure
 ---

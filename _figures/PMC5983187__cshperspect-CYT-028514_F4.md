@@ -1,7 +1,7 @@
 ---
 figid: PMC5983187__cshperspect-CYT-028514_F4
 figlink: pmc/articles/PMC5983187/figure/A028514F4/
-number: Figure 4
+number: F4
 caption: Intracellular signaling pathways arising from β common (βc) receptor activation.
   Schematic of key protein interactions following activation of the βc cytokine receptor
   family. Low concentrations of cytokine promote the activation of phosphoinositide
@@ -24,8 +24,7 @@ pathway_score: 0.9500116
 filename: cshperspect-CYT-028514_F4.jpg
 figtitle: Intracellular signaling pathways arising from B common (Bc) receptor activation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -176,4 +175,7 @@ genes:
   entrez: '5781'
 chemicals: []
 diseases: []
+figid_alias: PMC5983187__F4
+redirect_from: /figures/PMC5983187__F4
+figtype: Figure
 ---

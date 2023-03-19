@@ -1,7 +1,7 @@
 ---
 figid: PMC4978554__theoncologist_15523_f2
 figlink: /pmc/articles/PMC4978554/figure/F2/
-number: Figure 2
+number: F2
 caption: 'PD-1 pathway inhibition. Tumor cells may activate an antitumor immune response
   by presenting tumor antigens in conjunction with MHC molecules to naïve T cells
   in the tumor microenvironment expressing the appropriate TCR (A). However, activated
@@ -18,8 +18,7 @@ pathway_score: 0.901247
 filename: theoncologist_15523_f2.jpg
 figtitle: PD-1 pathway inhibition
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '5133'
 chemicals: []
 diseases: []
+figid_alias: PMC4978554__F2
+redirect_from: /figures/PMC4978554__F2
+figtype: Figure
 ---

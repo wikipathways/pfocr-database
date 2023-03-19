@@ -1,7 +1,7 @@
 ---
 figid: PMC6322027__AnnalsATS.201806-439AW_f1
 figlink: /pmc/articles/PMC6322027/figure/fig1/
-number: Figure 1
+number: F1
 caption: Mucociliary differentiation. During airway epithelial differentiation, multiciliated
   cell (MCC) and secretory cell fates are determined by Notch signaling, such that
   signal-sending cells assume the multiciliated fate and cells receptive of Notch
@@ -23,8 +23,7 @@ pathway_score: 0.8219118
 filename: AnnalsATS.201806-439AW_f1.jpg
 figtitle: Mucociliary differentiation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ genes:
   entrez: '4855'
 chemicals: []
 diseases: []
+figid_alias: PMC6322027__F1
+redirect_from: /figures/PMC6322027__F1
+figtype: Figure
 ---

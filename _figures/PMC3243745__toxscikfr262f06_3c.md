@@ -1,7 +1,7 @@
 ---
 figid: PMC3243745__toxscikfr262f06_3c
 figlink: /pmc/articles/PMC3243745/figure/fig6/
-number: FIG. 6
+number: F6
 caption: Metabolic pathways illustrating TCDD-elicited changes in the mouse (A) and
   rat (B). Changes in metabolite levels measured by NMR are highlighted in boxes.
   Gene names (over arrows) were evaluated using whole-genome microarrays. Metabolites
@@ -306,4 +306,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC3243745__F6
+redirect_from: /figures/PMC3243745__F6
+figtype: Figure
 ---

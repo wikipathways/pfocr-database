@@ -1,7 +1,7 @@
 ---
 figid: PMC5466160__AnnalsATS.201507-450MG_f1
 figlink: /pmc/articles/PMC5466160/figure/fig1/
-number: Figure 1
+number: F1
 caption: 'Autophagy pathway. Autophagy is a regulated process that responds to regulation
   by nutrient signals. Autophagy responds to negative regulation by growth factor
   stimuli that activate the phosphatidylinositol-3-kinase (PI3K/AKT) pathway, which
@@ -197,4 +197,7 @@ genes:
   entrez: '5564'
 chemicals: []
 diseases: []
+figid_alias: PMC5466160__F1
+redirect_from: /figures/PMC5466160__F1
+figtype: Figure
 ---

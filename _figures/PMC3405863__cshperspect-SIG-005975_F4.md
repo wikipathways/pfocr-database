@@ -1,7 +1,7 @@
 ---
 figid: PMC3405863__cshperspect-SIG-005975_F4
 figlink: /pmc/articles/PMC3405863/figure/A005975F4/
-number: Figure 4
+number: F4
 caption: The EGFR pathway in Drosophila. Three membrane-anchored ligands—Spitz (SPI),
   Gurken (GRK), and Keren (KRN)—are retained in the ER, and are processed following
   trafficking by the chaperone protein Star, which is dedicated to these molecules,
@@ -617,4 +617,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3405863__F4
+redirect_from: /figures/PMC3405863__F4
+figtype: Figure
 ---

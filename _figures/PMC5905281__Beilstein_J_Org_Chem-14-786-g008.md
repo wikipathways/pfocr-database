@@ -1,7 +1,7 @@
 ---
 figid: PMC5905281__Beilstein_J_Org_Chem-14-786-g008
 figlink: /pmc/articles/PMC5905281/figure/C4/
-number: Scheme 4
+number: S4
 caption: Plausible reaction pathway.
 pmcid: PMC5905281
 papertitle: 'Bromide-assisted chemoselective Heck reaction of 3-bromoindazoles under
@@ -12,8 +12,7 @@ pathway_score: 0.8224692
 filename: Beilstein_J_Org_Chem-14-786-g008.jpg
 figtitle: Plausible reaction pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -73,4 +72,7 @@ chemicals:
   source: MESH
   identifier: C045890
 diseases: []
+figid_alias: PMC5905281__S4
+redirect_from: /figures/PMC5905281__S4
+figtype: Scheme
 ---

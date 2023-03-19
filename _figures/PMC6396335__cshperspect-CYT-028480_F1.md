@@ -1,7 +1,7 @@
 ---
 figid: PMC6396335__cshperspect-CYT-028480_F1
 figlink: pmc/articles/PMC6396335/figure/PIBCYTa028480F1/
-number: Figure 1
+number: F1
 caption: Assembly of the interferon (IFN)-γ receptor (IFNGR) and activation of Janus
   kinase (JAK)-signal transducers and activators of transcription (STAT) signaling.
   Binding of IFN-γ to the IFNGR complex results in tight association of IFNGR1 and
@@ -26,8 +26,7 @@ filename: cshperspect-CYT-028480_F1.jpg
 figtitle: Assembly of the interferon (IFN)G receptor (IFNGR) and activation of Janus
   kinase (JAK)-signal transducers and activators of transcription (STAT) signaling
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -233,4 +232,7 @@ chemicals:
   source: MESH
   identifier: C047902
 diseases: []
+figid_alias: PMC6396335__F1
+redirect_from: /figures/PMC6396335__F1
+figtype: Figure
 ---

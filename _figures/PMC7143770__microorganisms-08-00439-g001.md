@@ -1,7 +1,7 @@
 ---
 figid: PMC7143770__microorganisms-08-00439-g001
 figlink: pmc/articles/PMC7143770/figure/microorganisms-08-00439-f001/
-number: Figure 1
+number: F1
 caption: Schematic representation of the conserved fatty acids biosynthesis pathway
   based on the Lb. paracasei ATCC334 fatty acids synthesis model. In red are highlighted
   the genes considered in this study. Acc genes (accA, accB, accC, accD) are involved
@@ -23,8 +23,7 @@ pathway_score: 0.957552
 filename: microorganisms-08-00439-g001.jpg
 figtitle: Conserved fatty acids biosynthesis pathway based on the Lb
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -225,4 +224,7 @@ chemicals:
   source: MESH
   identifier: C053078
 diseases: []
+figid_alias: PMC7143770__F1
+redirect_from: /figures/PMC7143770__F1
+figtype: Figure
 ---

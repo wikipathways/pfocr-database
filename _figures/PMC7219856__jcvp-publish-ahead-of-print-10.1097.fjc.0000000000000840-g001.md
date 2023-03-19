@@ -1,7 +1,7 @@
 ---
 figid: PMC7219856__jcvp-publish-ahead-of-print-10.1097.fjc.0000000000000840-g001
 figlink: pmc/articles/PMC7219856/figure/F1/
-number: FIGURE 1
+number: F1
 caption: Interactions between the renin–angiotensin–aldosterone system and coronavirus
   Disease-2019. The complex RAAS regulates blood pressure, sodium and water retention
   and plays an important role in the pathogenesis of cardiovascular disease. Angiotensin-converting
@@ -25,8 +25,7 @@ filename: jcvp-publish-ahead-of-print-10.1097.fjc.0000000000000840-g001.jpg
 figtitle: Interactions between the renin–angiotensin–aldosterone system and coronavirus
   Disease-2019
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ diseases:
 - word: Fibrosis
   source: MESH
   identifier: D005355
+figid_alias: PMC7219856__F1
+redirect_from: /figures/PMC7219856__F1
+figtype: Figure
 ---

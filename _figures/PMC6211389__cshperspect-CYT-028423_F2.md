@@ -1,7 +1,7 @@
 ---
 figid: PMC6211389__cshperspect-CYT-028423_F2
 figlink: pmc/articles/PMC6211389/figure/A028423F2/
-number: Figure 2
+number: F2
 caption: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
   gene induction by IFN regulatory factors (IRFs). The presence of RNA or double-stranded
   (ds)DNA in the cytosol triggers host responses via specific cytoplasmic pattern
@@ -31,8 +31,7 @@ filename: cshperspect-CYT-028423_F2.jpg
 figtitle: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
   gene induction by IFN regulatory factors (IRFs)
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -210,4 +209,7 @@ chemicals:
   source: MESH
   identifier: C411671
 diseases: []
+figid_alias: PMC6211389__F2
+redirect_from: /figures/PMC6211389__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7552614__bioengineering-07-00088-g010
 figlink: pmc/articles/PMC7552614/figure/bioengineering-07-00088-f010/
-number: Figure 10
+number: F10
 caption: Representation of the TGF-β, BMP, and WNT signaling pathways. The processes
   that lead to endMT through each pathway are displayed [].
 pmcid: PMC7552614
@@ -13,8 +13,7 @@ pathway_score: 0.963595
 filename: bioengineering-07-00088-g010.jpg
 figtitle: Representation of the TGFB, BMP, and WNT signaling pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -882,4 +881,7 @@ diseases:
 - word: ICD
   source: OMIM
   identifier: '252500'
+figid_alias: PMC7552614__F10
+redirect_from: /figures/PMC7552614__F10
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3426817__cshperspectmed-ANG-006650_F2
 figlink: /pmc/articles/PMC3426817/figure/A006650F2/
-number: Figure 2
+number: F2
 caption: Model of agonist and antagonist roles for Ang2 on Tie2 function. In quiescent,
   mature vessels, Ang1 promotes strong activation of the Tie2/PI3K/AKT pathway. Ang2
   expression is low because of AKT-mediated inhibition of the FOXO1 transcription
@@ -152,4 +152,7 @@ genes:
   entrez: '30849'
 chemicals: []
 diseases: []
+figid_alias: PMC3426817__F2
+redirect_from: /figures/PMC3426817__F2
+figtype: Figure
 ---

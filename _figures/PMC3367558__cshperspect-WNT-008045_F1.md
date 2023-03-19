@@ -1,7 +1,7 @@
 ---
 figid: PMC3367558__cshperspect-WNT-008045_F1
 figlink: /pmc/articles/PMC3367558/figure/A008045F1/
-number: Figure 1
+number: F1
 caption: Overview of Wnt signaling pathways. Wnts signal through Frizzled receptors
   that can form a complex with Lrp-5/6 receptors. With the exception of the FNI pathway,
   these signaling pathways activate the scaffolding protein Dishevelled (Dvl). The
@@ -446,4 +446,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3367558__F1
+redirect_from: /figures/PMC3367558__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6921056__microorganisms-07-00553-g004
 figlink: pmc/articles/PMC6921056/figure/microorganisms-07-00553-f004/
-number: Figure 4
+number: F4
 caption: Proposed model scheme. A schematic description of the novel ODE model with
   highlighted extending partitions. Each partition (i.e., module) represents a linearly
   independent part of a particular equation. Each module has a unique semantic function.
@@ -18,8 +18,7 @@ pathway_score: 0.5353817
 filename: microorganisms-07-00553-g004.jpg
 figtitle: Proposed model scheme
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ diseases:
 - word: toxicity
   source: MESH
   identifier: D064420
+figid_alias: PMC6921056__F4
+redirect_from: /figures/PMC6921056__F4
+figtype: Figure
 ---

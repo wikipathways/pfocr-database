@@ -1,7 +1,7 @@
 ---
 figid: PMC3579404__cshperspect-WNT-007955_F1
 figlink: /pmc/articles/PMC3579404/figure/A007955F1/
-number: Figure 1
+number: F1
 caption: Conserved Wnt pathway branches and components. In the absence of Wnt signals,
   glycogen synthase kinase 3 (GSK3) binds Axin and APC to form the β-catenin destruction
   complex. Some Wnt proteins, such as Wnt8 and Wnt3a, stimulate Frizzled and LRP5/6
@@ -382,4 +382,7 @@ genes:
   entrez: '1855'
 chemicals: []
 diseases: []
+figid_alias: PMC3579404__F1
+redirect_from: /figures/PMC3579404__F1
+figtype: Figure
 ---

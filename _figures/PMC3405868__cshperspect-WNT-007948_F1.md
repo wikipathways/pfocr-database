@@ -1,7 +1,7 @@
 ---
 figid: PMC3405868__cshperspect-WNT-007948_F1
 figlink: /pmc/articles/PMC3405868/figure/A007948F1/
-number: Figure 1
+number: F1
 caption: The conserved Wnt/β-catenin-dependent signaling pathway. Wnt-sending cells
   are shown above, Wnt-receiving cells below. (A) In the absence of signal, the destruction
   complex (including Axin, APC, GSK3β, and CK1α) phosphorylates β-catenin, targeting
@@ -302,4 +302,7 @@ genes:
   entrez: '80326'
 chemicals: []
 diseases: []
+figid_alias: PMC3405868__F1
+redirect_from: /figures/PMC3405868__F1
+figtype: Figure
 ---

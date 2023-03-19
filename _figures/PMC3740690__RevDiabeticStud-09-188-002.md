@@ -1,7 +1,7 @@
 ---
 figid: PMC3740690__RevDiabeticStud-09-188-002
 figlink: /pmc/articles/PMC3740690/figure/F1/
-number: Figure 1
+number: F1
 caption: Experimental evidence indicates that PTPN2 regulates apoptosis of pancreatic
   β-cells upon exposure to inflammatory cytokines by modulating phosphorylation of
   STAT1, which induces the mitochondrial apoptotic pathway. The T1D-associated variant
@@ -121,4 +121,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC3740690__F1
+redirect_from: /figures/PMC3740690__F1
+figtype: Figure
 ---

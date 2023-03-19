@@ -1,7 +1,7 @@
 ---
 figid: PMC7409131__microorganisms-08-00989-g003
 figlink: pmc/articles/PMC7409131/figure/microorganisms-08-00989-f003/
-number: Figure 3
+number: F3
 caption: Enteroviruses have demonstrated the capacity to escape host antiviral defense
   by affecting NK cell effector response through unclear mechanisms. It has also been
   suggested that defects in folate pathway and a genetic background can play a role
@@ -20,8 +20,7 @@ filename: microorganisms-08-00989-g003.jpg
 figtitle: Enteroviruses have demonstrated the capacity to escape host antiviral defense
   by affecting NK cell effector response through unclear mechanisms
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -160,4 +159,7 @@ diseases:
 - word: diabetes
   source: MESH
   identifier: D003920
+figid_alias: PMC7409131__F3
+redirect_from: /figures/PMC7409131__F3
+figtype: Figure
 ---

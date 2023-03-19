@@ -1,7 +1,7 @@
 ---
 figid: PMC5067143__DialoguesClinNeurosci-18-253-g002
 figlink: /pmc/articles/PMC5067143/figure/DialoguesClinNeurosci-18-253-g002/
-number: Figure 2
+number: F2
 caption: (Opposite and overleaf) Visualizing drug action. Illustration of the effect
   of afatinib on receptor tyrosine signaling (eg, EGFR) and major downstream pathways,
   such as the MAP kinase cascade and PI3K/AKT signaling. (A) Diagram of the model
@@ -127,4 +127,7 @@ genes:
   entrez: '5228'
 chemicals: []
 diseases: []
+figid_alias: PMC5067143__F2
+redirect_from: /figures/PMC5067143__F2
+figtype: Figure
 ---

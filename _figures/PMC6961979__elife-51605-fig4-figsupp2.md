@@ -1,7 +1,7 @@
 ---
 figid: PMC6961979__elife-51605-fig4-figsupp2
 figlink: pmc/articles/PMC6961979/figure/fig4s2/
-number: Figure 4—figure supplement 2
+number: SF4_2
 caption: Glycosylase UDG removes U and generates an AP site on U/G mismatch (only
   top strand is shown). For the APE1 pathway, APE1 hydrolyzes the deoxyribose-phosphate
   backbone and generates a 5’-deoxyribophosphate (5’dRP) and a 3’-hydroxyl (3’OH).
@@ -18,8 +18,7 @@ pathway_score: 0.7188438
 filename: elife-51605-fig4-figsupp2.jpg
 figtitle: Reaction mechanisms for the APE1 and NEIL2-PNKP pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ chemicals:
   source: MESH
   identifier: D010710
 diseases: []
+figid_alias: PMC6961979__SF4_2
+redirect_from: /figures/PMC6961979__SF4_2
+figtype: Supplemental figure
 ---

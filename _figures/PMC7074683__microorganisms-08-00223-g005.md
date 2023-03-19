@@ -1,7 +1,7 @@
 ---
 figid: PMC7074683__microorganisms-08-00223-g005
 figlink: pmc/articles/PMC7074683/figure/microorganisms-08-00223-f005/
-number: Figure 5
+number: F5
 caption: Metabolic pathway of cypermethrin degradation of strain SG4.
 pmcid: PMC7074683
 papertitle: Enhanced Cypermethrin Degradation Kinetics and Metabolic Pathway in Bacillus
@@ -12,8 +12,7 @@ pathway_score: 0.8514414
 filename: microorganisms-08-00223-g005.jpg
 figtitle: Metabolic pathway of cypermethrin degradation of strain SG4
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -83,4 +82,7 @@ chemicals:
   source: MESH
   identifier: D004952
 diseases: []
+figid_alias: PMC7074683__F5
+redirect_from: /figures/PMC7074683__F5
+figtype: Figure
 ---

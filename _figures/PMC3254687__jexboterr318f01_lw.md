@@ -1,7 +1,7 @@
 ---
 figid: PMC3254687__jexboterr318f01_lw
 figlink: /pmc/articles/PMC3254687/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Carotenoid metabolic pathway in citrus. GGPP, geranylgeranyl diphosphate.
   The expression of CitPSY, CitPDS, CitZDS, CitLCYb1, CitLCYb2, CitHYb, CitZEP, CitNCED2,
   and CitNCED3 was analysed by real-time PCR.
@@ -14,8 +14,7 @@ pathway_score: 0.8264555
 filename: jexboterr318f01_lw.jpg
 figtitle: Carotenoid metabolic pathway in citrus
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ chemicals:
   source: MESH
   identifier: D065366
 diseases: []
+figid_alias: PMC3254687__F1
+redirect_from: /figures/PMC3254687__F1
+figtype: Figure
 ---

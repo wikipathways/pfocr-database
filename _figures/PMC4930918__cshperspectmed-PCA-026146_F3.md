@@ -1,7 +1,7 @@
 ---
 figid: PMC4930918__cshperspectmed-PCA-026146_F3
 figlink: /pmc/articles/PMC4930918/figure/A026146F3/
-number: Figure 3
+number: F3
 caption: p53 directs lipid and amino acid metabolism during stress. In response to
   a shortage of lipids (orange arrows) or serine (blue arrows), p53 is activated by
   nutrient-sensing pathways including 5′-AMP-activated protein kinase (AMPK) and eIF2α.
@@ -181,4 +181,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC4930918__F3
+redirect_from: /figures/PMC4930918__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6565995__plantbiotechnology-34-3-17.0619a-figure02
 figlink: /pmc/articles/PMC6565995/figure/figure2/
-number: ''
+number: F2
 caption: .na.character
 pmcid: PMC6565995
 papertitle: Gene coexpression network for trans-1,4-polyisoprene biosynthesis involving
@@ -120,4 +120,7 @@ genes:
   entrez: '3157'
 chemicals: []
 diseases: []
+figid_alias: PMC6565995__F2
+redirect_from: /figures/PMC6565995__F2
+figtype: Figure
 ---

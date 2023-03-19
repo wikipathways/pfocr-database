@@ -1,7 +1,7 @@
 ---
 figid: PMC7385335__Beilstein_J_Org_Chem-16-1805-g014
 figlink: pmc/articles/PMC7385335/figure/C3/
-number: Scheme 3
+number: S3
 caption: Proposed mechanisms for the formation of oxazolidinone 9f.
 pmcid: PMC7385335
 papertitle: 'One-pot synthesis of oxazolidinones and five-membered cyclic carbonates
@@ -13,8 +13,7 @@ pathway_score: 0.7478721
 filename: Beilstein_J_Org_Chem-16-1805-g014.jpg
 figtitle: Proposed mechanisms for the formation of oxazolidinone 9f
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ chemicals:
   source: MESH
   identifier: C108856
 diseases: []
+figid_alias: PMC7385335__S3
+redirect_from: /figures/PMC7385335__S3
+figtype: Scheme
 ---

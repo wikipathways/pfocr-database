@@ -1,7 +1,7 @@
 ---
 figid: PMC7938660__pharmrev.120.000149f2
 figlink: pmc/articles/PMC7938660/figure/F2/
-number: Fig. 2
+number: F2
 caption: Putative synaptic mechanisms of (2R,6R)- and (2S,6S)-hydroxynorketamine.
   (2R,6R)- HNK acts on the presynaptic terminal to increase glutamate release, possibly
   via signaling mechanisms convergent with mGlu2, whereby (2R,6R)-HNK disinhibits
@@ -25,8 +25,7 @@ pathway_score: 0.9430993
 filename: pharmrev.120.000149f2.jpg
 figtitle: Putative synaptic mechanisms of (2R,6R)- and (2S,6S)-hydroxynorketamine
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -212,4 +211,7 @@ genes:
   entrez: '1938'
 chemicals: []
 diseases: []
+figid_alias: PMC7938660__F2
+redirect_from: /figures/PMC7938660__F2
+figtype: Figure
 ---

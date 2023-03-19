@@ -1,7 +1,7 @@
 ---
 figid: PMC6944396__AnnalsATS.201808-585MG_f1
 figlink: /pmc/articles/PMC6944396/figure/fig1/
-number: Figure 1
+number: F1
 caption: Schematic of the proposed pathways whereby mitochondrial dysfunction impacts
   chronic obstructive pulmonary disease pathogenesis. Exposure to cigarette smoke
   causes mitochondrial dysfunction, including elevated mitochondrial reactive oxygen
@@ -26,8 +26,7 @@ filename: AnnalsATS.201808-585MG_f1.jpg
 figtitle: Schematic of the proposed pathways whereby mitochondrial dysfunction impacts
   chronic obstructive pulmonary disease pathogenesis
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ diseases:
 - word: Emphysema
   source: MESH
   identifier: D004646
+figid_alias: PMC6944396__F1
+redirect_from: /figures/PMC6944396__F1
+figtype: Figure
 ---

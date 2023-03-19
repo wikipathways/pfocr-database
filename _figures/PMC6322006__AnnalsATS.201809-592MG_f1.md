@@ -1,7 +1,7 @@
 ---
 figid: PMC6322006__AnnalsATS.201809-592MG_f1
 figlink: /pmc/articles/PMC6322006/figure/fig1/
-number: Figure 1
+number: F1
 caption: '(A) Schematic of sphingolipid metabolism. Highlighted are the enzymes responsible
   for the steady- or conditional-state levels of S1P: SphK1, or SphK2, SPL, and SPP.
   SphK1 and SPL also catabolize DH-sphingosine produced in the de novo pathway of
@@ -25,8 +25,7 @@ pathway_score: 0.9495926
 filename: AnnalsATS.201809-592MG_f1.jpg
 figtitle: Schematic of sphingolipid metabolism
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -144,4 +143,7 @@ diseases:
 - word: Emphysema
   source: MESH
   identifier: D004646
+figid_alias: PMC6322006__F1
+redirect_from: /figures/PMC6322006__F1
+figtype: Figure
 ---

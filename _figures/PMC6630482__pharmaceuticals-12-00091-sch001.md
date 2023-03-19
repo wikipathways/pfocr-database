@@ -1,7 +1,7 @@
 ---
 figid: PMC6630482__pharmaceuticals-12-00091-sch001
 figlink: /pmc/articles/PMC6630482/figure/pharmaceuticals-12-00091-sch001/
-number: Scheme 1
+number: S1
 caption: Synthetic pathway of compounds 4.
 pmcid: PMC6630482
 papertitle: Synthesis and Study of New Quinolineaminoethanols as Anti-Bacterial Drugs.
@@ -11,8 +11,7 @@ pathway_score: 0.887378
 filename: pharmaceuticals-12-00091-sch001.jpg
 figtitle: Synthetic pathway of compounds 4
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -58,4 +57,7 @@ diseases:
 - word: DCM
   source: MESH
   identifier: D002311
+figid_alias: PMC6630482__S1
+redirect_from: /figures/PMC6630482__S1
+figtype: Scheme
 ---

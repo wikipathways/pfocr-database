@@ -1,7 +1,7 @@
 ---
 figid: PMC3839599__cshperspectmed-SKN-017772_F3
 figlink: /pmc/articles/PMC3839599/figure/A017772F3/
-number: Figure 3
+number: F3
 caption: Molecular mechanisms of Notch-mediated epidermal homeostasis. A schematic
   diagram depicting the intersecting pathways and downstream effectors during Notch-induced
   differentiation. Notch expression and/or signaling in epidermal keratinocytes are
@@ -177,4 +177,7 @@ genes:
   entrez: '388585'
 chemicals: []
 diseases: []
+figid_alias: PMC3839599__F3
+redirect_from: /figures/PMC3839599__F3
+figtype: Figure
 ---

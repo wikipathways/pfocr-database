@@ -1,7 +1,7 @@
 ---
 figid: PMC3181925__DialoguesClinNeurosci-11-319-g001
 figlink: /pmc/articles/PMC3181925/figure/DialoguesClinNeurosci-11-319-g001/
-number: Figure 1
+number: F1
 caption: Neuroimmune interactions of kynurenine intermediates. Metabolism of tryptophan
   via the kynurenine pathway leads to several neuroactive intermediates; kynurenic
   acid (synthesised by kynurenine aminotransferase, KAT) has neuroprotective properties
@@ -126,4 +126,7 @@ chemicals:
   source: MESH
   identifier: D017378
 diseases: []
+figid_alias: PMC3181925__F1
+redirect_from: /figures/PMC3181925__F1
+figtype: Figure
 ---

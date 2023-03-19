@@ -1,7 +1,7 @@
 ---
 figid: PMC7589301__pharmaceuticals-13-00326-g001
 figlink: pmc/articles/PMC7589301/figure/pharmaceuticals-13-00326-f001/
-number: Figure 1
+number: F1
 caption: A model of the possible molecular mechanism of amantadine’s antidepressant
   effects at the level of dopaminergic and glutamatergic transmission. Amantadine
   indirectly increases the dopamine level within the synaptic cleft due to inhibition
@@ -39,8 +39,7 @@ filename: pharmaceuticals-13-00326-g001.jpg
 figtitle: The possible molecular mechanism of amantadine’s antidepressant effects
   at the level of dopaminergic and glutamatergic transmission
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -490,4 +489,7 @@ chemicals:
   source: MESH
   identifier: D000255
 diseases: []
+figid_alias: PMC7589301__F1
+redirect_from: /figures/PMC7589301__F1
+figtype: Figure
 ---

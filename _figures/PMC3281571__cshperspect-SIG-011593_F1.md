@@ -1,7 +1,7 @@
 ---
 figid: PMC3281571__cshperspect-SIG-011593_F1
 figlink: /pmc/articles/PMC3281571/figure/A011593F1/
-number: Figure 1
+number: F1
 caption: A simplified view of the mTOR pathway. (Adapted from .)
 pmcid: PMC3281571
 papertitle: mTOR Signaling.
@@ -223,4 +223,7 @@ chemicals:
   source: MESH
   identifier: D020123
 diseases: []
+figid_alias: PMC3281571__F1
+redirect_from: /figures/PMC3281571__F1
+figtype: Figure
 ---

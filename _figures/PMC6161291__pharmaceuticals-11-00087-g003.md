@@ -1,7 +1,7 @@
 ---
 figid: PMC6161291__pharmaceuticals-11-00087-g003
 figlink: /pmc/articles/PMC6161291/figure/pharmaceuticals-11-00087-f003/
-number: Figure 3
+number: F3
 caption: 'The “heme-mitochondria” relationship and the putative heme-related targets
   for the therapy of neurodegenerative disorders. Heme and mitochondria share a strong
   relationship based on several elements: heme synthesis occurs partly in the mitochondrion
@@ -23,8 +23,7 @@ filename: pharmaceuticals-11-00087-g003.jpg
 figtitle: The “heme-mitochondria” relationship and the putative heme-related targets
   for the therapy of neurodegenerative disorders
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -73,4 +72,7 @@ chemicals:
   source: MESH
   identifier: D002118
 diseases: []
+figid_alias: PMC6161291__F3
+redirect_from: /figures/PMC6161291__F3
+figtype: Figure
 ---

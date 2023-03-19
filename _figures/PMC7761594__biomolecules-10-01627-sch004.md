@@ -1,7 +1,7 @@
 ---
 figid: PMC7761594__biomolecules-10-01627-sch004
 figlink: pmc/articles/PMC7761594/figure/biomolecules-10-01627-sch004/
-number: Scheme 4
+number: S4
 caption: Multistep synthesis pathway leading to the formation of wyosine (imG) and
   methylwyosine (mimG) via 3-methylguanosine intermediate.
 pmcid: PMC7761594
@@ -14,8 +14,7 @@ filename: biomolecules-10-01627-sch004.jpg
 figtitle: Multistep synthesis pathway leading to the formation of wyosine (imG) and
   methylwyosine (mimG) via 3-methylguanosine intermediate
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -143,4 +142,7 @@ diseases:
 - word: CHC
   source: MESH
   identifier: D019698
+figid_alias: PMC7761594__S4
+redirect_from: /figures/PMC7761594__S4
+figtype: Scheme
 ---

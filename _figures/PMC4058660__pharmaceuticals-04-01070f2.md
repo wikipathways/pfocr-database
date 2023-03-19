@@ -1,7 +1,7 @@
 ---
 figid: PMC4058660__pharmaceuticals-04-01070f2
 figlink: /pmc/articles/PMC4058660/figure/f2-pharmaceuticals-04-01070/
-number: Figure 2
+number: F2
 caption: PI3K signaling in neural aging and disease.
 pmcid: PMC4058660
 papertitle: The Phosphatidylinositol 3-Kinase/mTor Pathway as a Therapeutic Target
@@ -218,4 +218,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4058660__F2
+redirect_from: /figures/PMC4058660__F2
+figtype: Figure
 ---

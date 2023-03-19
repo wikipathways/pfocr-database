@@ -1,7 +1,7 @@
 ---
 figid: PMC6631691__pharmaceuticals-12-00086-sch003
 figlink: /pmc/articles/PMC6631691/figure/pharmaceuticals-12-00086-sch003/
-number: Scheme 3
+number: S3
 caption: 'Methods for the synthesis of oligopeptidyl diaryl phosponates: the approach
   based on the three-component Birum–Oleksyszyn condensation followed by one-step
   incorporation of a peptide fragment (pathway a), an alternative version with the
@@ -16,8 +16,7 @@ filename: pharmaceuticals-12-00086-sch003.jpg
 figtitle: Recent Developments in Peptidyl Diaryl Phoshonates as Inhibitors and Activity-Based
   Probes for Serine Proteases
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -74,4 +73,7 @@ chemicals:
   source: MESH
   identifier: D000641
 diseases: []
+figid_alias: PMC6631691__S3
+redirect_from: /figures/PMC6631691__S3
+figtype: Scheme
 ---

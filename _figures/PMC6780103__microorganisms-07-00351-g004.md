@@ -1,7 +1,7 @@
 ---
 figid: PMC6780103__microorganisms-07-00351-g004
 figlink: /pmc/articles/PMC6780103/figure/microorganisms-07-00351-f004/
-number: Figure 4
+number: F4
 caption: Overview of human adenovirus induced cell signaling and downstream immune
   responses in human keratocytes, highlighting the centrality of Src kinase. Following
   engagement with the primary receptor (CD46 or GD1α) by the viral fiber protein and
@@ -208,4 +208,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC6780103__F4
+redirect_from: /figures/PMC6780103__F4
+figtype: Figure
 ---

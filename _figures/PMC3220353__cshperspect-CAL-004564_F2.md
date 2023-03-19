@@ -1,7 +1,7 @@
 ---
 figid: PMC3220353__cshperspect-CAL-004564_F2
 figlink: /pmc/articles/PMC3220353/figure/A004564F2/
-number: Figure 2
+number: F2
 caption: Activity-dependent gene expression in neurons is regulated by distinct calcium
   signaling pathways. Distinct activity-dependent genomic responses may be explained
   by the differential activation of regulatory signaling cascades and transcription
@@ -242,4 +242,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3220353__F2
+redirect_from: /figures/PMC3220353__F2
+figtype: Figure
 ---

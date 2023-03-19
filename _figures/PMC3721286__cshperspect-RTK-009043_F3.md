@@ -1,7 +1,7 @@
 ---
 figid: PMC3721286__cshperspect-RTK-009043_F3
 figlink: /pmc/articles/PMC3721286/figure/A009043F3/
-number: Figure 3
+number: F3
 caption: Simplified scheme presenting multiple feedback loops in the EGFR pathway.
   Upon EGFR ligation and activation, protein complexes nucleated by scaffolds are
   formed at the plasma membrane. Activated Ras induces activation of the Raf-MEK-ERK
@@ -265,4 +265,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3721286__F3
+redirect_from: /figures/PMC3721286__F3
+figtype: Figure
 ---

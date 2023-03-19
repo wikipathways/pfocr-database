@@ -1,7 +1,7 @@
 ---
 figid: PMC5749156__cshperspect-JCT-029314_F4
 figlink: /pmc/articles/PMC5749156/figure/A029314F4/
-number: Figure 4
+number: F4
 caption: Molecular mechanisms of leak and pore pathway regulation. (A) Tight junction
   complex remodeling at steady-state and in response to tumor necrosis factor (TNF).
   Dashed black lines indicate energy-independent diffusion of claudins (green, blue)
@@ -27,8 +27,7 @@ pathway_score: 0.9268742
 filename: cshperspect-JCT-029314_F4.jpg
 figtitle: Molecular mechanisms of leak and pore pathway regulation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -90,4 +89,7 @@ chemicals:
   source: MESH
   identifier: D012964
 diseases: []
+figid_alias: PMC5749156__F4
+redirect_from: /figures/PMC5749156__F4
+figtype: Figure
 ---

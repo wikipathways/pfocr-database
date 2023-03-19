@@ -1,7 +1,7 @@
 ---
 figid: PMC3384069__carcinbgr305f01_4c
 figlink: /pmc/articles/PMC3384069/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Wnt/β-catenin signaling pathway.
 pmcid: PMC3384069
 papertitle: Modulation of Wnt/β-catenin signaling pathway by bioactive food components.
@@ -261,4 +261,7 @@ chemicals:
   source: MESH
   identifier: D019833
 diseases: []
+figid_alias: PMC3384069__F1
+redirect_from: /figures/PMC3384069__F1
+figtype: Figure
 ---

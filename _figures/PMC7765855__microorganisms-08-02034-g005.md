@@ -1,7 +1,7 @@
 ---
 figid: PMC7765855__microorganisms-08-02034-g005
 figlink: pmc/articles/PMC7765855/figure/microorganisms-08-02034-f005/
-number: Figure 5
+number: F5
 caption: Origin of SEK90.
 pmcid: PMC7765855
 papertitle: Targeted Genome Mining—From Compound Discovery to Biosynthetic Pathway
@@ -12,8 +12,7 @@ pathway_score: 0.8806439
 filename: microorganisms-08-02034-g005.jpg
 figtitle: Origin of SEK90
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -43,4 +42,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7765855__F5
+redirect_from: /figures/PMC7765855__F5
+figtype: Figure
 ---

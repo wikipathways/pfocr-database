@@ -1,7 +1,7 @@
 ---
 figid: PMC7061297__figure3
 figlink: pmc/articles/PMC7061297/figure/f3/
-number: <b>FIG. 3.</b>
+number: F3
 caption: Hypoxia alters PASMC energy metabolism. Hypoxia increases glucose uptake
   and promotes glycolysis and the pentose phosphate pathway in the cytoplasm, yielding
   excess NADH and NADPH. This metabolic shift comes at the expense of oxidative phosphorylation
@@ -21,8 +21,7 @@ pathway_score: 0.9686835
 filename: figure3.jpg
 figtitle: Redox Regulation of Ion Channels and Receptors in Pulmonary Hypertension
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -136,4 +135,7 @@ chemicals:
   source: MESH
   identifier: D000105
 diseases: []
+figid_alias: PMC7061297__F3
+redirect_from: /figures/PMC7061297__F3
+figtype: Figure
 ---

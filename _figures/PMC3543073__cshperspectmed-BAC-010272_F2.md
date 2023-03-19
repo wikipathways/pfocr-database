@@ -1,7 +1,7 @@
 ---
 figid: PMC3543073__cshperspectmed-BAC-010272_F2
 figlink: /pmc/articles/PMC3543073/figure/A010272F2/
-number: Figure 2
+number: F2
 caption: Three examples of chromatin-modifying complexes and their mode of action.
   (A) The nucleosome remodeling and histone deacetylase NuRD (or Mi-2) complex contains
   different subunits involved in nucleosome remodeling (CHD3/CHD4), histone deacetylation
@@ -202,4 +202,7 @@ genes:
   entrez: '8932'
 chemicals: []
 diseases: []
+figid_alias: PMC3543073__F2
+redirect_from: /figures/PMC3543073__F2
+figtype: Figure
 ---

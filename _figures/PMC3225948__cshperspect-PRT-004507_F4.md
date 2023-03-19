@@ -1,7 +1,7 @@
 ---
 figid: PMC3225948__cshperspect-PRT-004507_F4
 figlink: /pmc/articles/PMC3225948/figure/A004507F4/
-number: Figure 4
+number: F4
 caption: The mammalian heat shock response stress responsive signaling pathway matches
   proteostasis network capacity with demand in the cytosol. The heat shock response
   is turned on by Hsp90 being recruited away from the transcription factor HSF1 to
@@ -129,4 +129,7 @@ genes:
   entrez: '109'
 chemicals: []
 diseases: []
+figid_alias: PMC3225948__F4
+redirect_from: /figures/PMC3225948__F4
+figtype: Figure
 ---

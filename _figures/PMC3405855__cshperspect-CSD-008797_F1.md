@@ -1,7 +1,7 @@
 ---
 figid: PMC3405855__cshperspect-CSD-008797_F1
 figlink: /pmc/articles/PMC3405855/figure/A008797F1/
-number: Figure 1
+number: F1
 caption: The apoptosis pathway in Drosophila. In living cells, the Caspase-9-like
   initiator caspase Dronc is inhibited by Drosophila inhibitor of apoptosis protein
   1 (Diap1). Apoptosis is induced by activation of the IAP-antagonists Reaper, Hid,
@@ -133,4 +133,7 @@ genes:
   entrez: '836'
 chemicals: []
 diseases: []
+figid_alias: PMC3405855__F1
+redirect_from: /figures/PMC3405855__F1
+figtype: Figure
 ---

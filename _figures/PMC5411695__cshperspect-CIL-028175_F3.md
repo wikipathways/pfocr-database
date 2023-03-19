@@ -1,7 +1,7 @@
 ---
 figid: PMC5411695__cshperspect-CIL-028175_F3
 figlink: /pmc/articles/PMC5411695/figure/A028175F3/
-number: Figure 3
+number: F3
 caption: Hedgehog (Hh) signal transduction in the primary cilium. The primary cilium
   has several spatially distinct regions that promote normal Hh signal transduction.
   Entry into the cilium is gated at the transition zone; the EVC zone facilitates
@@ -250,4 +250,7 @@ genes:
   entrez: '8945'
 chemicals: []
 diseases: []
+figid_alias: PMC5411695__F3
+redirect_from: /figures/PMC5411695__F3
+figtype: Figure
 ---

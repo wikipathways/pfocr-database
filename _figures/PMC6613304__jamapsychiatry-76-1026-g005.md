@@ -1,7 +1,7 @@
 ---
 figid: PMC6613304__jamapsychiatry-76-1026-g005
 figlink: pmc/articles/PMC6613304/figure/yoi190035f5/
-number: Figure 5.
+number: F5
 caption: Nicotinic acid mononucleotide (NAMN) levels are maintained by 3 independent
   pathways (see light blue arrows). First, the Preiss-Handler pathway uses dietary
   nicotinic acid (NA) and the enzyme nicotinic acid phosphoribosyltransferase (NAPRT1)
@@ -31,8 +31,7 @@ pathway_score: 0.9011813
 filename: jamapsychiatry-76-1026-g005.jpg
 figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -199,4 +198,7 @@ chemicals:
   source: MESH
   identifier: C085455
 diseases: []
+figid_alias: PMC6613304__F5
+redirect_from: /figures/PMC6613304__F5
+figtype: Figure
 ---

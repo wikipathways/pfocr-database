@@ -1,7 +1,7 @@
 ---
 figid: PMC4930925__cshperspect-STH-023895_F3
 figlink: /pmc/articles/PMC4930925/figure/A023895F3/
-number: Figure 3
+number: F3
 caption: Engineered gene circuits. (A) The three ligand-responsive, transcriptional
   gene-control systems based on the transcriptional regulators TetR, ET1, and VanA4
   are combined with two posttranscriptional gene switches that use C/D RNA motif-L7Ae
@@ -25,8 +25,7 @@ pathway_score: 0.79133
 filename: cshperspect-STH-023895_F3.jpg
 figtitle: Engineered gene circuits
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -95,4 +94,7 @@ genes:
   entrez: '8477'
 chemicals: []
 diseases: []
+figid_alias: PMC4930925__F3
+redirect_from: /figures/PMC4930925__F3
+figtype: Figure
 ---

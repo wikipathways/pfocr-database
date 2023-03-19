@@ -1,7 +1,7 @@
 ---
 figid: PMC3817534__Beilstein_J_Org_Chem-09-2048-g022
 figlink: /pmc/articles/PMC3817534/figure/C11/
-number: Scheme 11
+number: S11
 caption: Proposed biosynthetic pathway to chilenine (93).
 pmcid: PMC3817534
 papertitle: The chemistry of isoindole natural products.
@@ -11,8 +11,7 @@ pathway_score: 0.9073311
 filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
 figtitle: Proposed biosynthetic pathway to chilenine (93)
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -54,4 +53,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC3817534__S11
+redirect_from: /figures/PMC3817534__S11
+figtype: Scheme
 ---

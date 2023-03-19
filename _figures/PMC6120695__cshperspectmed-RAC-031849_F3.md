@@ -1,7 +1,7 @@
 ---
 figid: PMC6120695__cshperspectmed-RAC-031849_F3
 figlink: pmc/articles/PMC6120695/figure/A031849F3/
-number: Figure 3
+number: F3
 caption: Cooperation of Kras-mutant tumor cells with pancreatic stellate cells in
   tumor microenvironment (TME) immunomodulation. Kras-mutant tumor-cell-derived transforming
   growth factor β (TGF-β) induces the activation of pancreatic stellate cells (PSCs)
@@ -28,8 +28,7 @@ filename: cshperspectmed-RAC-031849_F3.jpg
 figtitle: Cooperation of Kras-mutant tumor cells with pancreatic stellate cells in
   tumor microenvironment (TME) immunomodulation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -389,4 +388,7 @@ genes:
   entrez: '926'
 chemicals: []
 diseases: []
+figid_alias: PMC6120695__F3
+redirect_from: /figures/PMC6120695__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC8068835__microorganisms-09-00790-g011
 figlink: pmc/articles/PMC8068835/figure/microorganisms-09-00790-f011/
-number: Figure 11
+number: F11
 caption: 'Summarized interconnection between PC synthesis, trans-sulfuration pathway,
   folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis. In
   antimony resistant parasites a decrease in PC biosynthesis and/or the activation
@@ -32,8 +32,7 @@ filename: microorganisms-09-00790-g011.jpg
 figtitle: Summarized interconnection between PC synthesis, trans-sulfuration pathway,
   folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -271,4 +270,7 @@ diseases:
 - word: GS
   source: MESH
   identifier: D011125
+figid_alias: PMC8068835__F11
+redirect_from: /figures/PMC8068835__F11
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7934800__Beilstein_J_Org_Chem-17-558-g011
 figlink: pmc/articles/PMC7934800/figure/C3/
-number: Scheme 3
+number: S3
 caption: The proposal of the fragmentation pathway of the Cu(II) complex with compound
   7.
 pmcid: PMC7934800
@@ -14,8 +14,7 @@ filename: Beilstein_J_Org_Chem-17-558-g011.jpg
 figtitle: Proposal of the fragmentation pathway of the Cu(II) complex with compound
   7
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC7934800__S3
+redirect_from: /figures/PMC7934800__S3
+figtype: Scheme
 ---

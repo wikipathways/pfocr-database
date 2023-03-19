@@ -1,7 +1,7 @@
 ---
 figid: PMC5065109__cpath-suppl.1-2016-009f2
 figlink: /pmc/articles/PMC5065109/figure/f2-cpath-suppl.1-2016-009/
-number: Figure 2
+number: F2
 caption: 'Current hypotheses for IFNγ-mediated effect on NSPC activity.Notes: IFNγ
   binds to the IFNγ receptor (IFNGR1 and 2) and activates Janus-activated kinases
   1 and 2 and signal transducers and activators of transcription-1 (JAK-STAT1) pathway.
@@ -309,4 +309,7 @@ genes:
   entrez: '5594'
 chemicals: []
 diseases: []
+figid_alias: PMC5065109__F2
+redirect_from: /figures/PMC5065109__F2
+figtype: Figure
 ---

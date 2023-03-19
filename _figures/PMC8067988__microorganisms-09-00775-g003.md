@@ -1,7 +1,7 @@
 ---
 figid: PMC8067988__microorganisms-09-00775-g003
 figlink: pmc/articles/PMC8067988/figure/microorganisms-09-00775-f003/
-number: Figure 3
+number: F3
 caption: Antiviral innate immunity, interactions with viral suppressors and bacterial
   PTI (1). Under normal, resting conditions, NSP-interacting kinase 1 (NIK1) is bound
   to the flagellin receptor FLS2 (Flagellin-sensitive 2) and coreceptor BAK1 (Brassinosteroid
@@ -44,8 +44,7 @@ filename: microorganisms-09-00775-g003.jpg
 figtitle: Antiviral innate immunity, interactions with viral suppressors and bacterial
   PTI (1)
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -198,4 +197,7 @@ genes:
   entrez: '717'
 chemicals: []
 diseases: []
+figid_alias: PMC8067988__F3
+redirect_from: /figures/PMC8067988__F3
+figtype: Figure
 ---

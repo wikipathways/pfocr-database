@@ -1,7 +1,7 @@
 ---
 figid: PMC3367558__cshperspect-WNT-008045_F3
 figlink: /pmc/articles/PMC3367558/figure/A008045F3/
-number: Figure 3
+number: F3
 caption: Negative regulation of AChR clustering by Wnt3a. Muscle Wnt3a initiates a
   Wnt signaling pathway in the muscle that leads to decreased Rapsyn levels. This
   is achieved through the β-catenin-mediated negative regulation of rapsyn gene expression,
@@ -16,8 +16,7 @@ pathway_score: 0.9646063
 filename: cshperspect-WNT-008045_F3.jpg
 figtitle: Negative regulation of AChR clustering by Wnt3a
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -82,4 +81,7 @@ genes:
   entrez: '1855'
 chemicals: []
 diseases: []
+figid_alias: PMC3367558__F3
+redirect_from: /figures/PMC3367558__F3
+figtype: Figure
 ---

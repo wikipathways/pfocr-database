@@ -1,7 +1,7 @@
 ---
 figid: PMC3405863__cshperspect-SIG-005975_F1
 figlink: /pmc/articles/PMC3405863/figure/A005975F1/
-number: Figure 1
+number: F1
 caption: Patterning of the early Drosophila embryo. (A) Anterior–posterior patterning
   and segmentation of the embryo is initiated by maternally deposited gene products
   that regulate the expression of gap genes. Gap genes in turn control the expression
@@ -28,8 +28,7 @@ pathway_score: 0.9251928
 filename: cshperspect-SIG-005975_F1.jpg
 figtitle: Patterning of the early Drosophila embryo
 year: '2012'
-organisms:
-- Drosophila melanogaster
+organisms: Drosophila melanogaster
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -202,4 +201,7 @@ genes:
   entrez: '5609'
 chemicals: []
 diseases: []
+figid_alias: PMC3405863__F1
+redirect_from: /figures/PMC3405863__F1
+figtype: Figure
 ---

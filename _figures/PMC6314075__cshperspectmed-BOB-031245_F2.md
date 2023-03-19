@@ -1,7 +1,7 @@
 ---
 figid: PMC6314075__cshperspectmed-BOB-031245_F2
 figlink: pmc/articles/PMC6314075/figure/PIMBOBA031245F2/
-number: Figure 2
+number: F2
 caption: The nuclear factor of activated T cell (NFAT)c1-centered osteoclastogenic
   signaling network. Receptor activator of nuclear factor (NF)-κB ligand (RANKL) binds
   to RANK on osteoclast precursor cells, leading to activating signaling pathways
@@ -20,8 +20,7 @@ filename: cshperspectmed-BOB-031245_F2.jpg
 figtitle: Nuclear factor of activated T cell (NFAT)c1-centered osteoclastogenic signaling
   network
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -385,4 +384,7 @@ chemicals:
   source: MESH
   identifier: D002118
 diseases: []
+figid_alias: PMC6314075__F2
+redirect_from: /figures/PMC6314075__F2
+figtype: Figure
 ---

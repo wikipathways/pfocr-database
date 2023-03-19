@@ -1,7 +1,7 @@
 ---
 figid: PMC406390__pbio.0020128.g006
 figlink: /pmc/articles/PMC406390/figure/pbio-0020128-g006/
-number: Figure 6
+number: F6
 caption: Diagram of information flow in glucose signal of transcription as deduced
   from global analysis of expression of genes in the strains used in this study. The
   number of genes regulated by each branch of the pathway, the nature of the regulation
@@ -17,8 +17,7 @@ filename: pbio.0020128.g006.jpg
 figtitle: Ras and Gpa2 Mediate One Branch of a Redundant Glucose Signaling Pathway
   in Yeast
 year: '2004'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -106,4 +105,7 @@ chemicals:
   source: MESH
   identifier: D014451
 diseases: []
+figid_alias: PMC406390__F6
+redirect_from: /figures/PMC406390__F6
+figtype: Figure
 ---

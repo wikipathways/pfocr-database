@@ -1,7 +1,7 @@
 ---
 figid: PMC7466637__nanomaterials-10-01527-sch015a
 figlink: .na.character
-number: ''
+number: F15a
 caption: (a) Synthetic pathway for the preparation of hydrogels with non-fouling and
   controlled drug release properties based on a graft copolymer derivative of HA.
   (b) Synthetic pathway for the preparation of hydrogels with non-fouling and controlled
@@ -18,8 +18,7 @@ figtitle: 'Recent Advances in Surface Nanoengineering for Biofilm Prevention and
   Part II: Active, Combined Active and Passive, and Smart Bacteria-Responsive Antibiofilm
   Nanocoatings'
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -200,4 +199,7 @@ chemicals:
   source: MESH
   identifier: C539780
 diseases: []
+figid_alias: PMC7466637__F15a
+redirect_from: /figures/PMC7466637__F15a
+figtype: Figure
 ---

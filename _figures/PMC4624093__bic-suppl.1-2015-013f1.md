@@ -1,7 +1,7 @@
 ---
 figid: PMC4624093__bic-suppl.1-2015-013f1
 figlink: /pmc/articles/PMC4624093/figure/f1-bic-suppl.1-2015-013/
-number: Figure 1
+number: F1
 caption: 'A schematic of the angiogenesis pathway, angiogenesis inhibitors, and the
   most promising biomarker techniques.Notes: A: Aflibercept; B: bevacizumab.Abbreviations:
   CTCs, circulating tumor cells; ctDNA, circulating tumor DNA; ctRNA, circulating
@@ -603,4 +603,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4624093__F1
+redirect_from: /figures/PMC4624093__F1
+figtype: Figure
 ---

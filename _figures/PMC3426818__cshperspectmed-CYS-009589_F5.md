@@ -1,7 +1,7 @@
 ---
 figid: PMC3426818__cshperspectmed-CYS-009589_F5
 figlink: /pmc/articles/PMC3426818/figure/A009589F5/
-number: Figure 5
+number: F5
 caption: MUC5B gene expression is transcriptionally regulated by various mediators
   and pathways. (Red) IL1β and IL17A induce MUC5B gene expression by activation of
   the NFκB cis-site at −2921/−2909 bp in the MUC5B promoter. Direct binding of the
@@ -247,4 +247,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3426818__F5
+redirect_from: /figures/PMC3426818__F5
+figtype: Figure
 ---

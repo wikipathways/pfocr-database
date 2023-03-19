@@ -1,7 +1,7 @@
 ---
 figid: PMC8108589__painreports-6-e898-g003
 figlink: pmc/articles/PMC8108589/figure/F3/
-number: Figure 3
+number: F3
 caption: LRP-1 modulates neurodegeneration and neuroregeneration. The inflammatory
   mediator TNFα can bind to TNFR and activates TRADD–FADD interaction to induce a
   cascade of proteases (caspase 8 and 10) that lead to apoptosis. TNFR can also activate
@@ -30,8 +30,7 @@ pathway_score: 0.9713984
 filename: painreports-6-e898-g003.jpg
 figtitle: LRP-1 modulates neurodegeneration and neuroregeneration
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -265,4 +264,7 @@ genes:
   entrez: '3569'
 chemicals: []
 diseases: []
+figid_alias: PMC8108589__F3
+redirect_from: /figures/PMC8108589__F3
+figtype: Figure
 ---

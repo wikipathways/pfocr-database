@@ -1,7 +1,7 @@
 ---
 figid: PMC6439804__jamafacialplastsurg-21-110-g001
 figlink: /pmc/articles/PMC6439804/figure/qoi180034f1/
-number: Figure 1.
+number: F1
 caption: Hedgehog signaling encourages pluripotent mesenchymal stem cells to differentiate
   into osteoblasts while suppressing adipogenesis. Gli1, Gli2, and Gli3 indicate glioma-associated
   oncogene protein 1, 2, and 3; MSC, mesenchymal stem cells; PTCH, patched receptor;
@@ -15,8 +15,7 @@ pathway_score: 0.936384
 filename: jamafacialplastsurg-21-110-g001.jpg
 figtitle: Hedgehog-Induced Osteogenesis
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ chemicals:
   source: MESH
   identifier: C498566
 diseases: []
+figid_alias: PMC6439804__F1
+redirect_from: /figures/PMC6439804__F1
+figtype: Figure
 ---

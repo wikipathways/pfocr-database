@@ -1,7 +1,7 @@
 ---
 figid: PMC7913781__microorganisms-09-00312-g001
 figlink: pmc/articles/PMC7913781/figure/microorganisms-09-00312-f001/
-number: Figure 1
+number: F1
 caption: 'Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
   polymorpha. The black and blue arrows indicate the endogenous glycolysis and HA
   precursor pathways, respectively. The green arrows indicate the exogenous pathway
@@ -39,8 +39,7 @@ filename: microorganisms-09-00312-g001.jpg
 figtitle: Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
   polymorpha
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -243,4 +242,7 @@ diseases:
 - word: "Glucose-6P \x1F Glucose-1P"
   source: MESH
   identifier: D018149
+figid_alias: PMC7913781__F1
+redirect_from: /figures/PMC7913781__F1
+figtype: Figure
 ---

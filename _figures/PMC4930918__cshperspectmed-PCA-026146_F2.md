@@ -1,7 +1,7 @@
 ---
 figid: PMC4930918__cshperspectmed-PCA-026146_F2
 figlink: /pmc/articles/PMC4930918/figure/A026146F2/
-number: Figure 2
+number: F2
 caption: p53 regulates carbohydrate metabolism during glucose starvation. During glucose
   starvation, p53 acts to promote mitochondrial respiration (blue arrows) through
   numerous mechanisms including enhanced pyruvate flux into the tricarboxylic acid
@@ -278,4 +278,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC4930918__F2
+redirect_from: /figures/PMC4930918__F2
+figtype: Figure
 ---

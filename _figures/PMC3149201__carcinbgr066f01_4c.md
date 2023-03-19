@@ -1,7 +1,7 @@
 ---
 figid: PMC3149201__carcinbgr066f01_4c
 figlink: /pmc/articles/PMC3149201/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Inhibition of the KAI1 cancer metastasis suppressor pathway in African-American
   patients. KAI1 on tumor cells was shown to interact with DARC on the vascular endothelium,
   leading to metastasis suppression (). Loss of DARC expression on erythrocytes, which
@@ -156,4 +156,7 @@ genes:
   entrez: '3732'
 chemicals: []
 diseases: []
+figid_alias: PMC3149201__F1
+redirect_from: /figures/PMC3149201__F1
+figtype: Figure
 ---

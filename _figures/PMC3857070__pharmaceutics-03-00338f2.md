@@ -1,7 +1,7 @@
 ---
 figid: PMC3857070__pharmaceutics-03-00338f2
 figlink: /pmc/articles/PMC3857070/figure/f2-pharmaceutics-03-00338/
-number: Figure 2
+number: F2
 caption: 'VA-RNA-induced production of type I IFNs through an IPS-1-mediated signaling
   pathway. VA-RNA: virus-associated RNA; RIG-I: retinoic acid-inducible gene I; IPS-1:
   IFN-β promoter stimulator-1; IFN: interferon.'
@@ -14,8 +14,7 @@ filename: pharmaceutics-03-00338f2.jpg
 figtitle: VA-RNA-induced production of type I IFNs through an IPS-1-mediated signaling
   pathway
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ genes:
   entrez: '57506'
 chemicals: []
 diseases: []
+figid_alias: PMC3857070__F2
+redirect_from: /figures/PMC3857070__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4034063__pharmaceuticals-03-03494-g001
 figlink: /pmc/articles/PMC4034063/figure/pharmaceuticals-03-03494-f001/
-number: Figure 1
+number: F1
 caption: 'The core hypothalamic energy homeostatic circuit and the dopamine reward
   pathway. Neuronal subtypes expressing neuropeptide-Y and agouti related peptide
   (NPY/AGRP), proopiomelanocortin (POMC), the melanocortin-4 receptor (MC4R) and dopamine
@@ -109,4 +109,7 @@ genes:
   entrez: '31'
 chemicals: []
 diseases: []
+figid_alias: PMC4034063__F1
+redirect_from: /figures/PMC4034063__F1
+figtype: Figure
 ---

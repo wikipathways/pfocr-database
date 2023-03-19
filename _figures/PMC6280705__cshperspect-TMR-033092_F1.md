@@ -1,7 +1,7 @@
 ---
 figid: PMC6280705__cshperspect-TMR-033092_F1
 figlink: pmc/articles/PMC6280705/figure/A033092F1/
-number: Figure 1
+number: F1
 caption: Overview of the general eukaryotic translation initiation pathway. The pathway
   for recruiting initiator transfer RNA (tRNA) to the messenger RNA (mRNA) AUG codon
   in the context of an 80S ribosome (bottom right) is depicted as a series of major
@@ -21,8 +21,7 @@ pathway_score: 0.9100704
 filename: cshperspect-TMR-033092_F1.jpg
 figtitle: General eukaryotic translation initiation pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -247,4 +246,7 @@ chemicals:
   source: MESH
   identifier: D000255
 diseases: []
+figid_alias: PMC6280705__F1
+redirect_from: /figures/PMC6280705__F1
+figtype: Figure
 ---

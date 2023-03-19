@@ -1,7 +1,7 @@
 ---
 figid: PMC4034077__pharmaceuticals-03-03478-g001
 figlink: /pmc/articles/PMC4034077/figure/pharmaceuticals-03-03478-f001/
-number: Figure 1
+number: F1
 caption: The Classical Jak/STAT Signaling Pathway. Ligand binding causes cytokine
   receptors to dimerize which results in Jak phosphorylation, recruitment of the Signal
   Transducer and Activator of Transcription (STAT) signaling proteins, which are then
@@ -106,4 +106,7 @@ genes:
   entrez: '7297'
 chemicals: []
 diseases: []
+figid_alias: PMC4034077__F1
+redirect_from: /figures/PMC4034077__F1
+figtype: Figure
 ---

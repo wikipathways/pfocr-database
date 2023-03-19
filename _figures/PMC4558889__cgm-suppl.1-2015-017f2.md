@@ -1,7 +1,7 @@
 ---
 figid: PMC4558889__cgm-suppl.1-2015-017f2
 figlink: /pmc/articles/PMC4558889/figure/f2-cgm-suppl.1-2015-017/
-number: Figure 2
+number: F2
 caption: 'The polyamine pathway in mammalian cells. Details of the pathway are described
   in the text. Metabolic enzymes are in green while enzymes of polyamine catabolism
   are in orange. Ornithine decarboxylase (ODC) inhibitors α-difluoromethylornithine
@@ -19,8 +19,7 @@ pathway_score: 0.9584398
 filename: cgm-suppl.1-2015-017f2.jpg
 figtitle: The polyamine pathway in mammalian cells
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ chemicals:
   source: MESH
   identifier: D013096
 diseases: []
+figid_alias: PMC4558889__F2
+redirect_from: /figures/PMC4558889__F2
+figtype: Figure
 ---

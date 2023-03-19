@@ -1,7 +1,7 @@
 ---
 figid: PMC4665079__cshperspect-SIG-006080_F4
 figlink: /pmc/articles/PMC4665079/figure/A006080F4/
-number: Figure 4
+number: F4
 caption: 'Death receptor signaling pathway. The death receptor signaling pathway is
   triggered by ligation of a death receptor (TNFR1, Fas, or TRAIL-R1/2) and potentially
   leads to three different outcomes: survival, apoptosis, or necrosis. (A) Upon ligation
@@ -145,4 +145,7 @@ genes:
   entrez: '8837'
 chemicals: []
 diseases: []
+figid_alias: PMC4665079__F4
+redirect_from: /figures/PMC4665079__F4
+figtype: Figure
 ---

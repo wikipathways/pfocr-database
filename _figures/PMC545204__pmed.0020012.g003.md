@@ -1,7 +1,7 @@
 ---
 figid: PMC545204__pmed.0020012.g003
 figlink: /pmc/articles/PMC545204/figure/pmed-0020012-g003/
-number: Figure 3
+number: F3
 caption: (A) In the absence of RA, RARα/RXR heterodimers recruit the transcription
   corepressor (CoR), which mediates transcriptional silencing by mechanisms that include
   direct inhibition of the basal transcription machinery and recruitment of chromatin-modifying
@@ -398,4 +398,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC545204__F3
+redirect_from: /figures/PMC545204__F3
+figtype: Figure
 ---

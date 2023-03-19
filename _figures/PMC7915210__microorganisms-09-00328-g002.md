@@ -1,7 +1,7 @@
 ---
 figid: PMC7915210__microorganisms-09-00328-g002
 figlink: pmc/articles/PMC7915210/figure/microorganisms-09-00328-f002/
-number: Figure 2
+number: F2
 caption: 'Immune-based strategies antimicrobial peptides and NETs. (A) Vitamin D3
   induces cathelicidin expression in keratinocytes and monocytes, whereas butyrate
   induces cathelicidin in colonic epithelia, leading to the enhanced antimicrobial
@@ -20,8 +20,7 @@ pathway_score: 0.5389801
 filename: microorganisms-09-00328-g002.jpg
 figtitle: Immune-based strategies antimicrobial peptides and NETs
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -87,4 +86,7 @@ chemicals:
   source: MESH
   identifier: D019821
 diseases: []
+figid_alias: PMC7915210__F2
+redirect_from: /figures/PMC7915210__F2
+figtype: Figure
 ---

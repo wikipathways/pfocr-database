@@ -1,7 +1,7 @@
 ---
 figid: PMC5773178__elife-30224-fig2-figsupp9
 figlink: /pmc/articles/PMC5773178/figure/fig2s9/
-number: Figure 2—figure supplement 9
+number: SF2_9
 caption: The proteins in the pathway are highlighted in green if the expression in
   mt BAP1 is significantly less than wt BAP1 and red if the expression in mt BAP1
   is significantly more than wt BAP1.
@@ -360,4 +360,7 @@ chemicals:
   source: MESH
   identifier: D002118
 diseases: []
+figid_alias: PMC5773178__SF2_9
+redirect_from: /figures/PMC5773178__SF2_9
+figtype: Supplemental figure
 ---

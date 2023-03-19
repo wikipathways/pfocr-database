@@ -1,7 +1,7 @@
 ---
 figid: PMC6315738__pharmaceuticals-11-00128-g001
 figlink: /pmc/articles/PMC6315738/figure/pharmaceuticals-11-00128-f001/
-number: Figure 1
+number: F1
 caption: Intestinal uptake of non-heme iron and its regulation. Non-heme iron absorption
   occurs mainly in duodenal enterocytes. The first step in the transport of iron across
   the apical membrane of enterocytes is ferric (Fe3+) to ferrous (Fe2+) iron reduction,
@@ -180,4 +180,7 @@ diseases:
 - word: LIP
   source: MESH
   identifier: C536528
+figid_alias: PMC6315738__F1
+redirect_from: /figures/PMC6315738__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7232280__microorganisms-08-00534-g001
 figlink: pmc/articles/PMC7232280/figure/microorganisms-08-00534-f001/
-number: Figure 1
+number: F1
 caption: Scheme of the molybdenum cofactor biosynthesis pathway. Biosynthesis of the
   molybdenum cofactor (Moco) involves the stepwise conversion of guanosine triphosphate
   (GTP) to cyclic pyranopterin monophosphate (cPMP [,,], step 1) which is converted
@@ -17,8 +17,7 @@ pathway_score: 0.8258318
 filename: microorganisms-08-00534-g001.jpg
 figtitle: Scheme of the molybdenum cofactor biosynthesis pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -66,4 +65,7 @@ chemicals:
   source: MESH
   identifier: C042416
 diseases: []
+figid_alias: PMC7232280__F1
+redirect_from: /figures/PMC7232280__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4660921__Beilstein_J_Org_Chem-11-1667-g007
 figlink: /pmc/articles/PMC4660921/figure/F6/
-number: Figure 6
+number: F6
 caption: Biosynthesis pathway I [].
 pmcid: PMC4660921
 papertitle: 'Pyridinoacridine alkaloids of marine origin: NMR and MS spectral data,
@@ -140,4 +140,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC4660921__F6
+redirect_from: /figures/PMC4660921__F6
+figtype: Figure
 ---

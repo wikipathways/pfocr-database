@@ -1,7 +1,7 @@
 ---
 figid: PMC7768417__microorganisms-08-02043-g004
 figlink: pmc/articles/PMC7768417/figure/microorganisms-08-02043-f004/
-number: Figure 4
+number: F4
 caption: Proposed model for observed BNF activity in L. lactis associated with Sierra
   Mixe maize (1). Lactococci import monosaccharide derivatives of the aerial root
   mucilage polysaccharide comprised of pentoses (arabinose, xylose) and hexoses (galactose,
@@ -44,8 +44,7 @@ pathway_score: 0.9664254
 filename: microorganisms-08-02043-g004.jpg
 figtitle: Proposed model for observed BNF activity in L
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -206,4 +205,7 @@ chemicals:
   source: MESH
   identifier: D008358
 diseases: []
+figid_alias: PMC7768417__F4
+redirect_from: /figures/PMC7768417__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7926472__microorganisms-09-00458-g001
 figlink: pmc/articles/PMC7926472/figure/microorganisms-09-00458-f001/
-number: Figure 1
+number: F1
 caption: (a) A general map of core metabolism. The arrows in the map do not cover
   every atom in every cofactor, amino acid, or base, showing main mass contributions
   instead. A dot indicates that radical S-adenosyl methionine (SAM) enzymes are involved
@@ -19,8 +19,7 @@ pathway_score: 0.9351304
 filename: microorganisms-09-00458-g001.jpg
 figtitle: ' A general map of core metabolism'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -318,4 +317,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7926472__F1
+redirect_from: /figures/PMC7926472__F1
+figtype: Figure
 ---

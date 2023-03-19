@@ -1,7 +1,7 @@
 ---
 figid: PMC3536347__cshperspect-WNT-008086_F1
 figlink: /pmc/articles/PMC3536347/figure/A008086F1/
-number: Figure 1
+number: F1
 caption: Pharmacologic inhibitors of the Wnt/β-catenin signaling pathway and known
   interactions with pathway components (see  for references). This figure depicts
   the Wnt/β-catenin pathway in its active state, with cytoplasmic accumulation and
@@ -319,4 +319,7 @@ chemicals:
   source: MESH
   identifier: D012176
 diseases: []
+figid_alias: PMC3536347__F1
+redirect_from: /figures/PMC3536347__F1
+figtype: Figure
 ---

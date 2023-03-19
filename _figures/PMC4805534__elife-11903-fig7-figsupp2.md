@@ -1,7 +1,7 @@
 ---
 figid: PMC4805534__elife-11903-fig7-figsupp2
 figlink: /pmc/articles/PMC4805534/figure/fig7s2/
-number: Figure 7—figure supplement 2
+number: SF7_2
 caption: 'DOI: http://dx.doi.org/10.7554/eLife.11903.021'
 pmcid: PMC4805534
 papertitle: GSK3β regulates AKT-induced central nervous system axon regeneration via
@@ -165,4 +165,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4805534__SF7_2
+redirect_from: /figures/PMC4805534__SF7_2
+figtype: Supplemental figure
 ---

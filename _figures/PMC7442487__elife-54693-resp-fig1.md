@@ -1,7 +1,7 @@
 ---
 figid: PMC7442487__elife-54693-resp-fig1
 figlink: pmc/articles/PMC7442487/figure/sa2fig1/
-number: Author response image 1
+number: F1
 caption: 'The pathway affected by RG7112 was known while the mode of action was unknown
   for o-Vanillin. The two major pathways mediating cell-cycle arrest during disc degeneration
   are p53-p21-Rb and p16-Rb (17). Although both drugs activate cyclin-dependent-kinases
@@ -25,8 +25,7 @@ filename: elife-54693-resp-fig1.jpg
 figtitle: Pathway affected by RG7112 was known while the mode of action was unknown
   for o-Vanillin
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ chemicals:
   source: MESH
   identifier: C100058
 diseases: []
+figid_alias: PMC7442487__F1
+redirect_from: /figures/PMC7442487__F1
+figtype: Figure
 ---

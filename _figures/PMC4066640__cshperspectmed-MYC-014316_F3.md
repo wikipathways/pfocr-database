@@ -1,7 +1,7 @@
 ---
 figid: PMC4066640__cshperspectmed-MYC-014316_F3
 figlink: /pmc/articles/PMC4066640/figure/A014316F3/
-number: Figure 3
+number: F3
 caption: Model for the allele-specific cancer risk of rs6983267. The rs6983267 enhancer
   region forms a large chromatin loop (335 kb), which brings it into proximity with
   the MYC promoter. The cancer risk allele (G, right) is a higher-affinity binding
@@ -167,4 +167,7 @@ genes:
   entrez: '7477'
 chemicals: []
 diseases: []
+figid_alias: PMC4066640__F3
+redirect_from: /figures/PMC4066640__F3
+figtype: Figure
 ---

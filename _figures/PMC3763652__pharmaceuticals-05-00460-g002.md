@@ -1,7 +1,7 @@
 ---
 figid: PMC3763652__pharmaceuticals-05-00460-g002
 figlink: /pmc/articles/PMC3763652/figure/pharmaceuticals-05-00460-f002/
-number: Scheme 1
+number: S1
 caption: The synthetic pathway for the preparation of compounds 2–5.
 pmcid: PMC3763652
 papertitle: Synthesis and Spectroscopic Analysis of Novel 1H-Benzo[d]imidazoles Phenyl
@@ -12,8 +12,7 @@ pathway_score: 0.8312675
 filename: pharmaceuticals-05-00460-g002.jpg
 figtitle: The synthetic pathway for the preparation of compounds 2–5
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -43,4 +42,7 @@ chemicals:
   source: MESH
   identifier: D004123
 diseases: []
+figid_alias: PMC3763652__S1
+redirect_from: /figures/PMC3763652__S1
+figtype: Scheme
 ---

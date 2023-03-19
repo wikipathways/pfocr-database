@@ -1,7 +1,7 @@
 ---
 figid: PMC5597168__bioengineering-03-00010-g002
 figlink: /pmc/articles/PMC5597168/figure/bioengineering-03-00010-f002/
-number: Figure 2
+number: F2
 caption: Metabolic engineering of xylitol production in E. coli. Xylose is transferred
   into E.coli cells by xylose transporters. Xylose can be converted into xylulose
   by native xylose isomerase, which is subsequently phosphorylated to xylulose-5-phosphate
@@ -20,8 +20,7 @@ pathway_score: 0.9645199
 filename: bioengineering-03-00010-g002.jpg
 figtitle: Metabolic engineering of xylitol production in E
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -65,4 +64,7 @@ chemicals:
   source: MESH
   identifier: D014996
 diseases: []
+figid_alias: PMC5597168__F2
+redirect_from: /figures/PMC5597168__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4034104__pharmaceuticals-03-02910-g002
 figlink: /pmc/articles/PMC4034104/figure/pharmaceuticals-03-02910-f002/
-number: Figure 2
+number: F2
 caption: Main pathway for the synthesis and degradation of 2-arachidonoylglycerol.
 pmcid: PMC4034104
 papertitle: From Fertilisation to Implantation in Mammalian Pregnancy—Modulation of
@@ -116,4 +116,7 @@ chemicals:
   source: MESH
   identifier: D010716
 diseases: []
+figid_alias: PMC4034104__F2
+redirect_from: /figures/PMC4034104__F2
+figtype: Figure
 ---

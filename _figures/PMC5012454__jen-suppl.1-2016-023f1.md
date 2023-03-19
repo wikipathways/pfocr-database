@@ -1,7 +1,7 @@
 ---
 figid: PMC5012454__jen-suppl.1-2016-023f1
 figlink: /pmc/articles/PMC5012454/figure/f1-jen-suppl.1-2016-023/
-number: Figure 1
+number: F1
 caption: Physiological effects of ROS on synaptic plasticity. NMDA receptor stimulation
   (1) during normal brain activity results in calcium influx. Neural nitric oxide
   synthase (nNOS) is activated (2) through the Ca2+-dependent pathway involving calmodulin.
@@ -247,4 +247,7 @@ chemicals:
   source: MESH
   identifier: D018698
 diseases: []
+figid_alias: PMC5012454__F1
+redirect_from: /figures/PMC5012454__F1
+figtype: Figure
 ---

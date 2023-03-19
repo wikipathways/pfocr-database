@@ -1,7 +1,7 @@
 ---
 figid: PMC4659440__tog-suppl.1-2015-013f3
 figlink: /pmc/articles/PMC4659440/figure/f3-tog-suppl.1-2015-013/
-number: Figure 3
+number: F3
 caption: HGF-MET signaling pathway with its downstream effector components (MAPK,
   STAT, PI3K-AKT cascades and NF-κB) leading to increases in cell survival, motility
   and proliferation.
@@ -293,4 +293,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4659440__F3
+redirect_from: /figures/PMC4659440__F3
+figtype: Figure
 ---

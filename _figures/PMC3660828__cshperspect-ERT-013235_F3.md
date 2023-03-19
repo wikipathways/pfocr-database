@@ -1,7 +1,7 @@
 ---
 figid: PMC3660828__cshperspect-ERT-013235_F3
 figlink: /pmc/articles/PMC3660828/figure/A013235F3/
-number: Figure 3
+number: F3
 caption: Components involved in translocation of phospholipids to and within mitochondria
   of yeast. The directions of lipid translocation are indicated by arrows. While PS
   and PC are imported into mitochondria, a large portion PE is exported. Upon import
@@ -145,4 +145,7 @@ chemicals:
   source: MESH
   identifier: D003565
 diseases: []
+figid_alias: PMC3660828__F3
+redirect_from: /figures/PMC3660828__F3
+figtype: Figure
 ---

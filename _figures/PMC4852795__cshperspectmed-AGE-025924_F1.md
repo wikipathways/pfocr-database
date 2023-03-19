@@ -1,7 +1,7 @@
 ---
 figid: PMC4852795__cshperspectmed-AGE-025924_F1
 figlink: /pmc/articles/PMC4852795/figure/A025924F1/
-number: Figure 1
+number: F1
 caption: The mechanistic target of rapamycin (mTOR) signaling pathway. Rapamycin is
   an acute inhibitor of mTOR complex 1 (mTORC1), which phosphorylates substrates including
   S6 kinase 1 (S6K1), eIF4E-binding protein 1 (4E-BP1), transcription factor EB (TFEB),
@@ -360,4 +360,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4852795__F1
+redirect_from: /figures/PMC4852795__F1
+figtype: Figure
 ---

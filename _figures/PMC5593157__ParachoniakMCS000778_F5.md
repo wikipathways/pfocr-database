@@ -1,7 +1,7 @@
 ---
 figid: PMC5593157__ParachoniakMCS000778_F5
 figlink: /pmc/articles/PMC5593157/figure/PARACHONIAKMCS000778F5/
-number: Figure 5
+number: F5
 caption: Schematic of the signaling pathway. The tumor-suppressor activity of LKB1
   counteracts mitogen-induced phosphoinositide 3-kinase (PI3K)/AKT/mammalian target
   of rapamycin (mTOR) signaling. Under energy-low cellular conditions, LKB1 activates
@@ -181,4 +181,7 @@ genes:
   entrez: '23533'
 chemicals: []
 diseases: []
+figid_alias: PMC5593157__F5
+redirect_from: /figures/PMC5593157__F5
+figtype: Figure
 ---

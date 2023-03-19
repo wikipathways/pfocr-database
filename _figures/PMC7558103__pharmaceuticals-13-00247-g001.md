@@ -1,7 +1,7 @@
 ---
 figid: PMC7558103__pharmaceuticals-13-00247-g001
 figlink: pmc/articles/PMC7558103/figure/pharmaceuticals-13-00247-f001/
-number: Figure 1
+number: F1
 caption: Regulation of the nicotinamide adenine dinucleotide (NAD) metabolism. The
   figure shows the main synthesis pathways of NAD including the de novo synthesis
   via the kynurenine pathway or from nicotinic acid and the salvage pathways.
@@ -13,8 +13,7 @@ pathway_score: 0.9109919
 filename: pharmaceuticals-13-00247-g001.jpg
 figtitle: The nicotinamide adenine dinucleotide (NAD) metabolism
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -127,4 +126,7 @@ chemicals:
   source: MESH
   identifier: C051625
 diseases: []
+figid_alias: PMC7558103__F1
+redirect_from: /figures/PMC7558103__F1
+figtype: Figure
 ---

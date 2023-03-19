@@ -1,7 +1,7 @@
 ---
 figid: PMC6908425__mSphere.00796-19-f0004
 figlink: /pmc/articles/PMC6908425/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
   without changes in amounts of metabolic enzymes. (A to D) S. Typhimurium ΔfumABC
   and ΔfumABC ΔglgA strains were grown aerobically in LB broth for 18.5 h at 37°C.
@@ -24,8 +24,7 @@ filename: mSphere.00796-19-f0004.jpg
 figtitle: Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
   without changes in amounts of metabolic enzymes
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -235,4 +234,7 @@ chemicals:
   source: MESH
   identifier: C017202
 diseases: []
+figid_alias: PMC6908425__F4
+redirect_from: /figures/PMC6908425__F4
+figtype: Figure
 ---

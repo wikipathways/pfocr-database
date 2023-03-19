@@ -1,7 +1,7 @@
 ---
 figid: PMC3405855__cshperspect-CSD-008797_F5
 figlink: /pmc/articles/PMC3405855/figure/A008797F5/
-number: Figure 5
+number: F5
 caption: Potential models of apoptosis-induced proliferation in mammals. (A) The CD95/Fas/Apo1
   pathway in apoptosis and proliferation. The CD95/Fas/Apo1 receptor induces apoptosis
   through the very well-studied FADD/Caspase-8 pathway. FLIP is a Caspase-8 analog
@@ -208,4 +208,7 @@ genes:
   entrez: '841'
 chemicals: []
 diseases: []
+figid_alias: PMC3405855__F5
+redirect_from: /figures/PMC3405855__F5
+figtype: Figure
 ---

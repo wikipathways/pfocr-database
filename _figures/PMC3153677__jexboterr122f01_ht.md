@@ -1,7 +1,7 @@
 ---
 figid: PMC3153677__jexboterr122f01_ht
 figlink: /pmc/articles/PMC3153677/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Proposed biosynthetic pathways of L-ascorbic acid in animals (reactions
   1–8 and 25–27), plants (reactions 9–24) and the recycling pathway (reactions 28–31)
   are shown. The enzymes used in this work are in bold. The enzymes catalysing these
@@ -27,8 +27,7 @@ figtitle: Proposed biosynthetic pathways of L-ascorbic acid in animals (reaction
   1–8 and 25–27), plants (reactions 9–24) and the recycling pathway (reactions 28–31)
   are shown
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -134,4 +133,7 @@ chemicals:
   source: MESH
   identifier: D020723
 diseases: []
+figid_alias: PMC3153677__F1
+redirect_from: /figures/PMC3153677__F1
+figtype: Figure
 ---

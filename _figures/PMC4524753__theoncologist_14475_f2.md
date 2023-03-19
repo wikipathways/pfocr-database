@@ -1,7 +1,7 @@
 ---
 figid: PMC4524753__theoncologist_14475_f2
 figlink: /pmc/articles/PMC4524753/figure/F2/
-number: Figure 2
+number: F2
 caption: Diagrammatic sketch shows the hypothetical mechanism of HOTAIR in digestive
   tract cancers. HOTAIR interacts with PRC2 complex (Suz12/EED/EZH2) to methylate
   H3K27 and silence WIF-1 expression, further inducing activation of Wnt/β-catenin
@@ -197,4 +197,7 @@ genes:
   entrez: '54361'
 chemicals: []
 diseases: []
+figid_alias: PMC4524753__F2
+redirect_from: /figures/PMC4524753__F2
+figtype: Figure
 ---

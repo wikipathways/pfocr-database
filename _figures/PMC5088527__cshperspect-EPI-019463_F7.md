@@ -1,7 +1,7 @@
 ---
 figid: PMC5088527__cshperspect-EPI-019463_F7
 figlink: /pmc/articles/PMC5088527/figure/A019463F7/
-number: Figure 7
+number: F7
 caption: Linking the circadian clock with the NAD+ salvage pathway. The NAMPT enzyme
   is the limiting factor in the NAD+ salvage pathway; thus, because the NAMPT gene
   is regulated by the circadian CLOCK:BMAL1 machinery, its product, the NAD+ metabolite,
@@ -19,8 +19,7 @@ pathway_score: 0.9405181
 filename: cshperspect-EPI-019463_F7.jpg
 figtitle: Linking the circadian clock with the NAD+ salvage pathway
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -65,4 +64,7 @@ genes:
   entrez: '10135'
 chemicals: []
 diseases: []
+figid_alias: PMC5088527__F7
+redirect_from: /figures/PMC5088527__F7
+figtype: Figure
 ---

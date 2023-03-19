@@ -1,7 +1,7 @@
 ---
 figid: PMC5876533__high-throughput-07-00007-g005
 figlink: /pmc/articles/PMC5876533/figure/high-throughput-07-00007-f005/
-number: Figure 5
+number: F5
 caption: 'Exemplary results of the targeted metabolomics analysis of CDF3oe plants
   relative to the wild type. (a) Metabolic network map of major changes due to the
   overexpression of CDF3. According to the obtained data, sucrose metabolism is strongly
@@ -21,8 +21,7 @@ filename: high-throughput-07-00007-g005.jpg
 figtitle: Exemplary results of the targeted metabolomics analysis of CDF3oe plants
   relative to the wild type
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -240,4 +239,7 @@ chemicals:
   source: MESH
   identifier: D000085
 diseases: []
+figid_alias: PMC5876533__F5
+redirect_from: /figures/PMC5876533__F5
+figtype: Figure
 ---

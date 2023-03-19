@@ -1,7 +1,7 @@
 ---
 figid: PMC7910923__pharmaceuticals-14-00094-g001
 figlink: pmc/articles/PMC7910923/figure/pharmaceuticals-14-00094-f001/
-number: Figure 1
+number: F1
 caption: Schematic representation of the metabolic pathway of Oestradiol. CYP1B1,
   a Phase I enzyme, codified by the CYP1B1 gene, leads to 4-OH-E2 production. The
   Phase II enzymes, COMT, codified by the COMT gene, and GSTM1/GSTT1, codified by
@@ -20,8 +20,7 @@ pathway_score: 0.904833
 filename: pharmaceuticals-14-00094-g001.jpg
 figtitle: Metabolic pathway of Oestradiol
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ diseases:
 - word: SAH
   source: MESH
   identifier: D013345
+figid_alias: PMC7910923__F1
+redirect_from: /figures/PMC7910923__F1
+figtype: Figure
 ---

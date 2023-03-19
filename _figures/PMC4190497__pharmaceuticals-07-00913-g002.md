@@ -1,7 +1,7 @@
 ---
 figid: PMC4190497__pharmaceuticals-07-00913-g002
 figlink: /pmc/articles/PMC4190497/figure/pharmaceuticals-07-00913-f002/
-number: Figure 2
+number: F2
 caption: Energy regulated signaling pathway. AMP-dependent kinase (AMPK) and sirtuin
   1 (Sirt1) act as energy stress sensors and detect low ATP and NADH levels. Tumor
   suppressor and upstream kinase LKB1 activates both AMPK and Sirt1. The effector
@@ -178,4 +178,7 @@ chemicals:
   source: MESH
   identifier: D012694
 diseases: []
+figid_alias: PMC4190497__F2
+redirect_from: /figures/PMC4190497__F2
+figtype: Figure
 ---

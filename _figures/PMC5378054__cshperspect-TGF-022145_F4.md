@@ -1,7 +1,7 @@
 ---
 figid: PMC5378054__cshperspect-TGF-022145_F4
 figlink: /pmc/articles/PMC5378054/figure/A022145F4/
-number: Figure 4
+number: F4
 caption: Regulation of cellular senescence by transforming growth factor β (TGF-β)
   signaling. TGF-β family proteins are able to promote cellular senescence in normal
   and tumor cells through multiple molecular mechanisms, including transcriptional
@@ -208,4 +208,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5378054__F4
+redirect_from: /figures/PMC5378054__F4
+figtype: Figure
 ---

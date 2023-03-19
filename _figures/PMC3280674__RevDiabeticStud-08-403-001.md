@@ -1,7 +1,7 @@
 ---
 figid: PMC3280674__RevDiabeticStud-08-403-001
 figlink: /pmc/articles/PMC3280674/figure/F1/
-number: Figure 1
+number: F1
 caption: 'FAs enter the cardiomyocyte through specific transporters, and they are
   converted to acyl-CoA by acyl-CoA synthethase (ACS). Acyl-CoAs might be used for
   β-oxidation (blue pathway), or they can be diverted to non-oxidative pathways, including
@@ -139,4 +139,7 @@ chemicals:
   source: MESH
   identifier: D000214
 diseases: []
+figid_alias: PMC3280674__F1
+redirect_from: /figures/PMC3280674__F1
+figtype: Figure
 ---

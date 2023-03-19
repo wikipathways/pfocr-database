@@ -1,7 +1,7 @@
 ---
 figid: PMC4052545__pharmaceuticals-04-00117f1
 figlink: /pmc/articles/PMC4052545/figure/f1-pharmaceuticals-04-00117/
-number: Figure 1
+number: F1
 caption: S1P receptor signaling. S1P1 couples exclusively to Gi, whereas S1P2 and
   S1P3 couple to multiple G proteins. The G proteins preferred by S1P2 and S1P3 are
   G12/13 and Gq, respectively. Gi couples to stimulation of phosphoinositide 3-kinase
@@ -415,4 +415,7 @@ diseases:
 - word: Lung cancer
   source: ''
   identifier: ''
+figid_alias: PMC4052545__F1
+redirect_from: /figures/PMC4052545__F1
+figtype: Figure
 ---

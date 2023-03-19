@@ -1,7 +1,7 @@
 ---
 figid: PMC7285479__microorganisms-08-00759-g004
 figlink: pmc/articles/PMC7285479/figure/microorganisms-08-00759-f004/
-number: Figure 4
+number: F4
 caption: Metabolic reconstruction of membrane phospholipids biosynthesis through mevalonate
   pathway. Two enzymes, Acetyl-CoA acetyltransferase and Mevalonate 3,5-bisphosphate
   are overexpressed (blue arrows) under cold conditions, catalysing key reactions
@@ -21,8 +21,7 @@ filename: microorganisms-08-00759-g004.jpg
 figtitle: Metabolic reconstruction of membrane phospholipids biosynthesis through
   mevalonate pathway
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: C043060
 diseases: []
+figid_alias: PMC7285479__F4
+redirect_from: /figures/PMC7285479__F4
+figtype: Figure
 ---

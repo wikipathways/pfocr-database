@@ -1,7 +1,7 @@
 ---
 figid: PMC7877911__elife-61818-fig1-figsupp1
 figlink: pmc/articles/PMC7877911/figure/fig1s1/
-number: Figure 1—figure supplement 1
+number: SF1_1
 caption: Expression of enzymes in the methionine synthesis pathway is repressed by
   MetJ in complex with S-adenosyl methionine (SAM). SAM degradation leads to increased
   expression of the enzymes in the metJ regulon. At high expression level, the promiscuous
@@ -16,8 +16,7 @@ pathway_score: 0.8915471
 filename: elife-61818-fig1-figsupp1.jpg
 figtitle: Rescue of an ilvA auxotrophic mutant by SAMases ()
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ diseases:
 - word: semialdehyde
   source: MESH
   identifier: C566402
+figid_alias: PMC7877911__SF1_1
+redirect_from: /figures/PMC7877911__SF1_1
+figtype: Supplemental figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7557662__plantbiotechnology-37-3-20.0413a-figure01
 figlink: pmc/articles/PMC7557662/figure/figure1/
-number: ''
+number: F1
 caption: Figure 1. Biosynthetic pathway leading to antraquinone glucosides. PSPG;
   plant secondary product glycosyltransferase.
 pmcid: PMC7557662
@@ -13,8 +13,7 @@ pathway_score: 0.9508575
 filename: plantbiotechnology-37-3-20.0413a-figure01.jpg
 figtitle: Figure 1. Biosynthetic pathway leading to antraquinone glucosides
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -73,4 +72,7 @@ chemicals:
   source: MESH
   identifier: D012676
 diseases: []
+figid_alias: PMC7557662__F1
+redirect_from: /figures/PMC7557662__F1
+figtype: Figure
 ---

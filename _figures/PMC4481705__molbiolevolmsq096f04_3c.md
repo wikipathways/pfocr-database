@@ -1,7 +1,7 @@
 ---
 figid: PMC4481705__molbiolevolmsq096f04_3c
 figlink: /pmc/articles/PMC4481705/figure/fig4/
-number: 'F <span style="font-variant: small-caps" class="small-caps">IG</span> . 4'
+number: F4
 caption: Predicted biosynthetic pathways of archaeal wyosine derivatives. Acronym
   names for wyosine derivatives (boxed) and for enzymes (not boxed) are defined in  and
   also in text. Wyosine derivatives that are unique to the archaeal domain are in
@@ -22,8 +22,7 @@ filename: molbiolevolmsq096f04_3c.jpg
 figtitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Diverse
   Pathway in Archaea'
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,4 +74,7 @@ genes:
   entrez: '127253'
 chemicals: []
 diseases: []
+figid_alias: PMC4481705__F4
+redirect_from: /figures/PMC4481705__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6071487__cshperspect-CYT-028456_F3
 figlink: pmc/articles/PMC6071487/figure/A028456F3/
-number: Figure 3
+number: F3
 caption: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs).
   Toll-like receptor (TLR)4 recognizes lipopolysaccharide (LPS) and induces IL-6 mRNA
   via activation of the signaling pathway of nuclear factor of κB (NF-κB). Regnase-1
@@ -22,8 +22,7 @@ pathway_score: 0.9313195
 filename: cshperspect-CYT-028456_F3.jpg
 figtitle: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -193,4 +192,7 @@ diseases:
 - word: LPS
   source: MESH
   identifier: C536528
+figid_alias: PMC6071487__F3
+redirect_from: /figures/PMC6071487__F3
+figtype: Figure
 ---

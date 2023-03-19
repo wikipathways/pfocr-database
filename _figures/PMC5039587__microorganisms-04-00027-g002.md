@@ -1,7 +1,7 @@
 ---
 figid: PMC5039587__microorganisms-04-00027-g002
 figlink: /pmc/articles/PMC5039587/figure/microorganisms-04-00027-f002/
-number: Figure 2
+number: F2
 caption: Modulation of Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal
   epithelial (PIE) cells by acidic (APS) and neutral (NPS) exopolysaccharides produced
   by Lactobacillus plantarum N14 and Lactobacillus delbrueckii TUA4408L. Treatment
@@ -360,4 +360,7 @@ genes:
   entrez: '4790'
 chemicals: []
 diseases: []
+figid_alias: PMC5039587__F2
+redirect_from: /figures/PMC5039587__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3763651__pharmaceuticals-05-00417-g001
 figlink: /pmc/articles/PMC3763651/figure/pharmaceuticals-05-00417-f001/
-number: Figure 1
+number: F1
 caption: Schematic presentation depicting the regulation of receptor signaling through
   G-proteins. GPCRs upon activation couples to Gαs (A), Gαi (B), Gαq (C) or Gα12 (D)
   and regulates signaling in specific manner. Downstream signaling involving Gβγ subunit
@@ -709,4 +709,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3763651__F1
+redirect_from: /figures/PMC3763651__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7343979__mSphere.00366-20-f0001
 figlink: pmc/articles/PMC7343979/figure/fig1/
-number: FIG 1
+number: F1
 caption: Signal transduction pathways that regulate C. albicans morphogenesis. C.
   albicans regulates filamentation by three main signaling pathways, which include
   the HOG MAPK pathway, the Cek1-mediated MAPK pathway, and the Ras1-cAMP pathway.
@@ -17,8 +17,7 @@ pathway_score: 0.9590115
 filename: mSphere.00366-20-f0001.jpg
 figtitle: Signal transduction pathways that regulate C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -135,4 +134,7 @@ chemicals:
   source: MESH
   identifier: D006153
 diseases: []
+figid_alias: PMC7343979__F1
+redirect_from: /figures/PMC7343979__F1
+figtype: Figure
 ---

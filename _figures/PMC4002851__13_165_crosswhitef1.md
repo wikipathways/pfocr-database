@@ -1,7 +1,7 @@
 ---
 figid: PMC4002851__13_165_crosswhitef1
 figlink: /pmc/articles/PMC4002851/figure/f1-13_165_crosswhite/
-number: Figure 1
+number: F1
 caption: 'Summary of molecular mechanisms involved in pulmonary remodeling. In pulmonary
   artery smooth muscle cells, inhibition of the potassium channels leads to cell depolarization
   and calcium entry, stimulating excess calcium release from the sarcoplasmic reticulum
@@ -387,4 +387,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4002851__F1
+redirect_from: /figures/PMC4002851__F1
+figtype: Figure
 ---

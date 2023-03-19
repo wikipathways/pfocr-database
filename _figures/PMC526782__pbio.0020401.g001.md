@@ -1,7 +1,7 @@
 ---
 figid: PMC526782__pbio.0020401.g001
 figlink: /pmc/articles/PMC526782/figure/pbio-0020401-g001/
-number: Figure 1
+number: F1
 caption: (A) shows a simplified, linear view of the aggregation pathway of α-synuclein
   (in blue). The monomer of α-synuclein is a natively unfolded protein with several
   repeats, shown by dark bars on the monomer. The protein has an innate tendency to
@@ -28,8 +28,7 @@ pathway_score: 0.9292434
 filename: pbio.0020401.g001.jpg
 figtitle: Molecules That Cause or Prevent Parkinson's Disease
 year: '2004'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ genes:
   entrez: '65018'
 chemicals: []
 diseases: []
+figid_alias: PMC526782__F1
+redirect_from: /figures/PMC526782__F1
+figtype: Figure
 ---

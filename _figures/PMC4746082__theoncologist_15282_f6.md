@@ -1,7 +1,7 @@
 ---
 figid: PMC4746082__theoncologist_15282_f6
 figlink: /pmc/articles/PMC4746082/figure/F6/
-number: Figure 6
+number: F6
 caption: 'The IDO pathway effects to slow the immune response, anti-CTLA-4 blocks
   CTLA-4 from binding CD80. When CTLA-4 binds to CD80 (B7), it starts a series of
   pathway steps. One of these is activation of the IDO pathway, which converts tryptophan
@@ -136,4 +136,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC4746082__F6
+redirect_from: /figures/PMC4746082__F6
+figtype: Figure
 ---

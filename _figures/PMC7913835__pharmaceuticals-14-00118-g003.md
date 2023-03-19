@@ -1,7 +1,7 @@
 ---
 figid: PMC7913835__pharmaceuticals-14-00118-g003
 figlink: pmc/articles/PMC7913835/figure/pharmaceuticals-14-00118-f003/
-number: Figure 3
+number: F3
 caption: 'Protein–protein interaction network between gene products with high-impact
   variants contained in the top enriched pathways and those presenting differentially
   methylated sites in CLZ-treated patients. Proteins are grouped by colors according
@@ -20,8 +20,7 @@ figtitle: Protein–protein interaction network between gene products with high-
   variants contained in the top enriched pathways and those presenting differentially
   methylated sites in CLZ-treated patients
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -287,4 +286,7 @@ diseases:
 - word: NOSIAP
   source: ''
   identifier: ''
+figid_alias: PMC7913835__F3
+redirect_from: /figures/PMC7913835__F3
+figtype: Figure
 ---

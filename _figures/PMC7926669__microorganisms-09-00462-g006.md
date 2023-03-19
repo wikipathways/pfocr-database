@@ -1,7 +1,7 @@
 ---
 figid: PMC7926669__microorganisms-09-00462-g006
 figlink: pmc/articles/PMC7926669/figure/microorganisms-09-00462-f006/
-number: Figure 6
+number: F6
 caption: 'Scheme for PHB synthesis pathway including responsible enzymes based on
   RAST server annotations of B. marmarensis genome (continuous line arrows: paths
   for PHB synthesis; dotted line arrows: paths that cause decrease in PHB synthesis).'
@@ -16,8 +16,7 @@ filename: microorganisms-09-00462-g006.jpg
 figtitle: Scheme for PHB synthesis pathway including responsible enzymes based on
   RAST server annotations of B
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -180,4 +179,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC7926669__F6
+redirect_from: /figures/PMC7926669__F6
+figtype: Figure
 ---

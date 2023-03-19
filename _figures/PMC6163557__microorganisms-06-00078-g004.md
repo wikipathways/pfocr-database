@@ -1,7 +1,7 @@
 ---
 figid: PMC6163557__microorganisms-06-00078-g004
 figlink: /pmc/articles/PMC6163557/figure/microorganisms-06-00078-f004/
-number: Figure 4
+number: F4
 caption: Feedback Inhibition on Glycan Activation Pathways. The Figure shows the known
   biosynthetic pathways relating to the formation and recycling/salvage of monosaccharides
   found in glycans. The nucleotide sugars are the end products of each pathway and
@@ -20,8 +20,7 @@ pathway_score: 0.9069234
 filename: microorganisms-06-00078-g004.jpg
 figtitle: Feedback Inhibition on Glycan Activation Pathways
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -124,4 +123,7 @@ chemicals:
   source: MESH
   identifier: C060603
 diseases: []
+figid_alias: PMC6163557__F4
+redirect_from: /figures/PMC6163557__F4
+figtype: Figure
 ---

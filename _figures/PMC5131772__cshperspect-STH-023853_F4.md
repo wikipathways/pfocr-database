@@ -1,7 +1,7 @@
 ---
 figid: PMC5131772__cshperspect-STH-023853_F4
 figlink: /pmc/articles/PMC5131772/figure/A023853F4/
-number: Figure 4
+number: F4
 caption: Glycoprotein production in cell-free systems. The Campylobacter jejuni N-glycan
   biosynthesis pathway, which contains glycosyltransferases and a flippase, is expressed
   in vivo in Escherichia coli. These enzymes assemble sugar monomers (bacillosamine,
@@ -20,8 +20,7 @@ pathway_score: 0.6976142
 filename: cshperspect-STH-023853_F4.jpg
 figtitle: Glycoprotein production in cell-free systems
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -64,4 +63,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC5131772__F4
+redirect_from: /figures/PMC5131772__F4
+figtype: Figure
 ---

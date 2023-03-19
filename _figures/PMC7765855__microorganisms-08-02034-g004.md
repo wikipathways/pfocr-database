@@ -1,7 +1,7 @@
 ---
 figid: PMC7765855__microorganisms-08-02034-g004
 figlink: pmc/articles/PMC7765855/figure/microorganisms-08-02034-f004/
-number: Figure 4
+number: F4
 caption: 'Biosynthetic pathway of pentangumycin; Roman numerals: proposed intermediates;
   Arabic numerals: intermediates with identified fitting masses after single gene
   knockouts and overexpression of the regulatory genes; Black pathway: methylation
@@ -16,8 +16,7 @@ pathway_score: 0.8512985
 filename: microorganisms-08-02034-g004.jpg
 figtitle: Targeted Genome Mining—From Compound Discovery to Biosynthetic Pathway Elucidation
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ diseases:
 - word: AT
   source: ''
   identifier: ''
+figid_alias: PMC7765855__F4
+redirect_from: /figures/PMC7765855__F4
+figtype: Figure
 ---

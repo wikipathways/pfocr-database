@@ -1,7 +1,7 @@
 ---
 figid: PMC7883544__mSystems.01218-20-f0005
 figlink: pmc/articles/PMC7883544/figure/fig5/
-number: FIG 5
+number: F5
 caption: 'Collagen utilization pathway scheme in MAG BB5. (A) The gene cluster in
   BB5 spans approximately 21 kb, comprising 15 genes for collagen utilization, each
   color-coded respective to its functional group: orange for collagen hydrolysis,
@@ -25,8 +25,7 @@ pathway_score: 0.8008403
 filename: mSystems.01218-20-f0005.jpg
 figtitle: Collagen utilization pathway scheme in MAG BB5
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -218,4 +217,7 @@ chemicals:
   source: MESH
   identifier: D014508
 diseases: []
+figid_alias: PMC7883544__F5
+redirect_from: /figures/PMC7883544__F5
+figtype: Figure
 ---

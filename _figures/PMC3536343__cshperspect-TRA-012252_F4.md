@@ -1,7 +1,7 @@
 ---
 figid: PMC3536343__cshperspect-TRA-012252_F4
 figlink: /pmc/articles/PMC3536343/figure/A012252F4/
-number: Figure 4
+number: F4
 caption: Schematic representation of MAPK signaling to the translational machinery.
   The Ras/ERK (green) and p38MAPK (champagne) pathways impinge at different levels
   on the translational machinery. Although Ras/ERK signaling stimulates the activity
@@ -371,4 +371,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3536343__F4
+redirect_from: /figures/PMC3536343__F4
+figtype: Figure
 ---

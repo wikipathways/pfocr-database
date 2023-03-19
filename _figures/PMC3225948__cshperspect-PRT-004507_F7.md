@@ -1,7 +1,7 @@
 ---
 figid: PMC3225948__cshperspect-PRT-004507_F7
 figlink: /pmc/articles/PMC3225948/figure/A004507F7/
-number: Figure 7
+number: F7
 caption: The three arms of the unfolded protein response stress-responsive signaling
   pathway. Proteostasis network capacity in the endoplasmic reticulum (ER) is matched
   to the level of newly synthesized proteins passing through the secretory pathway
@@ -114,4 +114,7 @@ genes:
   entrez: '1998'
 chemicals: []
 diseases: []
+figid_alias: PMC3225948__F7
+redirect_from: /figures/PMC3225948__F7
+figtype: Figure
 ---

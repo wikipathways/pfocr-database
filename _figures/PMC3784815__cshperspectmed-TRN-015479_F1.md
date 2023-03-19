@@ -1,7 +1,7 @@
 ---
 figid: PMC3784815__cshperspectmed-TRN-015479_F1
 figlink: /pmc/articles/PMC3784815/figure/A015479F1/
-number: Figure 1
+number: F1
 caption: Pathway of injury mediated by innate immune receptors. Toll-like receptors
   (TLR) are pattern-recognition receptors (PRR) that sense damage-associated molecular
   patterns (DAMPS). Complement receptors (CR) are PRR that sense complement effector
@@ -19,8 +19,7 @@ pathway_score: 0.7956667
 filename: cshperspectmed-TRN-015479_F1.jpg
 figtitle: Pathway of injury mediated by innate immune receptors
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ genes:
   entrez: '3146'
 chemicals: []
 diseases: []
+figid_alias: PMC3784815__F1
+redirect_from: /figures/PMC3784815__F1
+figtype: Figure
 ---

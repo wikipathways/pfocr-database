@@ -1,7 +1,7 @@
 ---
 figid: PMC7565993__microorganisms-08-01339-g003
 figlink: pmc/articles/PMC7565993/figure/microorganisms-08-01339-f003/
-number: Figure 3
+number: F3
 caption: Model of carbon metabolism in the WT during AsIII exposure, with mannitol
   being the initial substrate. Reaction steps were derived from KEGG pathway maps
   using the most parsimonious routes of metabolite formation, noting that not all
@@ -23,8 +23,7 @@ filename: microorganisms-08-01339-g003.jpg
 figtitle: Carbon metabolism in the WT during AsIII exposure, with mannitol being the
   initial substrate
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -290,4 +289,7 @@ diseases:
 - word: "Glucose-1-P X2 \x1F Maltopentose"
   source: MESH
   identifier: C566748
+figid_alias: PMC7565993__F3
+redirect_from: /figures/PMC7565993__F3
+figtype: Figure
 ---

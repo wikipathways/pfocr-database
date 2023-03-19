@@ -1,7 +1,7 @@
 ---
 figid: PMC3839607__cshperspect-END-016949_F4
 figlink: /pmc/articles/PMC3839607/figure/A016949F4/
-number: Figure 4
+number: F4
 caption: Endosomal sorting regulates integrin-based focal adhesions. Focal adhesions
   containing active conformers of integrin β1 establish strong, yet dynamic, contacts
   between the ventral aspect of migrating cells and the underlying extracellular matrix.
@@ -25,8 +25,7 @@ pathway_score: 0.9434641
 filename: cshperspect-END-016949_F4.jpg
 figtitle: Endosomal sorting regulates integrin-based focal adhesions
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ genes:
   entrez: '5868'
 chemicals: []
 diseases: []
+figid_alias: PMC3839607__F4
+redirect_from: /figures/PMC3839607__F4
+figtype: Figure
 ---

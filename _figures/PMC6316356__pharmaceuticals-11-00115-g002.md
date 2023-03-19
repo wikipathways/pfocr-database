@@ -1,7 +1,7 @@
 ---
 figid: PMC6316356__pharmaceuticals-11-00115-g002
 figlink: /pmc/articles/PMC6316356/figure/pharmaceuticals-11-00115-f002/
-number: Figure 2
+number: F2
 caption: Graphic representation of the hepatic Hepc pathway in conditions of systemic
   iron increase. The iron signaling proteins (Fe2Tf and Bmps) interact with iron sensors
   (Tfr1, Hfe, Tfr2, BmpRs) and their co-activator (mHjv) to promote Hepc production.
@@ -183,4 +183,7 @@ chemicals:
   source: MESH
   identifier: D007501
 diseases: []
+figid_alias: PMC6316356__F2
+redirect_from: /figures/PMC6316356__F2
+figtype: Figure
 ---

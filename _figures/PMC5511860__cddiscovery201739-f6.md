@@ -1,7 +1,7 @@
 ---
 figid: PMC5511860__cddiscovery201739-f6
 figlink: /pmc/articles/PMC5511860/figure/fig6/
-number: Figure 6
+number: F6
 caption: BMP-2 induced EMT and breast cancer stemness through Rb and CD44 signaling.
   This diagram depicts the signaling pathway by which rhBMP-2 is found to induce EMT
   and stemness of breast cancer cells through Rb and CD44 to contribute to breast
@@ -180,4 +180,7 @@ genes:
   entrez: '4089'
 chemicals: []
 diseases: []
+figid_alias: PMC5511860__F6
+redirect_from: /figures/PMC5511860__F6
+figtype: Figure
 ---

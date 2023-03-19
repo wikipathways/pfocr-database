@@ -1,7 +1,7 @@
 ---
 figid: PMC6314074__cshperspectmed-HAE-031724_F3
 figlink: pmc/articles/PMC6314074/figure/A031724F3/
-number: Figure 3
+number: F3
 caption: Life cycle of hepatitis E virus (HEV). (1) Nonenveloped HEV virions bind
   to cellular receptors. Heparin sulfate proteoglycans (HSPGs) and heat shock cognate
   protein 70 (HSC70) are thought to be the attachment receptors for HEV but more research
@@ -42,8 +42,7 @@ pathway_score: 0.7580741
 filename: cshperspectmed-HAE-031724_F3.jpg
 figtitle: Life cycle of hepatitis E virus (HEV)
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -180,4 +179,7 @@ genes:
   entrez: '3309'
 chemicals: []
 diseases: []
+figid_alias: PMC6314074__F3
+redirect_from: /figures/PMC6314074__F3
+figtype: Figure
 ---

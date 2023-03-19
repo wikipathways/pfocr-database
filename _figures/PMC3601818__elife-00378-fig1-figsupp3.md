@@ -1,7 +1,7 @@
 ---
 figid: PMC3601818__elife-00378-fig1-figsupp3
 figlink: /pmc/articles/PMC3601818/figure/fig1s3/
-number: Figure 1—figure supplement 3
+number: SF1_3
 caption: '(A) Schematic model showing the core LIN-12/Notch signaling pathway. The
   binding of the ligand APX-1/DSL to the receptor LIN-12/Notch triggers proteolytic
   cleavages. SEL-12/Presenilin releases the Notch intracellular domain (NICD), which
@@ -16,8 +16,7 @@ pathway_score: 0.9190544
 filename: elife-00378-fig1-figsupp3.jpg
 figtitle: Schematic model of LIN-12/Notch signaling pathway
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -81,4 +80,7 @@ genes:
   entrez: '1444'
 chemicals: []
 diseases: []
+figid_alias: PMC3601818__SF1_3
+redirect_from: /figures/PMC3601818__SF1_3
+figtype: Supplemental figure
 ---

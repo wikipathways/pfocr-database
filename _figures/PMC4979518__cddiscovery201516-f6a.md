@@ -1,7 +1,7 @@
 ---
 figid: PMC4979518__cddiscovery201516-f6a
 figlink: /pmc/articles/PMC149053/figure/fig7/
-number: ''
+number: F6a
 caption: 'mTOR-dependent PCK1 expression is associated with cancer cell survival.
   (a) mTOR-PCK1 subnetwork constructed from the KEGG pathways. Network consists of
   node as protein/gene (or complex) and edges are inhibition or activation connection.
@@ -480,4 +480,7 @@ diseases:
 - word: Glycogen storage disease
   source: ''
   identifier: ''
+figid_alias: PMC4979518__F6a
+redirect_from: /figures/PMC4979518__F6a
+figtype: Figure
 ---

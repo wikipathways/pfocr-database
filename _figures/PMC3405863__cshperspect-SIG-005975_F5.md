@@ -1,7 +1,7 @@
 ---
 figid: PMC3405863__cshperspect-SIG-005975_F5
 figlink: /pmc/articles/PMC3405863/figure/A005975F5/
-number: Figure 5
+number: F5
 caption: The segmentation clock oscillator. (A) Evidence of an oscillator underlying
   vertebrate segmentation comes from the transcriptional expression of the hairy1
   gene (dark green) in periodic waves in the presomitic mesoderm (PSM). These waves
@@ -677,4 +677,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3405863__F5
+redirect_from: /figures/PMC3405863__F5
+figtype: Figure
 ---

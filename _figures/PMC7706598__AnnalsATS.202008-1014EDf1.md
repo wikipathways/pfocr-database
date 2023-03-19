@@ -1,7 +1,7 @@
 ---
 figid: PMC7706598__AnnalsATS.202008-1014EDf1
 figlink: pmc/articles/PMC7706598/figure/fig1/
-number: Figure 1
+number: F1
 caption: Schematic representation of the different mechanisms that could modify coronavirus
   disease (COVID-19) illness in patients with pulmonary arterial hypertension (PAH).
   The renin–angiotensin pathway is dysregulated in PAH with decreased angiotensin-converting
@@ -32,8 +32,7 @@ filename: AnnalsATS.202008-1014EDf1.jpg
 figtitle: Different mechanisms that could modify coronavirus disease (COVID-19) illness
   in patients with pulmonary arterial hypertension (PAH)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -112,4 +111,7 @@ diseases:
 - word: SARS-COV-2
   source: MESH
   identifier: D045169
+figid_alias: PMC7706598__F1
+redirect_from: /figures/PMC7706598__F1
+figtype: Figure
 ---

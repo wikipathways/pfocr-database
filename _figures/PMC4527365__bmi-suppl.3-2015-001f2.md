@@ -1,7 +1,7 @@
 ---
 figid: PMC4527365__bmi-suppl.3-2015-001f2
 figlink: /pmc/articles/PMC4527365/figure/f2-bmi-suppl.3-2015-001/
-number: Figure 2
+number: F2
 caption: 'Activation and downstream signaling of class III RTKs. In the inactivated
   state, RTKs are auto-inhibited by the JMD (purple line) in cis. Ligand binding occurs
   in the ED indicated by orange, purple, green, and blue circles. Ligands of RTKs
@@ -410,4 +410,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4527365__F2
+redirect_from: /figures/PMC4527365__F2
+figtype: Figure
 ---

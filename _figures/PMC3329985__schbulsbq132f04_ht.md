@@ -1,7 +1,7 @@
 ---
 figid: PMC3329985__schbulsbq132f04_ht
 figlink: /pmc/articles/PMC3329985/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Top Networks Associated With MK-801 Treatment Identified by Ingenuity Pathway
   Analysis. Protein symbols with red were upregulated while green were downregulated.
   Hub proteins not significantly altered in this study are shown as clear. (A) The
@@ -111,4 +111,7 @@ genes:
   entrez: '4609'
 chemicals: []
 diseases: []
+figid_alias: PMC3329985__F4
+redirect_from: /figures/PMC3329985__F4
+figtype: Figure
 ---

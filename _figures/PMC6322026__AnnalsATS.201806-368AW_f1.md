@@ -1,7 +1,7 @@
 ---
 figid: PMC6322026__AnnalsATS.201806-368AW_f1
 figlink: /pmc/articles/PMC6322026/figure/fig1/
-number: Figure 1
+number: F1
 caption: Mucus plugging causes hypoxic epithelial necrosis that triggers sterile inflammation
   in mucoobstructive lung disease. Mucus plugging produces regional hypoxia and necrosis
   of a subset of epithelial cells lining the airway surfaces. Dying epithelial cells
@@ -19,8 +19,7 @@ filename: AnnalsATS.201806-368AW_f1.jpg
 figtitle: Mucus plugging causes hypoxic epithelial necrosis that triggers sterile
   inflammation in mucoobstructive lung disease
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -74,4 +73,7 @@ diseases:
 - word: "Nurokhia \x1F Cell Necrosis"
   source: MESH
   identifier: D009336
+figid_alias: PMC6322026__F1
+redirect_from: /figures/PMC6322026__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7356105__microorganisms-08-00804-g002
 figlink: pmc/articles/PMC7356105/figure/microorganisms-08-00804-f002/
-number: Figure 2
+number: F2
 caption: The illustration depicts the localization of the gene products by cellular
   compartmentalization and indicates the downregulated expression of NF-kappaB signaling
   pathway as an effect of vitamin E formulation treatment on heat killed C. albicans-stimulated
@@ -17,8 +17,7 @@ figtitle: Illustration depicts the localization of the gene products by cellular
   and indicates the downregulated expression of NF-kappaB signaling pathway as an
   effect of vitamin E formulation treatment on heat killed C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -393,4 +392,7 @@ genes:
   entrez: '83933'
 chemicals: []
 diseases: []
+figid_alias: PMC7356105__F2
+redirect_from: /figures/PMC7356105__F2
+figtype: Figure
 ---

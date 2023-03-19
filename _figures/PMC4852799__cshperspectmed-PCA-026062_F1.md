@@ -1,7 +1,7 @@
 ---
 figid: PMC4852799__cshperspectmed-PCA-026062_F1
 figlink: /pmc/articles/PMC4852799/figure/A026062F1/
-number: Figure 1
+number: F1
 caption: Appropriate activation and feedback control of TP53 activity is critical
   to effective tumor suppression. (A) In the absence of a TP53-activating signal,
   TP53 protein levels are maintained at low levels in most cell types by the E3 ubiquitin
@@ -183,4 +183,7 @@ genes:
   entrez: '472'
 chemicals: []
 diseases: []
+figid_alias: PMC4852799__F1
+redirect_from: /figures/PMC4852799__F1
+figtype: Figure
 ---

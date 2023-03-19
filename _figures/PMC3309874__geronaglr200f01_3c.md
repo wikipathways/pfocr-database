@@ -1,7 +1,7 @@
 ---
 figid: PMC3309874__geronaglr200f01_3c
 figlink: /pmc/articles/PMC3309874/figure/fig1/
-number: Figure 1
+number: F1
 caption: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major candidate
   pathway in human longevity. Binding of IGF-1 or insulin (INS) initiates the evolutionarily
   conserved IRS–PI3K–AKT signaling cascade to phosphorylate Forkhead transcription
@@ -176,4 +176,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3309874__F1
+redirect_from: /figures/PMC3309874__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4659440__tog-suppl.1-2015-013f5
 figlink: /pmc/articles/PMC4659440/figure/f5-tog-suppl.1-2015-013/
-number: Figure 5
+number: F5
 caption: 'Functional crosstalk of HGF-MET signaling pathway with EGFR and VEGFR signaling
   pathway.Notes: The anticancer treatment with EGFR antibodies (cetuximab, panitumumab)
   or EGFR TKIs (gefitinib, erlotinib) leads to MET amplification with subsequent activation
@@ -230,4 +230,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4659440__F5
+redirect_from: /figures/PMC4659440__F5
+figtype: Figure
 ---

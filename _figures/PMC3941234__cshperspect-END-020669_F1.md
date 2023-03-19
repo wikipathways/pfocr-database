@@ -1,7 +1,7 @@
 ---
 figid: PMC3941234__cshperspect-END-020669_F1
 figlink: /pmc/articles/PMC3941234/figure/A020669F1/
-number: Figure 1
+number: F1
 caption: Endocytosis in neurons. (A) Upon ligand binding, Trk receptors are activated
   and recruit PI3 kinase, Ras/MAPK, and PLC-γ to initiate downstream signaling pathways.
   (B) Internalization of neurotrophin/Trk complexes can occur via clathrin-dependent
@@ -631,4 +631,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3941234__F1
+redirect_from: /figures/PMC3941234__F1
+figtype: Figure
 ---

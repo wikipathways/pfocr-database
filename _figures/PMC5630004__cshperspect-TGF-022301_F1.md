@@ -1,7 +1,7 @@
 ---
 figid: PMC5630004__cshperspect-TGF-022301_F1
 figlink: /pmc/articles/PMC5630004/figure/A022301F1/
-number: Figure 1
+number: F1
 caption: Context-dependent transforming growth factor β (TGF-β) signaling outputs
   arise from pathway interactions. Schematic of TGF-β signaling via the canonical
   Smad pathway (center) or noncanonical signaling pathways (right). Modification of
@@ -499,4 +499,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5630004__F1
+redirect_from: /figures/PMC5630004__F1
+figtype: Figure
 ---

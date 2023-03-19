@@ -1,7 +1,7 @@
 ---
 figid: PMC6316386__pharmaceuticals-11-00100-g001
 figlink: /pmc/articles/PMC6316386/figure/pharmaceuticals-11-00100-f001/
-number: Figure 1
+number: F1
 caption: 'Transient receptor potential (TRP) channels and itch signaling. Six TRP
   channels are implicated in itch signaling, including TRPA1, TRPV1, TRPV3, TRPV4,
   TRPM8, and TRPC4. All itch-related TRP channels are expressed in keratinocytes and/or
@@ -276,4 +276,7 @@ chemicals:
   source: MESH
   identifier: C017987
 diseases: []
+figid_alias: PMC6316386__F1
+redirect_from: /figures/PMC6316386__F1
+figtype: Figure
 ---

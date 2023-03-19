@@ -1,7 +1,7 @@
 ---
 figid: PMC4200213__cshperspectmed-TUB-021105_F4
 figlink: /pmc/articles/PMC4200213/figure/A021105F4/
-number: Figure 4
+number: F4
 caption: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
   drugs. The saturated α-alkyl chain (C24 or C26 in Mtb) and the meromycoloyl chain
   (C50–C62) are synthesized by fatty-acid synthase-I (FAS-I) and fatty-acid synthase-II
@@ -31,8 +31,7 @@ filename: cshperspectmed-TUB-021105_F4.jpg
 figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
   drugs
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -107,4 +106,7 @@ chemicals:
   source: MESH
   identifier: D014260
 diseases: []
+figid_alias: PMC4200213__F4
+redirect_from: /figures/PMC4200213__F4
+figtype: Figure
 ---

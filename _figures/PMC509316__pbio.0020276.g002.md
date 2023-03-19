@@ -1,7 +1,7 @@
 ---
 figid: PMC509316__pbio.0020276.g002
 figlink: /pmc/articles/PMC509316/figure/pbio-0020276-g002/
-number: Figure 2
+number: F2
 caption: Toll is activated by the processed Spätzle (left). Toll activation leads
   to intracellular signaling via cytoplasmic proteins Tube and Pelle, leading to the
   degradation of Cactus and nuclear localization of NF-κB proteins Dorsal and Dif.
@@ -157,4 +157,7 @@ genes:
   entrez: '840'
 chemicals: []
 diseases: []
+figid_alias: PMC509316__F2
+redirect_from: /figures/PMC509316__F2
+figtype: Figure
 ---

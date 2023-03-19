@@ -1,7 +1,7 @@
 ---
 figid: PMC3763633__pharmaceuticals-05-00133-g008
 figlink: /pmc/articles/PMC3763633/figure/pharmaceuticals-05-00133-f008/
-number: Figure 8
+number: F8
 caption: The morphine biosynthetic pathway downstream of (S)-N-methylcoclaurine with
   the results of expression analysis of selected morphine biosynthetic genes, CYP80B3,
   4'OMT, SalAT, T6ODM, COR (alleles Cor1-1 and Cor2-1), and CODM by RT-PCR. Actin
@@ -19,8 +19,7 @@ figtitle: The morphine biosynthetic pathway downstream of (S)-N-methylcoclaurine
   the results of expression analysis of selected morphine biosynthetic genes, CYP80B3,
   4'OMT, SalAT, T6ODM, COR (alleles Cor1-1 and Cor2-1), and CODM by RT-PCR
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -119,4 +118,7 @@ chemicals:
   source: MESH
   identifier: D013797
 diseases: []
+figid_alias: PMC3763633__F8
+redirect_from: /figures/PMC3763633__F8
+figtype: Figure
 ---

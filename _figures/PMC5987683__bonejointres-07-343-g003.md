@@ -1,7 +1,7 @@
 ---
 figid: PMC5987683__bonejointres-07-343-g003
 figlink: /pmc/articles/PMC5987683/figure/fig3-2046-3758.75.BJR-2017-0284.R1/
-number: Fig. 3
+number: F3
 caption: Diagram of the mitogen-activated protein kinase signalling pathway. Rectangular
   nodes correspond to genes or gene families and their colour indicates mRNA expression
   (blue means downregulated, red means upregulated). The box to the left of those
@@ -492,4 +492,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5987683__F3
+redirect_from: /figures/PMC5987683__F3
+figtype: Figure
 ---

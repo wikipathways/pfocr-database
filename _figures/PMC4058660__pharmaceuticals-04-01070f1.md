@@ -1,7 +1,7 @@
 ---
 figid: PMC4058660__pharmaceuticals-04-01070f1
 figlink: /pmc/articles/PMC4058660/figure/f1-pharmaceuticals-04-01070/
-number: Figure 1
+number: F1
 caption: PI3K signaling in normal neural function and LTP induction.
 pmcid: PMC4058660
 papertitle: The Phosphatidylinositol 3-Kinase/mTor Pathway as a Therapeutic Target
@@ -190,4 +190,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4058660__F1
+redirect_from: /figures/PMC4058660__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3134347__jexboterr088f04_ht
 figlink: /pmc/articles/PMC3134347/figure/fig4/
-number: Fig. 4
+number: F4
 caption: A pathway description of the differentially expressed starch metabolism-related
   genes and their ratios between superior and inferior spikelets at 9 DPA. The ratio
   means the fold difference in the respective gene expression of superior to inferior
@@ -17,8 +17,7 @@ filename: jexboterr088f04_ht.jpg
 figtitle: A pathway description of the differentially expressed starch metabolism-related
   genes and their ratios between superior and inferior spikelets at 9 DPA
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ chemicals:
   source: MESH
   identifier: D014530
 diseases: []
+figid_alias: PMC3134347__F4
+redirect_from: /figures/PMC3134347__F4
+figtype: Figure
 ---

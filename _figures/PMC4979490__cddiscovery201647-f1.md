@@ -1,7 +1,7 @@
 ---
 figid: PMC4979490__cddiscovery201647-f1
 figlink: /pmc/articles/PMC4979490/figure/fig1/
-number: Figure 1
+number: F1
 caption: TCR activation and IL-2 signaling results in c-Myc expression, which coordinates
   the metabolic switch from oxidative phosphorylation to aerobic glycolysis. This
   process is accompanied by an increased flux of glucose and glutamine into the cell,
@@ -21,8 +21,7 @@ filename: cddiscovery201647-f1.jpg
 figtitle: TCR activation and IL-2 signaling results in c-Myc expression, which coordinates
   the metabolic switch from oxidative phosphorylation to aerobic glycolysis
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ chemicals:
   source: MESH
   identifier: D014530
 diseases: []
+figid_alias: PMC4979490__F1
+redirect_from: /figures/PMC4979490__F1
+figtype: Figure
 ---

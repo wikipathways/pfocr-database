@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f4
 figlink: /pmc/articles/PMC4979452/figure/fig4/
-number: Figure 4
+number: F4
 caption: PI3K-AKT (phosphatidylinositol-4,5-bisphosphate 3-kinase-AKT) signaling pathway.
   The PI3K-PKB/AKT pathway is controlled by a multistep process. Activated receptors
   directly stimulate class 1A PI3Ks bound via their regulatory subunit or adapter
@@ -426,4 +426,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4979452__F4
+redirect_from: /figures/PMC4979452__F4
+figtype: Figure
 ---

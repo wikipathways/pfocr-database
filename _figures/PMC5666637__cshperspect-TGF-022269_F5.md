@@ -1,7 +1,7 @@
 ---
 figid: PMC5666637__cshperspect-TGF-022269_F5
 figlink: /pmc/articles/PMC5666637/figure/A022269F5/
-number: Figure 5
+number: F5
 caption: Roles of transforming growth factor β (TGF-β) and bone morphogenetic protein
   (BMP) signaling in bone homeostasis. Bone homeostasis is maintained through continuous
   cycles of bone resorption by osteoclasts and new bone formation by osteoblasts and
@@ -345,4 +345,7 @@ genes:
   entrez: '653'
 chemicals: []
 diseases: []
+figid_alias: PMC5666637__F5
+redirect_from: /figures/PMC5666637__F5
+figtype: Figure
 ---

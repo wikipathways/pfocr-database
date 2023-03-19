@@ -1,7 +1,7 @@
 ---
 figid: PMC5734222__RevDiabeticStud-13-217-001
 figlink: /pmc/articles/PMC5734222/figure/F1/
-number: Figure 1
+number: F1
 caption: During insulin deficiency, glucose uptake into cells is limited, and there
   is a need for an alternative energy substrate. The breakdown of non-esterified fatty
   acids allows the entry of fatty acid CoA to enter the tricarboxylic acid cycle,
@@ -18,8 +18,7 @@ filename: RevDiabeticStud-13-217-001.jpg
 figtitle: 'Blood Ketones: Measurement, Interpretation, Limitations, and Utility in
   the Management of Diabetic Ketoacidosis'
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -90,4 +89,7 @@ chemicals:
   source: MESH
   identifier: D020155
 diseases: []
+figid_alias: PMC5734222__F1
+redirect_from: /figures/PMC5734222__F1
+figtype: Figure
 ---

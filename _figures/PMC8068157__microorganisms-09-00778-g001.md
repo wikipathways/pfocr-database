@@ -1,7 +1,7 @@
 ---
 figid: PMC8068157__microorganisms-09-00778-g001
 figlink: pmc/articles/PMC8068157/figure/microorganisms-09-00778-f001/
-number: Figure 1
+number: F1
 caption: Schematic diagram of regulation of programmed cell death ligand 1 (PD-L1)
   gene expression. Green color indicates positive regulators, while orange denotes
   negative regulators. Red color indicates viral factors. IFN-γ, interferon-γ; TNF-α,
@@ -21,8 +21,7 @@ pathway_score: 0.9729838
 filename: microorganisms-09-00778-g001.jpg
 figtitle: Regulation of programmed cell death ligand 1 (PD-L1) gene expression
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -254,4 +253,7 @@ genes:
   entrez: '29126'
 chemicals: []
 diseases: []
+figid_alias: PMC8068157__F1
+redirect_from: /figures/PMC8068157__F1
+figtype: Figure
 ---

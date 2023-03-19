@@ -1,7 +1,7 @@
 ---
 figid: PMC4448604__cshperspect-CSZ-019224_F2
 figlink: /pmc/articles/PMC4448604/figure/A019224F2/
-number: Figure 2
+number: F2
 caption: The Drosophila Hippo pathway. More than 40 proteins have been identified
   in the Drosophila Hippo pathway. Growth-promoting proteins are depicted in red and
   growth repressors in blue. Many upstream regulatory proteins control activity of
@@ -239,4 +239,7 @@ genes:
   entrez: '11228'
 chemicals: []
 diseases: []
+figid_alias: PMC4448604__F2
+redirect_from: /figures/PMC4448604__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5711269__AnnalsATS.201702-136AW_f1
 figlink: /pmc/articles/PMC5711269/figure/fig1/
-number: Figure 1
+number: F1
 caption: Reverse cholesterol transport pathway. Reverse cholesterol transport is the
   pathway by which tissue macrophages avoid toxic cholesterol overload. Cellular uptake
   of cholesterol from low-density lipoprotein (LDL) particles or oxidized LDL (oxLDL)
@@ -141,4 +141,7 @@ genes:
   entrez: '116519'
 chemicals: []
 diseases: []
+figid_alias: PMC5711269__F1
+redirect_from: /figures/PMC5711269__F1
+figtype: Figure
 ---

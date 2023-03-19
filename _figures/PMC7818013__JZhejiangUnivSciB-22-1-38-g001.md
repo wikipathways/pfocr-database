@@ -1,7 +1,7 @@
 ---
 figid: PMC7818013__JZhejiangUnivSciB-22-1-38-g001
 figlink: pmc/articles/PMC7818013/figure/JZhejiangUnivSciB-22-1-38-f001/
-number: Fig. 1
+number: F1
 caption: '. Regulation and binding proteins of 53BP1. 53BP1: p53-binding protein 1;
   ATM: ataxia-telangiectasia mutated; BRCT: BRCA1 carboxyl-terminal; IRIF: ionizing
   radiarion-induced foci; MDC1: mediator of DNA damage checkpoint protein 1; P: phosphorylated;
@@ -17,8 +17,7 @@ pathway_score: 0.9218093
 filename: JZhejiangUnivSciB-22-1-38-g001.jpg
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ chemicals:
   source: MESH
   identifier: C521637
 diseases: []
+figid_alias: PMC7818013__F1
+redirect_from: /figures/PMC7818013__F1
+figtype: Figure
 ---

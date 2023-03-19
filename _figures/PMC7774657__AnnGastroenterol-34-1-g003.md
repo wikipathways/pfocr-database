@@ -1,7 +1,7 @@
 ---
 figid: PMC7774657__AnnGastroenterol-34-1-g003
 figlink: pmc/articles/PMC7774657/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Schematic illustration of aspirin’s role in colorectal cancer prevention
   Cyclooxygenase (COX) dependent pathway (Left panel): Inhibition of COX-1 in platelets
   and COX-2 in epithelial cells. Prostaglandins (PGs) are important derivatives of
@@ -31,8 +31,7 @@ filename: AnnGastroenterol-34-1-g003.jpg
 figtitle: 'Aspirin’s role in colorectal cancer prevention Cyclooxygenase (COX) dependent
   pathway (Left panel): Inhibition of COX-1 in platelets and COX-2 in epithelial cells'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -214,4 +213,7 @@ chemicals:
   source: MESH
   identifier: D000596
 diseases: []
+figid_alias: PMC7774657__F1
+redirect_from: /figures/PMC7774657__F1
+figtype: Figure
 ---

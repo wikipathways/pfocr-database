@@ -1,7 +1,7 @@
 ---
 figid: PMC6736176__radiol.2019190115.fig4
 figlink: pmc/articles/PMC6736176/figure/fig4/
-number: 'Figure 4:'
+number: F4
 caption: 'Proposed mechanism of increased hepatocellular carcinoma (HCC) cell killing
   and reduced postablation tumor growth with neoadjuvant phoshoinositide 3-kinase
   (PI3K)/mammalian target of rapamycin (mTOR)/protein kinase B (AKT) pathway inhibition
@@ -24,8 +24,7 @@ filename: radiol.2019190115.fig4.jpg
 figtitle: Single-Dose Neoadjuvant AKT Pathway Inhibitor Reduces Growth of Hepatocellular
   Carcinoma after Laser Thermal Ablation in Small-Animal Model
 year: ''
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -149,4 +148,7 @@ chemicals:
   source: MESH
   identifier: C531198
 diseases: []
+figid_alias: PMC6736176__F4
+redirect_from: /figures/PMC6736176__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3140686__cshperspect-LIP-004713_F4
 figlink: /pmc/articles/PMC3140686/figure/A004713F4/
-number: Figure 4
+number: F4
 caption: Overview of the biosynthetic pathways of sterols. The four-ring sterol backbone
   derives from reductive polymerizations of acetate to generate squalene, which is
   cyclized to form lanosterol, the first sterol in the pathway. The rate-limiting
@@ -20,8 +20,7 @@ pathway_score: 0.8660233
 filename: cshperspect-LIP-004713_F4.jpg
 figtitle: Overview of the biosynthetic pathways of sterols
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -110,4 +109,7 @@ chemicals:
   source: MESH
   identifier: D013261
 diseases: []
+figid_alias: PMC3140686__F4
+redirect_from: /figures/PMC3140686__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7065518__mSystems.00843-19-f0005
 figlink: pmc/articles/PMC7065518/figure/fig5/
-number: FIG 5
+number: F5
 caption: Working model for metabolic outcomes resulting from 5,10-mTHF limitation.
   2AA-dependent damage of GlyA in a ridA mutant of S. enterica causes a glycine/5,10-mTHF
   limitation. The 5,10-mTHF limitation leads to a downstream decrease in CoA, altering
@@ -23,8 +23,7 @@ pathway_score: 0.9642413
 filename: mSystems.00843-19-f0005.jpg
 figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitation
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -139,4 +138,7 @@ chemicals:
   source: MESH
   identifier: C011632
 diseases: []
+figid_alias: PMC7065518__F5
+redirect_from: /figures/PMC7065518__F5
+figtype: Figure
 ---

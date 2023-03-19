@@ -1,7 +1,7 @@
 ---
 figid: PMC6739497__mSphere.00620-19-f0005
 figlink: /pmc/articles/PMC6739497/figure/fig5/
-number: FIG 5
+number: F5
 caption: Upregulation of genes in the SNARE interactions in vesicular transport pathway
   during treatment with compound 9029936. KEGG analysis indicated that a total of
   20 genes involved in the SNARE interactions in vesicular transport pathway, indicated
@@ -17,8 +17,7 @@ filename: mSphere.00620-19-f0005.jpg
 figtitle: Upregulation of genes in the SNARE interactions in vesicular transport pathway
   during treatment with compound 9029936
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -62,4 +61,7 @@ chemicals:
   source: MESH
   identifier: C011680
 diseases: []
+figid_alias: PMC6739497__F5
+redirect_from: /figures/PMC6739497__F5
+figtype: Figure
 ---

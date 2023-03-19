@@ -1,7 +1,7 @@
 ---
 figid: PMC7694261__antioxidants-09-01086-sch002
 figlink: pmc/articles/PMC7694261/figure/antioxidants-09-01086-sch002/
-number: Scheme 2
+number: S2
 caption: (A) The positions where the Δyap1, Δzwf1, and Δglr1 mutants affect glutathione
   synthesis and metabolism. (B) The effect due to lack of thioredoxin in the Δtrx2
   mutant in compromising the reduction by thioredoxin-dependent mechanisms of protein
@@ -18,8 +18,7 @@ filename: antioxidants-09-01086-sch002.jpg
 figtitle: ' The positions where the Δyap1, Δzwf1, and Δglr1 mutants affect glutathione
   synthesis and metabolism'
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -116,4 +115,7 @@ chemicals:
   source: MESH
   identifier: D004220
 diseases: []
+figid_alias: PMC7694261__S2
+redirect_from: /figures/PMC7694261__S2
+figtype: Scheme
 ---

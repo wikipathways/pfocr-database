@@ -1,7 +1,7 @@
 ---
 figid: PMC4218690__cin-suppl.5-2014-001f1
 figlink: /pmc/articles/PMC4218690/figure/f1-cin-suppl.5-2014-001/
-number: Figure 1
+number: F1
 caption: Honokiol and ionizing radiation (IR) affect Notch signaling. (A) Upon binding
   to a ligand, the transmembrane Notch receptor is cleaved by γ-secretase, allowing
   the intracellular domain to translocate to the nucleus, where it can activate a
@@ -190,4 +190,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4218690__F1
+redirect_from: /figures/PMC4218690__F1
+figtype: Figure
 ---

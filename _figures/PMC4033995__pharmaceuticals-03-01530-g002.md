@@ -1,7 +1,7 @@
 ---
 figid: PMC4033995__pharmaceuticals-03-01530-g002
 figlink: /pmc/articles/PMC4033995/figure/pharmaceuticals-03-01530-f002/
-number: Figure 2
+number: F2
 caption: A simplified diagram of the inflammatory pathway and its mediators.
 pmcid: PMC4033995
 papertitle: 'Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): Progress in Small Molecule
@@ -12,8 +12,7 @@ pathway_score: 0.7806513
 filename: pharmaceuticals-03-01530-g002.jpg
 figtitle: A simplified diagram of the inflammatory pathway and its mediators
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ chemicals:
   source: MESH
   identifier: D015289
 diseases: []
+figid_alias: PMC4033995__F2
+redirect_from: /figures/PMC4033995__F2
+figtype: Figure
 ---

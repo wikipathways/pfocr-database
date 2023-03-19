@@ -1,7 +1,7 @@
 ---
 figid: PMC8018703__oncoscience-08-01-g001
 figlink: pmc/articles/PMC8018703/figure/F1/
-number: Figure 1
+number: F1
 caption: A. Cancer cells develop metabolic plasticity in order to satisfy the sufficient
   supply of reduced carbon sources for the generation of ATP, building blocks and
   reducing power to support cancer cell survival and proliferation. The figure depicts
@@ -34,8 +34,7 @@ filename: oncoscience-08-01-g001.jpg
 figtitle: 'Monitoring vascular normalization: new opportunities for mitochondrial
   inhibitors in breast cancer'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -189,4 +188,7 @@ chemicals:
   source: MESH
   identifier: D010429
 diseases: []
+figid_alias: PMC8018703__F1
+redirect_from: /figures/PMC8018703__F1
+figtype: Figure
 ---

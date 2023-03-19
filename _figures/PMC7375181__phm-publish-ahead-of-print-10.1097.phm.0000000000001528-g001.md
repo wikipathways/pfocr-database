@@ -1,7 +1,7 @@
 ---
 figid: PMC7375181__phm-publish-ahead-of-print-10.1097.phm.0000000000001528-g001
 figlink: pmc/articles/PMC7375181/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Renin-Angiotensin System Pathway and Skeletal Muscle: A Complex Interaction.
   Schematic drawing shows the classical (blue) and non-classical (yellow) pathway
   of the renin-angiotensin system and their multiple effects on the skeletal muscle.
@@ -21,8 +21,7 @@ pathway_score: 0.9367797
 filename: phm-publish-ahead-of-print-10.1097.phm.0000000000001528-g001.jpg
 figtitle: 'Renin-Angiotensin System Pathway and Skeletal Muscle: A Complex Interaction'
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ genes:
   entrez: '56477'
 chemicals: []
 diseases: []
+figid_alias: PMC7375181__F1
+redirect_from: /figures/PMC7375181__F1
+figtype: Figure
 ---

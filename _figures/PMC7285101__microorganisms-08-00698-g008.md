@@ -1,7 +1,7 @@
 ---
 figid: PMC7285101__microorganisms-08-00698-g008
 figlink: pmc/articles/PMC7285101/figure/microorganisms-08-00698-f008/
-number: Figure 8
+number: F8
 caption: MAH and MAB common enzymes associated with metabolic pathways. (A) Peptidoglycan
   biosynthesis pathway upregulated under anaerobic and biofilm conditions, and during
   exposure with antibiotics. (B) Pantothenate and CoA biosynthesis and (C) Nitrogen
@@ -16,8 +16,7 @@ pathway_score: 0.5256966
 filename: microorganisms-08-00698-g008.jpg
 figtitle: MAH and MAB common enzymes associated with metabolic pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -162,4 +161,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC7285101__F8
+redirect_from: /figures/PMC7285101__F8
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3817731__pharmaceuticals-06-00988-g003
 figlink: /pmc/articles/PMC3817731/figure/pharmaceuticals-06-00988-f003/
-number: Figure 3
+number: F3
 caption: Activation of the EGFR pathway and the consequent engagement of the Ras/Raf/MAPK
   and PI3K/Akt pathways.
 pmcid: PMC3817731
@@ -149,4 +149,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3817731__F3
+redirect_from: /figures/PMC3817731__F3
+figtype: Figure
 ---

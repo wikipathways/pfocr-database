@@ -1,7 +1,7 @@
 ---
 figid: PMC7284741__microorganisms-08-00625-g006
 figlink: pmc/articles/PMC7284741/figure/microorganisms-08-00625-f006/
-number: Figure 6
+number: F6
 caption: Proposed metabolic degradation pathway of azoxystrobin in strain SH14.
 pmcid: PMC7284741
 papertitle: Kinetics and New Mechanism of Azoxystrobin Biodegradation by an Ochrobactrum
@@ -12,8 +12,7 @@ pathway_score: 0.5072303
 filename: microorganisms-08-00625-g006.jpg
 figtitle: Proposed metabolic degradation pathway of azoxystrobin in strain SH14
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ chemicals:
   source: MESH
   identifier: D004061
 diseases: []
+figid_alias: PMC7284741__F6
+redirect_from: /figures/PMC7284741__F6
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3524696__medscimonit-17-2-RA44-g001
 figlink: /pmc/articles/PMC3524696/figure/f1-medscimonit-17-2-ra44/
-number: Figure 1
+number: F1
 caption: The schematic diagram represents the ischemic preconditioning pathway in
   cardiomyocytes. IPC induces cardiomyocytes to release adenosine, bradykinin and
   endogenous opioid which occupy their specific G-protein coupled receptors. After
@@ -259,4 +259,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3524696__F1
+redirect_from: /figures/PMC3524696__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5702855__cddiscovery201769-f2
 figlink: /pmc/articles/PMC5702855/figure/fig2/
-number: Figure 2
+number: F2
 caption: Multiple signaling pathways drive EMT in GBC cells. The TGF-β signaling pathway,
   Wnt signaling pathway and the Hh signaling pathway can govern the switch from an
   epithelial to a mesenchymal phenotype by upregulating oncogenic or decreasing tumor-suppressive
@@ -324,4 +324,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5702855__F2
+redirect_from: /figures/PMC5702855__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6040629__elife-34226-fig2-figsupp7
 figlink: /pmc/articles/PMC6040629/figure/fig2s7/
-number: Figure 2—figure supplement 7
+number: SF2_7
 caption: 'These include the pathways for leucine, valine, isoleucine, histidine, lysine,
   threonine, tryptophan, phenylalanine and methionine, which were all more complete
   in the Urchoanozoan than in the Urmetazoan. Green: pathway components present in
@@ -16,8 +16,7 @@ filename: elife-34226-fig2-figsupp7.jpg
 figtitle: Pathway components necessary for the synthesis of the essential amino acids
   were lost in animals
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -299,4 +298,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC6040629__SF2_7
+redirect_from: /figures/PMC6040629__SF2_7
+figtype: Supplemental figure
 ---

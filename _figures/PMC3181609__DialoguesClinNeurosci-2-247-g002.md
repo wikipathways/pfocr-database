@@ -1,7 +1,7 @@
 ---
 figid: PMC3181609__DialoguesClinNeurosci-2-247-g002
 figlink: /pmc/articles/PMC3181609/figure/DialoguesClinNeurosci-2-247-g002/
-number: Figure 2
+number: F2
 caption: 'Amyloid precursor protein (APP) is processed either by β-secretase into
   a nonamyloidogenic pathway or by β- and γ-secretases to produce β-amyloid peptide
   (βA). βA could decrease choline acetyltransferase (CAT, the acetylcholine synthesis
@@ -31,8 +31,7 @@ figtitle: Amyloid precursor protein (APP) is processed either by Beta-secretase 
   a nonamyloidogenic pathway or by Beta- and Gamma-secretases to produce Beta-amyloid
   peptide (BA)
 year: '2000'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ chemicals:
   source: MESH
   identifier: D002794
 diseases: []
+figid_alias: PMC3181609__F2
+redirect_from: /figures/PMC3181609__F2
+figtype: Figure
 ---

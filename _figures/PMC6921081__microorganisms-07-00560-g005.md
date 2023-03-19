@@ -1,7 +1,7 @@
 ---
 figid: PMC6921081__microorganisms-07-00560-g005
 figlink: /pmc/articles/PMC6921081/figure/microorganisms-07-00560-f005/
-number: Figure 5
+number: F5
 caption: Proposed pathway for epoxy-janthitrem I–IV biosynthesis. The suggested scheme
   follows the KEGG indole diterpene biosynthetic pathway, illustrating a parsimonious
   route to epoxy-janthitrem I (11, 12-epoxy-janthitrem G) and its variants (epoxy-janthitrems
@@ -16,8 +16,7 @@ pathway_score: 0.7244377
 filename: microorganisms-07-00560-g005.jpg
 figtitle: Proposed pathway for epoxy-janthitrem I–IV biosynthesis
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,4 +74,7 @@ diseases:
 - word: dehydration
   source: MESH
   identifier: D003681
+figid_alias: PMC6921081__F5
+redirect_from: /figures/PMC6921081__F5
+figtype: Figure
 ---

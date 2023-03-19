@@ -1,7 +1,7 @@
 ---
 figid: PMC3367549__cshperspect-MDV-008151_F4
 figlink: /pmc/articles/PMC3367549/figure/A008151F4/
-number: Figure 4
+number: F4
 caption: The BMP signaling pathway and regulation of SMAD activity. Binding of BMP
   ligand to BMPRII results in dimerization with BMPRI and phosphorylation of receptor
   (R-)Smads (Smad1, 5, or 8) close to the carboxyl terminus. These activated R-Smads
@@ -219,4 +219,7 @@ genes:
   entrez: '353500'
 chemicals: []
 diseases: []
+figid_alias: PMC3367549__F4
+redirect_from: /figures/PMC3367549__F4
+figtype: Figure
 ---

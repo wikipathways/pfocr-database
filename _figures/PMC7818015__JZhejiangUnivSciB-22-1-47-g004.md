@@ -1,7 +1,7 @@
 ---
 figid: PMC7818015__JZhejiangUnivSciB-22-1-47-g004
 figlink: pmc/articles/PMC7818015/figure/JZhejiangUnivSciB-22-1-47-f004/
-number: Fig. 4
+number: F4
 caption: .  AlkB homolog 3 (ALKBH3)-dependent repair pathway. (a) Recruitment of ALKBH3
   by transcription machinery. When the alkylation lesion is buried in double-stranded
   DNA (dsDNA), it may require transcription machinery to recognize and initiate the
@@ -22,8 +22,7 @@ pathway_score: 0.8908663
 filename: JZhejiangUnivSciB-22-1-47-g004.jpg
 figtitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,4 +74,7 @@ genes:
   entrez: '221120'
 chemicals: []
 diseases: []
+figid_alias: PMC7818015__F4
+redirect_from: /figures/PMC7818015__F4
+figtype: Figure
 ---

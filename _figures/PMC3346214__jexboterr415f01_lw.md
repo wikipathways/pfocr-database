@@ -1,7 +1,7 @@
 ---
 figid: PMC3346214__jexboterr415f01_lw
 figlink: /pmc/articles/PMC3346214/figure/fig1/
-number: Fig. 1
+number: F1
 caption: A general schematic diagram of the flavonoid biosynthetic pathway. CHI, chalcone
   isomerase; CHS, chalcone synthase; F3H, flavonoid 3-hydroxylase; F3′H, flavonoid
   3′-hydroxylase; FLS, flavonol synthase; DFR or BAN, dihydroflavonol reductase; LAR,
@@ -16,8 +16,7 @@ pathway_score: 0.8387836
 filename: jexboterr415f01_lw.jpg
 figtitle: A general schematic diagram of the flavonoid biosynthetic pathway
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -91,4 +90,7 @@ chemicals:
   source: MESH
   identifier: D047188
 diseases: []
+figid_alias: PMC3346214__F1
+redirect_from: /figures/PMC3346214__F1
+figtype: Figure
 ---

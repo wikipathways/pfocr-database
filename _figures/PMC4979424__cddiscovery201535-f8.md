@@ -1,7 +1,7 @@
 ---
 figid: PMC4979424__cddiscovery201535-f8
 figlink: /pmc/articles/PMC4979424/figure/fig8/
-number: Figure 8
+number: F8
 caption: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis.
   After VacA was translocated into cells via a lipid raft-dependent pathway, toxin
   channel activity is proposed to cause dysregulated GSH metabolism and activation
@@ -22,8 +22,7 @@ pathway_score: 0.976032
 filename: cddiscovery201535-f8.jpg
 figtitle: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ genes:
   entrez: '5594'
 chemicals: []
 diseases: []
+figid_alias: PMC4979424__F8
+redirect_from: /figures/PMC4979424__F8
+figtype: Figure
 ---

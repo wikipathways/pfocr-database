@@ -1,7 +1,7 @@
 ---
 figid: PMC6631185__pharmaceuticals-12-00050-g004
 figlink: /pmc/articles/PMC6631185/figure/pharmaceuticals-12-00050-f004/
-number: Figure 4
+number: F4
 caption: Signaling pathway nodes effected by loss of CDK11 in A375 melanoma cells
   following PanCancer Reactome pathways analysis. A375 cells were transfected with
   siRNA directed against CDK11 or control siRNA. After 48 h, cells were collected
@@ -277,4 +277,7 @@ diseases:
 - word: Fanconi anemia
   source: ''
   identifier: ''
+figid_alias: PMC6631185__F4
+redirect_from: /figures/PMC6631185__F4
+figtype: Figure
 ---

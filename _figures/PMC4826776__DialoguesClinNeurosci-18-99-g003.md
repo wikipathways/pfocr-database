@@ -1,7 +1,7 @@
 ---
 figid: PMC4826776__DialoguesClinNeurosci-18-99-g003
 figlink: /pmc/articles/PMC4826776/figure/DialoguesClinNeurosci-18-99-g003/
-number: Figure 3
+number: F3
 caption: 'In Parkinson disease, dopamine arising from the substantia nigra pars compacta
   is thought to activate D1-expressing striatal medium spiny neurons of the direct
   pathway (red lines) and to inhibit D2-expressing striatal neurons of the indirect
@@ -27,8 +27,7 @@ filename: DialoguesClinNeurosci-18-99-g003.jpg
 figtitle: Optogenetic approaches to evaluate striatal function in animal models of
   Parkinson disease
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ genes:
   entrez: '2821'
 chemicals: []
 diseases: []
+figid_alias: PMC4826776__F3
+redirect_from: /figures/PMC4826776__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3334516__carcinbgs114f04_4c
 figlink: /pmc/articles/PMC3334516/figure/fig4/
-number: Fig. 4
+number: F4
 caption: Schematic illustration of TGF-β signaling pathway members and potential pathway
   member LRG1. TGF-β pathway comprises the canonical and non-canonical signaling pathways.
   miR-335 regulates cell migration and invasion through targeting of the three branches
@@ -298,4 +298,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3334516__F4
+redirect_from: /figures/PMC3334516__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4943391__theoncologist_15509_f2
 figlink: /pmc/articles/PMC4943391/figure/F2/
-number: Figure 2
+number: F2
 caption: 'Melanocyte differentiation pathway dependent on MSHα and ACTH. MSHα and
   ACTH can both bind to MC2R. MC2R is coupled to G-protein α-s, which stimulates adenylate
   cyclase type I, increasing production of cAMP, hence activating PKA. PKA phosphorylates
@@ -132,4 +132,7 @@ genes:
   entrez: '4158'
 chemicals: []
 diseases: []
+figid_alias: PMC4943391__F2
+redirect_from: /figures/PMC4943391__F2
+figtype: Figure
 ---

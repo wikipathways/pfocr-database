@@ -1,7 +1,7 @@
 ---
 figid: PMC6902895__Beilstein_J_Org_Chem-15-2922-g003
 figlink: /pmc/articles/PMC6902895/figure/F2/
-number: Figure 2
+number: F2
 caption: The biosynthetic pathway for argyrin production in Cystobacter sp. SBCb004
   (Arg1, radical SAM-dependent methyltransferase; Arg2/Arg3, nonribosomal peptide
   synthetases; Arg4, O‑methyltransferase; Arg5, tryptophan 2,3-dioxygenase). The initial
@@ -17,8 +17,7 @@ pathway_score: 0.5597705
 filename: Beilstein_J_Org_Chem-15-2922-g003.jpg
 figtitle: The biosynthetic pathway for argyrin production in Cystobacter sp
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ diseases:
 - word: A CP HC
   source: MESH
   identifier: C566991
+figid_alias: PMC6902895__F2
+redirect_from: /figures/PMC6902895__F2
+figtype: Figure
 ---

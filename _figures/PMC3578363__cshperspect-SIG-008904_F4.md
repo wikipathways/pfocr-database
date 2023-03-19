@@ -1,7 +1,7 @@
 ---
 figid: PMC3578363__cshperspect-SIG-008904_F4
 figlink: /pmc/articles/PMC3578363/figure/A008904F4/
-number: Figure 4
+number: F4
 caption: Targeting ubiquitin-dependent degradation of CDK inhibitors. The p21 family
   of CKIs is regulated by the ubiquitin–proteasome pathway. In many cases, this involves
   phosphorylation of these CKIs. Phosphorylated CKIs are recognized by F-box proteins
@@ -146,4 +146,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3578363__F4
+redirect_from: /figures/PMC3578363__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7830786__microorganisms-09-00190-g003
 figlink: pmc/articles/PMC7830786/figure/microorganisms-09-00190-f003/
-number: Figure 3
+number: F3
 caption: Proposed metabolic pathway for glucose by anaerobic fungi co-cultured with
   methanogens. The red and green arrows indicate stimulated and inhibited pathways.
   The proposed metabolites are indicated in italics. AC, aconitase; ACH, acetyl-CoA
@@ -24,8 +24,7 @@ filename: microorganisms-09-00190-g003.jpg
 figtitle: Proposed metabolic pathway for glucose by anaerobic fungi co-cultured with
   methanogens
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -388,4 +387,7 @@ diseases:
 - word: ICD
   source: OMIM
   identifier: '252500'
+figid_alias: PMC7830786__F3
+redirect_from: /figures/PMC7830786__F3
+figtype: Figure
 ---

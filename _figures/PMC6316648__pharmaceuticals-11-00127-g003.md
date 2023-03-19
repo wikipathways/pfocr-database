@@ -1,7 +1,7 @@
 ---
 figid: PMC6316648__pharmaceuticals-11-00127-g003
 figlink: /pmc/articles/PMC6316648/figure/pharmaceuticals-11-00127-f003/
-number: Figure 3
+number: F3
 caption: Major mechanisms for hepcidin regulation. Serum and tissue iron induce hepcidin
   transcription via the BMP/SMAD signaling pathway. The cascade is initiated following
   an increase in transferrin saturation and the secretion of BMP6 from liver sinusoidal
@@ -364,4 +364,7 @@ chemicals:
   source: MESH
   identifier: D007501
 diseases: []
+figid_alias: PMC6316648__F3
+redirect_from: /figures/PMC6316648__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7143255__microorganisms-08-00379-g007
 figlink: pmc/articles/PMC7143255/figure/microorganisms-08-00379-f007/
-number: Figure 7
+number: F7
 caption: The WG diet induced metabolism of SCFA and metabolism of fatty acids. (a)
   Propanoate; (b) Acetate; (c) Fatty acid. All of the highlighted enzymes were increased
   by the WG diet. The drawing of the pathways was adapted from KEGG pathway databases.
@@ -15,8 +15,7 @@ pathway_score: 0.8865973
 filename: microorganisms-08-00379-g007.jpg
 figtitle: WG diet induced metabolism of SCFA and metabolism of fatty acids
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: D000214
 diseases: []
+figid_alias: PMC7143255__F7
+redirect_from: /figures/PMC7143255__F7
+figtype: Figure
 ---

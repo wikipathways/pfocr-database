@@ -1,7 +1,7 @@
 ---
 figid: PMC6920873__microorganisms-07-00552-g001
 figlink: /pmc/articles/PMC6920873/figure/microorganisms-07-00552-f001/
-number: Figure 1
+number: F1
 caption: 'The fatty acid ethyl ester (FAEE) biosynthesis in bacteria. The metabolic
   pathway of fatty acid synthesis and biodiesel is shown. Enzymes ACC: Acetyl-CoA-carboxylase.
   FabD: Malonyl-CoA-Synthase. FabH: Malonyl-CoA-ACP-synthase, FabG: Hydroxyacyl-ACP-synthase.
@@ -16,8 +16,7 @@ pathway_score: 0.9563143
 filename: microorganisms-07-00552-g001.jpg
 figtitle: The fatty acid ethyl ester (FAEE) biosynthesis in bacteria
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -111,4 +110,7 @@ chemicals:
   source: MESH
   identifier: D005227
 diseases: []
+figid_alias: PMC6920873__F1
+redirect_from: /figures/PMC6920873__F1
+figtype: Figure
 ---

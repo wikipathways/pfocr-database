@@ -1,7 +1,7 @@
 ---
 figid: PMC7712799__bioengineering-07-00151-g001
 figlink: pmc/articles/PMC7712799/figure/bioengineering-07-00151-f001/
-number: Figure 1
+number: F1
 caption: Different optogenetic systems can be used to achieve flux control in various
   ways. Sketch of circuits adapted from each paper. (a). Lalwani et al. [] controlled
   mevalonate production using the pDawn system. (b). Raghavan et al. [] used a light-responsive
@@ -26,8 +26,7 @@ filename: bioengineering-07-00151-g001.jpg
 figtitle: Different optogenetic systems can be used to achieve flux control in various
   ways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -238,4 +237,7 @@ diseases:
 - word: disordered
   source: MESH
   identifier: D030342
+figid_alias: PMC7712799__F1
+redirect_from: /figures/PMC7712799__F1
+figtype: Figure
 ---

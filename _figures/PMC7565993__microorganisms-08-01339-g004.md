@@ -1,7 +1,7 @@
 ---
 figid: PMC7565993__microorganisms-08-01339-g004
 figlink: pmc/articles/PMC7565993/figure/microorganisms-08-01339-f004/
-number: Figure 4
+number: F4
 caption: Model of carbon metabolism in the ΔaioS mutant vs WT during AsIII exposure,
   with mannitol being the initial substrate. Reaction steps were derived from KEGG
   pathway maps using the most parsimonious routes of metabolite formation, noting
@@ -24,8 +24,7 @@ filename: microorganisms-08-01339-g004.jpg
 figtitle: Carbon metabolism in the ΔaioS mutant vs WT during AsIII exposure, with
   mannitol being the initial substrate
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -284,4 +283,7 @@ diseases:
 - word: "Glucose-1-P X2 \x1F Maltopentose"
   source: MESH
   identifier: C566748
+figid_alias: PMC7565993__F4
+redirect_from: /figures/PMC7565993__F4
+figtype: Figure
 ---

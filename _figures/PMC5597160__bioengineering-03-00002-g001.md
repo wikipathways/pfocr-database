@@ -1,7 +1,7 @@
 ---
 figid: PMC5597160__bioengineering-03-00002-g001
 figlink: /pmc/articles/PMC5597160/figure/bioengineering-03-00002-f001/
-number: Figure 1
+number: F1
 caption: Butanol producing metabolic pathway in C. tyrobutyricum. The wild-type CTC
   produces butyrate and acetate; mutant CTC-adhE2 produces butanol and ethanol via
   carbon rebalance by overexpressing the adhE2 gene []; and mutant CTC-fdh-adhE2 constructed
@@ -15,8 +15,7 @@ pathway_score: 0.9404662
 filename: bioengineering-03-00002-g001.jpg
 figtitle: Butanol producing metabolic pathway in C
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC5597160__F1
+redirect_from: /figures/PMC5597160__F1
+figtype: Figure
 ---

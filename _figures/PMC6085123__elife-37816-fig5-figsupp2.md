@@ -1,7 +1,7 @@
 ---
 figid: PMC6085123__elife-37816-fig5-figsupp2
 figlink: /pmc/articles/PMC6085123/figure/fig5s2/
-number: Figure 5—figure supplement 2
+number: SF5_2
 caption: For key, see symbols in main text .
 pmcid: PMC6085123
 papertitle: Antibiotic-induced acceleration of type 1 diabetes alters maturation of
@@ -251,4 +251,7 @@ chemicals:
   source: MESH
   identifier: C041058
 diseases: []
+figid_alias: PMC6085123__SF5_2
+redirect_from: /figures/PMC6085123__SF5_2
+figtype: Supplemental figure
 ---

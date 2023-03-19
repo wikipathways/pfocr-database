@@ -1,7 +1,7 @@
 ---
 figid: PMC4033983__pharmaceuticals-03-01311-g002
 figlink: /pmc/articles/PMC4033983/figure/pharmaceuticals-03-01311-f002/
-number: Figure 2
+number: F2
 caption: ATM and ATR signaling pathways. DNA DSBs generally activate ATM, which along
   with the Mre11-Rad50-NBS1 complex, can facilitate DNA repair or phosphorylate the
   Chk2 kinase leading to activation of p53 followed by G1 arrest or apoptosis. Alternatively,
@@ -19,8 +19,7 @@ pathway_score: 0.9556831
 filename: pharmaceuticals-03-01311-g002.jpg
 figtitle: ATM and ATR signaling pathways
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -94,4 +93,7 @@ genes:
   entrez: '5810'
 chemicals: []
 diseases: []
+figid_alias: PMC4033983__F2
+redirect_from: /figures/PMC4033983__F2
+figtype: Figure
 ---

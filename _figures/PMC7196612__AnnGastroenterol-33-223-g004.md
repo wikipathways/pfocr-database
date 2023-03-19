@@ -1,7 +1,7 @@
 ---
 figid: PMC7196612__AnnGastroenterol-33-223-g004
 figlink: pmc/articles/PMC7196612/figure/F3/
-number: Figure 3
+number: F3
 caption: Oncogenic properties of Bacteroides (B.) fragilis. Enterotoxigenic Bacteroides
   fragilis (ETBF) encodes the BFT toxin. BFT can penetrate the enterocyte. BFT can
   activate STAT3, resulting in Th17 cell response and inflammatory changes. It also
@@ -18,8 +18,7 @@ pathway_score: 0.9489772
 filename: AnnGastroenterol-33-223-g004.jpg
 figtitle: Oncogenic properties of Bacteroides (B.) fragilis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -211,4 +210,7 @@ genes:
   entrez: '5971'
 chemicals: []
 diseases: []
+figid_alias: PMC7196612__F3
+redirect_from: /figures/PMC7196612__F3
+figtype: Figure
 ---

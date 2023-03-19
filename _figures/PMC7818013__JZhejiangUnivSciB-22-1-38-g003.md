@@ -1,7 +1,7 @@
 ---
 figid: PMC7818013__JZhejiangUnivSciB-22-1-38-g003
 figlink: pmc/articles/PMC7818013/figure/JZhejiangUnivSciB-22-1-38-f003/
-number: Fig. 3
+number: F3
 caption: '. Regulation of double-strand break repair pathway choice. 53BP1: p53-binding
   protein 1; BRCA1: breast cancer type 1 susceptibility protein; CCDC98: coiled-coil
   domain-containing protein 98; HR: homologous recombination; MDC1: mediator of DNA
@@ -18,8 +18,7 @@ pathway_score: 0.9457192
 filename: JZhejiangUnivSciB-22-1-38-g003.jpg
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -120,4 +119,7 @@ chemicals:
   source: MESH
   identifier: C052497
 diseases: []
+figid_alias: PMC7818013__F3
+redirect_from: /figures/PMC7818013__F3
+figtype: Figure
 ---

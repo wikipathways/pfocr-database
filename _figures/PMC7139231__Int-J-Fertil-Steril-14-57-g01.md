@@ -1,7 +1,7 @@
 ---
 figid: PMC7139231__Int-J-Fertil-Steril-14-57-g01
 figlink: pmc/articles/PMC7139231/figure/F1/
-number: Fig 1
+number: F1
 caption: 'Concept model of micronutrients administration in support to DNA methylation
   (blue pathway) and antioxidant defences (grey pathway). Micronutrients: small amounts
   of folates, vitamins B2, B3 and B12 and zinc are needed daily to feed the carbon
@@ -21,8 +21,7 @@ filename: Int-J-Fertil-Steril-14-57-g01.jpg
 figtitle: Concept model of micronutrients administration in support to DNA methylation
   (blue pathway) and antioxidant defences (grey pathway)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -110,4 +109,7 @@ chemicals:
   source: MESH
   identifier: D005978
 diseases: []
+figid_alias: PMC7139231__F1
+redirect_from: /figures/PMC7139231__F1
+figtype: Figure
 ---

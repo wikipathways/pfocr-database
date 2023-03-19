@@ -1,7 +1,7 @@
 ---
 figid: PMC7380581__mSystems.00651-19-f0005
 figlink: pmc/articles/PMC7380581/figure/fig5/
-number: FIG 5
+number: F5
 caption: Metabolic reconstruction of “Ca. Methanomixophus.” The genes used to construct
   this metabolic network are listed in . Pathways for methanogenesis are depicted
   in blue, pathways for anaerobic methane oxidation coupled with sulfate reduction
@@ -20,8 +20,7 @@ pathway_score: 0.9690393
 filename: mSystems.00651-19-f0005.jpg
 figtitle: Metabolic reconstruction of “Ca
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -299,4 +298,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC7380581__F5
+redirect_from: /figures/PMC7380581__F5
+figtype: Figure
 ---

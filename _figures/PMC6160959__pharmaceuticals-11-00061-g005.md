@@ -1,7 +1,7 @@
 ---
 figid: PMC6160959__pharmaceuticals-11-00061-g005
 figlink: /pmc/articles/PMC6160959/figure/pharmaceuticals-11-00061-f005/
-number: Figure 5
+number: F5
 caption: Orlistat from PxEA perspective. The subnetwork shows how the targets of Orlistat
   are connected to the nearest pathway protein for the pathways shared between T2D
   and AD. For clarity, only the pathways that are proximal to the drug are shown.
@@ -181,4 +181,7 @@ chemicals:
   source: MESH
   identifier: C055122
 diseases: []
+figid_alias: PMC6160959__F5
+redirect_from: /figures/PMC6160959__F5
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4749494__15_076_iordanskaiaf5
 figlink: /pmc/articles/PMC4749494/figure/f5-15_076_iordanskaia/
-number: Figure 5
+number: F5
 caption: Schematic representation of the effects of extracellular CypA and MM284 in
   experimental BA. Extracellular CypA produced by resident liver cells attracts inflammatory
   cells and stimulates them to produce IL-6. It also activates the SMAD pathway resulting
@@ -122,4 +122,7 @@ genes:
   entrez: '7076'
 chemicals: []
 diseases: []
+figid_alias: PMC4749494__F5
+redirect_from: /figures/PMC4749494__F5
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5088527__cshperspect-EPI-019463_F3
 figlink: /pmc/articles/PMC5088527/figure/A019463F3/
-number: Figure 3
+number: F3
 caption: The biosynthesis pathway of S-adenosyl methionine (SAM) and its involvement
   in chromatin-related processes. SAM is an essential cofactor for PRMT, DNMT, and
   KMT chromatin-modifying enzymes. This pathway is metabolically influenced by the
@@ -18,8 +18,7 @@ filename: cshperspect-EPI-019463_F3.jpg
 figtitle: The biosynthesis pathway of S-adenosyl methionine (SAM) and its involvement
   in chromatin-related processes
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -81,4 +80,7 @@ chemicals:
   source: MESH
   identifier: D008715
 diseases: []
+figid_alias: PMC5088527__F3
+redirect_from: /figures/PMC5088527__F3
+figtype: Figure
 ---

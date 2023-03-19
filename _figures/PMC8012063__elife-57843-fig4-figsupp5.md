@@ -1,7 +1,7 @@
 ---
 figid: PMC8012063__elife-57843-fig4-figsupp5
 figlink: pmc/articles/PMC8012063/figure/fig4s5/
-number: Figure 4—figure supplement 5
+number: SF4_5
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
@@ -15,8 +15,7 @@ filename: elife-57843-fig4-figsupp5.jpg
 figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
   hsa05016 Huntington’s disease at the cross-tissue level
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -393,4 +392,7 @@ chemicals:
   source: MESH
   identifier: D015632
 diseases: []
+figid_alias: PMC8012063__SF4_5
+redirect_from: /figures/PMC8012063__SF4_5
+figtype: Supplemental figure
 ---

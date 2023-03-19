@@ -1,7 +1,7 @@
 ---
 figid: PMC6901333__elife-47733-fig9-figsupp1
 figlink: /pmc/articles/PMC6901333/figure/fig9s1/
-number: Figure 9—figure supplement 1
+number: SF9_1
 caption: 'Loss-of-function mutation in the red-colored proteins and gain-of-function
   mutations in the green-colored proteins act as paqr-2 mutant suppressors. Note that
   there are likely two separate fluidity-promoting outputs of PAQR-2 signaling (dashed
@@ -21,8 +21,7 @@ filename: elife-47733-fig9-figsupp1.jpg
 figtitle: Revised model of the likely epigenetic interactions in the paqr-2 pathway
   based on previously published work and the present study
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ genes:
   entrez: '3146'
 chemicals: []
 diseases: []
+figid_alias: PMC6901333__SF9_1
+redirect_from: /figures/PMC6901333__SF9_1
+figtype: Supplemental figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7901476__mSystems.00786-20-f006
 figlink: pmc/articles/PMC7901476/figure/fig6/
-number: FIG 6
+number: F6
 caption: Exemplary metabolic sketch of BSC Rubrobacteraceae species based on the most
   abundant MAG. The sketch illustrates basic energy generation and C acquisition mechanisms,
   as well as some stress resistance and survival mechanisms. Rubrobacteraceae encode
@@ -30,8 +30,7 @@ filename: mSystems.00786-20-f006.jpg
 figtitle: Exemplary metabolic sketch of BSC Rubrobacteraceae species based on the
   most abundant MAG
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -209,4 +208,7 @@ chemicals:
   source: MESH
   identifier: C504136
 diseases: []
+figid_alias: PMC7901476__F6
+redirect_from: /figures/PMC7901476__F6
+figtype: Figure
 ---

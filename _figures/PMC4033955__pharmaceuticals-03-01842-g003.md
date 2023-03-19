@@ -1,7 +1,7 @@
 ---
 figid: PMC4033955__pharmaceuticals-03-01842-g003
 figlink: /pmc/articles/PMC4033955/figure/pharmaceuticals-03-01842-f003/
-number: Figure 3
+number: F3
 caption: The p38 MAPK signaling pathway.
 pmcid: PMC4033955
 papertitle: Use of p38 MAPK Inhibitors for the Treatment of Werner Syndrome.
@@ -157,4 +157,7 @@ genes:
   entrez: '3315'
 chemicals: []
 diseases: []
+figid_alias: PMC4033955__F3
+redirect_from: /figures/PMC4033955__F3
+figtype: Figure
 ---

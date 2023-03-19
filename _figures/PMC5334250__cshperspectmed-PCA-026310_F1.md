@@ -1,7 +1,7 @@
 ---
 figid: PMC5334250__cshperspectmed-PCA-026310_F1
 figlink: /pmc/articles/PMC5334250/figure/A026310F1/
-number: Figure 1
+number: F1
 caption: p53 controls the cellular response to different stress stimuli and determines
   cell fate. In normal cells or cancer cells harboring wild-type p53, certain cellular
   stresses (A and B)—for example, a high level of DNA damage or ribosomal stress,
@@ -25,8 +25,7 @@ filename: cshperspectmed-PCA-026310_F1.jpg
 figtitle: p53 controls the cellular response to different stress stimuli and determines
   cell fate
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ genes:
   entrez: '5366'
 chemicals: []
 diseases: []
+figid_alias: PMC5334250__F1
+redirect_from: /figures/PMC5334250__F1
+figtype: Figure
 ---

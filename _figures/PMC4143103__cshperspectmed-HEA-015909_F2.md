@@ -1,7 +1,7 @@
 ---
 figid: PMC4143103__cshperspectmed-HEA-015909_F2
 figlink: /pmc/articles/PMC4143103/figure/A015909F2/
-number: Figure 2
+number: F2
 caption: 'Canonical and noncanonical TGF-β signaling. Microfibrils composed of fibrillin-1
   bind and sequester the large latent complex (LLC) of TGF-β. Activation of TGF-β
   by proteases (e.g., thrombospondin-1) and/or integrin-mediated mechanisms, allows
@@ -242,4 +242,7 @@ genes:
   entrez: '4087'
 chemicals: []
 diseases: []
+figid_alias: PMC4143103__F2
+redirect_from: /figures/PMC4143103__F2
+figtype: Figure
 ---

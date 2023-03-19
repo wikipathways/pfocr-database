@@ -1,7 +1,7 @@
 ---
 figid: PMC8064071__microorganisms-09-00670-g010
 figlink: pmc/articles/PMC8064071/figure/microorganisms-09-00670-f010/
-number: Figure 10
+number: F10
 caption: Scheme of C. glutamicum metabolism with CRISPRi target genes that significantly
   improved (red arrows) or reduced (black arrows) decaprenoxanthin biosynthesis in
   C. glutamicum when repressed. Grey is used to depict all other reactions in glycolysis
@@ -17,8 +17,7 @@ pathway_score: 0.8785886
 filename: microorganisms-09-00670-g010.jpg
 figtitle: Scheme of C
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -182,4 +181,7 @@ chemicals:
   source: MESH
   identifier: D010695
 diseases: []
+figid_alias: PMC8064071__F10
+redirect_from: /figures/PMC8064071__F10
+figtype: Figure
 ---

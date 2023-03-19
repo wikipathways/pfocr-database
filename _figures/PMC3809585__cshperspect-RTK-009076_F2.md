@@ -1,7 +1,7 @@
 ---
 figid: PMC3809585__cshperspect-RTK-009076_F2
 figlink: /pmc/articles/PMC3809585/figure/A009076F2/
-number: Figure 2
+number: F2
 caption: TAM receptor signaling pathways. (A) Free TAMs. As receptor dimers, activated
   TAM proteins drive a conventional RTK signaling pathway that is dominated by the
   phosphorylation and activation of Akt. The positions of major tyrosine autophosphorylation
@@ -334,4 +334,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3809585__F2
+redirect_from: /figures/PMC3809585__F2
+figtype: Figure
 ---

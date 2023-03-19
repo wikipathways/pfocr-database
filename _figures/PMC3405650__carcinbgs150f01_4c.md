@@ -1,7 +1,7 @@
 ---
 figid: PMC3405650__carcinbgs150f01_4c
 figlink: /pmc/articles/PMC3405650/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The role of angiogenesis in tumor progression. Post-natal angiogenesis is
   regulated by a balanced and continuous interplay of factors that act as pro-angiogenic
   (VEGFs, FGF, EGF, HIF, TGF-β and TNF-α), anti-angiogenic (endostatin and IFN) or
@@ -285,4 +285,7 @@ genes:
   entrez: '2255'
 chemicals: []
 diseases: []
+figid_alias: PMC3405650__F1
+redirect_from: /figures/PMC3405650__F1
+figtype: Figure
 ---

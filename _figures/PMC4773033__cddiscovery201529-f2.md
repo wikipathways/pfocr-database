@@ -1,7 +1,7 @@
 ---
 figid: PMC4773033__cddiscovery201529-f2
 figlink: /pmc/articles/PMC4773033/figure/fig2/
-number: Figure 2
+number: F2
 caption: 'A comprehensive picture showing gene expression changes and crosstalk of
   pathways associated with Igf1 and Pacap rescue of apoptotic CGNs. This figure, designed
   using the MetaCore software (Thomson Reuters, New York, NY, USA), illustrates the
@@ -1082,4 +1082,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4773033__F2
+redirect_from: /figures/PMC4773033__F2
+figtype: Figure
 ---

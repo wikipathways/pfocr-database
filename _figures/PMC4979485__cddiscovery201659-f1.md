@@ -1,7 +1,7 @@
 ---
 figid: PMC4979485__cddiscovery201659-f1
 figlink: /pmc/articles/PMC4979485/figure/fig1/
-number: Figure 1
+number: F1
 caption: LINP1 regulation and role in the NHEJ DNA-repair pathway. LINP1 expression
   levels are positively and negatively regulated by the EGF and p53 signaling pathways,
   respectively. On recognition of DNA DSBs by the Ku70–Ku80 complex, LINP1 and DNA-PKcs
@@ -195,4 +195,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4979485__F1
+redirect_from: /figures/PMC4979485__F1
+figtype: Figure
 ---

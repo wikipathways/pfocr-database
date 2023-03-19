@@ -1,7 +1,7 @@
 ---
 figid: PMC3721272__cshperspectmed-TRN-014993_F1
 figlink: /pmc/articles/PMC3721272/figure/A014993F1/
-number: Figure 1
+number: F1
 caption: Pathways of alloantigen presentation. The three pathways of alloantigen presentation
   (direct, indirect, and semidirect) are shown. The frequency (%) of T cells that
   react to a specific pathway is indicated where known. APC, antigen-presenting cell;
@@ -15,8 +15,7 @@ pathway_score: 0.5100101
 filename: cshperspectmed-TRN-014993_F1.jpg
 figtitle: Pathways of alloantigen presentation
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '6964'
 chemicals: []
 diseases: []
+figid_alias: PMC3721272__F1
+redirect_from: /figures/PMC3721272__F1
+figtype: Figure
 ---

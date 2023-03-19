@@ -1,7 +1,7 @@
 ---
 figid: PMC3204345__carcinbgr172f02_4c
 figlink: /pmc/articles/PMC3204345/figure/fig2/
-number: Fig. 2
+number: F2
 caption: 'Different modes of Smad phosphoisoform signaling in normal epithelium and
   neoplasms. Ligand-dependent pSmad3L signaling in normal epithelial cells (A) gives
   way to constitutive pSmad3L signaling in tumor cells (B). (A) In normal epithelial
@@ -169,4 +169,7 @@ genes:
   entrez: '6300'
 chemicals: []
 diseases: []
+figid_alias: PMC3204345__F2
+redirect_from: /figures/PMC3204345__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4524771__theoncologist_1564_f4
 figlink: /pmc/articles/PMC4524771/figure/F4/
-number: Figure 4
+number: F4
 caption: 'Proposed anticancer mechanisms of itraconazole. Itraconazole can inhibit
   cholesterol trafficking and release from endosomes/lysosomes, leading to hyperaccumulation
   of cholesterols in those organelles. This is thought to interfere with the mTOR
@@ -19,8 +19,7 @@ pathway_score: 0.8503258
 filename: theoncologist_1564_f4.jpg
 figtitle: Proposed anticancer mechanisms of itraconazole
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -89,4 +88,7 @@ chemicals:
   source: MESH
   identifier: D017964
 diseases: []
+figid_alias: PMC4524771__F4
+redirect_from: /figures/PMC4524771__F4
+figtype: Figure
 ---

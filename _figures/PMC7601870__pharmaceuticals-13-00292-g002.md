@@ -1,7 +1,7 @@
 ---
 figid: PMC7601870__pharmaceuticals-13-00292-g002
 figlink: pmc/articles/PMC7601870/figure/pharmaceuticals-13-00292-f002/
-number: Figure 2
+number: F2
 caption: Crosstalk between CK2 and signaling pathways (A) regulating fatty acid synthesis
   or (B) controlled by phospholipases. CK2 is an important regulator of lipid homeostasis
   by stimulating fatty acid and protein synthesis and promoting cell survival. The
@@ -22,8 +22,7 @@ filename: pharmaceuticals-13-00292-g002.jpg
 figtitle: Crosstalk between CK2 and signaling pathways (A) regulating fatty acid synthesis
   or (B) controlled by phospholipases
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -601,4 +600,7 @@ diseases:
 - word: SCD
   source: MESH
   identifier: C536778
+figid_alias: PMC7601870__F2
+redirect_from: /figures/PMC7601870__F2
+figtype: Figure
 ---

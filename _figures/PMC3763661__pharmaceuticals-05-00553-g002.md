@@ -1,7 +1,7 @@
 ---
 figid: PMC3763661__pharmaceuticals-05-00553-g002
 figlink: /pmc/articles/PMC3763661/figure/pharmaceuticals-05-00553-f002/
-number: Figure 2
+number: F2
 caption: Current gene therapy treatments for PD. In each panel (A–D), the nigrostriatal
   (NS) neuron cell bodies (diamond shapes) are shown within the substantia nigra pars
   compacta (SNc), with normal (black), degenerating (gray), and degenerated (white)
@@ -38,8 +38,7 @@ pathway_score: 0.8986498
 filename: pharmaceuticals-05-00553-g002.jpg
 figtitle: Current gene therapy treatments for PD
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ genes:
   entrez: '1917'
 chemicals: []
 diseases: []
+figid_alias: PMC3763661__F2
+redirect_from: /figures/PMC3763661__F2
+figtype: Figure
 ---

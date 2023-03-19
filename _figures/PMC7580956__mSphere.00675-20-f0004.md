@@ -1,7 +1,7 @@
 ---
 figid: PMC7580956__mSphere.00675-20-f0004
 figlink: pmc/articles/PMC7580956/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Carbon metabolism in the plastids of E. longa and E. gracilis. (a) The Calvin-Benson
   cycle (CBC) resident to this organelle is central to the plastid carbon metabolism,
   regulated by the ferredoxin/thioredoxin (Fd/Trx) system. Reduction of disulfide
@@ -37,8 +37,7 @@ pathway_score: 0.8233143
 filename: mSphere.00675-20-f0004.jpg
 figtitle: Carbon metabolism in the plastids of E
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -527,4 +526,7 @@ chemicals:
   source: MESH
   identifier: C093415
 diseases: []
+figid_alias: PMC7580956__F4
+redirect_from: /figures/PMC7580956__F4
+figtype: Figure
 ---

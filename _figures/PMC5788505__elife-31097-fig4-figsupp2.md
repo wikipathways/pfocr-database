@@ -1,7 +1,7 @@
 ---
 figid: PMC5788505__elife-31097-fig4-figsupp2
 figlink: /pmc/articles/PMC5788505/figure/fig4s2/
-number: Figure 4—figure supplement 2
+number: SF4_2
 caption: (A) Genomic context of L-gulonate, D-glucuronate, and L-galactonate utilization
   genes and regulons in 45 bacteria from the Pasteurellales lineage. The L-gulonate
   catabolic pathway from H. influenzae Rd KW20 was projected onto the pathogenic gammaproteobacteria,
@@ -48,8 +48,7 @@ filename: elife-31097-fig4-figsupp2.jpg
 figtitle: Comparative genomic reconstruction of L-gulonate and related uronic acid
   catabolic pathways and regulons in gammaproteobacteria
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -224,4 +223,7 @@ diseases:
 - word: parahaemolyticus, H.paraphrohaemolyticus
   source: MESH
   identifier: D000848
+figid_alias: PMC5788505__SF4_2
+redirect_from: /figures/PMC5788505__SF4_2
+figtype: Supplemental figure
 ---

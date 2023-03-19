@@ -1,7 +1,7 @@
 ---
 figid: PMC3783052__cshperspect-RTK-009092_F4
 figlink: /pmc/articles/PMC3783052/figure/A009092F4/
-number: Figure 4
+number: F4
 caption: A unique signaling pathway from VEGFR2 toward angiogenesis. The Y1175 site
   is one of the major autophosphorylation sites on VEGFR2 after stimulation with VEGF.
   The pY1175-containing motif is the binding and activation site for PLC-γ. It stimulates
@@ -130,4 +130,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC3783052__F4
+redirect_from: /figures/PMC3783052__F4
+figtype: Figure
 ---

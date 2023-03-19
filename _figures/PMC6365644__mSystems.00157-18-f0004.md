@@ -1,7 +1,7 @@
 ---
 figid: PMC6365644__mSystems.00157-18-f0004
 figlink: /pmc/articles/PMC6365644/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Differentially regulated metabolic fluxes and metabolites in gluconeogenesis
   (A), pentose phosphate pathway (B), TCA cycle (C), arginine biosynthesis pathways
   (D), and respiratory chain (E) under 2-mg/liter colistin treatment for 1 h. The
@@ -32,8 +32,7 @@ figtitle: Differentially regulated metabolic fluxes and metabolites in gluconeog
   (A), pentose phosphate pathway (B), TCA cycle (C), arginine biosynthesis pathways
   (D), and respiratory chain (E) under 2-mg/liter colistin treatment for 1 h
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -246,4 +245,7 @@ chemicals:
   source: MESH
   identifier: D000255
 diseases: []
+figid_alias: PMC6365644__F4
+redirect_from: /figures/PMC6365644__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4817802__cshperspect-EPI-019521_F4
 figlink: /pmc/articles/PMC4817802/figure/A019521F4/
-number: Figure 4
+number: F4
 caption: Role of histone PTMs in DNA damage repair. (A) Before DNA damage, L3MBTL1
   and JMJD2A (possibly also JMJD2B) bind, via their Tudor domains, to H4K20me2 (red
   hexagons), hindering access by DNA repair proteins, such as 53BP1. (B) When double-strand
@@ -367,4 +367,7 @@ genes:
   entrez: '64320'
 chemicals: []
 diseases: []
+figid_alias: PMC4817802__F4
+redirect_from: /figures/PMC4817802__F4
+figtype: Figure
 ---

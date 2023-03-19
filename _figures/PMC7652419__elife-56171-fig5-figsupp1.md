@@ -1,7 +1,7 @@
 ---
 figid: PMC7652419__elife-56171-fig5-figsupp1
 figlink: pmc/articles/PMC7652419/figure/fig5s1/
-number: Figure 5—figure supplement 1
+number: SF5_1
 caption: 'Metabolism of [1,6-13C2]glucose in glutamatergic and GABAergic neurons produces
   GluC4, which is then decarboxylated to GABAC2 by GAD enzyme in GABAergic neurons.
   The glutamate–glutamine and GABA-glutamine cycle operating between neurons and astrocytes
@@ -28,8 +28,7 @@ figtitle: 13C labeling of various metabolites from [1,6-13C2]glucose in a three-
   metabolic model [1,6-13C2]glucose is converted to PyruvateC3 via glycolysis and
   subsequently enters the TCA cycle
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -170,4 +169,7 @@ genes:
   entrez: '57733'
 chemicals: []
 diseases: []
+figid_alias: PMC7652419__SF5_1
+redirect_from: /figures/PMC7652419__SF5_1
+figtype: Supplemental figure
 ---

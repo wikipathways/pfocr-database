@@ -1,7 +1,7 @@
 ---
 figid: PMC7143981__microorganisms-08-00454-g006
 figlink: pmc/articles/PMC7143981/figure/microorganisms-08-00454-f006/
-number: Figure 6
+number: F6
 caption: Schematic illustration of the proposed route for formate assimilation in
   D. amylolyticus. The first part of the cycle is formaldehyde production from formate,
   which might be catalysed by formaldehyde dehydrogenase (FoDH), or formyl/acetyl
@@ -23,8 +23,7 @@ pathway_score: 0.8876746
 filename: microorganisms-08-00454-g006.jpg
 figtitle: The proposed route for formate assimilation in D
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -132,4 +131,7 @@ diseases:
 - word: FIAT
   source: ''
   identifier: ''
+figid_alias: PMC7143981__F6
+redirect_from: /figures/PMC7143981__F6
+figtype: Figure
 ---

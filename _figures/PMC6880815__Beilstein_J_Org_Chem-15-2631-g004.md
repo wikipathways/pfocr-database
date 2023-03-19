@@ -1,7 +1,7 @@
 ---
 figid: PMC6880815__Beilstein_J_Org_Chem-15-2631-g004
 figlink: /pmc/articles/PMC6880815/figure/F3/
-number: Figure 3
+number: F3
 caption: Putative biosynthetic pathway to the nanangenines.
 pmcid: PMC6880815
 papertitle: 'Nanangenines: drimane sesquiterpenoids as the dominant metabolite cohort
@@ -12,8 +12,7 @@ pathway_score: 0.6658657
 filename: Beilstein_J_Org_Chem-15-2631-g004.jpg
 figtitle: Putative biosynthetic pathway to the nanangenines
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -47,4 +46,7 @@ chemicals:
   source: MESH
   identifier: C058602
 diseases: []
+figid_alias: PMC6880815__F3
+redirect_from: /figures/PMC6880815__F3
+figtype: Figure
 ---

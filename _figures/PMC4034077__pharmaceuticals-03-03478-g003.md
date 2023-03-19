@@ -1,7 +1,7 @@
 ---
 figid: PMC4034077__pharmaceuticals-03-03478-g003
 figlink: /pmc/articles/PMC4034077/figure/pharmaceuticals-03-03478-f003/
-number: Figure 3
+number: F3
 caption: The mechanism by which Ang II mediates vasoconstriction. The binding of Ang
   II to the AT1-R activates the heterotrimeric G protein signaling pathway which leads
   to phospholipase C (PLC) activation. This releases inositol-1,4,5-triphosphate (IP3)
@@ -154,4 +154,7 @@ genes:
   entrez: '59'
 chemicals: []
 diseases: []
+figid_alias: PMC4034077__F3
+redirect_from: /figures/PMC4034077__F3
+figtype: Figure
 ---

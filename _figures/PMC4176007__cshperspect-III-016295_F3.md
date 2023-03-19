@@ -1,7 +1,7 @@
 ---
 figid: PMC4176007__cshperspect-III-016295_F3
 figlink: /pmc/articles/PMC4176007/figure/A016295F3/
-number: Figure 3
+number: F3
 caption: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a. Pathogen-associated
   molecular patterns are recognized by pathogen-recognition receptors to induce proinflammatory
   cytokines; in this figure, TLR4 recognizes LPS and induces IL-6 mRNA via activation
@@ -18,8 +18,7 @@ pathway_score: 0.9577986
 filename: cshperspect-III-016295_F3.jpg
 figtitle: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '4790'
 chemicals: []
 diseases: []
+figid_alias: PMC4176007__F3
+redirect_from: /figures/PMC4176007__F3
+figtype: Figure
 ---

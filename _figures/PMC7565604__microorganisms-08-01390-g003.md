@@ -1,7 +1,7 @@
 ---
 figid: PMC7565604__microorganisms-08-01390-g003
 figlink: pmc/articles/PMC7565604/figure/microorganisms-08-01390-f003/
-number: Figure 3
+number: F3
 caption: Proposed biosynthesis pathway for the BE-18257s and the pentaminomycins.
   (A) Genetic organization of putative biosynthetic gene cluster of the pentaminomycins.
   (B) Putative biosynthetic pathway for the pentaminomycins and the BE-18257s with
@@ -16,8 +16,7 @@ pathway_score: 0.6083915
 filename: microorganisms-08-01390-g003.jpg
 figtitle: Proposed biosynthesis pathway for the BE-18257s and the pentaminomycins
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -107,4 +106,7 @@ diseases:
 - word: CH;CH(CH3)2
   source: MESH
   identifier: D014923
+figid_alias: PMC7565604__F3
+redirect_from: /figures/PMC7565604__F3
+figtype: Figure
 ---

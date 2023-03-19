@@ -1,7 +1,7 @@
 ---
 figid: PMC8064071__microorganisms-09-00670-g003
 figlink: pmc/articles/PMC8064071/figure/microorganisms-09-00670-f003/
-number: Figure 3
+number: F3
 caption: 'Scheme of the central carbon metabolism and carotenogenesis in C. glutamicum
   with glycolysis (orange shading), the pentose phosphate pathway (blue shading),
   the TCA cycle (green shading), as well as the MEP pathway and the carotenogenesis
@@ -54,8 +54,7 @@ pathway_score: 0.9658234
 filename: microorganisms-09-00670-g003.jpg
 figtitle: Scheme of the central carbon metabolism and carotenogenesis in C
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -388,4 +387,7 @@ chemicals:
   source: MESH
   identifier: C011431
 diseases: []
+figid_alias: PMC8064071__F3
+redirect_from: /figures/PMC8064071__F3
+figtype: Figure
 ---

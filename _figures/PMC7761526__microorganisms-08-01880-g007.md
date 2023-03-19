@@ -1,7 +1,7 @@
 ---
 figid: PMC7761526__microorganisms-08-01880-g007
 figlink: pmc/articles/PMC7761526/figure/microorganisms-08-01880-f007/
-number: Figure 7
+number: F7
 caption: Metabolic reconstruction for some of the most important functions in the
   Ktedonobacteria MAGs isolated from the youngest soil using KEGG (more information
   in  and ), dashed lines were used for incomplete pathways. Multi-arrow lines indicate
@@ -17,8 +17,7 @@ figtitle: Metabolic reconstruction for some of the most important functions in t
   Ktedonobacteria MAGs isolated from the youngest soil using KEGG (more information
   in  and ), dashed lines were used for incomplete pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -207,4 +206,7 @@ diseases:
 - word: OXIDATIVE
   source: MESH
   identifier: D004194
+figid_alias: PMC7761526__F7
+redirect_from: /figures/PMC7761526__F7
+figtype: Figure
 ---

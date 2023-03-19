@@ -1,7 +1,7 @@
 ---
 figid: PMC5189614__theoncologist_15519_f1
 figlink: /pmc/articles/PMC5189614/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Cellular control of hyperglycemia. Glucose homeostasis is maintained at
   a cellular level through activation of the intracellular PI3K/AKT/mTOR pathway downstream
   of IGF-1R and IR. These receptors, along with EGFR, can also activate the Ras/MAPK/ERK
@@ -318,4 +318,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC5189614__F1
+redirect_from: /figures/PMC5189614__F1
+figtype: Figure
 ---

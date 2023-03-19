@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f2
 figlink: /pmc/articles/PMC4979452/figure/fig2/
-number: Figure 2
+number: F2
 caption: Mitogen-activated protein kinase (MAPK) signaling pathway. The canonical
   MAPK cascade is activated by a wide variety of stimuli and receptors promoting cell
   survival and proliferation. This pathway includes a set of adaptors, such as SHC
@@ -661,4 +661,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4979452__F2
+redirect_from: /figures/PMC4979452__F2
+figtype: Figure
 ---

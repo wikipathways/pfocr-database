@@ -1,7 +1,7 @@
 ---
 figid: PMC7356240__microorganisms-08-00891-g001
 figlink: pmc/articles/PMC7356240/figure/microorganisms-08-00891-f001/
-number: Figure 1
+number: F1
 caption: 'Macrophage migration inhibitory factor (MIF) mediates immune response crosstalk
   in dengue pathogenesis. (A) Dengue virus (DENV) infection induces MIF expression
   and secretion in epithelial cells. MIF facilitates dengue virus (DENV) replication
@@ -29,8 +29,7 @@ filename: microorganisms-08-00891-g001.jpg
 figtitle: Macrophage migration inhibitory factor (MIF) mediates immune response crosstalk
   in dengue pathogenesis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -222,4 +221,7 @@ genes:
   entrez: '5781'
 chemicals: []
 diseases: []
+figid_alias: PMC7356240__F1
+redirect_from: /figures/PMC7356240__F1
+figtype: Figure
 ---

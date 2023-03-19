@@ -1,7 +1,7 @@
 ---
 figid: PMC6789597__pharmaceuticals-12-00101-g002
 figlink: /pmc/articles/PMC6789597/figure/pharmaceuticals-12-00101-f002/
-number: Figure 2
+number: F2
 caption: Zika virus life cycle. ZIKV, an enveloped RNA virus, enters cells by receptor-mediated
   endocytosis and fuses its membranes by an acidic-pH-triggered mechanism in the endosome
   (via cell surface receptors such as AXL, Tyro3, DC-SIGN and TIM-1) to release the
@@ -21,8 +21,7 @@ pathway_score: 0.6985716
 filename: pharmaceuticals-12-00101-g002.jpg
 figtitle: Zika virus life cycle
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ diseases:
 - word: Virus infection
   source: MESH
   identifier: D015658
+figid_alias: PMC6789597__F2
+redirect_from: /figures/PMC6789597__F2
+figtype: Figure
 ---

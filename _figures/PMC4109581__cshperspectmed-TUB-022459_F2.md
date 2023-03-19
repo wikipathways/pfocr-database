@@ -1,7 +1,7 @@
 ---
 figid: PMC4109581__cshperspectmed-TUB-022459_F2
 figlink: /pmc/articles/PMC4109581/figure/A022459F2/
-number: Figure 2
+number: F2
 caption: Necroptosis and pyroptosis both lead to the loss of cell membrane integrity.
   Necroptosis can be initiated by extracellular ligands interacting with their cognate
   cell surface receptors (DRs, death receptors; TLR, Toll-like receptors) or by varied
@@ -170,4 +170,7 @@ genes:
   entrez: '142'
 chemicals: []
 diseases: []
+figid_alias: PMC4109581__F2
+redirect_from: /figures/PMC4109581__F2
+figtype: Figure
 ---

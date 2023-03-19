@@ -1,7 +1,7 @@
 ---
 figid: PMC7081367__Dtsch_Arztebl_Int-117_0119_003
 figlink: pmc/articles/PMC7081367/figure/F3/
-number: Figure 3
+number: F3
 caption: 'PI3K/AKT and RAS/RAF signaling pathways with main genes involved.Following
   binding of a growth factor to the corresponding receptor, for example,receptor tyrosine
   kinase (RTK), insulin growth factor 1 receptor (IGF-1R), both signal pathways are
@@ -36,8 +36,7 @@ pathway_score: 0.9382147
 filename: Dtsch_Arztebl_Int-117_0119_003.jpg
 figtitle: Disorders Caused by Genetic Mosaicism
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -377,4 +376,7 @@ genes:
   entrez: '5594'
 chemicals: []
 diseases: []
+figid_alias: PMC7081367__F3
+redirect_from: /figures/PMC7081367__F3
+figtype: Figure
 ---

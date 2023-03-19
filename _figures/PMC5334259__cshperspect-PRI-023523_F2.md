@@ -1,7 +1,7 @@
 ---
 figid: PMC5334259__cshperspect-PRI-023523_F2
 figlink: /pmc/articles/PMC5334259/figure/A023523F2/
-number: Figure 2
+number: F2
 caption: Cellular unfolded protein response mechanisms. The accumulation of misfolded
   proteins activates organelle-specific complex mechanisms that modulate gene expression
   in an attempt to restore proteostasis. Upon accumulation of misfolded proteins within
@@ -28,8 +28,7 @@ pathway_score: 0.94402
 filename: cshperspect-PRI-023523_F2.jpg
 figtitle: Cellular unfolded protein response mechanisms
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -112,4 +111,7 @@ genes:
   entrez: '3569'
 chemicals: []
 diseases: []
+figid_alias: PMC5334259__F2
+redirect_from: /figures/PMC5334259__F2
+figtype: Figure
 ---

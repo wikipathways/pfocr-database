@@ -1,7 +1,7 @@
 ---
 figid: PMC5711377__elife-29132-fig3-figsupp1
 figlink: /pmc/articles/PMC5711377/figure/fig3s1/
-number: Figure 3—figure supplement 1
+number: SF3_1
 caption: Mean of 4 biological replicates, each representing 5-6 pooled HIOs.
 pmcid: PMC5711377
 papertitle: Bacterial colonization stimulates a complex physiological response in
@@ -320,4 +320,7 @@ genes:
   entrez: '5591'
 chemicals: []
 diseases: []
+figid_alias: PMC5711377__SF3_1
+redirect_from: /figures/PMC5711377__SF3_1
+figtype: Supplemental figure
 ---

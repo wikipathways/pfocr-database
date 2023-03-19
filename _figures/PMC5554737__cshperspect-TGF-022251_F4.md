@@ -1,7 +1,7 @@
 ---
 figid: PMC5554737__cshperspect-TGF-022251_F4
 figlink: /pmc/articles/PMC5554737/figure/A022251F4/
-number: Figure 4
+number: F4
 caption: The bipotential gonad differentiates into male or female in response to a
   signaling pathway that involves anti-Müllerian hormone/Müllerian inhibiting substance
   (AMH/MIS), a member or the TGF-β family. In males, the sex-determining region of
@@ -20,8 +20,7 @@ figtitle: The bipotential gonad differentiates into male or female in response t
   a signaling pathway that involves anti-Müllerian hormone/Müllerian inhibiting substance
   (AMH/MIS), a member or the TGFB family
 year: ''
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ chemicals:
   source: MESH
   identifier: D013739
 diseases: []
+figid_alias: PMC5554737__F4
+redirect_from: /figures/PMC5554737__F4
+figtype: Figure
 ---

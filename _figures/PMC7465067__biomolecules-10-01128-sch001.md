@@ -1,7 +1,7 @@
 ---
 figid: PMC7465067__biomolecules-10-01128-sch001
 figlink: pmc/articles/PMC7465067/figure/biomolecules-10-01128-sch001/
-number: Scheme 1
+number: S1
 caption: 'Proposed mechanisms leading to the neurotoxicity in hyperhomocysteinemia
   (hHcy) + ischemia-reperfusion insult (IRI) conditions. HHcy followed by IRI induced
   neurotoxicity lead to the dysregulation in redox balance, lipoperoxidation and protein
@@ -22,8 +22,7 @@ filename: biomolecules-10-01128-sch001.jpg
 figtitle: Proposed mechanisms leading to the neurotoxicity in hyperhomocysteinemia
   (hHcy) + ischemia-reperfusion insult (IRI) conditions
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -124,4 +123,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC7465067__S1
+redirect_from: /figures/PMC7465067__S1
+figtype: Scheme
 ---

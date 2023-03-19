@@ -1,7 +1,7 @@
 ---
 figid: PMC8000549__microorganisms-09-00600-g001
 figlink: pmc/articles/PMC8000549/figure/microorganisms-09-00600-f001/
-number: Figure 1
+number: F1
 caption: 'The metabolic pathway designed for the production of β-alanine. The structure
   of the expression vector pET24a-panD-AspDH is shown beside the metabolic pathway.
   GLY: glycerol, G3P: glyceraldehyde-3-P, PEP: phosphoenolpyruvic acid, PYR: pyruvate,
@@ -15,8 +15,7 @@ pathway_score: 0.9376691
 filename: microorganisms-09-00600-g001.jpg
 figtitle: Metabolic pathway designed for the production of Beta-alanine
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -109,4 +108,7 @@ chemicals:
   source: MESH
   identifier: D009243
 diseases: []
+figid_alias: PMC8000549__F1
+redirect_from: /figures/PMC8000549__F1
+figtype: Figure
 ---

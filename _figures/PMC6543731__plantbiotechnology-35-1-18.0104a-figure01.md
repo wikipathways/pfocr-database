@@ -1,7 +1,7 @@
 ---
 figid: PMC6543731__plantbiotechnology-35-1-18.0104a-figure01
 figlink: /pmc/articles/PMC6543731/figure/figure1/
-number: ''
+number: F1
 caption: .na.character
 pmcid: PMC6543731
 papertitle: Molecular cloning of flavonoid biosynthetic genes and biochemical characterization
@@ -229,4 +229,7 @@ chemicals:
   source: MESH
   identifier: D005960
 diseases: []
+figid_alias: PMC6543731__F1
+redirect_from: /figures/PMC6543731__F1
+figtype: Figure
 ---

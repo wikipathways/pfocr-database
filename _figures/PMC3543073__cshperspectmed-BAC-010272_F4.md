@@ -1,7 +1,7 @@
 ---
 figid: PMC3543073__cshperspectmed-BAC-010272_F4
 figlink: /pmc/articles/PMC3543073/figure/A010272F4/
-number: Figure 4
+number: F4
 caption: Bacterial nucleomodulins targeting chromatin. Schematic representation of
   Chlamydia, Anaplasma, Listeria, and Shigella secreted factors involved in the control
   of gene expression in the nucleus of host cells, as detailed in the text. The bacterial
@@ -321,4 +321,7 @@ genes:
   entrez: '111'
 chemicals: []
 diseases: []
+figid_alias: PMC3543073__F4
+redirect_from: /figures/PMC3543073__F4
+figtype: Figure
 ---

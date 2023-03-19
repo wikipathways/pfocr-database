@@ -1,7 +1,7 @@
 ---
 figid: PMC3839612__cshperspect-DAM-019836_F5
 figlink: /pmc/articles/PMC3839612/figure/A019836F5/
-number: Figure 5
+number: F5
 caption: A detailed model of the Rad5-mediate template switch pathway, assuming gap
   filling dependent on a subset of HR functions after the replication fork has passed.
   First, Siz1-dependent, SUMOylated PCNA stimulates Srs2 helicase to disrupt Rad51
@@ -22,8 +22,7 @@ filename: cshperspect-DAM-019836_F5.jpg
 figtitle: A detailed model of the Rad5-mediate template switch pathway, assuming gap
   filling dependent on a subset of HR functions after the replication fork has passed
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ genes:
   entrez: '80010'
 chemicals: []
 diseases: []
+figid_alias: PMC3839612__F5
+redirect_from: /figures/PMC3839612__F5
+figtype: Figure
 ---

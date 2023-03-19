@@ -1,7 +1,7 @@
 ---
 figid: PMC3428775__cshperspect-WNT-007971_F3
 figlink: /pmc/articles/PMC3428775/figure/A007971F3/
-number: Figure 3
+number: F3
 caption: Model depicting effects of Wnt-stabilized β-catenin through Tcf proteins
   in mESCs. The two types of Wnt-regulated genes model the regulatory effects of Wnt3a
   and Tcf3 shown in . Group 1 genes are modeled as “Stem cell gene,” and Group 2 genes
@@ -34,8 +34,7 @@ filename: cshperspect-WNT-007971_F3.jpg
 figtitle: Model depicting effects of Wnt-stabilized Beta-catenin through Tcf proteins
   in mESCs
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ genes:
   entrez: '6657'
 chemicals: []
 diseases: []
+figid_alias: PMC3428775__F3
+redirect_from: /figures/PMC3428775__F3
+figtype: Figure
 ---

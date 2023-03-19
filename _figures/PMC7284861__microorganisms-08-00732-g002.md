@@ -1,7 +1,7 @@
 ---
 figid: PMC7284861__microorganisms-08-00732-g002
 figlink: pmc/articles/PMC7284861/figure/microorganisms-08-00732-f002/
-number: Figure 2
+number: F2
 caption: Biosynthetic pathway of L-histidine. Representation adapted from Kulis-Horn
   et al. [] and Alifano et al. [].
 pmcid: PMC7284861
@@ -13,8 +13,7 @@ pathway_score: 0.9329582
 filename: microorganisms-08-00732-g002.jpg
 figtitle: Biosynthetic pathway of L-histidine
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -109,4 +108,7 @@ chemicals:
   source: MESH
   identifier: C046212
 diseases: []
+figid_alias: PMC7284861__F2
+redirect_from: /figures/PMC7284861__F2
+figtype: Figure
 ---

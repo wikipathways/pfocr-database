@@ -1,7 +1,7 @@
 ---
 figid: PMC5499945__elife-25946-fig4-figsupp1
 figlink: /pmc/articles/PMC5499945/figure/fig4s1/
-number: Figure 4—figure supplement 1
+number: SF4_1
 caption: 'Aerobic glycolysis could serve as a metabolic adaptation to promote anabolism
   and visual cycle in the photoreceptors. Lactate represents carbon that is unavailable
   for oxidation and ATP generation. We favor a model where allosteric and FGF-mediated
@@ -271,4 +271,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC5499945__SF4_1
+redirect_from: /figures/PMC5499945__SF4_1
+figtype: Supplemental figure
 ---

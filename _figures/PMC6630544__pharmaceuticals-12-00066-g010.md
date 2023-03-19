@@ -1,7 +1,7 @@
 ---
 figid: PMC6630544__pharmaceuticals-12-00066-g010
 figlink: /pmc/articles/PMC6630544/figure/pharmaceuticals-12-00066-f010/
-number: Figure 10
+number: F10
 caption: Illustration of how SerB2 can be secreted within macrophage cytosol to disturb
   immune response and cause cytoskeletal remodeling (adapted from []). IL-8, Interleukin-8,
   an immune mediator; p38, mitogen-activated protein kinase p38, which regulates the
@@ -125,4 +125,7 @@ chemicals:
   source: MESH
   identifier: C530429
 diseases: []
+figid_alias: PMC6630544__F10
+redirect_from: /figures/PMC6630544__F10
+figtype: Figure
 ---

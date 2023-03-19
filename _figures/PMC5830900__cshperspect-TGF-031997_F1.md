@@ -1,7 +1,7 @@
 ---
 figid: PMC5830900__cshperspect-TGF-031997_F1
 figlink: pmc/articles/PMC5830900/figure/A031997F1/
-number: Figure 1
+number: F1
 caption: Role of the TGF-β family in mammary gland development and maturation. (A)
   Morphogenesis of a ductal tree in the mammary gland proceeds with epithelial cell
   proliferation, which is inhibited by TGF-β1, TGF-β3, and activins (TGF-β2 is not
@@ -35,8 +35,7 @@ pathway_score: 0.600142
 filename: cshperspect-TGF-031997_F1.jpg
 figtitle: Role of the TGFB family in mammary gland development and maturation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -387,4 +386,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases: []
+figid_alias: PMC5830900__F1
+redirect_from: /figures/PMC5830900__F1
+figtype: Figure
 ---

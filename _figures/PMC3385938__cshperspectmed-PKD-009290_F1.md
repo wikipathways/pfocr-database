@@ -1,7 +1,7 @@
 ---
 figid: PMC3385938__cshperspectmed-PKD-009290_F1
 figlink: /pmc/articles/PMC3385938/figure/A009290F1/
-number: Figure 1
+number: F1
 caption: Schematic representation of the plasma proteins that regulate ionic gradients
   following neurotransmitter release or during the time course of an action potential
   spike. Synaptic input and spiking dissipate ionic gradients maintained by pumps
@@ -135,4 +135,7 @@ chemicals:
   source: MESH
   identifier: D018698
 diseases: []
+figid_alias: PMC3385938__F1
+redirect_from: /figures/PMC3385938__F1
+figtype: Figure
 ---

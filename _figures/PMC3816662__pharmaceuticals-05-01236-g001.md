@@ -1,7 +1,7 @@
 ---
 figid: PMC3816662__pharmaceuticals-05-01236-g001
 figlink: /pmc/articles/PMC3816662/figure/pharmaceuticals-05-01236-f001/
-number: Figure 1
+number: F1
 caption: The PI3K/Akt/mTOR signaling pathway.
 pmcid: PMC3816662
 papertitle: The Biological Role of PI3K Pathway in Lung Cancer.
@@ -267,4 +267,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3816662__F1
+redirect_from: /figures/PMC3816662__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3326621__Beilstein_J_Org_Chem-08-428-g002
 figlink: /pmc/articles/PMC3326621/figure/C1/
-number: Scheme 1
+number: S1
 caption: Synthetic pathway.
 pmcid: PMC3326621
 papertitle: Facile synthesis of nitrophenyl 2-acetamido-2-deoxy-α-D-mannopyranosides
@@ -96,4 +96,7 @@ genes:
   entrez: '55811'
 chemicals: []
 diseases: []
+figid_alias: PMC3326621__S1
+redirect_from: /figures/PMC3326621__S1
+figtype: Scheme
 ---

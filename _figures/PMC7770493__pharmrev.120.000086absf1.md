@@ -1,7 +1,7 @@
 ---
 figid: PMC7770493__pharmrev.120.000086absf1
 figlink: pmc/articles/PMC7770493/figure/absf1/
-number: ''
+number: GA1
 caption: Figure.
 pmcid: PMC7770493
 papertitle: Subcellular Organization of the cAMP Signaling Pathway.
@@ -11,8 +11,7 @@ pathway_score: 0.8999523
 filename: pharmrev.120.000086absf1.jpg
 figtitle: Subcellular Organization of the cAMP Signaling Pathway
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -398,4 +397,7 @@ genes:
   entrez: '50940'
 chemicals: []
 diseases: []
+figid_alias: PMC7770493__GA1
+redirect_from: /figures/PMC7770493__GA1
+figtype: Graphical abstract
 ---

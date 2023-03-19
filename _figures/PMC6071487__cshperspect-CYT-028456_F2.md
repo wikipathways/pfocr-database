@@ -1,7 +1,7 @@
 ---
 figid: PMC6071487__cshperspect-CYT-028456_F2
 figlink: pmc/articles/PMC6071487/figure/A028456F2/
-number: Figure 2
+number: F2
 caption: Interleukin 6 (IL-6) receptor-mediated signaling pathway and an IL-6 inhibitor,
   the humanized anti-IL-6 receptor antibody tocilizumab. IL-6 binds to soluble and
   transmembrane IL-6R and the resultant complex induces homodimerization of gp130,
@@ -26,8 +26,7 @@ filename: cshperspect-CYT-028456_F2.jpg
 figtitle: Interleukin 6 (IL-6) receptor-mediated signaling pathway and an IL-6 inhibitor,
   the humanized anti-IL-6 receptor antibody tocilizumab
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -140,4 +139,7 @@ genes:
   entrez: '9021'
 chemicals: []
 diseases: []
+figid_alias: PMC6071487__F2
+redirect_from: /figures/PMC6071487__F2
+figtype: Figure
 ---

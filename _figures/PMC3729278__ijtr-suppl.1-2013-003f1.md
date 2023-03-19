@@ -1,7 +1,7 @@
 ---
 figid: PMC3729278__ijtr-suppl.1-2013-003f1
 figlink: /pmc/articles/PMC3729278/figure/f1-ijtr-suppl.1-2013-003/
-number: Figure 1
+number: F1
 caption: 'The tryptophan-nicotinamide pathway.Notes: The pathway consists of the two
   parts: the first part is from tryptophan to quinolinic acid, and the second is from
   quinolinic acid to 2-Py and 4-Py, which includes the NAD cycle and the nicotinamide
@@ -16,8 +16,7 @@ pathway_score: 0.9211338
 filename: ijtr-suppl.1-2013-003f1.jpg
 figtitle: Nutritional Aspect of Tryptophan Metabolism
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ chemicals:
   source: MESH
   identifier: D017378
 diseases: []
+figid_alias: PMC3729278__F1
+redirect_from: /figures/PMC3729278__F1
+figtype: Figure
 ---

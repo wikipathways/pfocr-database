@@ -1,7 +1,7 @@
 ---
 figid: PMC5138034__elife-19662-fig8-figsupp1
 figlink: /pmc/articles/PMC5138034/figure/fig8s1/
-number: Figure 8—figure supplement 1
+number: SF8_1
 caption: 'Cell death induces release of actin that is detected by an unknown sensor,
   which then promotes ROS production by Nox in the fat body. Nox-derived ROS activate
   Src42A and phosphorylate either the sensor or another receptor, allowing Shark-dependent
@@ -130,4 +130,7 @@ genes:
   entrez: '60'
 chemicals: []
 diseases: []
+figid_alias: PMC5138034__SF8_1
+redirect_from: /figures/PMC5138034__SF8_1
+figtype: Supplemental figure
 ---

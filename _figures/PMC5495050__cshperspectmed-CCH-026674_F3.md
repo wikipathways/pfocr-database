@@ -1,7 +1,7 @@
 ---
 figid: PMC5495050__cshperspectmed-CCH-026674_F3
 figlink: /pmc/articles/PMC5495050/figure/A026674F3/
-number: Figure 3
+number: F3
 caption: The BRD4 pathway in acute myeloid leukemia (AML) cells. In AML cells, BRD4
   is recruited to lineage-specific enhancers and promoters by acetylated histones
   and transcription factors (TFs), which are acetylated by p300. BRD4 will then recruit
@@ -177,4 +177,7 @@ genes:
   entrez: '92737'
 chemicals: []
 diseases: []
+figid_alias: PMC5495050__F3
+redirect_from: /figures/PMC5495050__F3
+figtype: Figure
 ---

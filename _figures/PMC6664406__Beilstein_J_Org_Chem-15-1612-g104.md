@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g104
 figlink: /pmc/articles/PMC6664406/figure/C96/
-number: Scheme 96
+number: S96
 caption: Reaction pathway for ZnO-catalyzed GBB reaction.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.7400361
 filename: Beilstein_J_Org_Chem-15-1612-g104.jpg
 figtitle: Reaction pathway for ZnO-catalyzed GBB reaction
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -49,4 +48,7 @@ chemicals:
   source: MESH
   identifier: D006859
 diseases: []
+figid_alias: PMC6664406__S96
+redirect_from: /figures/PMC6664406__S96
+figtype: Scheme
 ---

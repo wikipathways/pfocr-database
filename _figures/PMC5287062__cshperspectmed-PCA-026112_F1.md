@@ -1,7 +1,7 @@
 ---
 figid: PMC5287062__cshperspectmed-PCA-026112_F1
 figlink: /pmc/articles/PMC5287062/figure/A026112F1/
-number: Figure 1
+number: F1
 caption: Mechanisms of cellular senescence. DNA damage is caused by multiple means,
   including oncogene activation, reactive oxygen species (ROS), cell division and
   replication, ultraviolet light (UV), and cancer therapies. These signals in turn
@@ -311,4 +311,7 @@ diseases:
 - word: Melanoma
   source: ''
   identifier: ''
+figid_alias: PMC5287062__F1
+redirect_from: /figures/PMC5287062__F1
+figtype: Figure
 ---

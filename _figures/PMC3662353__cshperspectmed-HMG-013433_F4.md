@@ -1,7 +1,7 @@
 ---
 figid: PMC3662353__cshperspectmed-HMG-013433_F4
 figlink: /pmc/articles/PMC3662353/figure/A013433F4/
-number: Figure 4
+number: F4
 caption: Physiologic hemoglobin scavengers and detoxification systems. Hb can be released
   from red blood cells (RBC) into the plasma and extracellular environment during
   hemolysis or tissue injury. In the extracellular compartment, Hb reacts with peroxides
@@ -156,4 +156,7 @@ chemicals:
   source: MESH
   identifier: D006418
 diseases: []
+figid_alias: PMC3662353__F4
+redirect_from: /figures/PMC3662353__F4
+figtype: Figure
 ---

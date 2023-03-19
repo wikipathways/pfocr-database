@@ -1,7 +1,7 @@
 ---
 figid: PMC7761761__microorganisms-08-01920-g008
 figlink: pmc/articles/PMC7761761/figure/microorganisms-08-01920-f008/
-number: Figure 8
+number: F8
 caption: 'Putative metabolic pathway for the production of derivatives of nitrogen-containing
   azaphilone red pigments in the marine-derived Talaromyces sp. 30570 strain, based
   on the previously reported models for Monascus-like azaphilone pigments biosynthesis
@@ -26,8 +26,7 @@ filename: microorganisms-08-01920-g008.jpg
 figtitle: Putative metabolic pathway for the production of derivatives of nitrogen-containing
   azaphilone red pigments in the marine-derived Talaromyces sp
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -240,4 +239,7 @@ diseases:
 - word: SAT KS AT PT
   source: MESH
   identifier: D006526
+figid_alias: PMC7761761__F8
+redirect_from: /figures/PMC7761761__F8
+figtype: Figure
 ---

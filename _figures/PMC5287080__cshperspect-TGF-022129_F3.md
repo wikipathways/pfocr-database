@@ -1,7 +1,7 @@
 ---
 figid: PMC5287080__cshperspect-TGF-022129_F3
 figlink: /pmc/articles/PMC5287080/figure/A022129F3/
-number: Figure 3
+number: F3
 caption: Transforming growth factor β (TGF-β)-induced activation of the PI3K-Akt pathway.
   TGF-β can induce PI3K and Akt activation, possibly through interaction of the p85
   subunit of PI3K with the TGF-β receptors. Activated Akt then controls translational
@@ -200,4 +200,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5287080__F3
+redirect_from: /figures/PMC5287080__F3
+figtype: Figure
 ---

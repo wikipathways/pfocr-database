@@ -1,7 +1,7 @@
 ---
 figid: PMC7022881__microorganisms-08-00100-g001
 figlink: pmc/articles/PMC7022881/figure/microorganisms-08-00100-f001/
-number: Figure 1
+number: F1
 caption: Two signaling pathways that respond to extracellular glucose in Saccharomyces
   cerevisiae. (A) The cAMP-PKA pathway. The membrane protein Gpr1 serves as a receptor
   for extracellular glucose and stimulates activation of Gpa2, which in turn stimulates
@@ -28,8 +28,7 @@ filename: microorganisms-08-00100-g001.jpg
 figtitle: Two signaling pathways that respond to extracellular glucose in Saccharomyces
   cerevisiae
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -220,4 +219,7 @@ chemicals:
   source: MESH
   identifier: D000249
 diseases: []
+figid_alias: PMC7022881__F1
+redirect_from: /figures/PMC7022881__F1
+figtype: Figure
 ---

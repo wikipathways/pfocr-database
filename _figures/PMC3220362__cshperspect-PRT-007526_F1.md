@@ -1,7 +1,7 @@
 ---
 figid: PMC3220362__cshperspect-PRT-007526_F1
 figlink: /pmc/articles/PMC3220362/figure/A007526F1/
-number: Figure 1
+number: F1
 caption: 'Schematic model of the ER quality control system. Selected components are
   depicted in this model. (A) Cotranslational translation: The ER signal sequence
   of a newly synthesized polypeptide is bound by a signal-recognition particle (SRP).
@@ -163,4 +163,7 @@ chemicals:
   source: MESH
   identifier: D008358
 diseases: []
+figid_alias: PMC3220362__F1
+redirect_from: /figures/PMC3220362__F1
+figtype: Figure
 ---

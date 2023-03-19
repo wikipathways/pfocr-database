@@ -1,7 +1,7 @@
 ---
 figid: PMC3143541__RevDiabeticStud-07-263-003
 figlink: /pmc/articles/PMC3143541/figure/F1/
-number: Figure 1
+number: F1
 caption: 'The inhibition of ROS by zinc reduces glucose toxicity. Zinc stimulates
   metallothionein transcription. Metallothionein itself has antioxidant effects. Zinc
   provides protection against immune-mediated free radical attack by protecting sulfhydryl
@@ -23,8 +23,7 @@ filename: RevDiabeticStud-07-263-003.jpg
 figtitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Potential
   Role of Zinc in Islet Transplantation
 year: '2010'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -91,4 +90,7 @@ chemicals:
   source: MESH
   identifier: D019820
 diseases: []
+figid_alias: PMC3143541__F1
+redirect_from: /figures/PMC3143541__F1
+figtype: Figure
 ---

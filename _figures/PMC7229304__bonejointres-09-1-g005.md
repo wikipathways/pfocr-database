@@ -1,7 +1,7 @@
 ---
 figid: PMC7229304__bonejointres-09-1-g005
 figlink: pmc/articles/PMC7229304/figure/fig5-2046-3758.91.BJR-2019-0043.R2/
-number: Fig. 5
+number: F5
 caption: Applications of mechanotransduction. a) Shockwaves induce hyperpolarization
   of the cell membrane with subsequent induction of the osteogenic growth factor,
   transforming growth factor beta-1 (TGF-β1), as well as synthesizing oxygen free
@@ -25,8 +25,7 @@ pathway_score: 0.9788865
 filename: bonejointres-09-1-g005.jpg
 figtitle: Applications of mechanotransduction
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -178,4 +177,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7229304__F5
+redirect_from: /figures/PMC7229304__F5
+figtype: Figure
 ---

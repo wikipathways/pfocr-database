@@ -1,7 +1,7 @@
 ---
 figid: PMC5453393__cshperspect-TGF-022178_F1
 figlink: /pmc/articles/PMC5453393/figure/A022178F1/
-number: Figure 1
+number: F1
 caption: Generic transforming growth factor β (TGF-β) family signaling pathway through
   Smads compared with the Caenorhabditis elegans dauer pathway and the C. elegans
   Sma/Mab pathway. (A) The classic TGF-β signaling pathway. (B) The dauer pathway.
@@ -23,8 +23,7 @@ filename: cshperspect-TGF-022178_F1.jpg
 figtitle: Generic transforming growth factor B (TGFB) family signaling pathway through
   Smads compared with the Caenorhabditis elegans dauer pathway and the C
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -88,4 +87,7 @@ genes:
   entrez: '6606'
 chemicals: []
 diseases: []
+figid_alias: PMC5453393__F1
+redirect_from: /figures/PMC5453393__F1
+figtype: Figure
 ---

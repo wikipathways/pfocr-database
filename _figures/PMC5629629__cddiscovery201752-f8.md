@@ -1,7 +1,7 @@
 ---
 figid: PMC5629629__cddiscovery201752-f8
 figlink: /pmc/articles/PMC5629629/figure/fig8/
-number: Figure 8
+number: F8
 caption: The proposed model of the cell autophagy induced by SAHA and TRAIL DR5-CTSB
   in breast cancer cell lines. TRAIL DR5 was involved in SAHA-induced autophagy with
   up-regulation of CTSB. Activity changes of MAPK and TOR signaling pathway were involved
@@ -118,4 +118,7 @@ genes:
   entrez: '1432'
 chemicals: []
 diseases: []
+figid_alias: PMC5629629__F8
+redirect_from: /figures/PMC5629629__F8
+figtype: Figure
 ---

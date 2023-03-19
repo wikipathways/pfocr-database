@@ -1,7 +1,7 @@
 ---
 figid: PMC6726851__Dtsch_Arztebl_Int-116_0497_002
 figlink: /pmc/articles/PMC6726851/figure/F2/
-number: Figure 2
+number: F2
 caption: Inhibition of the MAPK(RAS-RAF-MEK-ERK) signaling pathway by BRAF inhibitors
   and MEK inhibitorsMAPK, mitogen-activated protein kinase; RTK, receptor-tyrosine-kinase
 pmcid: PMC6726851
@@ -13,8 +13,7 @@ filename: Dtsch_Arztebl_Int-116_0497_002.jpg
 figtitle: Inhibition of the MAPK(RAS-RAF-MEK-ERK) signaling pathway by BRAF inhibitors
   and MEK inhibitorsMAPK, mitogen-activated protein kinase; RTK, receptor-tyrosine-kinase
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -103,4 +102,7 @@ diseases:
 - word: Melanoma
   source: MESH
   identifier: D008545
+figid_alias: PMC6726851__F2
+redirect_from: /figures/PMC6726851__F2
+figtype: Figure
 ---

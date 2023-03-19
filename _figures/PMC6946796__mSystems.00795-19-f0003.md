@@ -1,7 +1,7 @@
 ---
 figid: PMC6946796__mSystems.00795-19-f0003
 figlink: pmc/articles/PMC6946796/figure/fig3/
-number: FIG 3
+number: F3
 caption: Metabolic prediction for the community of MAGs from TVG metagenomes. The
   abundance of peptidases and carbohydrate-degrading enzymes was calculated by considering
   the MAG completeness and taking the average for all MAGs within an individual microbial
@@ -20,8 +20,7 @@ pathway_score: 0.6940727
 filename: mSystems.00795-19-f0003.jpg
 figtitle: Metabolic prediction for the community of MAGs from TVG metagenomes
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -140,4 +139,7 @@ chemicals:
   source: MESH
   identifier: C055475
 diseases: []
+figid_alias: PMC6946796__F3
+redirect_from: /figures/PMC6946796__F3
+figtype: Figure
 ---

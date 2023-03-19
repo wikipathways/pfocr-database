@@ -1,7 +1,7 @@
 ---
 figid: PMC5287080__cshperspect-TGF-022129_F1
 figlink: /pmc/articles/PMC5287080/figure/A022129F1/
-number: Figure 1
+number: F1
 caption: Transforming growth factor β (TGF-β)-induced activation of the extracellular
   signal-regulated kinase (Erk) mitogen-activated protein kinase (MAPK) pathway. On
   binding of TGF-β to its receptor complex, the constitutively active type II receptors
@@ -206,4 +206,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC5287080__F1
+redirect_from: /figures/PMC5287080__F1
+figtype: Figure
 ---

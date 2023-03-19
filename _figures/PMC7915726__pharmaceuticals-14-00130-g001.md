@@ -1,7 +1,7 @@
 ---
 figid: PMC7915726__pharmaceuticals-14-00130-g001
 figlink: pmc/articles/PMC7915726/figure/pharmaceuticals-14-00130-f001/
-number: Figure 1
+number: F1
 caption: Effects of the Mer receptor tyrosine kinase (MERTK)-mediated signaling pathway
   in epidermal growth factor tyrosine kinase inhibitors (EGFR-TKI) resistance. For
   EGFR-TKI resistance without the acquired T790M mutation in EGFR, the downstream
@@ -19,8 +19,7 @@ filename: pharmaceuticals-14-00130-g001.jpg
 figtitle: The Mer receptor tyrosine kinase (MERTK)-mediated signaling pathway in epidermal
   growth factor tyrosine kinase inhibitors (EGFR-TKI) resistance
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -298,4 +297,7 @@ chemicals:
   source: MESH
   identifier: C570563
 diseases: []
+figid_alias: PMC7915726__F1
+redirect_from: /figures/PMC7915726__F1
+figtype: Figure
 ---

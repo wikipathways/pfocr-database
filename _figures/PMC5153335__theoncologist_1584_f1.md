@@ -1,7 +1,7 @@
 ---
 figid: PMC5153335__theoncologist_1584_f1
 figlink: /pmc/articles/PMC5153335/figure/F1/
-number: Figure 1
+number: F1
 caption: 'KRAS pathway biology. ∗, incorporation of Ras to the inner cell membrane;
   ∗∗, posttranslational folding of KRAS.Abbreviations: GAP, GTPase-activating protein;
   GDP, guanosine diphosphate; GEF, guanine nucleotide exchange factor, GTP, guanosine
@@ -249,4 +249,7 @@ diseases:
 - word: Lung cancer
   source: ''
   identifier: ''
+figid_alias: PMC5153335__F1
+redirect_from: /figures/PMC5153335__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4769166__elife-11612-fig7-figsupp1
 figlink: /pmc/articles/PMC4769166/figure/fig7s1/
-number: Figure 7—figure supplement 1
+number: SF7_1
 caption: '(A) The Akt-mTORC1-Acly pathway couples metabolic input to control of particular
   subsets of the M2 program, including chemokines and cellular proliferation. (B)
   p300 links metabolic status and Akt-mTORC1 activity in the form of Ac-CoA levels
@@ -197,4 +197,7 @@ genes:
   entrez: '208'
 chemicals: []
 diseases: []
+figid_alias: PMC4769166__SF7_1
+redirect_from: /figures/PMC4769166__SF7_1
+figtype: Supplemental figure
 ---

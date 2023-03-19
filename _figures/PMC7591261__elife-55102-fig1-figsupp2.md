@@ -1,7 +1,7 @@
 ---
 figid: PMC7591261__elife-55102-fig1-figsupp2
 figlink: pmc/articles/PMC7591261/figure/fig1s2/
-number: Figure 1—figure supplement 2
+number: SF1_2
 caption: (A) MAPK cascade from GSEA analysis of G1/S to S transition. Full results
   of GSEA analysis are listed in . (B) Top events from Kegg pathway analysis of DEGs
   from G1/S to S. Full results are listed in . (C) Gene ontology analysis showing
@@ -17,8 +17,7 @@ filename: elife-55102-fig1-figsupp2.jpg
 figtitle: Pathways and biological processes of genes that showed differential expression
   during cell cycle
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -209,4 +208,7 @@ diseases:
 - word: initosis
   source: ''
   identifier: ''
+figid_alias: PMC7591261__SF1_2
+redirect_from: /figures/PMC7591261__SF1_2
+figtype: Supplemental figure
 ---

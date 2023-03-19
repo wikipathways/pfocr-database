@@ -1,7 +1,7 @@
 ---
 figid: PMC3295401__jexboterr426f09_3c
 figlink: /pmc/articles/PMC3295401/figure/fig9/
-number: Fig. 9
+number: F9
 caption: Model for the signalling induced by salt stress and biotic stress (as induced
   by the Harpin elicitor) in grapevine. Csk, cytoskeleton; hrp, Harpin elicitor; hrpR,
   putative Harpin receptor; msc, putative mechanosensitive channel; ΔΨ, gradient in
@@ -104,4 +104,7 @@ genes:
   entrez: '5600'
 chemicals: []
 diseases: []
+figid_alias: PMC3295401__F9
+redirect_from: /figures/PMC3295401__F9
+figtype: Figure
 ---

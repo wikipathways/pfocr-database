@@ -1,7 +1,7 @@
 ---
 figid: PMC4109574__cshperspectmed-HFP-019281_F1
 figlink: /pmc/articles/PMC4109574/figure/A019281F1/
-number: Figure 1
+number: F1
 caption: Mating in Candida albicans. Mating in Candida albians involves both homozygosis
   from a/α to a/a or α/α, and a switch from the white to opaque phenotype. (A) Homozygosis
   from a/α to a/a or α/α results in the loss of the a1-α2 corepressor complex, which
@@ -23,8 +23,7 @@ pathway_score: 0.8095566
 filename: cshperspectmed-HFP-019281_F1.jpg
 figtitle: Mating in Candida albicans
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -102,4 +101,7 @@ genes:
   entrez: '84867'
 chemicals: []
 diseases: []
+figid_alias: PMC4109574__F1
+redirect_from: /figures/PMC4109574__F1
+figtype: Figure
 ---

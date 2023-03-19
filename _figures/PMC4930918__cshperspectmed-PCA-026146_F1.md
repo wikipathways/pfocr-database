@@ -1,7 +1,7 @@
 ---
 figid: PMC4930918__cshperspectmed-PCA-026146_F1
 figlink: /pmc/articles/PMC4930918/figure/A026146F1/
-number: Figure 1
+number: F1
 caption: p53 integrates metabolic stress signals to direct cell metabolism. The p53
   protein is activated in response to changing metabolic conditions (blue arrows)
   and growth factor signaling (black arrows) through positive and negative interactions
@@ -224,4 +224,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4930918__F1
+redirect_from: /figures/PMC4930918__F1
+figtype: Figure
 ---

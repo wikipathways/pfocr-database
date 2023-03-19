@@ -1,7 +1,7 @@
 ---
 figid: PMC4588066__cshperspect-SIG-006064_F1
 figlink: /pmc/articles/PMC4588066/figure/A006064F1/
-number: Figure 1
+number: F1
 caption: Regulation of oocyte maturation. Immature oocytes are held in G2 arrest through
   the activity of PKA, which is stimulated by GPR3-dependent production of cAMP. Progesterone
   signaling leads to a loss of PKA activity, leading to disinhibition of the CDK1
@@ -279,4 +279,7 @@ chemicals:
   source: MESH
   identifier: D011374
 diseases: []
+figid_alias: PMC4588066__F1
+redirect_from: /figures/PMC4588066__F1
+figtype: Figure
 ---

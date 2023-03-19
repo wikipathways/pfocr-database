@@ -1,7 +1,7 @@
 ---
 figid: PMC6994220__elife-45310-fig1-figsupp1
 figlink: pmc/articles/PMC6994220/figure/fig1s1/
-number: Figure 1—figure supplement 1
+number: SF1_1
 caption: '(A) A pathway for cis-carotene and xanthophyll synthesis. Tri-cis-ζ-carotene
   and tetra-cis-lycopene are isomerised by ZISO and CRTISO to form di-cis-ζ-carotene
   and lycopene, respectively. ziso and ccr2 mutants accumulate cis-carotenes (; ).
@@ -33,8 +33,7 @@ pathway_score: 0.9697022
 filename: elife-45310-fig1-figsupp1.jpg
 figtitle: cis-carotene biosynthesis and regulation of PLB formation during skotomorphogenesis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -189,4 +188,7 @@ chemicals:
   source: MESH
   identifier: D014975
 diseases: []
+figid_alias: PMC6994220__SF1_1
+redirect_from: /figures/PMC6994220__SF1_1
+figtype: Supplemental figure
 ---

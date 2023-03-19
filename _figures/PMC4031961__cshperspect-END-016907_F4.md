@@ -1,7 +1,7 @@
 ---
 figid: PMC4031961__cshperspect-END-016907_F4
 figlink: /pmc/articles/PMC4031961/figure/A016907F4/
-number: Figure 4
+number: F4
 caption: Model of TFEB regulation and function during starvation. This model illustrates
   how TFEB mediates the starvation response by regulating lipid catabolism. In the
   presence of sufficient nutrients, TFEB interacts with the LYNUS machinery, which
@@ -26,8 +26,7 @@ pathway_score: 0.9557621
 filename: cshperspect-END-016907_F4.jpg
 figtitle: Model of TFEB regulation and function during starvation
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -82,4 +81,7 @@ chemicals:
   source: MESH
   identifier: D005227
 diseases: []
+figid_alias: PMC4031961__F4
+redirect_from: /figures/PMC4031961__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4524771__theoncologist_1564_f2
 figlink: /pmc/articles/PMC4524771/figure/F2/
-number: Figure 2
+number: F2
 caption: 'Proposed anticancer effects of statins (HMG-CoA reductase inhibitors) involving
   the mevalonate pathway. Statins inhibit HMG-CoA reductase, a key enzyme in the mevalonate
   pathway. This pathway is not only responsible for membrane and glycoprotein synthesis
@@ -165,4 +165,7 @@ chemicals:
   source: MESH
   identifier: D014451
 diseases: []
+figid_alias: PMC4524771__F2
+redirect_from: /figures/PMC4524771__F2
+figtype: Figure
 ---

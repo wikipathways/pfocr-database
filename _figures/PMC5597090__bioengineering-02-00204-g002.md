@@ -1,7 +1,7 @@
 ---
 figid: PMC5597090__bioengineering-02-00204-g002
 figlink: /pmc/articles/PMC5597090/figure/bioengineering-02-00204-f002/
-number: Figure 2
+number: F2
 caption: Schematic diagram of the shikimate and aromatic amino acid biosynthetic pathways
   in plants. Only some of the enzymes are depicted. Dashed black arrows represent
   several enzymatic steps. Red arrows represent enzymatic steps carried by the heterologously
@@ -17,8 +17,7 @@ filename: bioengineering-02-00204-g002.jpg
 figtitle: Schematic diagram of the shikimate and aromatic amino acid biosynthetic
   pathways in plants
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ chemicals:
   source: MESH
   identifier: D014443
 diseases: []
+figid_alias: PMC5597090__F2
+redirect_from: /figures/PMC5597090__F2
+figtype: Figure
 ---

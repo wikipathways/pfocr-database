@@ -1,7 +1,7 @@
 ---
 figid: PMC6115007__RevDiabeticStud-14-269-004
 figlink: /pmc/articles/PMC6115007/figure/F2/
-number: Figure 2
+number: F2
 caption: 'Iron (inorganic and hem-bound) is absorbed from the intestine, and enters
   the LIP in cytoplasma. Iron is excreted through ferroportin, oxidized by hephestin,
   and released into the circulation. Iron is transported in the bloodstream bound
@@ -155,4 +155,7 @@ genes:
   entrez: '23516'
 chemicals: []
 diseases: []
+figid_alias: PMC6115007__F2
+redirect_from: /figures/PMC6115007__F2
+figtype: Figure
 ---

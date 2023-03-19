@@ -1,7 +1,7 @@
 ---
 figid: PMC3683896__cshperspect-CSD-008656_F2
 figlink: /pmc/articles/PMC3683896/figure/A008656F2/
-number: Figure 2
+number: F2
 caption: Extrinsic and intrinsic pathways of apoptosis. The extrinsic apoptosis pathway
   is activated through the binding of a ligand to a death receptor, which in turn
   leads, with the help of the adapter proteins (FADD/TRADD), to recruitment, dimerization,
@@ -182,4 +182,7 @@ genes:
   entrez: '8795'
 chemicals: []
 diseases: []
+figid_alias: PMC3683896__F2
+redirect_from: /figures/PMC3683896__F2
+figtype: Figure
 ---

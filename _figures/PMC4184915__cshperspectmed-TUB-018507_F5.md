@@ -1,7 +1,7 @@
 ---
 figid: PMC4184915__cshperspectmed-TUB-018507_F5
 figlink: /pmc/articles/PMC4184915/figure/A018507F5/
-number: Figure 5
+number: F5
 caption: Nutritional immunity to Mtb. (A) Depletion of tricarboxylic acid (TCA) cycle
   and potential glyoxylate shunt substrates via a cis-aconitate decarboxylase known
   as immunoresponsive gene-1 (IRG1) that resides in mitochondria. Position at which
@@ -20,8 +20,7 @@ pathway_score: 0.9011558
 filename: cshperspectmed-TUB-018507_F5.jpg
 figtitle: Nutritional immunity to Mtb
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -108,4 +107,7 @@ chemicals:
   source: MESH
   identifier: D014364
 diseases: []
+figid_alias: PMC4184915__F5
+redirect_from: /figures/PMC4184915__F5
+figtype: Figure
 ---

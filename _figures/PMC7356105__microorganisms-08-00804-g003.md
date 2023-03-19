@@ -1,7 +1,7 @@
 ---
 figid: PMC7356105__microorganisms-08-00804-g003
 figlink: pmc/articles/PMC7356105/figure/microorganisms-08-00804-f003/
-number: Figure 3
+number: F3
 caption: TNF pathway inhibition in HGF in response to C. albicans agonist when treated
   with vitamin E formulation. All gene products highlighted in green are significantly
   down-regulated.
@@ -13,8 +13,7 @@ pathway_score: 0.8551476
 filename: microorganisms-08-00804-g003.jpg
 figtitle: TNF pathway inhibition in HGF in response to C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -179,4 +178,7 @@ genes:
   entrez: '2'
 chemicals: []
 diseases: []
+figid_alias: PMC7356105__F3
+redirect_from: /figures/PMC7356105__F3
+figtype: Figure
 ---

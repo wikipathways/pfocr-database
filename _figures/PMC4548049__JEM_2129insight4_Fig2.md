@@ -1,7 +1,7 @@
 ---
 figid: PMC4548049__JEM_2129insight4_Fig2
 figlink: /pmc/articles/PMC4548049/figure/fig2/
-number: ''
+number: F2
 caption: Mutations in six genes (TLR3, UNC93B1, TRIF, TRAF3, TBK1, and IRF3), all
   involved in the TLR3 signaling pathway, have been found in HSE patients. TLR3, UNC93B1,
   and TRIF are specifically involved in TLR3 signaling. TRAF3, TBK1, and IRF3 are
@@ -20,8 +20,7 @@ pathway_score: 0.9723404
 filename: JEM_2129insight4_Fig2.jpg
 figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3'
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ genes:
   entrez: '29110'
 chemicals: []
 diseases: []
+figid_alias: PMC4548049__F2
+redirect_from: /figures/PMC4548049__F2
+figtype: Figure
 ---

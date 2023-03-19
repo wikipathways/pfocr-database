@@ -1,7 +1,7 @@
 ---
 figid: PMC7558951__pharmaceuticals-13-00211-sch018
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch018/
-number: Scheme 18
+number: S18
 caption: Oxidative pathway to obtain the phosphoroselenoates.
 pmcid: PMC7558951
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
@@ -12,8 +12,7 @@ pathway_score: 0.9177538
 filename: pharmaceuticals-13-00211-sch018.jpg
 figtitle: Oxidative pathway to obtain the phosphoroselenoates
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: D012643
 diseases: []
+figid_alias: PMC7558951__S18
+redirect_from: /figures/PMC7558951__S18
+figtype: Scheme
 ---

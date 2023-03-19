@@ -1,7 +1,7 @@
 ---
 figid: PMC3385954__cshperspect-MDV-008383_F4
 figlink: /pmc/articles/PMC3385954/figure/A008383F4/
-number: Figure 4
+number: F4
 caption: Mechanisms ensuring genomic integrity in skin stem cells. Upon DNA damage,
   hair follicle bulge stem cells initiate the DNA damage response pathway, but because
   of higher levels of antiapoptotic Bcl-2 and DNA-PK (red arrows), they exhibit lower
@@ -15,8 +15,7 @@ pathway_score: 0.9279513
 filename: cshperspect-MDV-008383_F4.jpg
 figtitle: Mechanisms ensuring genomic integrity in skin stem cells
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -80,4 +79,7 @@ genes:
   entrez: '5366'
 chemicals: []
 diseases: []
+figid_alias: PMC3385954__F4
+redirect_from: /figures/PMC3385954__F4
+figtype: Figure
 ---

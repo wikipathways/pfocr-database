@@ -1,7 +1,7 @@
 ---
 figid: PMC6780701__microorganisms-07-00294-g001
 figlink: /pmc/articles/PMC6780701/figure/microorganisms-07-00294-f001/
-number: Figure 1
+number: F1
 caption: The metabolic pathway for Hyaluronic Acid production. In green, the enzymes
   that are not present in the metabolism of K. lactis but are necessary for the synthesis
   of Hyaluronic Acid.
@@ -13,8 +13,7 @@ pathway_score: 0.5499251
 filename: microorganisms-07-00294-g001.jpg
 figtitle: The metabolic pathway for Hyaluronic Acid production
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -108,4 +107,7 @@ diseases:
 - word: CH
   source: ''
   identifier: ''
+figid_alias: PMC6780701__F1
+redirect_from: /figures/PMC6780701__F1
+figtype: Figure
 ---

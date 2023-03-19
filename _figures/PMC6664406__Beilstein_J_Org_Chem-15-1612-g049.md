@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g049
 figlink: /pmc/articles/PMC6664406/figure/C41/
-number: Scheme 41
+number: S41
 caption: Probable pathway.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.5752674
 filename: Beilstein_J_Org_Chem-15-1612-g049.jpg
 figtitle: Probable pathway
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: D003300
 diseases: []
+figid_alias: PMC6664406__S41
+redirect_from: /figures/PMC6664406__S41
+figtype: Scheme
 ---

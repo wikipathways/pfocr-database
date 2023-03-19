@@ -1,7 +1,7 @@
 ---
 figid: PMC4978554__theoncologist_15523_f1
 figlink: /pmc/articles/PMC4978554/figure/F1/
-number: Figure 1
+number: F1
 caption: 'CTLA-4 pathway inhibition. The antitumor immune response is initiated by
   the uptake and processing of tumor protein antigens by APCs, which subsequently
   activate T cells. T-cell activation requires two steps: first, the presentation
@@ -21,8 +21,7 @@ pathway_score: 0.9055049
 filename: theoncologist_15523_f1.jpg
 figtitle: CTLA-4 pathway inhibition
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ genes:
   entrez: '6965'
 chemicals: []
 diseases: []
+figid_alias: PMC4978554__F1
+redirect_from: /figures/PMC4978554__F1
+figtype: Figure
 ---

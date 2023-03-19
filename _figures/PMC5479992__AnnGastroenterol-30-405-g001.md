@@ -1,7 +1,7 @@
 ---
 figid: PMC5479992__AnnGastroenterol-30-405-g001
 figlink: /pmc/articles/PMC5479992/figure/F1/
-number: Figure 1
+number: F1
 caption: Iron homeostasis. (A) Iron absorption. Fe3+ is reduced to Fe2+ by duodenal
   cytochrome B (Dcytb) and is transported from enteral lumen into the enterocyte by
   the divalent metaltrasporter-1 (DMT-1). Iron is transported by the ferroportin (FPN)
@@ -120,4 +120,7 @@ genes:
   entrez: '4087'
 chemicals: []
 diseases: []
+figid_alias: PMC5479992__F1
+redirect_from: /figures/PMC5479992__F1
+figtype: Figure
 ---

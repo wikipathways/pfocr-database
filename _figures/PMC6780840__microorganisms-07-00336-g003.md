@@ -1,7 +1,7 @@
 ---
 figid: PMC6780840__microorganisms-07-00336-g003
 figlink: /pmc/articles/PMC6780840/figure/microorganisms-07-00336-f003/
-number: Figure 3
+number: F3
 caption: Intracellular peptidoglycan (PGN) is detected by intracellular receptors
   and activates the NF-κB signaling pathway in Drosophila melanogaster and human enterocytes.
   Intracellular PGN is detected by the PGRP-LE receptor in Drosophila melanogaster
@@ -116,4 +116,7 @@ genes:
   entrez: '23118'
 chemicals: []
 diseases: []
+figid_alias: PMC6780840__F3
+redirect_from: /figures/PMC6780840__F3
+figtype: Figure
 ---

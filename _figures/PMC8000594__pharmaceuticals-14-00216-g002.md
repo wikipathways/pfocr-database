@@ -1,7 +1,7 @@
 ---
 figid: PMC8000594__pharmaceuticals-14-00216-g002
 figlink: pmc/articles/PMC8000594/figure/pharmaceuticals-14-00216-f002/
-number: Figure 2
+number: F2
 caption: Functional features of SLC6A14 and SLC38A5 and their relevance to glutaminolysis
   and serine–glycine–one-carbon pathway. Figure legend 1, Serine hydroxymethyl transferase
   (SHMT); 2, Glycine cleavage system; 3, Phosphoserine aminotransferase (PSAT); 4,
@@ -16,8 +16,7 @@ filename: pharmaceuticals-14-00216-g002.jpg
 figtitle: Functional features of SLC6A14 and SLC38A5 and their relevance to glutaminolysis
   and serine–glycine–one-carbon pathway
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -166,4 +165,7 @@ diseases:
 - word: Homocysteine S-Adenosylhomocysteine
   source: MESH
   identifier: C564683
+figid_alias: PMC8000594__F2
+redirect_from: /figures/PMC8000594__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3740688__RevDiabeticStud-09-148-004
 figlink: /pmc/articles/PMC3740688/figure/F3/
-number: Figure 3
+number: F3
 caption: 'A: Immune regulatory mechanisms fail within the islet as diabetes progresses.
   Tregs present in the islet initially control the immune response. However, declining
   concentrations of IL-2 and increasing concentration of IL-21 result in decreased
@@ -120,4 +120,7 @@ genes:
   entrez: '3575'
 chemicals: []
 diseases: []
+figid_alias: PMC3740688__F3
+redirect_from: /figures/PMC3740688__F3
+figtype: Figure
 ---

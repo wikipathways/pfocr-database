@@ -1,7 +1,7 @@
 ---
 figid: PMC3428770__cshperspect-SIG-011189_F2
 figlink: /pmc/articles/PMC3428770/figure/A011189F2/
-number: Figure 2
+number: F2
 caption: Signalling events activating PKB/Akt and cellular functions regulated by
   PKB/Akt.
 pmcid: PMC3428770
@@ -753,4 +753,7 @@ diseases:
 - word: Lung cancer
   source: ''
   identifier: ''
+figid_alias: PMC3428770__F2
+redirect_from: /figures/PMC3428770__F2
+figtype: Figure
 ---

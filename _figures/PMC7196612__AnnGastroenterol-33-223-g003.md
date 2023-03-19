@@ -1,7 +1,7 @@
 ---
 figid: PMC7196612__AnnGastroenterol-33-223-g003
 figlink: pmc/articles/PMC7196612/figure/F2/
-number: Figure 2
+number: F2
 caption: Virulence factors of Fusobacterium (F.) nucleatum. (A) F. nucleatum has virulence
   factors, FadA, LPS and Fap2. (B) FadA binds E-cadherin, resulting in Wnt/β-catenin
   signaling and tumorigenesis, as well as activation of NF-κB and production of proinflammatory
@@ -24,8 +24,7 @@ pathway_score: 0.9052624
 filename: AnnGastroenterol-33-223-g003.jpg
 figtitle: Virulence factors of Fusobacterium (F.) nucleatum
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -252,4 +251,7 @@ diseases:
 - word: tumor
   source: MESH
   identifier: D009369
+figid_alias: PMC7196612__F2
+redirect_from: /figures/PMC7196612__F2
+figtype: Figure
 ---

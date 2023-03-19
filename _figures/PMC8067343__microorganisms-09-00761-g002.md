@@ -1,7 +1,7 @@
 ---
 figid: PMC8067343__microorganisms-09-00761-g002
 figlink: pmc/articles/PMC8067343/figure/microorganisms-09-00761-f002/
-number: Figure 2
+number: F2
 caption: Anti-CSFV drug candidates target the CSFV life cycle or virus-host interaction.
   The schematic diagram of the CSFV life cycle in  referred to the previous literature
   reported by Li et al. [] with some modifications. Pathway Builder Tool 2.0 was used
@@ -22,8 +22,7 @@ pathway_score: 0.9097107
 filename: microorganisms-09-00761-g002.jpg
 figtitle: Anti-CSFV drug candidates target the CSFV life cycle or virus-host interaction
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ genes:
   entrez: '2803'
 chemicals: []
 diseases: []
+figid_alias: PMC8067343__F2
+redirect_from: /figures/PMC8067343__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3428762__cshperspect-CSD-008763_F1
 figlink: /pmc/articles/PMC3428762/figure/A008763F1/
-number: Figure 1
+number: F1
 caption: The PI3K-Akt-mTORC1 pathway and control of autophagy. PI3K is induced downstream
   from growth factor input and activates Akt and mTORC1. Akt supports the localization
   of nutrient transporters to the cell surface and maintains nutrient uptake. mTORC1
@@ -175,4 +175,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC3428762__F1
+redirect_from: /figures/PMC3428762__F1
+figtype: Figure
 ---

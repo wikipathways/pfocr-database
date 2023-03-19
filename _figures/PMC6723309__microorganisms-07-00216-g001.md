@@ -1,7 +1,7 @@
 ---
 figid: PMC6723309__microorganisms-07-00216-g001
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f001/
-number: Figure 1
+number: F1
 caption: Adenovirus-directed innate immunity through nuclear factor kappa-light-chain-enhancer
   of activated B cells (NFκB). (a) Adenovirus induces host cell secretion of IL-8
   (1), which regulates epithelial polarity of CarEx8 (2) and αV integrins (3), allowing
@@ -181,4 +181,7 @@ diseases:
 - word: LPS
   source: MESH
   identifier: C536528
+figid_alias: PMC6723309__F1
+redirect_from: /figures/PMC6723309__F1
+figtype: Figure
 ---

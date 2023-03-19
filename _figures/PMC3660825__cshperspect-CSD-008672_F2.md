@@ -1,7 +1,7 @@
 ---
 figid: PMC3660825__cshperspect-CSD-008672_F2
 figlink: /pmc/articles/PMC3660825/figure/A008672F2/
-number: Figure 2
+number: F2
 caption: Similarities and differences in apoptotic machinery across evolution. Many
   of the core proteins of the apoptotic pathway are conserved in nematodes (C. elegans),
   fruit flies (D. melanogaster), and mammals, and these protein families share some
@@ -21,8 +21,7 @@ pathway_score: 0.9336772
 filename: cshperspect-CSD-008672_F2.jpg
 figtitle: Similarities and differences in apoptotic machinery across evolution
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -91,4 +90,7 @@ genes:
   entrez: '56616'
 chemicals: []
 diseases: []
+figid_alias: PMC3660825__F2
+redirect_from: /figures/PMC3660825__F2
+figtype: Figure
 ---

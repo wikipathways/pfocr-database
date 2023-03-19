@@ -1,7 +1,7 @@
 ---
 figid: PMC5131753__cshperspectmed-PCA-026138_F2
 figlink: /pmc/articles/PMC5131753/figure/A026138F2/
-number: Figure 2
+number: F2
 caption: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2. Ribosomal
   proteins L5 and L11 appear to play integral roles in signaling ribosomal functions
   to p53. Free RPL5 or RPL11 may be released from the nucleolus during nucleolar stress,
@@ -18,8 +18,7 @@ pathway_score: 0.9482671
 filename: cshperspectmed-PCA-026138_F2.jpg
 figtitle: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '6135'
 chemicals: []
 diseases: []
+figid_alias: PMC5131753__F2
+redirect_from: /figures/PMC5131753__F2
+figtype: Figure
 ---

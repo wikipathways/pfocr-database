@@ -1,7 +1,7 @@
 ---
 figid: PMC5711272__AnnalsATS.201702-153AW_f1
 figlink: /pmc/articles/PMC5711272/figure/fig1/
-number: Figure 1
+number: F1
 caption: Central role of mitochondria in energy production, biosynthesis, and redox
   regulation. Mitochondria integrate energy metabolism, biosynthesis, and redox balance.
   (1) Glucose is phosphorylated by hexokinase (HK) to glucose-6-phosphate (Glucose-6-P),
@@ -241,4 +241,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC5711272__F1
+redirect_from: /figures/PMC5711272__F1
+figtype: Figure
 ---

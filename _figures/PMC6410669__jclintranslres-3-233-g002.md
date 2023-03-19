@@ -1,7 +1,7 @@
 ---
 figid: PMC6410669__jclintranslres-3-233-g002
 figlink: /pmc/articles/PMC6410669/figure/jctres.03.201702.g002/
-number: Figure 2
+number: F2
 caption: . Schematic representation of the mechanisms involved in normal cell cycle
   control, growth, apoptosis, and cell migration/adhesion that are impaired in cancer
   development. The targets of these pathways are accessed by scorpion and spider venoms
@@ -437,4 +437,7 @@ genes:
   entrez: '207'
 chemicals: []
 diseases: []
+figid_alias: PMC6410669__F2
+redirect_from: /figures/PMC6410669__F2
+figtype: Figure
 ---

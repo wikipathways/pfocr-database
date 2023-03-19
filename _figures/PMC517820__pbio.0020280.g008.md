@@ -1,7 +1,7 @@
 ---
 figid: PMC517820__pbio.0020280.g008
 figlink: /pmc/articles/PMC517820/figure/pbio-0020280-g008/
-number: Figure 8
+number: F8
 caption: Pheromone accumulated under the conditions of overcrowding or starvation
   induces the inhibition of gamravali production via the TGF-β pathway. Genes, mutants
   of which produced dauer larvae on lophenol, are shown in blue. Activated by the
@@ -141,4 +141,7 @@ chemicals:
   source: MESH
   identifier: D013261
 diseases: []
+figid_alias: PMC517820__F8
+redirect_from: /figures/PMC517820__F8
+figtype: Figure
 ---

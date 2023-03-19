@@ -1,7 +1,7 @@
 ---
 figid: PMC7498680__mSystems.00277-20-f0008
 figlink: pmc/articles/PMC7498680/figure/fig5/
-number: FIG 5
+number: F5
 caption: Metabolic overview of the Acetobacterium genus. Major metabolic pathways
   have been biochemically and genetically verified in Acetobacterium woodii, and predicted
   metabolisms are based upon the presence of each operon and similarity of predicted
@@ -18,8 +18,7 @@ pathway_score: 0.9128281
 filename: mSystems.00277-20-f0008.jpg
 figtitle: Metabolic overview of the Acetobacterium genus
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -217,4 +216,7 @@ chemicals:
   source: MESH
   identifier: D015032
 diseases: []
+figid_alias: PMC7498680__F5
+redirect_from: /figures/PMC7498680__F5
+figtype: Figure
 ---

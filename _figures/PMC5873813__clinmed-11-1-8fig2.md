@@ -1,7 +1,7 @@
 ---
 figid: PMC5873813__clinmed-11-1-8fig2
 figlink: /pmc/articles/PMC5873813/figure/figure2/
-number: Fig 2
+number: F2
 caption: Broad overview of the genetic architecture of inflammatory bowel disease
   giving examples of confirmed and candidate genes implicated in each pathway. T®
   = regulatory T cell.
@@ -188,4 +188,7 @@ diseases:
 - word: Crohn's disease
   source: ''
   identifier: ''
+figid_alias: PMC5873813__F2
+redirect_from: /figures/PMC5873813__F2
+figtype: Figure
 ---

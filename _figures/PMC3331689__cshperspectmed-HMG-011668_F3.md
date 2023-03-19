@@ -1,7 +1,7 @@
 ---
 figid: PMC3331689__cshperspectmed-HMG-011668_F3
 figlink: /pmc/articles/PMC3331689/figure/A011668F3/
-number: Figure 3
+number: F3
 caption: Regulation of hepcidin by iron and inflammation. Hepcidin synthesis is transcriptionally
   regulated by iron through the BMP receptor complex and its Smad pathway (shades
   of blue) and by inflammation predominantly via the IL-6 receptor and its JAK-STAT3
@@ -233,4 +233,7 @@ genes:
   entrez: '651'
 chemicals: []
 diseases: []
+figid_alias: PMC3331689__F3
+redirect_from: /figures/PMC3331689__F3
+figtype: Figure
 ---

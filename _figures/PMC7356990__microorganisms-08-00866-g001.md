@@ -1,7 +1,7 @@
 ---
 figid: PMC7356990__microorganisms-08-00866-g001
 figlink: pmc/articles/PMC7356990/figure/microorganisms-08-00866-f001/
-number: Figure 1
+number: F1
 caption: Schematic representation of N-methylanthranilate (NMA) biosynthesis (A) embedded
   into aromatic amino acid metabolism of engineered C. glutamicum (B). Continuous
   arrows indicate single reactions, dashed arrows indicate multiple reactions. Green
@@ -34,8 +34,7 @@ filename: microorganisms-08-00866-g001.jpg
 figtitle: N-methylanthranilate (NMA) biosynthesis (A) embedded into aromatic amino
   acid metabolism of engineered C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -162,4 +161,7 @@ diseases:
 - word: SAH
   source: MESH
   identifier: D013345
+figid_alias: PMC7356990__F1
+redirect_from: /figures/PMC7356990__F1
+figtype: Figure
 ---

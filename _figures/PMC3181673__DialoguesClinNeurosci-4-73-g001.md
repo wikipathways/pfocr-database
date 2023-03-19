@@ -1,7 +1,7 @@
 ---
 figid: PMC3181673__DialoguesClinNeurosci-4-73-g001
 figlink: /pmc/articles/PMC3181673/figure/DialoguesClinNeurosci-4-73-g001/
-number: Figure 1
+number: F1
 caption: 'Modified and reproduced from reference 130: Moore GJ, Bebchuk JM, Wilds
   IB, Chen G, Manji HK. Lithium-induced increase in human brain grey matter. Lancet
   2000:356:1241-1242. Copyright © 2000, Elsevier Science.'
@@ -232,4 +232,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3181673__F1
+redirect_from: /figures/PMC3181673__F1
+figtype: Figure
 ---

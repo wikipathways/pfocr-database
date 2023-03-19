@@ -1,7 +1,7 @@
 ---
 figid: PMC3673040__Dtsch_Arztebl_Int-110-0338_001
 figlink: /pmc/articles/PMC3673040/figure/F1/
-number: Figure 1
+number: F1
 caption: Leptin is generated in adipose tissue and transported via the bloodstream
   to the hypothalamus. The binding of leptin to leptin receptors (ObRb) stimulates
   the expression of cocaine- and amphetamine-regulated transcript (CART) and pro-opiomelanocortin
@@ -27,8 +27,7 @@ filename: Dtsch_Arztebl_Int-110-0338_001.jpg
 figtitle: Leptin is generated in adipose tissue and transported via the bloodstream
   to the hypothalamus
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -119,4 +118,7 @@ diseases:
 - word: Obesity
   source: ''
   identifier: ''
+figid_alias: PMC3673040__F1
+redirect_from: /figures/PMC3673040__F1
+figtype: Figure
 ---

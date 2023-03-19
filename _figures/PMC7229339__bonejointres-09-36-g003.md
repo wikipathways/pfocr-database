@@ -1,7 +1,7 @@
 ---
 figid: PMC7229339__bonejointres-09-36-g003
 figlink: pmc/articles/PMC7229339/figure/fig3-2046-3758.91.BJR-2019-0055.R2/
-number: Fig. 3
+number: F3
 caption: Upregulation of the metabolic pathway glycan biosynthesis and metabolism
   by physical exercise. The image shows the Kyoto Encyclopedia of Genes and Genomes
   (KEGG) pathway in which 61 upregulated genes were associated using the DAVID Bioinformatics
@@ -17,8 +17,7 @@ filename: bonejointres-09-36-g003.jpg
 figtitle: Upregulation of the metabolic pathway glycan biosynthesis and metabolism
   by physical exercise
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: D000596
 diseases: []
+figid_alias: PMC7229339__F3
+redirect_from: /figures/PMC7229339__F3
+figtype: Figure
 ---

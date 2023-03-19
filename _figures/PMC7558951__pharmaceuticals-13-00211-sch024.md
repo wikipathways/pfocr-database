@@ -1,7 +1,7 @@
 ---
 figid: PMC7558951__pharmaceuticals-13-00211-sch024
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch024/
-number: Scheme 24
+number: S24
 caption: Synthetic pathway to obtain selenouridine-containing oligonucleotides.
 pmcid: PMC7558951
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
@@ -12,8 +12,7 @@ pathway_score: 0.9009138
 filename: pharmaceuticals-13-00211-sch024.jpg
 figtitle: Synthetic pathway to obtain selenouridine-containing oligonucleotides
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -95,4 +94,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7558951__S24
+redirect_from: /figures/PMC7558951__S24
+figtype: Scheme
 ---

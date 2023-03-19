@@ -1,7 +1,7 @@
 ---
 figid: PMC4218690__cin-suppl.5-2014-001f4
 figlink: /pmc/articles/PMC4218690/figure/f4-cin-suppl.5-2014-001/
-number: Figure 4
+number: F4
 caption: Two potential mechanisms of honokiol regulation of Notch ligands. In the
   set of 30,347 candidate networks that fit the SW480 data, only 25 (0.08%) networks
   included honokiol activating Jagged, the node representing Notch ligands in our
@@ -116,4 +116,7 @@ chemicals:
   source: MESH
   identifier: C005499
 diseases: []
+figid_alias: PMC4218690__F4
+redirect_from: /figures/PMC4218690__F4
+figtype: Figure
 ---

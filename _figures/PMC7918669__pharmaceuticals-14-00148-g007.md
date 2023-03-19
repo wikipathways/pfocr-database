@@ -1,7 +1,7 @@
 ---
 figid: PMC7918669__pharmaceuticals-14-00148-g007
 figlink: pmc/articles/PMC7918669/figure/pharmaceuticals-14-00148-f007/
-number: Figure 7
+number: F7
 caption: 5-HT2C receptor signaling. After activation of the 5-HT2C receptor by 5-HT,
   the Gαq/11 protein is activated and subsequently stimulates phospholipase C (PLC)
   activity. PLC catalyzes the hydrolysis of phosphatidylinositol-4,5-bisphosphate
@@ -30,8 +30,7 @@ pathway_score: 0.9128047
 filename: pharmaceuticals-14-00148-g007.jpg
 figtitle: 5-HT2C receptor signaling
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -359,4 +358,7 @@ chemicals:
   source: MESH
   identifier: D000596
 diseases: []
+figid_alias: PMC7918669__F7
+redirect_from: /figures/PMC7918669__F7
+figtype: Figure
 ---

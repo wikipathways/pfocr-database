@@ -1,7 +1,7 @@
 ---
 figid: PMC3355316__toxscikfs119f02_3c
 figlink: /pmc/articles/PMC3355316/figure/fig2/
-number: FIG. 2
+number: F2
 caption: Suggested mechanisms by which NPs may induce molecular signaling cascades
   leading to upregulation of the HMG-CoA reductase pathway in the liver of exposed
   C57BL/6 mice. We demonstrate that inflammation is induced by pulmonary deposition
@@ -117,4 +117,7 @@ genes:
   entrez: '6288'
 chemicals: []
 diseases: []
+figid_alias: PMC3355316__F2
+redirect_from: /figures/PMC3355316__F2
+figtype: Figure
 ---

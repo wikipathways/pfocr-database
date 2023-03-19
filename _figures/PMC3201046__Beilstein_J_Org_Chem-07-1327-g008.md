@@ -1,7 +1,7 @@
 ---
 figid: PMC3201046__Beilstein_J_Org_Chem-07-1327-g008
 figlink: /pmc/articles/PMC3201046/figure/C7/
-number: Scheme 7
+number: S7
 caption: Proposed stereochemical pathway.
 pmcid: PMC3201046
 papertitle: Carbamate-directed benzylic lithiation for the diastereo- and enantioselective
@@ -12,8 +12,7 @@ pathway_score: 0.7678106
 filename: Beilstein_J_Org_Chem-07-1327-g008.jpg
 figtitle: Proposed stereochemical pathway
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ genes:
   entrez: '7051'
 chemicals: []
 diseases: []
+figid_alias: PMC3201046__S7
+redirect_from: /figures/PMC3201046__S7
+figtype: Scheme
 ---

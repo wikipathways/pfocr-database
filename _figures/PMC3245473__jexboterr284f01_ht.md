@@ -1,7 +1,7 @@
 ---
 figid: PMC3245473__jexboterr284f01_ht
 figlink: /pmc/articles/PMC3245473/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Carotenoid biosynthetic pathway in higher plants. Genes with expression levels
   studied are in bold letters. GAP, D-glyceraldehyde 3-phosphate; DXS, 1-deoxy-D-xylulose
   5-phosphate-synthase; DXR, DXP reductoisomerase; HMBPP, (E)-4-hydroxy-3-methylbut-2-enyl
@@ -22,8 +22,7 @@ pathway_score: 0.8455915
 filename: jexboterr284f01_ht.jpg
 figtitle: Carotenoid biosynthetic pathway in higher plants
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -121,4 +120,7 @@ chemicals:
   source: MESH
   identifier: D065366
 diseases: []
+figid_alias: PMC3245473__F1
+redirect_from: /figures/PMC3245473__F1
+figtype: Figure
 ---

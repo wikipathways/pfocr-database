@@ -1,7 +1,7 @@
 ---
 figid: PMC5008074__cshperspect-TGF-022061_F1
 figlink: /pmc/articles/PMC5008074/figure/A022061F1/
-number: Figure 1
+number: F1
 caption: Transforming growth factor β (TGF-β) receptors and signal transducers. TGF-β
   family ligands, shown in light blue, transmit signals by assembling a heterotetrameric
   receptor complex with two type I receptors, shown in dark blue, and two type II
@@ -129,4 +129,7 @@ genes:
   entrez: '7018'
 chemicals: []
 diseases: []
+figid_alias: PMC5008074__F1
+redirect_from: /figures/PMC5008074__F1
+figtype: Figure
 ---

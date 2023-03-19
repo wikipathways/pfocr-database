@@ -1,7 +1,7 @@
 ---
 figid: PMC5932574__cshperspectmed-BOB-031260_F2
 figlink: pmc/articles/PMC5932574/figure/A031260F2/
-number: Figure 2
+number: F2
 caption: 'Fibroblast growth factor (FGF)23/FGFR1/αKlotho signaling. The FGF23 receptor
   consists of a homodimer of tyrosine kinase FGF receptors (FGFRs) (types 1c, 3c,
   or 4) and the αKlotho coreceptor. αKlotho contains two extracellular domains: a
@@ -21,8 +21,7 @@ pathway_score: 0.9165356
 filename: cshperspectmed-BOB-031260_F2.jpg
 figtitle: Fibroblast growth factor (FGF)23/FGFR1/AKlotho signaling
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -79,4 +78,7 @@ genes:
   entrez: '5594'
 chemicals: []
 diseases: []
+figid_alias: PMC5932574__F2
+redirect_from: /figures/PMC5932574__F2
+figtype: Figure
 ---

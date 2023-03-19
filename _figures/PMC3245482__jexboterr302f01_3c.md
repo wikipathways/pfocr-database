@@ -1,7 +1,7 @@
 ---
 figid: PMC3245482__jexboterr302f01_3c
 figlink: /pmc/articles/PMC3245482/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Carotenoid biosynthetic pathway.
 pmcid: PMC3245482
 papertitle: Carotenoid accumulation in orange-pigmented Capsicum annuum fruit, regulated
@@ -12,8 +12,7 @@ pathway_score: 0.7922664
 filename: jexboterr302f01_3c.jpg
 figtitle: Carotenoid biosynthetic pathway
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -85,4 +84,7 @@ chemicals:
   source: MESH
   identifier: D065366
 diseases: []
+figid_alias: PMC3245482__F1
+redirect_from: /figures/PMC3245482__F1
+figtype: Figure
 ---

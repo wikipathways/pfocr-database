@@ -1,7 +1,7 @@
 ---
 figid: PMC3539548__medscimonit-17-6-RA148-g001
 figlink: /pmc/articles/PMC3539548/figure/f1-medscimonit-17-6-ra148/
-number: Figure 1
+number: F1
 caption: 'Host cell machinery gets activated during influenza infection and leads
   to trigger Signaling pathways. Influenza is know to produce early and late viral
   proteins post infections. NS1, NP, PB1, PB2 are early protein and synthesize in
@@ -268,4 +268,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3539548__F1
+redirect_from: /figures/PMC3539548__F1
+figtype: Figure
 ---

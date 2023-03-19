@@ -1,7 +1,7 @@
 ---
 figid: PMC4772099__cshperspect-AND-018887_F2
 figlink: /pmc/articles/PMC4772099/figure/A018887F2/
-number: Figure 2
+number: F2
 caption: Wnt. WNT7A promotes proliferation of adult neural stem cells (NSCs) via the
   canonical β catenin-dependent pathway. TLX induces the transcription of Wnt7a gene
   and regulates NSCs through an autocrine-signaling loop. In addition, niche astroglia
@@ -182,4 +182,7 @@ genes:
   entrez: '7473'
 chemicals: []
 diseases: []
+figid_alias: PMC4772099__F2
+redirect_from: /figures/PMC4772099__F2
+figtype: Figure
 ---

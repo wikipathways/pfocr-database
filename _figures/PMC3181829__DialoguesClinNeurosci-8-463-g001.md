@@ -1,7 +1,7 @@
 ---
 figid: PMC3181829__DialoguesClinNeurosci-8-463-g001
 figlink: /pmc/articles/PMC3181829/figure/DialoguesClinNeurosci-8-463-g001/
-number: Figure 1
+number: F1
 caption: . Biosynthetic pathway for neuroactive steroids. DHEA, dehydroepiandrosterone;
   DOC, deoxycorticosterone.
 pmcid: PMC3181829
@@ -14,8 +14,7 @@ filename: DialoguesClinNeurosci-8-463-g001.jpg
 figtitle: Hypothalamic-pituitary-adrenal axis modulation of GABAergic neuroactive
   steroids influences ethanol sensitivity and drinking behavior
 year: '2006'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -176,4 +175,7 @@ chemicals:
   source: MESH
   identifier: D019314
 diseases: []
+figid_alias: PMC3181829__F1
+redirect_from: /figures/PMC3181829__F1
+figtype: Figure
 ---

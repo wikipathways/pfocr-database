@@ -1,7 +1,7 @@
 ---
 figid: PMC3536347__cshperspect-WNT-008086_F2
 figlink: /pmc/articles/PMC3536347/figure/A008086F2/
-number: Figure 2
+number: F2
 caption: Pharamcologic activators and enhancers of the Wnt/β-catenin signaling pathway
   and known interactions with pathway components (see  for references). This figure
   depicts the pathway in the inactive state, in which constitutive phosphorylation
@@ -309,4 +309,7 @@ chemicals:
   source: MESH
   identifier: D003024
 diseases: []
+figid_alias: PMC3536347__F2
+redirect_from: /figures/PMC3536347__F2
+figtype: Figure
 ---

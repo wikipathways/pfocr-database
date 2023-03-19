@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g199
 figlink: /pmc/articles/PMC6664406/figure/C191/
-number: Scheme 191
+number: S191
 caption: Mechanistic pathway for heterogeneously catalyzed arylation reaction.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.8480503
 filename: Beilstein_J_Org_Chem-15-1612-g199.jpg
 figtitle: Mechanistic pathway for heterogeneously catalyzed arylation reaction
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -43,4 +42,7 @@ chemicals:
   source: MESH
   identifier: C039004
 diseases: []
+figid_alias: PMC6664406__S191
+redirect_from: /figures/PMC6664406__S191
+figtype: Scheme
 ---

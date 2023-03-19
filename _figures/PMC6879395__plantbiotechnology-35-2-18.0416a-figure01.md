@@ -1,7 +1,7 @@
 ---
 figid: PMC6879395__plantbiotechnology-35-2-18.0416a-figure01
 figlink: /pmc/articles/PMC6879395/figure/figure1/
-number: ''
+number: F1
 caption: .na.character
 pmcid: PMC6879395
 papertitle: Comparative analysis of CYP716A subfamily enzymes for the heterologous
@@ -13,8 +13,7 @@ filename: plantbiotechnology-35-2-18.0416a-figure01.jpg
 figtitle: Comparative analysis of CYP716A subfamily enzymes for the heterologous production
   of C-28 oxidized triterpenoids in transgenic yeast
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -80,4 +79,7 @@ chemicals:
   source: MESH
   identifier: C002070
 diseases: []
+figid_alias: PMC6879395__F1
+redirect_from: /figures/PMC6879395__F1
+figtype: Figure
 ---

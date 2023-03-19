@@ -1,7 +1,7 @@
 ---
 figid: PMC5922974__elife-32110-fig6-figsupp1
 figlink: /pmc/articles/PMC5922974/figure/fig6s1/
-number: Figure 6—figure supplement 1
+number: SF6_1
 caption: 'Model pathway illustrating genes involved in glycolysis, triacylglyceride
   (TAG) synthesis, and cytosolic NAD+/NADH balance during TAG synthesis. Genes for
   which mutants had altered lipid accumulation (enrichment scores in clusters LA1,
@@ -224,4 +224,7 @@ chemicals:
   source: MESH
   identifier: D000447
 diseases: []
+figid_alias: PMC5922974__SF6_1
+redirect_from: /figures/PMC5922974__SF6_1
+figtype: Supplemental figure
 ---

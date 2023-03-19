@@ -1,7 +1,7 @@
 ---
 figid: PMC4066640__cshperspectmed-MYC-014316_F5
 figlink: /pmc/articles/PMC4066640/figure/A014316F5/
-number: Figure 5
+number: F5
 caption: Model for MYC autorepression and general cellular gene repression by histone
   modification. In normal cells (left), MYC levels are low and EZH2 histone methyltransferase
   activity is suppressed by AKT phosphorylation. In cells with high MYC (center),
@@ -139,4 +139,7 @@ genes:
   entrez: '10000'
 chemicals: []
 diseases: []
+figid_alias: PMC4066640__F5
+redirect_from: /figures/PMC4066640__F5
+figtype: Figure
 ---

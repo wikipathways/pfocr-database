@@ -1,7 +1,7 @@
 ---
 figid: PMC5597091__bioengineering-02-00213-g001
 figlink: /pmc/articles/PMC5597091/figure/bioengineering-02-00213-f001/
-number: Figure 1
+number: F1
 caption: Schematic outline of the experimental approach used in this study (A). Biosynthesis
   of L-fucose (red triangle) occurs mainly via de novo synthesis and, to a minor extent,
   through the salvage pathway that is exploited here in the course of metabolic glycoengineering;
@@ -123,4 +123,7 @@ chemicals:
   source: MESH
   identifier: D012210
 diseases: []
+figid_alias: PMC5597091__F1
+redirect_from: /figures/PMC5597091__F1
+figtype: Figure
 ---

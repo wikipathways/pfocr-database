@@ -1,7 +1,7 @@
 ---
 figid: PMC3385942__cshperspectmed-ADD-012070_F3
 figlink: /pmc/articles/PMC3385942/figure/A012070F3/
-number: Figure 3
+number: F3
 caption: Chronic morphine decreases VTA DA soma size yet increases neuronal excitability,
   while DA transmission to NAc is decreased. The net effect of morphine is a less
   responsive reward pathway, i.e., reward tolerance. Down-regulation of IRS2-AKT signaling
@@ -136,4 +136,7 @@ chemicals:
   source: MESH
   identifier: D009020
 diseases: []
+figid_alias: PMC3385942__F3
+redirect_from: /figures/PMC3385942__F3
+figtype: Figure
 ---

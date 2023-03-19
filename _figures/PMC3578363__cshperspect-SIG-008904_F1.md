@@ -1,7 +1,7 @@
 ---
 figid: PMC3578363__cshperspect-SIG-008904_F1
 figlink: /pmc/articles/PMC3578363/figure/A008904F1/
-number: Figure 1
+number: F1
 caption: G1 cell cycle control by the pRB pathway. Many cellular signaling events
   are intrinsically linked to G1 phase of the cell cycle, which is controlled by the
   RB pathway. Signaling to the RB pathway and thus G1 control by different cellular
@@ -165,4 +165,7 @@ genes:
   entrez: '1017'
 chemicals: []
 diseases: []
+figid_alias: PMC3578363__F1
+redirect_from: /figures/PMC3578363__F1
+figtype: Figure
 ---

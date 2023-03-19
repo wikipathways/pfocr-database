@@ -1,7 +1,7 @@
 ---
 figid: PMC5204325__cshperspect-TGF-022137_F1
 figlink: /pmc/articles/PMC5204325/figure/A022137F1/
-number: Figure 1
+number: F1
 caption: Cross talk between the transforming growth factor β (TGF-β) family and Wnt
   signaling at multiple points. In the absence of TGF-β stimulation (middle), Smad3
   can form a complex with Axin and glycogen synthase kinase (GSK)-3β, where it is
@@ -362,4 +362,7 @@ genes:
   entrez: '654'
 chemicals: []
 diseases: []
+figid_alias: PMC5204325__F1
+redirect_from: /figures/PMC5204325__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6397330__bonejointres-08-73-g002
 figlink: /pmc/articles/PMC6397330/figure/fig2-2046-3758.82.BJR-2018-0074.R1/
-number: ''
+number: F2
 caption: The molecular mechanisms of H19 in osteogenesis. (a) H19 regulates osteogenesis-related
   genes. (b) H19 regulates the Wnt/β-catenin signalling pathway. (c) H19 regulates
   the MAPK signalling pathway.
@@ -13,8 +13,7 @@ pathway_score: 0.6665222
 filename: bonejointres-08-73-g002.jpg
 figtitle: Long non-coding RNA in osteogenesis
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -76,4 +75,7 @@ genes:
   entrez: '23420'
 chemicals: []
 diseases: []
+figid_alias: PMC6397330__F2
+redirect_from: /figures/PMC6397330__F2
+figtype: Figure
 ---

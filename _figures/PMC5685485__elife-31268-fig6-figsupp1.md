@@ -1,7 +1,7 @@
 ---
 figid: PMC5685485__elife-31268-fig6-figsupp1
 figlink: /pmc/articles/PMC5685485/figure/fig6s1/
-number: Figure 6—figure supplement 1
+number: SF6_1
 caption: Under normal condition, v-ATPase is in an active conformation, which mediates
   lysosomal amino acid signaling to recruit and activate TORC1. Metformin treatment
   may target v-ATPase and change its conformation, leading to the dissociation and
@@ -115,4 +115,7 @@ genes:
   entrez: '51422'
 chemicals: []
 diseases: []
+figid_alias: PMC5685485__SF6_1
+redirect_from: /figures/PMC5685485__SF6_1
+figtype: Supplemental figure
 ---

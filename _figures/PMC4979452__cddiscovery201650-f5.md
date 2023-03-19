@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f5
 figlink: /pmc/articles/PMC4979452/figure/fig5/
-number: Figure 5
+number: F5
 caption: 'JAK-STAT (Janus kinase/signal transducers and activators of transcription)
   pathway. The JAK-STAT system consists of three main components: (1) a membrane receptor,
   (2) JAK and (3) the signal transducer and activator of transcription (STAT). It
@@ -386,4 +386,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4979452__F5
+redirect_from: /figures/PMC4979452__F5
+figtype: Figure
 ---

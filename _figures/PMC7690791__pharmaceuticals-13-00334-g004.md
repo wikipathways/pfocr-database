@@ -1,7 +1,7 @@
 ---
 figid: PMC7690791__pharmaceuticals-13-00334-g004
 figlink: pmc/articles/PMC7690791/figure/pharmaceuticals-13-00334-f004/
-number: Figure 4
+number: F4
 caption: 'Main intracellular signalling pathways after activation of 5-HT2A-C receptors
   by N,N-dimethyltryptamine (DMT). The main downstream signalling pathway of these
   receptors, for a long time assumed to be critical for the action of psychedelics
@@ -26,8 +26,7 @@ filename: pharmaceuticals-13-00334-g004.jpg
 figtitle: Main intracellular signalling pathways after activation of 5-HT2A-C receptors
   by N,N-dimethyltryptamine (DMT)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -302,4 +301,7 @@ chemicals:
   source: MESH
   identifier: D012701
 diseases: []
+figid_alias: PMC7690791__F4
+redirect_from: /figures/PMC7690791__F4
+figtype: Figure
 ---

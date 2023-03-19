@@ -1,7 +1,7 @@
 ---
 figid: PMC7385335__Beilstein_J_Org_Chem-16-1805-g015
 figlink: pmc/articles/PMC7385335/figure/C4/
-number: Scheme 4
+number: S4
 caption: Proposed mechanism for the formation of five-membered cyclic carbonate 8f.
 pmcid: PMC7385335
 papertitle: 'One-pot synthesis of oxazolidinones and five-membered cyclic carbonates
@@ -13,8 +13,7 @@ pathway_score: 0.7219751
 filename: Beilstein_J_Org_Chem-16-1805-g015.jpg
 figtitle: Proposed mechanism for the formation of five-membered cyclic carbonate 8f
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -53,4 +52,7 @@ chemicals:
   source: MESH
   identifier: D014867
 diseases: []
+figid_alias: PMC7385335__S4
+redirect_from: /figures/PMC7385335__S4
+figtype: Scheme
 ---

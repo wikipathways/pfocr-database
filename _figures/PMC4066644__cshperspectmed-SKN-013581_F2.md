@@ -1,7 +1,7 @@
 ---
 figid: PMC4066644__cshperspectmed-SKN-013581_F2
 figlink: /pmc/articles/PMC4066644/figure/A013581F2/
-number: Figure 2
+number: F2
 caption: Model of tumor heterogeneity. A normal cell (green) can convert to a tumor
   cell (purple) by acquiring an HH pathway mutation. As the tumor cell divides, clonal
   populations (blue) can gain secondary mutations that promote drug resistance. When
@@ -15,8 +15,7 @@ pathway_score: 0.7778205
 filename: cshperspectmed-SKN-013581_F2.jpg
 figtitle: Model of tumor heterogeneity
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -56,4 +55,7 @@ genes:
   entrez: '6608'
 chemicals: []
 diseases: []
+figid_alias: PMC4066644__F2
+redirect_from: /figures/PMC4066644__F2
+figtype: Figure
 ---

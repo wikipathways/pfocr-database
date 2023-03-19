@@ -1,7 +1,7 @@
 ---
 figid: PMC5378051__cshperspect-PRI-023580_F3
 figlink: /pmc/articles/PMC5378051/figure/A023580F3/
-number: Figure 3
+number: F3
 caption: Homologous mammalian and fungal host-defense pathways that signal through
   prion conversion. In mammals, receptors such as NLRP3 sense pathogen invasion or
   cell damage to rapidly convert its downstream apoptosis-associated speck-like protein
@@ -21,8 +21,7 @@ filename: cshperspect-PRI-023580_F3.jpg
 figtitle: Homologous mammalian and fungal host-defense pathways that signal through
   prion conversion
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -73,4 +72,7 @@ genes:
   entrez: '29108'
 chemicals: []
 diseases: []
+figid_alias: PMC5378051__F3
+redirect_from: /figures/PMC5378051__F3
+figtype: Figure
 ---

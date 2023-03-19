@@ -1,7 +1,7 @@
 ---
 figid: PMC3817733__pharmaceuticals-06-00915-g002
 figlink: /pmc/articles/PMC3817733/figure/pharmaceuticals-06-00915-f002/
-number: Figure 2
+number: F2
 caption: Platelet activation, aggregation and fibrin formation. Platelet activation,
   aggregation and fibrin production, occur via complex intracellular signaling processes
   and are regulated by cellular receptors. Platelets adhere to and then are activated
@@ -27,8 +27,7 @@ pathway_score: 0.9784986
 filename: pharmaceuticals-06-00915-g002.jpg
 figtitle: Platelet activation, aggregation and fibrin formation
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -99,4 +98,7 @@ genes:
   entrez: '2244'
 chemicals: []
 diseases: []
+figid_alias: PMC3817733__F2
+redirect_from: /figures/PMC3817733__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6958407__pharmaceuticals-12-00181-g004
 figlink: /pmc/articles/PMC6958407/figure/pharmaceuticals-12-00181-f004/
-number: Figure 4
+number: F4
 caption: Proposed model for modulations of Hippo pathway by PDEF. Our results show
   that PDEF increases expression and phosphorylation (Ser127) of YAP1 in prostate
   cancer cells. We hypothesize that PDEF might regulate YAP1 phosphorylation indirectly
@@ -19,8 +19,7 @@ pathway_score: 0.9544309
 filename: pharmaceuticals-12-00181-g004.jpg
 figtitle: Proposed model for modulations of Hippo pathway by PDEF
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -95,4 +94,7 @@ diseases:
 - word: DOD0D00000DD000000000DD0D00
   source: ''
   identifier: ''
+figid_alias: PMC6958407__F4
+redirect_from: /figures/PMC6958407__F4
+figtype: Figure
 ---

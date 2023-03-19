@@ -1,7 +1,7 @@
 ---
 figid: PMC6908425__mSphere.00796-19-f0002
 figlink: /pmc/articles/PMC6908425/figure/fig2/
-number: FIG 2
+number: F2
 caption: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
   enzymes. S. Typhimurium WT and ΔfumABC strains were grown aerobically in LB broth
   for 18.5 h at 37°C. For the proteomic approach, harvested cells were lysed and proteins
@@ -28,8 +28,7 @@ filename: mSphere.00796-19-f0002.jpg
 figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
   enzymes
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -191,4 +190,7 @@ chemicals:
   source: MESH
   identifier: C017202
 diseases: []
+figid_alias: PMC6908425__F2
+redirect_from: /figures/PMC6908425__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC6163557__microorganisms-06-00078-g002
 figlink: /pmc/articles/PMC6163557/figure/microorganisms-06-00078-f002/
-number: Figure 2
+number: F2
 caption: Biosynthetic Routes to the Sda antigen. The sequential steps leading to the
   Sda antigen from core 1, via sialyl-N-acetyllactosamineare shown. The individual
   glycosyltransferases for each step are indicated. The red arrow indicates the major
@@ -17,8 +17,7 @@ pathway_score: 0.7790253
 filename: microorganisms-06-00078-g002.jpg
 figtitle: Biosynthetic Routes to the Sda antigen
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -109,4 +108,7 @@ chemicals:
   source: MESH
   identifier: C055175
 diseases: []
+figid_alias: PMC6163557__F2
+redirect_from: /figures/PMC6163557__F2
+figtype: Figure
 ---

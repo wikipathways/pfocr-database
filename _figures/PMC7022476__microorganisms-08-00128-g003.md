@@ -1,7 +1,7 @@
 ---
 figid: PMC7022476__microorganisms-08-00128-g003
 figlink: pmc/articles/PMC7022476/figure/microorganisms-08-00128-f003/
-number: Figure 3
+number: F3
 caption: 'Schematic representation of the acetoin synthesis pathway in L. casei group.
   Ast: Aspartate aminotransferase, Cly: citrate lyase, Oad: Oxaloacetate decarboxylase,
   Als: Acetolactate synthetase; Ald: Acetolactate dehydrogenase; GDH: Glutamate dehydrogenase;
@@ -15,8 +15,7 @@ pathway_score: 0.9330478
 filename: microorganisms-08-00128-g003.jpg
 figtitle: Acetoin synthesis pathway in L
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ chemicals:
   source: MESH
   identifier: D000093
 diseases: []
+figid_alias: PMC7022476__F3
+redirect_from: /figures/PMC7022476__F3
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC368161__pbio.0020065.g007
 figlink: /pmc/articles/PMC368161/figure/pbio-0020065-g007/
-number: Figure 7
+number: F7
 caption: (A) The summary map of AHR–PIN. Functional modules were determined by the
   overlapped annotations from three experimental layers (domain influence, pharmacology
   clustering, and localization influence) as well as from network clustering. For
@@ -149,4 +149,7 @@ genes:
   entrez: '5710'
 chemicals: []
 diseases: []
+figid_alias: PMC368161__F7
+redirect_from: /figures/PMC368161__F7
+figtype: Figure
 ---

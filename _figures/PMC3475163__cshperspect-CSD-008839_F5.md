@@ -1,7 +1,7 @@
 ---
 figid: PMC3475163__cshperspect-CSD-008839_F5
 figlink: /pmc/articles/PMC3475163/figure/A008839F5/
-number: Figure 5
+number: F5
 caption: 'Possible states of impairment in the autophagy pathway in different neurodegenerative
   diseases and possible links to neuronal cell death. The autophagy defect may conceivably
   promote neuronal cell death via two possible mechanisms: (1) impaired mitophagy
@@ -21,8 +21,7 @@ filename: cshperspect-CSD-008839_F5.jpg
 figtitle: Possible states of impairment in the autophagy pathway in different neurodegenerative
   diseases and possible links to neuronal cell death
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -188,4 +187,7 @@ genes:
   entrez: '4323'
 chemicals: []
 diseases: []
+figid_alias: PMC3475163__F5
+redirect_from: /figures/PMC3475163__F5
+figtype: Figure
 ---

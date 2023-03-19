@@ -1,7 +1,7 @@
 ---
 figid: PMC5732092__cshperspect-CYT-028522_F2
 figlink: pmc/articles/PMC5732092/figure/A028522F2/
-number: Figure 2
+number: F2
 caption: Interleukin (IL)-17RA/RC signaling pathways. IL-17A/IL-17F/IL-17A/F binding
   to the receptor complex enables homotypic interactions between the SEF/IL-17R (SEFIR)
   domains in the receptor and in the adapter Act1/CIKS. The canonical IL-17 signaling
@@ -23,8 +23,7 @@ pathway_score: 0.9004232
 filename: cshperspect-CYT-028522_F2.jpg
 figtitle: Interleukin (IL)-17RA/RC signaling pathways
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -341,4 +340,7 @@ genes:
   entrez: '10563'
 chemicals: []
 diseases: []
+figid_alias: PMC5732092__F2
+redirect_from: /figures/PMC5732092__F2
+figtype: Figure
 ---

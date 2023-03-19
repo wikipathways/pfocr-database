@@ -1,7 +1,7 @@
 ---
 figid: PMC5597090__bioengineering-02-00204-g001
 figlink: /pmc/articles/PMC5597090/figure/bioengineering-02-00204-f001/
-number: Figure 1
+number: F1
 caption: Schematic diagram of the phenylpropanoid/benzenoid biosynthetic pathway in
   plants. Phenylalanine, which is synthesized in the plastid through the shikimate
   and aromatic amino acids biosynthetic pathways, is the precursor for both volatile
@@ -19,8 +19,7 @@ filename: bioengineering-02-00204-g001.jpg
 figtitle: Schematic diagram of the phenylpropanoid/benzenoid biosynthetic pathway
   in plants
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -104,4 +103,7 @@ chemicals:
   source: MESH
   identifier: D019905
 diseases: []
+figid_alias: PMC5597090__F1
+redirect_from: /figures/PMC5597090__F1
+figtype: Figure
 ---

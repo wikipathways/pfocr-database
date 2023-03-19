@@ -1,7 +1,7 @@
 ---
 figid: PMC3898681__DialoguesClinNeurosci-15-431-g004
 figlink: /pmc/articles/PMC3898681/figure/DialoguesClinNeurosci-15-431-g004/
-number: Figure 4
+number: F4
 caption: 'Working model of chronic morphine-induced adaptations in ventral tegmental
   area (VTA) dopamine neurons. Chronic morphine decreases VTA dopamine (DA) soma size
   yet increases neuronal excitability, while dopamine transmission to the nucleus
@@ -143,4 +143,7 @@ genes:
   entrez: '8660'
 chemicals: []
 diseases: []
+figid_alias: PMC3898681__F4
+redirect_from: /figures/PMC3898681__F4
+figtype: Figure
 ---

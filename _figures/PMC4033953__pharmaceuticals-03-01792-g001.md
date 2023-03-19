@@ -1,7 +1,7 @@
 ---
 figid: PMC4033953__pharmaceuticals-03-01792-g001
 figlink: /pmc/articles/PMC4033953/figure/pharmaceuticals-03-01792-f001/
-number: Scheme 1
+number: S1
 caption: Biosynthetic pathway of leukotrienes (LTs), LT receptors, and mechanisms
   of action of antileukotriene drugs (reproduced with permission from reference []).
 pmcid: PMC4033953
@@ -185,4 +185,7 @@ chemicals:
   source: MESH
   identifier: D001095
 diseases: []
+figid_alias: PMC4033953__S1
+redirect_from: /figures/PMC4033953__S1
+figtype: Scheme
 ---

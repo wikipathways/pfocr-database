@@ -1,7 +1,7 @@
 ---
 figid: PMC3367549__cshperspect-MDV-008151_F3
 figlink: /pmc/articles/PMC3367549/figure/A008151F3/
-number: Figure 3
+number: F3
 caption: Sonic hedgehog (SHH) signaling pathway. A key first step in the SHH pathway
   is the posttranslational processing of SHH protein to produce the mature SHH-N ligand,
   which is lipid (palmitate and cholesterol) modified (, ). Secretion of SHH is dependent
@@ -206,4 +206,7 @@ chemicals:
   source: MESH
   identifier: D010168
 diseases: []
+figid_alias: PMC3367549__F3
+redirect_from: /figures/PMC3367549__F3
+figtype: Figure
 ---

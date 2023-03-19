@@ -1,4 +1,4 @@
-#' Update Frontmatter
+#' @title Update Frontmatter
 #'
 #' @description This function updates specified fields in the frontmatter of 
 #' pathway figure .md files based on updates to a TSV mapping file. The 
@@ -23,7 +23,7 @@ updateFrontmatter <- function(field=NULL, file=NULL){
   if(is.null(field))
     stop("`field` parameter is missing!")
   if(is.null(file))
-    stop("`field` parameter is missing!")
+    stop("`file` parameter is missing!")
   
   if(!grepl('*\\.tsv$', file))
     file = paste(file, "tsv", sep = ".")
@@ -38,8 +38,10 @@ updateFrontmatter <- function(field=NULL, file=NULL){
   # update md
   for(i in seq_along(map.df[,1])){
     ffp = file.path("_figures",paste(map.df[i,1],"md", sep = "."))
-    if(!file.exists(ffp))
+    if(!file.exists(ffp)){
       warning(sprintf("MD file %s not found", ffp))
+      next
+    }
     # read
     con = file(ffp, "r")
     md = yaml::read_yaml(con)
@@ -60,6 +62,36 @@ updateFrontmatter <- function(field=NULL, file=NULL){
   }
 }
 
+#' @title Update Frontmatter from RDS
+#'
+#' @description Prepares a temporary TSV and args for updateFrontmatter()
+#' given an RDS and specified column(s). Automatically executes
+#' updateFrontmatter() and then deletes temporary TSV.
+#' @param columns List of column names to read from
+#' @param file Name of RDS file in rds folder. Format requirements:
+#'             * Column named "figid"
+#'             * Columns matching "columns" parameter
+#' Default is "pfocr_figures.rds"
+#' @return None
+#' @importFrom 
+#' @export 
+#'
+#' @examples
+#'   updateFrontmatterRDS("number")
+#'   updateFrontmatter(c("figtitle","caption"), "pfocr_figures.rds")
+#'   
+updateFrontmatterRDS <- function(columns=NULL, file="pfocr_figures.rds"){
+  if(is.null(columns))
+    stop("`columns` parameter is missing!")
+  
+  figs<-readRDS(file.path("rds",file))
 
+  for (colm in columns){
+    figs_sub<-figs[, c("figid",colm)]
+    write.table(figs_sub, "_data/temp.tsv",sep = "\t",row.names = F, col.names = F)
+    updateFrontmatter(colm,"temp.tsv")
+    file.remove("_data/temp.tsv")
+  }
+}
 
 

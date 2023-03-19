@@ -1,7 +1,7 @@
 ---
 figid: PMC3405868__cshperspect-WNT-007948_F4
 figlink: /pmc/articles/PMC3405868/figure/A007948F4/
-number: Figure 4
+number: F4
 caption: The C. elegans Wnt/β-catenin asymmetry (WBA) signaling pathway. (A) Asymmetric
   subcellular localization of Wnt pathway components in a mother cell before cell
   division. Frizzled and Disheveled proteins localize to the cortex on the side from
@@ -312,4 +312,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC3405868__F4
+redirect_from: /figures/PMC3405868__F4
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4292169__cshperspect-RCM-016634_F1
 figlink: /pmc/articles/PMC4292169/figure/A016634F1/
-number: Figure 1
+number: F1
 caption: The meiotic recombination pathway. A segment of one sister chromatid from
   each homolog (black, gray) is shown. Spo11 (ovals) catalyzes DSB formation, in association
   with partner proteins. Endonucleolytic cleavage on either side of the DSB (black
@@ -23,8 +23,7 @@ pathway_score: 0.837244
 filename: cshperspect-RCM-016634_F1.jpg
 figtitle: The meiotic recombination pathway
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ genes:
   entrez: '10054'
 chemicals: []
 diseases: []
+figid_alias: PMC4292169__F1
+redirect_from: /figures/PMC4292169__F1
+figtype: Figure
 ---

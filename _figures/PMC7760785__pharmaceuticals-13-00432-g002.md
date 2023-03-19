@@ -1,7 +1,7 @@
 ---
 figid: PMC7760785__pharmaceuticals-13-00432-g002
 figlink: pmc/articles/PMC7760785/figure/pharmaceuticals-13-00432-f002/
-number: Figure 2
+number: F2
 caption: 'The crosstalk between the major signaling pathway regulating autophagy and
   liver tumorigenesis. (1) PI3K-AKT-mTOR and AMPK-mTOR pathway receptor tyrosine kinases
   promote the conversion of PIP2 to PIP3 and the activation of PI3K. Activation of
@@ -37,8 +37,7 @@ filename: pharmaceuticals-13-00432-g002.jpg
 figtitle: Crosstalk between the major signaling pathway regulating autophagy and liver
   tumorigenesis
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -797,4 +796,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC7760785__F2
+redirect_from: /figures/PMC7760785__F2
+figtype: Figure
 ---

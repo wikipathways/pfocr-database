@@ -1,7 +1,7 @@
 ---
 figid: PMC7229304__bonejointres-09-1-g003
 figlink: pmc/articles/PMC7229304/figure/fig3-2046-3758.91.BJR-2019-0043.R2/
-number: Fig. 3
+number: F3
 caption: 'Biochemical coupling. Mechanosensors: a) Transmembrane proteins termed ‘integrins’
   form focal adhesions with linker proteins, stimulating kinase pathways. b) Voltage-sensitive
   calcium (Ca2+) channels stimulate influx of calcium into the cell. c) Hexagonal
@@ -28,8 +28,7 @@ pathway_score: 0.9731249
 filename: bonejointres-09-1-g003.jpg
 figtitle: Biochemical coupling
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -463,4 +462,7 @@ chemicals:
   source: MESH
   identifier: D000255
 diseases: []
+figid_alias: PMC7229304__F3
+redirect_from: /figures/PMC7229304__F3
+figtype: Figure
 ---

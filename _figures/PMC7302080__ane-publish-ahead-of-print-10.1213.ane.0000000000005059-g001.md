@@ -1,7 +1,7 @@
 ---
 figid: PMC7302080__ane-publish-ahead-of-print-10.1213.ane.0000000000005059-g001
 figlink: pmc/articles/PMC7302080/figure/F1/
-number: Figure
+number: F1
 caption: Procoagulant changes that occur with COVID-19 and potential therapeutics.
   A, SARS-CoV-2 entry leads to increased tissue factor expression on the endothelial
   cell surface, as well as factor VIII and PAI-1 release. Excessive thrombin generation
@@ -28,8 +28,7 @@ pathway_score: 0.9290995
 filename: ane-publish-ahead-of-print-10.1213.ane.0000000000005059-g001.jpg
 figtitle: Procoagulant changes that occur with COVID-19 and potential therapeutics
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -135,4 +134,7 @@ genes:
   entrez: '5054'
 chemicals: []
 diseases: []
+figid_alias: PMC7302080__F1
+redirect_from: /figures/PMC7302080__F1
+figtype: Figure
 ---

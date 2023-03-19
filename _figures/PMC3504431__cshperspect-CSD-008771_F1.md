@@ -1,7 +1,7 @@
 ---
 figid: PMC3504431__cshperspect-CSD-008771_F1
 figlink: /pmc/articles/PMC3504431/figure/A008771F1/
-number: Figure 1
+number: F1
 caption: The mTOR pathway. The mTOR kinase exists in two distinct complexes called
   mTOR complex 1 (mTORC1) and mTORC2. In addition to mTOR, both complexes also contain
   mLST8 and DEPTOR. RAPTOR and PRAS40 are unique to mTORC1, whereas RICTOR, mSIN1,
@@ -522,4 +522,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3504431__F1
+redirect_from: /figures/PMC3504431__F1
+figtype: Figure
 ---

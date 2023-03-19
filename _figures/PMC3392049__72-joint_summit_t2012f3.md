@@ -1,7 +1,7 @@
 ---
 figid: PMC3392049__72-joint_summit_t2012f3
 figlink: /pmc/articles/PMC3392049/figure/f3-72-joint_summit_t2012/
-number: Figure 3
+number: F3
 caption: An example pathway. The shown ingenuity pathway (Prostate Cancer Signaling
   Pathway) overlaps significantly with the mutation-prone subnetwork corresponding
   to the expression module annotated by GO:0008285. The overlapping genes are shown
@@ -252,4 +252,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3392049__F3
+redirect_from: /figures/PMC3392049__F3
+figtype: Figure
 ---

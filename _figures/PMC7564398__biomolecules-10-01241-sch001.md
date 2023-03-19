@@ -1,7 +1,7 @@
 ---
 figid: PMC7564398__biomolecules-10-01241-sch001
 figlink: pmc/articles/PMC7564398/figure/biomolecules-10-01241-sch001/
-number: Scheme 1
+number: S1
 caption: Effects of a high-fat diet (HFD) and chronic cannabidiol (CBD) administration
   on the sphingolipid metabolic pathway in rat myocytes. ↑, increase; ↓, decrease;
   red arrows indicate the effects of high-fat feeding; green arrows indicate the effects
@@ -21,8 +21,7 @@ filename: biomolecules-10-01241-sch001.jpg
 figtitle: A high-fat diet (HFD) and chronic cannabidiol (CBD) administration on the
   sphingolipid metabolic pathway in rat myocytes
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -161,4 +160,7 @@ chemicals:
   source: MESH
   identifier: D005963
 diseases: []
+figid_alias: PMC7564398__S1
+redirect_from: /figures/PMC7564398__S1
+figtype: Scheme
 ---

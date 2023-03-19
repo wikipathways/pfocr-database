@@ -1,7 +1,7 @@
 ---
 figid: PMC3729336__ijtr-suppl.1-2013-047f1
 figlink: /pmc/articles/PMC3729336/figure/f1-ijtr-suppl.1-2013-047/
-number: Figure 1
+number: F1
 caption: 'Schematic overview of the kynurenine (KYN) pathway. L-Tryptophan (L-TRP)
   is the extracellular fluid is transported into cells by a high-affinity tryptophan
   transporter. The first rate-limiting enzyme indoleanime 2,3-dioxygenase 1 (IDO1)
@@ -25,8 +25,7 @@ pathway_score: 0.9224739
 filename: ijtr-suppl.1-2013-047f1.jpg
 figtitle: Schematic overview of the kynurenine (KYN) pathway
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ genes:
   entrez: '3620'
 chemicals: []
 diseases: []
+figid_alias: PMC3729336__F1
+redirect_from: /figures/PMC3729336__F1
+figtype: Figure
 ---

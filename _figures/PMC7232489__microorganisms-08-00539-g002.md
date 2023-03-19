@@ -1,7 +1,7 @@
 ---
 figid: PMC7232489__microorganisms-08-00539-g002
 figlink: pmc/articles/PMC7232489/figure/microorganisms-08-00539-f002/
-number: Figure 2
+number: F2
 caption: Bifurcated pathway to synthesize hexanoic acid in M. elsdenii. A fatty acid
   synthetic pathway starts from Route A through acetyl-CoA, or Route B via oxaloacetate,
   by running the tricarboxylic acid (TCA) cycle in a reductive direction. The thickness
@@ -16,8 +16,7 @@ pathway_score: 0.9082478
 filename: microorganisms-08-00539-g002.jpg
 figtitle: Bifurcated pathway to synthesize hexanoic acid in M
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -289,4 +288,7 @@ diseases:
 - word: semialdehyde
   source: MESH
   identifier: C566402
+figid_alias: PMC7232489__F2
+redirect_from: /figures/PMC7232489__F2
+figtype: Figure
 ---

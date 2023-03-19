@@ -1,7 +1,7 @@
 ---
 figid: PMC7857532__mSystems.00933-20-f0004
 figlink: pmc/articles/PMC7857532/figure/fig4/
-number: FIG 4
+number: F4
 caption: Schematic representation of STRING output and targeted pathway analyses.
   Lines between genes represent a putative metabolic association. Three pathways involved
   in arginine/proline, chorismate/tryptophan, and propanoate synthesis are color coordinated
@@ -16,8 +16,7 @@ pathway_score: 0.5235897
 filename: mSystems.00933-20-f0004.jpg
 figtitle: STRING output and targeted pathway analyses
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -59,4 +58,7 @@ chemicals:
   source: MESH
   identifier: C551467
 diseases: []
+figid_alias: PMC7857532__F4
+redirect_from: /figures/PMC7857532__F4
+figtype: Figure
 ---

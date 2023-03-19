@@ -1,7 +1,7 @@
 ---
 figid: PMC7956994__pharmrev.120.000072f1
 figlink: pmc/articles/PMC7956994/figure/F1/
-number: Fig. 1
+number: F1
 caption: An overview of the complement system with focus on most relevant targets
   for therapeutic inhibition. The complement system acts as a recognition system and
   can recognized danger and be activated through three initial pathways (upper part
@@ -58,8 +58,7 @@ pathway_score: 0.9020092
 filename: pharmrev.120.000072f1.jpg
 figtitle: Complement system with focus on most relevant targets for therapeutic inhibition
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -418,4 +417,7 @@ diseases:
 - word: FD C3 FH
   source: MESH
   identifier: D004402
+figid_alias: PMC7956994__F1
+redirect_from: /figures/PMC7956994__F1
+figtype: Figure
 ---

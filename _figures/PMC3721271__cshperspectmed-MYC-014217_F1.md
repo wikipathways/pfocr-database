@@ -1,7 +1,7 @@
 ---
 figid: PMC3721271__cshperspectmed-MYC-014217_F1
 figlink: /pmc/articles/PMC3721271/figure/A014217F1/
-number: Figure 1
+number: F1
 caption: Growth factor (doughnut) receptor engagement signals TOR activation through
   PI3K and MYC activation through the MEK-ERK pathway. MYC in turn stimulates genes
   involved in amino acid import and protein synthesis, particularly the aminoacyl-tRNA
@@ -151,4 +151,7 @@ chemicals:
   source: MESH
   identifier: D005973
 diseases: []
+figid_alias: PMC3721271__F1
+redirect_from: /figures/PMC3721271__F1
+figtype: Figure
 ---

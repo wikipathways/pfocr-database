@@ -1,7 +1,7 @@
 ---
 figid: PMC7289600__elife-57410-fig3-figsupp1
 figlink: pmc/articles/PMC7289600/figure/fig3s1/
-number: Figure 3—figure supplement 1
+number: SF3_1
 caption: (A) Canonical ERK/MAPK signaling pathway. (B) EGFR signaling pathway components
   with inhibitors and biosensors used in this study.
 pmcid: PMC7289600
@@ -13,8 +13,7 @@ pathway_score: 0.7237976
 filename: elife-57410-fig3-figsupp1.jpg
 figtitle: ERK and tested pathways
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -229,4 +228,7 @@ chemicals:
   source: MESH
   identifier: C113580
 diseases: []
+figid_alias: PMC7289600__SF3_1
+redirect_from: /figures/PMC7289600__SF3_1
+figtype: Supplemental figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3536343__cshperspect-TRA-012252_F1
 figlink: /pmc/articles/PMC3536343/figure/A012252F1/
-number: Figure 1
+number: F1
 caption: Schematic representation of mTORC1 signaling to the translational machinery.
   Growth factors and hormones stimulate mTORC1 by activating receptor tyrosine kinase
   (RTK) signaling via PI3K/AKT (light blue) and Ras/ERK (green) pathways. mTORC1 is
@@ -385,4 +385,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3536343__F1
+redirect_from: /figures/PMC3536343__F1
+figtype: Figure
 ---

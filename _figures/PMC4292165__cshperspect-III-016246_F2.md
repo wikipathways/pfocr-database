@@ -1,7 +1,7 @@
 ---
 figid: PMC4292165__cshperspect-III-016246_F2
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F2/
-number: Figure 2
+number: F2
 caption: Signaling pathway of endosomal TLRs. Endosomal residents of TLR family are
   TLR3, TLR7, TLR8, TLR9, TLR11, TLR12, and TLR13. dsRNA recognition by TLR3 recruits
   TRIF to initiate signaling cascade that further activates TBK1 to induce IRF3-mediated
@@ -251,4 +251,7 @@ genes:
   entrez: '51284'
 chemicals: []
 diseases: []
+figid_alias: PMC4292165__F2
+redirect_from: /figures/PMC4292165__F2
+figtype: Figure
 ---

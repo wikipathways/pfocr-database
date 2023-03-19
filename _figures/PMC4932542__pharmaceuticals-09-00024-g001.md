@@ -1,7 +1,7 @@
 ---
 figid: PMC4932542__pharmaceuticals-09-00024-g001
 figlink: /pmc/articles/PMC4932542/figure/pharmaceuticals-09-00024-f001/
-number: Figure 1
+number: F1
 caption: Models that have been proposed to explain the inhibition of tumor cell proliferation
   by metformin. (A) metformin prevents tumor cell proliferation in a cell non-autonomous
   fashion through blocking the insulin/insulin-like growth factor 1 (IGF-1) signaling
@@ -30,8 +30,7 @@ filename: pharmaceuticals-09-00024-g001.jpg
 figtitle: Models that have been proposed to explain the inhibition of tumor cell proliferation
   by metformin
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ chemicals:
   source: MESH
   identifier: D008687
 diseases: []
+figid_alias: PMC4932542__F1
+redirect_from: /figures/PMC4932542__F1
+figtype: Figure
 ---

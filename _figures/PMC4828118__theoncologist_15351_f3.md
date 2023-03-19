@@ -1,7 +1,7 @@
 ---
 figid: PMC4828118__theoncologist_15351_f3
 figlink: /pmc/articles/PMC4828118/figure/F3/
-number: Figure 3
+number: F3
 caption: 'Drugs interfering with breast cancer (BC)- and obesity-related pathways.
   Drugs commonly used in BC, obesity, and diabetes interfere with intracellular signaling
   hyperactivation in BC. Aromatase inhibitors inhibit enzyme aromatase in the conversion
@@ -242,4 +242,7 @@ chemicals:
   source: MESH
   identifier: D020123
 diseases: []
+figid_alias: PMC4828118__F3
+redirect_from: /figures/PMC4828118__F3
+figtype: Figure
 ---

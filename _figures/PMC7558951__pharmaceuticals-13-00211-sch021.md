@@ -1,7 +1,7 @@
 ---
 figid: PMC7558951__pharmaceuticals-13-00211-sch021
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch021/
-number: Scheme 21
+number: S21
 caption: Synthetic pathway to obtain the selenosugars 124 and 128.
 pmcid: PMC7558951
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
@@ -12,8 +12,7 @@ pathway_score: 0.7752549
 filename: pharmaceuticals-13-00211-sch021.jpg
 figtitle: Synthetic pathway to obtain the selenosugars 124 and 128
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -109,4 +108,7 @@ chemicals:
   source: MESH
   identifier: C003268
 diseases: []
+figid_alias: PMC7558951__S21
+redirect_from: /figures/PMC7558951__S21
+figtype: Scheme
 ---

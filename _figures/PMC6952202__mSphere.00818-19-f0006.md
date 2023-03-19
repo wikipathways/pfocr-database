@@ -1,7 +1,7 @@
 ---
 figid: PMC6952202__mSphere.00818-19-f0006
 figlink: pmc/articles/PMC6952202/figure/fig6/
-number: FIG 6
+number: F6
 caption: Model illustrating the putative mechanism by which PUUP potentiates CAS activity.
   The CWI pathway is initiated when cell wall (CW) damage caused by CAS is sensed
   by cell surface sensors in the plasma membrane (PM). The CW stress signal is relayed
@@ -20,8 +20,7 @@ filename: mSphere.00818-19-f0006.jpg
 figtitle: Model illustrating the putative mechanism by which PUUP potentiates CAS
   activity
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -84,4 +83,7 @@ chemicals:
   source: MESH
   identifier: D006153
 diseases: []
+figid_alias: PMC6952202__F6
+redirect_from: /figures/PMC6952202__F6
+figtype: Figure
 ---

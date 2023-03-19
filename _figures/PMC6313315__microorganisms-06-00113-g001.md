@@ -1,7 +1,7 @@
 ---
 figid: PMC6313315__microorganisms-06-00113-g001
 figlink: /pmc/articles/PMC6313315/figure/microorganisms-06-00113-f001/
-number: Figure 1
+number: F1
 caption: The urea and tricarboxylic acid (TCA)-cycles. Arginine is synthesized via
   the urea cycle. Carbamoyl phosphate reacts with ornithine to generate citrulline.
   Addition of aspartate to citrulline creates L-argininosuccinate. ATP is cleaved
@@ -26,8 +26,7 @@ pathway_score: 0.9019405
 filename: microorganisms-06-00113-g001.jpg
 figtitle: The urea and tricarboxylic acid (TCA)-cycles
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -145,4 +144,7 @@ chemicals:
   source: MESH
   identifier: D009243
 diseases: []
+figid_alias: PMC6313315__F1
+redirect_from: /figures/PMC6313315__F1
+figtype: Figure
 ---

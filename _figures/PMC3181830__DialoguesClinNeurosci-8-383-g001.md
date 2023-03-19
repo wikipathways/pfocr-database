@@ -1,7 +1,7 @@
 ---
 figid: PMC3181830__DialoguesClinNeurosci-8-383-g001
 figlink: /pmc/articles/PMC3181830/figure/DialoguesClinNeurosci-8-383-g001/
-number: Figure 1
+number: F1
 caption: Schematic representation of the hypothalamic-pituitary-adrenal (HPA) axis.
   Hypophysiotropic neurons localized in the paraventricular nucleus (PVN) of the hypothalamus
   synthesize corticotropin-releasing factor (CRF) and vasopressin (AVP). In response
@@ -25,8 +25,7 @@ pathway_score: 0.8185398
 filename: DialoguesClinNeurosci-8-383-g001.jpg
 figtitle: Schematic representation of the hypothalamic-pituitary-adrenal (HPA) axis
 year: '2006'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -82,4 +81,7 @@ genes:
   entrez: '5443'
 chemicals: []
 diseases: []
+figid_alias: PMC3181830__F1
+redirect_from: /figures/PMC3181830__F1
+figtype: Figure
 ---

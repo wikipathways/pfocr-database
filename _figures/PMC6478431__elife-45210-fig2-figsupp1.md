@@ -1,7 +1,7 @@
 ---
 figid: PMC6478431__elife-45210-fig2-figsupp1
 figlink: /pmc/articles/PMC6478431/figure/fig2s1/
-number: Figure 2—figure supplement 1
+number: SF2_1
 caption: (A) Schematic representation of the expected metabolic activities of the
   pyrimidine and thiazole pathways for TPP biosynthesis in rich (LB, left) and minimal
   (GMM, right) media. Solid green lines indicate pathways with flux, whereas dashed
@@ -21,8 +21,7 @@ filename: elife-45210-fig2-figsupp1.jpg
 figtitle: The effects of thiamin biosynthetic pathway knockouts on expression of a
   thiS riboswitch-reporter construct
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -78,4 +77,7 @@ chemicals:
   source: MESH
   identifier: D006859
 diseases: []
+figid_alias: PMC6478431__SF2_1
+redirect_from: /figures/PMC6478431__SF2_1
+figtype: Supplemental figure
 ---

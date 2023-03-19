@@ -1,7 +1,7 @@
 ---
 figid: PMC3276397__11_311_issazadeh-navikasf1
 figlink: /pmc/articles/PMC3276397/figure/f1-11_311_issazadeh-navikas/
-number: Figure 1
+number: F1
 caption: Overview of the effects of VitA in gut-associated lymphoid tissue. (A) Insufficient
   VitA can cause Treg imbalance with excess Th1 and insufficient Th2 function. (B)
   On the other hand, when there are elevated levels of VitA, enhanced development
@@ -143,4 +143,7 @@ genes:
   entrez: '7043'
 chemicals: []
 diseases: []
+figid_alias: PMC3276397__F1
+redirect_from: /figures/PMC3276397__F1
+figtype: Figure
 ---

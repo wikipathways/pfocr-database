@@ -1,7 +1,7 @@
 ---
 figid: PMC7284293__bonejointres-09-225-g007
 figlink: pmc/articles/PMC7284293/figure/fig7-2046-3758.95.BJR-2019-0230.R1/
-number: Fig. 7
+number: F7
 caption: Mechanism of A20 attenuates senescence of tumour necrosis factor alpha (TNF-α)-induced
   nucleus pulposus cells (NPCs). TNF-α can stimulate the activation of the nuclear
   factor-kappa B (NF-κB) signalling pathway and increase the protein expression of
@@ -17,8 +17,7 @@ filename: bonejointres-09-225-g007.jpg
 figtitle: A20 attenuates senescence of tumour necrosis factor alpha (TNFA)-induced
   nucleus pulposus cells (NPCs)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ genes:
   entrez: '7132'
 chemicals: []
 diseases: []
+figid_alias: PMC7284293__F7
+redirect_from: /figures/PMC7284293__F7
+figtype: Figure
 ---

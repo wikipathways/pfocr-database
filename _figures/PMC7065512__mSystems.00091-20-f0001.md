@@ -1,7 +1,7 @@
 ---
 figid: PMC7065512__mSystems.00091-20-f0001
 figlink: pmc/articles/PMC7065512/figure/fig1/
-number: FIG 1
+number: F1
 caption: 'Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
   absence of key pathway genes. Central metabolic pathways consisting of glycolysis,
   the Entner-Doudoroff (ED), and the pentose phosphate (PP) pathways among 63 strains
@@ -36,8 +36,7 @@ filename: mSystems.00091-20-f0001.jpg
 figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
   absence of key pathway genes
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -186,4 +185,7 @@ chemicals:
   source: MESH
   identifier: D011773
 diseases: []
+figid_alias: PMC7065512__F1
+redirect_from: /figures/PMC7065512__F1
+figtype: Figure
 ---

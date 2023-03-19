@@ -1,7 +1,7 @@
 ---
 figid: PMC6789489__pharmaceuticals-12-00130-g001
 figlink: /pmc/articles/PMC6789489/figure/pharmaceuticals-12-00130-f001/
-number: Figure 1
+number: F1
 caption: Mechanisms of action of methylxanthine (MTXs) in glioblastoma (GBM). The
   figure shows common pathways regulated by MTXs (black arrows) including inhibition
   of phosphodiesterases (PDEs) (reducing the levels of cyclic Adenosine Monophosphate
@@ -515,4 +515,7 @@ chemicals:
   source: MESH
   identifier: C008514
 diseases: []
+figid_alias: PMC6789489__F1
+redirect_from: /figures/PMC6789489__F1
+figtype: Figure
 ---

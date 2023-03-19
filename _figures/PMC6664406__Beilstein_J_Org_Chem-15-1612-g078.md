@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g078
 figlink: /pmc/articles/PMC6664406/figure/C70/
-number: Scheme 70
+number: S70
 caption: Mechanistic pathway.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.7340757
 filename: Beilstein_J_Org_Chem-15-1612-g078.jpg
 figtitle: Mechanistic pathway
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: C012077
 diseases: []
+figid_alias: PMC6664406__S70
+redirect_from: /figures/PMC6664406__S70
+figtype: Scheme
 ---

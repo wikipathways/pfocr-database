@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f7
 figlink: /pmc/articles/PMC4979452/figure/fig7/
-number: Figure 7
+number: F7
 caption: Cell adhesion. Focal adhesions are complexes through which signals are transmitted
   to extracellular matrix (ECM) and interacting cells. Connection between focal adhesions
   and ECM is realized through subcellular structures, including integrins that bind
@@ -258,4 +258,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4979452__F7
+redirect_from: /figures/PMC4979452__F7
+figtype: Figure
 ---

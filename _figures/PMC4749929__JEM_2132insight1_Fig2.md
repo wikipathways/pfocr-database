@@ -1,7 +1,7 @@
 ---
 figid: PMC4749929__JEM_2132insight1_Fig2
 figlink: /pmc/articles/PMC4749929/figure/fig2/
-number: ''
+number: F2
 caption: RAG-induced DSBs trigger a signalling pathway that culminates in the suppression
   of pre–BCR signals by the transcriptional repressor SPIC.
 pmcid: PMC4749929
@@ -12,8 +12,7 @@ pathway_score: 0.9509872
 filename: JEM_2132insight1_Fig2.jpg
 figtitle: Pumping the breaks on B cell development
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -74,4 +73,7 @@ genes:
   entrez: '4791'
 chemicals: []
 diseases: []
+figid_alias: PMC4749929__F2
+redirect_from: /figures/PMC4749929__F2
+figtype: Figure
 ---

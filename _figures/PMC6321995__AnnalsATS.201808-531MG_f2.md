@@ -1,7 +1,7 @@
 ---
 figid: PMC6321995__AnnalsATS.201808-531MG_f2
 figlink: /pmc/articles/PMC6321995/figure/fig2/
-number: Figure 2
+number: F2
 caption: 'Therapeutic strategy for downregulation of excess inflammatory mucus to
   normal physiological mucus levels, using a small-molecule kinase inhibitor of MAPK13.
   Left box: Depiction of the formation of excess inflammatory mucus in airway disease
@@ -24,8 +24,7 @@ filename: AnnalsATS.201808-531MG_f2.jpg
 figtitle: Therapeutic strategy for downregulation of excess inflammatory mucus to
   normal physiological mucus levels, using a small-molecule kinase inhibitor of MAPK13
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -96,4 +95,7 @@ genes:
   entrez: '1179'
 chemicals: []
 diseases: []
+figid_alias: PMC6321995__F2
+redirect_from: /figures/PMC6321995__F2
+figtype: Figure
 ---

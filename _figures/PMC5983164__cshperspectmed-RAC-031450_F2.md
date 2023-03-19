@@ -1,7 +1,7 @@
 ---
 figid: PMC5983164__cshperspectmed-RAC-031450_F2
 figlink: pmc/articles/PMC5983164/figure/A031450F2/
-number: Figure 2
+number: F2
 caption: RAS effector pathways. Once activated, RAS proteins signal through multiple
   effector pathways, thus activating many different signal transduction pathways,
   such as mitogen-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase
@@ -25,8 +25,7 @@ pathway_score: 0.9475625
 filename: cshperspectmed-RAC-031450_F2.jpg
 figtitle: RAS effector pathways
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -230,4 +229,7 @@ chemicals:
   source: MESH
   identifier: D005947
 diseases: []
+figid_alias: PMC5983164__F2
+redirect_from: /figures/PMC5983164__F2
+figtype: Figure
 ---

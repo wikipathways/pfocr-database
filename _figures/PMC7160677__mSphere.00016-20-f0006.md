@@ -1,7 +1,7 @@
 ---
 figid: PMC7160677__mSphere.00016-20-f0006
 figlink: pmc/articles/PMC7160677/figure/fig6/
-number: FIG 6
+number: F6
 caption: Scheme of AA on the metabolism pathways of C. albicans. Glucose penetrates
   the plasma membrane and is metabolized by glycolysis and converted into pyruvate
   and acetyl-CoA in the cytosol. Acetyl-CoA is involved in the biosynthesis of ergosterol
@@ -18,8 +18,7 @@ pathway_score: 0.9423122
 filename: mSphere.00016-20-f0006.jpg
 figtitle: Scheme of AA on the metabolism pathways of C
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -188,4 +187,7 @@ diseases:
 - word: "Glucose \x1F Glucose"
   source: MESH
   identifier: D018149
+figid_alias: PMC7160677__F6
+redirect_from: /figures/PMC7160677__F6
+figtype: Figure
 ---

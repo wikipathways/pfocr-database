@@ -1,7 +1,7 @@
 ---
 figid: PMC4315049__cmc-suppl.3-2014-023f2
 figlink: /pmc/articles/PMC4315049/figure/f2-cmc-suppl.3-2014-023/
-number: Figure 2
+number: F2
 caption: 'Secretion of FABP4 in association with lipolysis. FABP4 lacks an N-terminal
   secretory signal sequence, which is necessary for the classical ER–Golgi-dependent
   secretory pathway, but FABP4 can be secreted via the ER–Golgi-independent pathway.
@@ -315,4 +315,7 @@ chemicals:
   source: MESH
   identifier: D006157
 diseases: []
+figid_alias: PMC4315049__F2
+redirect_from: /figures/PMC4315049__F2
+figtype: Figure
 ---

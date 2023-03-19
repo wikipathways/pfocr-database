@@ -1,7 +1,7 @@
 ---
 figid: PMC4665079__cshperspect-SIG-006080_F2
 figlink: /pmc/articles/PMC4665079/figure/A006080F2/
-number: Figure 2
+number: F2
 caption: The mitochondrial apoptotic pathway. In response to various cellular stresses,
   proapoptotic members of the Bcl2 family induce mitochondrial outer membrane permeabilization
   (MOMP), allowing the release into the cytosol of proapoptotic factors that are normally
@@ -215,4 +215,7 @@ genes:
   entrez: '839'
 chemicals: []
 diseases: []
+figid_alias: PMC4665079__F2
+redirect_from: /figures/PMC4665079__F2
+figtype: Figure
 ---

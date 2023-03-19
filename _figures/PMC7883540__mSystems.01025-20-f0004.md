@@ -1,7 +1,7 @@
 ---
 figid: PMC7883540__mSystems.01025-20-f0004
 figlink: pmc/articles/PMC7883540/figure/fig4/
-number: FIG 4
+number: F4
 caption: Integrated analysis of transcriptional and metabolic changes. Expression
   profiles for each condition are displayed as a heat map for genes predicted to be
   involved in nitrate reduction (A), branched-chain amino acid biosynthesis (B), acetate
@@ -23,8 +23,7 @@ pathway_score: 0.9129023
 filename: mSystems.01025-20-f0004.jpg
 figtitle: Integrated analysis of transcriptional and metabolic changes
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -224,4 +223,7 @@ chemicals:
   source: MESH
   identifier: D009573
 diseases: []
+figid_alias: PMC7883540__F4
+redirect_from: /figures/PMC7883540__F4
+figtype: Figure
 ---

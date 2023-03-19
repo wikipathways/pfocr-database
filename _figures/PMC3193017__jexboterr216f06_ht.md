@@ -1,7 +1,7 @@
 ---
 figid: PMC3193017__jexboterr216f06_ht
 figlink: /pmc/articles/PMC3193017/figure/fig6/
-number: Fig. 6
+number: F6
 caption: The putative model of anthocyanin and butein synthesis in MJOr and MJY. For
   simplicity, the 3′ hydroxylation pathway is abbreviated. (A) The model for MJOr.
   DvIVS can function, then DvCHS1, DvF3H, DvDFR, and DvANS are activated, and anthocyanidin,
@@ -18,8 +18,7 @@ pathway_score: 0.8966132
 filename: jexboterr216f06_ht.jpg
 figtitle: The putative model of anthocyanin and butein synthesis in MJOr and MJY
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ chemicals:
   source: MESH
   identifier: D047188
 diseases: []
+figid_alias: PMC3193017__F6
+redirect_from: /figures/PMC3193017__F6
+figtype: Figure
 ---

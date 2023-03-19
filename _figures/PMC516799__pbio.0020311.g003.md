@@ -1,7 +1,7 @@
 ---
 figid: PMC516799__pbio.0020311.g003
 figlink: /pmc/articles/PMC516799/figure/pbio-0020311-g003/
-number: Figure 3
+number: F3
 caption: Ethylene is perceived by a family of two-component receptors containing a
   consensus (unshaded) or degenerate (shaded) HK domain (H). Three of the receptors
   also contain a C-terminal receiver domain (R). The receptors negatively regulate
@@ -156,4 +156,7 @@ chemicals:
   source: MESH
   identifier: D005030
 diseases: []
+figid_alias: PMC516799__F3
+redirect_from: /figures/PMC516799__F3
+figtype: Figure
 ---

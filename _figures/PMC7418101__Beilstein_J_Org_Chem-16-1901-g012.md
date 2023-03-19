@@ -1,7 +1,7 @@
 ---
 figid: PMC7418101__Beilstein_J_Org_Chem-16-1901-g012
 figlink: pmc/articles/PMC7418101/figure/C1/
-number: Scheme 1
+number: S1
 caption: The synthetic pathway to receptors CZ016 and MC001–MC014. The reaction yield
   for 2–3a/3b is given as a sum for two compounds, as they were inseparable by purification.
 pmcid: PMC7418101
@@ -12,8 +12,7 @@ pathway_score: 0.8979336
 filename: Beilstein_J_Org_Chem-16-1901-g012.jpg
 figtitle: Synthetic pathway to receptors CZ016 and MC001–MC014
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -132,4 +131,7 @@ chemicals:
   source: MESH
   identifier: D007850
 diseases: []
+figid_alias: PMC7418101__S1
+redirect_from: /figures/PMC7418101__S1
+figtype: Scheme
 ---

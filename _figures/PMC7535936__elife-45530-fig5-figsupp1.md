@@ -1,7 +1,7 @@
 ---
 figid: PMC7535936__elife-45530-fig5-figsupp1
 figlink: pmc/articles/PMC7535936/figure/fig5s1/
-number: Figure 5—figure supplement 1
+number: SF5_1
 caption: (A) Nodal binds to its cell surface receptor in the presence of the co-receptor
   EGF-CFC, activating the resulting complex. After phosphorylation, the Smad2/Smad4
   complex translocates to the nucleus. Upon binding of the transcription factor FoxH1,
@@ -19,8 +19,7 @@ pathway_score: 0.9496636
 filename: elife-45530-fig5-figsupp1.jpg
 figtitle: Schematic outline of the Nodal signaling pathway in vertebrates
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -179,4 +178,7 @@ genes:
   entrez: '91'
 chemicals: []
 diseases: []
+figid_alias: PMC7535936__SF5_1
+redirect_from: /figures/PMC7535936__SF5_1
+figtype: Supplemental figure
 ---

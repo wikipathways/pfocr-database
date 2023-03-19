@@ -1,7 +1,7 @@
 ---
 figid: PMC7144005__microorganisms-08-00437-g005a
 figlink: .na.character
-number: ''
+number: F5a
 caption: 'The flux distribution maps between the serine cycle, EMC pathway and TCA
   cycle. The maps were drawn with the help of Escher software []. The circles refer
   to metabolites, the arrows refer to reactions, and numbers refer to flux values
@@ -27,8 +27,7 @@ filename: microorganisms-08-00437-g005a.jpg
 figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigations
   of Methane Metabolism in Methylosinus trichosporium OB3b
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -170,4 +169,7 @@ chemicals:
   source: MESH
   identifier: C102006
 diseases: []
+figid_alias: PMC7144005__F5a
+redirect_from: /figures/PMC7144005__F5a
+figtype: Figure
 ---

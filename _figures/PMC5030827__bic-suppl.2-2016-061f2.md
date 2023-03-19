@@ -1,7 +1,7 @@
 ---
 figid: PMC5030827__bic-suppl.2-2016-061f2
 figlink: /pmc/articles/PMC5030827/figure/f2-bic-suppl.2-2016-061/
-number: Figure 2
+number: F2
 caption: Schematic of the main interactions of glucose fatty acid oxidation. The FFA
   enters the cell through FATP 1 and 6, is converted to FFA-CoA in the cytosol, then
   it moves to the mitochondria through CPT I and II and acylcarnitine translocase.
@@ -21,8 +21,7 @@ pathway_score: 0.8658035
 filename: bic-suppl.2-2016-061f2.jpg
 figtitle: Schematic of the main interactions of glucose fatty acid oxidation
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -106,4 +105,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC5030827__F2
+redirect_from: /figures/PMC5030827__F2
+figtype: Figure
 ---

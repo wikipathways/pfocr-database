@@ -1,7 +1,7 @@
 ---
 figid: PMC5597136__bioengineering-03-00012-g004
 figlink: /pmc/articles/PMC5597136/figure/bioengineering-03-00012-f004/
-number: Figure 4
+number: F4
 caption: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae.
   (a) target pathways of the 14 genes. CDC28 associates with cyclin CLN3 at the start
   of mitosis to cause the activation of SBF (SWI4/SWI6) and MBF (MBP1/SWI6), promoting
@@ -21,8 +21,7 @@ pathway_score: 0.9346157
 filename: bioengineering-03-00012-g004.jpg
 figtitle: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -86,4 +85,7 @@ genes:
   entrez: '991'
 chemicals: []
 diseases: []
+figid_alias: PMC5597136__F4
+redirect_from: /figures/PMC5597136__F4
+figtype: Figure
 ---

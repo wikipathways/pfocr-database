@@ -1,7 +1,7 @@
 ---
 figid: PMC4263464__cin-suppl.4-2014-073f1
 figlink: /pmc/articles/PMC4263464/figure/f1-cin-suppl.4-2014-073/
-number: Figure 1
+number: F1
 caption: 'Top overlapped pathways for non-users (top) and users (bottom) of oral contraceptives.Notes:
   Hexagon shaped are genes. Dark red as most important, white as least important.'
 pmcid: PMC4263464
@@ -560,4 +560,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4263464__F1
+redirect_from: /figures/PMC4263464__F1
+figtype: Figure
 ---

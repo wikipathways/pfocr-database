@@ -1,7 +1,7 @@
 ---
 figid: PMC7463541__pharmaceuticals-13-00174-g001
 figlink: pmc/articles/PMC7463541/figure/pharmaceuticals-13-00174-f001/
-number: Figure 1
+number: F1
 caption: Biosynthetic pathway of major phytocannabinoids.
 pmcid: PMC7463541
 papertitle: Receptors and Channels Possibly Mediating the Effects of Phytocannabinoids
@@ -12,8 +12,7 @@ pathway_score: 0.9357219
 filename: pharmaceuticals-13-00174-g001.jpg
 figtitle: Biosynthetic pathway of major phytocannabinoids
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -122,4 +121,7 @@ chemicals:
   source: MESH
   identifier: C061009
 diseases: []
+figid_alias: PMC7463541__F1
+redirect_from: /figures/PMC7463541__F1
+figtype: Figure
 ---

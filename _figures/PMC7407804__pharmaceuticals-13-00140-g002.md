@@ -1,7 +1,7 @@
 ---
 figid: PMC7407804__pharmaceuticals-13-00140-g002
 figlink: pmc/articles/PMC7407804/figure/pharmaceuticals-13-00140-f002/
-number: Figure 2
+number: F2
 caption: Summary of the available strategies enabling the manipulation of ephrin-A:EphA
   signaling. Red and green arrows indicate inhibitor and activator effects respectively.
   Details are provided in .
@@ -14,8 +14,7 @@ filename: pharmaceuticals-13-00140-g002.jpg
 figtitle: Summary of the available strategies enabling the manipulation of ephrin-A:EphA
   signaling
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ chemicals:
   source: MESH
   identifier: C016276
 diseases: []
+figid_alias: PMC7407804__F2
+redirect_from: /figures/PMC7407804__F2
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7343979__mSphere.00366-20-f0007
 figlink: pmc/articles/PMC7343979/figure/fig7/
-number: FIG 7
+number: F7
 caption: Model of Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP
   in microcolony formation. The model places Sho1, a transmembrane adaptor protein,
   as the most upstream element of the signaling pathway that interacts with enzymes
@@ -20,8 +20,7 @@ filename: mSphere.00366-20-f0007.jpg
 figtitle: Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP in microcolony
   formation
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -135,4 +134,7 @@ chemicals:
   source: MESH
   identifier: D000085
 diseases: []
+figid_alias: PMC7343979__F7
+redirect_from: /figures/PMC7343979__F7
+figtype: Figure
 ---

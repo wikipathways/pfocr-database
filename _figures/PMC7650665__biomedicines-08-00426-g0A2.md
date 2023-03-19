@@ -1,7 +1,7 @@
 ---
 figid: PMC7650665__biomedicines-08-00426-g0A2
 figlink: pmc/articles/PMC7650665/figure/biomedicines-08-00426-f0A2/
-number: Figure A2
+number: AF2
 caption: 'Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
   kinases from human, vaccinia virus, and herpes simplex virus. HSV-tk418m is A167Y
   mutant HSV-tk armed into tk of WR VV backbone which is described earlier in the
@@ -23,8 +23,7 @@ filename: biomedicines-08-00426-g0A2.jpg
 figtitle: Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
   kinases from human, vaccinia virus, and herpes simplex virus
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -205,4 +204,7 @@ chemicals:
   source: MESH
   identifier: C513881
 diseases: []
+figid_alias: PMC7650665__AF2
+redirect_from: /figures/PMC7650665__AF2
+figtype: Appendix figure
 ---

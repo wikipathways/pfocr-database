@@ -1,7 +1,7 @@
 ---
 figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g022
 figlink: /pmc/articles/PMC6664406/figure/C14/
-number: Scheme 14
+number: S14
 caption: Plausible radical pathway for the synthesis of imidazo[1,5-a]pyridines.
 pmcid: PMC6664406
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
@@ -12,8 +12,7 @@ pathway_score: 0.7415692
 filename: Beilstein_J_Org_Chem-15-1612-g022.jpg
 figtitle: Plausible radical pathway for the synthesis of imidazo[1,5-a]pyridines
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -51,4 +50,7 @@ chemicals:
   source: MESH
   identifier: D003300
 diseases: []
+figid_alias: PMC6664406__S14
+redirect_from: /figures/PMC6664406__S14
+figtype: Scheme
 ---

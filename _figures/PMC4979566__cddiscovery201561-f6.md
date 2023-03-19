@@ -1,7 +1,7 @@
 ---
 figid: PMC4979566__cddiscovery201561-f6
 figlink: /pmc/articles/PMC4979566/figure/fig6/
-number: Figure 6
+number: F6
 caption: Proposed model for the synergistic effect of docetaxel and resveratrol. Resveratrol
   downregulates docetaxel-induced upregulation of HER-2, Akt and MAPKs, while that
   of NF-κB is unaffected. The study postulates that docetaxel-induced upregulation
@@ -255,4 +255,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4979566__F6
+redirect_from: /figures/PMC4979566__F6
+figtype: Figure
 ---

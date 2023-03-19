@@ -1,7 +1,7 @@
 ---
 figid: PMC3721281__cshperspect-ERT-013359_F2
 figlink: /pmc/articles/PMC3721281/figure/A013359F2/
-number: Figure 2
+number: F2
 caption: The asparagine-linked glycosylation pathway. The biosynthesis of lipid-linked
   oligosaccharide (LLO) is catalyzed by a series of glycosyltransferases encoded by
   asparagine-linked glycosylation (ALG) genes. The buildup of the glycan is initiated
@@ -171,4 +171,7 @@ diseases:
 - word: Congenital disorder of glycosylation
   source: ''
   identifier: ''
+figid_alias: PMC3721281__F2
+redirect_from: /figures/PMC3721281__F2
+figtype: Figure
 ---

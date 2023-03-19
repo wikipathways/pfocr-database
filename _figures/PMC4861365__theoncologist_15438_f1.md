@@ -1,7 +1,7 @@
 ---
 figid: PMC4861365__theoncologist_15438_f1
 figlink: /pmc/articles/PMC4861365/figure/F1/
-number: Figure 1
+number: F1
 caption: 'The Fanconi anemia/BRCA repair pathway. Following DNA damage, ataxia telangiectasia
   and Rad3-related kinase (ATR) and its binding partner ATR interacting protein (ATRIP)
   are activated, and in turn activate Fanconi Anemia complex 1. This ubiquinates FANCD2/FANCI,
@@ -18,8 +18,7 @@ pathway_score: 0.9124977
 filename: theoncologist_15438_f1.jpg
 figtitle: The Fanconi anemia/BRCA repair pathway
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -95,4 +94,7 @@ diseases:
 - word: Fanconi anemia
   source: ''
   identifier: ''
+figid_alias: PMC4861365__F1
+redirect_from: /figures/PMC4861365__F1
+figtype: Figure
 ---

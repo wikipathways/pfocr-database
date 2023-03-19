@@ -1,7 +1,7 @@
 ---
 figid: PMC4160009__RevDiabeticStud-10-228-002
 figlink: /pmc/articles/PMC4160009/figure/F2/
-number: Figure 2
+number: F2
 caption: Insulin binds both to the insulin receptor (IR) and to insulin-like growth
   factor receptor 1 (IGF-1R). The binding of insulin to IGF-1R activates both phosphoinositol-3-kinase
   pathway (PI3K), which activates the metabolic pathway, and mitogen-activated-protein-kinase
@@ -146,4 +146,7 @@ genes:
   entrez: '5602'
 chemicals: []
 diseases: []
+figid_alias: PMC4160009__F2
+redirect_from: /figures/PMC4160009__F2
+figtype: Figure
 ---

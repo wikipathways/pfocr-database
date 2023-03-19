@@ -1,7 +1,7 @@
 ---
 figid: PMC3475172__cshperspect-TRA-011544_F1
 figlink: /pmc/articles/PMC3475172/figure/A011544F1/
-number: Figure 1
+number: F1
 caption: Model of canonical eukaryotic translation initiation pathway. The pathway
   is shown as a series of discrete steps starting with dissociation of 80S ribosomes
   into subunits. Binding of factors is depicted both as a single step via the multifactor
@@ -26,8 +26,7 @@ pathway_score: 0.7664863
 filename: cshperspect-TRA-011544_F1.jpg
 figtitle: Model of canonical eukaryotic translation initiation pathway
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -87,4 +86,7 @@ chemicals:
   source: MESH
   identifier: D008715
 diseases: []
+figid_alias: PMC3475172__F1
+redirect_from: /figures/PMC3475172__F1
+figtype: Figure
 ---

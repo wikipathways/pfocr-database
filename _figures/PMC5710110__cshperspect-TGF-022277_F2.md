@@ -1,7 +1,7 @@
 ---
 figid: PMC5710110__cshperspect-TGF-022277_F2
 figlink: /pmc/articles/PMC5710110/figure/A022277F2/
-number: Figure 2
+number: F2
 caption: The transforming growth factor β (TGF-β)-induced Smad signaling pathway.
   TGF-β binds to the type II receptor and recruits the type I receptor, whereby the
   type II receptor phosphorylates and activates type I receptor. The type I receptor,
@@ -159,4 +159,7 @@ genes:
   entrez: '1024'
 chemicals: []
 diseases: []
+figid_alias: PMC5710110__F2
+redirect_from: /figures/PMC5710110__F2
+figtype: Figure
 ---

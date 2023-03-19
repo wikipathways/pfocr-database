@@ -1,7 +1,7 @@
 ---
 figid: PMC7913947__microorganisms-09-00322-g001
 figlink: pmc/articles/PMC7913947/figure/microorganisms-09-00322-f001/
-number: Figure 1
+number: F1
 caption: Schematic overview of the kynurenine pathway. The first and rate-limiting
   step is catalyzed by indoleamine 2,3-dioxygenase (IDO1 and 2) or by tryptophan 2,3-dioxygenase
   (TDO2) that transform tryptophan to N-formyl kynurenine. The second enzyme in the
@@ -19,8 +19,7 @@ pathway_score: 0.5467461
 filename: microorganisms-09-00322-g001.jpg
 figtitle: The kynurenine pathway
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -115,4 +114,7 @@ chemicals:
   source: MESH
   identifier: D009243
 diseases: []
+figid_alias: PMC7913947__F1
+redirect_from: /figures/PMC7913947__F1
+figtype: Figure
 ---

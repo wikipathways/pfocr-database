@@ -1,7 +1,7 @@
 ---
 figid: PMC4315934__cshperspect-SIG-006023_F4
 figlink: /pmc/articles/PMC4315934/figure/A006023F4/
-number: Figure 4
+number: F4
 caption: Cardiac muscle contraction and changes with exercise. (A) Cardiac muscle
   contraction can occur as a consequence of calcium entry through L-type calcium channels,
   which activate ryanodine receptor (RyR) channels in the SR. Alternatively, β-adrenergic
@@ -273,4 +273,7 @@ chemicals:
   source: MESH
   identifier: D009638
 diseases: []
+figid_alias: PMC4315934__F4
+redirect_from: /figures/PMC4315934__F4
+figtype: Figure
 ---

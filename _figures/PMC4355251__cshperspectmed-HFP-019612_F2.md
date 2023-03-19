@@ -1,7 +1,7 @@
 ---
 figid: PMC4355251__cshperspectmed-HFP-019612_F2
 figlink: /pmc/articles/PMC4355251/figure/A019612F2/
-number: Figure 2
+number: F2
 caption: PRR and signaling pathways that lead to differentiation of antifungal T-helper
   cells. Recognition of fungal pathogen–associated molecular patterns (PAMPs) is mediated
   by TLRs and CLRs. The binding of fungi or β-glucan to Dectin-1 recruits SYK to the
@@ -325,4 +325,7 @@ chemicals:
   source: MESH
   identifier: D008358
 diseases: []
+figid_alias: PMC4355251__F2
+redirect_from: /figures/PMC4355251__F2
+figtype: Figure
 ---

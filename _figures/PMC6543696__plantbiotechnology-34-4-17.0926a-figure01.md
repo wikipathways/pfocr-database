@@ -1,7 +1,7 @@
 ---
 figid: PMC6543696__plantbiotechnology-34-4-17.0926a-figure01
 figlink: /pmc/articles/PMC6543696/figure/figure1/
-number: ''
+number: F1
 caption: .na.character
 pmcid: PMC6543696
 papertitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
@@ -13,8 +13,7 @@ filename: plantbiotechnology-34-4-17.0926a-figure01.jpg
 figtitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
   production in loquat (Eriobotrya japonica) flowers
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -60,4 +59,7 @@ chemicals:
   source: MESH
   identifier: D010649
 diseases: []
+figid_alias: PMC6543696__F1
+redirect_from: /figures/PMC6543696__F1
+figtype: Figure
 ---

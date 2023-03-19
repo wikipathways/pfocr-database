@@ -1,7 +1,7 @@
 ---
 figid: PMC7045390__mSphere.00913-19-f0006
 figlink: pmc/articles/PMC7045390/figure/fig6/
-number: FIG 6
+number: F6
 caption: Correlation analysis of the hypoxic transcriptome and metabolome data. The
   different altered oxygen-sensitive metabolic routes and the dynamic of transcripts
   that were significantly altered during the corresponding time points are summarized.
@@ -24,8 +24,7 @@ pathway_score: 0.8626198
 filename: mSphere.00913-19-f0006.jpg
 figtitle: Correlation analysis of the hypoxic transcriptome and metabolome data
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -676,4 +675,7 @@ diseases:
 - word: N Hypoxia
   source: MESH
   identifier: D000860
+figid_alias: PMC7045390__F6
+redirect_from: /figures/PMC7045390__F6
+figtype: Figure
 ---

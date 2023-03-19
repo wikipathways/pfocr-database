@@ -1,7 +1,7 @@
 ---
 figid: PMC5749594__radiol.2017161845.fig3a
 figlink: /pmc/articles/PMC5749594/figure/fig3a/
-number: 'Figure 3a:'
+number: F3a
 caption: Association of the activity of metagene 19 with two distinct image phenotypes.
   (a) Low activity of metagene 19 is associated with low activity of LRIG1 (green
   arrow), and high activity of the EGF–EGF receptor (EGFR; red arrow) pathway results
@@ -18,8 +18,7 @@ pathway_score: 0.8134618
 filename: radiol.2017161845.fig3a.jpg
 figtitle: Association of the activity of metagene 19 with two distinct image phenotypes
 year: ''
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -68,4 +67,7 @@ genes:
   entrez: '1956'
 chemicals: []
 diseases: []
+figid_alias: PMC5749594__F3a
+redirect_from: /figures/PMC5749594__F3a
+figtype: Figure
 ---

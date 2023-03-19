@@ -1,7 +1,7 @@
 ---
 figid: PMC3179340__cshperspect-PRT-007500_F3
 figlink: /pmc/articles/PMC3179340/figure/A007500F3/
-number: Figure 3
+number: F3
 caption: A pathway for Parkinson’s. A possibly fictitious attempt to fit the known
   environmental and genetic factors associated with sporadic and familial PD into
   a common pathological pathway involving α-synuclein proteostasis. Many parts of
@@ -21,8 +21,7 @@ pathway_score: 0.7032173
 filename: cshperspect-PRT-007500_F3.jpg
 figtitle: A pathway for Parkinson’s
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -85,4 +84,7 @@ genes:
   entrez: '120892'
 chemicals: []
 diseases: []
+figid_alias: PMC3179340__F3
+redirect_from: /figures/PMC3179340__F3
+figtype: Figure
 ---

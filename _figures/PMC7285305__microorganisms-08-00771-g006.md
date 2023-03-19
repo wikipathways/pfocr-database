@@ -1,7 +1,7 @@
 ---
 figid: PMC7285305__microorganisms-08-00771-g006
 figlink: pmc/articles/PMC7285305/figure/microorganisms-08-00771-f006/
-number: Figure 6
+number: F6
 caption: Representation of metabolic pathway performed on KEGG website. The map shows
   the pathway of secondary metabolite biosynthesis. In red color are represented the
   enzymes found in transcriptome and proteome of W. magna.
@@ -14,8 +14,7 @@ pathway_score: 0.6709865
 filename: microorganisms-08-00771-g006.jpg
 figtitle: Representation of metabolic pathway performed on KEGG website
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: C024925
 diseases: []
+figid_alias: PMC7285305__F6
+redirect_from: /figures/PMC7285305__F6
+figtype: Figure
 ---

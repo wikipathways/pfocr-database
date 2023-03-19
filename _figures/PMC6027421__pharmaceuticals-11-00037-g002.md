@@ -1,7 +1,7 @@
 ---
 figid: PMC6027421__pharmaceuticals-11-00037-g002
 figlink: /pmc/articles/PMC6027421/figure/pharmaceuticals-11-00037-f002/
-number: Figure 2
+number: F2
 caption: Steroid biosynthetic pathway. In humans, 17,20 lyase activity of CYP17A1
   converts 17α-hydroxypregnenolone (17OH-PREG) to dehydroepiandrosterone (DHEA) but
   does not effectively convert 17α-hydroxyprogesterone (17OH-PROG) to androstenedione.
@@ -18,8 +18,7 @@ pathway_score: 0.9455617
 filename: pharmaceuticals-11-00037-g002.jpg
 figtitle: Steroid biosynthetic pathway
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -113,4 +112,7 @@ chemicals:
   source: MESH
   identifier: D004958
 diseases: []
+figid_alias: PMC6027421__F2
+redirect_from: /figures/PMC6027421__F2
+figtype: Figure
 ---

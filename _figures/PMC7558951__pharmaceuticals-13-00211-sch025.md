@@ -1,7 +1,7 @@
 ---
 figid: PMC7558951__pharmaceuticals-13-00211-sch025
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch025/
-number: Scheme 25
+number: S25
 caption: Synthetic pathway to obtain selenoguanine.
 pmcid: PMC7558951
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
@@ -12,8 +12,7 @@ pathway_score: 0.7995905
 filename: pharmaceuticals-13-00211-sch025.jpg
 figtitle: Synthetic pathway to obtain selenoguanine
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -47,4 +46,7 @@ chemicals:
   source: MESH
   identifier: C573391
 diseases: []
+figid_alias: PMC7558951__S25
+redirect_from: /figures/PMC7558951__S25
+figtype: Scheme
 ---

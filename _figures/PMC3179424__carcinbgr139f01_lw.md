@@ -1,7 +1,7 @@
 ---
 figid: PMC3179424__carcinbgr139f01_lw
 figlink: /pmc/articles/PMC3179424/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Sex steroid hormone biosynthesis and metabolism pathway.
 pmcid: PMC3179424
 papertitle: 'Repeat polymorphisms in estrogen metabolism genes and prostate cancer
@@ -12,8 +12,7 @@ pathway_score: 0.7615303
 filename: carcinbgr139f01_lw.jpg
 figtitle: Sex steroid hormone biosynthesis and metabolism pathway
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -87,4 +86,7 @@ chemicals:
   source: MESH
   identifier: D018120
 diseases: []
+figid_alias: PMC3179424__F1
+redirect_from: /figures/PMC3179424__F1
+figtype: Figure
 ---

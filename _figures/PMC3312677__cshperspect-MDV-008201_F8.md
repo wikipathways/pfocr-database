@@ -1,7 +1,7 @@
 ---
 figid: PMC3312677__cshperspect-MDV-008201_F8
 figlink: /pmc/articles/PMC3312677/figure/A008201F8/
-number: Figure 8
+number: F8
 caption: Genetic pathways involved in the regulation of the Mesp2 pathway. (A) Mesp2
   expression is activated by Notch signaling and Tbx6. Mesp2 then activates its downstream
   target genes such as Ripply2, EphA4, and L-fng. Ripply2 is involved in the suppression
@@ -139,4 +139,7 @@ genes:
   entrez: '4854'
 chemicals: []
 diseases: []
+figid_alias: PMC3312677__F8
+redirect_from: /figures/PMC3312677__F8
+figtype: Figure
 ---

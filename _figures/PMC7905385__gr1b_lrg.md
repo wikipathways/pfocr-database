@@ -1,7 +1,7 @@
 ---
 figid: PMC7905385__gr1b_lrg
 figlink: pmc/articles/PMC7905385/figure/fig1b/
-number: Fig. 1b
+number: F1b
 caption: Immune response, immunopathology, and mechanism of action of immunotherapeutics
   for SARS-CoV-2 infection (intracellular). Inhibitory effects represented by red
   lines, while activating effects represented by green lines. Created withBioRender.comThe
@@ -60,8 +60,7 @@ filename: gr1b_lrg.jpg
 figtitle: Immune response, immunopathology, and mechanism of action of immunotherapeutics
   for SARS-CoV-2 infection (intracellular)
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -677,4 +676,7 @@ diseases:
 - word: SIP
   source: ''
   identifier: ''
+figid_alias: PMC7905385__F1b
+redirect_from: /figures/PMC7905385__F1b
+figtype: Figure
 ---

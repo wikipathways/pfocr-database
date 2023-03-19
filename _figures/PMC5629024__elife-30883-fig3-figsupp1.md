@@ -1,7 +1,7 @@
 ---
 figid: PMC5629024__elife-30883-fig3-figsupp1
 figlink: /pmc/articles/PMC5629024/figure/fig3s1/
-number: Figure 3—figure supplement 1
+number: SF3_1
 caption: Interactions among the genes were assessed and visualized by Ingenuity Pathway
   Analysis (IPA) database. Darker colors represent higher expression in (A) Myd88−/−
   (blue) or in (B) WT (red) CD4+ T cells sorted from the pool of splenocytes obtained
@@ -228,4 +228,7 @@ chemicals:
   source: MESH
   identifier: D014212
 diseases: []
+figid_alias: PMC5629024__SF3_1
+redirect_from: /figures/PMC5629024__SF3_1
+figtype: Supplemental figure
 ---

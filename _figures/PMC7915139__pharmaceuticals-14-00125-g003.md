@@ -1,7 +1,7 @@
 ---
 figid: PMC7915139__pharmaceuticals-14-00125-g003
 figlink: pmc/articles/PMC7915139/figure/pharmaceuticals-14-00125-f003/
-number: Figure 3
+number: F3
 caption: 'Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-β-cyclodextrin
   (MβCD) on pigments and terpenes biosynthesis in C. reinhardtii UVM4, based on the
   results of this study. Ergosterol and 7-dehydroporiferasterol are the predominant
@@ -25,8 +25,7 @@ filename: pharmaceuticals-14-00125-g003.jpg
 figtitle: Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-Beta-cyclodextrin
   (MBCD) on pigments and terpenes biosynthesis in C
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -122,4 +121,7 @@ diseases:
 - word: MBCD
   source: MESH
   identifier: C566487
+figid_alias: PMC7915139__F3
+redirect_from: /figures/PMC7915139__F3
+figtype: Figure
 ---

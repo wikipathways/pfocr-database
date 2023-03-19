@@ -1,7 +1,7 @@
 ---
 figid: PMC5411695__cshperspect-CIL-028175_F1
 figlink: /pmc/articles/PMC5411695/figure/A028175F1/
-number: Figure 1
+number: F1
 caption: The backbone of the Hedgehog (Hh) signal transduction pathway. The core of
   the Hh signaling pathway is conserved between Drosophila and vertebrates. In the
   absence of ligand, the Hh receptor Patched (PTCH1) keeps the pathway off by inhibiting
@@ -20,8 +20,7 @@ pathway_score: 0.9514648
 filename: cshperspect-CIL-028175_F1.jpg
 figtitle: The backbone of the Hedgehog (Hh) signal transduction pathway
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -66,4 +65,7 @@ genes:
   entrez: '6469'
 chemicals: []
 diseases: []
+figid_alias: PMC5411695__F1
+redirect_from: /figures/PMC5411695__F1
+figtype: Figure
 ---

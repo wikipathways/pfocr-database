@@ -1,7 +1,7 @@
 ---
 figid: PMC3536334__cshperspect-CSD-008789_F3
 figlink: /pmc/articles/PMC3536334/figure/A008789F3/
-number: Figure 3
+number: F3
 caption: PTEN acts as the endogenous antagonist of the PI3K-regulated growth pathway.
   PTEN breaks down the key signaling intermediate PIP3, thereby inhibiting downstream
   signaling mediated by AKT and TOR. Thus, PTEN negates PI3K’s ability to drive proliferation,
@@ -140,4 +140,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3536334__F3
+redirect_from: /figures/PMC3536334__F3
+figtype: Figure
 ---

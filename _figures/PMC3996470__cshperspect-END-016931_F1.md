@@ -1,7 +1,7 @@
 ---
 figid: PMC3996470__cshperspect-END-016931_F1
 figlink: /pmc/articles/PMC3996470/figure/A016931F1/
-number: Figure 1
+number: F1
 caption: Receptor-mediated endocytic pathway in nonpolarized mammalian cells. The
   main pathways following clathrin-mediated endocytosis are illustrated. The pH of
   various organelles and the kinetics of passage between organelles are shown. LDL
@@ -17,8 +17,7 @@ pathway_score: 0.9354365
 filename: cshperspect-END-016931_F1.jpg
 figtitle: Receptor-mediated endocytic pathway in nonpolarized mammalian cells
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -70,4 +69,7 @@ chemicals:
   source: MESH
   identifier: D002784
 diseases: []
+figid_alias: PMC3996470__F1
+redirect_from: /figures/PMC3996470__F1
+figtype: Figure
 ---

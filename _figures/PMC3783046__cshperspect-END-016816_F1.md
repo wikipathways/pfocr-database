@@ -1,7 +1,7 @@
 ---
 figid: PMC3783046__cshperspect-END-016816_F1
 figlink: /pmc/articles/PMC3783046/figure/A016816F1/
-number: Figure 1
+number: F1
 caption: Organization of the endosomal pathway. In mammalian cells but perhaps not
   in yeast, the endocytic pathway can be divided into two functional territories,
   recycling/reutilization vs. degradation, which are linked by membrane transport.
@@ -28,8 +28,7 @@ pathway_score: 0.9537777
 filename: cshperspect-END-016816_F1.jpg
 figtitle: Organization of the endosomal pathway
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -93,4 +92,7 @@ chemicals:
   source: MESH
   identifier: D002784
 diseases: []
+figid_alias: PMC3783046__F1
+redirect_from: /figures/PMC3783046__F1
+figtype: Figure
 ---

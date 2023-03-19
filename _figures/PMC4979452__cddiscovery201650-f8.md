@@ -1,7 +1,7 @@
 ---
 figid: PMC4979452__cddiscovery201650-f8
 figlink: /pmc/articles/PMC4979452/figure/fig8/
-number: Figure 8
+number: F8
 caption: 'Cytoskeleton remodeling and axonal transport. The cytoskeleton consists
   of three distinct, yet interconnected filament systems: microfilaments (actin filaments),
   intermediate filaments (IFs) and microtubules. Microfilaments are the thinnest filaments
@@ -422,4 +422,7 @@ genes:
   entrez: '84617'
 chemicals: []
 diseases: []
+figid_alias: PMC4979452__F8
+redirect_from: /figures/PMC4979452__F8
+figtype: Figure
 ---

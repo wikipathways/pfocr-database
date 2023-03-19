@@ -1,7 +1,7 @@
 ---
 figid: PMC6765153__jclintranslres-5-033-g002
 figlink: /pmc/articles/PMC6765153/figure/F2/
-number: Figure 2
+number: F2
 caption: . A network analysis of predicted targets of miR-29-3p, miR-584-5p, and miR-1247-5p
   as performed by ingenuity pathway analysis (IPA). Nodes represent signaling pathways,
   and lines are protein targets that are common between nodes. Nodes labeled with
@@ -119,4 +119,7 @@ diseases:
 - word: Rheumatoid Arthritis
   source: MESH
   identifier: D001172
+figid_alias: PMC6765153__F2
+redirect_from: /figures/PMC6765153__F2
+figtype: Figure
 ---

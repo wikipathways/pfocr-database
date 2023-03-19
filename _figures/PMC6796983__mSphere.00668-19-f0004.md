@@ -1,7 +1,7 @@
 ---
 figid: PMC6796983__mSphere.00668-19-f0004
 figlink: /pmc/articles/PMC6796983/figure/fig4/
-number: FIG 4
+number: F4
 caption: Schematic diagram of PHB, carotenoid, and gellan production in Sphingomonas
   elodea ATCC 31461. The common synthetic pathway is shown on the black arrow. The
   pathway for gellan biosynthesis includes the synthesis of the three-nucleotide sugar
@@ -21,8 +21,7 @@ filename: mSphere.00668-19-f0004.jpg
 figtitle: Schematic diagram of PHB, carotenoid, and gellan production in Sphingomonas
   elodea ATCC 31461
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -164,4 +163,7 @@ diseases:
 - word: "Glucose-6-P \x1F Glucose-1-P \x1F 'TDP-Rhamnose"
   source: MESH
   identifier: C000656865
+figid_alias: PMC6796983__F4
+redirect_from: /figures/PMC6796983__F4
+figtype: Figure
 ---

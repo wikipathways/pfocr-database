@@ -1,7 +1,7 @@
 ---
 figid: PMC6967385__mSystems.00451-19-f0002
 figlink: pmc/articles/PMC6967385/figure/fig2/
-number: FIG 2
+number: F2
 caption: Mouse gene expression affected by biofilm status. (A) PCA of mouse transcriptomes
   from BF+T and BF-bx mice (N = 5 per group). (B) PPAR signaling pathway depicting
   genes significantly increased in BF+T associated mice in red. See Table S2 at https://figshare.com/s/4b593b780f756a4acf69
@@ -16,8 +16,7 @@ pathway_score: 0.883728
 filename: mSystems.00451-19-f0002.jpg
 figtitle: Mouse gene expression affected by biofilm status
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -387,4 +386,7 @@ diseases:
 - word: MCAD
   source: MESH
   identifier: C536038
+figid_alias: PMC6967385__F2
+redirect_from: /figures/PMC6967385__F2
+figtype: Figure
 ---

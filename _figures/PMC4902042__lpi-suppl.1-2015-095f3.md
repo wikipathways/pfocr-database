@@ -1,7 +1,7 @@
 ---
 figid: PMC4902042__lpi-suppl.1-2015-095f3
 figlink: /pmc/articles/PMC4902042/figure/f3-lpi-suppl.1-2015-095/
-number: Figure 3
+number: F3
 caption: 'Schematic pathway of DHE synthesis and possible side pathways. The chemical
   structure of ergosterol (A) and that of DHE having only one additional double located
   in the C-ring (B). (C) Synthesis of DHE from ergosterol and the possible side reactions
@@ -17,8 +17,7 @@ pathway_score: 0.8722184
 filename: lpi-suppl.1-2015-095f3.jpg
 figtitle: Schematic pathway of DHE synthesis and possible side pathways
 year: '2015'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -61,4 +60,7 @@ chemicals:
   source: MESH
   identifier: D012972
 diseases: []
+figid_alias: PMC4902042__F3
+redirect_from: /figures/PMC4902042__F3
+figtype: Figure
 ---

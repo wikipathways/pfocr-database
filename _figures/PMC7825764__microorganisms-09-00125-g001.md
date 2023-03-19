@@ -1,7 +1,7 @@
 ---
 figid: PMC7825764__microorganisms-09-00125-g001
 figlink: pmc/articles/PMC7825764/figure/microorganisms-09-00125-f001/
-number: Figure 1
+number: F1
 caption: Pathway of ethylene synthesis and reduction in its level through substrate
   mobilization. S-AdoMet or SAM, S-adenosylmethionine; MTA, Methylthioadenosine; ACC,
   1-aminocyclopropane-1-carboxylic acid.
@@ -15,8 +15,7 @@ filename: microorganisms-09-00125-g001.jpg
 figtitle: Pathway of ethylene synthesis and reduction in its level through substrate
   mobilization
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -100,4 +99,7 @@ chemicals:
   source: MESH
   identifier: D005030
 diseases: []
+figid_alias: PMC7825764__F1
+redirect_from: /figures/PMC7825764__F1
+figtype: Figure
 ---

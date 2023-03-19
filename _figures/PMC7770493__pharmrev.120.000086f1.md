@@ -1,7 +1,7 @@
 ---
 figid: PMC7770493__pharmrev.120.000086f1
 figlink: pmc/articles/PMC7770493/figure/F1/
-number: Fig. 1
+number: F1
 caption: Plasma membrane and primary cilium cAMP signalosomes. A selection of the
   signalosomes that localize at the plasma membrane and primary cilium are illustrated.
   PKA-dependent phosphorylation is indicated in yellow. The cellular function that
@@ -20,8 +20,7 @@ pathway_score: 0.9391506
 filename: pharmrev.120.000086f1.jpg
 figtitle: Plasma membrane and primary cilium cAMP signalosomes
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -312,4 +311,7 @@ chemicals:
   source: MESH
   identifier: D018350
 diseases: []
+figid_alias: PMC7770493__F1
+redirect_from: /figures/PMC7770493__F1
+figtype: Figure
 ---

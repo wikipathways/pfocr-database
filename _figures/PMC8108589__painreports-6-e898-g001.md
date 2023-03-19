@@ -1,7 +1,7 @@
 ---
 figid: PMC8108589__painreports-6-e898-g001
 figlink: pmc/articles/PMC8108589/figure/F1/
-number: Figure 1
+number: F1
 caption: 'Proinflammatory pathways regulated by LRP-1: The interaction between LRP-1
   and ApoE represses the formation of IRAK1–TRAF6 complex and therefore the NFκB-mediated
   pathway. Shedding of LRP-1 releases the extracellular soluble LRP-1 (sLRP-1) and
@@ -29,8 +29,7 @@ figtitle: 'Proinflammatory pathways regulated by LRP-1: The interaction between 
   and ApoE represses the formation of IRAK1–TRAF6 complex and therefore the NFKB-mediated
   pathway'
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -214,4 +213,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC8108589__F1
+redirect_from: /figures/PMC8108589__F1
+figtype: Figure
 ---

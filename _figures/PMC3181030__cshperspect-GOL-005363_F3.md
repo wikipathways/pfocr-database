@@ -1,7 +1,7 @@
 ---
 figid: PMC3181030__cshperspect-GOL-005363_F3
 figlink: /pmc/articles/PMC3181030/figure/A005363F3/
-number: Figure 3
+number: F3
 caption: A model for differentially regulating Numb and Notch signaling during mammalian
   neurogenesis through Golgi fragmentation and reconstitution. In this model, the
   mammalian Numb proteins, Numb and Numbl (in green), inhibit Notch signaling to specify
@@ -24,8 +24,7 @@ filename: cshperspect-GOL-005363_F3.jpg
 figtitle: A model for differentially regulating Numb and Notch signaling during mammalian
   neurogenesis through Golgi fragmentation and reconstitution
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -92,4 +91,7 @@ genes:
   entrez: '8650'
 chemicals: []
 diseases: []
+figid_alias: PMC3181030__F3
+redirect_from: /figures/PMC3181030__F3
+figtype: Figure
 ---

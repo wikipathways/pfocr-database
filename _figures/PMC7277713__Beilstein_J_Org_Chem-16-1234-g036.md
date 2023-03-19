@@ -1,7 +1,7 @@
 ---
 figid: PMC7277713__Beilstein_J_Org_Chem-16-1234-g036
 figlink: pmc/articles/PMC7277713/figure/C31/
-number: Scheme 31
+number: S31
 caption: Possible pathway of one-pot oxidative cyclization of α-halogenated ketoximes
   and 1,3-dicarbonyl compounds.
 pmcid: PMC7277713
@@ -13,8 +13,7 @@ filename: Beilstein_J_Org_Chem-16-1234-g036.jpg
 figtitle: Possible pathway of one-pot oxidative cyclization of Alpha-halogenated ketoximes
   and 1,3-dicarbonyl compounds
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -56,4 +55,7 @@ chemicals:
   source: MESH
   identifier: D013481
 diseases: []
+figid_alias: PMC7277713__S31
+redirect_from: /figures/PMC7277713__S31
+figtype: Scheme
 ---

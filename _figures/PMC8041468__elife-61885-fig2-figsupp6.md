@@ -1,7 +1,7 @@
 ---
 figid: PMC8041468__elife-61885-fig2-figsupp6
 figlink: pmc/articles/PMC8041468/figure/fig2s6/
-number: Figure 2—figure supplement 6
+number: SF2_6
 caption: (A) Network illustrates the regulatory relationship between TFs and their
   target genes in motility pathway. Circles indicate TF proteins, and squares indicate
   target genes. Red arrows show the binding sites located in the putative promoters
@@ -23,8 +23,7 @@ pathway_score: 0.7102554
 filename: elife-61885-fig2-figsupp6.jpg
 figtitle: Transcriptional regulation in motility pathway
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -89,4 +88,7 @@ genes:
   entrez: '93643'
 chemicals: []
 diseases: []
+figid_alias: PMC8041468__SF2_6
+redirect_from: /figures/PMC8041468__SF2_6
+figtype: Supplemental figure
 ---

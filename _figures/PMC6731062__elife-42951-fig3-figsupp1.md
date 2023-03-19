@@ -1,7 +1,7 @@
 ---
 figid: PMC6731062__elife-42951-fig3-figsupp1
 figlink: /pmc/articles/PMC6731062/figure/fig3s1/
-number: Figure 3—figure supplement 1
+number: SF3_1
 caption: Green- and red-shaded nodes indicate downregulated and upregulated protein
   expression, respectively, but no log2-ratio or P-value constraints were used.
 pmcid: PMC6731062
@@ -201,4 +201,7 @@ diseases:
 - word: AD
   source: MESH
   identifier: D000544
+figid_alias: PMC6731062__SF3_1
+redirect_from: /figures/PMC6731062__SF3_1
+figtype: Supplemental figure
 ---

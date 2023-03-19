@@ -1,7 +1,7 @@
 ---
 figid: PMC4930925__cshperspect-STH-023895_F4
 figlink: /pmc/articles/PMC4930925/figure/A023895F4/
-number: Figure 4
+number: F4
 caption: Gene circuits for biomedical applications. (A) Closed-loop gene circuit designed
   to detect elevated uric acid levels. Uric acid is transported by URAT1 into the
   cell, where it binds to the engineered uric acid sensor mUTS. This interaction induces
@@ -207,4 +207,7 @@ chemicals:
   source: MESH
   identifier: D014527
 diseases: []
+figid_alias: PMC4930925__F4
+redirect_from: /figures/PMC4930925__F4
+figtype: Figure
 ---

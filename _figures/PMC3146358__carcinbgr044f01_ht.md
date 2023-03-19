@@ -1,7 +1,7 @@
 ---
 figid: PMC3146358__carcinbgr044f01_ht
 figlink: /pmc/articles/PMC3146358/figure/fig1/
-number: Fig. 1
+number: F1
 caption: Metabolism of AA by the 5-LO pathway. AA is initially converted by 5-LO in
   the presence of FLAP to 5-HpETE, which is either further converted to LTA4 by 5-LO
   or lost from the enzyme and converted to 5-HETE by glutathione peroxidase (GPx).
@@ -19,8 +19,7 @@ pathway_score: 0.8904948
 filename: carcinbgr044f01_ht.jpg
 figtitle: Metabolism of AA by the 5-LO pathway
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -114,4 +113,7 @@ chemicals:
   source: MESH
   identifier: D019803
 diseases: []
+figid_alias: PMC3146358__F1
+redirect_from: /figures/PMC3146358__F1
+figtype: Figure
 ---

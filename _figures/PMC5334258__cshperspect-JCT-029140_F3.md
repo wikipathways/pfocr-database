@@ -1,7 +1,7 @@
 ---
 figid: PMC5334258__cshperspect-JCT-029140_F3
 figlink: /pmc/articles/PMC5334258/figure/A029140F3/
-number: Figure 3
+number: F3
 caption: Trafficking pathways of E-cadherin. E-cadherin can undergo either clathrin-dependent
   or independent endocytosis. Internalized E-cadherin traffic through different endosomal
   compartments. Numerous molecules and endocytic machineries determine the fate of
@@ -161,4 +161,7 @@ genes:
   entrez: '23513'
 chemicals: []
 diseases: []
+figid_alias: PMC5334258__F3
+redirect_from: /figures/PMC5334258__F3
+figtype: Figure
 ---

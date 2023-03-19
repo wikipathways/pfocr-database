@@ -1,7 +1,7 @@
 ---
 figid: PMC7938660__pharmrev.120.000149f1
 figlink: pmc/articles/PMC7938660/figure/F1/
-number: Fig. 1
+number: F1
 caption: Metabolic formation of hydroxynorketamines from ketamine. (R,S)-ketamine
   (KET) is N-demethylated to form (R,S)-norketamine (norKET), which is then further
   metabolized to form the HNKs and dehydronorketamine (DHNK). Via this pathway, (R,S)-norKET
@@ -16,8 +16,7 @@ pathway_score: 0.842675
 filename: pharmrev.120.000149f1.jpg
 figtitle: Metabolic formation of hydroxynorketamines from ketamine
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -125,4 +124,7 @@ chemicals:
   source: MESH
   identifier: D018959
 diseases: []
+figid_alias: PMC7938660__F1
+redirect_from: /figures/PMC7938660__F1
+figtype: Figure
 ---

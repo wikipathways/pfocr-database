@@ -1,7 +1,7 @@
 ---
 figid: PMC3367549__cshperspect-MDV-008151_F5
 figlink: /pmc/articles/PMC3367549/figure/A008151F5/
-number: Figure 5
+number: F5
 caption: The Notch pathway. Binding of the extracellular domain of the Notch receptor
   to Delta and Serrate/Jagged/LAG-2 (DSL) ligand on an adjacent cell induces a conformational
   change in Notch that exposes an extracellular ADAM10/TACE cleavage site. A subsequent
@@ -115,4 +115,7 @@ genes:
   entrez: '388585'
 chemicals: []
 diseases: []
+figid_alias: PMC3367549__F5
+redirect_from: /figures/PMC3367549__F5
+figtype: Figure
 ---

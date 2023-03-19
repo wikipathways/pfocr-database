@@ -1,7 +1,7 @@
 ---
 figid: PMC7760252__pharmaceuticals-13-00418-g003
 figlink: pmc/articles/PMC7760252/figure/pharmaceuticals-13-00418-f003/
-number: Figure 3
+number: F3
 caption: Overview of CDK4/6 and MAPK inhibitors. (a) FDA approved small-molecule inhibitors
   palbociclib, abemaciclib and ribociclib bind to CDK4/6 and prevent phosphorylation
   of Rb (indicated by the star symbol), which can result in cell cycle arrest in the
@@ -20,8 +20,7 @@ pathway_score: 0.9555662
 filename: pharmaceuticals-13-00418-g003.jpg
 figtitle: CDK4/6 and MAPK inhibitors
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -312,4 +311,7 @@ diseases:
 - word: tumor
   source: MESH
   identifier: D009369
+figid_alias: PMC7760252__F3
+redirect_from: /figures/PMC7760252__F3
+figtype: Figure
 ---

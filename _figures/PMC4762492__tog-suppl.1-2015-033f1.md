@@ -1,7 +1,7 @@
 ---
 figid: PMC4762492__tog-suppl.1-2015-033f1
 figlink: /pmc/articles/PMC4762492/figure/f1-tog-suppl.1-2015-033/
-number: Figure 1
+number: F1
 caption: 'The PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each
   of its components.Note: RSK, 90 kDa ribosomal protein S6 kinase. Adapted by permission
   from Macmillan Publishers Ltd: Nature Reviews Clinical Oncology, Rodon et al.28,
@@ -454,4 +454,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC4762492__F1
+redirect_from: /figures/PMC4762492__F1
+figtype: Figure
 ---

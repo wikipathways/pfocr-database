@@ -1,7 +1,7 @@
 ---
 figid: PMC6169812__cshperspect-JCT-029322_F1
 figlink: pmc/articles/PMC6169812/figure/A029322F1/
-number: Figure 1
+number: F1
 caption: New interactors of endothelial adherens junctions (AJs). Recently described
   interactors of VE-cadherin complexes and their functions in nascent (A) and stabilized
   (B) endothelial AJs are represented as discussed in the text. In addition, in (A),
@@ -23,8 +23,7 @@ pathway_score: 0.9002025
 filename: cshperspect-JCT-029322_F1.jpg
 figtitle: New interactors of endothelial adherens junctions (AJs)
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -312,4 +311,7 @@ chemicals:
   source: MESH
   identifier: C043055
 diseases: []
+figid_alias: PMC6169812__F1
+redirect_from: /figures/PMC6169812__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3869250__Beilstein_J_Org_Chem-09-2556-g004
 figlink: /pmc/articles/PMC3869250/figure/F3/
-number: Figure 3
+number: F3
 caption: Proposed biosynthetic pathway for antimycins. The antimycin biosynthetic
   pathway is described in detail in the text. C = condensation; A, adenylation; T,
   thiolation; KR, ketoreduction; KS, ketosynthase; AT, acyltransferase; ACP, acyl
@@ -101,4 +101,7 @@ chemicals:
   source: MESH
   identifier: D013912
 diseases: []
+figid_alias: PMC3869250__F3
+redirect_from: /figures/PMC3869250__F3
+figtype: Figure
 ---

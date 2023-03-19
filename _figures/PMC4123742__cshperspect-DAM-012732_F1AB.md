@@ -1,7 +1,7 @@
 ---
 figid: PMC4123742__cshperspect-DAM-012732_F1AB
 figlink: /pmc/articles/PMC149053/figure/fig7/
-number: ''
+number: F7
 caption: '(A) Overview of the important steps in Fanconi anemia (FA) signaling pathway.
   Damage signaling begins with the recruitment of FANCM, FAAP24, and MHF to a stalled
   replication fork, binding to the unwound DNA. Remodeling of the fork by FANCM leads
@@ -310,4 +310,7 @@ diseases:
 - word: Fanconi anemia
   source: ''
   identifier: ''
+figid_alias: PMC4123742__F7
+redirect_from: /figures/PMC4123742__F7
+figtype: Figure
 ---

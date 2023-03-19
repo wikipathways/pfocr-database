@@ -1,7 +1,7 @@
 ---
 figid: PMC5585852__cshperspect-TGF-027987_F5
 figlink: /pmc/articles/PMC5585852/figure/A027987F5/
-number: Figure 5
+number: F5
 caption: An “integrator” role for Smad3 in the maintenance of chronic myelogenous
   leukemia (CML) stemness. Smad3 participates in nutrient-activated p38 mitogen-activated
   protein kinase (MAPK) signaling that supports CML stem cell self-renewal and in
@@ -171,4 +171,7 @@ genes:
   entrez: '7046'
 chemicals: []
 diseases: []
+figid_alias: PMC5585852__F5
+redirect_from: /figures/PMC5585852__F5
+figtype: Figure
 ---

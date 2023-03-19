@@ -1,7 +1,7 @@
 ---
 figid: PMC3405855__cshperspect-CSD-008797_F3
 figlink: /pmc/articles/PMC3405855/figure/A008797F3/
-number: Figure 3
+number: F3
 caption: Distinct types of apoptosis-induced proliferation in Drosophila. (A) The
   effector caspase-independent pathway. Induction of apoptosis in the presence of
   P35 produces undead cells because of effector caspase inhibition. The initiator
@@ -157,4 +157,7 @@ genes:
   entrez: '841'
 chemicals: []
 diseases: []
+figid_alias: PMC3405855__F3
+redirect_from: /figures/PMC3405855__F3
+figtype: Figure
 ---

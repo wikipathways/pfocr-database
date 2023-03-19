@@ -1,7 +1,7 @@
 ---
 figid: PMC4413232__cshperspect-EPI-019331_F10
 figlink: /pmc/articles/PMC4413232/figure/A019331F10/
-number: Figure 10
+number: F10
 caption: Sonic Hedgehog signaling maintains proliferation/self-renewal of cerebellar
   progenitor cells. The Shh signaling cascade regulates both the Rb pathway (which
   can be bound by the PRC2 RbAp48 protein) as well as the p53 pathway via Bmi1 control
@@ -106,4 +106,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC4413232__F10
+redirect_from: /figures/PMC4413232__F10
+figtype: Figure
 ---

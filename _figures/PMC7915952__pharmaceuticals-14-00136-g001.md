@@ -1,7 +1,7 @@
 ---
 figid: PMC7915952__pharmaceuticals-14-00136-g001
 figlink: pmc/articles/PMC7915952/figure/pharmaceuticals-14-00136-f001/
-number: Figure 1
+number: F1
 caption: The canonical pathway of microRNA (miRNA) processing. In the nucleus, miRNA
   biogenesis is initiated with RNA polymerase II. Pri-miRNA with a hairpin transcript
   is further processed to pre-miRNA by the DGCR8/Drosha microprocessor complex. The
@@ -19,8 +19,7 @@ pathway_score: 0.965447
 filename: pharmaceuticals-14-00136-g001.jpg
 figtitle: Canonical pathway of microRNA (miRNA) processing
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,4 +74,7 @@ genes:
   entrez: '29102'
 chemicals: []
 diseases: []
+figid_alias: PMC7915952__F1
+redirect_from: /figures/PMC7915952__F1
+figtype: Figure
 ---

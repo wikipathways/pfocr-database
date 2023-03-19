@@ -1,7 +1,7 @@
 ---
 figid: PMC3385942__cshperspectmed-ADD-012070_F4
 figlink: /pmc/articles/PMC3385942/figure/A012070F4/
-number: Figure 4
+number: F4
 caption: Up-regulation of the cAMP pathway in LC as a mechanism of opiate tolerance
   and dependence. Top panel, Opiates acutely inhibit the functional activity of the
   cAMP pathway (indicated by cellular levels of cAMP and cAMP-dependent protein phosphorylation).
@@ -277,4 +277,7 @@ chemicals:
   source: MESH
   identifier: D009270
 diseases: []
+figid_alias: PMC3385942__F4
+redirect_from: /figures/PMC3385942__F4
+figtype: Figure
 ---

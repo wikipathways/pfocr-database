@@ -1,7 +1,7 @@
 ---
 figid: PMC5374431__pharmaceuticals-10-00027-g001a
 figlink: /pmc/articles/PMC149053/figure/fig7/
-number: ''
+number: F1a
 caption: 'CK2-centered functional association network represented with the database
   STRING v10.0. (A) The network shows the top 50 human genes related to CK2 subunits
   CSNK2A1, CSNK2A2, and CSNK2B (number of nodes and edges: 53 and 369, respectively)
@@ -362,4 +362,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC5374431__F1a
+redirect_from: /figures/PMC5374431__F1a
+figtype: Figure
 ---

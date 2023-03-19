@@ -1,7 +1,7 @@
 ---
 figid: PMC7568652__mSphere.00803-20-f0004
 figlink: pmc/articles/PMC7568652/figure/fig4/
-number: FIG 4
+number: F4
 caption: CNTF pathway genes upregulated (red) or downregulated (green) by exposure
   of primary human keratinocytes to TSST-1 (100 μg/ml) or SEB (100 μg/ml) in triplicate
   assays for 6 h exposure time.
@@ -15,8 +15,7 @@ figtitle: CNTF pathway genes upregulated (red) or downregulated (green) by expos
   of primary human keratinocytes to TSST-1 (100 μg/ml) or SEB (100 μg/ml) in triplicate
   assays for 6 h exposure time
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -288,4 +287,7 @@ genes:
   entrez: '8986'
 chemicals: []
 diseases: []
+figid_alias: PMC7568652__F4
+redirect_from: /figures/PMC7568652__F4
+figtype: Figure
 ---

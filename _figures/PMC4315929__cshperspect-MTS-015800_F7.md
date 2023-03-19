@@ -1,7 +1,7 @@
 ---
 figid: PMC4315929__cshperspect-MTS-015800_F7
 figlink: /pmc/articles/PMC4315929/figure/A015800F7/
-number: Figure 7
+number: F7
 caption: Cilia assembly and disassembly cycle. Role of Plk1 and Aurora A in activating
   tubulin deacetylation for cilia disassembly (left). Cilia assembly pathway (right).
 pmcid: PMC4315929
@@ -229,4 +229,7 @@ genes:
   entrez: '7846'
 chemicals: []
 diseases: []
+figid_alias: PMC4315929__F7
+redirect_from: /figures/PMC4315929__F7
+figtype: Figure
 ---

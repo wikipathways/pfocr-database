@@ -1,7 +1,7 @@
 ---
 figid: PMC7918557__microorganisms-09-00371-g002
 figlink: pmc/articles/PMC7918557/figure/microorganisms-09-00371-f002/
-number: Figure 2
+number: F2
 caption: Proposed pathway for conversion from CA to DCA via 7α-dehydroxylation. This
   metabolic pathway converts CA to DCA or converts CDCA to LCA in eight steps. Abb.
   BaiB, bile acid-coenzyme A ligase; BaiA2, 3α-hydroxysteroid dehydrogenase; BaiCD,
@@ -17,8 +17,7 @@ pathway_score: 0.9749052
 filename: microorganisms-09-00371-g002.jpg
 figtitle: Proposed pathway for conversion from CA to DCA via 7Alpha-dehydroxylation
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -69,4 +68,7 @@ chemicals:
   source: MESH
   identifier: C048628
 diseases: []
+figid_alias: PMC7918557__F2
+redirect_from: /figures/PMC7918557__F2
+figtype: Figure
 ---

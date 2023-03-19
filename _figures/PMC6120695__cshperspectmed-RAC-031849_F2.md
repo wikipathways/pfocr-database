@@ -1,7 +1,7 @@
 ---
 figid: PMC6120695__cshperspectmed-RAC-031849_F2
 figlink: pmc/articles/PMC6120695/figure/A031849F2/
-number: Figure 2
+number: F2
 caption: Secreted immunomodulatory factors transcriptionally induced by oncogenic
   Kras signaling. Transforming growth factor β (TGF-β) and granulocyte macrophage
   colony-stimulating factor (GM-CSF) are regulated via the concerted action of mitogen-activated
@@ -18,8 +18,7 @@ filename: cshperspectmed-RAC-031849_F2.jpg
 figtitle: Secreted immunomodulatory factors transcriptionally induced by oncogenic
   Kras signaling
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -267,4 +266,7 @@ genes:
   entrez: '1437'
 chemicals: []
 diseases: []
+figid_alias: PMC6120695__F2
+redirect_from: /figures/PMC6120695__F2
+figtype: Figure
 ---

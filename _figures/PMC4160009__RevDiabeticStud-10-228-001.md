@@ -1,7 +1,7 @@
 ---
 figid: PMC4160009__RevDiabeticStud-10-228-001
 figlink: /pmc/articles/PMC4160009/figure/F1/
-number: Figure 1
+number: F1
 caption: Metformin activates adenosine-monophosphate-activated protein kinase (AMPK),
   which phosphorylates the target of rapamycin complex 2 (TORC2), thereby blocking
   its nuclear translocation and transcription of the genes involved in gluconeogenesis.
@@ -15,8 +15,7 @@ pathway_score: 0.8772407
 filename: RevDiabeticStud-10-228-001.jpg
 figtitle: Metformin and Cancer
 year: '2013'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -97,4 +96,7 @@ chemicals:
   source: MESH
   identifier: D008687
 diseases: []
+figid_alias: PMC4160009__F1
+redirect_from: /figures/PMC4160009__F1
+figtype: Figure
 ---

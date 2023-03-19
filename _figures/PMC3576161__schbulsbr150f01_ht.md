@@ -1,7 +1,7 @@
 ---
 figid: PMC3576161__schbulsbr150f01_ht
 figlink: /pmc/articles/PMC3576161/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'The folate metabolic pathway. THF: tetrahydrofolate; Met: methionine; SAM:
   S-adenosylmethionine; SAH: S-adenosyl homocysteine; Hcy: homocysteine.'
 pmcid: PMC3576161
@@ -112,4 +112,7 @@ chemicals:
   source: MESH
   identifier: D008715
 diseases: []
+figid_alias: PMC3576161__F1
+redirect_from: /figures/PMC3576161__F1
+figtype: Figure
 ---

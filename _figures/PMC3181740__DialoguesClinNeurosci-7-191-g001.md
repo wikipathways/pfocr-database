@@ -1,7 +1,7 @@
 ---
 figid: PMC3181740__DialoguesClinNeurosci-7-191-g001
 figlink: /pmc/articles/PMC3181740/figure/DialoguesClinNeurosci-7-191-g001/
-number: Figure 1
+number: F1
 caption: 'Neuroplasticity and cellular resilience in mood disorders; the multiple
   influences on neuroplasticity and cellular resilience in mood disorders. Genetic/neurodevelopmental
   factors, repeated affective episodes, and illness progression might all contribute
@@ -296,4 +296,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3181740__F1
+redirect_from: /figures/PMC3181740__F1
+figtype: Figure
 ---

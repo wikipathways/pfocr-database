@@ -1,7 +1,7 @@
 ---
 figid: PMC3388835__jexboters010f01_ht
 figlink: /pmc/articles/PMC3388835/figure/fig1/
-number: Fig. 1
+number: F1
 caption: 'Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
   and 13-LOX branches. The steps catalysed by 9-LOX enzymes encoded by up-regulated
   genes identified by microarray analysis in mycorrhizal tomato roots (; López-Ráez
@@ -20,8 +20,7 @@ filename: jexboters010f01_ht.jpg
 figtitle: Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
   and 13-LOX branches
 year: '2012'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -80,4 +79,7 @@ chemicals:
   source: MESH
   identifier: D009829
 diseases: []
+figid_alias: PMC3388835__F1
+redirect_from: /figures/PMC3388835__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4817799__cshperspect-AND-018838_F4
 figlink: /pmc/articles/PMC4817799/figure/A018838F4/
-number: Figure 4
+number: F4
 caption: Regulation of neural precursor plasticity within the classical neurogenic
   zones. Schematic illustration of example factors and manipulations known to regulate
   cell genesis in the adult subgranular zone (SGZ) (A) and subventricular zone (SVZ)
@@ -161,4 +161,7 @@ chemicals:
   source: MESH
   identifier: D008244
 diseases: []
+figid_alias: PMC4817799__F4
+redirect_from: /figures/PMC4817799__F4
+figtype: Figure
 ---

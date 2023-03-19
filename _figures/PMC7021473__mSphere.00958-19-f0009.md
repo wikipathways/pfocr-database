@@ -1,7 +1,7 @@
 ---
 figid: PMC7021473__mSphere.00958-19-f0009
 figlink: pmc/articles/PMC7021473/figure/fig9/
-number: FIG 9
+number: F9
 caption: Differentially expressed genes (DEGs) involved in major metabolic pathways
   during development from the mature spore to the sporoplasm. The DEGs were mapped
   to the KEGG pathway database. Significantly changed pathways involved trehalose
@@ -19,8 +19,7 @@ filename: mSphere.00958-19-f0009.jpg
 figtitle: Differentially expressed genes (DEGs) involved in major metabolic pathways
   during development from the mature spore to the sporoplasm
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -245,4 +244,7 @@ chemicals:
   source: MESH
   identifier: D000596
 diseases: []
+figid_alias: PMC7021473__F9
+redirect_from: /figures/PMC7021473__F9
+figtype: Figure
 ---

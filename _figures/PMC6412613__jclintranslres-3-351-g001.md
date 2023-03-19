@@ -1,7 +1,7 @@
 ---
 figid: PMC6412613__jclintranslres-3-351-g001
 figlink: /pmc/articles/PMC6412613/figure/jclintranslres-3-351-g001/
-number: Figure 1
+number: F1
 caption: Endothelial cell release of VWF upon stimulation with DDAVP [,]. VWF is packaged
   into elongated secretory storage organelles designated Weibel-Palade bodies (WPBs)
   in endothelial cells. Upon DDAVP stimulation, WPBs release VWF indirectly by acting
@@ -22,8 +22,7 @@ pathway_score: 0.8580502
 filename: jclintranslres-3-351-g001.jpg
 figtitle: Endothelial cell release of VWF upon stimulation with DDAVP [,]
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -105,4 +104,7 @@ genes:
   entrez: '5568'
 chemicals: []
 diseases: []
+figid_alias: PMC6412613__F1
+redirect_from: /figures/PMC6412613__F1
+figtype: Figure
 ---

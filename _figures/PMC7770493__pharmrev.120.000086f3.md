@@ -1,7 +1,7 @@
 ---
 figid: PMC7770493__pharmrev.120.000086f3
 figlink: pmc/articles/PMC7770493/figure/F3/
-number: Fig. 3
+number: F3
 caption: cAMP signalosomes at the endoplasmic reticulum, nucleus, and centrosome.
   For clarity, multiprotein complexes illustrated here may not include all components
   that have been described in the literature. For identification of individual protein
@@ -17,8 +17,7 @@ pathway_score: 0.9501829
 filename: pharmrev.120.000086f3.jpg
 figtitle: cAMP signalosomes at the endoplasmic reticulum, nucleus, and centrosome
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -359,4 +358,7 @@ chemicals:
   source: MESH
   identifier: D002118
 diseases: []
+figid_alias: PMC7770493__F3
+redirect_from: /figures/PMC7770493__F3
+figtype: Figure
 ---

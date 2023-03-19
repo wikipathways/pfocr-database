@@ -1,7 +1,7 @@
 ---
 figid: PMC6630544__pharmaceuticals-12-00066-g004
 figlink: /pmc/articles/PMC6630544/figure/pharmaceuticals-12-00066-f004/
-number: Figure 4
+number: F4
 caption: General representation of serine biosynthesis in different organisms and
   its connection with different metabolic pathways. 3-PGA, 3-phosphoglycerate; 3PHP,
   3-phosphohydroxypyruvate; 3-PS, 3-Phospho-l-Serine; PGDH, Phosphoglycerate dehydrogenase;
@@ -17,8 +17,7 @@ filename: pharmaceuticals-12-00066-g004.jpg
 figtitle: General representation of serine biosynthesis in different organisms and
   its connection with different metabolic pathways
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -111,4 +110,7 @@ diseases:
 - word: PSAT
   source: MESH
   identifier: C567032
+figid_alias: PMC6630544__F4
+redirect_from: /figures/PMC6630544__F4
+figtype: Figure
 ---

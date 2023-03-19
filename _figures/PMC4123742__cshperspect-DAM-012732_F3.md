@@ -1,7 +1,7 @@
 ---
 figid: PMC4123742__cshperspect-DAM-012732_F3
 figlink: /pmc/articles/PMC4123742/figure/A012732F3/
-number: Figure 3
+number: F3
 caption: Current model for replication-independent ICL repair. If an ICL occurs in
   nonreplicating cells, it may be recognized by interfering with transcription or
   because it induces helix distortion, which is recognized by the nucleotide excision
@@ -104,4 +104,7 @@ genes:
   entrez: '51426'
 chemicals: []
 diseases: []
+figid_alias: PMC4123742__F3
+redirect_from: /figures/PMC4123742__F3
+figtype: Figure
 ---

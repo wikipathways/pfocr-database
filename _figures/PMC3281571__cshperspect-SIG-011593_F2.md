@@ -1,7 +1,7 @@
 ---
 figid: PMC3281571__cshperspect-SIG-011593_F2
 figlink: /pmc/articles/PMC3281571/figure/A011593F2/
-number: Figure 2
+number: F2
 caption: The mTOR pathway.
 pmcid: PMC3281571
 papertitle: mTOR Signaling.
@@ -716,4 +716,7 @@ diseases:
 - word: Noonan syndrome
   source: ''
   identifier: ''
+figid_alias: PMC3281571__F2
+redirect_from: /figures/PMC3281571__F2
+figtype: Figure
 ---

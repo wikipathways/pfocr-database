@@ -1,7 +1,7 @@
 ---
 figid: PMC7762791__mSystems.00774-20-f0004
 figlink: pmc/articles/PMC7762791/figure/fig4/
-number: FIG 4
+number: F4
 caption: 'Distribution of proteins across diplomonads for the NADH repair pathway
   (A) and the arsenic detoxification pathway (B). The presence of proteins and molecules
   in the studied species are indicated by filled circles: G. intestinalis (green),
@@ -19,8 +19,7 @@ filename: mSystems.00774-20-f0004.jpg
 figtitle: Distribution of proteins across diplomonads for the NADH repair pathway
   (A) and the arsenic detoxification pathway (B)
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -139,4 +138,7 @@ chemicals:
   source: MESH
   identifier: D001149
 diseases: []
+figid_alias: PMC7762791__F4
+redirect_from: /figures/PMC7762791__F4
+figtype: Figure
 ---

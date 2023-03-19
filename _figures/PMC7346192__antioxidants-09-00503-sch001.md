@@ -1,7 +1,7 @@
 ---
 figid: PMC7346192__antioxidants-09-00503-sch001
 figlink: pmc/articles/PMC7346192/figure/antioxidants-09-00503-sch001/
-number: Scheme 1
+number: S1
 caption: 'Proposed mechanism underlying the differential effects of N-containing zoledronate
   and non-N-containing MPMBP, on the inflammatory responses. The hypothesis is based
   on the experimental findings in the present study and published reports. We hypothesized
@@ -23,8 +23,7 @@ filename: antioxidants-09-00503-sch001.jpg
 figtitle: Proposed mechanism underlying the differential effects of N-containing zoledronate
   and non-N-containing MPMBP, on the inflammatory responses
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -135,4 +134,7 @@ chemicals:
   source: MESH
   identifier: D011458
 diseases: []
+figid_alias: PMC7346192__S1
+redirect_from: /figures/PMC7346192__S1
+figtype: Scheme
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC4204446__jcad_7_7_suppl1-g009a
 figlink: /pmc/articles/PMC149053/figure/fig7/
-number: ''
+number: F9a
 caption: Inactivating mutations of PTCH prevent inhibition of SMO leading to constitutive
   activation of the hedgehog signaling pathway. This leads to tumor proliferation
   and survival.
@@ -13,8 +13,7 @@ pathway_score: 0.9447318
 filename: jcad_7_7_suppl1-g009a.jpg
 figtitle: Updates on Psoriasis and Cutaneous Oncology
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -52,4 +51,7 @@ genes:
   entrez: '51684'
 chemicals: []
 diseases: []
+figid_alias: PMC4204446__F9a
+redirect_from: /figures/PMC4204446__F9a
+figtype: Figure
 ---

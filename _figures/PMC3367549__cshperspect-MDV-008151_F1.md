@@ -1,7 +1,7 @@
 ---
 figid: PMC3367549__cshperspect-MDV-008151_F1
 figlink: /pmc/articles/PMC3367549/figure/A008151F1/
-number: Figure 1
+number: F1
 caption: FGF signaling cascades, an example of RTK signaling. The formation of multimeric
   complexes of FGF ligand, FGF receptors (FGFR), and heparin sulphate proteoglycan
   (HSPG) results in the transphosphorylation of FGFRs through the action of tyrosine
@@ -521,4 +521,7 @@ diseases:
 - word: Cancer
   source: ''
   identifier: ''
+figid_alias: PMC3367549__F1
+redirect_from: /figures/PMC3367549__F1
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC7200161__elife-54721-fig6-figsupp5
 figlink: pmc/articles/PMC7200161/figure/fig6s5/
-number: Figure 6—figure supplement 5
+number: SF6_5
 caption: (1)  (2) ;  (3) ; ;  (4) ; ;  (5)  (6) ;  (7) Implied by this work (molecular
   mechanism unknown) (8) .
 pmcid: PMC7200161
@@ -14,8 +14,7 @@ filename: elife-54721-fig6-figsupp5.jpg
 figtitle: Schematic model for possible signaling pathway related to the role of ALK7
   in mediating BAT responses to nutrient stress
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -64,4 +63,7 @@ genes:
   entrez: '57104'
 chemicals: []
 diseases: []
+figid_alias: PMC7200161__SF6_5
+redirect_from: /figures/PMC7200161__SF6_5
+figtype: Supplemental figure
 ---

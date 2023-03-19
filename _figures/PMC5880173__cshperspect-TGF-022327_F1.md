@@ -1,7 +1,7 @@
 ---
 figid: PMC5880173__cshperspect-TGF-022327_F1
 figlink: pmc/articles/PMC5880173/figure/A022327F1/
-number: Figure 1
+number: F1
 caption: The bone morphogenetic protein (BMP) pathway and potential strategies for
   therapeutic modulation. (1) Activation of the BMP pathway occurs via interaction
   between dimeric BMP ligands and complexes of type I (e.g., ALK-2 and ALK-3) and
@@ -33,8 +33,7 @@ filename: cshperspect-TGF-022327_F1.jpg
 figtitle: Bone morphogenetic protein (BMP) pathway and potential strategies for therapeutic
   modulation
 year: '2018'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -479,4 +478,7 @@ genes:
   entrez: '4089'
 chemicals: []
 diseases: []
+figid_alias: PMC5880173__F1
+redirect_from: /figures/PMC5880173__F1
+figtype: Figure
 ---

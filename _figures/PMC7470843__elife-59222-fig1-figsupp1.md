@@ -1,7 +1,7 @@
 ---
 figid: PMC7470843__elife-59222-fig1-figsupp1
 figlink: pmc/articles/PMC7470843/figure/fig1s1/
-number: Figure 1—figure supplement 1
+number: SF1_1
 caption: Cartoon outlining key layers and sublayers making up the SPB (left) and their
   correspondence to the summary structure (right) used to describe landmark events
   in the SPB duplication pathway () and SPB 3-D realignment throughout.
@@ -14,8 +14,7 @@ pathway_score: 0.8186097
 filename: elife-59222-fig1-figsupp1.jpg
 figtitle: Simplified SPB structure
 year: '2020'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -71,4 +70,7 @@ genes:
   entrez: '3558'
 chemicals: []
 diseases: []
+figid_alias: PMC7470843__SF1_1
+redirect_from: /figures/PMC7470843__SF1_1
+figtype: Supplemental figure
 ---

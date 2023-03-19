@@ -1,7 +1,7 @@
 ---
 figid: PMC6920976__microorganisms-07-00501-g002
 figlink: /pmc/articles/PMC6920976/figure/microorganisms-07-00501-f002/
-number: Figure 2
+number: F2
 caption: Simplified scheme of the astaxanthin biosynthetic pathway from endogenous
   β-carotene (β-car) in engineered Synechocystis strains, resulting from the heterologous
   expression of Brevundimonas CrtW and CrtZ. The endogenous enzymes CrtO (β-car ketolase)
@@ -20,8 +20,7 @@ figtitle: Simplified scheme of the astaxanthin biosynthetic pathway from endogen
   Beta-carotene (Beta-car) in engineered Synechocystis strains, resulting from the
   heterologous expression of Brevundimonas CrtW and CrtZ
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -127,4 +126,7 @@ diseases:
 - word: HC
   source: MESH
   identifier: D003556
+figid_alias: PMC6920976__F2
+redirect_from: /figures/PMC6920976__F2
+figtype: Figure
 ---

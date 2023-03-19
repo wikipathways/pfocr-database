@@ -1,7 +1,7 @@
 ---
 figid: PMC5375627__radiol.2016160839.fig5c
 figlink: /pmc/articles/PMC5375627/figure/fig5c/
-number: 'Figure 5c:'
+number: F5c
 caption: Induction of glycolytic and tricarboxylic acid cycle enzymes by M-CSF and
   GM-CSF. Heat map representation of relative messenger ribonucleic acid expression
   (fold-change compared with MΦ0 ) of genes encoding (a) glycolytic and (b) tricarboxylic
@@ -322,4 +322,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC5375627__F5c
+redirect_from: /figures/PMC5375627__F5c
+figtype: Figure
 ---

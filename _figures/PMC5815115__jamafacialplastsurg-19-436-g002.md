@@ -1,7 +1,7 @@
 ---
 figid: PMC5815115__jamafacialplastsurg-19-436-g002
 figlink: /pmc/articles/PMC5815115/figure/qld170001f2/
-number: Figure 2.
+number: F2
 caption: Surgery-induced injury activates mast cells and fibroblasts by neuropeptide
   signaling. In at-risk patients, persistent noxious and mechanical stimuli caused
   by the presence of a silicone prosthesis results in continued neuropeptide synthesis
@@ -18,8 +18,7 @@ pathway_score: 0.9480538
 filename: jamafacialplastsurg-19-436-g002.jpg
 figtitle: Putative Neuropeptide–Mast Cell–Myofibroblast Signaling Pathway
 year: '2017'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -101,4 +100,7 @@ chemicals:
   source: MESH
   identifier: D006632
 diseases: []
+figid_alias: PMC5815115__F2
+redirect_from: /figures/PMC5815115__F2
+figtype: Figure
 ---

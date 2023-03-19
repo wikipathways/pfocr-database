@@ -1,7 +1,7 @@
 ---
 figid: PMC3223033__jexboterr140f06_3c
 figlink: /pmc/articles/PMC3223033/figure/fig6/
-number: Fig. 6
+number: F6
 caption: 'Schematic illustration of the main metabolic pathways based on the proteins
   identified in the citrus pulp chromoplasts. Metabolic pathway reconstruction was
   performed using the PlantCyc database (http://www.gramene.org/pathway/). Identified
@@ -31,8 +31,7 @@ filename: jexboterr140f06_3c.jpg
 figtitle: Schematic illustration of the main metabolic pathways based on the proteins
   identified in the citrus pulp chromoplasts
 year: '2011'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -178,4 +177,7 @@ chemicals:
   source: MESH
   identifier: D024321
 diseases: []
+figid_alias: PMC3223033__F6
+redirect_from: /figures/PMC3223033__F6
+figtype: Figure
 ---

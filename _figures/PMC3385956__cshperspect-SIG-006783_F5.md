@@ -1,7 +1,7 @@
 ---
 figid: PMC3385956__cshperspect-SIG-006783_F5
 figlink: /pmc/articles/PMC3385956/figure/A006783F5/
-number: Figure 5
+number: F5
 caption: Hexosamine and acetyl-CoA metabolite levels integrate signaling with cell
   growth and proliferation. In addition to being metabolized through glycolysis, fructose
   6-phosphate can act as a nitrogen acceptor from glutamine and be converted to glucosamine
@@ -152,4 +152,7 @@ chemicals:
   source: MESH
   identifier: D019344
 diseases: []
+figid_alias: PMC3385956__F5
+redirect_from: /figures/PMC3385956__F5
+figtype: Figure
 ---

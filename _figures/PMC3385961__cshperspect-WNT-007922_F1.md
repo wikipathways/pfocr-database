@@ -1,7 +1,7 @@
 ---
 figid: PMC3385961__cshperspect-WNT-007922_F1
 figlink: /pmc/articles/PMC3385961/figure/A007922F1/
-number: Figure 1
+number: F1
 caption: Evolution of Wnt pathways. Proteins involved in different Wnt pathways (A–D)
   are shown and labeled according to their occurrence in protozoans (yellow), pre-bilaterians
   (green), and bilaterians (blue). (A) Binding of Wnt to Frizzled receptor and LRP
@@ -351,4 +351,7 @@ genes:
   entrez: '54361'
 chemicals: []
 diseases: []
+figid_alias: PMC3385961__F1
+redirect_from: /figures/PMC3385961__F1
+figtype: Figure
 ---

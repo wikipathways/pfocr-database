@@ -1,7 +1,7 @@
 ---
 figid: PMC3560666__medscimonit-18-1-BR33-g007
 figlink: /pmc/articles/PMC3560666/figure/f7-medscimonit-18-1-br33/
-number: Figure 7
+number: F7
 caption: 'Pathway in MAS and differentially expressed genes: as shown in Figure, IGSF4,
   PTPRC (CD45) and CD3D belong to a family of cell surface adhesion molecules. The
   IGSF4 was down-regulated and CD45 and CD3D were up-regulated. In addition, the CD45
@@ -170,4 +170,7 @@ genes:
   entrez: '1445'
 chemicals: []
 diseases: []
+figid_alias: PMC3560666__F7
+redirect_from: /figures/PMC3560666__F7
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC3388840__jexboters067f01_3c
 figlink: /pmc/articles/PMC3388840/figure/fig1/
-number: Fig. 1
+number: F1
 caption: The flavonoid biosynthetic pathway in Arabidopsis seed. The different steps
   leading to the formation of flavonoids in Arabidopsis seed are indicated by arrows.
   Major flavonoids are indicated in bold. Mutants for enzymatic steps are indicated
@@ -267,4 +267,7 @@ chemicals:
   source: MESH
   identifier: D044949
 diseases: []
+figid_alias: PMC3388840__F1
+redirect_from: /figures/PMC3388840__F1
+figtype: Figure
 ---

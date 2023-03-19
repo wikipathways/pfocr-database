@@ -1,7 +1,7 @@
 ---
 figid: PMC4880054__cddiscovery20161-f6
 figlink: /pmc/articles/PMC4880054/figure/fig6/
-number: Figure 6
+number: F6
 caption: The proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced
   apoptosis. Cdk2 activated in response to cisplatin treatment phosphorylated Bcl-xL
   at Ser73. Bcl-xL, when phosphorylated at Ser73, promoted self-oligomerization to
@@ -130,4 +130,7 @@ genes:
   entrez: '837'
 chemicals: []
 diseases: []
+figid_alias: PMC4880054__F6
+redirect_from: /figures/PMC4880054__F6
+figtype: Figure
 ---

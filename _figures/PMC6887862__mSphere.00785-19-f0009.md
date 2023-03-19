@@ -1,7 +1,7 @@
 ---
 figid: PMC6887862__mSphere.00785-19-f0009
 figlink: /pmc/articles/PMC6887862/figure/fig9/
-number: FIG 9
+number: F9
 caption: Schematic summary of Yap1-related signaling cascades under environmental
   stresses. Yap1 is the transcription factor working downstream of the Mpk1 MAPK pathway
   required for maintaining cell wall integrity and responding to oxidative stress
@@ -21,8 +21,7 @@ filename: mSphere.00785-19-f0009.jpg
 figtitle: Schematic summary of Yap1-related signaling cascades under environmental
   stresses
 year: '2019'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -150,4 +149,7 @@ genes:
   entrez: '10413'
 chemicals: []
 diseases: []
+figid_alias: PMC6887862__F9
+redirect_from: /figures/PMC6887862__F9
+figtype: Figure
 ---

@@ -1,7 +1,7 @@
 ---
 figid: PMC5008074__cshperspect-TGF-022061_F3
 figlink: /pmc/articles/PMC5008074/figure/A022061F3/
-number: Figure 3
+number: F3
 caption: MicroRNA (miRNA) biogenesis pathway and its regulation by Smad proteins.
   (A) The miRNA biogenesis pathway. The biogenesis of a miRNA is a stepwise process
   that includes (1) transcription of a primary transcript (pri-miRNA), (2) nuclear
@@ -262,4 +262,7 @@ genes:
   entrez: '151449'
 chemicals: []
 diseases: []
+figid_alias: PMC5008074__F3
+redirect_from: /figures/PMC5008074__F3
+figtype: Figure
 ---

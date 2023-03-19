@@ -1,7 +1,7 @@
 ---
 figid: PMC3475164__cshperspect-ERT-013300_F1
 figlink: /pmc/articles/PMC3475164/figure/A013300F1/
-number: Figure 1
+number: F1
 caption: 'Biosynthesis of glycerophospholipids. All GPLs consist of a glycerol backbone,
   which is esterified to two fatty acids in its first and second carbons and to phosphoric
   acid in its third carbon. Different head groups (X) are attached to the phosphate
@@ -192,4 +192,7 @@ chemicals:
   source: MESH
   identifier: D010710
 diseases: []
+figid_alias: PMC3475164__F1
+redirect_from: /figures/PMC3475164__F1
+figtype: Figure
 ---

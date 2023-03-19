@@ -1,7 +1,7 @@
 ---
 figid: PMC4214059__AnnalsATS.201407-315ED_f1
 figlink: /pmc/articles/PMC4214059/figure/fig1/
-number: Figure 1
+number: F1
 caption: A causal model specifying how genetic variation increases the susceptibility
   to clinical disease through smoking and alternate pathways (). In this example,
   the observed increased likelihood of lung cancer and chronic obstructive pulmonary
@@ -21,8 +21,7 @@ filename: AnnalsATS.201407-315ED_f1.jpg
 figtitle: A causal model specifying how genetic variation increases the susceptibility
   to clinical disease through smoking and alternate pathways ()
 year: '2014'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -72,4 +71,7 @@ genes:
   entrez: '1136'
 chemicals: []
 diseases: []
+figid_alias: PMC4214059__F1
+redirect_from: /figures/PMC4214059__F1
+figtype: Figure
 ---

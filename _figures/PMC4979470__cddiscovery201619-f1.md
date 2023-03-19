@@ -1,7 +1,7 @@
 ---
 figid: PMC4979470__cddiscovery201619-f1
 figlink: /pmc/articles/PMC4979470/figure/fig1/
-number: Figure 1
+number: F1
 caption: The NLRP3 inflammasome signaling pathway. NLRP3 inflammasome activation requires
   an initial ‘signal 1’, such as toll-like receptor or TNF receptor activation, that
   activates NF-κB. This priming signal induces the transcription of NLRP3 and pro-IL-1β
@@ -24,8 +24,7 @@ pathway_score: 0.9536246
 filename: cddiscovery201619-f1.jpg
 figtitle: The NLRP3 inflammasome signaling pathway
 year: '2016'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -107,4 +106,7 @@ chemicals:
   source: MESH
   identifier: D014527
 diseases: []
+figid_alias: PMC4979470__F1
+redirect_from: /figures/PMC4979470__F1
+figtype: Figure
 ---

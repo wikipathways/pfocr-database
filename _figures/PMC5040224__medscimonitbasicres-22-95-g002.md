@@ -1,7 +1,7 @@
 ---
 figid: PMC5040224__medscimonitbasicres-22-95-g002
 figlink: /pmc/articles/PMC5040224/figure/f2-medscimonitbasicres-22-95/
-number: Figure 2
+number: F2
 caption: Major regulatory pathways involved in the regulation of Runx2, a chief transcriptional
   regulator of osteogenesis. Four pathways are elaborated. The Wnt pathway is central
   in activation of Runx2 via the stabilization of β-catenin. This process in cells
@@ -441,4 +441,7 @@ chemicals:
   source: MESH
   identifier: D014807
 diseases: []
+figid_alias: PMC5040224__F2
+redirect_from: /figures/PMC5040224__F2
+figtype: Figure
 ---

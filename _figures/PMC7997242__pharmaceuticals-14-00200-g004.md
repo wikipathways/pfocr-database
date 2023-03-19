@@ -1,7 +1,7 @@
 ---
 figid: PMC7997242__pharmaceuticals-14-00200-g004
 figlink: pmc/articles/PMC7997242/figure/pharmaceuticals-14-00200-f004/
-number: Figure 4
+number: F4
 caption: Mechanisms of CD226 downregulation. (Left) Tumor microenvironment promotes
   the accumulation of a subset of CD8+ T cells that lose CD226. CD226 is transcriptionally
   downregulated in an eomesodermin (Eomes)-dependent and a PVR-independent manner.
@@ -19,8 +19,7 @@ pathway_score: 0.9506758
 filename: pharmaceuticals-14-00200-g004.jpg
 figtitle: CD226 downregulation
 year: '2021'
-organisms:
-- Homo sapiens
+organisms: Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -170,4 +169,7 @@ chemicals:
   source: MESH
   identifier: D017260
 diseases: []
+figid_alias: PMC7997242__F4
+redirect_from: /figures/PMC7997242__F4
+figtype: Figure
 ---
