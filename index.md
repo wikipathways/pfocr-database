@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home
 title: Home
 ---
 <div>
@@ -97,13 +97,13 @@ title: Home
             <div class="bg-gradient p-3">
               <div class="container">
               <div id="carouselBrowse" class="carousel slide" data-ride="true" data-wrap="true">
-  <ol class="carousel-indicators">
+  <ol class="carousel-indicators" style="margin-bottom: -25px;">
     <li data-target="#carouselBrowse" data-slide-to="0" class="active"></li>
     <li data-target="#carouselBrowse" data-slide-to="1"></li>
     <li data-target="#carouselBrowse" data-slide-to="2"></li>
     <li data-target="#carouselBrowse" data-slide-to="3"></li>
   </ol>
-  <div class="carousel-inner">
+  <div class="carousel-inner" style="width: 76%;margin-left: 12%;">
   <div class="carousel-item active">
           <a href="/browse/table.html">
       <img class="d-block w-100" src="/assets/img/slideshow/browse-2.png" alt="Table filter">
@@ -200,13 +200,13 @@ title: Home
             <div class="bg-gradient p-4">
             <div class="container">
               <div id="carouselDownload" class="carousel slide" data-ride="true" data-wrap="true">
-  <ol class="carousel-indicators">
+  <ol class="carousel-indicators" style="margin-bottom: -25px;">
     <li data-target="#carouselDownload" data-slide-to="0" class="active"></li>
     <li data-target="#carouselDownload" data-slide-to="1"></li>
     <li data-target="#carouselDownload" data-slide-to="2"></li>
     <li data-target="#carouselDownload" data-slide-to="3"></li>
   </ol>
-  <div class="carousel-inner">
+  <div class="carousel-inner" style="width: 76%;margin-left: 12%;">
     <div class="carousel-item active">
           <a href="https://pathvisio.org/" target="_blank">
       <img class="d-block w-100" src="/assets/img/slideshow/analyze-1.png" alt="PathVisio">
