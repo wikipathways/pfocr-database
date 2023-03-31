@@ -21,7 +21,8 @@ filename: elife-45210-fig2-figsupp1.jpg
 figtitle: The effects of thiamin biosynthetic pathway knockouts on expression of a
   thiS riboswitch-reporter construct
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

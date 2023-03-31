@@ -22,7 +22,8 @@ filename: cshperspect-WNT-008086_F1.jpg
 figtitle: Pharmacologic inhibitors of the Wnt/Beta-catenin signaling pathway and known
   interactions with pathway components (see  for references)
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b64c2a50-deab-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ pathway_score: 0.7895118
 filename: mSystems.00765-20-f0002.jpg
 figtitle: Deduced sterol biosynthesis pathways in Symbiodiniaceae
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ pathway_score: 0.9376691
 filename: microorganisms-09-00600-g001.jpg
 figtitle: Metabolic pathway designed for the production of Beta-alanine
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

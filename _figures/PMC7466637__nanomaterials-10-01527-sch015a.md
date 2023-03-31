@@ -18,7 +18,8 @@ figtitle: 'Recent Advances in Surface Nanoengineering for Biofilm Prevention and
   Part II: Active, Combined Active and Passive, and Smart Bacteria-Responsive Antibiofilm
   Nanocoatings'
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -35,7 +35,8 @@ pathway_score: 0.7974263
 filename: carcinbgq028f01_4c.jpg
 figtitle: Canonical and non-canonical signaling pathways of the AhR
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 105c2a39-df29-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

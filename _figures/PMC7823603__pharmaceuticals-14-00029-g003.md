@@ -26,7 +26,8 @@ filename: pharmaceuticals-14-00029-g003.jpg
 figtitle: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
   signaling pathway in oxidative stress
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

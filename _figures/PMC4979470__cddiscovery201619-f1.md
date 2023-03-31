@@ -24,7 +24,8 @@ pathway_score: 0.9536246
 filename: cddiscovery201619-f1.jpg
 figtitle: The NLRP3 inflammasome signaling pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

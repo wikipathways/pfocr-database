@@ -17,7 +17,8 @@ pathway_score: 0.9749052
 filename: microorganisms-09-00371-g002.jpg
 figtitle: Proposed pathway for conversion from CA to DCA via 7Alpha-dehydroxylation
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

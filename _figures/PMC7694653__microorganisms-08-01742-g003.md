@@ -15,7 +15,8 @@ pathway_score: 0.7671686
 filename: microorganisms-08-01742-g003.jpg
 figtitle: Branched pathway as related to bacterial growth rate
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

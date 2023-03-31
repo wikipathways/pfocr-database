@@ -16,7 +16,8 @@ pathway_score: 0.842675
 filename: pharmrev.120.000149f1.jpg
 figtitle: Metabolic formation of hydroxynorketamines from ketamine
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

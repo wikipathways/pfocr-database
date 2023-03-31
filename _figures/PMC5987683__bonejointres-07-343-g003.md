@@ -19,7 +19,8 @@ pathway_score: 0.8440571
 filename: bonejointres-07-343-g003.jpg
 figtitle: Mitogen-activated protein kinase signalling pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: f29d9a8e-df1a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

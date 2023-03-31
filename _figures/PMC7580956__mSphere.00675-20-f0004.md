@@ -37,7 +37,8 @@ pathway_score: 0.8233143
 filename: mSphere.00675-20-f0004.jpg
 figtitle: Carbon metabolism in the plastids of E
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

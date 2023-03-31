@@ -17,7 +17,8 @@ pathway_score: 0.9590115
 filename: mSphere.00366-20-f0001.jpg
 figtitle: Signal transduction pathways that regulate C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

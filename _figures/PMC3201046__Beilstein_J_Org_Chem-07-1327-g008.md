@@ -12,7 +12,8 @@ pathway_score: 0.7678106
 filename: Beilstein_J_Org_Chem-07-1327-g008.jpg
 figtitle: Proposed stereochemical pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

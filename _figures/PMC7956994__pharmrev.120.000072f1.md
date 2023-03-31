@@ -58,7 +58,8 @@ pathway_score: 0.9020092
 filename: pharmrev.120.000072f1.jpg
 figtitle: Complement system with focus on most relevant targets for therapeutic inhibition
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

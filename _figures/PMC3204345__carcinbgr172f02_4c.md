@@ -37,7 +37,8 @@ filename: carcinbgr172f02_4c.jpg
 figtitle: Different modes of Smad phosphoisoform signaling in normal epithelium and
   neoplasms
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: cd5894da-df00-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

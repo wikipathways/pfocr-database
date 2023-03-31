@@ -21,7 +21,8 @@ pathway_score: 0.8658035
 filename: bic-suppl.2-2016-061f2.jpg
 figtitle: Schematic of the main interactions of glucose fatty acid oxidation
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

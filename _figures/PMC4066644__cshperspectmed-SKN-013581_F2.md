@@ -15,7 +15,8 @@ pathway_score: 0.7778205
 filename: cshperspectmed-SKN-013581_F2.jpg
 figtitle: Model of tumor heterogeneity
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

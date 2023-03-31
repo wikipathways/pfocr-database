@@ -19,7 +19,8 @@ pathway_score: 0.9496636
 filename: elife-45530-fig5-figsupp1.jpg
 figtitle: Schematic outline of the Nodal signaling pathway in vertebrates
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -25,7 +25,8 @@ filename: microorganisms-07-00351-g004.jpg
 figtitle: Human adenovirus induced cell signaling and downstream immune responses
   in human keratocytes, highlighting the centrality of Src kinase
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 41ce24dd-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

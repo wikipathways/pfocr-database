@@ -12,7 +12,8 @@ pathway_score: 0.9332655
 filename: Beilstein_J_Org_Chem-11-1667-g007.jpg
 figtitle: Biosynthesis pathway I []
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 715dcd00-df03-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

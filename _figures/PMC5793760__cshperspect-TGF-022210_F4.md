@@ -25,7 +25,8 @@ pathway_score: 0.9328298
 filename: cshperspect-TGF-022210_F4.jpg
 figtitle: TGFB signaling pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

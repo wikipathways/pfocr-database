@@ -18,7 +18,8 @@ pathway_score: 0.9423122
 filename: mSphere.00016-20-f0006.jpg
 figtitle: Scheme of AA on the metabolism pathways of C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -75,7 +76,7 @@ schema-jsonld:
   - Amino acid
   - Pentose
   - phosphate
-  - "Glucose \x1F Glucose"
+  - "Glucose  Glucose"
 genes: []
 chemicals:
 - word: Glucose
@@ -184,7 +185,7 @@ chemicals:
   source: MESH
   identifier: D010710
 diseases:
-- word: "Glucose \x1F Glucose"
+- word: "Glucose  Glucose"
   source: MESH
   identifier: D018149
 figid_alias: PMC7160677__F6

@@ -18,7 +18,8 @@ pathway_score: 0.8993417
 filename: pbio.0020276.g002.jpg
 figtitle: 'Innate Immunity in Fruit Flies: A Textbook Example of Genomic Recycling'
 year: '2004'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: cddb756d-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

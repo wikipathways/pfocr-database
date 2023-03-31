@@ -25,7 +25,8 @@ filename: cshperspectmed-ADD-012070_F3.jpg
 figtitle: Chronic morphine decreases VTA DA soma size yet increases neuronal excitability,
   while DA transmission to NAc is decreased
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e74384f9-de90-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

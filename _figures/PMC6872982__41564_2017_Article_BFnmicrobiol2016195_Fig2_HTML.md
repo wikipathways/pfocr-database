@@ -25,7 +25,8 @@ filename: 41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML.jpg
 figtitle: Chemosynthetic symbionts of marine invertebrate animals are capable of nitrogen
   fixation
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

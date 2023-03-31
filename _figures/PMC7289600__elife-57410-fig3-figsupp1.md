@@ -13,7 +13,8 @@ pathway_score: 0.7237976
 filename: elife-57410-fig3-figsupp1.jpg
 figtitle: ERK and tested pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

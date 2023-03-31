@@ -21,7 +21,8 @@ pathway_score: 0.9729838
 filename: microorganisms-09-00778-g001.jpg
 figtitle: Regulation of programmed cell death ligand 1 (PD-L1) gene expression
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

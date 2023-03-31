@@ -31,7 +31,8 @@ filename: cshperspectmed-TUB-021105_F4.jpg
 figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
   drugs
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

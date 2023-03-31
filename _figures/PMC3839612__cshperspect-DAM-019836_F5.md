@@ -22,7 +22,8 @@ filename: cshperspect-DAM-019836_F5.jpg
 figtitle: A detailed model of the Rad5-mediate template switch pathway, assuming gap
   filling dependent on a subset of HR functions after the replication fork has passed
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

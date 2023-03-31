@@ -36,7 +36,8 @@ filename: RevDiabeticStud-14-269-004.jpg
 figtitle: 'Iron in Type 1 Diabetes Etiology: A Systematic Review of New Evidence on
   a Long-Standing Mystery'
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e9be159e-deca-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

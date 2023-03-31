@@ -24,7 +24,8 @@ filename: RevDiabeticStud-09-148-004.jpg
 figtitle: 'Pathogenic Mechanisms in Type 1 Diabetes: The Islet is Both Target and
   Driver of Disease'
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 75dcf899-dea4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

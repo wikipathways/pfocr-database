@@ -14,7 +14,8 @@ pathway_score: 0.871349
 filename: pharmaceuticals-14-00272-g001.jpg
 figtitle: Cyclophosphamide metabolic pathway (adapted from Jonge et al., 2005 )
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

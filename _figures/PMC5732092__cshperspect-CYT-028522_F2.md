@@ -23,7 +23,8 @@ pathway_score: 0.9004232
 filename: cshperspect-CYT-028522_F2.jpg
 figtitle: Interleukin (IL)-17RA/RC signaling pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

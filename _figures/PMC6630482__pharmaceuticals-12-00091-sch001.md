@@ -11,7 +11,8 @@ pathway_score: 0.887378
 filename: pharmaceuticals-12-00091-sch001.jpg
 figtitle: Synthetic pathway of compounds 4
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

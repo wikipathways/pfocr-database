@@ -26,7 +26,8 @@ filename: RevDiabeticStud-12-134-002.jpg
 figtitle: Targeting Mitochondria and Reactive Oxygen Species-Driven Pathogenesis in
   Diabetic Nephropathy
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 8e2a3eea-dec8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

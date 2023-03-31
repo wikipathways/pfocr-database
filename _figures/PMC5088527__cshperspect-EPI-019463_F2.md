@@ -20,7 +20,8 @@ filename: cshperspect-EPI-019463_F2.jpg
 figtitle: Biosynthesis pathways of acetyl-CoA and NAD cofactors, and their involvement
   in chromatin-related processes
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c7e1188b-df10-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

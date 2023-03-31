@@ -44,7 +44,8 @@ pathway_score: 0.85406
 filename: cshperspectmed-BAC-010272_F2.jpg
 figtitle: Three examples of chromatin-modifying complexes and their mode of action
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 80feb438-deee-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

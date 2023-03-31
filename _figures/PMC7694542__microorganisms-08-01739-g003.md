@@ -35,7 +35,8 @@ pathway_score: 0.8644862
 filename: microorganisms-08-01739-g003.jpg
 figtitle: Conservation of signalling pathway proteins in Myxococcaceae
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

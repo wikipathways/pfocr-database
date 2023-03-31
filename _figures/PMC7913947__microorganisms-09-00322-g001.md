@@ -19,7 +19,8 @@ pathway_score: 0.5467461
 filename: microorganisms-09-00322-g001.jpg
 figtitle: The kynurenine pathway
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

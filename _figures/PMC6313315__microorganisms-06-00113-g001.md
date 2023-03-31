@@ -26,7 +26,8 @@ pathway_score: 0.9019405
 filename: microorganisms-06-00113-g001.jpg
 figtitle: The urea and tricarboxylic acid (TCA)-cycles
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

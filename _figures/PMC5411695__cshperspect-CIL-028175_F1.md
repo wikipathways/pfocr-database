@@ -20,7 +20,8 @@ pathway_score: 0.9514648
 filename: cshperspect-CIL-028175_F1.jpg
 figtitle: The backbone of the Hedgehog (Hh) signal transduction pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

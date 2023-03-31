@@ -12,7 +12,8 @@ pathway_score: 0.5072303
 filename: microorganisms-08-00625-g006.jpg
 figtitle: Proposed metabolic degradation pathway of azoxystrobin in strain SH14
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -22,7 +22,8 @@ filename: microorganisms-08-01665-g004.jpg
 figtitle: Hypothetical host-cell signaling pathways linking Cryptosporidium parvum
   infection and tumorigenesis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

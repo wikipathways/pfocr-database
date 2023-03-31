@@ -22,7 +22,8 @@ pathway_score: 0.9051056
 filename: cshperspect-ERT-013359_F2.jpg
 figtitle: Asparagine-linked glycosylation pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 08009f81-dea5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

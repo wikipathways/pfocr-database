@@ -15,7 +15,8 @@ figtitle: Identification of novel MYB transcription factors involved in the isof
   biosynthetic pathway by using the combination screening system with agroinfiltration
   and hairy root transformation
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

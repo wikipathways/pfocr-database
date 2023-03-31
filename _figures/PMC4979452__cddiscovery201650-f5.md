@@ -22,7 +22,8 @@ filename: cddiscovery201650-f5.jpg
 figtitle: JAK-STAT (Janus kinase/signal transducers and activators of transcription)
   pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: bf234bdc-def0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

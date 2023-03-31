@@ -14,7 +14,8 @@ pathway_score: 0.9086091
 filename: PROCATS5189fig3.jpg
 figtitle: Airway Smooth Muscle Growth in Asthma
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

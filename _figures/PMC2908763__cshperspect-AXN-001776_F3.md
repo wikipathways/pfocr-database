@@ -23,7 +23,8 @@ filename: cshperspect-AXN-001776_F3.jpg
 figtitle: Olfactory sensory neuron projections along the anterior–posterior axis in
   the mouse olfactory system
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: dbbee1c4-de93-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

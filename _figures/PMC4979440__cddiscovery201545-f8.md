@@ -18,7 +18,8 @@ filename: cddiscovery201545-f8.jpg
 figtitle: Role of EtOH-mediated cytotoxicity and neuroinflammation in context to HAND
   via cPLA2signaling in human astrocytes
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: eb10ecc2-ded0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

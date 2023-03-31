@@ -20,7 +20,8 @@ pathway_score: 0.9690393
 filename: mSystems.00651-19-f0005.jpg
 figtitle: Metabolic reconstruction of “Ca
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

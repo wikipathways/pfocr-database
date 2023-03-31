@@ -16,7 +16,8 @@ filename: toxscikfn221f06_3c.jpg
 figtitle: Cd-induced alterations within the ingenuity canonical p53-signaling pathway
   in C57BL/6J and SWV embryos
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

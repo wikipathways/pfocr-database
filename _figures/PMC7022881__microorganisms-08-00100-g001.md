@@ -28,7 +28,8 @@ filename: microorganisms-08-00100-g001.jpg
 figtitle: Two signaling pathways that respond to extracellular glucose in Saccharomyces
   cerevisiae
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -18,7 +18,8 @@ filename: cddiscovery20178-f9.jpg
 figtitle: HMGB1 release regulated by the PLCG1–IP3R–SOC signalling pathway during
   calcium overload in hepatocytes
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 5de4da48-defe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

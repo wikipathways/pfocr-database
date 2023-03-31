@@ -18,7 +18,8 @@ filename: antioxidants-09-01086-sch002.jpg
 figtitle: ' The positions where the Δyap1, Δzwf1, and Δglr1 mutants affect glutathione
   synthesis and metabolism'
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

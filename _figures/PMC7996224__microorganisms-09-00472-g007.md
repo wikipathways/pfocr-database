@@ -19,7 +19,8 @@ filename: microorganisms-09-00472-g007.jpg
 figtitle: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
   prototrophic suppressor mutants
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

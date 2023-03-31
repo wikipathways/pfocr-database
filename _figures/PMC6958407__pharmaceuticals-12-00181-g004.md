@@ -19,7 +19,8 @@ pathway_score: 0.9544309
 filename: pharmaceuticals-12-00181-g004.jpg
 figtitle: Proposed model for modulations of Hippo pathway by PDEF
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

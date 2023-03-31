@@ -24,7 +24,8 @@ figtitle: Incorporating information of both the inherited and somatic genetics o
   the p53 gene could further define patient populations in their abilities to respond
   to certain therapies
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

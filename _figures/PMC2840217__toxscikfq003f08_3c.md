@@ -25,7 +25,8 @@ filename: toxscikfq003f08_3c.jpg
 figtitle: Alteration in Ubiquitin-Proteasome System (UPS) in response to MG132 (A),
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

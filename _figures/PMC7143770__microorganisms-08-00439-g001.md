@@ -23,7 +23,8 @@ pathway_score: 0.957552
 filename: microorganisms-08-00439-g001.jpg
 figtitle: Conserved fatty acids biosynthesis pathway based on the Lb
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

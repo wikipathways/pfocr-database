@@ -12,7 +12,8 @@ pathway_score: 0.8303138
 filename: intimmdxn088f01_lw.jpg
 figtitle: The proposed pathway of regulatory controls (see list of abbreviations)
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

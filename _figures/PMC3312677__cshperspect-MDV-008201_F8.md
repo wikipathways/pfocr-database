@@ -21,7 +21,8 @@ pathway_score: 0.8219877
 filename: cshperspect-MDV-008201_F8.jpg
 figtitle: Genetic pathways involved in the regulation of the Mesp2 pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c6aa5191-dee1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -25,7 +25,8 @@ pathway_score: 0.9430993
 filename: pharmrev.120.000149f2.jpg
 figtitle: Putative synaptic mechanisms of (2R,6R)- and (2S,6S)-hydroxynorketamine
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

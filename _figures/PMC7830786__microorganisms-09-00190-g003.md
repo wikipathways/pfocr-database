@@ -24,7 +24,8 @@ filename: microorganisms-09-00190-g003.jpg
 figtitle: Proposed metabolic pathway for glucose by anaerobic fungi co-cultured with
   methanogens
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ filename: jexbotern263f01_lw.jpg
 figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
   rhizome
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

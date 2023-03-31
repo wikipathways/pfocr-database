@@ -44,7 +44,8 @@ pathway_score: 0.9664254
 filename: microorganisms-08-02043-g004.jpg
 figtitle: Proposed model for observed BNF activity in L
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

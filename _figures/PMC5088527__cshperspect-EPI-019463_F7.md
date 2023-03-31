@@ -19,7 +19,8 @@ pathway_score: 0.9405181
 filename: cshperspect-EPI-019463_F7.jpg
 figtitle: Linking the circadian clock with the NAD+ salvage pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

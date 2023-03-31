@@ -18,7 +18,8 @@ pathway_score: 0.9239634
 filename: cshperspect-IMS-002485_F3.jpg
 figtitle: Proximal signaling events in the TCR-coupled signaling pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: f07cb3a0-df0b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

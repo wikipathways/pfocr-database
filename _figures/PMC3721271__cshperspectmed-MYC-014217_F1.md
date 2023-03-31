@@ -16,7 +16,8 @@ filename: cshperspectmed-MYC-014217_F1.jpg
 figtitle: Growth factor (doughnut) receptor engagement signals TOR activation through
   PI3K and MYC activation through the MEK-ERK pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 76e9778f-deda-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

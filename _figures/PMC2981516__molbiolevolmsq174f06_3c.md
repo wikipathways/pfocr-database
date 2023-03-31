@@ -22,7 +22,8 @@ filename: molbiolevolmsq174f06_3c.jpg
 figtitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Simplest
   Metazoans
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

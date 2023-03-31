@@ -13,7 +13,8 @@ pathway_score: 0.9584624
 filename: cshperspect-TGF-022301_F2.jpg
 figtitle: Drug targets on the TGFB signaling pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

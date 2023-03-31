@@ -15,7 +15,8 @@ filename: elife-57843-fig4-figsupp7.jpg
 figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
   hsa050160 Alzheimer’s disease at the cross-tissue level
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

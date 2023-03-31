@@ -23,7 +23,8 @@ filename: microorganisms-08-01339-g003.jpg
 figtitle: Carbon metabolism in the WT during AsIII exposure, with mannitol being the
   initial substrate
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -103,7 +104,7 @@ schema-jsonld:
   - V24280
   - Xanthine
   - Nurokhanthine
-  - "Glucose-1-P X2 \x1F Maltopentose"
+  - "Glucose-1-P X2  Maltopentose"
 genes:
 - word: PEP
   symbol: PEP
@@ -286,7 +287,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases:
-- word: "Glucose-1-P X2 \x1F Maltopentose"
+- word: "Glucose-1-P X2  Maltopentose"
   source: MESH
   identifier: C566748
 figid_alias: PMC7565993__F3

@@ -13,7 +13,8 @@ pathway_score: 0.9521888
 filename: pharmaceutics-03-00354f1.jpg
 figtitle: Heme biosynthesis
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

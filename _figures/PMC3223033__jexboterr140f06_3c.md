@@ -31,7 +31,8 @@ filename: jexboterr140f06_3c.jpg
 figtitle: Schematic illustration of the main metabolic pathways based on the proteins
   identified in the citrus pulp chromoplasts
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -23,7 +23,8 @@ filename: biomedicines-08-00426-g0A2.jpg
 figtitle: Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
   kinases from human, vaccinia virus, and herpes simplex virus
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

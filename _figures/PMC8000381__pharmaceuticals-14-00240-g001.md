@@ -20,7 +20,8 @@ filename: pharmaceuticals-14-00240-g001.jpg
 figtitle: Alternate use of B2R and B1R in cardioprotection in non-diabetic and diabetic
   mice, respectively, during cardiac ischemia-reperfusion
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

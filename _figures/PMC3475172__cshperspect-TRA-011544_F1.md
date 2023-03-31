@@ -26,7 +26,8 @@ pathway_score: 0.7664863
 filename: cshperspect-TRA-011544_F1.jpg
 figtitle: Model of canonical eukaryotic translation initiation pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

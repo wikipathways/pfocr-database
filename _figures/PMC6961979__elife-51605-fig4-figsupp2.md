@@ -18,7 +18,8 @@ pathway_score: 0.7188438
 filename: elife-51605-fig4-figsupp2.jpg
 figtitle: Reaction mechanisms for the APE1 and NEIL2-PNKP pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

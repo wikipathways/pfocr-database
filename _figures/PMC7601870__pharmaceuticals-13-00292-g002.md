@@ -22,7 +22,8 @@ filename: pharmaceuticals-13-00292-g002.jpg
 figtitle: Crosstalk between CK2 and signaling pathways (A) regulating fatty acid synthesis
   or (B) controlled by phospholipases
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,8 @@ pathway_score: 0.9052624
 filename: AnnGastroenterol-33-223-g003.jpg
 figtitle: Virulence factors of Fusobacterium (F.) nucleatum
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

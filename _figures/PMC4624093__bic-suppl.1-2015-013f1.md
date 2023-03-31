@@ -15,7 +15,8 @@ pathway_score: 0.722525
 filename: bic-suppl.1-2015-013f1.jpg
 figtitle: Biomarkers of Angiogenesis in Colorectal Cancer.
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 29314a18-de99-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

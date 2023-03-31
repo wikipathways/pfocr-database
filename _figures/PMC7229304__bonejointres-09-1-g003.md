@@ -28,7 +28,8 @@ pathway_score: 0.9731249
 filename: bonejointres-09-1-g003.jpg
 figtitle: Biochemical coupling
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

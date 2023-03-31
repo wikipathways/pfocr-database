@@ -33,7 +33,8 @@ pathway_score: 0.9253045
 filename: cshperspect-CSD-008771_F1.jpg
 figtitle: MTOR pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 51aa0ad8-defa-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

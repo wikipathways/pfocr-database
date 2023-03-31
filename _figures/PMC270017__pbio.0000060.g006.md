@@ -15,7 +15,8 @@ pathway_score: 0.755289
 filename: pbio.0000060.g006.jpg
 figtitle: Identification of Drosophila MicroRNA Targets
 year: '2003'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

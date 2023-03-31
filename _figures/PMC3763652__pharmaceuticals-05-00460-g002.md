@@ -12,7 +12,8 @@ pathway_score: 0.8312675
 filename: pharmaceuticals-05-00460-g002.jpg
 figtitle: The synthetic pathway for the preparation of compounds 2–5
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

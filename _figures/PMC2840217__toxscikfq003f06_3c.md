@@ -24,7 +24,8 @@ filename: toxscikfq003f06_3c.jpg
 figtitle: Antioxidant and phase II detoxifying enzyme genes in response to MG132 (A),
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3a933ef4-deb0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

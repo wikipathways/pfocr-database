@@ -11,7 +11,8 @@ pathway_score: 0.9647734
 filename: carcinbgr305f01_4c.jpg
 figtitle: Wnt/Beta-catenin signaling pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 45d76b72-ded4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

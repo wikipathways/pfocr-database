@@ -16,7 +16,8 @@ pathway_score: 0.9547169
 filename: cddiscovery201769-f2.jpg
 figtitle: Multiple signaling pathways drive EMT in GBC cells
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 6cacbf59-deec-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

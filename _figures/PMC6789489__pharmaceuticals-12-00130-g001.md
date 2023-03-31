@@ -21,7 +21,8 @@ pathway_score: 0.9069616
 filename: pharmaceuticals-12-00130-g001.jpg
 figtitle: Action of methylxanthine (MTXs) in glioblastoma (GBM)
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4028ea71-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

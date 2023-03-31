@@ -21,7 +21,8 @@ filename: Int-J-Fertil-Steril-14-57-g01.jpg
 figtitle: Concept model of micronutrients administration in support to DNA methylation
   (blue pathway) and antioxidant defences (grey pathway)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

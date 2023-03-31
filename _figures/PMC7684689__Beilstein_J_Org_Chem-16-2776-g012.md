@@ -28,7 +28,8 @@ filename: Beilstein_J_Org_Chem-16-2776-g012.jpg
 figtitle: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
   of the isoprenyl esters
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

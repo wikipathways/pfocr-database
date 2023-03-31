@@ -16,7 +16,8 @@ pathway_score: 0.9141513
 filename: pharmaceuticals-14-00063-g002.jpg
 figtitle: Proposed biosynthetic pathway of mycosporine-like amino acids
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

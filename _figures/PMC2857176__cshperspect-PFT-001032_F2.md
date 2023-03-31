@@ -20,7 +20,8 @@ filename: cshperspect-PFT-001032_F2.jpg
 figtitle: Individuals with different genotypes of MDM2 SNP309 could be affected differently
   by estrogen signaling manipulation
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

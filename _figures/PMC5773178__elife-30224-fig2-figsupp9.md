@@ -14,7 +14,8 @@ filename: elife-30224-fig2-figsupp9.jpg
 figtitle: Signalling pathway impact analysis of gene expression data from H226 MM
   cells expressing C91A-mutant (mt BAP1) or wild-type BAP1 (wt BAP1)
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 63e065f9-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

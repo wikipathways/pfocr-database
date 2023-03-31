@@ -35,7 +35,8 @@ filename: mSystems.00539-20-f0001.jpg
 figtitle: Working model for cross-pathway regulation between competence and biofilm
   in B
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

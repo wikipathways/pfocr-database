@@ -22,7 +22,8 @@ pathway_score: 0.947806
 filename: Fig3_Rev-Scott.jpg
 figtitle: AKAP-Lbc integrates multiple signaling pathways
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c0fd2ff2-defa-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

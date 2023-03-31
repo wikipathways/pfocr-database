@@ -12,7 +12,8 @@ pathway_score: 0.9226382
 filename: RomJOphthalmol-64-100-g001.jpg
 figtitle: Melanin synthesis pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

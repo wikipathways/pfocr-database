@@ -33,7 +33,8 @@ pathway_score: 0.9697022
 filename: elife-45310-fig1-figsupp1.jpg
 figtitle: cis-carotene biosynthesis and regulation of PLB formation during skotomorphogenesis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

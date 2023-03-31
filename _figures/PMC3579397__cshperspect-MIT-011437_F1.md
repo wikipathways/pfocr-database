@@ -26,7 +26,8 @@ pathway_score: 0.9086325
 filename: cshperspect-MIT-011437_F1.jpg
 figtitle: Sulfide production
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

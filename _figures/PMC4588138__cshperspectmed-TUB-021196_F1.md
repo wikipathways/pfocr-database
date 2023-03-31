@@ -20,7 +20,8 @@ filename: cshperspectmed-TUB-021196_F1.jpg
 figtitle: Schematic of opportunities for host-directed therapies modulating eicosanoid
   balance
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

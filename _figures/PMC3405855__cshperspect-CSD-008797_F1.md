@@ -18,7 +18,8 @@ pathway_score: 0.7126893
 filename: cshperspect-CSD-008797_F1.jpg
 figtitle: Apoptosis pathway in Drosophila
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 2db7285d-dee0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

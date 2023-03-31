@@ -16,7 +16,8 @@ filename: cshperspect-TGF-022145_F4.jpg
 figtitle: Regulation of cellular senescence by transforming growth factor B (TGFB)
   signaling
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 8e9f5707-dedc-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

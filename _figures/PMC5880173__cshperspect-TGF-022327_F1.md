@@ -33,7 +33,8 @@ filename: cshperspect-TGF-022327_F1.jpg
 figtitle: Bone morphogenetic protein (BMP) pathway and potential strategies for therapeutic
   modulation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

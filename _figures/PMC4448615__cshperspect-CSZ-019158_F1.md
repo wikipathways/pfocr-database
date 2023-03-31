@@ -24,7 +24,8 @@ pathway_score: 0.7830027
 filename: cshperspect-CSZ-019158_F1.jpg
 figtitle: Plant and yeast cell walls (CWs)
 year: '2015'
-organisms: XXX
+organisms:
+- XXX
 ndex: ''
 annotations: []
 seo: CreativeWork

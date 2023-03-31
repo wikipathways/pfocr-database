@@ -25,7 +25,8 @@ pathway_score: 0.9434641
 filename: cshperspect-END-016949_F4.jpg
 figtitle: Endosomal sorting regulates integrin-based focal adhesions
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -41,7 +41,8 @@ pathway_score: 0.9306425
 filename: cshperspect-STH-023895_F4.jpg
 figtitle: Gene circuits for biomedical applications
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b2eb182f-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

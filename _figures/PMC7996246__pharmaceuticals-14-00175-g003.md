@@ -23,7 +23,8 @@ pathway_score: 0.9594027
 filename: pharmaceuticals-14-00175-g003.jpg
 figtitle: AT2R-mediated intracellular signaling pathways involved in neuronal cells
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

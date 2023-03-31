@@ -17,7 +17,8 @@ filename: bioengineering-02-00204-g002.jpg
 figtitle: Schematic diagram of the shikimate and aromatic amino acid biosynthetic
   pathways in plants
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

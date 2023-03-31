@@ -21,7 +21,8 @@ pathway_score: 0.7032173
 filename: cshperspect-PRT-007500_F3.jpg
 figtitle: A pathway for Parkinson’s
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

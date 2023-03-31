@@ -25,7 +25,8 @@ pathway_score: 0.9039014
 filename: cshperspect-ERT-013235_F2.jpg
 figtitle: Biosynthetic pathways of aminoglycerophospholipids
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

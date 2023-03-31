@@ -20,7 +20,8 @@ pathway_score: 0.9011558
 filename: cshperspectmed-TUB-018507_F5.jpg
 figtitle: Nutritional immunity to Mtb
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

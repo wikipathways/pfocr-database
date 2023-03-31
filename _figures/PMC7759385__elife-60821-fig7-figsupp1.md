@@ -24,7 +24,8 @@ pathway_score: 0.9433689
 filename: elife-60821-fig7-figsupp1.jpg
 figtitle: Unifying model of Vpr function
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

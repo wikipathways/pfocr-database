@@ -27,7 +27,8 @@ filename: pharmaceuticals-06-01347-g005.jpg
 figtitle: Effect of the SNP variant (Q141K) on the protein expression level and degradation
   of ABCG2
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

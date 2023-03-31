@@ -21,7 +21,8 @@ pathway_score: 0.9109054
 filename: cercorbhm206f01_ht.jpg
 figtitle: Activity-dependent gene expression in neurons
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b30b3fed-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

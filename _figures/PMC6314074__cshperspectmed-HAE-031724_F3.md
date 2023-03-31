@@ -42,7 +42,8 @@ pathway_score: 0.7580741
 filename: cshperspectmed-HAE-031724_F3.jpg
 figtitle: Life cycle of hepatitis E virus (HEV)
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

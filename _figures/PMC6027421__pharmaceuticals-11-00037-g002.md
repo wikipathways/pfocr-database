@@ -18,7 +18,8 @@ pathway_score: 0.9455617
 filename: pharmaceuticals-11-00037-g002.jpg
 figtitle: Steroid biosynthetic pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

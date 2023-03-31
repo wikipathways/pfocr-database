@@ -19,7 +19,8 @@ filename: mSphere.00958-19-f0009.jpg
 figtitle: Differentially expressed genes (DEGs) involved in major metabolic pathways
   during development from the mature spore to the sporoplasm
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

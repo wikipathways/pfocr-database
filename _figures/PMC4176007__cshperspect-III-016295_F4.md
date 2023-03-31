@@ -17,7 +17,8 @@ filename: cshperspect-III-016295_F4.jpg
 figtitle: IL-6 receptor system and IL-6 blocker, a humanized anti-IL-6 receptor antibody
   tocilizumab
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

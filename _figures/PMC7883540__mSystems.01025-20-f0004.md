@@ -23,7 +23,8 @@ pathway_score: 0.9129023
 filename: mSystems.01025-20-f0004.jpg
 figtitle: Integrated analysis of transcriptional and metabolic changes
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

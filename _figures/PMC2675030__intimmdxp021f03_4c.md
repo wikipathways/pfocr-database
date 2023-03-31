@@ -18,7 +18,8 @@ pathway_score: 0.7886198
 filename: intimmdxp021f03_4c.jpg
 figtitle: Steps in the generation of Th17 cells
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e3438bbd-deab-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

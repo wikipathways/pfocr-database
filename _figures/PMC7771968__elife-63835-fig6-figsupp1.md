@@ -14,7 +14,8 @@ pathway_score: 0.9683858
 filename: elife-63835-fig6-figsupp1.jpg
 figtitle: Purine catabolism pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -21,7 +21,8 @@ filename: biomolecules-10-01241-sch001.jpg
 figtitle: A high-fat diet (HFD) and chronic cannabidiol (CBD) administration on the
   sphingolipid metabolic pathway in rat myocytes
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -16,7 +16,8 @@ filename: carcinbgp202f06_lw.jpg
 figtitle: Diagram depicting the inhibitory and activating effects of OSU-A9 on the
   Akt–NFKB signaling axis and stress response signaling, respectively
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 863c196e-deaf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

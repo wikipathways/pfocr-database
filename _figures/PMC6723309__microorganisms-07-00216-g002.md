@@ -28,7 +28,8 @@ filename: microorganisms-07-00216-g002.jpg
 figtitle: Hypothetical model for adenoviral regulation of stress-induced EGFR signaling
   through NFKB
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 5ac19ede-df1f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

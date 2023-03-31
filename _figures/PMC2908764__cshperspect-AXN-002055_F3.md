@@ -29,7 +29,8 @@ filename: cshperspect-AXN-002055_F3.jpg
 figtitle: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
   midline
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

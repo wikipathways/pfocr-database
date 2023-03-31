@@ -15,7 +15,8 @@ filename: jexboterr306f04_3c.jpg
 figtitle: Simplified, schematic representation of cross-talk between general phosphoinositol
   pathway and biosynthetic pathways of ascorbic acid (vitamin C)
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

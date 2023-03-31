@@ -20,7 +20,8 @@ filename: mSphere.00818-19-f0006.jpg
 figtitle: Model illustrating the putative mechanism by which PUUP potentiates CAS
   activity
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ figtitle: Pathview () plot of the KEGG () pathway showing the Cell mitotic cycle
   fold change in expression of cell cycle transcripts from HIOs microinjected with
   E
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a8a337b7-df2e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

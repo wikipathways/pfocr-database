@@ -13,7 +13,8 @@ pathway_score: 0.963595
 filename: bioengineering-07-00088-g010.jpg
 figtitle: Representation of the TGFB, BMP, and WNT signaling pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

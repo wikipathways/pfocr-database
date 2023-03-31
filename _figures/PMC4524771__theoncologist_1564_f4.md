@@ -19,7 +19,8 @@ pathway_score: 0.8503258
 filename: theoncologist_1564_f4.jpg
 figtitle: Proposed anticancer mechanisms of itraconazole
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

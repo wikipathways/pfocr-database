@@ -22,7 +22,8 @@ filename: biomolecules-10-01128-sch001.jpg
 figtitle: Proposed mechanisms leading to the neurotoxicity in hyperhomocysteinemia
   (hHcy) + ischemia-reperfusion insult (IRI) conditions
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

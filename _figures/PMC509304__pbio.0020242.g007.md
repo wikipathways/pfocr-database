@@ -25,7 +25,8 @@ filename: pbio.0020242.g007.jpg
 figtitle: p19 Arf Suppresses Growth, Progression, and Metastasis of Hras-Driven Carcinomas
   through p53-Dependent and -Independent Pathways
 year: '2004'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

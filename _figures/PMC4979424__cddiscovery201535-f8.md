@@ -22,7 +22,8 @@ pathway_score: 0.976032
 filename: cddiscovery201535-f8.jpg
 figtitle: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

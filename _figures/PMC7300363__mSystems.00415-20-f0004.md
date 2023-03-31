@@ -25,7 +25,8 @@ filename: mSystems.00415-20-f0004.jpg
 figtitle: Hypothesized central carbon metabolism, electron transport chain, and selected
   transport capabilities in HMT
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

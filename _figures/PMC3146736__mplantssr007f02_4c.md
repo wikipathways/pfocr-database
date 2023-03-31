@@ -33,7 +33,8 @@ figtitle: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulat
   of Plant Meristem Development.(A) In CZ of shoot meristem, ARR7 and ARR15 act as
   integrative factors in auxin and cytokinin signaling pathways
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

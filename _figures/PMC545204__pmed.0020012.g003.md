@@ -39,7 +39,8 @@ pathway_score: 0.8982731
 filename: pmed.0020012.g003.jpg
 figtitle: Retinoic Acid and Arsenic for Treating Acute Promyelocytic Leukemia
 year: '2005'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: d83a4e24-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

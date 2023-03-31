@@ -21,7 +21,8 @@ filename: pharmaceuticals-09-00024-g002.jpg
 figtitle: Pathways associated with the sensitivity or resistance of tumor cells to
   metformin under normoglycemic or hyperglycemic conditions
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

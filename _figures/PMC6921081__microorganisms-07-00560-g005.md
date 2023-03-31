@@ -16,7 +16,8 @@ pathway_score: 0.7244377
 filename: microorganisms-07-00560-g005.jpg
 figtitle: Proposed pathway for epoxy-janthitrem I–IV biosynthesis
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -36,7 +37,7 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - paspaline
-  - "13-desoxypaxilline \x1F B-paxitriol"
+  - "13-desoxypaxilline  B-paxitriol"
   - paxilline
   - janthitremF
   - epoxy-janthitremI
@@ -49,7 +50,7 @@ chemicals:
 - word: paspaline
   source: MESH
   identifier: C048221
-- word: "13-desoxypaxilline \x1F B-paxitriol"
+- word: "13-desoxypaxilline  B-paxitriol"
   source: MESH
   identifier: C513342
 - word: paxilline

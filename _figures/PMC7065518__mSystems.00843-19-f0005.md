@@ -23,7 +23,8 @@ pathway_score: 0.9642413
 filename: mSystems.00843-19-f0005.jpg
 figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitation
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -13,7 +13,8 @@ pathway_score: 0.9447318
 filename: jcad_7_7_suppl1-g009a.jpg
 figtitle: Updates on Psoriasis and Cutaneous Oncology
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

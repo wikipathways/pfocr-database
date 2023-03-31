@@ -21,7 +21,8 @@ pathway_score: 0.9499582
 filename: cshperspectmed-AGE-025924_F1.jpg
 figtitle: Mechanistic target of rapamycin (mTOR) signaling pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 9adb229f-dee9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

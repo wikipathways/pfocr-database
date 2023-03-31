@@ -27,7 +27,8 @@ pathway_score: 0.8779622
 filename: RevDiabeticStud-03-161-001.jpg
 figtitle: Diabetes and Alzheimer's Disease - Is There a Connection?
 year: '2006'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4404ddb9-df18-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

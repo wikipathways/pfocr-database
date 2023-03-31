@@ -17,7 +17,8 @@ pathway_score: 0.5111392
 filename: carcinbgp058f01_lw.jpg
 figtitle: CART analysis of NER pathway and esophageal cancer risk
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

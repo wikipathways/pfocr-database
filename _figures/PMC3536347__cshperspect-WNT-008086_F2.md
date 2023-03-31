@@ -18,7 +18,8 @@ filename: cshperspect-WNT-008086_F2.jpg
 figtitle: Pharamcologic activators and enhancers of the Wnt/Beta-catenin signaling
   pathway and known interactions with pathway components (see  for references)
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 24e0fe73-dec5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

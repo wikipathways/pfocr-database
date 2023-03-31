@@ -27,7 +27,8 @@ pathway_score: 0.5791821
 filename: cshperspect-CIL-028225_F2.jpg
 figtitle: Signaling pathway in sea urchin sperm
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 767da899-dea8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

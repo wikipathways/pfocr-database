@@ -23,7 +23,8 @@ filename: cshperspect-SIG-006031_F3.jpg
 figtitle: Regulation of muscle glucose uptake and glycogen synthesis by insulin and
   contraction
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 21c74832-ded5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

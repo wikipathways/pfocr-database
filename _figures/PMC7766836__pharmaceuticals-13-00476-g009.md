@@ -14,7 +14,8 @@ pathway_score: 0.9650207
 filename: pharmaceuticals-13-00476-g009.jpg
 figtitle: Inhibition of Bcl-2 protein in MDA-MB-231 cells by C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

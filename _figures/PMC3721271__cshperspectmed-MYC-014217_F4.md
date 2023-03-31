@@ -14,7 +14,8 @@ pathway_score: 0.9519772
 filename: cshperspectmed-MYC-014217_F4.jpg
 figtitle: MYC is shown to stimulate genes involved in lipid synthesis
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

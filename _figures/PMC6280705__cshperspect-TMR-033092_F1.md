@@ -21,7 +21,8 @@ pathway_score: 0.9100704
 filename: cshperspect-TMR-033092_F1.jpg
 figtitle: General eukaryotic translation initiation pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -21,7 +21,8 @@ pathway_score: 0.9346157
 filename: bioengineering-03-00012-g004.jpg
 figtitle: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

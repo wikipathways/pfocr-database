@@ -12,7 +12,8 @@ pathway_score: 0.9038509
 filename: pharmaceuticals-04-01070f2.jpg
 figtitle: PI3K signaling in neural aging and disease
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 23dc4e31-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

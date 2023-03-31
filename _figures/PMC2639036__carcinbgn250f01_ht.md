@@ -18,7 +18,8 @@ pathway_score: 0.6707217
 filename: carcinbgn250f01_ht.jpg
 figtitle: Single-strand break repair pathways
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c7dad0ee-df2d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

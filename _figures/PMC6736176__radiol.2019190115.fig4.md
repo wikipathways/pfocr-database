@@ -24,7 +24,8 @@ filename: radiol.2019190115.fig4.jpg
 figtitle: Single-Dose Neoadjuvant AKT Pathway Inhibitor Reduces Growth of Hepatocellular
   Carcinoma after Laser Thermal Ablation in Small-Animal Model
 year: ''
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

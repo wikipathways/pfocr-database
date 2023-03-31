@@ -23,7 +23,8 @@ filename: pharmaceuticals-11-00087-g003.jpg
 figtitle: The “heme-mitochondria” relationship and the putative heme-related targets
   for the therapy of neurodegenerative disorders
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

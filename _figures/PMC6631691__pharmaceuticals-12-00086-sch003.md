@@ -16,7 +16,8 @@ filename: pharmaceuticals-12-00086-sch003.jpg
 figtitle: Recent Developments in Peptidyl Diaryl Phoshonates as Inhibitors and Activity-Based
   Probes for Serine Proteases
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

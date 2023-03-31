@@ -41,7 +41,8 @@ pathway_score: 0.8935673
 filename: microorganisms-08-00180-g001.jpg
 figtitle: Interplay of different signalling pathways that enable C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

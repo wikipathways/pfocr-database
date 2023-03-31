@@ -38,7 +38,8 @@ pathway_score: 0.868829
 filename: Fig1_VPHuggins.jpg
 figtitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological Mechanisms'
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

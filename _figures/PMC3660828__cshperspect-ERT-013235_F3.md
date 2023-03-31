@@ -28,7 +28,8 @@ filename: cshperspect-ERT-013235_F3.jpg
 figtitle: Components involved in translocation of phospholipids to and within mitochondria
   of yeast
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 0a3639ad-dea4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

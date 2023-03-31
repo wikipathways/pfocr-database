@@ -23,7 +23,8 @@ pathway_score: 0.9539304
 filename: cshperspect-IMS-003004_F4.jpg
 figtitle: Proposed model for MALT1 function in NFKB activation
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -34,7 +34,8 @@ filename: cshperspect-CAL-004564_F2.jpg
 figtitle: Activity-dependent gene expression in neurons is regulated by distinct calcium
   signaling pathways
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4e31c15b-df07-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

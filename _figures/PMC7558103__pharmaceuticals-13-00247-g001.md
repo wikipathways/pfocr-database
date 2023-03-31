@@ -13,7 +13,8 @@ pathway_score: 0.9109919
 filename: pharmaceuticals-13-00247-g001.jpg
 figtitle: The nicotinamide adenine dinucleotide (NAD) metabolism
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

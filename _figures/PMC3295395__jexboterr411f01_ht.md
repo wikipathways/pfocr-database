@@ -11,7 +11,8 @@ pathway_score: 0.8905486
 filename: jexboterr411f01_ht.jpg
 figtitle: Schematic representation of the biosynthetic pathway of RFOs
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

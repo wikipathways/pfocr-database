@@ -22,7 +22,8 @@ pathway_score: 0.334582
 filename: TOCHGENJ-1-11_F4.jpg
 figtitle: Multiplexing Bioluminescent and Fluorescent Reporters to Monitor Live Cells
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

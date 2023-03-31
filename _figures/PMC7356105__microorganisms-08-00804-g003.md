@@ -13,7 +13,8 @@ pathway_score: 0.8551476
 filename: microorganisms-08-00804-g003.jpg
 figtitle: TNF pathway inhibition in HGF in response to C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

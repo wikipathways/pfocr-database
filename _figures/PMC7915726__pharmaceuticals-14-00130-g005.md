@@ -18,7 +18,8 @@ pathway_score: 0.937083
 filename: pharmaceuticals-14-00130-g005.jpg
 figtitle: MERTK in Yes-associated protein (YAP)-mediated EGFR-TKI resistance
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -32,7 +32,8 @@ figtitle: Differentially regulated metabolic fluxes and metabolites in gluconeog
   (A), pentose phosphate pathway (B), TCA cycle (C), arginine biosynthesis pathways
   (D), and respiratory chain (E) under 2-mg/liter colistin treatment for 1 h
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

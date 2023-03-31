@@ -17,7 +17,8 @@ filename: bonejointres-09-225-g007.jpg
 figtitle: A20 attenuates senescence of tumour necrosis factor alpha (TNFA)-induced
   nucleus pulposus cells (NPCs)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

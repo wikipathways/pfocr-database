@@ -25,7 +25,8 @@ filename: Beilstein_J_Org_Chem-13-348-g004.jpg
 figtitle: Schematic of the biosynthetic pathway leading to erythromycin A (1) in the
   bacterium Saccharopolyspora erythraea
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

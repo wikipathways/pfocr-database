@@ -26,7 +26,8 @@ pathway_score: 0.9557621
 filename: cshperspect-END-016907_F4.jpg
 figtitle: Model of TFEB regulation and function during starvation
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

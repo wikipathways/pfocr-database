@@ -48,7 +48,8 @@ filename: elife-31097-fig4-figsupp2.jpg
 figtitle: Comparative genomic reconstruction of L-gulonate and related uronic acid
   catabolic pathways and regulons in gammaproteobacteria
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

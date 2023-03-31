@@ -18,7 +18,8 @@ pathway_score: 0.9457192
 filename: JZhejiangUnivSciB-22-1-38-g003.jpg
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -28,7 +28,8 @@ pathway_score: 0.9645529
 filename: PROCATS5115fig2.jpg
 figtitle: Calcium Signaling in Airway Smooth Muscle
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ecb68b14-debe-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

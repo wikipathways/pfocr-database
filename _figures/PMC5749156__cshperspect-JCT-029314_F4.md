@@ -27,7 +27,8 @@ pathway_score: 0.9268742
 filename: cshperspect-JCT-029314_F4.jpg
 figtitle: Molecular mechanisms of leak and pore pathway regulation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ filename: cshperspectmed-BOB-031245_F2.jpg
 figtitle: Nuclear factor of activated T cell (NFAT)c1-centered osteoclastogenic signaling
   network
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

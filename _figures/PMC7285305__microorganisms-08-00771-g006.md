@@ -14,7 +14,8 @@ pathway_score: 0.6709865
 filename: microorganisms-08-00771-g006.jpg
 figtitle: Representation of metabolic pathway performed on KEGG website
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

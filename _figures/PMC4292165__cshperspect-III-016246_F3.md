@@ -23,7 +23,8 @@ pathway_score: 0.9550179
 filename: cshperspect-III-016246_F3.jpg
 figtitle: RLR Signaling pathway
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c3766ae1-deeb-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

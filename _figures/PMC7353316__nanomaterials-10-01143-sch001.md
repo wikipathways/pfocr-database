@@ -13,7 +13,8 @@ pathway_score: 0.9564713
 filename: nanomaterials-10-01143-sch001.jpg
 figtitle: Synthetic pathway for imidazolium/benzimidazolium salts 5–9
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -30,7 +31,7 @@ schema-jsonld:
   keywords:
   - KL
   - PHOH
-  - "AICI3, PhMe \x1F Br"
+  - "AICI3, PhMe  Br"
   - acetone
   - OH
   - CH20
@@ -48,7 +49,7 @@ chemicals:
 - word: PHOH
   source: ''
   identifier: ''
-- word: "AICI3, PhMe \x1F Br"
+- word: "AICI3, PhMe  Br"
   source: MESH
   identifier: C084701
 - word: acetone

@@ -23,7 +23,8 @@ filename: mSystems.00745-20-f0001.jpg
 figtitle: Alternative assimilation pathways of d-arabitol with an example of the measured
   and expected labeling of Rib5P
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

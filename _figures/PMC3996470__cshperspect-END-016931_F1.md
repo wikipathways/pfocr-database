@@ -17,7 +17,8 @@ pathway_score: 0.9354365
 filename: cshperspect-END-016931_F1.jpg
 figtitle: Receptor-mediated endocytic pathway in nonpolarized mammalian cells
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ pathway_score: 0.9645199
 filename: bioengineering-03-00010-g002.jpg
 figtitle: Metabolic engineering of xylitol production in E
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ filename: jexboters010f01_ht.jpg
 figtitle: Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
   and 13-LOX branches
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

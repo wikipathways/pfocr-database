@@ -24,7 +24,8 @@ filename: microorganisms-09-00249-g001.jpg
 figtitle: Microbial, sugar-based, solvent production pathways for alcohols, terpenoids,
   and aromatic compounds
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

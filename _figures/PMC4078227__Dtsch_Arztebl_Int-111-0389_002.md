@@ -16,7 +16,8 @@ pathway_score: 0.8953119
 filename: Dtsch_Arztebl_Int-111-0389_002.jpg
 figtitle: Hedgehog signal pathway
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ pathway_score: 0.7277533
 filename: bioengineering-02-00213-g001.jpg
 figtitle: Schematic outline of the experimental approach used in this study (A)
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c702ae14-df2f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

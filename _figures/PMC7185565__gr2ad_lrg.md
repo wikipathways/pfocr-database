@@ -22,7 +22,8 @@ pathway_score: 0.9502269
 filename: gr2ad_lrg.jpg
 figtitle: Emerging Themes in PDZ Domain Signaling
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

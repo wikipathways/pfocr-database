@@ -26,7 +26,8 @@ filename: cshperspect-PRT-004507_F8.jpg
 figtitle: Small molecule activation of the unfolded protein response improves the
   folding, trafficking, and function of folding compromised secreted proteins
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

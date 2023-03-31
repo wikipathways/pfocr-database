@@ -14,7 +14,8 @@ filename: bioengineering-07-00088-g004.jpg
 figtitle: 'In the BMP pathway, BMP triggers Smad proteins, which then either directly
   or through RUNX2 transactivate osteoblastogenic genes '
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

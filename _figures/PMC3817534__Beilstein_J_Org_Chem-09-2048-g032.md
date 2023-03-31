@@ -13,7 +13,8 @@ filename: Beilstein_J_Org_Chem-09-2048-g032.jpg
 figtitle: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
   []
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -34,7 +35,7 @@ schema-jsonld:
   - DMAPP
   - orsellinic acid
   - OH polyene
-  - "terpenoid \x1F Me \x1F"
+  - "terpenoid  Me "
 genes:
 - word: IPP
   symbol: IPP
@@ -54,7 +55,7 @@ chemicals:
 - word: OH polyene
   source: MESH
   identifier: D011090
-- word: "terpenoid \x1F Me \x1F"
+- word: "terpenoid  Me "
   source: MESH
   identifier: D013729
 diseases: []

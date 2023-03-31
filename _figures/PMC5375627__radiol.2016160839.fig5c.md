@@ -20,7 +20,8 @@ filename: radiol.2016160839.fig5c.jpg
 figtitle: Induction of glycolytic and tricarboxylic acid cycle enzymes by M-CSF and
   GM-CSF
 year: ''
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 15f75dda-deae-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

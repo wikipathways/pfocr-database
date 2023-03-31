@@ -11,7 +11,8 @@ pathway_score: 0.5833124
 filename: Beilstein_J_Org_Chem-06-49-18.jpg
 figtitle: Synthetic pathway for hydrazono acyclic nucleoside 2a–2g
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

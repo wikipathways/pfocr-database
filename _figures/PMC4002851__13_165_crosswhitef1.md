@@ -29,7 +29,8 @@ pathway_score: 0.974394
 filename: 13_165_crosswhitef1.jpg
 figtitle: Summary of molecular mechanisms involved in pulmonary remodeling
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3ac3c08e-deb7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

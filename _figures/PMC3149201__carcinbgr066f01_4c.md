@@ -22,7 +22,8 @@ filename: carcinbgr066f01_4c.jpg
 figtitle: Inhibition of the KAI1 cancer metastasis suppressor pathway in African-American
   patients
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: da1f2226-df37-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

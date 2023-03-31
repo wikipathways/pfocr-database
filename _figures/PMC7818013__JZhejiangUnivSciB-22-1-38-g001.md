@@ -17,7 +17,8 @@ pathway_score: 0.9218093
 filename: JZhejiangUnivSciB-22-1-38-g001.jpg
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -46,7 +47,7 @@ schema-jsonld:
   - MUM1
   - PAXIP1
   - RIF1
-  - "ATM \x1F Me2"
+  - "ATM  Me2"
 genes:
 - word: +MDC1
   symbol: MDC1
@@ -99,7 +100,7 @@ genes:
   hgnc_symbol: RIF1
   entrez: '55183'
 chemicals:
-- word: "ATM \x1F Me2"
+- word: "ATM  Me2"
   source: MESH
   identifier: C521637
 diseases: []

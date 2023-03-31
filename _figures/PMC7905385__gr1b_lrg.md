@@ -60,7 +60,8 @@ filename: gr1b_lrg.jpg
 figtitle: Immune response, immunopathology, and mechanism of action of immunotherapeutics
   for SARS-CoV-2 infection (intracellular)
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

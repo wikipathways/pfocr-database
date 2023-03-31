@@ -17,7 +17,8 @@ filename: cddiscovery201752-f8.jpg
 figtitle: Proposed model of the cell autophagy induced by SAHA and TRAIL DR5-CTSB
   in breast cancer cell lines
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 5cf1f356-def7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

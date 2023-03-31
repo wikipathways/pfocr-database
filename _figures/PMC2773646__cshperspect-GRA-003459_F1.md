@@ -21,7 +21,8 @@ pathway_score: 0.9198936
 filename: cshperspect-GRA-003459_F1.jpg
 figtitle: Nodal signaling pathway
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 17372f13-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

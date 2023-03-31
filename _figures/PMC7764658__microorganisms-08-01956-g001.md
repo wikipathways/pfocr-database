@@ -29,7 +29,8 @@ filename: microorganisms-08-01956-g001.jpg
 figtitle: The type III secretion system (T3SS) regulation and modes of action of T3SS
   inhibitors in Dickeya dadantii
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

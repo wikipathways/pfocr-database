@@ -15,7 +15,8 @@ filename: mSystems.00268-19-f0008.jpg
 figtitle: Identification of DEGs relevant to protein processing in the endoplasmic
   reticulum pathway
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 21f2bf81-df17-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

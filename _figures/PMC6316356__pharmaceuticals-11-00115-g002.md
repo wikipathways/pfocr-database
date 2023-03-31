@@ -19,7 +19,8 @@ filename: pharmaceuticals-11-00115-g002.jpg
 figtitle: Graphic representation of the hepatic Hepc pathway in conditions of systemic
   iron increase
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7acc9c76-dee8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

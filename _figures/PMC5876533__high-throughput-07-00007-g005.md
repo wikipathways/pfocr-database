@@ -21,7 +21,8 @@ filename: high-throughput-07-00007-g005.jpg
 figtitle: Exemplary results of the targeted metabolomics analysis of CDF3oe plants
   relative to the wild type
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,7 +17,8 @@ filename: molbiolevolmsp226f03_3c.jpg
 figtitle: A Genome-Sequence Survey for Ascogregarina taiwanensis Supports Evolutionary
   Affiliation but Metabolic Diversity between a Gregarine and Cryptosporidium
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

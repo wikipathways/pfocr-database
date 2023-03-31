@@ -28,7 +28,8 @@ pathway_score: 0.94402
 filename: cshperspect-PRI-023523_F2.jpg
 figtitle: Cellular unfolded protein response mechanisms
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ filename: microorganisms-08-01920-g008.jpg
 figtitle: Putative metabolic pathway for the production of derivatives of nitrogen-containing
   azaphilone red pigments in the marine-derived Talaromyces sp
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

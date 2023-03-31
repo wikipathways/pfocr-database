@@ -20,7 +20,8 @@ filename: mSphere.00366-20-f0007.jpg
 figtitle: Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP in microcolony
   formation
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

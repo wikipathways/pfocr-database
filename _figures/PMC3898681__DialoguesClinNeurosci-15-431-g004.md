@@ -27,7 +27,8 @@ filename: DialoguesClinNeurosci-15-431-g004.jpg
 figtitle: Working model of chronic morphine-induced adaptations in ventral tegmental
   area (VTA) dopamine neurons
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a0c8c26b-dee5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

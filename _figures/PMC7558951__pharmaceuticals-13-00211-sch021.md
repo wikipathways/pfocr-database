@@ -12,7 +12,8 @@ pathway_score: 0.7752549
 filename: pharmaceuticals-13-00211-sch021.jpg
 figtitle: Synthetic pathway to obtain the selenosugars 124 and 128
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -33,15 +34,15 @@ schema-jsonld:
   - RPL26
   - RPL27
   - Se Me TMSOTF, Et3N
-  - "Se \x1F Me TFA"
-  - "Se Me \x1F"
-  - "pymiridine bases \x1F -Me \x1F Toluene"
+  - "Se  Me TFA"
+  - "Se Me "
+  - "pymiridine bases  -Me  Toluene"
   - CH2Cl2
   - Ac20
   - 6-chloropurine
   - OAc
-  - "Se \x1F Me \x1F TFA"
-  - "Se \x1F Me \x1F Toluene"
+  - "Se  Me  TFA"
+  - "Se  Me  Toluene"
   - NH3
   - t-BUOH
 genes:
@@ -74,13 +75,13 @@ chemicals:
 - word: Se Me TMSOTF, Et3N
   source: MESH
   identifier: C053353
-- word: "Se \x1F Me TFA"
+- word: "Se  Me TFA"
   source: MESH
   identifier: D012643
-- word: "Se Me \x1F"
+- word: "Se Me "
   source: MESH
   identifier: D012643
-- word: "pymiridine bases \x1F -Me \x1F Toluene"
+- word: "pymiridine bases  -Me  Toluene"
   source: MESH
   identifier: D014050
 - word: CH2Cl2
@@ -95,10 +96,10 @@ chemicals:
 - word: OAc
   source: MESH
   identifier: C065699
-- word: "Se \x1F Me \x1F TFA"
+- word: "Se  Me  TFA"
   source: MESH
   identifier: D012643
-- word: "Se \x1F Me \x1F Toluene"
+- word: "Se  Me  Toluene"
   source: MESH
   identifier: D014050
 - word: NH3

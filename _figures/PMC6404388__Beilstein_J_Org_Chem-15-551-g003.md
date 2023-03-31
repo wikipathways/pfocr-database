@@ -15,7 +15,8 @@ pathway_score: 0.9377887
 filename: Beilstein_J_Org_Chem-15-551-g003.jpg
 figtitle: Two level 4 pathways that were recently realized in vitro
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -67,7 +68,7 @@ schema-jsonld:
   - Propionyl
   - phosphate
   - (25)-Methyl
-  - "malonyl-CoA \x1F B-Methylmalyl-CoA"
+  - "malonyl-CoA  B-Methylmalyl-CoA"
   - Propionyl-CoA
   - Glyoxylate
   - malyl-CoA
@@ -186,7 +187,7 @@ chemicals:
 - word: (25)-Methyl
   source: MESH
   identifier: C039438
-- word: "malonyl-CoA \x1F B-Methylmalyl-CoA"
+- word: "malonyl-CoA  B-Methylmalyl-CoA"
   source: MESH
   identifier: D008316
 - word: Propionyl-CoA

@@ -21,7 +21,8 @@ figtitle: Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal ep
   (PIE) cells by acidic (APS) and neutral (NPS) exopolysaccharides produced by Lactobacillus
   plantarum N14 and Lactobacillus delbrueckii TUA4408L
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 921a7a70-dee4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

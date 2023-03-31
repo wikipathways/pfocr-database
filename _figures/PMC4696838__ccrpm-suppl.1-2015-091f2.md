@@ -21,7 +21,8 @@ filename: ccrpm-suppl.1-2015-091f2.jpg
 figtitle: MSCs reduce a central profibrotic factor, TGFB1, using STC1 in bleomycin-induced
   pulmonary fibrosis
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

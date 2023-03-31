@@ -12,7 +12,8 @@ pathway_score: 0.8514414
 filename: microorganisms-08-00223-g005.jpg
 figtitle: Metabolic pathway of cypermethrin degradation of strain SG4
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

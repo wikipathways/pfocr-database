@@ -38,7 +38,8 @@ pathway_score: 0.7476767
 filename: bmi-suppl.3-2015-001f2.jpg
 figtitle: Activation and downstream signaling of class III RTKs
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 517af881-de98-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

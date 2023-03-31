@@ -18,7 +18,8 @@ pathway_score: 0.8827739
 filename: RevDiabeticStud-01-165-003.jpg
 figtitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicity
 year: '2004'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

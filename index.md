@@ -19,32 +19,24 @@ title: Home
                 <div class="row-main gy-5 py-5" style="display:flex; flex-wrap: wrap;margin-right: -95px;margin-left: 25px;">
                   <div class="col-7 mx-3"> 
                     <div class="container">
-                      <h3 style="font-family:Poppins; text-align: left; font-size:larger; padding-left:14px;"><b>Search the current collection</b>
+                      <h3 style="font-family:Poppins; text-align: left; font-size:larger; padding-left:32px;"><b>Search published figures</b>
                       </h3>
-                      <div id="blue-searchbox"> 
-   <script> 
-	 (function() {
-	   var gcse = document.createElement("script");
-	   gcse.type = "text/javascript";
-	   gcse.async = true;
-	   gcse.src = "https://cse.google.com/cse.js?cx=f76f25bb7375c4c11";
-	   var s = document.getElementsByTagName("script")[0];
-	   s.parentNode.insertBefore(gcse, s);
-	 })();
-	 window.onload = function()
-	 { 
-     document.getElementById("navbarNavAltMarkup").className = "navbar-collapse show";
-	   var searchBox1 =  document.getElementById("gsc-i-id1");
-	   searchBox1.placeholder=" ";
-	   searchBox1.title="Search PFOCR"; 
-	   var searchBox2 =  document.getElementById("gsc-i-id2");
-	   searchBox2.placeholder=" e.g., ACE or cancer";
-	   searchBox2.title="Search PFOCR"; 
-	 }
-   </script>
-    <gcse:search></gcse:search>
+                      <div id="search-widget2" style="float:left; margin:4px 20px 0px 0px;">
+                        <form id="searchForm2" action="/search.html">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <input type="text" name="searchQuery2" placeholder="&nbsp;e.g., ace2 aldosterone human" style="width: 280px;">
+                        </form>          
                       </div>
-                      <p style="color: #6c757d;text-align: left; padding-left:14px; ">Search by gene symbols, pathway names or other keywords</p>
+                      <script>
+                        const searchForm2 = document.getElementById('searchForm2');
+                        searchForm2.addEventListener('submit', function(event) {
+                        event.preventDefault(); // Prevent the default form submission behavior
+                        const searchQuery2 = encodeURIComponent(searchForm2.elements.searchQuery2.value); // Get the search query and encode it
+                        const searchUrl2 = `/search.html?query=${searchQuery2}`; // Construct the search results page URL with the search query as a parameter
+                        window.location.href = searchUrl2; // Navigate to the search results page
+                        });
+                      </script>
+                      <p style="color: #6c757d;text-align: center; ">Search by gene symbols, pathway names or other keywords</p>
                     </div>
                   </div>
                 </div>
@@ -54,7 +46,7 @@ title: Home
           <div class="col-7 mx-auto gy-4 py-4 px-0" style="display:flex;">
             <div style="margin-left:39px">
               <a href="/figures/PMC6365454__fnins-13-00025-g0002.html">
-                <img src="assets/img/frontpage_image.png" />
+                <img src="assets/img/frontpage_image.png" title="Click to visit this figure page"/>
               </a>
               <p style="color: #6c757d;text-align: left">Pathway figures annotated with genes, metabolites, drugs and disease identifiers.</p>
             </div>

@@ -21,7 +21,8 @@ filename: medscimonit-17-6-RA148-g001.jpg
 figtitle: Host cell machinery gets activated during influenza infection and leads
   to trigger Signaling pathways
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7b8ac93b-ded3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

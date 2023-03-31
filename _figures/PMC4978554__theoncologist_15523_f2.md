@@ -18,7 +18,8 @@ pathway_score: 0.901247
 filename: theoncologist_15523_f2.jpg
 figtitle: PD-1 pathway inhibition
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

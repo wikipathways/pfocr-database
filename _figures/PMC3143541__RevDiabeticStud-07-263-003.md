@@ -23,7 +23,8 @@ filename: RevDiabeticStud-07-263-003.jpg
 figtitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Potential
   Role of Zinc in Islet Transplantation
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

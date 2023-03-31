@@ -19,7 +19,8 @@ pathway_score: 0.9506758
 filename: pharmaceuticals-14-00200-g004.jpg
 figtitle: CD226 downregulation
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

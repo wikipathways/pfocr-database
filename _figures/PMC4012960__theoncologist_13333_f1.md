@@ -19,7 +19,8 @@ pathway_score: 0.9096372
 filename: theoncologist_13333_f1.jpg
 figtitle: PTEN/PI3K/Akt signaling pathway
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 95d0db3f-df03-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

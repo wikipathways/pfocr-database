@@ -31,7 +31,8 @@ figtitle: Mechanism of apoptosis induction in oncogenically transformed cells th
   signalling by surrounding cells (intercellular induction of apoptosis; reviewed
   in ref
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

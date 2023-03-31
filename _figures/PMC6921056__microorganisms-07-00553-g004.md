@@ -18,7 +18,8 @@ pathway_score: 0.5353817
 filename: microorganisms-07-00553-g004.jpg
 figtitle: Proposed model scheme
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -37,7 +37,8 @@ filename: pharmaceuticals-13-00432-g002.jpg
 figtitle: Crosstalk between the major signaling pathway regulating autophagy and liver
   tumorigenesis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

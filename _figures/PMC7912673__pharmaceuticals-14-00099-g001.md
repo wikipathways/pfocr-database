@@ -27,7 +27,8 @@ pathway_score: 0.8841149
 filename: pharmaceuticals-14-00099-g001.jpg
 figtitle: 'Panel (A): Mechanisms of drug inhibition on cellular pathways'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

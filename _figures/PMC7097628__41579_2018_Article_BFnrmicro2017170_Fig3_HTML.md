@@ -49,7 +49,8 @@ pathway_score: 0.8976009
 filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
 figtitle: Rewiring cellular networks by members of the Flaviviridae family
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

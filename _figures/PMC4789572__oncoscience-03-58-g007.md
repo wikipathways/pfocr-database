@@ -14,7 +14,8 @@ pathway_score: 0.8634462
 filename: oncoscience-03-58-g007.jpg
 figtitle: Circadian-disruption-induced gene expression changes in rodent mammary tissues
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 65dd51c8-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

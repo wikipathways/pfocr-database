@@ -18,7 +18,8 @@ filename: cshperspect-SIG-009654_F6.jpg
 figtitle: Interaction map showing potential links between the Par proteins and components
   of the Hippo pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e43ba462-def1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -34,7 +34,8 @@ pathway_score: 0.9000668
 filename: elife-20214-fig5-figsupp1.jpg
 figtitle: Glucocorticoid-driven network links many of the top-ranked PLSR genes
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b1953624-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

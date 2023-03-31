@@ -22,7 +22,8 @@ pathway_score: 0.9255452
 filename: cshperspectmed-SKN-017772_F3.jpg
 figtitle: Molecular mechanisms of Notch-mediated epidermal homeostasis
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a893c70d-de9d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

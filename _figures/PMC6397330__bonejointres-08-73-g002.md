@@ -13,7 +13,8 @@ pathway_score: 0.6665222
 filename: bonejointres-08-73-g002.jpg
 figtitle: Long non-coding RNA in osteogenesis
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -19,7 +19,8 @@ pathway_score: 0.9556831
 filename: pharmaceuticals-03-01311-g002.jpg
 figtitle: ATM and ATR signaling pathways
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

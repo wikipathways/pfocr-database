@@ -28,7 +28,8 @@ filename: cshperspectmed-RAC-031849_F3.jpg
 figtitle: Cooperation of Kras-mutant tumor cells with pancreatic stellate cells in
   tumor microenvironment (TME) immunomodulation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

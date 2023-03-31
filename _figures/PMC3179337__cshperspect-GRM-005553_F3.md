@@ -38,7 +38,8 @@ filename: cshperspect-GRM-005553_F3.jpg
 figtitle: Gap junctional communication between the oocyte and the surrounding somatic
   cells regulates oocyte meiotic maturation
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: dff205c7-dea2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -16,7 +16,8 @@ figtitle: Schematic of the nucleotide excision repair pathway showing a subset o
   the proteins involved, especially those that have been implicated in response or
   resistance to oxaliplatin
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

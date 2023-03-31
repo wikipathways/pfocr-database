@@ -26,7 +26,8 @@ filename: molbiolevolmsq204f01_3c.jpg
 figtitle: Functional Compensation of Primary and Secondary Metabolites by Duplicate
   Genes in Arabidopsis thaliana
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

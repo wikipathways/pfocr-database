@@ -17,7 +17,8 @@ pathway_score: 0.9485185
 filename: cddiscovery201659-f1.jpg
 figtitle: LINP1 regulation and role in the NHEJ DNA-repair pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: adc6ebaa-ded0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

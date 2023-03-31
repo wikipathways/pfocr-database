@@ -16,7 +16,8 @@ figtitle: Mechanistic pathway for Cp*Co(III)-catalysed alkylation of acetanilide
   3-buten-2-one obtained from DFT studies; Int A is the direct interaction between
   the cationic [Cp*Co(III)AcO]+ species and the 3-buten-2-one coupling partner
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

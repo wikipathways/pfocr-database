@@ -23,7 +23,8 @@ pathway_score: 0.8337612
 filename: infdisjir508f06_3c.jpg
 figtitle: Pathways involved in protein turnover
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

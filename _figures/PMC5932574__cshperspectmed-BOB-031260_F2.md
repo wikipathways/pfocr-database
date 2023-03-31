@@ -21,7 +21,8 @@ pathway_score: 0.9165356
 filename: cshperspectmed-BOB-031260_F2.jpg
 figtitle: Fibroblast growth factor (FGF)23/FGFR1/AKlotho signaling
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ pathway_score: 0.9506227
 filename: cshperspect-AXN-001941_F2.jpg
 figtitle: Regulation of receptor activation and signaling by proteolytic processing
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

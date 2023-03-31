@@ -30,7 +30,8 @@ pathway_score: 0.9128047
 filename: pharmaceuticals-14-00148-g007.jpg
 figtitle: 5-HT2C receptor signaling
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

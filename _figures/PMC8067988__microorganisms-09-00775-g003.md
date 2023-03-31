@@ -44,7 +44,8 @@ filename: microorganisms-09-00775-g003.jpg
 figtitle: Antiviral innate immunity, interactions with viral suppressors and bacterial
   PTI (1)
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

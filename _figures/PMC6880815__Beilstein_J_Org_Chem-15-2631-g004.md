@@ -12,7 +12,8 @@ pathway_score: 0.6658657
 filename: Beilstein_J_Org_Chem-15-2631-g004.jpg
 figtitle: Putative biosynthetic pathway to the nanangenines
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

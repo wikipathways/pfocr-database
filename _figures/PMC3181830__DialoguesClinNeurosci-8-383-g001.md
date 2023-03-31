@@ -25,7 +25,8 @@ pathway_score: 0.8185398
 filename: DialoguesClinNeurosci-8-383-g001.jpg
 figtitle: Schematic representation of the hypothalamic-pituitary-adrenal (HPA) axis
 year: '2006'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

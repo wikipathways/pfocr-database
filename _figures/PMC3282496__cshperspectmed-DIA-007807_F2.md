@@ -26,7 +26,8 @@ pathway_score: 0.9657006
 filename: cshperspectmed-DIA-007807_F2.jpg
 figtitle: Role of the IL-2 pathway and the Teff/Treg balance in the tissue
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

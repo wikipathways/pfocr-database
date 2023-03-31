@@ -15,7 +15,8 @@ pathway_score: 0.9277315
 filename: microorganisms-07-00191-g005.jpg
 figtitle: Dinoflagellate orthologues predicted in the DNA mismatch repair pathway
 year: '2019'
-organisms: Dinoflagellates
+organisms:
+- Dinoflagellates
 ndex: ''
 annotations: []
 seo: CreativeWork

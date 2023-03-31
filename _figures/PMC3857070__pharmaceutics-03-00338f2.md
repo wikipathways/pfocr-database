@@ -14,7 +14,8 @@ filename: pharmaceutics-03-00338f2.jpg
 figtitle: VA-RNA-induced production of type I IFNs through an IPS-1-mediated signaling
   pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

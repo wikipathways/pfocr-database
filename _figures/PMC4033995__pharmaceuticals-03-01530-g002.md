@@ -12,7 +12,8 @@ pathway_score: 0.7806513
 filename: pharmaceuticals-03-01530-g002.jpg
 figtitle: A simplified diagram of the inflammatory pathway and its mediators
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

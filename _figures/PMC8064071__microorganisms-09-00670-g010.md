@@ -17,7 +17,8 @@ pathway_score: 0.8785886
 filename: microorganisms-09-00670-g010.jpg
 figtitle: Scheme of C
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

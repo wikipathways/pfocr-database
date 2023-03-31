@@ -21,7 +21,8 @@ filename: mSphere.00785-19-f0009.jpg
 figtitle: Schematic summary of Yap1-related signaling cascades under environmental
   stresses
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ pathway_score: 0.9723404
 filename: JEM_2129insight4_Fig2.jpg
 figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3'
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

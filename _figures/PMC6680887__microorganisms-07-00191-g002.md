@@ -15,7 +15,8 @@ filename: microorganisms-07-00191-g002.jpg
 figtitle: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
   of DNA damage pathway
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -35,7 +36,7 @@ schema-jsonld:
   keywords:
   - MGMT
   - ALKBH1
-  - "N'me \x1F O'me \x1F"
+  - "N'me  O'me "
   - 'N'
   - Cys
   - O
@@ -51,7 +52,7 @@ genes:
   hgnc_symbol: ALKBH1
   entrez: '8846'
 chemicals:
-- word: "N'me \x1F O'me \x1F"
+- word: "N'me  O'me "
   source: MESH
   identifier: C526611
 - word: 'N'

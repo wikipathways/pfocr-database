@@ -27,7 +27,8 @@ filename: DialoguesClinNeurosci-18-99-g003.jpg
 figtitle: Optogenetic approaches to evaluate striatal function in animal models of
   Parkinson disease
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

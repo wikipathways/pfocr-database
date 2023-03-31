@@ -12,7 +12,8 @@ pathway_score: 0.9276548
 filename: elife-37816-fig5-figsupp2.jpg
 figtitle: NOD-like receptor signaling pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 39c47486-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

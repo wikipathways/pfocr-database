@@ -26,7 +26,8 @@ pathway_score: 0.9480017
 filename: cshperspect-IMS-002352_F2.jpg
 figtitle: Tyrosine kinase pathways leading to CARD9 and TLR signaling responses
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

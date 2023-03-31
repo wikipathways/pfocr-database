@@ -14,7 +14,8 @@ pathway_score: 0.9653661
 filename: cshperspect-PRT-004440_F1.jpg
 figtitle: Pathways that regulate aging
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ba8fdc53-ded2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

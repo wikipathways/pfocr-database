@@ -18,7 +18,8 @@ pathway_score: 0.9182659
 filename: radiol.2017161845.fig3b.jpg
 figtitle: Association of the activity of metagene 19 with two distinct image phenotypes
 year: ''
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

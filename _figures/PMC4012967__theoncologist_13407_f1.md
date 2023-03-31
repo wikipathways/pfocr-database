@@ -25,7 +25,8 @@ pathway_score: 0.9249061
 filename: theoncologist_13407_f1.jpg
 figtitle: IL-6/JAK/STAT pathway
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3ad2be23-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

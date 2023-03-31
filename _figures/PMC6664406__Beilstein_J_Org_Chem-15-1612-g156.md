@@ -12,7 +12,8 @@ pathway_score: 0.9050742
 filename: Beilstein_J_Org_Chem-15-1612-g156.jpg
 figtitle: Palladium acetate-catalyzed mechanistic pathway
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

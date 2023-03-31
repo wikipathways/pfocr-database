@@ -26,7 +26,8 @@ figtitle: A Simplified Schematic Showing Some of the Known Anatomical and Functi
   Connections Between the Prefrontal Cortex (PFC), Ventral Tegmental Area (VTA), Basolateral
   Amygdala (BLA), and Nucleus Accumbens (NAcc)
 year: '2007'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

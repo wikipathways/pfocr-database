@@ -25,7 +25,8 @@ filename: cshperspectmed-PCA-026310_F1.jpg
 figtitle: p53 controls the cellular response to different stress stimuli and determines
   cell fate
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

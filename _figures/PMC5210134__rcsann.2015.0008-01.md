@@ -15,7 +15,8 @@ pathway_score: 0.8542458
 filename: rcsann.2015.0008-01.jpg
 figtitle: The role of WNT signalling in urothelial cell carcinoma
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

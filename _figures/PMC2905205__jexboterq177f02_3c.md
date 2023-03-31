@@ -18,7 +18,8 @@ filename: jexboterq177f02_3c.jpg
 figtitle: A schematic presentation of relationships between the key components of
   the ethylene signal transduction pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

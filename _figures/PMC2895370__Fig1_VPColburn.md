@@ -17,7 +17,8 @@ pathway_score: 0.9388604
 filename: Fig1_VPColburn.jpg
 figtitle: 'TLR4 signaling: The MyD88-dependent pathway through PDCD4'
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

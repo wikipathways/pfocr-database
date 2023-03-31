@@ -18,7 +18,8 @@ pathway_score: 0.9482671
 filename: cshperspectmed-PCA-026138_F2.jpg
 figtitle: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

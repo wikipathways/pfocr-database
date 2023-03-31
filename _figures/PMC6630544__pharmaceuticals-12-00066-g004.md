@@ -17,7 +17,8 @@ filename: pharmaceuticals-12-00066-g004.jpg
 figtitle: General representation of serine biosynthesis in different organisms and
   its connection with different metabolic pathways
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

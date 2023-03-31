@@ -32,7 +32,8 @@ filename: biores.2020.0005_figure7.jpg
 figtitle: Pathway interaction schematic constructed to demonstrate overlap of gene
   expression data with critical osteogenic pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ pathway_score: 0.9170867
 filename: carcinbgq156f01_lw.jpg
 figtitle: The estrogen biosynthesis pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

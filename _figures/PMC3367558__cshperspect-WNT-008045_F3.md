@@ -16,7 +16,8 @@ pathway_score: 0.9646063
 filename: cshperspect-WNT-008045_F3.jpg
 figtitle: Negative regulation of AChR clustering by Wnt3a
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

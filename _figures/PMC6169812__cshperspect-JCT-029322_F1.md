@@ -23,7 +23,8 @@ pathway_score: 0.9002025
 filename: cshperspect-JCT-029322_F1.jpg
 figtitle: New interactors of endothelial adherens junctions (AJs)
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

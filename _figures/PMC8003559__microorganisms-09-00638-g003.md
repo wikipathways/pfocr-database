@@ -24,7 +24,8 @@ filename: microorganisms-09-00638-g003.jpg
 figtitle: Activation of innate immune signaling pathway by lipopolysaccharide (LPS)
   and tumor necrosis factor (TNF)
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

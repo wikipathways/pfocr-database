@@ -20,7 +20,8 @@ filename: cshperspect-PRT-004507_F4.jpg
 figtitle: Mammalian heat shock response stress responsive signaling pathway matches
   proteostasis network capacity with demand in the cytosol
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4543c30b-df39-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

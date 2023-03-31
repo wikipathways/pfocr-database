@@ -14,7 +14,8 @@ pathway_score: 0.9196467
 filename: jexbotern212f01_lw.jpg
 figtitle: Carotenoid biosynthetic pathway in maize
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

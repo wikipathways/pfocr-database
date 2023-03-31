@@ -29,7 +29,8 @@ filename: cshperspectmed-PKD-009290_F1.jpg
 figtitle: The plasma proteins that regulate ionic gradients following neurotransmitter
   release or during the time course of an action potential spike
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 492431de-de9a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -13,7 +13,8 @@ pathway_score: 0.9414974
 filename: schbulsbr150f01_ht.jpg
 figtitle: Folate metabolic pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: afbded50-dee8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

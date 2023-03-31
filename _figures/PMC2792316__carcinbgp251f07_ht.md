@@ -15,7 +15,8 @@ filename: carcinbgp251f07_ht.jpg
 figtitle: A hypothetical model of the Abi1 signaling that regulates invadopodia formation
   and the Src pathway in MDA-MB-231 breast cancer cells
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,7 +17,8 @@ pathway_score: 0.9177154
 filename: cshperspectmed-MYC-014316_F3.jpg
 figtitle: The allele-specific cancer risk of rs6983267
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c80a527f-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

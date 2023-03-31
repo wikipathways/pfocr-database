@@ -13,7 +13,8 @@ filename: Beilstein_J_Org_Chem-16-1234-g036.jpg
 figtitle: Possible pathway of one-pot oxidative cyclization of Alpha-halogenated ketoximes
   and 1,3-dicarbonyl compounds
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

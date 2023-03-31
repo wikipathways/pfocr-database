@@ -17,7 +17,8 @@ filename: RevDiabeticStud-05-013-002.jpg
 figtitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insulin
   Resistance
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

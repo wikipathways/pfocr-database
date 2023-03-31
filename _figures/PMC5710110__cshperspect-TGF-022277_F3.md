@@ -18,7 +18,8 @@ filename: cshperspect-TGF-022277_F3.jpg
 figtitle: Transforming growth factor B (TGFB)-induced transcriptional program and
   its alterations in cancer
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 84064ff0-df2d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

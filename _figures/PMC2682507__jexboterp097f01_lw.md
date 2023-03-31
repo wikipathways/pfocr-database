@@ -16,7 +16,8 @@ pathway_score: 0.8840669
 filename: jexboterp097f01_lw.jpg
 figtitle: A stylized diagram of the flavonoid biosynthetic pathway
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

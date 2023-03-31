@@ -16,7 +16,8 @@ pathway_score: 0.79305
 filename: cddiscovery201754-f6.jpg
 figtitle: Main mechanisms of EE in post-stroke neurogenesis and functional recovery
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

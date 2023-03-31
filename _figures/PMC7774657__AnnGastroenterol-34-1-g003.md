@@ -31,7 +31,8 @@ filename: AnnGastroenterol-34-1-g003.jpg
 figtitle: 'Aspirin’s role in colorectal cancer prevention Cyclooxygenase (COX) dependent
   pathway (Left panel): Inhibition of COX-1 in platelets and COX-2 in epithelial cells'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

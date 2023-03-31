@@ -23,7 +23,8 @@ pathway_score: 0.7102554
 filename: elife-61885-fig2-figsupp6.jpg
 figtitle: Transcriptional regulation in motility pathway
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -14,7 +14,8 @@ pathway_score: 0.9623597
 filename: theoncologist_14178_f2.jpg
 figtitle: '6-Thioguanine: A Drug With Unrealized Potential for Cancer Therapy'
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

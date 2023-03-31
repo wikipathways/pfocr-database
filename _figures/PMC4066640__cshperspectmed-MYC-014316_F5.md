@@ -21,7 +21,8 @@ pathway_score: 0.8856977
 filename: cshperspectmed-MYC-014316_F5.jpg
 figtitle: MYC autorepression and general cellular gene repression by histone modification
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 9e062694-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

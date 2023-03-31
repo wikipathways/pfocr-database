@@ -29,7 +29,8 @@ filename: cshperspect-NFK-000067_F1.jpg
 figtitle: How NFKB DNA binding is regulated by IKB degradation and processing following
   activating stimuli
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 6b5a9371-df05-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

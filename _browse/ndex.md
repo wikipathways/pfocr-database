@@ -1,6 +1,8 @@
 ---
+order: 3
 display-title: "NDEx"
-btn-class: "btn-front"
+tooltip: "Figures with network representations at NDEx" 
+btn-class: "btn-ndex btn-pill"
 ---
 
 <h1>Pathway Figures deposited at NDEx</h1>

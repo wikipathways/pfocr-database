@@ -17,7 +17,8 @@ figtitle: Metabolic reconstruction for some of the most important functions in t
   Ktedonobacteria MAGs isolated from the youngest soil using KEGG (more information
   in  and ), dashed lines were used for incomplete pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

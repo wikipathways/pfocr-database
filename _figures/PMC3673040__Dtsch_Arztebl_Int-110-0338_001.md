@@ -27,7 +27,8 @@ filename: Dtsch_Arztebl_Int-110-0338_001.jpg
 figtitle: Leptin is generated in adipose tissue and transported via the bloodstream
   to the hypothalamus
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

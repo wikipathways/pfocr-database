@@ -15,7 +15,8 @@ pathway_score: 0.5100101
 filename: cshperspectmed-TRN-014993_F1.jpg
 figtitle: Pathways of alloantigen presentation
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

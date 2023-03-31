@@ -20,7 +20,8 @@ figtitle: Simplified scheme of the astaxanthin biosynthetic pathway from endogen
   Beta-carotene (Beta-car) in engineered Synechocystis strains, resulting from the
   heterologous expression of Brevundimonas CrtW and CrtZ
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

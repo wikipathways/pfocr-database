@@ -14,7 +14,8 @@ pathway_score: 0.8186097
 filename: elife-59222-fig1-figsupp1.jpg
 figtitle: Simplified SPB structure
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

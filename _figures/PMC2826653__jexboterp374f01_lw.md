@@ -24,7 +24,8 @@ pathway_score: 0.88437
 filename: jexboterp374f01_lw.jpg
 figtitle: The path of carbon in photosynthesis in a tobacco leaf
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

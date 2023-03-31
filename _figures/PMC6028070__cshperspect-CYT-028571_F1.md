@@ -19,7 +19,8 @@ pathway_score: 0.9582163
 filename: cshperspect-CYT-028571_F1.jpg
 figtitle: Cytokine signaling and their major negative regulators
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

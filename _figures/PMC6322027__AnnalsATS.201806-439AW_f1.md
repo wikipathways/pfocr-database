@@ -23,7 +23,8 @@ pathway_score: 0.8219118
 filename: AnnalsATS.201806-439AW_f1.jpg
 figtitle: Mucociliary differentiation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

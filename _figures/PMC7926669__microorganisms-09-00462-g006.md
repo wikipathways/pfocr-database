@@ -16,7 +16,8 @@ filename: microorganisms-09-00462-g006.jpg
 figtitle: Scheme for PHB synthesis pathway including responsible enzymes based on
   RAST server annotations of B
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

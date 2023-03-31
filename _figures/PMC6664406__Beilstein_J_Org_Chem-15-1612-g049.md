@@ -12,7 +12,8 @@ pathway_score: 0.5752674
 filename: Beilstein_J_Org_Chem-15-1612-g049.jpg
 figtitle: Probable pathway
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

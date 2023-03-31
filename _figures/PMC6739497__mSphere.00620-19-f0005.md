@@ -17,7 +17,8 @@ filename: mSphere.00620-19-f0005.jpg
 figtitle: Upregulation of genes in the SNARE interactions in vesicular transport pathway
   during treatment with compound 9029936
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ filename: cshperspect-CYT-028480_F1.jpg
 figtitle: Assembly of the interferon (IFN)G receptor (IFNGR) and activation of Janus
   kinase (JAK)-signal transducers and activators of transcription (STAT) signaling
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

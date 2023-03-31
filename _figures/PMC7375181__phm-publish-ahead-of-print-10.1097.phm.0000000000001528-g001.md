@@ -21,7 +21,8 @@ pathway_score: 0.9367797
 filename: phm-publish-ahead-of-print-10.1097.phm.0000000000001528-g001.jpg
 figtitle: 'Renin-Angiotensin System Pathway and Skeletal Muscle: A Complex Interaction'
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ pathway_score: 0.9315296
 filename: pharmaceuticals-03-03478-g003.jpg
 figtitle: Mechanism by which Ang II mediates vasoconstriction
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a44386d5-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

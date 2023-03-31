@@ -16,7 +16,8 @@ pathway_score: 0.5256966
 filename: microorganisms-08-00698-g008.jpg
 figtitle: MAH and MAB common enzymes associated with metabolic pathways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

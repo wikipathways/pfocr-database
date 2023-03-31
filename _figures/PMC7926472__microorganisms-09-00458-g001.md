@@ -19,7 +19,8 @@ pathway_score: 0.9351304
 filename: microorganisms-09-00458-g001.jpg
 figtitle: ' A general map of core metabolism'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

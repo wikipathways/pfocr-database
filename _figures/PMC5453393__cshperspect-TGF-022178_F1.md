@@ -23,7 +23,8 @@ filename: cshperspect-TGF-022178_F1.jpg
 figtitle: Generic transforming growth factor B (TGFB) family signaling pathway through
   Smads compared with the Caenorhabditis elegans dauer pathway and the C
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

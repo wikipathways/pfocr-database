@@ -21,7 +21,8 @@ pathway_score: 0.921629
 filename: cshperspectmed-PCA-026112_F1.jpg
 figtitle: Cellular senescence
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4dd41b77-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -19,7 +19,8 @@ filename: pharmaceuticals-14-00130-g001.jpg
 figtitle: The Mer receptor tyrosine kinase (MERTK)-mediated signaling pathway in epidermal
   growth factor tyrosine kinase inhibitors (EGFR-TKI) resistance
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

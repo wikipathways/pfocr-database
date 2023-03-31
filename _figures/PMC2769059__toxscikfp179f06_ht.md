@@ -14,7 +14,8 @@ pathway_score: 0.9427659
 filename: toxscikfp179f06_ht.jpg
 figtitle: Schematic of DA catabolism
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

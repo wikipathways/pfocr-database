@@ -15,7 +15,8 @@ pathway_score: 0.7318305
 filename: Beilstein_J_Org_Chem-09-2556-g004.jpg
 figtitle: Proposed biosynthetic pathway for antimycins
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: eadcaeec-df20-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

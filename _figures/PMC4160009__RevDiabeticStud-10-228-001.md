@@ -15,7 +15,8 @@ pathway_score: 0.8772407
 filename: RevDiabeticStud-10-228-001.jpg
 figtitle: Metformin and Cancer
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

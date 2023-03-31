@@ -20,7 +20,8 @@ filename: cshperspect-TGF-022301_F1.jpg
 figtitle: Context-dependent transforming growth factor B (TGFB) signaling outputs
   arise from pathway interactions
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 9c760c53-decf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -23,7 +23,8 @@ pathway_score: 0.8892456
 filename: cshperspect-SIG-006064_F1.jpg
 figtitle: Regulation of oocyte maturation
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: d80b19bf-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

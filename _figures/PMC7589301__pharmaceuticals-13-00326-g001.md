@@ -39,7 +39,8 @@ filename: pharmaceuticals-13-00326-g001.jpg
 figtitle: The possible molecular mechanism of amantadine’s antidepressant effects
   at the level of dopaminergic and glutamatergic transmission
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

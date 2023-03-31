@@ -41,7 +41,8 @@ pathway_score: 0.9256853
 filename: pharmaceuticals-11-00113-g001.jpg
 figtitle: Links between Lipid and Iron Metabolic Pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 95bd15a2-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

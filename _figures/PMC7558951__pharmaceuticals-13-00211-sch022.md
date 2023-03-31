@@ -12,7 +12,8 @@ pathway_score: 0.6750178
 filename: pharmaceuticals-13-00211-sch022.jpg
 figtitle: Synthetic pathway to obtain the key selenosugar intermediate 131a
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

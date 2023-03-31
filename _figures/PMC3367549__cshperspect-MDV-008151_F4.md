@@ -22,7 +22,8 @@ pathway_score: 0.9569982
 filename: cshperspect-MDV-008151_F4.jpg
 figtitle: BMP signaling pathway and regulation of SMAD activity
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7283958c-dee3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

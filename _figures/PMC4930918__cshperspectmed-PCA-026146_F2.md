@@ -22,7 +22,8 @@ pathway_score: 0.9465518
 filename: cshperspectmed-PCA-026146_F2.jpg
 figtitle: p53 regulates carbohydrate metabolism during glucose starvation
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3abd6de9-def8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

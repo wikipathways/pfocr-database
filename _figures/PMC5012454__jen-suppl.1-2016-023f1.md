@@ -36,7 +36,8 @@ pathway_score: 0.9554374
 filename: jen-suppl.1-2016-023f1.jpg
 figtitle: Physiological effects of ROS on synaptic plasticity
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 75c241ed-deea-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

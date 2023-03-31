@@ -23,7 +23,8 @@ pathway_score: 0.9132099
 filename: cshperspectmed-ANG-006569_F3.jpg
 figtitle: Canonical Notch signaling pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

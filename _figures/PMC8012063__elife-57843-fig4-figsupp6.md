@@ -15,7 +15,8 @@ filename: elife-57843-fig4-figsupp6.jpg
 figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
   hsa05012 Parkinson’s disease at the cross-tissue level
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

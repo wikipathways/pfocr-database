@@ -20,7 +20,8 @@ filename: medscimonitbasicres-22-95-g002.jpg
 figtitle: Major regulatory pathways involved in the regulation of Runx2, a chief transcriptional
   regulator of osteogenesis
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e572ac29-df1b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

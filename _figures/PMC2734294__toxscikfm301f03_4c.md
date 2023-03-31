@@ -45,7 +45,8 @@ pathway_score: 0.9159239
 filename: toxscikfm301f03_4c.jpg
 figtitle: Several molecular features in the cell body of an oxidatively stressed neuron
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: bc0b61ba-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

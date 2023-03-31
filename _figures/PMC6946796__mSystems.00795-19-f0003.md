@@ -20,7 +20,8 @@ pathway_score: 0.6940727
 filename: mSystems.00795-19-f0003.jpg
 figtitle: Metabolic prediction for the community of MAGs from TVG metagenomes
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

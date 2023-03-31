@@ -20,7 +20,8 @@ filename: microorganisms-07-00336-g003.jpg
 figtitle: Intracellular peptidoglycan (PGN) is detected by intracellular receptors
   and activates the NFKB signaling pathway in Drosophila melanogaster and human enterocytes
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a8a7b134-def4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

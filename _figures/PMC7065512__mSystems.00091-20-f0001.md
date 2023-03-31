@@ -36,7 +36,8 @@ filename: mSystems.00091-20-f0001.jpg
 figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
   absence of key pathway genes
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

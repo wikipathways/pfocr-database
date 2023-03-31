@@ -16,7 +16,8 @@ filename: antioxidants-08-00564-g0A1.jpg
 figtitle: Reconstruction and manual curation of the genome–scale metabolic networks
   of S
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

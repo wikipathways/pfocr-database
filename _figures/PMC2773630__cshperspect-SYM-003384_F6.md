@@ -28,7 +28,8 @@ pathway_score: 0.9023828
 filename: cshperspect-SYM-003384_F6.jpg
 figtitle: Molecular interactions during pheromone induced cell polarization
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

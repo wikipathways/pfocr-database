@@ -40,7 +40,8 @@ filename: cshperspect-DAM-012732_F1AB.jpg
 figtitle: Advances in Understanding the Complex Mechanisms of DNA Interstrand Cross-Link
   Repair
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c5b4c728-df09-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

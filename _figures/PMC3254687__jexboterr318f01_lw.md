@@ -14,7 +14,8 @@ pathway_score: 0.8264555
 filename: jexboterr318f01_lw.jpg
 figtitle: Carotenoid metabolic pathway in citrus
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

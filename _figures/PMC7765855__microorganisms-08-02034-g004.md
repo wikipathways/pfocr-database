@@ -16,7 +16,8 @@ pathway_score: 0.8512985
 filename: microorganisms-08-02034-g004.jpg
 figtitle: Targeted Genome Mining—From Compound Discovery to Biosynthetic Pathway Elucidation
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

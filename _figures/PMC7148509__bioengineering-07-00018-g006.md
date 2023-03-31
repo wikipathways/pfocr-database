@@ -21,7 +21,8 @@ filename: bioengineering-07-00018-g006.jpg
 figtitle: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
   stiffening
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

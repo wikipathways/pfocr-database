@@ -31,7 +31,8 @@ pathway_score: 0.9011813
 filename: jamapsychiatry-76-1026-g005.jpg
 figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

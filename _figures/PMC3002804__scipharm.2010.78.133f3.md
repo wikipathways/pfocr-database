@@ -11,7 +11,8 @@ pathway_score: 0.7452486
 filename: scipharm.2010.78.133f3.jpg
 figtitle: Proposed biosynthetic pathway for oleuropein in Oleaceae
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

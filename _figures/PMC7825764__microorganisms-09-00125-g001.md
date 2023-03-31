@@ -15,7 +15,8 @@ filename: microorganisms-09-00125-g001.jpg
 figtitle: Pathway of ethylene synthesis and reduction in its level through substrate
   mobilization
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

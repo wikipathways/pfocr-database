@@ -12,7 +12,8 @@ pathway_score: 0.7340757
 filename: Beilstein_J_Org_Chem-15-1612-g078.jpg
 figtitle: Mechanistic pathway
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

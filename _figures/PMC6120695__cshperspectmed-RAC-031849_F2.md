@@ -18,7 +18,8 @@ filename: cshperspectmed-RAC-031849_F2.jpg
 figtitle: Secreted immunomodulatory factors transcriptionally induced by oncogenic
   Kras signaling
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -22,7 +22,8 @@ pathway_score: 0.8451424
 filename: cddiscovery201650-f2.jpg
 figtitle: Mitogen-activated protein kinase (MAPK) signaling pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 425a4ba0-df21-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

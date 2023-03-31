@@ -21,7 +21,8 @@ pathway_score: 0.9689831
 filename: cshperspectmed-PCA-026146_F3.jpg
 figtitle: p53 directs lipid and amino acid metabolism during stress
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: f9b7c5ee-dec7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

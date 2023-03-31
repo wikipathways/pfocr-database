@@ -12,7 +12,8 @@ pathway_score: 0.9096996
 filename: pharmaceuticals-13-00211-sch020.jpg
 figtitle: Synthetic pathway to obtain the selenosugar 121
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -29,18 +30,18 @@ schema-jsonld:
   keywords:
   - RPL17
   - RPL18
-  - "Imidazole \x1F Me \x1F"
+  - "Imidazole  Me "
   - Acetone
   - H2SO4
   - CuSO4
   - DMAP
-  - "pyridine \x1F Me \x1F RO"
+  - "pyridine  Me  RO"
   - dioxane
   - TBDPS
   - THF
-  - "OMs \x1F Me \x1F"
+  - "OMs  Me "
   - Et3N
-  - "Se Me \x1F Me \x1F Se"
+  - "Se Me  Me  Se"
   - NABH4
   - CH
   - Cl
@@ -58,7 +59,7 @@ genes:
   hgnc_symbol: RPL18
   entrez: '6141'
 chemicals:
-- word: "Imidazole \x1F Me \x1F"
+- word: "Imidazole  Me "
   source: MESH
   identifier: C029899
 - word: Acetone
@@ -73,7 +74,7 @@ chemicals:
 - word: DMAP
   source: MESH
   identifier: C003885
-- word: "pyridine \x1F Me \x1F RO"
+- word: "pyridine  Me  RO"
   source: MESH
   identifier: C542959
 - word: dioxane
@@ -85,13 +86,13 @@ chemicals:
 - word: THF
   source: MESH
   identifier: C006461
-- word: "OMs \x1F Me \x1F"
+- word: "OMs  Me "
   source: MESH
   identifier: C526611
 - word: Et3N
   source: MESH
   identifier: C526612
-- word: "Se Me \x1F Me \x1F Se"
+- word: "Se Me  Me  Se"
   source: MESH
   identifier: D012643
 - word: NABH4

@@ -25,7 +25,8 @@ pathway_score: 0.9788865
 filename: bonejointres-09-1-g005.jpg
 figtitle: Applications of mechanotransduction
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

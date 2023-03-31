@@ -20,7 +20,8 @@ pathway_score: 0.9391506
 filename: pharmrev.120.000086f1.jpg
 figtitle: Plasma membrane and primary cilium cAMP signalosomes
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

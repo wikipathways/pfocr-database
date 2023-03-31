@@ -31,7 +31,8 @@ figtitle: Amyloid precursor protein (APP) is processed either by Beta-secretase 
   a nonamyloidogenic pathway or by Beta- and Gamma-secretases to produce Beta-amyloid
   peptide (BA)
 year: '2000'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

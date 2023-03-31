@@ -19,7 +19,8 @@ pathway_score: 0.8653776
 filename: theoncologist_15519_f1.jpg
 figtitle: Cellular control of hyperglycemia
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 99a1658f-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -18,7 +18,8 @@ filename: mplantssp037f02_lw.jpg
 figtitle: Cell Wall-Related Biochemical Pathways Active in Mature Trichomes.(A) Synthesis
   of monosaccharides required for cell wall biosynthesis
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -19,7 +19,8 @@ pathway_score: 0.9705307
 filename: carcinbgs114f04_4c.jpg
 figtitle: TGFB signaling pathway members and potential pathway member LRG1
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: fc27a9f6-dec6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

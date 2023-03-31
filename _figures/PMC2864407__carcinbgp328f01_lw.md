@@ -14,7 +14,8 @@ filename: carcinbgp328f01_lw.jpg
 figtitle: 'Description of the sex hormone metabolic pathway: genes involved in synthesis,
   bioactivation, metabolism, and inactivation of estrogen and other hormones'
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c12652ba-df16-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

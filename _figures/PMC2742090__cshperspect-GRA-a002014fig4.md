@@ -17,7 +17,8 @@ filename: cshperspect-GRA-a002014fig4.jpg
 figtitle: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
   proteins
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

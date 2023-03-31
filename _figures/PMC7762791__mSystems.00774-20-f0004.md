@@ -19,7 +19,8 @@ filename: mSystems.00774-20-f0004.jpg
 figtitle: Distribution of proteins across diplomonads for the NADH repair pathway
   (A) and the arsenic detoxification pathway (B)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

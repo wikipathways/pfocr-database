@@ -12,7 +12,8 @@ pathway_score: 0.9509872
 filename: JEM_2132insight1_Fig2.jpg
 figtitle: Pumping the breaks on B cell development
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

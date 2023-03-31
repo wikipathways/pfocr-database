@@ -30,7 +30,8 @@ filename: mSystems.00786-20-f006.jpg
 figtitle: Exemplary metabolic sketch of BSC Rubrobacteraceae species based on the
   most abundant MAG
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

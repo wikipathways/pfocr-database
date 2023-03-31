@@ -13,7 +13,8 @@ filename: plantbiotechnology-35-2-18.0416a-figure01.jpg
 figtitle: Comparative analysis of CYP716A subfamily enzymes for the heterologous production
   of C-28 oxidized triterpenoids in transgenic yeast
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

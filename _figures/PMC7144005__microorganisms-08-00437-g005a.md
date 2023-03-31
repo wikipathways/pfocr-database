@@ -27,7 +27,8 @@ filename: microorganisms-08-00437-g005a.jpg
 figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigations
   of Methane Metabolism in Methylosinus trichosporium OB3b
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

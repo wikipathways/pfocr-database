@@ -12,7 +12,8 @@ pathway_score: 0.7274453
 filename: Beilstein_J_Org_Chem-15-1612-g063.jpg
 figtitle: Mechanistic pathway catalyzed by Cu–Pybox complex
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

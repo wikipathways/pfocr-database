@@ -14,7 +14,8 @@ filename: Fig4_REVGuengerich.jpg
 figtitle: Latter steps of postulated pathway for synthesis of morphine, based on studies
   with plants
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

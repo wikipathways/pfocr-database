@@ -32,7 +32,8 @@ pathway_score: 0.8896882
 filename: microorganisms-08-00313-g005.jpg
 figtitle: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

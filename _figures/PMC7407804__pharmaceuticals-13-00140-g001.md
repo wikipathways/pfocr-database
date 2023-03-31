@@ -12,7 +12,8 @@ pathway_score: 0.9560595
 filename: pharmaceuticals-13-00140-g001.jpg
 figtitle: Signaling events downstream of EphA activation by ephrin-As
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

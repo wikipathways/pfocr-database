@@ -23,7 +23,8 @@ filename: antioxidants-09-00503-sch001.jpg
 figtitle: Proposed mechanism underlying the differential effects of N-containing zoledronate
   and non-N-containing MPMBP, on the inflammatory responses
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

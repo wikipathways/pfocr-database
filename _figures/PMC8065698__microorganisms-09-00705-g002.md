@@ -23,7 +23,8 @@ pathway_score: 0.8720782
 filename: microorganisms-09-00705-g002.jpg
 figtitle: UPR drives pro-inflammatory responses to ER stress
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

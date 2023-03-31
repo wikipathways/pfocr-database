@@ -17,7 +17,8 @@ pathway_score: 0.5597705
 filename: Beilstein_J_Org_Chem-15-2922-g003.jpg
 figtitle: The biosynthetic pathway for argyrin production in Cystobacter sp
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -41,9 +42,9 @@ schema-jsonld:
   - CP
   - ARG1
   - Ox
-  - "R \x1F MeN"
-  - "\x1F MeN"
-  - "\x1F MeN \x1F Arg4 \x1F MeN \x1F MeN"
+  - "R  MeN"
+  - " MeN"
+  - " MeN  Arg4  MeN  MeN"
   - A CP HC
 genes:
 - word: arg2
@@ -80,13 +81,13 @@ chemicals:
 - word: Ox
   source: MESH
   identifier: C032540
-- word: "R \x1F MeN"
+- word: "R  MeN"
   source: MESH
   identifier: C033150
-- word: "\x1F MeN"
+- word: " MeN"
   source: MESH
   identifier: C033150
-- word: "\x1F MeN \x1F Arg4 \x1F MeN \x1F MeN"
+- word: " MeN  Arg4  MeN  MeN"
   source: MESH
   identifier: C033150
 diseases:

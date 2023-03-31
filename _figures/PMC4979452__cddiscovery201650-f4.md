@@ -25,7 +25,8 @@ filename: cddiscovery201650-f4.jpg
 figtitle: PI3K-AKT (phosphatidylinositol-4,5-bisphosphate 3-kinase-AKT) signaling
   pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 648a9302-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

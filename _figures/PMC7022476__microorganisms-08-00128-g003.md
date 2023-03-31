@@ -15,7 +15,8 @@ pathway_score: 0.9330478
 filename: microorganisms-08-00128-g003.jpg
 figtitle: Acetoin synthesis pathway in L
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

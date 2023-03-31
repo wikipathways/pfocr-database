@@ -19,7 +19,8 @@ filename: AnnalsATS.201806-368AW_f1.jpg
 figtitle: Mucus plugging causes hypoxic epithelial necrosis that triggers sterile
   inflammation in mucoobstructive lung disease
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -46,7 +47,7 @@ schema-jsonld:
   - IL1R1
   - MYD88
   - CXCL8
-  - "Nurokhia \x1F Cell Necrosis"
+  - "Nurokhia  Cell Necrosis"
 genes:
 - word: IL-1a
   symbol: IL-1A
@@ -70,7 +71,7 @@ genes:
   entrez: '3576'
 chemicals: []
 diseases:
-- word: "Nurokhia \x1F Cell Necrosis"
+- word: "Nurokhia  Cell Necrosis"
   source: MESH
   identifier: D009336
 figid_alias: PMC6322026__F1

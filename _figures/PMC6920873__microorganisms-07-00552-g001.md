@@ -16,7 +16,8 @@ pathway_score: 0.9563143
 filename: microorganisms-07-00552-g001.jpg
 figtitle: The fatty acid ethyl ester (FAEE) biosynthesis in bacteria
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

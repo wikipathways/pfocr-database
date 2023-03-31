@@ -13,7 +13,8 @@ pathway_score: 0.9508575
 filename: plantbiotechnology-37-3-20.0413a-figure01.jpg
 figtitle: Figure 1. Biosynthetic pathway leading to antraquinone glucosides
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

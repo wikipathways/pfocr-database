@@ -18,7 +18,8 @@ pathway_score: 0.9102702
 filename: pharmaceuticals-03-03494-g001.jpg
 figtitle: Core hypothalamic energy homeostatic circuit and the dopamine reward pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: f64e203e-df0f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

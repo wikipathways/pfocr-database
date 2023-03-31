@@ -12,7 +12,8 @@ pathway_score: 0.9357219
 filename: pharmaceuticals-13-00174-g001.jpg
 figtitle: Biosynthetic pathway of major phytocannabinoids
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,8 @@ filename: microorganisms-09-00365-g002.jpg
 figtitle: Changes of the Proteome and Acetylome during Transition into the Stationary
   Phase in the Organohalide-Respiring Dehalococcoides mccartyi Strain CBDB1
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

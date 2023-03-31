@@ -20,7 +20,8 @@ filename: jexboterq028f07_3c.jpg
 figtitle: A hypothetical ananplerotic pathway for glycolate/glyoxylate in relation
   to oxalate formation
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

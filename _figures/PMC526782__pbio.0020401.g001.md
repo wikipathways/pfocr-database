@@ -28,7 +28,8 @@ pathway_score: 0.9292434
 filename: pbio.0020401.g001.jpg
 figtitle: Molecules That Cause or Prevent Parkinson's Disease
 year: '2004'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

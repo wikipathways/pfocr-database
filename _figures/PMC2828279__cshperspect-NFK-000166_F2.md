@@ -30,7 +30,8 @@ pathway_score: 0.9548761
 filename: cshperspect-NFK-000166_F2.jpg
 figtitle: Ubiquitin-mediated proteolysis at the central stage of the NFKB
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

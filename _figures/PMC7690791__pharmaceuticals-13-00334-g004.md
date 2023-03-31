@@ -26,7 +26,8 @@ filename: pharmaceuticals-13-00334-g004.jpg
 figtitle: Main intracellular signalling pathways after activation of 5-HT2A-C receptors
   by N,N-dimethyltryptamine (DMT)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

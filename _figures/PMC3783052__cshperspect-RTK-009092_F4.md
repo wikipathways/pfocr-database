@@ -14,7 +14,8 @@ pathway_score: 0.9130143
 filename: cshperspect-RTK-009092_F4.jpg
 figtitle: Unique signaling pathway from VEGFR2 toward angiogenesis
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: aed64531-df10-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

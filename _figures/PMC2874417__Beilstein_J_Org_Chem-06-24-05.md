@@ -18,7 +18,8 @@ filename: Beilstein_J_Org_Chem-06-24-05.jpg
 figtitle: Metabolic pathway of Ac4GlcNAz and the genetic control of Neu5Ac 1 synthesis
   by feedback inhibition
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

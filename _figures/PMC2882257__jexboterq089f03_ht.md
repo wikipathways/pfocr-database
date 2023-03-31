@@ -23,7 +23,8 @@ filename: jexboterq089f03_ht.jpg
 figtitle: Induction of the oxylipin biosynthethic pathway in arbuscular mycorrhizal
   symbiosis
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -18,7 +18,8 @@ pathway_score: 0.8879623
 filename: cshperspect-NFK-000232_F6.jpg
 figtitle: Toll pathway in adult Drosophila melanogaster
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

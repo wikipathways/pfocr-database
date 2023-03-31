@@ -16,7 +16,8 @@ pathway_score: 0.9569363
 filename: cshperspect-CSD-008763_F1.jpg
 figtitle: PI3K-Akt-mTORC1 pathway and control of autophagy
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4d7cc176-dee5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -21,7 +21,8 @@ figtitle: Simplified overview of flavonol and anthocyanin biosynthesis within th
   phenylpropanoid pathway and its regulation in grape by characterized MYB genes (flavan-3-ols
   are not shown in this pathway)
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

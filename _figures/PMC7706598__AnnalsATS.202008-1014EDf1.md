@@ -32,7 +32,8 @@ filename: AnnalsATS.202008-1014EDf1.jpg
 figtitle: Different mechanisms that could modify coronavirus disease (COVID-19) illness
   in patients with pulmonary arterial hypertension (PAH)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

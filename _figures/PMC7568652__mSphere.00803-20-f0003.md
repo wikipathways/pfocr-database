@@ -17,7 +17,8 @@ figtitle: CD40 pathway genes upregulated (red) or downregulated (green) by expos
   of primary human keratinocytes to TSST-1 (100 μg/ml) or SEB (100 μg/ml) in triplicate
   assays for 6 h exposure time
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

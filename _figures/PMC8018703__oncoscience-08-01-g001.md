@@ -34,7 +34,8 @@ filename: oncoscience-08-01-g001.jpg
 figtitle: 'Monitoring vascular normalization: new opportunities for mitochondrial
   inhibitors in breast cancer'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

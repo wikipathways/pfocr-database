@@ -22,7 +22,8 @@ pathway_score: 0.8580502
 filename: jclintranslres-3-351-g001.jpg
 figtitle: Endothelial cell release of VWF upon stimulation with DDAVP [,]
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

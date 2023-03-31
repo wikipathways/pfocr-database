@@ -32,7 +32,8 @@ filename: microorganisms-09-00790-g011.jpg
 figtitle: Summarized interconnection between PC synthesis, trans-sulfuration pathway,
   folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

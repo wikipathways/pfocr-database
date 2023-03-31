@@ -13,7 +13,8 @@ filename: Beilstein_J_Org_Chem-16-691-g073.jpg
 figtitle: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
   and proposed mechanism for product formation of 456 and 457 (bottom)
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -37,9 +38,9 @@ schema-jsonld:
   - Bu, MeOH
   - THF
   - MezSiO
-  - "Bpin \x1F Me3Sio Bpin"
+  - "Bpin  Me3Sio Bpin"
   - 'NO'
-  - "Bpin \x1F Me \x1F"
+  - "Bpin  Me "
   - L-Cu-Bpin
 genes:
 - word: mol
@@ -88,13 +89,13 @@ chemicals:
 - word: MezSiO
   source: MESH
   identifier: D012825
-- word: "Bpin \x1F Me3Sio Bpin"
+- word: "Bpin  Me3Sio Bpin"
   source: MESH
   identifier: C526611
 - word: 'NO'
   source: ''
   identifier: ''
-- word: "Bpin \x1F Me \x1F"
+- word: "Bpin  Me "
   source: MESH
   identifier: C526611
 - word: L-Cu-Bpin

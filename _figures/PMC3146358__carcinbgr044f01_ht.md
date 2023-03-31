@@ -19,7 +19,8 @@ pathway_score: 0.8904948
 filename: carcinbgr044f01_ht.jpg
 figtitle: Metabolism of AA by the 5-LO pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

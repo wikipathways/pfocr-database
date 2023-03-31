@@ -25,7 +25,8 @@ filename: jexboterp072f01_lw.jpg
 figtitle: The L-arginine biosynthetic pathway and its association to proline and polyamine
   biosynthesis
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

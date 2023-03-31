@@ -30,7 +30,8 @@ pathway_score: 0.931945
 filename: cshperspect-TMR-032649_F1.jpg
 figtitle: The eukaryotic translation elongation pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

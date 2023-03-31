@@ -24,7 +24,8 @@ pathway_score: 0.8626198
 filename: mSphere.00913-19-f0006.jpg
 figtitle: Correlation analysis of the hypoxic transcriptome and metabolome data
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

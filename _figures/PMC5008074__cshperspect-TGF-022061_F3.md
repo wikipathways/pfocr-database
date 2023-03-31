@@ -34,7 +34,8 @@ pathway_score: 0.7460952
 filename: cshperspect-TGF-022061_F3.jpg
 figtitle: MicroRNA (miRNA) biogenesis pathway and its regulation by Smad proteins
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4097ddca-df30-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -19,7 +19,8 @@ pathway_score: 0.7956667
 filename: cshperspectmed-TRN-015479_F1.jpg
 figtitle: Pathway of injury mediated by innate immune receptors
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

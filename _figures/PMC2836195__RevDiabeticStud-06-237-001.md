@@ -23,7 +23,8 @@ filename: RevDiabeticStud-06-237-001.jpg
 figtitle: Mitochondrial DNA Variants in the Pathogenesis of Type 2 Diabetes - Relevance
   of Asian Population Studies
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 0bee7e96-df23-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

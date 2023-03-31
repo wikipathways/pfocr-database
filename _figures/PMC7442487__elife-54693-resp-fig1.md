@@ -25,7 +25,8 @@ filename: elife-54693-resp-fig1.jpg
 figtitle: Pathway affected by RG7112 was known while the mode of action was unknown
   for o-Vanillin
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

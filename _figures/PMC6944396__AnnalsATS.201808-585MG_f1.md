@@ -26,7 +26,8 @@ filename: AnnalsATS.201808-585MG_f1.jpg
 figtitle: Schematic of the proposed pathways whereby mitochondrial dysfunction impacts
   chronic obstructive pulmonary disease pathogenesis
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

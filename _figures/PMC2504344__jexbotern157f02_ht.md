@@ -15,7 +15,8 @@ pathway_score: 0.9620865
 filename: jexbotern157f02_ht.jpg
 figtitle: The central metabolic pathway of Synechocystis sp
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

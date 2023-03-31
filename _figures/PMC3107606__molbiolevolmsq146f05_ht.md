@@ -16,7 +16,8 @@ filename: molbiolevolmsq146f05_ht.jpg
 figtitle: Functional Regulatory Divergence of the Innate Immune System in Interspecific
   Drosophila Hybrids
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

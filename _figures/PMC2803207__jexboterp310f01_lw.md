@@ -19,7 +19,8 @@ filename: jexboterp310f01_lw.jpg
 figtitle: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
   pathway in higher plants
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

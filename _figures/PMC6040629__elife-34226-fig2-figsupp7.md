@@ -16,7 +16,8 @@ filename: elife-34226-fig2-figsupp7.jpg
 figtitle: Pathway components necessary for the synthesis of the essential amino acids
   were lost in animals
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

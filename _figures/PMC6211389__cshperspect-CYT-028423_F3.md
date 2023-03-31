@@ -27,7 +27,8 @@ filename: cshperspect-CYT-028423_F3.jpg
 figtitle: Type I interferon (IFN) gene induction by IFN regulatory factors (IRFs)
   on innate recognition of cytosolic nucleic acids
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

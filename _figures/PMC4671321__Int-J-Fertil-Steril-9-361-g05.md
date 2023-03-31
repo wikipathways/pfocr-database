@@ -17,7 +17,8 @@ filename: Int-J-Fertil-Steril-9-361-g05.jpg
 figtitle: Predicted model for the action of GSK3B in buffalo embryonic stem ( ES )
   cells
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ff977436-ded4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

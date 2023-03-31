@@ -20,7 +20,8 @@ pathway_score: 0.904833
 filename: pharmaceuticals-14-00094-g001.jpg
 figtitle: Metabolic pathway of Oestradiol
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

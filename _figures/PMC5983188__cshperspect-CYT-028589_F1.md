@@ -24,7 +24,8 @@ filename: cshperspect-CYT-028589_F1.jpg
 figtitle: Cytokine/long noncoding RNA (lncRNA) interplay in controlling immune cell
   development and function
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

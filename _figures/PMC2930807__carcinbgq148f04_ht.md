@@ -23,7 +23,8 @@ pathway_score: 0.863728
 filename: carcinbgq148f04_ht.jpg
 figtitle: Gene pathway analysis
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7378b895-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

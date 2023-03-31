@@ -17,7 +17,8 @@ pathway_score: 0.8120108
 filename: jexboterp015f01_lw.jpg
 figtitle: LOX pathway, simplified scheme
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

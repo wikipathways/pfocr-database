@@ -16,7 +16,8 @@ pathway_score: 0.6083915
 filename: microorganisms-08-01390-g003.jpg
 figtitle: Proposed biosynthesis pathway for the BE-18257s and the pentaminomycins
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

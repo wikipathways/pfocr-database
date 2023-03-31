@@ -20,7 +20,8 @@ filename: microorganisms-08-00434-g003.jpg
 figtitle: ' De-novo fatty acid synthesis in oleaginous microorganisms (adapted from
   [,,,,,]), and enzymes involved in lipid accumulation'
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

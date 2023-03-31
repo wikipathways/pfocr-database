@@ -15,7 +15,8 @@ pathway_score: 0.9404662
 filename: bioengineering-03-00002-g001.jpg
 figtitle: Butanol producing metabolic pathway in C
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

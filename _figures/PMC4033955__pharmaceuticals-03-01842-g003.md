@@ -11,7 +11,8 @@ pathway_score: 0.8966504
 filename: pharmaceuticals-03-01842-g003.jpg
 figtitle: P38 MAPK signaling pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b5a92332-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

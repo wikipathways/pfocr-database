@@ -28,7 +28,8 @@ figtitle: 13C labeling of various metabolites from [1,6-13C2]glucose in a three-
   metabolic model [1,6-13C2]glucose is converted to PyruvateC3 via glycolysis and
   subsequently enters the TCA cycle
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

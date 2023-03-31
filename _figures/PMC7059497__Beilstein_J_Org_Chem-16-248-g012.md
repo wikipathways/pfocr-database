@@ -12,7 +12,8 @@ pathway_score: 0.8686666
 filename: Beilstein_J_Org_Chem-16-248-g012.jpg
 figtitle: Mechanistic pathway for the synthesis of coumarin derivatives via C–H cyclization
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

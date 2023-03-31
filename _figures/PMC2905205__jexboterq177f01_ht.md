@@ -14,7 +14,8 @@ pathway_score: 0.764123
 filename: jexboterq177f01_ht.jpg
 figtitle: Signalling routes of copper and hydrogen peroxide
 year: '2010'
-organisms: XXX
+organisms:
+- XXX
 ndex: ''
 annotations: []
 seo: CreativeWork

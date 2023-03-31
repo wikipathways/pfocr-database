@@ -23,7 +23,8 @@ pathway_score: 0.8058385
 filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
 figtitle: Engineering of terpenoid pathways
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

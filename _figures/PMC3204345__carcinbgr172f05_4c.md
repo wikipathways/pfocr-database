@@ -21,7 +21,8 @@ pathway_score: 0.5232455
 filename: carcinbgr172f05_4c.jpg
 figtitle: Cell type-specific temporal dynamics of R-Smad phosphoisoforms
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

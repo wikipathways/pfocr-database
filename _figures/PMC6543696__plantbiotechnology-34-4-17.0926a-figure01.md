@@ -13,7 +13,8 @@ filename: plantbiotechnology-34-4-17.0926a-figure01.jpg
 figtitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
   production in loquat (Eriobotrya japonica) flowers
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

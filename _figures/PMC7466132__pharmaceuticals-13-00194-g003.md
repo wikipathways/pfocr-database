@@ -24,7 +24,8 @@ figtitle: 'Schema summarizing synergistic effects of suberoylanilide hydroxamic 
   (SAHA) and parthenolide PN in triple-negative breast cancer cells prepared based
   on Carlisi et al., '
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

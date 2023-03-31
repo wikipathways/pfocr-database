@@ -16,7 +16,8 @@ pathway_score: 0.844556
 filename: carcinbgs150f01_4c.jpg
 figtitle: Angiogenesis in tumor progression
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 35e9faa8-df22-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

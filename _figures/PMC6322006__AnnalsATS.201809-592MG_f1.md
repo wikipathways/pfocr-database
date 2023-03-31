@@ -25,7 +25,8 @@ pathway_score: 0.9495926
 filename: AnnalsATS.201809-592MG_f1.jpg
 figtitle: Schematic of sphingolipid metabolism
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -27,7 +27,8 @@ pathway_score: 0.741298
 filename: Fig1_REVGrandis.jpg
 figtitle: 'STAT3 SIGNALING: Anticancer Strategies and Challenges'
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

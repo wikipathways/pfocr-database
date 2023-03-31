@@ -23,7 +23,8 @@ pathway_score: 0.9249273
 filename: toxscikfp089f05_ht.jpg
 figtitle: Proposed model for the effect of HPTE in the granulosa cell
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: d590c79a-dedf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

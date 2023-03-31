@@ -19,7 +19,8 @@ figtitle: 'Scheme of the proposed pathway of aromatic amino acids metabolism: Th
   blue box (left) includes the metabolites related to the tryptophan metabolism studied
   in this work'
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

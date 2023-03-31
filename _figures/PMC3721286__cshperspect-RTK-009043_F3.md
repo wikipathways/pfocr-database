@@ -28,7 +28,8 @@ pathway_score: 0.9628921
 filename: cshperspect-RTK-009043_F3.jpg
 figtitle: Simplified scheme presenting multiple feedback loops in the EGFR pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b9633481-ded8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

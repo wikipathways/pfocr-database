@@ -24,7 +24,8 @@ filename: cshperspect-SYM-001644_F4.jpg
 figtitle: Coordination of extracellular and intracellular signaling regulates cytoskeletal
   dynamics and axon formation
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 62f93cd1-dea6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -25,7 +25,8 @@ pathway_score: 0.9224739
 filename: ijtr-suppl.1-2013-047f1.jpg
 figtitle: Schematic overview of the kynurenine (KYN) pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

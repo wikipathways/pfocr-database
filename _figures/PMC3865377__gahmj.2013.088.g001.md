@@ -33,7 +33,8 @@ filename: gahmj.2013.088.g001.jpg
 figtitle: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
   and glutathione synthesis
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

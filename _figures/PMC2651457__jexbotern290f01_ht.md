@@ -20,7 +20,8 @@ pathway_score: 0.7935909
 filename: jexbotern290f01_ht.jpg
 figtitle: The monolignol biosynthesis pathway
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

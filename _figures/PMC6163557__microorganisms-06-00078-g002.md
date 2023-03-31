@@ -17,7 +17,8 @@ pathway_score: 0.7790253
 filename: microorganisms-06-00078-g002.jpg
 figtitle: Biosynthetic Routes to the Sda antigen
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

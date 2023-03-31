@@ -21,7 +21,8 @@ pathway_score: 0.9686835
 filename: figure3.jpg
 figtitle: Redox Regulation of Ion Channels and Receptors in Pulmonary Hypertension
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

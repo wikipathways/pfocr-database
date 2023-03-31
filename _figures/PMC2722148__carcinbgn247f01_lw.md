@@ -13,7 +13,8 @@ pathway_score: 0.9029193
 filename: carcinbgn247f01_lw.jpg
 figtitle: MAPK transduction signaling pathway
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 39a1342d-dea4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

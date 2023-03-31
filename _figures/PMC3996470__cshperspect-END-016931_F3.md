@@ -21,7 +21,8 @@ pathway_score: 0.7181439
 filename: cshperspect-END-016931_F3.jpg
 figtitle: Processing of APP to form AB peptide
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

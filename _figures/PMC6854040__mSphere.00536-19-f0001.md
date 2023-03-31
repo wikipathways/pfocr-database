@@ -25,7 +25,8 @@ pathway_score: 0.9443204
 filename: mSphere.00536-19-f0001.jpg
 figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid products
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

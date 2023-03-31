@@ -23,7 +23,8 @@ figtitle: Functional display of OrfB-ER gene and OrfC-ER gene in fatty acid synt
   and central carbon metabolic regulation related to fatty acid biosynthesis when
   triclosan was added in S
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

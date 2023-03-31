@@ -17,7 +17,8 @@ filename: bonejointres-09-36-g003.jpg
 figtitle: Upregulation of the metabolic pathway glycan biosynthesis and metabolism
   by physical exercise
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -30,7 +30,8 @@ pathway_score: 0.8567704
 filename: ott_3842_the_epidermal_growth_factor_receptorf1.jpg
 figtitle: HER receptors and their ligands
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: fae4f57b-deb4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

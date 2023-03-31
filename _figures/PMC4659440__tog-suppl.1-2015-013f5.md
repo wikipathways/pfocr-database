@@ -17,7 +17,8 @@ pathway_score: 0.9670447
 filename: tog-suppl.1-2015-013f5.jpg
 figtitle: c-Met as a Target for Personalized Therapy.
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4dec8b3e-dec6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

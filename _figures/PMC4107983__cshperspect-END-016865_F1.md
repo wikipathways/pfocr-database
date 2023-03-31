@@ -27,7 +27,8 @@ pathway_score: 0.9513091
 filename: cshperspect-END-016865_F1.jpg
 figtitle: Transcriptional programs controlling endocytosis
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

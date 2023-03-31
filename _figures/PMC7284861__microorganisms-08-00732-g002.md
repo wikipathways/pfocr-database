@@ -13,7 +13,8 @@ pathway_score: 0.9329582
 filename: microorganisms-08-00732-g002.jpg
 figtitle: Biosynthetic pathway of L-histidine
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

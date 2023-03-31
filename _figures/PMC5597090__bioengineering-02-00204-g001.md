@@ -19,7 +19,8 @@ filename: bioengineering-02-00204-g001.jpg
 figtitle: Schematic diagram of the phenylpropanoid/benzenoid biosynthetic pathway
   in plants
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

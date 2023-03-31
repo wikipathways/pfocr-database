@@ -14,7 +14,8 @@ pathway_score: 0.9094445
 filename: jexboterq066f04_3c.jpg
 figtitle: Methionine metabolic pathway during Chinese fir seed filling
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

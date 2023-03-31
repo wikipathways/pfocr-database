@@ -16,7 +16,8 @@ pathway_score: 0.9211338
 filename: ijtr-suppl.1-2013-003f1.jpg
 figtitle: Nutritional Aspect of Tryptophan Metabolism
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

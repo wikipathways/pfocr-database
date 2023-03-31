@@ -17,7 +17,8 @@ pathway_score: 0.8722184
 filename: lpi-suppl.1-2015-095f3.jpg
 figtitle: Schematic pathway of DHE synthesis and possible side pathways
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

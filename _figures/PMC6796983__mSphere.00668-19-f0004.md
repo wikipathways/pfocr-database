@@ -21,7 +21,8 @@ filename: mSphere.00668-19-f0004.jpg
 figtitle: Schematic diagram of PHB, carotenoid, and gellan production in Sphingomonas
   elodea ATCC 31461
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -69,7 +70,7 @@ schema-jsonld:
   - R-3-Hydroxybutanoyl-CoA
   - Phytoene
   - Poly(R-hydroxybutyrate)
-  - "Glucose-6-P \x1F Glucose-1-P \x1F 'TDP-Rhamnose"
+  - "Glucose-6-P  Glucose-1-P  'TDP-Rhamnose"
 genes:
 - word: C1/2!
   symbol: C1
@@ -160,7 +161,7 @@ chemicals:
   source: MESH
   identifier: C003182
 diseases:
-- word: "Glucose-6-P \x1F Glucose-1-P \x1F 'TDP-Rhamnose"
+- word: "Glucose-6-P  Glucose-1-P  'TDP-Rhamnose"
   source: MESH
   identifier: C000656865
 figid_alias: PMC6796983__F4

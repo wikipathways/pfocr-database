@@ -12,7 +12,8 @@ pathway_score: 0.8979336
 filename: Beilstein_J_Org_Chem-16-1901-g012.jpg
 figtitle: Synthetic pathway to receptors CZ016 and MC001–MC014
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

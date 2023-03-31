@@ -18,7 +18,8 @@ pathway_score: 0.9124977
 filename: theoncologist_15438_f1.jpg
 figtitle: The Fanconi anemia/BRCA repair pathway
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -12,7 +12,8 @@ pathway_score: 0.7615303
 filename: carcinbgr139f01_lw.jpg
 figtitle: Sex steroid hormone biosynthesis and metabolism pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

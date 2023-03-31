@@ -36,7 +36,8 @@ pathway_score: 0.9382147
 filename: Dtsch_Arztebl_Int-117_0119_003.jpg
 figtitle: Disorders Caused by Genetic Mosaicism
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

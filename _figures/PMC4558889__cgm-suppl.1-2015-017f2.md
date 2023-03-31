@@ -19,7 +19,8 @@ pathway_score: 0.9584398
 filename: cgm-suppl.1-2015-017f2.jpg
 figtitle: The polyamine pathway in mammalian cells
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

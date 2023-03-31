@@ -21,7 +21,8 @@ filename: microorganisms-08-00759-g004.jpg
 figtitle: Metabolic reconstruction of membrane phospholipids biosynthesis through
   mevalonate pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

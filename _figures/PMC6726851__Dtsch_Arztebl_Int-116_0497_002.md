@@ -13,7 +13,8 @@ filename: Dtsch_Arztebl_Int-116_0497_002.jpg
 figtitle: Inhibition of the MAPK(RAS-RAF-MEK-ERK) signaling pathway by BRAF inhibitors
   and MEK inhibitorsMAPK, mitogen-activated protein kinase; RTK, receptor-tyrosine-kinase
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

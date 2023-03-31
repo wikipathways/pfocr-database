@@ -27,7 +27,8 @@ pathway_score: 0.9458335
 filename: mSphere.00973-20-f0007.jpg
 figtitle: MAPK signaling cross talk in response to antifungal drugs in C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

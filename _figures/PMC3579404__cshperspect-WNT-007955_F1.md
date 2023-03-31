@@ -22,7 +22,8 @@ pathway_score: 0.966971
 filename: cshperspect-WNT-007955_F1.jpg
 figtitle: Conserved Wnt pathway branches and components
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 565f4a54-deaf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

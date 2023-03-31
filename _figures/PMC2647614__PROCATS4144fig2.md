@@ -25,7 +25,8 @@ pathway_score: 0.8901932
 filename: PROCATS4144fig2.jpg
 figtitle: Novel Insights into Lung Transplant Rejection by Microarray Analysis
 year: '2007'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3b53500a-deaf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -29,7 +29,8 @@ figtitle: 'Proinflammatory pathways regulated by LRP-1: The interaction between 
   and ApoE represses the formation of IRAK1–TRAF6 complex and therefore the NFKB-mediated
   pathway'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

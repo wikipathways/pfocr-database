@@ -46,7 +46,8 @@ pathway_score: 0.8967831
 filename: cshperspect-GLI-020396_F1.jpg
 figtitle: Overview of astrocytic metabolism
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

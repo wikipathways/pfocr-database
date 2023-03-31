@@ -34,7 +34,8 @@ filename: cshperspect-WNT-007971_F3.jpg
 figtitle: Model depicting effects of Wnt-stabilized Beta-catenin through Tcf proteins
   in mESCs
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

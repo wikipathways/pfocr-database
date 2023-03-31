@@ -28,7 +28,8 @@ pathway_score: 0.9251928
 filename: cshperspect-SIG-005975_F1.jpg
 figtitle: Patterning of the early Drosophila embryo
 year: '2012'
-organisms: Drosophila melanogaster
+organisms:
+- Drosophila melanogaster
 ndex: ''
 annotations: []
 seo: CreativeWork

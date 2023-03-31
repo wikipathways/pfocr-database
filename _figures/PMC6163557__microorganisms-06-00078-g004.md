@@ -20,7 +20,8 @@ pathway_score: 0.9069234
 filename: microorganisms-06-00078-g004.jpg
 figtitle: Feedback Inhibition on Glycan Activation Pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

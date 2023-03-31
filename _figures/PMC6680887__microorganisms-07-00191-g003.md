@@ -14,7 +14,8 @@ pathway_score: 0.8992398
 filename: microorganisms-07-00191-g003.jpg
 figtitle: Dinoflagellate orthologues predicted in the base excision repair pathway
 year: '2019'
-organisms: Dinoflagellates
+organisms:
+- Dinoflagellates
 ndex: ''
 annotations: []
 seo: CreativeWork

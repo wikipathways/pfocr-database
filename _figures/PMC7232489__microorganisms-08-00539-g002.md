@@ -16,7 +16,8 @@ pathway_score: 0.9082478
 filename: microorganisms-08-00539-g002.jpg
 figtitle: Bifurcated pathway to synthesize hexanoic acid in M
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

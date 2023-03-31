@@ -14,7 +14,8 @@ filename: Beilstein_J_Org_Chem-17-558-g011.jpg
 figtitle: Proposal of the fragmentation pathway of the Cu(II) complex with compound
   7
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -39,7 +40,7 @@ schema-jsonld:
   - Meo
   - SO
   - N2
-  - "\x1F MeO, \x1F MeO"
+  - " MeO,  MeO"
   - CO
   - C13H10NO
   - C12H
@@ -77,7 +78,7 @@ chemicals:
 - word: N2
   source: MESH
   identifier: D009584
-- word: "\x1F MeO, \x1F MeO"
+- word: " MeO,  MeO"
   source: MESH
   identifier: C526611
 - word: CO

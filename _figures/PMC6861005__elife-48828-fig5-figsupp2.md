@@ -15,7 +15,8 @@ pathway_score: 0.5098273
 filename: elife-48828-fig5-figsupp2.jpg
 figtitle: Metabolomic profile in hTim8aMUT SH-SY5Y cells
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

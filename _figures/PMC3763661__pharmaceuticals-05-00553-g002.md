@@ -38,7 +38,8 @@ pathway_score: 0.8986498
 filename: pharmaceuticals-05-00553-g002.jpg
 figtitle: Current gene therapy treatments for PD
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

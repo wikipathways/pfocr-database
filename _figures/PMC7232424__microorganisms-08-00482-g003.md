@@ -18,7 +18,8 @@ figtitle: Novel Clinical Campylobacter jejuni Infection Models Based on Sensitiz
   of Mice to Lipooligosaccharide, a Major Bacterial Factor Triggering Innate Immune
   Responses in Human Campylobacteriosis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

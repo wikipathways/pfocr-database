@@ -16,7 +16,8 @@ filename: mSphere.00818-20-f0001.jpg
 figtitle: Two branches of Snl1 and Sho1 which are responsible for the activation of
   the S
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

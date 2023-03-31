@@ -13,7 +13,8 @@ pathway_score: 0.7478721
 filename: Beilstein_J_Org_Chem-16-1805-g014.jpg
 figtitle: Proposed mechanisms for the formation of oxazolidinone 9f
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

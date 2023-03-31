@@ -14,7 +14,8 @@ filename: molbiolevolmsn138f02_ht.jpg
 figtitle: Roles of cis- and trans-Changes in the Regulatory Evolution of Genes in
   the Gluconeogenic Pathway in Yeast
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

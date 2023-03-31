@@ -1,6 +1,8 @@
 ---
+order: 2
 display-title: "WikiPathways"
-btn-class: "btn-front"
+tooltip: "Figures with pathway models at WikiPathways" 
+btn-class: "btn-wikipathways btn-pill"
 ---
 
 <h1>Pathway Figures translated to WikiPathways

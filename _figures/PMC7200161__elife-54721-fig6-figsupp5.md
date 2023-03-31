@@ -14,7 +14,8 @@ filename: elife-54721-fig6-figsupp5.jpg
 figtitle: Schematic model for possible signaling pathway related to the role of ALK7
   in mediating BAT responses to nutrient stress
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

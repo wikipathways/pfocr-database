@@ -11,7 +11,8 @@ pathway_score: 0.9073311
 filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
 figtitle: Proposed biosynthetic pathway to chilenine (93)
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

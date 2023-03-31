@@ -24,7 +24,8 @@ pathway_score: 0.9500116
 filename: cshperspect-CYT-028514_F4.jpg
 figtitle: Intracellular signaling pathways arising from B common (Bc) receptor activation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

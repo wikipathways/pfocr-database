@@ -18,7 +18,8 @@ pathway_score: 0.9480538
 filename: jamafacialplastsurg-19-436-g002.jpg
 figtitle: Putative Neuropeptide–Mast Cell–Myofibroblast Signaling Pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

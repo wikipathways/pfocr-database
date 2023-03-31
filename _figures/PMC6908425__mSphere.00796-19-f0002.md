@@ -28,7 +28,8 @@ filename: mSphere.00796-19-f0002.jpg
 figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
   enzymes
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

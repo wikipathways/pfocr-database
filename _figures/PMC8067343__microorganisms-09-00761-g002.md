@@ -22,7 +22,8 @@ pathway_score: 0.9097107
 filename: microorganisms-09-00761-g002.jpg
 figtitle: Anti-CSFV drug candidates target the CSFV life cycle or virus-host interaction
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

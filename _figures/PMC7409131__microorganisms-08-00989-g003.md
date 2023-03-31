@@ -20,7 +20,8 @@ filename: microorganisms-08-00989-g003.jpg
 figtitle: Enteroviruses have demonstrated the capacity to escape host antiviral defense
   by affecting NK cell effector response through unclear mechanisms
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

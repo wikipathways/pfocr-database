@@ -20,7 +20,8 @@ pathway_score: 0.9520361
 filename: cshperspect-NFK-000034_F3.jpg
 figtitle: Canonical and non-canonical signaling to NFKB
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

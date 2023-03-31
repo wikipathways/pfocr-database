@@ -13,7 +13,8 @@ filename: plantbiotechnology-35-1-18.0104a-figure01.jpg
 figtitle: Molecular cloning of flavonoid biosynthetic genes and biochemical characterization
   of anthocyanin O-methyltransferase of Nemophila menziesii Hook. and Arn.
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 0f8f8c62-def9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

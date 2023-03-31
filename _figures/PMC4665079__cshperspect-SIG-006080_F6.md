@@ -24,7 +24,8 @@ pathway_score: 0.9234266
 filename: cshperspect-SIG-006080_F6.jpg
 figtitle: Autophagic signaling pathway
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ed502167-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

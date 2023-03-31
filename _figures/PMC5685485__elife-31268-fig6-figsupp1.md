@@ -15,7 +15,8 @@ pathway_score: 0.9000827
 filename: elife-31268-fig6-figsupp1.jpg
 figtitle: Proposed model for metformin’s action
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: a539f3de-dea5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

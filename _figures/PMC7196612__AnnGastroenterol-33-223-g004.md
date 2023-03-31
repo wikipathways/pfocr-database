@@ -18,7 +18,8 @@ pathway_score: 0.9489772
 filename: AnnGastroenterol-33-223-g004.jpg
 figtitle: Oncogenic properties of Bacteroides (B.) fragilis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

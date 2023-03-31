@@ -14,7 +14,8 @@ filename: clinmed-11-1-8fig2.jpg
 figtitle: Broad overview of the genetic architecture of inflammatory bowel disease
   giving examples of confirmed and candidate genes implicated in each pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 324757a7-df2d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

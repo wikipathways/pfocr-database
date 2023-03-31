@@ -29,7 +29,8 @@ pathway_score: 0.610228
 filename: cshperspectmed-MYC-014407_F1.jpg
 figtitle: Apoptotic signaling pathways in normal and malignant cells
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 95a2ebf2-df33-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ pathway_score: 0.936384
 filename: jamafacialplastsurg-21-110-g001.jpg
 figtitle: Hedgehog-Induced Osteogenesis
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

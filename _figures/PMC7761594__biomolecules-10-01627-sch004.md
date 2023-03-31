@@ -14,7 +14,8 @@ filename: biomolecules-10-01627-sch004.jpg
 figtitle: Multistep synthesis pathway leading to the formation of wyosine (imG) and
   methylwyosine (mimG) via 3-methylguanosine intermediate
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

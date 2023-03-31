@@ -26,7 +26,8 @@ filename: bioengineering-07-00151-g001.jpg
 figtitle: Different optogenetic systems can be used to achieve flux control in various
   ways
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

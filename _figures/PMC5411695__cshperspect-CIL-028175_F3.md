@@ -31,7 +31,8 @@ pathway_score: 0.9586857
 filename: cshperspect-CIL-028175_F3.jpg
 figtitle: Hedgehog (Hh) signal transduction in the primary cilium
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 88793187-decc-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

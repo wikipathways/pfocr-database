@@ -24,7 +24,8 @@ filename: cshperspect-GOL-005363_F3.jpg
 figtitle: A model for differentially regulating Numb and Notch signaling during mammalian
   neurogenesis through Golgi fragmentation and reconstitution
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

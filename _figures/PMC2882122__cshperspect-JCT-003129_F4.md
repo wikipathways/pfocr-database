@@ -47,7 +47,8 @@ filename: cshperspect-JCT-003129_F4.jpg
 figtitle: Selection of expression patterns and activities of members of the cadherin
   superfamily in cancer
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: fd7774df-df0b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -18,7 +18,8 @@ filename: cshperspect-EPI-019463_F3.jpg
 figtitle: The biosynthesis pathway of S-adenosyl methionine (SAM) and its involvement
   in chromatin-related processes
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

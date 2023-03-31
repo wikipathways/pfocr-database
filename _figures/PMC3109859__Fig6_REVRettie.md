@@ -18,7 +18,8 @@ filename: Fig6_REVRettie.jpg
 figtitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Disease
   States'
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

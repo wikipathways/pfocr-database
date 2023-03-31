@@ -33,7 +33,8 @@ pathway_score: 0.9606661
 filename: cshperspect-SIG-006080_F4.jpg
 figtitle: Death receptor signaling pathway
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 42c867a2-dedd-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

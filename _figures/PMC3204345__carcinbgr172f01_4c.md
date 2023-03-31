@@ -28,7 +28,8 @@ pathway_score: 0.6987401
 filename: carcinbgr172f01_4c.jpg
 figtitle: Multiple Smad phosphoisoforms exist
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: e0d25c40-df33-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

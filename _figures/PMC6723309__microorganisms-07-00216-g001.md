@@ -29,7 +29,8 @@ filename: microorganisms-07-00216-g001.jpg
 figtitle: Adenovirus-directed innate immunity through nuclear factor kappa-light-chain-enhancer
   of activated B cells (NFKB)
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7b03919a-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

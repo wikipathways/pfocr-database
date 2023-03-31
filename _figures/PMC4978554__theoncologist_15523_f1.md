@@ -21,7 +21,8 @@ pathway_score: 0.9055049
 filename: theoncologist_15523_f1.jpg
 figtitle: CTLA-4 pathway inhibition
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

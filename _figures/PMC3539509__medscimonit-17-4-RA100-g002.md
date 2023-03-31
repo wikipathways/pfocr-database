@@ -19,7 +19,8 @@ filename: medscimonit-17-4-RA100-g002.jpg
 figtitle: 'TLR4 signaling pathway: TLR4 is localized on cell surface for ligand recognition
   and activates both MyD88-dependent pathway and TRIF-dependent pathway'
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b82ca8ae-df30-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

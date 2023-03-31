@@ -25,7 +25,8 @@ pathway_score: 0.8321596
 filename: jexbotern323f01_lw.jpg
 figtitle: The flavonoid pathway in Arabidopsis
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

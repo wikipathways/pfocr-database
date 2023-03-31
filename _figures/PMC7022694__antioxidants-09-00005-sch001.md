@@ -12,7 +12,8 @@ pathway_score: 0.7296444
 filename: antioxidants-09-00005-sch001.jpg
 figtitle: Synthesis pathway for functionalized nanoparticles 1A and 1B
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

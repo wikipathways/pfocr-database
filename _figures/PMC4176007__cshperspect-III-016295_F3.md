@@ -18,7 +18,8 @@ pathway_score: 0.9577986
 filename: cshperspect-III-016295_F3.jpg
 figtitle: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

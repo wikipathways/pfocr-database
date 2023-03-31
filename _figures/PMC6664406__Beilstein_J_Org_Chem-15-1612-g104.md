@@ -12,7 +12,8 @@ pathway_score: 0.7400361
 filename: Beilstein_J_Org_Chem-15-1612-g104.jpg
 figtitle: Reaction pathway for ZnO-catalyzed GBB reaction
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

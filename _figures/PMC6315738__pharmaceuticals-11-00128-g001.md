@@ -42,7 +42,8 @@ pathway_score: 0.9126568
 filename: pharmaceuticals-11-00128-g001.jpg
 figtitle: Intestinal uptake of non-heme iron and its regulation
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 07f44b7f-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

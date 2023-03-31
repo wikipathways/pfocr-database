@@ -24,7 +24,8 @@ filename: mSphere.00796-19-f0004.jpg
 figtitle: Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
   without changes in amounts of metabolic enzymes
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

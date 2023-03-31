@@ -15,7 +15,8 @@ pathway_score: 0.9640428
 filename: cshperspect-CYT-028449_F3.jpg
 figtitle: Interleukin (IL)-2 signaling pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

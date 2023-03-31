@@ -19,7 +19,8 @@ pathway_score: 0.965447
 filename: pharmaceuticals-14-00136-g001.jpg
 figtitle: Canonical pathway of microRNA (miRNA) processing
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

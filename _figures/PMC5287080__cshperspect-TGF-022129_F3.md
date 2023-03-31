@@ -23,7 +23,8 @@ pathway_score: 0.9571834
 filename: cshperspect-TGF-022129_F3.jpg
 figtitle: Transforming growth factor B (TGFB)-induced activation of the PI3K-Akt pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: b65f88e0-dee6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

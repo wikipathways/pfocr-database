@@ -21,7 +21,8 @@ pathway_score: 0.6985716
 filename: pharmaceuticals-12-00101-g002.jpg
 figtitle: Zika virus life cycle
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

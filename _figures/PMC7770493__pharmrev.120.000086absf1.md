@@ -11,7 +11,8 @@ pathway_score: 0.8999523
 filename: pharmrev.120.000086absf1.jpg
 figtitle: Subcellular Organization of the cAMP Signaling Pathway
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

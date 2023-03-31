@@ -16,7 +16,8 @@ figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the I
   of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
   in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

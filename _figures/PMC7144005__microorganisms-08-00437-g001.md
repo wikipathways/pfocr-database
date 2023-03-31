@@ -20,7 +20,8 @@ pathway_score: 0.9355234
 filename: microorganisms-08-00437-g001.jpg
 figtitle: Modes of electron transfer to pMMO in iMsOB3b model developed in this study
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

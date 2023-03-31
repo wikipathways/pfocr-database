@@ -23,7 +23,8 @@ pathway_score: 0.8095566
 filename: cshperspectmed-HFP-019281_F1.jpg
 figtitle: Mating in Candida albicans
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

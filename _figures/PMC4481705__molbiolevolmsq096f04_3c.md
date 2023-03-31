@@ -22,7 +22,8 @@ filename: molbiolevolmsq096f04_3c.jpg
 figtitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Diverse
   Pathway in Archaea'
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

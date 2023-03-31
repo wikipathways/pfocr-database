@@ -23,7 +23,8 @@ filename: mSystems.00277-20-f0004.jpg
 figtitle: Defining Genomic and Predicted Metabolic Features of the Acetobacterium
   Genus
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

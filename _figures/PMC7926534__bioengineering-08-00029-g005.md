@@ -15,7 +15,8 @@ filename: bioengineering-08-00029-g005.jpg
 figtitle: Biosynthetic pathway of poly(3-hydroxybutyrate) production within the bacterial
   cytoplasm
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -23,7 +23,8 @@ pathway_score: 0.837244
 filename: cshperspect-RCM-016634_F1.jpg
 figtitle: The meiotic recombination pathway
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

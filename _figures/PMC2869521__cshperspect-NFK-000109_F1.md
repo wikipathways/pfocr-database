@@ -44,7 +44,8 @@ pathway_score: 0.9201992
 filename: cshperspect-NFK-000109_F1.jpg
 figtitle: Role of BCR signaling to NFKB in ABC DLBCL
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 8717a04a-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

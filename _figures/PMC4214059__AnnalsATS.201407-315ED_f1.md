@@ -21,7 +21,8 @@ filename: AnnalsATS.201407-315ED_f1.jpg
 figtitle: A causal model specifying how genetic variation increases the susceptibility
   to clinical disease through smoking and alternate pathways ()
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

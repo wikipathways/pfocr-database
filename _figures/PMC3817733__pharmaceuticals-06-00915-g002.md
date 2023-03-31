@@ -27,7 +27,8 @@ pathway_score: 0.9784986
 filename: pharmaceuticals-06-00915-g002.jpg
 figtitle: Platelet activation, aggregation and fibrin formation
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,7 +17,8 @@ filename: jexboterp073f01_3c.jpg
 figtitle: 'Outline of the two isoprenoid biosynthetic pathways in an Arabidopsis cell:
   the MVA and MEP pathways'
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

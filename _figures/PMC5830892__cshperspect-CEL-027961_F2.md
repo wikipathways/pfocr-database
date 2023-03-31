@@ -16,7 +16,8 @@ pathway_score: 0.6931113
 filename: cshperspect-CEL-027961_F2.jpg
 figtitle: FERM-binding partners of Crumbs3
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

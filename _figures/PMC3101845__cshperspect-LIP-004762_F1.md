@@ -19,7 +19,8 @@ pathway_score: 0.9448658
 filename: cshperspect-LIP-004762_F1.jpg
 figtitle: Regulation of Tat2 sorting to the vacuole
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

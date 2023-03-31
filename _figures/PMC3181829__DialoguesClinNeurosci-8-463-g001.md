@@ -14,7 +14,8 @@ filename: DialoguesClinNeurosci-8-463-g001.jpg
 figtitle: Hypothalamic-pituitary-adrenal axis modulation of GABAergic neuroactive
   steroids influences ethanol sensitivity and drinking behavior
 year: '2006'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

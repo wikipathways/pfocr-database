@@ -16,7 +16,8 @@ pathway_score: 0.9190544
 filename: elife-00378-fig1-figsupp3.jpg
 figtitle: Schematic model of LIN-12/Notch signaling pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ pathway_score: 0.9663982
 filename: cshperspect-TGF-031989_F1.jpg
 figtitle: Bone morphogenetic protein (BMP) signaling pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

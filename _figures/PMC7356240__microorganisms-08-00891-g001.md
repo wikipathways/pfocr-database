@@ -29,7 +29,8 @@ filename: microorganisms-08-00891-g001.jpg
 figtitle: Macrophage migration inhibitory factor (MIF) mediates immune response crosstalk
   in dengue pathogenesis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

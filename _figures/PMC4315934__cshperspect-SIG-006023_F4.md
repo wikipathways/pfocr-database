@@ -18,7 +18,8 @@ pathway_score: 0.9500857
 filename: cshperspect-SIG-006023_F4.jpg
 figtitle: Cardiac muscle contraction and changes with exercise
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 96dd9539-def1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

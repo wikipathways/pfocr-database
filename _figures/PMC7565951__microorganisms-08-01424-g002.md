@@ -22,7 +22,8 @@ filename: microorganisms-08-01424-g002.jpg
 figtitle: Roles of TRIM proteins in pattern recognition receptors (PRRs)-mediated
   immune signaling pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

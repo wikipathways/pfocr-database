@@ -21,7 +21,8 @@ filename: elife-47733-fig9-figsupp1.jpg
 figtitle: Revised model of the likely epigenetic interactions in the paqr-2 pathway
   based on previously published work and the present study
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,8 @@ filename: cshperspect-PRT-004507_F7.jpg
 figtitle: Three arms of the unfolded protein response stress-responsive signaling
   pathway
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: d51bcab7-ded5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

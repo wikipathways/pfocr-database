@@ -16,7 +16,8 @@ pathway_score: 0.883728
 filename: mSystems.00451-19-f0002.jpg
 figtitle: Mouse gene expression affected by biofilm status
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

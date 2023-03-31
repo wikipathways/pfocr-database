@@ -29,7 +29,8 @@ filename: cshperspect-GRA-a001701fig3.jpg
 figtitle: A biochemical pathway of secreted proteins that regulate D-V patterning
   in Xenopus
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

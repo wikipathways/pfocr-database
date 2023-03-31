@@ -27,7 +27,8 @@ filename: pharmaceuticals-10-00027-g001a.jpg
 figtitle: 'Protein Kinase CK2: Intricate Relationships within Regulatory Cellular
   Networks'
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 301aa15d-df2f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

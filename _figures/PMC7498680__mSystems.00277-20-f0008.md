@@ -18,7 +18,8 @@ pathway_score: 0.9128281
 filename: mSystems.00277-20-f0008.jpg
 figtitle: Metabolic overview of the Acetobacterium genus
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

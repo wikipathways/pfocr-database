@@ -16,7 +16,8 @@ pathway_score: 0.8915471
 filename: elife-61818-fig1-figsupp1.jpg
 figtitle: Rescue of an ilvA auxotrophic mutant by SAMases ()
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

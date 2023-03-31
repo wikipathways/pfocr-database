@@ -14,7 +14,8 @@ filename: toxscikfq083f05_3c.jpg
 figtitle: The positive arm of the circadian clock regulates xenobiotic-metabolizing
   genes and the response of flies to a toxic exposure
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

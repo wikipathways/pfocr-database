@@ -11,7 +11,8 @@ pathway_score: 0.8729519
 filename: pharmaceuticals-03-01594-g002.jpg
 figtitle: Dual effects of NSAIDs on the novel LTCC-mediated LTC4synthesis pathway
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

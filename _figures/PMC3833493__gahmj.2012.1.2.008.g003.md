@@ -18,7 +18,8 @@ pathway_score: 0.9335701
 filename: gahmj.2012.1.2.008.g003.jpg
 figtitle: Markers of Coenzyme Q10 synthesis and Function
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

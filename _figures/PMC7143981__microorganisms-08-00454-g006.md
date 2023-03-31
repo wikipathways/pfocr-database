@@ -23,7 +23,8 @@ pathway_score: 0.8876746
 filename: microorganisms-08-00454-g006.jpg
 figtitle: The proposed route for formate assimilation in D
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

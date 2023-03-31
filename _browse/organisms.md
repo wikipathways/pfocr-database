@@ -1,5 +1,7 @@
 ---
+order: 1
 display-title: "Organism"
+tooltip: "List of organisms represented by pathways in the database" 
 btn-class: "btn-organism btn-pill"
 ---
 

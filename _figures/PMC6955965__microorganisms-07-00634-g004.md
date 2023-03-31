@@ -13,7 +13,8 @@ pathway_score: 0.9366119
 filename: microorganisms-07-00634-g004.jpg
 figtitle: Metabolic pathway analysis of VBNC E
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

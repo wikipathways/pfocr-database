@@ -20,7 +20,8 @@ pathway_score: 0.932534
 filename: lpi-suppl.1-2015-021f2.jpg
 figtitle: Schematic of the PG biogenesis pathway in E
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

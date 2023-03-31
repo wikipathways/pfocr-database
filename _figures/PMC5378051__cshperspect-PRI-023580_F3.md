@@ -21,7 +21,8 @@ filename: cshperspect-PRI-023580_F3.jpg
 figtitle: Homologous mammalian and fungal host-defense pathways that signal through
   prion conversion
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

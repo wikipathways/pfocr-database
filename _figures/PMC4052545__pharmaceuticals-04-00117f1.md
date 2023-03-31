@@ -20,7 +20,8 @@ pathway_score: 0.9572917
 filename: pharmaceuticals-04-00117f1.jpg
 figtitle: S1P receptor signaling
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 5fcece8f-debf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

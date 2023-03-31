@@ -16,7 +16,8 @@ pathway_score: 0.8720425
 filename: jexboterp218f01_lw.jpg
 figtitle: Carotenoid biosynthetic pathway in plants
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

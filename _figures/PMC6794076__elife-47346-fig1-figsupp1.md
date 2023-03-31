@@ -22,7 +22,8 @@ pathway_score: 0.911347
 filename: elife-47346-fig1-figsupp1.jpg
 figtitle: Fog and T48 pathway in Drosophila
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

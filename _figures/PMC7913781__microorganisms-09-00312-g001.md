@@ -39,7 +39,8 @@ filename: microorganisms-09-00312-g001.jpg
 figtitle: Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
   polymorpha
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -110,7 +111,7 @@ schema-jsonld:
   - DHAP
   - GlcNAc
   - TSA
-  - "Glucose-6P \x1F Glucose-1P"
+  - "Glucose-6P  Glucose-1P"
 genes:
 - word: xk
   symbol: XK
@@ -239,7 +240,7 @@ chemicals:
   source: MESH
   identifier: C070842
 diseases:
-- word: "Glucose-6P \x1F Glucose-1P"
+- word: "Glucose-6P  Glucose-1P"
   source: MESH
   identifier: D018149
 figid_alias: PMC7913781__F1

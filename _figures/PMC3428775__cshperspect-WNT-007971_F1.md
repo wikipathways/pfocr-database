@@ -15,7 +15,8 @@ pathway_score: 0.8859748
 filename: cshperspect-WNT-007971_F1.jpg
 figtitle: Feed-forward network of stem cell transcription factors
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

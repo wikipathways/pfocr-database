@@ -28,7 +28,8 @@ figtitle: Metabolic pathways involved in lactate-based or ethanol-based chain el
   and production of acetate, n-butyrate, iso-butyrate, and n-caproate as predicted
   from the genome annotation of strains BL-3, BL-4, and BL-6
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

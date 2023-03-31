@@ -28,7 +28,8 @@ filename: elife-47209-fig8-figsupp1.jpg
 figtitle: Proposed mechanisms underlying the cocaine-regulated synthesis and release
   of 2-AG in VTA
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

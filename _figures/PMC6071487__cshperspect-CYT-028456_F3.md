@@ -22,7 +22,8 @@ pathway_score: 0.9313195
 filename: cshperspect-CYT-028456_F3.jpg
 figtitle: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

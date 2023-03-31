@@ -81,23 +81,6 @@ layout: default
     {% endif %}
     {% endfor %}
 
-    <h2 id="annotations">Annotations
-      <a href="https://github.com/wikipathways/pfocr-database/edit/main/{{ page.path }}"
-      target="_blank">
-        <span title="Edit annotations" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a></h2>
-    {% assign annot-types = page.annotations | map: "type" | uniq %}
-    {% for type in annot-types %}
-    <p>{{ type }}: 
-      {% assign annot-values= page.annotations | where: "type", type | map: "value" %}
-      {% for annot in annot-values %}
-        <a class="btn btn-sm btn-pill btn-annotation" href="/browse/table.html?{{ type }}={{ annot }}">{{ annot }}</a>
-      {% endfor %}
-    </p>
-    {% endfor %}
-
     <h2 id="participants">Gene mentions
       <!-- {% assign data-genes = "https://github.com/wikipathways/pfocr-database/blob/main/_data/" | append: page.figid | append: "-genes.tsv" %} -->
       <a href="https://github.com/wikipathways/pfocr-database/edit/main/{{ page.path }}"

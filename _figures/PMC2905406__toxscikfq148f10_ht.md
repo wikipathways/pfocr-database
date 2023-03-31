@@ -22,7 +22,8 @@ pathway_score: 0.875026
 filename: toxscikfq148f10_ht.jpg
 figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticles
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

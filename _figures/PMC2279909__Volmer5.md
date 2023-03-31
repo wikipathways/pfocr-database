@@ -12,7 +12,8 @@ pathway_score: 0.9226835
 filename: Volmer5.jpg
 figtitle: Metabolic pathway for lactose degradation
 year: '2003'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

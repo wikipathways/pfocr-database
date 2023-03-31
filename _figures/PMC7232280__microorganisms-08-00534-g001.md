@@ -17,7 +17,8 @@ pathway_score: 0.8258318
 filename: microorganisms-08-00534-g001.jpg
 figtitle: Scheme of the molybdenum cofactor biosynthesis pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

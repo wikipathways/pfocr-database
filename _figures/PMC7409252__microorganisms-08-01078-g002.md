@@ -58,7 +58,8 @@ filename: microorganisms-08-01078-g002.jpg
 figtitle: Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
   the context of cytomegalovirus (CMV) viral reactivation
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ figtitle: Protein–protein interaction network between gene products with high-
   variants contained in the top enriched pathways and those presenting differentially
   methylated sites in CLZ-treated patients
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

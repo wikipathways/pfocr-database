@@ -28,7 +28,8 @@ pathway_score: 0.9537777
 filename: cshperspect-END-016816_F1.jpg
 figtitle: Organization of the endosomal pathway
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

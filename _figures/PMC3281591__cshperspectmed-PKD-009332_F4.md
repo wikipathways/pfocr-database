@@ -39,7 +39,8 @@ pathway_score: 0.9419939
 filename: cshperspectmed-PKD-009332_F4.jpg
 figtitle: Mitochondrial-dependent apoptosis
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7ff7f06f-df04-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

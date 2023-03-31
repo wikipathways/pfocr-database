@@ -18,7 +18,8 @@ pathway_score: 0.8966132
 filename: jexboterr216f06_ht.jpg
 figtitle: The putative model of anthocyanin and butein synthesis in MJOr and MJY
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -27,7 +27,8 @@ pathway_score: 0.9454306
 filename: cshperspect-CSD-008797_F3.jpg
 figtitle: Distinct types of apoptosis-induced proliferation in Drosophila
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 2f9ed363-de96-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ pathway_score: 0.8900813
 filename: microorganisms-07-00222-g005.jpg
 figtitle: Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,])
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

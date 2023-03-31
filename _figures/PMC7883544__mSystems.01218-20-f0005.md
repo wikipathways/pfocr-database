@@ -25,7 +25,8 @@ pathway_score: 0.8008403
 filename: mSystems.01218-20-f0005.jpg
 figtitle: Collagen utilization pathway scheme in MAG BB5
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

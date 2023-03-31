@@ -30,7 +30,8 @@ filename: pharmaceuticals-09-00024-g001.jpg
 figtitle: Models that have been proposed to explain the inhibition of tumor cell proliferation
   by metformin
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -25,7 +25,8 @@ filename: pharmaceuticals-07-01008-g010.jpg
 figtitle: Relationship between GPxs and the NFKB pathway in the antiproliferation
   action of butyrate
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

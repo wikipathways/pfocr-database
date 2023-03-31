@@ -28,7 +28,8 @@ pathway_score: 0.9290995
 filename: ane-publish-ahead-of-print-10.1213.ane.0000000000005059-g001.jpg
 figtitle: Procoagulant changes that occur with COVID-19 and potential therapeutics
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

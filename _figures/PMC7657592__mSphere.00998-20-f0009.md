@@ -16,7 +16,8 @@ pathway_score: 0.9184786
 filename: mSphere.00998-20-f0009.jpg
 figtitle: Genetic model depicting the role of RgdA in A
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

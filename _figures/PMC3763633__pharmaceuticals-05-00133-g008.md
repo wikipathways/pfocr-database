@@ -19,7 +19,8 @@ figtitle: The morphine biosynthetic pathway downstream of (S)-N-methylcoclaurine
   the results of expression analysis of selected morphine biosynthetic genes, CYP80B3,
   4'OMT, SalAT, T6ODM, COR (alleles Cor1-1 and Cor2-1), and CODM by RT-PCR
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

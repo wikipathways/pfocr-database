@@ -23,7 +23,8 @@ pathway_score: 0.9564835
 filename: wellcomeopenres-3-16168-g0000.jpg
 figtitle: Nutrient availability affects cellular response to stress signals
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4842f572-dec6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

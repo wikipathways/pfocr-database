@@ -16,7 +16,8 @@ pathway_score: 0.5235897
 filename: mSystems.00933-20-f0004.jpg
 figtitle: STRING output and targeted pathway analyses
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

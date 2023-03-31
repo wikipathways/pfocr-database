@@ -11,7 +11,8 @@ pathway_score: 0.962949
 filename: pharmaceuticals-05-01236-g001.jpg
 figtitle: PI3K/Akt/mTOR signaling pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 8912e311-ded8-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

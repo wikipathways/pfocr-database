@@ -14,7 +14,8 @@ pathway_score: 0.9537118
 filename: RevDiabeticStud-04-209-007.jpg
 figtitle: Pleiotropic Roles of PDX-1 in the Pancreas
 year: '2007'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

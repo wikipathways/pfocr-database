@@ -24,7 +24,8 @@ pathway_score: 0.9394832
 filename: pbio.0020311.g003.jpg
 figtitle: Hormonal Regulation of Plant Growth and Development
 year: '2004'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 75d26bfd-deb6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

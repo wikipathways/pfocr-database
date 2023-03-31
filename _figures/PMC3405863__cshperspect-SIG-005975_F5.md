@@ -30,7 +30,8 @@ pathway_score: 0.9000617
 filename: cshperspect-SIG-005975_F5.jpg
 figtitle: Segmentation clock oscillator
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 9f89e04f-dea3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

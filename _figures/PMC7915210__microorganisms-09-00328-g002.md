@@ -20,7 +20,8 @@ pathway_score: 0.5389801
 filename: microorganisms-09-00328-g002.jpg
 figtitle: Immune-based strategies antimicrobial peptides and NETs
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

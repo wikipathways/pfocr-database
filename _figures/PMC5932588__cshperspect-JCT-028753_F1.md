@@ -25,7 +25,8 @@ pathway_score: 0.6986581
 filename: cshperspect-JCT-028753_F1.jpg
 figtitle: Molecular mechanisms that connect cellular junctions to the Hippo pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

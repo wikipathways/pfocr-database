@@ -27,7 +27,8 @@ filename: cshperspect-PRT-004424_F1.jpg
 figtitle: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
   and ATF6 regulate the UPR through their respective signaling cascades'
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -34,7 +34,8 @@ filename: microorganisms-08-00866-g001.jpg
 figtitle: N-methylanthranilate (NMA) biosynthesis (A) embedded into aromatic amino
   acid metabolism of engineered C
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

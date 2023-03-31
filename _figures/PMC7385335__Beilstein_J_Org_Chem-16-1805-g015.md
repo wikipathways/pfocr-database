@@ -13,7 +13,8 @@ pathway_score: 0.7219751
 filename: Beilstein_J_Org_Chem-16-1805-g015.jpg
 figtitle: Proposed mechanism for the formation of five-membered cyclic carbonate 8f
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

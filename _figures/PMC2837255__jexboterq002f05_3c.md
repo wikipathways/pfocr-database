@@ -18,7 +18,8 @@ filename: jexboterq002f05_3c.jpg
 figtitle: Comparative visualization of central metabolism as determined by metabolic
   profiling of trichomes, basal and pavement cells collected by micro sampling
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

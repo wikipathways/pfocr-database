@@ -32,7 +32,8 @@ pathway_score: 0.9248533
 filename: RevDiabeticStud-13-113-003.jpg
 figtitle: Physiological Effects of Dandelion (Taraxacum Officinale) in Type 2 Diabetes
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 86978616-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -33,7 +33,8 @@ pathway_score: 0.9462073
 filename: cshperspect-RTK-009076_F2.jpg
 figtitle: TAM receptor signaling pathways
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 49fa51ca-de90-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

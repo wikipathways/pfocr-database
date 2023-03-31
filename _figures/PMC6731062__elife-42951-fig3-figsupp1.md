@@ -15,7 +15,8 @@ filename: elife-42951-fig3-figsupp1.jpg
 figtitle: Proteins in the glycolysis, tricarboxylic acid, and oxidative phosphorylation
   pathways examined by the Ingenuity Pathway Analysis software
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: cfe17dbe-de9b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

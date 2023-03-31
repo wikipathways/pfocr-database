@@ -13,7 +13,8 @@ filename: plantbiotechnology-35-2-18.0324a-figure01.jpg
 figtitle: Identification and characterization of a novel sesquiterpene synthase, 4-amorphen-11-ol
   synthase, from Artemisia maritima
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

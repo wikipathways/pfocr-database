@@ -37,7 +37,8 @@ pathway_score: 0.954122
 filename: DialoguesClinNeurosci-11-257-g002.jpg
 figtitle: Regulation of chromatin structure by drugs of abuse
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3101709e-deeb-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -16,7 +16,8 @@ pathway_score: 0.6901382
 filename: cshperspect-RTK-009167_F3.jpg
 figtitle: Motor axons release Agrin and ACh
 year: '2013'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

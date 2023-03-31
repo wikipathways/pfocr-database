@@ -24,7 +24,8 @@ filename: toxscikfq003f07_3c.jpg
 figtitle: Changes in cell cycle regulation in response to MG132 (A), methylmercury
   (MeHg, B), and cadmium (Cd, C) in MEF cells
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7d8f3c28-deb4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

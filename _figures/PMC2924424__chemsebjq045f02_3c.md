@@ -24,7 +24,8 @@ filename: chemsebjq045f02_3c.jpg
 figtitle: Model for phosphoinositide-3-kinase (PI3K)-dependent opponent input to rodent
   olfactory receptor neurons (ORNs)
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 63271e4e-de96-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

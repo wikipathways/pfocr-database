@@ -31,7 +31,8 @@ filename: cshperspect-CYT-028423_F2.jpg
 figtitle: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
   gene induction by IFN regulatory factors (IRFs)
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

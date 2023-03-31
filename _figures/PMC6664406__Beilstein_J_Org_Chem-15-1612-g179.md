@@ -12,7 +12,8 @@ pathway_score: 0.6221621
 filename: Beilstein_J_Org_Chem-15-1612-g179.jpg
 figtitle: Mechanistic pathway for C–H arylation of imidazo[1,2-a]pyridine
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

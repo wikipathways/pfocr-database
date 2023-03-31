@@ -12,7 +12,8 @@ pathway_score: 0.9097828
 filename: RomJOphthalmol-61-152-g002.jpg
 figtitle: The CDP-choline pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -16,7 +16,8 @@ pathway_score: 0.9422654
 filename: carcinbgq188f06_4c.jpg
 figtitle: HER/HER2-PI3K-Akt-NFKB-elicited pathway in prostate cancer cells
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4d358076-deb5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

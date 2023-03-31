@@ -34,7 +34,8 @@ pathway_score: 0.7757471
 filename: mSystems.00755-20-f0001.jpg
 figtitle: Summary of metabolic networks in iFermCell215
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

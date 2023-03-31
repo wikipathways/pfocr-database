@@ -22,7 +22,8 @@ filename: jexbotern148f01_lw.jpg
 figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
   monoligols
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

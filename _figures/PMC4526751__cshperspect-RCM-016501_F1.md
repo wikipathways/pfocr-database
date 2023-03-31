@@ -30,7 +30,8 @@ pathway_score: 0.9014725
 filename: cshperspect-RCM-016501_F1.jpg
 figtitle: Homologous recombination (HR) and pathway choices
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

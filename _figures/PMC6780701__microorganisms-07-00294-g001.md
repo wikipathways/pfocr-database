@@ -13,7 +13,8 @@ pathway_score: 0.5499251
 filename: microorganisms-07-00294-g001.jpg
 figtitle: The metabolic pathway for Hyaluronic Acid production
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

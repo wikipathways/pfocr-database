@@ -17,7 +17,8 @@ filename: elife-55102-fig1-figsupp2.jpg
 figtitle: Pathways and biological processes of genes that showed differential expression
   during cell cycle
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

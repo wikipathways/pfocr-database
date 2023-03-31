@@ -25,7 +25,8 @@ filename: cshperspect-TGF-022129_F1.jpg
 figtitle: Transforming growth factor B (TGFB)-induced activation of the extracellular
   signal-regulated kinase (Erk) mitogen-activated protein kinase (MAPK) pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c144d709-dec1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

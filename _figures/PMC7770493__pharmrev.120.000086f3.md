@@ -17,7 +17,8 @@ pathway_score: 0.9501829
 filename: pharmrev.120.000086f3.jpg
 figtitle: cAMP signalosomes at the endoplasmic reticulum, nucleus, and centrosome
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

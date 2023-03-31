@@ -20,7 +20,8 @@ pathway_score: 0.9555662
 filename: pharmaceuticals-13-00418-g003.jpg
 figtitle: CDK4/6 and MAPK inhibitors
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

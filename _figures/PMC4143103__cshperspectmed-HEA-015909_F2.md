@@ -32,7 +32,8 @@ pathway_score: 0.9737988
 filename: cshperspectmed-HEA-015909_F2.jpg
 figtitle: Canonical and noncanonical TGFB signaling
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 125fabbb-dec3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -15,7 +15,8 @@ pathway_score: 0.9279513
 filename: cshperspect-MDV-008383_F4.jpg
 figtitle: Mechanisms ensuring genomic integrity in skin stem cells
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

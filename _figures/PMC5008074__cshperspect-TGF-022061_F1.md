@@ -28,7 +28,8 @@ pathway_score: 0.8928403
 filename: cshperspect-TGF-022061_F1.jpg
 figtitle: Transforming growth factor B (TGFB) receptors and signal transducers
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 9cc34e60-df0f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -18,7 +18,8 @@ filename: RevDiabeticStud-13-217-001.jpg
 figtitle: 'Blood Ketones: Measurement, Interpretation, Limitations, and Utility in
   the Management of Diabetic Ketoacidosis'
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -33,7 +33,8 @@ pathway_score: 0.8823422
 filename: pharmaceuticals-14-00217-g004.jpg
 figtitle: MTOR signaling pathway and its important regulatory functions are shown
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

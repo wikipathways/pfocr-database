@@ -24,7 +24,8 @@ pathway_score: 0.9445795
 filename: DialoguesClinNeurosci-11-319-g001.jpg
 figtitle: Neuroimmune interactions of kynurenine intermediates
 year: '2009'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 3ff2f969-debb-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

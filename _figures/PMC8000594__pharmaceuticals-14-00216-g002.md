@@ -16,7 +16,8 @@ filename: pharmaceuticals-14-00216-g002.jpg
 figtitle: Functional features of SLC6A14 and SLC38A5 and their relevance to glutaminolysis
   and serine–glycine–one-carbon pathway
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

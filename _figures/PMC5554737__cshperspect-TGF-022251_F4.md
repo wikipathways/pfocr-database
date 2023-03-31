@@ -20,7 +20,8 @@ figtitle: The bipotential gonad differentiates into male or female in response t
   a signaling pathway that involves anti-Müllerian hormone/Müllerian inhibiting substance
   (AMH/MIS), a member or the TGFB family
 year: ''
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

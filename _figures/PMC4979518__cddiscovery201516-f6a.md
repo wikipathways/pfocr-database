@@ -34,7 +34,8 @@ pathway_score: 0.9065909
 filename: cddiscovery201516-f6a.jpg
 figtitle: mTORC2 controls cancer cell survival by modulating gluconeogenesis
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 2b647026-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

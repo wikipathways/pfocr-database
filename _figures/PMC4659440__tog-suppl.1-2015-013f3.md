@@ -15,7 +15,8 @@ figtitle: HGF-MET signaling pathway with its downstream effector components (MAP
   STAT, PI3K-AKT cascades and NFKB) leading to increases in cell survival, motility
   and proliferation
 year: '2015'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 4be0139d-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

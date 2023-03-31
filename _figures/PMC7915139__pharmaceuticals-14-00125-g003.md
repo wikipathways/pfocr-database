@@ -25,7 +25,8 @@ filename: pharmaceuticals-14-00125-g003.jpg
 figtitle: Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-Beta-cyclodextrin
   (MBCD) on pigments and terpenes biosynthesis in C
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -56,7 +57,7 @@ schema-jsonld:
   - CHIA
   - CHRDL1
   - Ergosterol
-  - "MBCD \x1F MeJA"
+  - "MBCD  MeJA"
   - 7-dehydroporiferasterol Ergosterol
   - B-carotene
   - cycloartenol
@@ -87,7 +88,7 @@ chemicals:
 - word: Ergosterol
   source: MESH
   identifier: D004875
-- word: "MBCD \x1F MeJA"
+- word: "MBCD  MeJA"
   source: MESH
   identifier: C443642
 - word: 7-dehydroporiferasterol Ergosterol

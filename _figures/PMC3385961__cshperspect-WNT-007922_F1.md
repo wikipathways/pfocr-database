@@ -22,7 +22,8 @@ pathway_score: 0.9688587
 filename: cshperspect-WNT-007922_F1.jpg
 figtitle: Evolution of Wnt pathways
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 09e637a3-dec4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

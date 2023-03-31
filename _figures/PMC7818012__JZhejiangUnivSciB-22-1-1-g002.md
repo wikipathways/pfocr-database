@@ -21,7 +21,8 @@ filename: JZhejiangUnivSciB-22-1-1-g002.jpg
 figtitle: Mass spectrometry-based protein‒protein interaction techniques and their
   applications in studies of DNA damage repair
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

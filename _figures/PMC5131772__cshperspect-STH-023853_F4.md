@@ -20,7 +20,8 @@ pathway_score: 0.6976142
 filename: cshperspect-STH-023853_F4.jpg
 figtitle: Glycoprotein production in cell-free systems
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

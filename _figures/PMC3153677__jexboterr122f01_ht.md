@@ -27,7 +27,8 @@ figtitle: Proposed biosynthetic pathways of L-ascorbic acid in animals (reaction
   1–8 and 25–27), plants (reactions 9–24) and the recycling pathway (reactions 28–31)
   are shown
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

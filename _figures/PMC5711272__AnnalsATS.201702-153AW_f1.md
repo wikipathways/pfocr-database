@@ -54,7 +54,8 @@ filename: AnnalsATS.201702-153AW_f1.jpg
 figtitle: Central role of mitochondria in energy production, biosynthesis, and redox
   regulation
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 7e12a669-df15-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

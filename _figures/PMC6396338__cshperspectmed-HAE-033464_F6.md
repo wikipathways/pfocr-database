@@ -31,7 +31,8 @@ filename: cshperspectmed-HAE-033464_F6.jpg
 figtitle: Contrasting strategies for disrupting interferon (IFN)-mediated responses
   in hepatitis A virus (HAV) versus hepatitis E virus (HEV) infections
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -26,7 +26,8 @@ filename: cshperspect-CYT-028456_F2.jpg
 figtitle: Interleukin 6 (IL-6) receptor-mediated signaling pathway and an IL-6 inhibitor,
   the humanized anti-IL-6 receptor antibody tocilizumab
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

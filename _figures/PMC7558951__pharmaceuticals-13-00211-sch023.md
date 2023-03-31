@@ -12,7 +12,8 @@ pathway_score: 0.6148156
 filename: pharmaceuticals-13-00211-sch023.jpg
 figtitle: Synthetic pathway to obtain the 5′-homo-4′selenonucleosides 136 and 139
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -41,7 +42,7 @@ schema-jsonld:
   - TFA
   - H
   - Uracil
-  - "Et3N \x1F MeOH"
+  - "Et3N  MeOH"
   - Toluene
   - Cl2
   - 6-chloropurine
@@ -99,7 +100,7 @@ chemicals:
 - word: Uracil
   source: MESH
   identifier: D014498
-- word: "Et3N \x1F MeOH"
+- word: "Et3N  MeOH"
   source: MESH
   identifier: C118017
 - word: Toluene

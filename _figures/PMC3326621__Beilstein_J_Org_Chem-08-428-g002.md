@@ -12,7 +12,8 @@ pathway_score: 0.9445257
 filename: Beilstein_J_Org_Chem-08-428-g002.jpg
 figtitle: Synthetic pathway
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 63ede32c-df00-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

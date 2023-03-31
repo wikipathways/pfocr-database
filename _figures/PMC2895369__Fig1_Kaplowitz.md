@@ -39,7 +39,8 @@ pathway_score: 0.9544901
 filename: Fig1_Kaplowitz.jpg
 figtitle: High-flux and low-flux systems of electron transfer pathways
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -21,7 +21,8 @@ filename: wellcomeopenres-5-17712-g0000.jpg
 figtitle: Proposed mechanisms of endothelial dysregulation via Plasmodium falciparum
   cytoadherence
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

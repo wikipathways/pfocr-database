@@ -39,7 +39,8 @@ filename: cshperspect-IMS-002352_F3.jpg
 figtitle: Inhibitory pathways in innate cells utilizing ITIM or “inhibitory” ITAM
   signaling pathways
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 438139f3-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -20,7 +20,8 @@ filename: pharmaceuticals-14-00149-g001.jpg
 figtitle: Graphical representation of the canonical pathway of miRNA biogenesis in
   animals
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

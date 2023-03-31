@@ -32,7 +32,8 @@ filename: cshperspect-END-016899_F1.jpg
 figtitle: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
   cells
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

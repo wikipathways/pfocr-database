@@ -30,7 +30,8 @@ pathway_score: 0.7674228
 filename: cshperspect-EPI-019521_F4.jpg
 figtitle: Role of histone PTMs in DNA damage repair
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 610b2002-df2e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

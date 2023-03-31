@@ -24,7 +24,8 @@ filename: microorganisms-08-01339-g005.jpg
 figtitle: Carbon metabolism in the ΔphoR mutant vs WT during AsIII exposure, with
   mannitol being the initial substrate
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -106,7 +107,7 @@ schema-jsonld:
   - Purine
   - Xanthine
   - Nurokhanthine
-  - "Glucose-1-P X2 \x1F A03355 Maltopentose"
+  - "Glucose-1-P X2  A03355 Maltopentose"
 genes:
 - word: PEP
   symbol: PEP
@@ -292,7 +293,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases:
-- word: "Glucose-1-P X2 \x1F A03355 Maltopentose"
+- word: "Glucose-1-P X2  A03355 Maltopentose"
   source: MESH
   identifier: C566748
 figid_alias: PMC7565993__F5

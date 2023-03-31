@@ -20,7 +20,8 @@ pathway_score: 0.7385337
 filename: wellcomeopenres-3-16084-g0000.jpg
 figtitle: Tracing of metabolic pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

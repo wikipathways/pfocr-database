@@ -25,7 +25,8 @@ pathway_score: 0.79133
 filename: cshperspect-STH-023895_F3.jpg
 figtitle: Engineered gene circuits
 year: '2016'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

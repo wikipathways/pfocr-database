@@ -54,7 +54,8 @@ pathway_score: 0.9658234
 filename: microorganisms-09-00670-g003.jpg
 figtitle: Scheme of the central carbon metabolism and carotenogenesis in C
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

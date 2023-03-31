@@ -18,7 +18,8 @@ pathway_score: 0.9365936
 filename: mSystems.00473-20-f0005.jpg
 figtitle: Microbial Strategies for Survival in the Glass Sponge Vazella pourtalesii
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,7 +17,8 @@ filename: elife-22914-fig3-figsupp2.jpg
 figtitle: Tgfbr2 cKO CD34+ SCC cells upregulate genes implicated in invasive human
   cancers
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 965287d5-deb1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,8 @@ pathway_score: 0.9315326
 filename: cshperspect-END-017020_F3.jpg
 figtitle: Endocytosis and activation of the Notch (N) pathway
 year: '2014'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

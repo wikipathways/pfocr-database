@@ -17,7 +17,8 @@ pathway_score: 0.9407051
 filename: pharmrev.120.000086f2.jpg
 figtitle: Mitochondrial cAMP signalosomes
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

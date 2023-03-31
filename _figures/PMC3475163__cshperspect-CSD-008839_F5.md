@@ -21,7 +21,8 @@ filename: cshperspect-CSD-008839_F5.jpg
 figtitle: Possible states of impairment in the autophagy pathway in different neurodegenerative
   diseases and possible links to neuronal cell death
 year: '2012'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

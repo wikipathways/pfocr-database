@@ -17,7 +17,8 @@ filename: cshperspect-PFT-001180_F6.jpg
 figtitle: Existence of two branches in the p53 pathway allows pharmacological dissection
   of different p53 activities
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

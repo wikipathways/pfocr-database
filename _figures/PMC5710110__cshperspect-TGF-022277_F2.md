@@ -25,7 +25,8 @@ pathway_score: 0.9011819
 filename: cshperspect-TGF-022277_F2.jpg
 figtitle: Transforming growth factor B (TGFB)-induced Smad signaling pathway
 year: '2017'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 8cd18d20-df12-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

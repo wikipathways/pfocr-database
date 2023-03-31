@@ -16,7 +16,8 @@ figtitle: Schematic illustration visualizing how our finding of the calcium-Calp
   A3 pathway extends the current feedback cycle of TDP-43 aggregation and NCT defects
   during ALS pathogenesis
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

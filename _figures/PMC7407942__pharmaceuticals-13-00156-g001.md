@@ -31,7 +31,8 @@ pathway_score: 0.9371405
 filename: pharmaceuticals-13-00156-g001.jpg
 figtitle: Schematic process of the autophagic pathway
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

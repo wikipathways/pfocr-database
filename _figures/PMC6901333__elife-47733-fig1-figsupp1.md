@@ -21,7 +21,8 @@ filename: elife-47733-fig1-figsupp1.jpg
 figtitle: Overview of the likely epigenetic interactions in the paqr-2 pathway based
   on published work prior to the present study
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

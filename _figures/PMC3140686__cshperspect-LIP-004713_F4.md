@@ -20,7 +20,8 @@ pathway_score: 0.8660233
 filename: cshperspect-LIP-004713_F4.jpg
 figtitle: Overview of the biosynthetic pathways of sterols
 year: '2011'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

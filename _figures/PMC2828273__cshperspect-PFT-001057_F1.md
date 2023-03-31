@@ -21,7 +21,8 @@ pathway_score: 0.918919
 filename: cshperspect-PFT-001057_F1.jpg
 figtitle: Interconnections between p53 and IGF-1/AKT/mTOR pathways
 year: '2010'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: 60b0d8e0-df0e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

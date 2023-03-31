@@ -12,7 +12,8 @@ pathway_score: 0.9177538
 filename: pharmaceuticals-13-00211-sch018.jpg
 figtitle: Oxidative pathway to obtain the phosphoroselenoates
 year: '2020'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

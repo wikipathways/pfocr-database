@@ -12,7 +12,8 @@ pathway_score: 0.7415692
 filename: Beilstein_J_Org_Chem-15-1612-g022.jpg
 figtitle: Plausible radical pathway for the synthesis of imidazo[1,5-a]pyridines
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

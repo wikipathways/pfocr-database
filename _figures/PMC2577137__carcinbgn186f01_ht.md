@@ -21,7 +21,8 @@ filename: carcinbgn186f01_ht.jpg
 figtitle: Cross talk between PKA, PI3K/AKT and WNT/CTNNB1 intracellular signaling
   pathways
 year: '2008'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: c68c5cee-def6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -25,7 +25,8 @@ pathway_score: 0.9278397
 filename: pharmaceuticals-12-00170-g001.jpg
 figtitle: Major Signalling Pathways Involved in Hepcidin Regulation
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -12,7 +12,8 @@ pathway_score: 0.8224692
 filename: Beilstein_J_Org_Chem-14-786-g008.jpg
 figtitle: Plausible reaction pathway
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
@@ -31,11 +32,11 @@ schema-jsonld:
   - PAF1
   - TSPO
   - Pd(II)
-  - "Br \x1F Me \x1F Pd"
+  - "Br  Me  Pd"
   - Br
   - H-Pd
-  - "H \x1F Me \x1F"
-  - "Pd-Br \x1F Me \x1F Me \x1F Pd"
+  - "H  Me "
+  - "Pd-Br  Me  Me  Pd"
 genes:
 - word: H-Pd
   symbol: HPD
@@ -56,7 +57,7 @@ chemicals:
 - word: Pd(II)
   source: MESH
   identifier: D010165
-- word: "Br \x1F Me \x1F Pd"
+- word: "Br  Me  Pd"
   source: MESH
   identifier: C045890
 - word: Br
@@ -65,10 +66,10 @@ chemicals:
 - word: H-Pd
   source: MESH
   identifier: D010165
-- word: "H \x1F Me \x1F"
+- word: "H  Me "
   source: MESH
   identifier: C405983
-- word: "Pd-Br \x1F Me \x1F Me \x1F Pd"
+- word: "Pd-Br  Me  Me  Pd"
   source: MESH
   identifier: C045890
 diseases: []

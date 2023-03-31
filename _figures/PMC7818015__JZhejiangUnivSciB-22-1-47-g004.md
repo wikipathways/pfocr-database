@@ -22,7 +22,8 @@ pathway_score: 0.8908663
 filename: JZhejiangUnivSciB-22-1-47-g004.jpg
 figtitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy'
 year: '2021'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

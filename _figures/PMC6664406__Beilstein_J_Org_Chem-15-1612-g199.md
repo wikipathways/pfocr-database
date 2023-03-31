@@ -12,7 +12,8 @@ pathway_score: 0.8480503
 filename: Beilstein_J_Org_Chem-15-1612-g199.jpg
 figtitle: Mechanistic pathway for heterogeneously catalyzed arylation reaction
 year: '2019'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork

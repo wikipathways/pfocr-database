@@ -25,7 +25,8 @@ pathway_score: 0.9475625
 filename: cshperspectmed-RAC-031450_F2.jpg
 figtitle: RAS effector pathways
 year: '2018'
-organisms: Homo sapiens
+organisms:
+- Homo sapiens
 ndex: ''
 annotations: []
 seo: CreativeWork
