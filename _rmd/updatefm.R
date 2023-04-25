@@ -19,6 +19,9 @@
 #'   updateFrontmatter("ndex", "ndex_map")
 #'   updateFrontmatter("wpid", "wpid_map")
 #'   
+
+updateFrontmatter("wpid", "wpid_map")
+
 updateFrontmatter <- function(field=NULL, file=NULL){
   if(is.null(field))
     stop("`field` parameter is missing!")
