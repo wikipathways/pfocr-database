@@ -18,7 +18,9 @@
 #' @examples
 #'   updateFrontmatter("ndex", "ndex_map")
 #'   updateFrontmatter("wpid", "wpid_map")
-#'   
+#'
+
+updateFrontmatter("wpid", "_data/wpid_map.tsv")
 
 updateFrontmatter <- function(field=NULL, file=NULL){
   if(is.null(field))
