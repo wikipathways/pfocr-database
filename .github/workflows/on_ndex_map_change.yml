@@ -30,11 +30,12 @@ jobs:
         run: |
           sudo apt-get install libcurl4-openssl-dev libmagick++-dev
           Rscript -e 'install.packages("yaml")'
-
+          
       - name: Update frontmatter
         run: |
-          Rscript -e 'source("_rmd/updatefm.R")'
-          Rscript -e 'updateFrontmatter("ndex", "ndex_map")'
+          source("_rmd/updatefm.R")
+          updateFrontmatter("ndex", "ndex_map")
+        shell: Rscript {0} 
 
       - name: Commit report
         run: |
