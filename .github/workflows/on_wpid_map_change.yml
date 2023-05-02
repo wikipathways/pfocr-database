@@ -33,8 +33,9 @@ jobs:
 
       - name: Update frontmatter
         run: |
-          Rscript -e 'source("_rmd/updatefm.R")'
-          Rscript -e 'updateFrontmatter("wpid", "wpid_map")'
+          source("_rmd/updatefm.R")
+          updateFrontmatter("wpid", "wpid_map")
+        shell: Rscript {0} 
           
       - name: Commit report
         run: |
