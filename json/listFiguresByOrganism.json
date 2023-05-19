@@ -1,0 +1,21 @@
+---
+layout: none
+---    
+{
+    "organisms" : [
+    {% assign organisms = site.organisms | sort: 'latin' %}
+    {% for org in organisms %}
+        {
+        "latin" : "{{ org.latin | replace: " ", "_" }}",
+        "common"     : "{{ org.common }}",
+        "figures" : [
+        {% assign figures = site.figures | where_exp:"item", "item.organisms contains org.latin" | sort: 'figid_alias' %}
+        {% for pw in figures %}
+            {
+                "figid": "{{ pw.figid }}"
+            }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+        ]}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+}

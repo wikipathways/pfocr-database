@@ -1,0 +1,19 @@
+---
+layout: none
+---    
+{
+    "figureInfo" : [
+        {% assign figures = site.figures | sort: 'figid_alias' %}
+        {% for pw in figures %}
+            {
+                "figid": "{{ pw.figid }}",
+                "url": "https://pfocr.wikipathways.org/figures/{{ pw.figid_alias }}",
+                "pmcid": "{{ pw.pmcid }}",
+                "number": "{{ pw.number }}",
+                "figtitle": "{{ pw.figtitle | escape }}",
+                "year": "{{ pw.year }}",
+                "organisms": "{{ pw.organisms | join: ', ' }}"
+            }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}
