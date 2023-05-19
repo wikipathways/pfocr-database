@@ -1,7 +1,7 @@
 ---
 common: "E. coli"
 latin: "Escherichia coli"
-ncbi: "  562"
+ncbi: "562"
 title: "Ecoli pathways"
 group: "Bacteria"
 ---
