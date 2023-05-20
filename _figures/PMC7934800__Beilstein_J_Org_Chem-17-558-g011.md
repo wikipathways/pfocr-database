@@ -40,7 +40,7 @@ schema-jsonld:
   - Meo
   - SO
   - N2
-  - " MeO,  MeO"
+  - ' MeO,  MeO'
   - CO
   - C13H10NO
   - C12H
@@ -78,7 +78,7 @@ chemicals:
 - word: N2
   source: MESH
   identifier: D009584
-- word: " MeO,  MeO"
+- word: ' MeO,  MeO'
   source: MESH
   identifier: C526611
 - word: CO

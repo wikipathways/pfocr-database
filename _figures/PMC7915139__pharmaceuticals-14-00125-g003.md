@@ -57,7 +57,7 @@ schema-jsonld:
   - CHIA
   - CHRDL1
   - Ergosterol
-  - "MBCD  MeJA"
+  - MBCD  MeJA
   - 7-dehydroporiferasterol Ergosterol
   - B-carotene
   - cycloartenol
@@ -88,7 +88,7 @@ chemicals:
 - word: Ergosterol
   source: MESH
   identifier: D004875
-- word: "MBCD  MeJA"
+- word: MBCD  MeJA
   source: MESH
   identifier: C443642
 - word: 7-dehydroporiferasterol Ergosterol

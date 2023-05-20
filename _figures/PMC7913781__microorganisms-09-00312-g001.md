@@ -111,7 +111,7 @@ schema-jsonld:
   - DHAP
   - GlcNAc
   - TSA
-  - "Glucose-6P  Glucose-1P"
+  - Glucose-6P  Glucose-1P
 genes:
 - word: xk
   symbol: XK
@@ -240,7 +240,7 @@ chemicals:
   source: MESH
   identifier: C070842
 diseases:
-- word: "Glucose-6P  Glucose-1P"
+- word: Glucose-6P  Glucose-1P
   source: MESH
   identifier: D018149
 figid_alias: PMC7913781__F1
