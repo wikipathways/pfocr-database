@@ -25,7 +25,7 @@ directory <- "../_figures"
 files <- list.files(directory, pattern = "*.md", full.names = TRUE)
 
 # Process each file
-for (f in files) {
+for (f in files[46689]) {
   # Read the YAML data
   data <- yaml.load_file(f)
   print(data$figid_alias)
@@ -34,7 +34,9 @@ for (f in files) {
   # Check if 'organisms' key exists
   if ("organisms" %in% names(data)) {
     # Fix comma-separated lists
-    data$organisms <- strsplit(data$organisms, ", ")[[1]]
+    if (length(data$organisms) == 1) {
+      data$organisms <- strsplit(data$organisms, ", ")[[1]]
+    }
     
     # If 'organisms' is a list, preserve the list structure
     if (length(data$organisms) > 1) {
