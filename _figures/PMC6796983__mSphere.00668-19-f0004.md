@@ -70,7 +70,7 @@ schema-jsonld:
   - R-3-Hydroxybutanoyl-CoA
   - Phytoene
   - Poly(R-hydroxybutyrate)
-  - "Glucose-6-P  Glucose-1-P  'TDP-Rhamnose"
+  - Glucose-6-P  Glucose-1-P  'TDP-Rhamnose
 genes:
 - word: C1/2!
   symbol: C1
@@ -161,7 +161,7 @@ chemicals:
   source: MESH
   identifier: C003182
 diseases:
-- word: "Glucose-6-P  Glucose-1-P  'TDP-Rhamnose"
+- word: Glucose-6-P  Glucose-1-P  'TDP-Rhamnose
   source: MESH
   identifier: C000656865
 figid_alias: PMC6796983__F4

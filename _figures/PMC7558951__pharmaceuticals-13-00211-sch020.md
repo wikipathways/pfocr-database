@@ -30,18 +30,18 @@ schema-jsonld:
   keywords:
   - RPL17
   - RPL18
-  - "Imidazole  Me "
+  - 'Imidazole  Me '
   - Acetone
   - H2SO4
   - CuSO4
   - DMAP
-  - "pyridine  Me  RO"
+  - pyridine  Me  RO
   - dioxane
   - TBDPS
   - THF
-  - "OMs  Me "
+  - 'OMs  Me '
   - Et3N
-  - "Se Me  Me  Se"
+  - Se Me  Me  Se
   - NABH4
   - CH
   - Cl
@@ -59,7 +59,7 @@ genes:
   hgnc_symbol: RPL18
   entrez: '6141'
 chemicals:
-- word: "Imidazole  Me "
+- word: 'Imidazole  Me '
   source: MESH
   identifier: C029899
 - word: Acetone
@@ -74,7 +74,7 @@ chemicals:
 - word: DMAP
   source: MESH
   identifier: C003885
-- word: "pyridine  Me  RO"
+- word: pyridine  Me  RO
   source: MESH
   identifier: C542959
 - word: dioxane
@@ -86,13 +86,13 @@ chemicals:
 - word: THF
   source: MESH
   identifier: C006461
-- word: "OMs  Me "
+- word: 'OMs  Me '
   source: MESH
   identifier: C526611
 - word: Et3N
   source: MESH
   identifier: C526612
-- word: "Se Me  Me  Se"
+- word: Se Me  Me  Se
   source: MESH
   identifier: D012643
 - word: NABH4

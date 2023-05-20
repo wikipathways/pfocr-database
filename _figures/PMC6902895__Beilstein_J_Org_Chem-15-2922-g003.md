@@ -42,9 +42,9 @@ schema-jsonld:
   - CP
   - ARG1
   - Ox
-  - "R  MeN"
-  - " MeN"
-  - " MeN  Arg4  MeN  MeN"
+  - R  MeN
+  - ' MeN'
+  - ' MeN  Arg4  MeN  MeN'
   - A CP HC
 genes:
 - word: arg2
@@ -81,13 +81,13 @@ chemicals:
 - word: Ox
   source: MESH
   identifier: C032540
-- word: "R  MeN"
+- word: R  MeN
   source: MESH
   identifier: C033150
-- word: " MeN"
+- word: ' MeN'
   source: MESH
   identifier: C033150
-- word: " MeN  Arg4  MeN  MeN"
+- word: ' MeN  Arg4  MeN  MeN'
   source: MESH
   identifier: C033150
 diseases:

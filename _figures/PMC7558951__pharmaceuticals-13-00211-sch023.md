@@ -42,7 +42,7 @@ schema-jsonld:
   - TFA
   - H
   - Uracil
-  - "Et3N  MeOH"
+  - Et3N  MeOH
   - Toluene
   - Cl2
   - 6-chloropurine
@@ -100,7 +100,7 @@ chemicals:
 - word: Uracil
   source: MESH
   identifier: D014498
-- word: "Et3N  MeOH"
+- word: Et3N  MeOH
   source: MESH
   identifier: C118017
 - word: Toluene

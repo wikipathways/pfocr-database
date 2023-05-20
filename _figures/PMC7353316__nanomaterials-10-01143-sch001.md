@@ -31,7 +31,7 @@ schema-jsonld:
   keywords:
   - KL
   - PHOH
-  - "AICI3, PhMe  Br"
+  - AICI3, PhMe  Br
   - acetone
   - OH
   - CH20
@@ -49,7 +49,7 @@ chemicals:
 - word: PHOH
   source: ''
   identifier: ''
-- word: "AICI3, PhMe  Br"
+- word: AICI3, PhMe  Br
   source: MESH
   identifier: C084701
 - word: acetone

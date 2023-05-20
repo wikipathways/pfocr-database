@@ -104,7 +104,7 @@ schema-jsonld:
   - V24280
   - Xanthine
   - Nurokhanthine
-  - "Glucose-1-P X2  Maltopentose"
+  - Glucose-1-P X2  Maltopentose
 genes:
 - word: PEP
   symbol: PEP
@@ -287,7 +287,7 @@ chemicals:
   source: ''
   identifier: ''
 diseases:
-- word: "Glucose-1-P X2  Maltopentose"
+- word: Glucose-1-P X2  Maltopentose
   source: MESH
   identifier: C566748
 figid_alias: PMC7565993__F3

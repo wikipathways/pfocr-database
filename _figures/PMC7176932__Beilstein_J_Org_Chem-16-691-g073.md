@@ -38,9 +38,9 @@ schema-jsonld:
   - Bu, MeOH
   - THF
   - MezSiO
-  - "Bpin  Me3Sio Bpin"
+  - Bpin  Me3Sio Bpin
   - 'NO'
-  - "Bpin  Me "
+  - 'Bpin  Me '
   - L-Cu-Bpin
 genes:
 - word: mol
@@ -89,13 +89,13 @@ chemicals:
 - word: MezSiO
   source: MESH
   identifier: D012825
-- word: "Bpin  Me3Sio Bpin"
+- word: Bpin  Me3Sio Bpin
   source: MESH
   identifier: C526611
 - word: 'NO'
   source: ''
   identifier: ''
-- word: "Bpin  Me "
+- word: 'Bpin  Me '
   source: MESH
   identifier: C526611
 - word: L-Cu-Bpin

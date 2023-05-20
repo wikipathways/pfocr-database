@@ -76,7 +76,7 @@ schema-jsonld:
   - Amino acid
   - Pentose
   - phosphate
-  - "Glucose  Glucose"
+  - Glucose  Glucose
 genes: []
 chemicals:
 - word: Glucose
@@ -185,7 +185,7 @@ chemicals:
   source: MESH
   identifier: D010710
 diseases:
-- word: "Glucose  Glucose"
+- word: Glucose  Glucose
   source: MESH
   identifier: D018149
 figid_alias: PMC7160677__F6

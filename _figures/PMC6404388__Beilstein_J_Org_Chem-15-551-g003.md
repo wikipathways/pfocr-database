@@ -68,7 +68,7 @@ schema-jsonld:
   - Propionyl
   - phosphate
   - (25)-Methyl
-  - "malonyl-CoA  B-Methylmalyl-CoA"
+  - malonyl-CoA  B-Methylmalyl-CoA
   - Propionyl-CoA
   - Glyoxylate
   - malyl-CoA
@@ -187,7 +187,7 @@ chemicals:
 - word: (25)-Methyl
   source: MESH
   identifier: C039438
-- word: "malonyl-CoA  B-Methylmalyl-CoA"
+- word: malonyl-CoA  B-Methylmalyl-CoA
   source: MESH
   identifier: D008316
 - word: Propionyl-CoA

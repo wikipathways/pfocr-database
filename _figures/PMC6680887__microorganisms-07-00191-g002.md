@@ -36,7 +36,7 @@ schema-jsonld:
   keywords:
   - MGMT
   - ALKBH1
-  - "N'me  O'me "
+  - 'N''me  O''me '
   - 'N'
   - Cys
   - O
@@ -52,7 +52,7 @@ genes:
   hgnc_symbol: ALKBH1
   entrez: '8846'
 chemicals:
-- word: "N'me  O'me "
+- word: 'N''me  O''me '
   source: MESH
   identifier: C526611
 - word: 'N'

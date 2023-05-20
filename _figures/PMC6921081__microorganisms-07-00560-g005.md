@@ -37,7 +37,7 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - paspaline
-  - "13-desoxypaxilline  B-paxitriol"
+  - 13-desoxypaxilline  B-paxitriol
   - paxilline
   - janthitremF
   - epoxy-janthitremI
@@ -50,7 +50,7 @@ chemicals:
 - word: paspaline
   source: MESH
   identifier: C048221
-- word: "13-desoxypaxilline  B-paxitriol"
+- word: 13-desoxypaxilline  B-paxitriol
   source: MESH
   identifier: C513342
 - word: paxilline

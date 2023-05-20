@@ -47,7 +47,7 @@ schema-jsonld:
   - IL1R1
   - MYD88
   - CXCL8
-  - "Nurokhia  Cell Necrosis"
+  - Nurokhia  Cell Necrosis
 genes:
 - word: IL-1a
   symbol: IL-1A
@@ -71,7 +71,7 @@ genes:
   entrez: '3576'
 chemicals: []
 diseases:
-- word: "Nurokhia  Cell Necrosis"
+- word: Nurokhia  Cell Necrosis
   source: MESH
   identifier: D009336
 figid_alias: PMC6322026__F1

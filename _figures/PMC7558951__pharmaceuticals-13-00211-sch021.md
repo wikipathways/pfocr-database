@@ -34,15 +34,15 @@ schema-jsonld:
   - RPL26
   - RPL27
   - Se Me TMSOTF, Et3N
-  - "Se  Me TFA"
-  - "Se Me "
-  - "pymiridine bases  -Me  Toluene"
+  - Se  Me TFA
+  - 'Se Me '
+  - pymiridine bases  -Me  Toluene
   - CH2Cl2
   - Ac20
   - 6-chloropurine
   - OAc
-  - "Se  Me  TFA"
-  - "Se  Me  Toluene"
+  - Se  Me  TFA
+  - Se  Me  Toluene
   - NH3
   - t-BUOH
 genes:
@@ -75,13 +75,13 @@ chemicals:
 - word: Se Me TMSOTF, Et3N
   source: MESH
   identifier: C053353
-- word: "Se  Me TFA"
+- word: Se  Me TFA
   source: MESH
   identifier: D012643
-- word: "Se Me "
+- word: 'Se Me '
   source: MESH
   identifier: D012643
-- word: "pymiridine bases  -Me  Toluene"
+- word: pymiridine bases  -Me  Toluene
   source: MESH
   identifier: D014050
 - word: CH2Cl2
@@ -96,10 +96,10 @@ chemicals:
 - word: OAc
   source: MESH
   identifier: C065699
-- word: "Se  Me  TFA"
+- word: Se  Me  TFA
   source: MESH
   identifier: D012643
-- word: "Se  Me  Toluene"
+- word: Se  Me  Toluene
   source: MESH
   identifier: D014050
 - word: NH3
