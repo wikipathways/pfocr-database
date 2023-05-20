@@ -25,7 +25,7 @@ directory <- "../_figures"
 files <- list.files(directory, pattern = "*.md", full.names = TRUE)
 
 # Process each file
-for (f in files[44651:length(files)]) {
+for (f in files) {
   # Read the YAML data
   data <- yaml.load_file(f)
   print(data$figid_alias)
