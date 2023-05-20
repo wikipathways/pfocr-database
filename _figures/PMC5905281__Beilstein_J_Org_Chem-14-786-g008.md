@@ -32,11 +32,11 @@ schema-jsonld:
   - PAF1
   - TSPO
   - Pd(II)
-  - "Br  Me  Pd"
+  - Br  Me  Pd
   - Br
   - H-Pd
-  - "H  Me "
-  - "Pd-Br  Me  Me  Pd"
+  - 'H  Me '
+  - Pd-Br  Me  Me  Pd
 genes:
 - word: H-Pd
   symbol: HPD
@@ -57,7 +57,7 @@ chemicals:
 - word: Pd(II)
   source: MESH
   identifier: D010165
-- word: "Br  Me  Pd"
+- word: Br  Me  Pd
   source: MESH
   identifier: C045890
 - word: Br
@@ -66,10 +66,10 @@ chemicals:
 - word: H-Pd
   source: MESH
   identifier: D010165
-- word: "H  Me "
+- word: 'H  Me '
   source: MESH
   identifier: C405983
-- word: "Pd-Br  Me  Me  Pd"
+- word: Pd-Br  Me  Me  Pd
   source: MESH
   identifier: C045890
 diseases: []

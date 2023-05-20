@@ -35,7 +35,7 @@ schema-jsonld:
   - DMAPP
   - orsellinic acid
   - OH polyene
-  - "terpenoid  Me "
+  - 'terpenoid  Me '
 genes:
 - word: IPP
   symbol: IPP
@@ -55,7 +55,7 @@ chemicals:
 - word: OH polyene
   source: MESH
   identifier: D011090
-- word: "terpenoid  Me "
+- word: 'terpenoid  Me '
   source: MESH
   identifier: D013729
 diseases: []
