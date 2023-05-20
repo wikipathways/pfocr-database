@@ -76,9 +76,13 @@ layout: default
       </a>
     </h2>
     {% for org in site.organisms %}
-    {% if page.organisms contains org.latin %}
-    <a class="btn btn-sm btn-pill btn-organism" href="{{org.url}}">{{org.latin}}</a>
-    {% endif %}
+      {% for porg in page.organisms %}
+        {% if porg == org.latin %}
+          <a class="btn btn-sm btn-pill btn-organism" href="{{org.url}}">{{org.latin}}</a>
+        {% else %}
+          <span>&nbsp;{{ porg }}&nbsp;</span>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
 
     <h2 id="participants">Gene mentions
