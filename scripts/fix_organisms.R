@@ -51,10 +51,81 @@ for (f in files) {
       data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Microbes", "unspecified bacteria", x)))
       data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "NA", "unassigned", x)))
       data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Sugarcane", "Saccharum officinarum", x)))
-    } else if (data$organisms == "Plants") {
-      data$organisms <- "unspecified plant"
-    } else if (data$organisms == "Plant") {
-      data$organisms <- "unspecified plant"
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "V. splendidusUpon", "Vibrio splendidus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "E. coli", "Escherichia coli", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Y. lipolytica", "Yarrowia lipolytica", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "T. forsythia", "Tannerella forsythia", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "R. marinus", "Rhodothermus marinus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "P. aeruginosa", "Pseudomonas aeruginosa", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "P. putida", "Pseudomonas putida", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "P. notoginseng", "Panax notoginseng", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "P. kudriavzevii", "Pichia kudriavzevii", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "L. infantum", "Leishmania infantum", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "L. in", "unassigned", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "L. var", "unassigned", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Oryza sativa L.", "Oryza sativa", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "C. sakazakii", "Cronobacter sakazakii", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "C. zofingiensis", "Chromochloris zofingiensis", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "C. crispusPWY", "Chondrus crispus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "C. crispusEarly", "Chondrus crispus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "A. heterophyllum", "Aconitum heterophyllum", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Drosophila", "Drosophila melanogaster", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Hydra", "Hydra vulgaris", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Virus", "unspecified virus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "L. Hybrids", "Ranunculus asiaticus", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "L. Leaf", "Gossypium arboreum", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "K. pneumoniae", "Klebsiella pneumoniae", x)))
+      data$organisms <- unlist(lapply(data$organisms, function(x) ifelse(x == "Danio", "Danio rerio", x)))
+    } else if (data$organisms == "V. splendidusUpon") {
+      data$organisms <- "Vibrio splendidus"
+    }  else if (data$organisms == "E. coli") {
+      data$organisms <- "Escherichia coli"
+    }  else if (data$organisms == "Y. lipolytica") {
+      data$organisms <- "Yarrowia lipolytica"
+    }  else if (data$organisms == "T. forsythia") {
+      data$organisms <- "Tannerella forsythia"
+    }  else if (data$organisms == "R. marinus") {
+      data$organisms <- "Rhodothermus marinus"
+    }  else if (data$organisms == "P. aeruginosa") {
+      data$organisms <- "Pseudomonas aeruginosa"
+    }   else if (data$organisms == "P. putida") {
+      data$organisms <- "Pseudomonas putida"
+    }   else if (data$organisms == "P. notoginseng") {
+      data$organisms <- "Panax notoginseng"
+    }   else if (data$organisms == "P. kudriavzevii") {
+      data$organisms <- "Pichia kudriavzevii"
+    }   else if (data$organisms == "Oryza sativa L.") {
+      data$organisms <- "Oryza sativa"
+    }   else if (data$organisms == "K. pneumoniae") {
+      data$organisms <- "Klebsiella pneumoniae"
+    } else if (data$organisms == "Danio") {
+      data$organisms <- "Danio rerio"
+    } else if (data$organisms == "C. sakazakii") {
+      data$organisms <- "Cronobacter sakazakii"
+    } else if (data$organisms == "C. zofingiensis") {
+      data$organisms <- "Chromochloris zofingiensis"
+    } else if (data$organisms == "C. crispusPWY") {
+      data$organisms <- "Chondrus crispus"
+    } else if (data$organisms == "C. crispusEarly") {
+      data$organisms <- "Chondrus crispus"
+    } else if (data$organisms == "A. heterophyllum") {
+      data$organisms <- "Aconitum heterophyllum"
+    } else if (data$organisms == "Drosophila") {
+      data$organisms <- "Drosophila melanogaster"
+    } else if (data$organisms == "Hydra") {
+      data$organisms <- "Hydra vulgaris"
+    } else if (data$organisms == "Virus") {
+      data$organisms <- "unspecified virus"
+    } else if (data$organisms == "L. Hybrids") {
+      data$organisms <- "Ranunculus asiaticus"
+    } else if (data$organisms == "L. Leaf") {
+      data$organisms <- "Gossypium arboreum"
+    } else if (data$organisms == "L. infantum") {
+      data$organisms <- "Leishmania infantum"
+    } else if (data$organisms == "L. in") {
+      data$organisms <- "unassigned"
+    } else if (data$organisms == "L. var") {
+      data$organisms <- "unassigned"
     } else if (data$organisms == "E. coli") {
       data$organisms <- "Escherichia coli"
     } else if (data$organisms == "B. subtilis") {
