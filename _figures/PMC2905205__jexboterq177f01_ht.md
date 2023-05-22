@@ -15,7 +15,7 @@ filename: jexboterq177f01_ht.jpg
 figtitle: Signalling routes of copper and hydrogen peroxide
 year: '2010'
 organisms:
-- XXX
+- Brassica oleracea
 ndex: ''
 annotations: []
 seo: CreativeWork
