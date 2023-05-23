@@ -7,7 +7,7 @@ btn-class: "btn-organism btn-pill"
 
 <h1>Pathway Figures by Organism</h1>
 <p>Browse species below to identify pathway figures.</p>
-{% assign type-group = site.organisms | group_by: "group" | sort: "name" | reverse  %}
+{% assign type-group = site.organisms | group_by: "group" | sort: "name"  %}
 {% for type in type-group %}
 <section class="facet">
   <div class="facet-header"> 
