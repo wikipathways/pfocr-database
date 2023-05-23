@@ -1,4 +1,4 @@
-name: When the wpid_map.tsv file changes, update wpid frontmatter fields
+name: When the pfocr_curation.rds file changes, update frontmatter fields
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - _data/wpid_map.tsv
+      - _data/pfocr_curation.rds
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
@@ -34,7 +34,7 @@ jobs:
       - name: Update frontmatter
         run: |
           source("_rmd/updatefm.R")
-          updateFrontmatter("wpid", "wpid_map")
+          updateFrontmatter(c("figtitle","number","caption","organisms","year"), "pfocr_curation.rds")
         shell: Rscript {0} 
           
       - name: Commit report

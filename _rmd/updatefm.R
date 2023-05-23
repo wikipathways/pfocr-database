@@ -9,8 +9,8 @@
 #'             * No headers
 #'             * First column must be PFOCR IDs (figids excluding extension)
 #'             * Second column should be the value to write
-#' @details Only two-column TSV files are accepted. For list attributes, JSON
-#' files should be read by an alternative function (TBD).  
+#' @details Only two-column TSV files are accepted. For list attributes, use 
+#' double pipe (||) as separator.  
 #' @return None
 #' @importFrom yaml write_yaml read_yaml
 #' @export 
@@ -44,22 +44,17 @@ updateFrontmatter <- function(field=NULL, file=NULL){
       next
     }
     # read
-    con = file(ffp, "r")
-    md = yaml::read_yaml(con)
-    close.connection(con)
-    # write
-    newval = map.df[i,2]
-    oldval = unname(unlist(md[field]))
-    if(!is.null(oldval))
-      if (oldval==newval)
-        next
-    cat(sprintf("`%s` field updated in %s\n", field, ffp))
-    con = file(ffp, "w")
-    write("---", con)
-    md[field] = map.df[i,2]
-    yaml::write_yaml(md,con)
-    write("---", con)
-    close.connection(con)
+    data <- yaml::yaml.load_file(ffp)
+    # update
+    newval <- map.df[i,2]
+    # Parse any double pipe-separated lists
+    newval <- strsplit(newval, "\\|\\|")[[1]]
+    data[[field]] <- newval
+    #write
+    cat(sprintf("Updating `%s` field in %s\n", field, ffp))
+    con <- file(ffp, "w")
+    on.exit(close(con))
+    write_yaml_custom(data, con)
   }
 }
 
@@ -95,4 +90,18 @@ updateFrontmatterRDS <- function(columns=NULL, file="pfocr_figures.rds"){
   }
 }
 
-
+# Custom yaml writing function to enforce organism lists
+write_yaml_custom <- function(data, con) {
+  cat("---\n", file = con)
+  for (i in 1:length(data)) {
+    if (names(data[i]) == "organisms") {
+      cat("organisms:\n", file = con, append = TRUE)
+      for (o in data$organisms) {
+        cat("- ",o, "\n", sep = "", file = con, append = TRUE)
+      }
+    } else {
+      yaml::write_yaml(data[i], con)
+    }
+  }
+  cat("---\n", file = con, append = TRUE)
+}
