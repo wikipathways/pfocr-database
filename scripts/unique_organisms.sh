@@ -7,4 +7,4 @@ tr ',' '\n' | \
 # Removing leading and trailing whitespaces
 awk '{$1=$1};1' | \
 # Sorting and removing duplicates
-sort | uniq > uniqu_org_list.txt
+sort | uniq > unique_org_list.txt

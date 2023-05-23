@@ -1,6 +1,6 @@
 ---
 common: "F. graminearum"
-latin: "Gibberella zeae"
+latin: "Fusarium graminearum"
 ncbi: "5518"
 title: "Fusarium graminearum pathways"
 group: "Fungi"

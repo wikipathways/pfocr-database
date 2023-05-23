@@ -1,7 +1,7 @@
 ---
 common: "Arabidopsis"
-latin: "Arabidopsis thaliana"
-ncbi: "3702"
+latin: "Arabidopsis"
+ncbi: 
 title: "Arabidopsis pathways"
 group: "Plants"
 ---
