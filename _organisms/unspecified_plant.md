@@ -2,6 +2,6 @@
 common: unspecified plant
 latin: unspecified plant
 ncbi: 
-title: unspecified plant pathways
+title: Unspecified plant pathways
 group: "Plants"
 ---

@@ -1,6 +1,6 @@
 ---
-common: Unspecified fungi
-latin: Unspecified fungi
+common: unspecified fungi
+latin: unspecified fungi
 ncbi: 
 title: Unspecified fungi pathways
 group: "Fungi"
