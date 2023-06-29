@@ -1,7 +1,9 @@
 ---
 common: Streptococcus suis
 latin: Streptococcus suis
-ncbi: 
-title: Streptococcus suis pathways
-group: "Bacteria"
+ncbi: '1307'
+title: Streptococcus suis
+group: Bacteria
+image: .na.character
+
 ---

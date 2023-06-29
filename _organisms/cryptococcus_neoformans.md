@@ -1,7 +1,9 @@
 ---
 common: Cryptococcus neoformans
 latin: Cryptococcus neoformans
-ncbi: 
-title: Cryptococcus neoformans pathways
-group: "Fungi"
+ncbi: '5207'
+title: Cryptococcus neoformans
+group: Plants and Fungi
+image: .na.character
+
 ---

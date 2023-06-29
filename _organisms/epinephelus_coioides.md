@@ -1,7 +1,9 @@
 ---
 common: Epinephelus coioides
 latin: Epinephelus coioides
-ncbi: 
-title: Epinephelus coioides pathways
-group: "Vertebrates"
+ncbi: '94232'
+title: Epinephelus coioides
+group: Vertebrates
+image: .na.character
+
 ---

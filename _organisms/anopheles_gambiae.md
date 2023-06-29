@@ -1,7 +1,9 @@
 ---
-common: "Mosquito"
-latin: "Anopheles gambiae"
-ncbi: "7165"
-title: "Mosquito pathways"
-group: "Invertebrates"
+common: Anopheles gambiae
+latin: Anopheles gambiae
+ncbi: '7165'
+title: Anopheles gambiae
+group: Invertebrates
+image: .na.character
+
 ---

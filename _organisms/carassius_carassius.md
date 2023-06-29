@@ -1,7 +1,9 @@
 ---
 common: Carassius carassius
 latin: Carassius carassius
-ncbi: 
-title: Carassius carassius pathways
-group: "Vertebrates"
+ncbi: '217509'
+title: Carassius carassius
+group: Vertebrates
+image: .na.character
+
 ---

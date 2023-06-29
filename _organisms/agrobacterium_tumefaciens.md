@@ -1,7 +1,9 @@
 ---
 common: Agrobacterium tumefaciens
 latin: Agrobacterium tumefaciens
-ncbi: 
-title: Agrobacterium tumefaciens pathways
-group: "Bacteria"
+ncbi: '358'
+title: Agrobacterium tumefaciens
+group: Bacteria
+image: .na.character
+
 ---

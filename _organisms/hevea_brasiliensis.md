@@ -1,7 +1,9 @@
 ---
 common: Hevea brasiliensis
 latin: Hevea brasiliensis
-ncbi: 
-title: Hevea brasiliensis pathways
-group: "Plants"
+ncbi: '3981'
+title: Hevea brasiliensis
+group: Plants and Fungi
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Withania somnifera
 latin: Withania somnifera
-ncbi: 
-title: Withania somnifera pathways
-group: "Plants"
+ncbi: '126910'
+title: Withania somnifera
+group: Plants and Fungi
+image: .na.character
+
 ---

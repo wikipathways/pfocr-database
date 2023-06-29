@@ -1,7 +1,9 @@
 ---
 common: Panax notoginseng
 latin: Panax notoginseng
-ncbi: 
-title: Panax notoginseng pathways
-group: "Plants"
+ncbi: '44586'
+title: Panax notoginseng
+group: Plants and Fungi
+image: .na.character
+
 ---

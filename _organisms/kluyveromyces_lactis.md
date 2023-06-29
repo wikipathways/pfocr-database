@@ -1,7 +1,9 @@
 ---
 common: Kluyveromyces lactis
 latin: Kluyveromyces lactis
-ncbi: 
-title: Kluyveromyces lactis pathways
-group: "Fungi"
+ncbi: '28985'
+title: Kluyveromyces lactis
+group: Plants and Fungi
+image: .na.character
+
 ---

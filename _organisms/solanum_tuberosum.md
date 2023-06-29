@@ -1,7 +1,9 @@
 ---
 common: Solanum tuberosum
 latin: Solanum tuberosum
-ncbi: 
-title: Solanum tuberosum pathways
-group: "Plants"
+ncbi: '4113'
+title: Solanum tuberosum
+group: Plants and Fungi
+image: .na.character
+
 ---

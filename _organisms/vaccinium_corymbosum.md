@@ -1,7 +1,9 @@
 ---
 common: Vaccinium corymbosum
 latin: Vaccinium corymbosum
-ncbi: 
-title: Vaccinium corymbosum pathways
-group: "Plants"
+ncbi: '69266'
+title: Vaccinium corymbosum
+group: Plants and Fungi
+image: .na.character
+
 ---

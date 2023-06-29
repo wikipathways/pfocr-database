@@ -1,7 +1,9 @@
 ---
 common: Pseudomonas putida
 latin: Pseudomonas putida
-ncbi: 
-title: Pseudomonas putida pathways
-group: "Bacteria"
+ncbi: '303'
+title: Pseudomonas putida
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Candida albicans
 latin: Candida albicans
-ncbi: 
-title: Candida albicans pathways
-group: "Fungi"
+ncbi: '5476'
+title: Candida albicans
+group: Plants and Fungi
+image: .na.character
+
 ---

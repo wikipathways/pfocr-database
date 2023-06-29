@@ -1,7 +1,9 @@
 ---
 common: Nicotiana benthamiana
 latin: Nicotiana benthamiana
-ncbi: 
-title: Nicotiana benthamiana pathways
-group: "Plants"
+ncbi: '4100'
+title: Nicotiana benthamiana
+group: Plants and Fungi
+image: .na.character
+
 ---

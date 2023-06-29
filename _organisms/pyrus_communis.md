@@ -1,7 +1,9 @@
 ---
 common: Pyrus communis
 latin: Pyrus communis
-ncbi: 
-title: Pyrus communis pathways
-group: "Plants"
+ncbi: '23211'
+title: Pyrus communis
+group: Plants and Fungi
+image: .na.character
+
 ---

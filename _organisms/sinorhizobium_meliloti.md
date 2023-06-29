@@ -1,7 +1,9 @@
 ---
 common: Sinorhizobium meliloti
 latin: Sinorhizobium meliloti
-ncbi: 
-title: Sinorhizobium meliloti pathways
-group: "Bacteria"
+ncbi: '382'
+title: Sinorhizobium meliloti
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
-common: "Yeast"
-latin: "Saccharomyces cerevisiae"
-ncbi: "4932"
-title: "Yeast pathways"
-group: "Fungi"
+common: Saccharomyces cerevisiae
+latin: Saccharomyces cerevisiae
+ncbi: '4932'
+title: Saccharomyces cerevisiae
+group: Plants and Fungi
+image: .na.character
+
 ---

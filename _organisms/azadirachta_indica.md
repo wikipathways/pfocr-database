@@ -1,7 +1,9 @@
 ---
 common: Azadirachta indica
 latin: Azadirachta indica
-ncbi: 
-title: Azadirachta indica pathways
-group: "Plants"
+ncbi: '124943'
+title: Azadirachta indica
+group: Plants and Fungi
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Zymomonas mobilis
 latin: Zymomonas mobilis
-ncbi: 
-title: Zymomonas mobilis pathways
-group: "Bacteria"
+ncbi: '542'
+title: Zymomonas mobilis
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Caenorhabditis briggsae
 latin: Caenorhabditis briggsae
-ncbi: 
-title: Caenorhabditis briggsae pathways
-group: "Invertebrates"
+ncbi: '6238'
+title: Caenorhabditis briggsae
+group: Invertebrates
+image: .na.character
+
 ---

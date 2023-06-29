@@ -1,7 +1,9 @@
 ---
 common: Trypanosoma cruzi
 latin: Trypanosoma cruzi
-ncbi: 
-title: Trypanosoma cruzi pathways
-group: "Parasites"
+ncbi: '5693'
+title: Trypanosoma cruzi
+group: Invertebrates
+image: .na.character
+
 ---

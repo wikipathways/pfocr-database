@@ -1,7 +1,9 @@
 ---
 common: Jatropha curcas
 latin: Jatropha curcas
-ncbi: 
-title: Jatropha curcas pathways
-group: "Plants"
+ncbi: '180498'
+title: Jatropha curcas
+group: Plants and Fungi
+image: .na.character
+
 ---

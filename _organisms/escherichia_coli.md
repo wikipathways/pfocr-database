@@ -1,7 +1,9 @@
 ---
-common: "E. coli"
-latin: "Escherichia coli"
-ncbi: "562"
-title: "E. coli pathways"
-group: "Bacteria"
+common: Escherichia coli
+latin: Escherichia coli
+ncbi: '562'
+title: Escherichia coli
+group: Bacteria
+image: .na.character
+
 ---

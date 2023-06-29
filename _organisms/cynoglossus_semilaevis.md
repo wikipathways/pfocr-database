@@ -1,7 +1,9 @@
 ---
 common: Cynoglossus semilaevis
 latin: Cynoglossus semilaevis
-ncbi: 
-title: Cynoglossus semilaevis pathways
-group: "Vertebrates"
+ncbi: '244447'
+title: Cynoglossus semilaevis
+group: Vertebrates
+image: .na.character
+
 ---

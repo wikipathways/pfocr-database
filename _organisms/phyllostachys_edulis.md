@@ -1,7 +1,9 @@
 ---
 common: Phyllostachys edulis
 latin: Phyllostachys edulis
-ncbi: 
-title: Phyllostachys edulis pathways
-group: "Plants"
+ncbi: '38705'
+title: Phyllostachys edulis
+group: Plants and Fungi
+image: .na.character
+
 ---

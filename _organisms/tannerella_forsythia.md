@@ -1,7 +1,9 @@
 ---
 common: Tannerella forsythia
 latin: Tannerella forsythia
-ncbi: 
-title: Tannerella forsythia pathways
-group: "Bacteria"
+ncbi: '28112'
+title: Tannerella forsythia
+group: Bacteria
+image: .na.character
+
 ---

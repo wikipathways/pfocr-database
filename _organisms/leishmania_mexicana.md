@@ -1,8 +1,9 @@
 ---
 common: Leishmania mexicana
 latin: Leishmania mexicana
-ncbi: 
-title: Leishmania mexicana pathways
-group: "Parasites"
+ncbi: '5665'
+title: Leishmania mexicana
+group: Invertebrates
+image: .na.character
 
 ---

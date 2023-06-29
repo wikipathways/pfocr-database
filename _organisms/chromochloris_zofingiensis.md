@@ -1,7 +1,9 @@
 ---
 common: Chromochloris zofingiensis
 latin: Chromochloris zofingiensis
-ncbi: 
-title: Chromochloris zofingiensis pathways
-group: "Plants"
+ncbi: '31302'
+title: Chromochloris zofingiensis
+group: Plants and Fungi
+image: .na.character
+
 ---

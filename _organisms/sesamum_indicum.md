@@ -1,7 +1,9 @@
 ---
 common: Sesamum indicum
 latin: Sesamum indicum
-ncbi: 
-title: Sesamum indicum pathways
-group: "Plants"
+ncbi: '4182'
+title: Sesamum indicum
+group: Plants and Fungi
+image: .na.character
+
 ---

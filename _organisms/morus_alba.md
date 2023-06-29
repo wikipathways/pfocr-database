@@ -1,7 +1,9 @@
 ---
 common: Morus alba
 latin: Morus alba
-ncbi: 
-title: Morus alba pathways
-group: "Plants"
+ncbi: '3498'
+title: Morus alba
+group: Plants and Fungi
+image: .na.character
+
 ---

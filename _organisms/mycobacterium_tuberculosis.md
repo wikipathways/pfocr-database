@@ -1,7 +1,9 @@
 ---
-common: "Tuberculosis"
-latin: "Mycobacterium tuberculosis"
-ncbi: "1773"
-title: "Mtuberculosis pathways"
-group: "Bacteria"
+common: Mycobacterium tuberculosis
+latin: Mycobacterium tuberculosis
+ncbi: '1773'
+title: Mycobacterium tuberculosis
+group: Bacteria
+image: .na.character
+
 ---

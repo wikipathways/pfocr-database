@@ -1,7 +1,9 @@
 ---
 common: Nelumbo nucifera
 latin: Nelumbo nucifera
-ncbi: 
-title: Nelumbo nucifera pathways
-group: "Plants"
+ncbi: '4432'
+title: Nelumbo nucifera
+group: Plants and Fungi
+image: .na.character
+
 ---

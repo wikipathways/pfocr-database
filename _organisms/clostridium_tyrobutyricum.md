@@ -1,7 +1,9 @@
 ---
 common: Clostridium tyrobutyricum
 latin: Clostridium tyrobutyricum
-ncbi: 
-title: Clostridium tyrobutyricum pathways
-group: "Bacteria"
+ncbi: '1519'
+title: Clostridium tyrobutyricum
+group: Bacteria
+image: .na.character
+
 ---

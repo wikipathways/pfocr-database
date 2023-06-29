@@ -1,7 +1,9 @@
 ---
 common: Gluconobacter oxydans
 latin: Gluconobacter oxydans
-ncbi: 
-title: Gluconobacter oxydans pathways
-group: "Bacteria"
+ncbi: '442'
+title: Gluconobacter oxydans
+group: Bacteria
+image: .na.character
+
 ---

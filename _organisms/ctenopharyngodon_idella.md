@@ -1,7 +1,9 @@
 ---
 common: Ctenopharyngodon idella
 latin: Ctenopharyngodon idella
-ncbi: 
-title: Ctenopharyngodon idella pathways
-group: "Vertebrates"
+ncbi: '7959'
+title: Ctenopharyngodon idella
+group: Vertebrates
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Yarrowia lipolytica
 latin: Yarrowia lipolytica
-ncbi: 
-title: Yarrowia lipolytica pathways
-group: "Fungi"
+ncbi: '4952'
+title: Yarrowia lipolytica
+group: Plants and Fungi
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Campylobacter jejuni
 latin: Campylobacter jejuni
-ncbi: 
-title: Campylobacter jejuni pathways
-group: "Bacteria"
+ncbi: '197'
+title: Campylobacter jejuni
+group: Bacteria
+image: .na.character
+
 ---

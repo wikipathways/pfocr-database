@@ -1,7 +1,9 @@
 ---
 common: Raphanus sativus
 latin: Raphanus sativus
-ncbi: 
-title: Raphanus sativus pathways
-group: "Plants"
+ncbi: '3726'
+title: Raphanus sativus
+group: Plants and Fungi
+image: .na.character
+
 ---

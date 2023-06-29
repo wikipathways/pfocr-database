@@ -1,7 +1,9 @@
 ---
 common: Trypanosoma brucei
 latin: Trypanosoma brucei
-ncbi: 
-title: Trypanosoma brucei pathways
-group: "Parasites"
+ncbi: '5691'
+title: Trypanosoma brucei
+group: Invertebrates
+image: .na.character
+
 ---

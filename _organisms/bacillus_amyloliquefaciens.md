@@ -1,7 +1,9 @@
 ---
 common: Bacillus amyloliquefaciens
 latin: Bacillus amyloliquefaciens
-ncbi: 
-title: Bacillus amyloliquefaciens pathways
-group: "Bacteria"
+ncbi: '1390'
+title: Bacillus amyloliquefaciens
+group: Bacteria
+image: .na.character
+
 ---

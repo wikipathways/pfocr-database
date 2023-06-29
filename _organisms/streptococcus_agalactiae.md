@@ -1,7 +1,9 @@
 ---
 common: Streptococcus agalactiae
 latin: Streptococcus agalactiae
-ncbi: 
-title: Streptococcus agalactiae pathways
-group: "Bacteria"
+ncbi: '1311'
+title: Streptococcus agalactiae
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Saccharum officinarum
 latin: Saccharum officinarum
-ncbi: 
-title: Saccharum officinarum pathways
-group: "Plants"
+ncbi: '4547'
+title: Saccharum officinarum
+group: Plants and Fungi
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Fusobacterium nucleatum
 latin: Fusobacterium nucleatum
-ncbi: 
-title: Fusobacterium nucleatum pathways
-group: "Bacteria"
+ncbi: '851'
+title: Fusobacterium nucleatum
+group: Bacteria
+image: .na.character
+
 ---

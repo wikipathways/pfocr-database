@@ -1,7 +1,9 @@
 ---
-common: Satsuma mandarin
+common: Citrus unshiu
 latin: Citrus unshiu
-ncbi: 
-title: Satsuma mandarin pathways
-group: "Plants"
+ncbi: '55188'
+title: Citrus unshiu
+group: Plants and Fungi
+image: .na.character
+
 ---

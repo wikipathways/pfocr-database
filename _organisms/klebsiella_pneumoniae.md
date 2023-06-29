@@ -1,7 +1,9 @@
 ---
 common: Klebsiella pneumoniae
 latin: Klebsiella pneumoniae
-ncbi: 
-title: Klebsiella pneumoniae pathways
-group: "Bacteria"
+ncbi: '573'
+title: Klebsiella pneumoniae
+group: Bacteria
+image: .na.character
+
 ---

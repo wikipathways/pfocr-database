@@ -1,7 +1,9 @@
 ---
 common: Stenotrophomonas maltophilia
 latin: Stenotrophomonas maltophilia
-ncbi: 
-title: Stenotrophomonas maltophilia pathways
-group: "Bacteria"
+ncbi: '40324'
+title: Stenotrophomonas maltophilia
+group: Bacteria
+image: .na.character
+
 ---

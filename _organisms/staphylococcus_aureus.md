@@ -1,7 +1,9 @@
 ---
 common: Staphylococcus aureus
 latin: Staphylococcus aureus
-ncbi: 
-title: Staphylococcus aureus pathways
-group: "Bacteria"
+ncbi: '1280'
+title: Staphylococcus aureus
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Setaria viridis
 latin: Setaria viridis
-ncbi: 
-title: Setaria viridis pathways
-group: "Plants"
+ncbi: '4556'
+title: Setaria viridis
+group: Plants and Fungi
+image: .na.character
+
 ---

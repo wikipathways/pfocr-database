@@ -1,7 +1,9 @@
 ---
 common: Sclerotinia sclerotiorum
 latin: Sclerotinia sclerotiorum
-ncbi: 
-title: Sclerotinia sclerotiorum pathways
-group: "Fungi"
+ncbi: '5180'
+title: Sclerotinia sclerotiorum
+group: Plants and Fungi
+image: .na.character
+
 ---

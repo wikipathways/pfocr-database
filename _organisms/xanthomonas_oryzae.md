@@ -1,7 +1,9 @@
 ---
 common: Xanthomonas oryzae
 latin: Xanthomonas oryzae
-ncbi: 
-title: Xanthomonas oryzae pathways
-group: "Bacteria"
+ncbi: '347'
+title: Xanthomonas oryzae
+group: Bacteria
+image: .na.character
+
 ---

@@ -1,7 +1,9 @@
 ---
 common: Hypericum perforatum
 latin: Hypericum perforatum
-ncbi: 
-title: Hypericum perforatum pathways
-group: "Plants"
+ncbi: '65561'
+title: Hypericum perforatum
+group: Plants and Fungi
+image: .na.character
+
 ---

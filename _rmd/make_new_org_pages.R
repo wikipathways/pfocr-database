@@ -9,12 +9,13 @@ json_data <- fromJSON("https://pfocr.wikipathways.org/json/listOrganisms.json")
 organism_list <- json_data$organisms
 
 for (organism in organism_list) {
+  print(organism)
   row <- taxdata[taxdata$taxname == organism, ]
   if (nrow(row) > 0) {
     filename <- gsub("\\.", "", row$taxname)
     filename <- gsub(" ", "_", filename)
     filename <- tolower(filename)
-    filename <- filepath("_organisms_new",paste0(filename, ".md"))
+    filename <- file.path("_organisms",paste0(filename, ".md"))
     
     yaml_data <- list(
       common = row$taxname,
