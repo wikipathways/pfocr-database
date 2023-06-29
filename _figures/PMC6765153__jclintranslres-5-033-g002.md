@@ -20,6 +20,8 @@ figtitle: Circulating extracellular RNAs, myocardial remodeling, and heart failu
   in patients with acute coronary syndrome
 year: '2019'
 organisms:
+- Mus musculus
+- Malus domestica
 - Homo sapiens
 ndex: 7a75714b-df31-11ea-99da-0ac135e8bacf
 annotations: []

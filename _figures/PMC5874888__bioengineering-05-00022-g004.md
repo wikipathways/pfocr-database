@@ -17,7 +17,12 @@ filename: bioengineering-05-00022-g004.jpg
 figtitle: Hypoxia on HIF-1A
 year: '2018'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Eugenia axillaris
+- Poecilia reticulata
 - Homo sapiens
+- Sus scrofa
 ndex: de8040b7-df0c-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

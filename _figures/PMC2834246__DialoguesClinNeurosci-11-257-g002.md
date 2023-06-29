@@ -38,6 +38,9 @@ filename: DialoguesClinNeurosci-11-257-g002.jpg
 figtitle: Regulation of chromatin structure by drugs of abuse
 year: '2009'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 3101709e-deeb-11ea-99da-0ac135e8bacf
 annotations: []

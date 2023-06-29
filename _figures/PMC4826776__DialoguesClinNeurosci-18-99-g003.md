@@ -28,6 +28,10 @@ figtitle: Optogenetic approaches to evaluate striatal function in animal models 
   Parkinson disease
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Halobacterium salinarum
+- Caenorhabditis elegans
 - Homo sapiens
 ndex: ''
 annotations: []

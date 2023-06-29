@@ -26,7 +26,12 @@ filename: ijtr-suppl.1-2013-047f1.jpg
 figtitle: Schematic overview of the kynurenine (KYN) pathway
 year: '2013'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Enterovirus C
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

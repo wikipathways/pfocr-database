@@ -23,7 +23,10 @@ figtitle: Comprehensive picture showing gene expression changes and crosstalk of
   associated with Igf1 and Pacap rescue of apoptotic CGNs
 year: '2015'
 organisms:
+- Mus musculus
+- Rattus norvegicus
 - Homo sapiens
+- Bos taurus
 ndex: 20251ec8-dee2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

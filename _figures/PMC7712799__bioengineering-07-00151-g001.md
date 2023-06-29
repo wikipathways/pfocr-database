@@ -27,6 +27,18 @@ figtitle: Different optogenetic systems can be used to achieve flux control in v
   ways
 year: '2020'
 organisms:
+- Lambdavirus lambda
+- Escherichia phage T7
+- Synechocystis sp.
+- Bacillus subtilis
+- Clostridium acetobutylicum
+- Pseudomonas putida
+- Arabidopsis thaliana
+- Komagataella pastoris
+- Saccharomyces cerevisiae
+- Escherichia coli
+- PX clade
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

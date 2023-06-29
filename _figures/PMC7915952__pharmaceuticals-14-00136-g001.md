@@ -20,6 +20,8 @@ filename: pharmaceuticals-14-00136-g001.jpg
 figtitle: Canonical pathway of microRNA (miRNA) processing
 year: '2021'
 organisms:
+- Mus musculus
+- Caenorhabditis elegans
 - Homo sapiens
 ndex: ''
 annotations: []

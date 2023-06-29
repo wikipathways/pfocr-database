@@ -21,7 +21,20 @@ filename: bioengineering-03-00010-g002.jpg
 figtitle: Metabolic engineering of xylitol production in E
 year: '2016'
 organisms:
-- Homo sapiens
+- Enterococcus mundtii QU 25
+- Clostridium acetobutylicum
+- Clostridium sp. BOH3
+- Clostridium tyrobutyricum
+- Corynebacterium glutamicum
+- Saccharomyces pastorianus
+- Gelidium amansii
+- Oryza sativa
+- Triticum aestivum
+- Saccharomyces cerevisiae
+- Zymomonas mobilis
+- Candida boidinii
+- Escherichia coli
+- PX clade
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,6 +17,26 @@ filename: microorganisms-08-00698-g008.jpg
 figtitle: MAH and MAB common enzymes associated with metabolic pathways
 year: '2020'
 organisms:
+- Mus musculus
+- Mycobacteroides abscessus subsp. abscessus
+- Staphylococcus aureus
+- Enterococcus faecalis
+- Mycobacterium avium
+- Mycobacterium avium subsp. paratuberculosis
+- Mycolicibacterium smegmatis
+- Mycobacterium tuberculosis
+- Mycolicibacterium smegmatis MC2 155
+- Pseudomonas aeruginosa
+- Mycobacteroides abscessus subsp. bolletii
+- Mycobacteroides abscessus
+- Mycobacterium avium complex sp.
+- Mycobacterium avium subsp. hominissuis
+- Mycobacterium avium subsp. avium
+- unidentified shuttle vector
+- Neisseria gonorrhoeae
+- Saccharomyces cerevisiae
+- Actinobacillus pleuropneumoniae
+- Mycobacterium tuberculosis H37Rv
 - Homo sapiens
 ndex: ''
 annotations: []

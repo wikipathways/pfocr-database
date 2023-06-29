@@ -24,7 +24,25 @@ filename: microorganisms-08-00454-g006.jpg
 figtitle: The proposed route for formate assimilation in D
 year: '2020'
 organisms:
-- Homo sapiens
+- Acetivibrio thermocellus
+- Thermococcus sibiricus
+- Methanosarcina barkeri
+- Haloferax volcanii
+- Desulfurococcus mucosus
+- Thermoanaerobacter kivui
+- Pseudomonas putida
+- Thermococcus kodakarensis
+- Acetobacterium woodii
+- Thermococcus onnurineus
+- Saccharomyces cerevisiae
+- Thermococcus onnurineus NA1
+- Pyrococcus horikoshii
+- Escherichia coli
+- Thermococcus kodakarensis KOD1
+- Desulfurococcus amylolyticus DSM 16532
+- Escherichia coli K-12
+- Gallus gallus
+- Desulfurococcus amylolyticus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,26 @@ figtitle: Induction of the oxylipin biosynthethic pathway in arbuscular mycorrhi
   symbiosis
 year: '2010'
 organisms:
-- Homo sapiens
+- Serendipita vermifera
+- Phytophthora parasitica var. nicotianae
+- Valeriana edulis
+- Funneliformis mosseae
+- Pseudomonas syringae
+- Cucumis sativus
+- Arabidopsis thaliana
+- Glycine max
+- Medicago truncatula
+- Botrytis cinerea
+- Solanum lycopersicum
+- Leptospira kmetyi
+- Nicotiana tabacum
+- Solanum tuberosum
+- Hordeum vulgare
+- Zea mays
+- Phytophthora parasitica
+- Rhizophagus intraradices
+- Nicotiana attenuata
+- Tracheophyta
 ndex: ''
 annotations: []
 seo: CreativeWork

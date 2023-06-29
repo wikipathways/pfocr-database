@@ -39,6 +39,9 @@ filename: bmi-suppl.3-2015-001f2.jpg
 figtitle: Activation and downstream signaling of class III RTKs
 year: '2015'
 organisms:
+- Rattus norvegicus
+- Corynebacterium phage gamma
+- Escherichia coli
 - Homo sapiens
 ndex: 517af881-de98-11ea-99da-0ac135e8bacf
 annotations: []

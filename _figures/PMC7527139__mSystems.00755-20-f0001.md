@@ -35,6 +35,15 @@ filename: mSystems.00755-20-f0001.jpg
 figtitle: Summary of metabolic networks in iFermCell215
 year: '2020'
 organisms:
+- mixed culture
+- Bacillus subtilis
+- Clostridium kluyveri
+- metagenome
+- Candidatus Pseudoramibacter fermentans
+- Candidatus Weimeria bifida
+- Escherichia coli
+- gut metagenome
+- Megasphaera elsdenii
 - Homo sapiens
 ndex: ''
 annotations: []

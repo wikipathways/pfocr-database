@@ -19,7 +19,31 @@ figtitle: Novel Clinical Campylobacter jejuni Infection Models Based on Sensitiz
   Responses in Human Campylobacteriosis
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- H1N1 subtype
+- Curcuma longa
+- Campylobacter coli
+- Campylobacter jejuni
+- Campylobacter lari
+- Helicobacter pylori
+- Pseudomonas aeruginosa
+- Campylobacter fetus subsp. fetus
+- human gut metagenome
+- Neisseria gonorrhoeae
+- Neisseria meningitidis
+- Escherichia coli
+- Trichuris suis
+- Salmonella enterica subsp. enterica serovar Minnesota
+- Galleria mellonella
+- Gallus gallus
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
+- Canis lupus familiaris
+- Mustela putorius furo
+- Sus scrofa
+- Ovis aries
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

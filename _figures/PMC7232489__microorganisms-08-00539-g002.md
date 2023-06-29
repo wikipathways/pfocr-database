@@ -17,7 +17,24 @@ filename: microorganisms-08-00539-g002.jpg
 figtitle: Bifurcated pathway to synthesize hexanoic acid in M
 year: '2020'
 organisms:
+- Megasphaera elsdenii DSM 20460
+- Rhodospirillum rubrum
+- mixed culture
+- Clostridium acetobutylicum
+- Clostridium beijerinckii
+- Clostridium kluyveri
+- Clostridium scatologenes
+- Megasphaera hexanoica
+- Eubacterium limosum
+- Clostridium acetobutylicum ATCC 824
+- Veillonella parvula
+- Escherichia coli str. K-12 substr. MG1655
+- Escherichia coli
+- Megasphaera indica
+- Megasphaera elsdenii
 - Homo sapiens
+- Bos taurus
+- Ovis aries
 ndex: ''
 annotations: []
 seo: CreativeWork

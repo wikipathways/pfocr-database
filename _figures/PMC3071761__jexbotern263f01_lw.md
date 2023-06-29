@@ -21,7 +21,19 @@ figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turm
   rhizome
 year: '2009'
 organisms:
-- Homo sapiens
+- Rattus norvegicus
+- Curcuma longa
+- Arabidopsis thaliana
+- Brassica napus
+- Medicago truncatula
+- Ocimum basilicum
+- Solanum lycopersicum
+- Nicotiana tabacum
+- Oryza sativa
+- Musa acuminata
+- Perilla frutescens
+- Zingiber officinale
+- Wachendorfia thyrsiflora
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -16,7 +16,10 @@ filename: cddiscovery201739-f6.jpg
 figtitle: BMP-2 induced EMT and breast cancer stemness through Rb and CD44 signaling
 year: '2017'
 organisms:
+- Mus musculus
+- clinical samples
 - Homo sapiens
+- Bos taurus
 ndex: dbb06223-df0d-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -16,6 +16,7 @@ filename: ParachoniakMCS000778_F5.jpg
 figtitle: The signaling pathway
 year: '2017'
 organisms:
+- clinical samples
 - Homo sapiens
 ndex: 417d8331-deb6-11ea-99da-0ac135e8bacf
 annotations: []

@@ -25,7 +25,7 @@ filename: cshperspectmed-TRN-015479_F3.jpg
 figtitle: Kidney immune activation against ischemia-reperfusion and transplant injury
 year: '2013'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: 3ed5dabb-de94-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

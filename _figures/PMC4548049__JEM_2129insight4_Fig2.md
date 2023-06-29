@@ -21,6 +21,7 @@ filename: JEM_2129insight4_Fig2.jpg
 figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3'
 year: '2015'
 organisms:
+- Human alphaherpesvirus 1
 - Homo sapiens
 ndex: ''
 annotations: []

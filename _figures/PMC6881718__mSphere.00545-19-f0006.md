@@ -23,6 +23,19 @@ figtitle: Cellular context of TLR5 engagement by UPEC FliC in the bladder leadin
   to early IL-10 induction
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Paracoccidioides brasiliensis
+- Staphylococcus aureus
+- Salmonella enterica
+- Escherichia coli
+- Serratia liquefaciens
+- Yersinia enterocolitica
+- Oncorhynchus mykiss
+- Escherichia coli K-12
+- Salmonella enterica subsp. enterica serovar Typhi
+- Salmonella enterica subsp. enterica serovar Typhimurium
+- Escherichia coli O25b:H4-ST131
 - Homo sapiens
 ndex: 5c94bd65-df0a-11ea-99da-0ac135e8bacf
 annotations: []

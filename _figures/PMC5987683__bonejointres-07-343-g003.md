@@ -20,7 +20,11 @@ filename: bonejointres-07-343-g003.jpg
 figtitle: Mitogen-activated protein kinase signalling pathway
 year: '2018'
 organisms:
+- Mus musculus
+- Citrus limon
+- Gallus gallus
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: f29d9a8e-df1a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

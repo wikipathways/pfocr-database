@@ -16,6 +16,7 @@ filename: RevDiabeticStud-10-228-001.jpg
 figtitle: Metformin and Cancer
 year: '2013'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -23,7 +23,9 @@ filename: elife-32110-fig6-figsupp1.jpg
 figtitle: Genes directly effecting TAG biosynthesis in R
 year: '2018'
 organisms:
-- Homo sapiens
+- Agrobacterium tumefaciens
+- Saccharomyces cerevisiae
+- Rhodotorula toruloides
 ndex: 3b623034-df11-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

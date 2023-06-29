@@ -26,6 +26,10 @@ figtitle: p19 Arf Suppresses Growth, Progression, and Metastasis of Hras-Drive
   through p53-Dependent and -Independent Pathways
 year: '2004'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus
+- Human adenovirus 5
 - Homo sapiens
 ndex: ''
 annotations: []

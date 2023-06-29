@@ -17,7 +17,8 @@ figtitle: Functional Regulatory Divergence of the Innate Immune System in Inters
   Drosophila Hybrids
 year: '2010'
 organisms:
-- Homo sapiens
+- Drosophila melanogaster
+- Drosophila simulans
 ndex: ''
 annotations: []
 seo: CreativeWork

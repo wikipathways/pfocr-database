@@ -31,6 +31,10 @@ filename: painreports-6-e898-g003.jpg
 figtitle: LRP-1 modulates neurodegeneration and neuroregeneration
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Schisandra chinensis
+- Chamaeleo chamaeleon
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -22,7 +22,8 @@ filename: geronagls102f01_3c.jpg
 figtitle: Insulin-like growth factor (IGF)-1 signal transduction
 year: '2012'
 organisms:
-- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
 ndex: 00407c8f-dee3-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

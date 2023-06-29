@@ -17,6 +17,10 @@ filename: ijtr-suppl.1-2013-003f1.jpg
 figtitle: Nutritional Aspect of Tryptophan Metabolism
 year: '2013'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Oryza sativa
+- Zea mays
 - Homo sapiens
 ndex: ''
 annotations: []

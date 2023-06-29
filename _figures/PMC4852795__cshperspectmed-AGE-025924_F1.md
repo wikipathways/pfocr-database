@@ -22,7 +22,18 @@ filename: cshperspectmed-AGE-025924_F1.jpg
 figtitle: Mechanistic target of rapamycin (mTOR) signaling pathway
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Heterocephalus glaber
+- Streptomyces hygroscopicus
+- marmosets
+- Saccharomyces cerevisiae
+- Candida albicans
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Callithrix jacchus
 - Homo sapiens
+- Canis lupus familiaris
 ndex: 9adb229f-dee9-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

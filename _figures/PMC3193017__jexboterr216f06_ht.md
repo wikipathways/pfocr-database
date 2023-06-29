@@ -19,7 +19,27 @@ filename: jexboterr216f06_ht.jpg
 figtitle: The putative model of anthocyanin and butein synthesis in MJOr and MJY
 year: '2011'
 organisms:
-- Homo sapiens
+- Dahlia pinnata
+- Diaporthe sclerotioides
+- Gerbera hybrid cultivar
+- Embryophyta
+- Ipomoea nil
+- Arabidopsis thaliana
+- Glycine max
+- Medicago sativa
+- Pisum sativum
+- Daucus carota
+- Petunia x hybrida
+- Ipomoea purpurea
+- Antirrhinum majus
+- Oryza sativa
+- Sorghum bicolor
+- Zea mays
+- Cosmos sulphureus
+- Perilla frutescens
+- Saccharomyces cerevisiae
+- Gentiana triflora
+- Ipomoea tricolor
 ndex: ''
 annotations: []
 seo: CreativeWork

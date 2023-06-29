@@ -34,6 +34,19 @@ filename: elife-45310-fig1-figsupp1.jpg
 figtitle: cis-carotene biosynthesis and regulation of PLB formation during skotomorphogenesis
 year: '2020'
 organisms:
+- Embryophyta
+- Iris germanica
+- Cucumis melo
+- Arabidopsis thaliana
+- Matthiola incana
+- Sinapis alba
+- Manihot esculenta
+- Solanum lycopersicum
+- Hordeum vulgare
+- Oryza sativa
+- Zea mays
+- Escherichia coli
+- Citrus reticulata
 - Homo sapiens
 ndex: ''
 annotations: []

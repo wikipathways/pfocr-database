@@ -32,6 +32,13 @@ figtitle: Amyloid precursor protein (APP) is processed either by Beta-secretase 
   peptide (BA)
 year: '2000'
 organisms:
+- Cricetulus griseus
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Bromus secalinus
+- Callithrix jacchus
+- Macaca mulatta
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -22,7 +22,7 @@ figtitle: Homologous mammalian and fungal host-defense pathways that signal thro
   prion conversion
 year: '2017'
 organisms:
-- Homo sapiens
+- prion
 ndex: ''
 annotations: []
 seo: CreativeWork

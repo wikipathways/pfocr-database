@@ -19,6 +19,10 @@ figtitle: Cell Wall-Related Biochemical Pathways Active in Mature Trichomes.(A) 
   of monosaccharides required for cell wall biosynthesis
 year: '2009'
 organisms:
+- Cauliflower mosaic virus
+- Arabidopsis thaliana
+- Matthiola incana
+- Malus domestica
 - Homo sapiens
 ndex: ''
 annotations: []

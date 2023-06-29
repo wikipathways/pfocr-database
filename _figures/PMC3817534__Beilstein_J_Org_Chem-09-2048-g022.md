@@ -12,6 +12,26 @@ filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
 figtitle: Proposed biosynthetic pathway to chilenine (93)
 year: '2013'
 organisms:
+- Aspergillus awamori
+- H1N1 subtype
+- Human immunodeficiency virus 1
+- Staphylococcus aureus
+- Viola sororia
+- herbal medicine
+- Aspergillus nidulans
+- Stachybotrys sp.
+- Berberis darwinii
+- Berberis empetrifolia
+- Penicillium expansum
+- Lycogala epidendrum
+- Chaetomium globosum
+- Sarcocapnos enneaphylla
+- Saccharomyces cerevisiae
+- Agaricus bisporus
+- Fusarium culmorum
+- Lentzea albida
+- Streptomyces rishiriensis
+- Hericium erinaceus
 - Homo sapiens
 ndex: ''
 annotations: []

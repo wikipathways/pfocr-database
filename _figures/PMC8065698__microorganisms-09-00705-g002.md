@@ -24,7 +24,24 @@ filename: microorganisms-09-00705-g002.jpg
 figtitle: UPR drives pro-inflammatory responses to ER stress
 year: '2021'
 organisms:
+- Mus musculus
+- Listeria monocytogenes
+- Mycobacterium leprae
+- Mycobacterium tuberculosis
+- Helicobacter pylori
+- Brucella abortus
+- Salmonella enterica
+- Brucella melitensis
+- Brucella suis
+- Legionella pneumophila
+- Legionella longbeachae
+- Escherichia coli
+- Babesia canis
+- Vibrio cholerae
+- Chlamydia trachomatis
+- Chlamydia pneumoniae
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

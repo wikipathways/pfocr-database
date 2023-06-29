@@ -26,7 +26,12 @@ figtitle: Relationship between GPxs and the NFKB pathway in the antiproliferatio
   action of butyrate
 year: '2014'
 organisms:
+- Mus musculus
+- Raphanus sativus
 - Homo sapiens
+- Equus caballus
+- Bos taurus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -28,6 +28,9 @@ figtitle: Effect of the SNP variant (Q141K) on the protein expression level and 
   of ABCG2
 year: '2013'
 organisms:
+- clinical samples
+- Thomomydoecus minor
+- Avena sativa
 - Homo sapiens
 ndex: ''
 annotations: []

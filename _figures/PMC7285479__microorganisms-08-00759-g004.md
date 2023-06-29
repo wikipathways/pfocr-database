@@ -22,7 +22,33 @@ figtitle: Metabolic reconstruction of membrane phospholipids biosynthesis throug
   mevalonate pathway
 year: '2020'
 organisms:
+- Sulfurisphaera tokodaii
+- uncultured archaeon
+- uncultured archaeon 15A
+- enrichment cultures
+- Cuniculiplasma divulgatum
+- Methanocaldococcus jannaschii
+- Pyrococcus furiosus
+- Sulfolobus acidocaldarius
+- Thermoplasma acidophilum
+- Sulfurisphaera tokodaii str. 7
+- Pseudomonas aeruginosa
+- Methanococcoides burtonii
+- Embryophyta
+- Azotobacter vinelandii
+- Arabidopsis thaliana
+- Alicyclobacillus acidocaldarius
+- Picrophilus oshimae
+- Saccharomyces cerevisiae
+- Thermococcus profundus
+- Thermoplasma volcanium
+- Acidiplasma aeolicum
+- Methanogenium frigidum
+- Oleispira antarctica RB-8
+- Ferroplasma acidiphilum
+- Desulfurispirillum indicum
 - Homo sapiens
+- Ferroplasma acidarmanus
 ndex: ''
 annotations: []
 seo: CreativeWork

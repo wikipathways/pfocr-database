@@ -12,6 +12,8 @@ filename: cshperspect-SIG-011593_F1.jpg
 figtitle: Simplified view of the mTOR pathway
 year: '2012'
 organisms:
+- Streptomyces hygroscopicus
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 7c32d59c-df08-11ea-99da-0ac135e8bacf
 annotations: []

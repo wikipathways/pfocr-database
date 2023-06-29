@@ -21,7 +21,24 @@ filename: mSystems.00795-19-f0003.jpg
 figtitle: Metabolic prediction for the community of MAGs from TVG metagenomes
 year: '2020'
 organisms:
+- Carboxydothermus hydrogenoformans
+- subsurface metagenome
+- Candidatus Pacearchaeota
+- Candidatus Hydrothermarchaeota
+- Archaeoglobus fulgidus
+- metagenome
+- Anas acuta
+- metagenomes
+- marine metagenome
+- marine sediment metagenome
+- Pyrococcus horikoshii
+- Erythrina poeppigiana
+- hydrothermal vent metagenome
+- Acidilobus saccharovorans 345-15
+- Escherichia coli K-12
+- Marine Group I
 - Homo sapiens
+- Mustela lutreola
 ndex: ''
 annotations: []
 seo: CreativeWork

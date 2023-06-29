@@ -33,6 +33,10 @@ figtitle: Different mechanisms that could modify coronavirus disease (COVID-19) 
   in patients with pulmonary arterial hypertension (PAH)
 year: '2020'
 organisms:
+- Mus musculus
+- Coronaviridae
+- Severe acute respiratory syndrome coronavirus 2
+- Severe acute respiratory syndrome-related coronavirus
 - Homo sapiens
 ndex: ''
 annotations: []

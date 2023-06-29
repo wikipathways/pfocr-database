@@ -23,7 +23,7 @@ filename: toxscikfq148f10_ht.jpg
 figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticles
 year: '2010'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -13,7 +13,16 @@ filename: pharmaceuticals-03-02910-g002.jpg
 figtitle: Main pathway for the synthesis and degradation of 2-arachidonoylglycerol
 year: '2010'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cannabis sativa
+- Candida dubliniensis
+- Eutheria
 - Homo sapiens
+- Canis lupus familiaris
+- Sus scrofa
+- Bos taurus
+- Ovis aries
 ndex: a8b62452-deb4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

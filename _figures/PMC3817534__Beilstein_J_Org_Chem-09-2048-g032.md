@@ -14,6 +14,26 @@ figtitle: Postulated biosynthetic pathway for the formation of 156 (adopted from
   []
 year: '2013'
 organisms:
+- Aspergillus awamori
+- H1N1 subtype
+- Human immunodeficiency virus 1
+- Staphylococcus aureus
+- Viola sororia
+- herbal medicine
+- Aspergillus nidulans
+- Stachybotrys sp.
+- Berberis darwinii
+- Berberis empetrifolia
+- Penicillium expansum
+- Lycogala epidendrum
+- Chaetomium globosum
+- Sarcocapnos enneaphylla
+- Saccharomyces cerevisiae
+- Agaricus bisporus
+- Fusarium culmorum
+- Lentzea albida
+- Streptomyces rishiriensis
+- Hericium erinaceus
 - Homo sapiens
 ndex: ''
 annotations: []

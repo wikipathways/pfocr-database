@@ -20,7 +20,7 @@ filename: cshperspect-MAM-003186_F4.jpg
 figtitle: Cytokine signaling through the Jak/Stat pathway in mammary gland development
 year: '2010'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: df2ee95b-df07-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

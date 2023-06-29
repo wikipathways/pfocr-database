@@ -20,7 +20,14 @@ filename: cgm-suppl.1-2015-017f2.jpg
 figtitle: The polyamine pathway in mammalian cells
 year: '2015'
 organisms:
+- Cricetulus griseus
+- Cricetus cricetus
+- Mus musculus
+- Human papillomavirus type 16
+- Gallus gallus
 - Homo sapiens
+- Bos taurus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

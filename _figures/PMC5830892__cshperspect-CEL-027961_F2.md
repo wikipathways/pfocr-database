@@ -17,6 +17,7 @@ filename: cshperspect-CEL-027961_F2.jpg
 figtitle: FERM-binding partners of Crumbs3
 year: '2018'
 organisms:
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -24,6 +24,10 @@ figtitle: Proposed mechanism underlying the differential effects of N-containing
   and non-N-containing MPMBP, on the inflammatory responses
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Armoracia rusticana
+- Escherichia coli
 - Homo sapiens
 ndex: ''
 annotations: []

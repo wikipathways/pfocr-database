@@ -16,7 +16,14 @@ figtitle: Proteins in the glycolysis, tricarboxylic acid, and oxidative phosphor
   pathways examined by the Ingenuity Pathway Analysis software
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Sequoia sempervirens
+- vectors
+- Escherichia coli
 - Homo sapiens
+- Capra hircus
+- Oryctolagus cuniculus
 ndex: cfe17dbe-de9b-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

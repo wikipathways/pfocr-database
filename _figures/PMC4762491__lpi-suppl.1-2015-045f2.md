@@ -20,7 +20,12 @@ figtitle: Man-P-Dol acts as mannosyl donor for the synthesis of M9-DLO, GPI anch
   and C- and O-mannosylated proteins
 year: '2015'
 organisms:
+- Rattus norvegicus
+- Saccharomyces cerevisiae
+- Trypanosoma brucei
+- Escherichia coli K-12
 - Homo sapiens
+- Sus scrofa
 ndex: c2d503e9-df27-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

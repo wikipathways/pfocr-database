@@ -21,6 +21,7 @@ figtitle: A hypothetical ananplerotic pathway for glycolate/glyoxylate in relati
   to oxalate formation
 year: '2010'
 organisms:
+- Oryza sativa
 - Homo sapiens
 ndex: ''
 annotations: []

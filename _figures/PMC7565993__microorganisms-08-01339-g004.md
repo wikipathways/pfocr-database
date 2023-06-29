@@ -25,6 +25,14 @@ figtitle: Carbon metabolism in the ΔaioS mutant vs WT during AsIII exposure, wi
   mannitol being the initial substrate
 year: '2020'
 organisms:
+- Rhodococcus sp. NAU-1
+- Agrobacterium tumefaciens 5A
+- Corynebacterium glutamicum
+- Herminiimonas arsenicoxydans
+- Agriosomyces longus
+- Venustaconcha ellipsiformis
+- Agrobacterium tumefaciens
+- Arabidopsis thaliana
 - Homo sapiens
 ndex: ''
 annotations: []

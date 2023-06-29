@@ -18,6 +18,29 @@ filename: microorganisms-09-00371-g002.jpg
 figtitle: Proposed pathway for conversion from CA to DCA via 7Alpha-dehydroxylation
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Staphylococcus aureus
+- Bacillus cereus
+- Clostridioides difficile
+- Clostridium perfringens
+- Paeniclostridium sordellii
+- Clostridium sporogenes
+- Acetoanaerobium sticklandii
+- Clostridium innocuum
+- Listeria monocytogenes
+- Bifidobacterium longum
+- Clostridium scindens
+- Lacrimispora xylanolytica
+- Ruminococcus gnavus
+- Clostridium scindens ATCC 35704
+- Clostridium hylemonae DSM 15053
+- Escherichia coli
+- Shigella flexneri
+- gut metagenome
+- Peptacetobacter hiranonis
+- Clostridium hylemonae
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
 ndex: ''
 annotations: []

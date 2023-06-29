@@ -31,7 +31,7 @@ figtitle: Model summarizing regulation of glycolysis and its contribution to pho
   physiology
 year: '2017'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: 3bb41d76-de9e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

@@ -20,6 +20,20 @@ filename: cshperspect-DAM-012732_F3.jpg
 figtitle: Current model for replication-independent ICL repair
 year: '2013'
 organisms:
+- Mus musculus
+- Haloferax volcanii
+- Calloplesiops altivelis
+- synthetic construct
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Schizosaccharomyces pombe
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Caenorhabditis elegans
+- Bombyx mori
+- Drosophila melanogaster
+- Xenopus laevis
+- Gallus gallus
 - Homo sapiens
 ndex: ea49cb12-dedb-11ea-99da-0ac135e8bacf
 annotations: []

@@ -25,8 +25,7 @@ filename: cshperspect-CSZ-019158_F1.jpg
 figtitle: Plant and yeast cell walls (CWs)
 year: '2015'
 organisms:
-- unspecified yeast
-- unspecified plant
+- XXX
 ndex: ''
 annotations: []
 seo: CreativeWork

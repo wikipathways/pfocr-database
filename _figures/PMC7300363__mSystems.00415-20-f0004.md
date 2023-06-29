@@ -26,6 +26,24 @@ figtitle: Hypothesized central carbon metabolism, electron transport chain, and 
   transport capabilities in HMT
 year: '2020'
 organisms:
+- Nitrososphaera viennensis
+- Pseudogluconobacter saccharoketogenes
+- Candidatus Nitrosopelagicus brevis
+- Bacillus subtilis
+- Pseudomonas sp. NBRC 111131
+- Pyrobaculum aerophilum str. IM2
+- DPANN group
+- Candidatus Geothermarchaeota
+- Amomum maximum
+- metagenome
+- Comamonas testosteroni
+- Nitrosopumilus maritimus
+- Tharsalea heteronea
+- metagenomes
+- Sulfolobus islandicus L.S.2.15
+- Candidatus Nitrososphaera gargensis
+- Escherichia coli
+- Thermosphaera aggregans DSM 11486
 - Homo sapiens
 ndex: ''
 annotations: []

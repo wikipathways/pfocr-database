@@ -16,6 +16,17 @@ filename: microorganisms-08-00379-g007.jpg
 figtitle: WG diet induced metabolism of SCFA and metabolism of fatty acids
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- metagenome
+- Clostridium aminobutyricum
+- Cyamopsis tetragonoloba
+- human gut metagenome
+- Hordeum vulgare
+- Oryza sativa
+- human metagenome
+- gut metagenome
+- Fusobacterium varium
 - Homo sapiens
 ndex: ''
 annotations: []

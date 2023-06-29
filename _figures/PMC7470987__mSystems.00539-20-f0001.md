@@ -36,7 +36,16 @@ figtitle: Working model for cross-pathway regulation between competence and biof
   in B
 year: '2020'
 organisms:
-- Homo sapiens
+- Octodon degus
+- Staphylococcus aureus
+- Bacillus subtilis PY79
+- Bacillus subtilis
+- Pseudomonas syringae
+- Arabidopsis thaliana
+- Solanum lycopersicum
+- Escherichia coli BL21DE3
+- Escherichia coli
+- Escherichia coli DH5alpha
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -1,7 +1,9 @@
 ---
-common: "Horse"
-latin: "Equus caballus"
-ncbi: "9796"
-title: "Horse pathways"
-group: "Vertebrates"
+common: Equus caballus
+latin: Equus caballus
+ncbi: '9796'
+title: Equus caballus
+group: Mammals
+image: http://www.ncbi.nlm.nih.gov/Taxonomy/taxi/images/855
+
 ---

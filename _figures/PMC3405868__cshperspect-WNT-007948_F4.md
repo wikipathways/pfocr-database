@@ -29,7 +29,7 @@ figtitle: Beta-Catenin-Dependent Wnt Signaling
 year: '2012'
 organisms:
 - Homo sapiens
-- Caenorhabditis elegans
+-  Caenorhabditis elegans
 ndex: 4943205b-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

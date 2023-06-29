@@ -28,7 +28,23 @@ figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigatio
   of Methane Metabolism in Methylosinus trichosporium OB3b
 year: '2020'
 organisms:
-- Homo sapiens
+- type I methanotrophic bacterium
+- Methylotuvimicrobium alcaliphilum 20Z
+- Methylocystis parvus OBBP
+- methanotrophic bacterium
+- Methylococcus capsulatus str. Bath
+- Methylotuvimicrobium alcaliphilum
+- Methylorubrum extorquens AM1
+- Geobacter metallireducens
+- Methylocystaceae
+- type II methanotrophic bacterium
+- Methylococcaceae
+- Methylococcus capsulatus
+- Methylosinus trichosporium
+- Escherichia coli
+- Methylosinus trichosporium OB3b
+- Methylotuvimicrobium buryatense 5G
+- Methylocystis sp. SB2
 ndex: ''
 annotations: []
 seo: CreativeWork

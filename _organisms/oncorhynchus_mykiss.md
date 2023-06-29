@@ -1,7 +1,9 @@
 ---
 common: Oncorhynchus mykiss
 latin: Oncorhynchus mykiss
-ncbi: 
-title: Oncorhynchus mykiss pathways
-group: "Vertebrates"
+ncbi: '8022'
+title: Oncorhynchus mykiss
+group: Vertebrates
+image: http://www.ncbi.nlm.nih.gov/Taxonomy/taxi/images/393
+
 ---

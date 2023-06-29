@@ -17,6 +17,32 @@ figtitle: Reconstruction and manual curation of the genome–scale metabolic net
   of S
 year: '2019'
 organisms:
+- Galdieria sulphuraria
+- Peronospora tabacina
+- Chondrus crispus
+- Porphyra umbilicalis
+- other sequences
+- Phaeodactylum tricornutum
+- Phaeophyceae
+- Ectocarpus siliculosus
+- Chlorophyta
+- Chlamydomonas reinhardtii
+- Volvox carteri
+- Chlorella sorokiniana
+- Saccharina latissima
+- Cladosiphon okamuranus
+- Embryophyta
+- Stramenopiles
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Hordeum vulgare
+- Ulva mutabilis
+- Escherichia coli
+- PX clade
+- Nannochloropsis gaditana
+- Ambystoma mexicanum
+- Saccharina japonica
+- Laminaria hyperborea
 - Homo sapiens
 ndex: ''
 annotations: []

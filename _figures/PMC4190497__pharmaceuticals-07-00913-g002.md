@@ -19,6 +19,19 @@ filename: pharmaceuticals-07-00913-g002.jpg
 figtitle: Energy regulated signaling pathway
 year: '2014'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Curcuma longa
+- Brassica oleracea
+- Matthiola incana
+- Glycine max
+- Allium sativum
+- Saccharomyces cerevisiae
+- Trichomonas vaginalis
+- Cryptosporidium parvum
+- Encephalitozoon cuniculi
+- Caenorhabditis elegans
+- Drosophila melanogaster
 - Homo sapiens
 ndex: b2c5218a-deb2-11ea-99da-0ac135e8bacf
 annotations: []

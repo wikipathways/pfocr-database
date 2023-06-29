@@ -23,7 +23,7 @@ figtitle: Inhibition of the KAI1 cancer metastasis suppressor pathway in African
   patients
 year: '2011'
 organisms:
-- Homo sapiens
+- Nicotiana tabacum
 ndex: da1f2226-df37-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

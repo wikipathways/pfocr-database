@@ -18,7 +18,7 @@ figtitle: Tgfbr2 cKO CD34+ SCC cells upregulate genes implicated in invasive hum
   cancers
 year: '2017'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: 965287d5-deb1-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

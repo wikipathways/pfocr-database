@@ -21,7 +21,14 @@ filename: microorganisms-09-00328-g002.jpg
 figtitle: Immune-based strategies antimicrobial peptides and NETs
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Staphylococcus aureus
+- Staphylococcus epidermidis
+- Streptococcus pneumoniae
+- Haemophilus influenzae
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

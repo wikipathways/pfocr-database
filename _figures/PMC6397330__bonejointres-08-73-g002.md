@@ -14,7 +14,11 @@ filename: bonejointres-08-73-g002.jpg
 figtitle: Long non-coding RNA in osteogenesis
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- clinical samples
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

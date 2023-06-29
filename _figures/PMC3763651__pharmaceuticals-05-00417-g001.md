@@ -18,6 +18,10 @@ figtitle: Schematic presentation depicting the regulation of receptor signaling 
   G-proteins
 year: '2012'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus 1
+- Human immunodeficiency virus
 - Homo sapiens
 ndex: d53b1feb-de90-11ea-99da-0ac135e8bacf
 annotations: []

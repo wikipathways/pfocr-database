@@ -22,6 +22,7 @@ filename: cshperspect-TMR-033092_F1.jpg
 figtitle: General eukaryotic translation initiation pathway
 year: '2018'
 organisms:
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: ''
 annotations: []

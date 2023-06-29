@@ -22,7 +22,32 @@ figtitle: Signal transduction and metabolic pathways involved in the Ustilaginom
   multicellular growth
 year: '2020'
 organisms:
-- Homo sapiens
+- Ustilago hordei
+- Sclerospora graminicola
+- Aspergillus nidulans
+- Ustilago esculenta
+- Sporisorium graminicola
+- Ustilago bromivora
+- Pyricularia oryzae
+- Dictyostelia
+- Mucor circinelloides
+- Volvariella volvacea
+- Arabidopsis thaliana
+- Hordeum vulgare
+- Sorghum bicolor
+- Zea mays
+- Sporisorium scitamineum
+- Saccharomyces cerevisiae
+- Yarrowia lipolytica
+- Neurospora crassa
+- Ustilago maydis
+- Schizophyllum commune
+- Coprinopsis cinerea
+- Candida albicans
+- Zizania latifolia
+- Ustilago cynodontis
+- Sporisorium reilianum
+- Sporisorium reilianum f. sp. zeae
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -29,6 +29,21 @@ figtitle: Hypothetical model for adenoviral regulation of stress-induced EGFR si
   through NFKB
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human alphaherpesvirus 1
+- Hepatitis B virus
+- Adenoviridae
+- Human adenovirus 2
+- Human T-cell leukemia virus type I
+- Coxsackievirus
+- Human mastadenovirus C
+- Human adenovirus sp.
+- Human adenovirus E4
+- Human adenovirus 12
+- Human adenovirus 5
+- Human adenovirus 52
+- Human adenovirus D37
 - Homo sapiens
 ndex: 5ac19ede-df1f-11ea-99da-0ac135e8bacf
 annotations: []

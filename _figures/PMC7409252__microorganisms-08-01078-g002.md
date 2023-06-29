@@ -59,6 +59,13 @@ figtitle: Pathophysiological hypothesis of ulcerative colitis and Crohn disease 
   the context of cytomegalovirus (CMV) viral reactivation
 year: '2020'
 organisms:
+- Human betaherpesvirus 5
+- Human betaherpesvirus 6
+- Human gammaherpesvirus 4
+- Clostridioides difficile CD34
+- Human immunodeficiency virus
+- Clostridioides difficile
+- Bikinia letestui
 - Homo sapiens
 ndex: ''
 annotations: []

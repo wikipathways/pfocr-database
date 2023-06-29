@@ -24,6 +24,20 @@ filename: jexboters067f01_3c.jpg
 figtitle: Flavonoid biosynthetic pathway in Arabidopsis seed
 year: '2012'
 organisms:
+- Rattus norvegicus
+- Vitis vinifera
+- Rubus idaeus
+- Arabidopsis thaliana
+- Brassica napus
+- Fragaria x ananassa
+- Malus domestica
+- Prunus dulcis
+- Glycine max
+- Medicago truncatula
+- Phaseolus vulgaris
+- Solanum lycopersicum
+- Zea mays
+- Helicoverpa zea
 - Homo sapiens
 ndex: c7b4240f-df0a-11ea-99da-0ac135e8bacf
 annotations: []

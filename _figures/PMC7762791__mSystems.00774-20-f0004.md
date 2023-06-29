@@ -20,6 +20,26 @@ figtitle: Distribution of proteins across diplomonads for the NADH repair pathwa
   (A) and the arsenic detoxification pathway (B)
 year: '2020'
 organisms:
+- Spironucleus barkhanus
+- Trepomonas sp. PC1
+- Giardia intestinalis assemblage E
+- Chilomastix cuspidata
+- Carpediemonas membranifera
+- Monocercomonoides exilis
+- Fornicata
+- metagenome
+- Metamonada
+- Hexamita sp.
+- Spironucleus salmonicida
+- Dysnectes brevis
+- Trichomonas vaginalis
+- Giardia intestinalis
+- Giardia muris
+- Cryptosporidium parvum
+- Spironucleus vortens
+- Kipferlia bialata
+- Ergobibamus cyprinoides
+- Chilomastix caulleryi
 - Homo sapiens
 ndex: ''
 annotations: []

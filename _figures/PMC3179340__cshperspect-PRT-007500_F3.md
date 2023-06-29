@@ -22,6 +22,7 @@ filename: cshperspect-PRT-007500_F3.jpg
 figtitle: A pathway for Parkinson’s
 year: '2011'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: ''
 annotations: []

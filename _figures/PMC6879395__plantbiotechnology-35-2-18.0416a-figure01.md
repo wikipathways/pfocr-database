@@ -14,7 +14,9 @@ figtitle: Comparative analysis of CYP716A subfamily enzymes for the heterologous
   of C-28 oxidized triterpenoids in transgenic yeast
 year: '2018'
 organisms:
-- Homo sapiens
+- Beta vulgaris subsp. vulgaris
+- Olea europaea
+- Saccharomyces cerevisiae
 ndex: ''
 annotations: []
 seo: CreativeWork

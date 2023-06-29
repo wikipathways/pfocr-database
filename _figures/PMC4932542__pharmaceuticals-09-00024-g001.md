@@ -31,6 +31,10 @@ figtitle: Models that have been proposed to explain the inhibition of tumor cell
   by metformin
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Mouse mammary tumor virus
+- Human immunodeficiency virus
 - Homo sapiens
 ndex: ''
 annotations: []

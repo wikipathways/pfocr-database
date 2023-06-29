@@ -21,6 +21,14 @@ figtitle: Model illustrating the putative mechanism by which PUUP potentiates CA
   activity
 year: '2020'
 organisms:
+- Cryptococcus neoformans var. grubii H99
+- Saccharomyces cerevisiae
+- Cryptococcus neoformans
+- Candida albicans
+- Nakaseomyces glabratus
+- Saccharomyces cerevisiae S288C
+- Escherichia coli
+- Aspergillus fumigatus
 - Homo sapiens
 ndex: ''
 annotations: []

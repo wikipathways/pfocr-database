@@ -29,7 +29,34 @@ filename: molbiolevolmsr149f01_3c.jpg
 figtitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolution
 year: '2012'
 organisms:
+- Mus musculus
+- fungal sp. P2
+- Spizellomyces punctatus
+- Pyricularia grisea
+- Listeria monocytogenes
+- Amastigomonas sp.
+- Capsaspora owczarzaki
+- Allomyces macrogynus
+- Opisthokonta
+- Bilateria
+- Amphimedon queenslandica
+- Dictyostelium discoideum
+- Nematostella vectensis
+- Schizosaccharomyces pombe
+- Saccharomyces cerevisiae
+- Neurospora crassa
+- Thecamonas trahens
+- Apusozoa
+- Escherichia coli
+- Paramecium tetraurelia
+- Caenorhabditis elegans
+- Branchiostoma floridae
+- Branchiostoma lanceolatum
+- Monosiga brevicollis
+- Halalkalibacterium halodurans
+- Salpingoeca rosetta
 - Homo sapiens
+- Bos taurus
 ndex: e8199cf4-df03-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

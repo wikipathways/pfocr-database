@@ -33,7 +33,46 @@ filename: microorganisms-08-00313-g005.jpg
 figtitle: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta
 year: '2020'
 organisms:
-- Homo sapiens
+- Allochromatium vinosum
+- Rhodobacter capsulatus
+- Cereibacter sphaeroides
+- Chlorobiota
+- Chlorobaculum tepidum
+- Heliorestis baculata
+- Pseudomonadota
+- Eucalyptus intertexta
+- Deinococcus radiodurans
+- Paenibacillus polymyxa
+- Bacillus subtilis
+- Clostridioides difficile
+- Mycobacterium tuberculosis
+- Chlorobaculum tepidum TLS
+- Metabacillus indicus
+- Heliobacterium chlorum
+- Heliomicrobium gestii
+- Ithyoclinostomum yamagutii
+- Heliobacterium mobile
+- Salmonella enterica
+- Heliophilum fasciatum
+- Heliomicrobium modesticaldum
+- Sinorhizobium meliloti
+- Alkalihalophilus pseudofirmus OF4
+- Olea europaea
+- Bacillus sp. C125
+- Oryza sativa
+- Saccharomyces cerevisiae
+- Desulfitobacterium hafniense
+- Heliomicrobium modesticaldum Ice1
+- phototrophic bacterium
+- Heliorestis acidaminivorans
+- Candidatus Heliomonas lunata
+- Escherichia coli
+- Allochromatium vinosum DSM 180
+- Heliorestis daurensis
+- Alkalihalophilus pseudofirmus
+- Megalodesulfovibrio gigas
+- Desulfosarcina cetonica
+- Bacillus sp. TA2.A1
 ndex: ''
 annotations: []
 seo: CreativeWork

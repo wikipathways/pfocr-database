@@ -16,7 +16,24 @@ figtitle: Pathview () plot of the KEGG () pathway showing the Cell mitotic cycle
   E
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Clostridioides difficile
+- Bifidobacterium bifidum
+- Bifidobacterium longum subsp. infantis
+- Helicobacter pylori
+- Ulex europaeus
+- human gut metagenome
+- Escherichia coli str. K-12 substr. MG1655
+- Escherichia coli
+- gut metagenome
+- Danio rerio
+- Escherichia coli K-12
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
+- Equus asinus
+- Capra hircus
+- Oryctolagus cuniculus
 ndex: a8a337b7-df2e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

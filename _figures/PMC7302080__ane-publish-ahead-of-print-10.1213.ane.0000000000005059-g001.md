@@ -29,6 +29,7 @@ filename: ane-publish-ahead-of-print-10.1213.ane.0000000000005059-g001.jpg
 figtitle: Procoagulant changes that occur with COVID-19 and potential therapeutics
 year: '2020'
 organisms:
+- Severe acute respiratory syndrome coronavirus 2
 - Homo sapiens
 ndex: ''
 annotations: []

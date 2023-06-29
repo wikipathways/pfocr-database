@@ -18,6 +18,13 @@ filename: microorganisms-08-00534-g001.jpg
 figtitle: Scheme of the molybdenum cofactor biosynthesis pathway
 year: '2020'
 organisms:
+- Mus musculus
+- Aspergillus nidulans
+- Aklioshbomyces papillarum
+- Arabidopsis thaliana
+- unidentified shuttle vector
+- Neurospora crassa
+- Escherichia coli
 - Homo sapiens
 ndex: ''
 annotations: []

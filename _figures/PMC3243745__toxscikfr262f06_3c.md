@@ -20,7 +20,9 @@ figtitle: Metabolic pathways illustrating TCDD-elicited changes in the mouse (A)
   rat (B)
 year: '2012'
 organisms:
-- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Candida dubliniensis
 ndex: 0d1ff7b3-df14-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

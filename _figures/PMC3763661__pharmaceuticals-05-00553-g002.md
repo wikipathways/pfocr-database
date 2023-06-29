@@ -39,7 +39,22 @@ filename: pharmaceuticals-05-00553-g002.jpg
 figtitle: Current gene therapy treatments for PD
 year: '2012'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human alphaherpesvirus 1
+- adeno-associated virus 2
+- Feline immunodeficiency virus
+- Human immunodeficiency virus 1
+- Diaporthe sclerotioides
+- Adeno-associated virus
+- Euphilotes enoptes
+- Troglodytes troglodytes
+- Adeno-associated virus - 4
+- Callithrix jacchus
+- Macaca mulatta
 - Homo sapiens
+- Canis lupus familiaris
+- Equus caballus
 ndex: ''
 annotations: []
 seo: CreativeWork

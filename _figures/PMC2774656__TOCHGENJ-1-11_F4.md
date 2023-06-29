@@ -23,7 +23,16 @@ filename: TOCHGENJ-1-11_F4.jpg
 figtitle: Multiplexing Bioluminescent and Fluorescent Reporters to Monitor Live Cells
 year: '2008'
 organisms:
+- Mus musculus
+- Metridia longa
+- Gaussia princeps
+- Aequorea coerulescens
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Aequorea victoria
+- Renilla reniformis
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

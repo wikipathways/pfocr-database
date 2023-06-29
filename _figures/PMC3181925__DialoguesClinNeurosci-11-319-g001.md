@@ -25,6 +25,8 @@ filename: DialoguesClinNeurosci-11-319-g001.jpg
 figtitle: Neuroimmune interactions of kynurenine intermediates
 year: '2009'
 organisms:
+- Mus musculus
+- Rattus norvegicus
 - Homo sapiens
 ndex: 3ff2f969-debb-11ea-99da-0ac135e8bacf
 annotations: []

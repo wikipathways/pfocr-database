@@ -18,6 +18,13 @@ filename: lpi-suppl.1-2015-095f3.jpg
 figtitle: Schematic pathway of DHE synthesis and possible side pathways
 year: '2015'
 organisms:
+- Cricetulus griseus
+- Mus musculus
+- Saccharomyces cerevisiae
+- Metaphire sieboldi
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Danio rerio
 - Homo sapiens
 ndex: ''
 annotations: []

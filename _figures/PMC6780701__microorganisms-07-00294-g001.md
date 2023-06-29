@@ -14,7 +14,32 @@ filename: microorganisms-07-00294-g001.jpg
 figtitle: The metabolic pathway for Hyaluronic Acid production
 year: '2019'
 organisms:
+- Mus musculus
+- Tequintavirus T5
+- Streptococcus dysgalactiae subsp. equisimilis
+- Streptococcus sp.
+- Streptococcus pyogenes
+- Streptococcus equi
+- Lactococcus lactis
+- Bacillus subtilis
+- Synthetic plasmid
+- Corynebacterium glutamicum
+- Kluyveromyces lactis NRRL Y-1140
+- Kluyveromyces lactis
+- vectors
+- aerobic bacillus
+- Agrobacterium sp.
+- Streptococcus equi subsp. zooepidemicus
+- Komagataella phaffii
+- Komagataella pastoris
+- Saccharomyces cerevisiae
+- Cryptococcus neoformans
+- Escherichia coli
+- PX clade
+- Pasteurella multocida
+- Xenopus laevis
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

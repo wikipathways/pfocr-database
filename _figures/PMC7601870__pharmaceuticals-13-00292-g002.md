@@ -23,6 +23,9 @@ figtitle: Crosstalk between CK2 and signaling pathways (A) regulating fatty acid
   or (B) controlled by phospholipases
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Candida dubliniensis
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -15,7 +15,30 @@ filename: jexboterq177f01_ht.jpg
 figtitle: Signalling routes of copper and hydrogen peroxide
 year: '2010'
 organisms:
+- XXX
+- Sinapis arvensis
+- Embryophyta
+- Marchantiophyta
+- Dianthus caryophyllus
+- Nicotiana glutinosa
+- Arabidopsis thaliana
 - Brassica oleracea
+- Brassica oleracea var. alboglabra
+- Matthiola incana
+- Medicago sativa
+- Pelargonium x hortorum
+- Catharanthus roseus
+- Solanum lycopersicum
+- Nicotiana tabacum
+- Solanum tuberosum
+- Oryza sativa
+- Triticum aestivum
+- Zea mays
+- Trichoderma viride
+- PX clade
+- Plagiomnium cuspidatum
+- Mimosa pudica
+- Pelophylax ridibundus
 ndex: ''
 annotations: []
 seo: CreativeWork

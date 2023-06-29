@@ -24,6 +24,14 @@ filename: cshperspect-CSD-008797_F5.jpg
 figtitle: Models of apoptosis-induced proliferation in mammals
 year: '2012'
 organisms:
+- Mus musculus
+- Dipturus trachyderma
+- unidentified
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Danio rerio
+- Notophthalmus viridescens
+- Xenopus laevis
 - Homo sapiens
 ndex: fa630cd6-dedf-11ea-99da-0ac135e8bacf
 annotations: []

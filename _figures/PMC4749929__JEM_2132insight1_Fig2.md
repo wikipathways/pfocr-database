@@ -13,7 +13,7 @@ filename: JEM_2132insight1_Fig2.jpg
 figtitle: Pumping the breaks on B cell development
 year: '2016'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

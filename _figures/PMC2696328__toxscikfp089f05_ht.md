@@ -24,7 +24,7 @@ filename: toxscikfp089f05_ht.jpg
 figtitle: Proposed model for the effect of HPTE in the granulosa cell
 year: '2009'
 organisms:
-- Homo sapiens
+- Rattus norvegicus
 ndex: d590c79a-dedf-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

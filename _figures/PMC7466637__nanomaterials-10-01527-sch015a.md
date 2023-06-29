@@ -19,7 +19,40 @@ figtitle: 'Recent Advances in Surface Nanoengineering for Biofilm Prevention and
   Nanocoatings'
 year: '2020'
 organisms:
+- Mus musculus
+- Ceriodaphnia cornuta
+- Staphylococcus aureus
+- Staphylococcus epidermidis
+- mixed culture
+- Streptococcus mutans
+- Escherichia coli ATCC 25922
+- Corylus cornuta
+- Enterococcus faecalis
+- Bacillus subtilis
+- Listeria monocytogenes
+- Staphylococcus epidermidis ATCC 12228
+- Mycobacterium tuberculosis
+- Heliotropium crispum
+- Pseudomonas aeruginosa PAO1
+- Serratia proteamaculans
+- Pseudomonas aeruginosa
+- Bacteriophage sp.
+- Stenotrophomonas maltophilia
+- Helianthus annuus
+- Allium sativum
+- Acinetobacter baumannii
+- Saccharomyces cerevisiae
+- Candida albicans
+- Escherichia coli
+- Parasitaxus usta
+- Acinetobacter baumannii ATCC 19606  CIP 70.34  JCM 6841
+- Shewanella woodyi
+- Vibrio parahaemolyticus
+- Haemophilus influenzae
+- Escherichia coli K-12
 - Homo sapiens
+- Bos taurus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

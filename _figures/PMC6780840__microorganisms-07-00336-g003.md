@@ -21,6 +21,24 @@ figtitle: Intracellular peptidoglycan (PGN) is detected by intracellular recepto
   and activates the NFKB signaling pathway in Drosophila melanogaster and human enterocytes
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Staphylococcus aureus
+- Streptococcus pneumoniae
+- Enterococcus faecalis
+- Lactiplantibacillus plantarum
+- Listeria monocytogenes
+- metagenome
+- Drosophila suzukii
+- Pseudomonas aeruginosa
+- human gut metagenome
+- Pectobacterium carotovorum subsp. carotovorum
+- Escherichia coli
+- Serratia marcescens
+- Acetobacter pomorum
+- Vibrio cholerae
+- Drosophila melanogaster
+- Drosophila simulans
 - Homo sapiens
 ndex: a8a7b134-def4-11ea-99da-0ac135e8bacf
 annotations: []

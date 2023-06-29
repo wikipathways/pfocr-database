@@ -18,7 +18,12 @@ figtitle: Proposed model of the cell autophagy induced by SAHA and TRAIL DR5-CTS
   in breast cancer cell lines
 year: '2017'
 organisms:
+- Mus musculus
+- Hepatitis B virus
+- Triticum aestivum
 - Homo sapiens
+- Bos taurus
+- Capra hircus
 ndex: 5cf1f356-def7-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

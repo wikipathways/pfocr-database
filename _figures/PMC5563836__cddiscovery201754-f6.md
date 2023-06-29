@@ -17,7 +17,12 @@ filename: cddiscovery201754-f6.jpg
 figtitle: Main mechanisms of EE in post-stroke neurogenesis and functional recovery
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Armoracia rusticana
 - Homo sapiens
+- Capra hircus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,7 +24,16 @@ filename: eplasty08e2_fig2.jpg
 figtitle: Molecules and pathways implicated in sulfur mustard (SM)-induced apoptosis
 year: '2008'
 organisms:
+- Mus musculus
+- Cavia porcellus
+- Corynebacterium phage gamma
+- unclassified bacterial viruses
+- Human papillomavirus type 16
+- Escherichia coli
+- Xenopus laevis
 - Homo sapiens
+- Sus scrofa
+- Oryctolagus cuniculus
 ndex: fb33fd82-ded5-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

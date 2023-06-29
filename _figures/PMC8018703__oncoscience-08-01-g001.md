@@ -35,6 +35,7 @@ figtitle: 'Monitoring vascular normalization: new opportunities for mitochondria
   inhibitors in breast cancer'
 year: '2021'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -18,6 +18,8 @@ figtitle: Pathways and biological processes of genes that showed differential ex
   during cell cycle
 year: '2020'
 organisms:
+- Mus musculus
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

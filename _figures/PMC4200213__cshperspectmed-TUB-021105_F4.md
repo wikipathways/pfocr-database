@@ -32,7 +32,7 @@ figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of ant
   drugs
 year: '2014'
 organisms:
-- Homo sapiens
+- Mycobacterium tuberculosis
 ndex: ''
 annotations: []
 seo: CreativeWork

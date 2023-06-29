@@ -18,7 +18,11 @@ figtitle: Upregulation of the metabolic pathway glycan biosynthesis and metaboli
   by physical exercise
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Gallus gallus
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -24,6 +24,16 @@ filename: cshperspect-RCM-016634_F1.jpg
 figtitle: The meiotic recombination pathway
 year: '2015'
 organisms:
+- Mus musculus
+- Methanocaldococcus jannaschii
+- Arabidopsis thaliana
+- Oryza sativa
+- Schizosaccharomyces pombe
+- Saccharomyces cerevisiae
+- Sordaria macrospora
+- Coprinopsis cinerea
+- Caenorhabditis elegans
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

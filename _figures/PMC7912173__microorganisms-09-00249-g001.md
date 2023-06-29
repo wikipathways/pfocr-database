@@ -25,6 +25,35 @@ figtitle: Microbial, sugar-based, solvent production pathways for alcohols, terp
   and aromatic compounds
 year: '2021'
 organisms:
+- Pseudomonas putida str. Idaho
+- Sinsheimervirus phiX174
+- Pseudomonas putida DOT-T1E
+- Pseudomonas putida S12
+- Oenococcus oeni
+- Staphylococcus aureus
+- Clostridium acetobutylicum
+- Clostridium sp.
+- Acetivibrio thermocellus
+- Clostridium beijerinckii
+- Lactiplantibacillus plantarum
+- Corynebacterium glutamicum
+- Actinomycetia bacterium
+- Pseudomonas aeruginosa
+- Pseudomonas putida
+- Pseudomonas sp. A
+- Pseudomonas putida F1
+- Arabidopsis thaliana
+- Escherichia coli B
+- Schizosaccharomyces pombe
+- Kluyveromyces marxianus
+- Scheffersomyces stipitis
+- Saccharomyces cerevisiae
+- Yarrowia lipolytica
+- Zymomonas mobilis
+- Candida albicans
+- Escherichia coli
+- Escherichia coli KO11FL
+- uncultured Gammaproteobacteria bacterium
 - Homo sapiens
 ndex: ''
 annotations: []

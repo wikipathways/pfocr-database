@@ -29,7 +29,21 @@ figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of
   enzymes
 year: '2019'
 organisms:
+- Mus musculus
+- Salmonella sp. WT
+- Corynebacterium glutamicum
+- Mycobacterium tuberculosis
+- Salmonella enterica
+- Escherichia coli Nissle 1917
+- Escherichia coli B
+- Candelariella medians
+- Escherichia coli
+- Caenorhabditis elegans
+- Escherichia coli DH5alpha
+- Escherichia coli K-12
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
+- Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
 ndex: ''
 annotations: []
 seo: CreativeWork

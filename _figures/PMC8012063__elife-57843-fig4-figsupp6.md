@@ -16,7 +16,27 @@ figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes
   hsa05012 Parkinson’s disease at the cross-tissue level
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Cryptomys hottentotus
+- Heterocephalus glaber
+- Tachyoryctes macrocephalus
+- Fukomys anselli
+- Malus domestica
+- Daucus carota
+- Solanum tuberosum
+- Fukomys mechowii
+- Fukomys micklemi
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Pekania pennanti
+- Fundulus heteroclitus
+- Fukomys damarensis
 - Homo sapiens
+- Canis lupus familiaris
+- Felis catus
+- Equus caballus
 ndex: ''
 annotations: []
 seo: CreativeWork

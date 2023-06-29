@@ -22,6 +22,10 @@ figtitle: Pathways associated with the sensitivity or resistance of tumor cells 
   metformin under normoglycemic or hyperglycemic conditions
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Mouse mammary tumor virus
+- Human immunodeficiency virus
 - Homo sapiens
 ndex: ''
 annotations: []

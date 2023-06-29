@@ -29,7 +29,11 @@ figtitle: Two signaling pathways that respond to extracellular glucose in Saccha
   cerevisiae
 year: '2020'
 organisms:
-- Homo sapiens
+- metagenome
+- Scheffersomyces stipitis
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -18,6 +18,19 @@ filename: microorganisms-09-00670-g010.jpg
 figtitle: Scheme of C
 year: '2021'
 organisms:
+- Chlorobaculum tepidum
+- Eucalyptus intertexta
+- Corynebacterium glutamicum MB001
+- Streptococcus pyogenes
+- Bacillus methanolicus
+- Brevibacterium linens
+- Corynebacterium glutamicum
+- Corynebacterium glutamicum ATCC 13032
+- Hypostomus robinii
+- Methylorubrum extorquens
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Escherichia coli DH5alpha
 - Homo sapiens
 ndex: ''
 annotations: []

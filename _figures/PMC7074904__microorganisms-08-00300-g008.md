@@ -24,6 +24,27 @@ figtitle: Functional display of OrfB-ER gene and OrfC-ER gene in fatty acid synt
   triclosan was added in S
 year: '2020'
 organisms:
+- Bracteacoccus bullatus
+- Streptococcus pneumoniae
+- Lactococcus lactis subsp. lactis
+- Nannochloropsis oceanica
+- Aurantiochytrium sp.
+- Corynebacterium glutamicum
+- Schizochytrium sp.
+- Cunninghamella sp.
+- Schizochytrium sp. HX-308
+- Phaeodactylum tricornutum
+- Photobacterium profundum SS9
+- Shewanella pneumatophori
+- Rickettsia slovaca
+- Solanum lycopersicum
+- Saccharomyces cerevisiae
+- Aspergillus niger
+- Escherichia coli
+- Mortierella alpina
+- Aurantiochytrium sp. KRS101
+- Aurantiochytrium limacinum
+- Moritella marina
 - Homo sapiens
 ndex: ''
 annotations: []

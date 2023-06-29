@@ -41,6 +41,10 @@ figtitle: Neuroplasticity and cellular resilience in mood disorders; the multipl
   influences on neuroplasticity and cellular resilience in mood disorders
 year: '2005'
 organisms:
+- Simian endogenous retrovirus
+- Nicotiana tabacum
+- Hypericum perforatum
+- Pollachius virens
 - Homo sapiens
 ndex: 2a00a7c0-deee-11ea-99da-0ac135e8bacf
 annotations: []

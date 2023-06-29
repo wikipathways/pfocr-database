@@ -26,7 +26,36 @@ figtitle: Chemosynthetic symbionts of marine invertebrate animals are capable of
   fixation
 year: '2017'
 organisms:
+- Pinna nobilis
+- Codakia orbicularis
+- Sedimenticola thiotaurini
+- Candidatus Thiodiazotropha endoloripes
+- Olavius algarvensis
+- Clathrolucina costata
+- Euanodontia ovum
+- Loripes lucinalis
+- Lucinoma borealis
+- Phacoides pectinatus
+- metagenome
+- sulfur-oxidizing symbionts
+- Thiobacillus denitrificans
+- Bradyrhizobium japonicum
+- Candidatus Endoriftia persephone
+- Diplodonta circularis
+- Methylomonas methanica
+- Saccharum officinarum
+- Ananas comosus
+- Zostera noltei
+- Posidonia oceanica
+- Thalassia testudinum
+- Candidatus Thiosymbion oneisti
+- Riftia pachyptila
+- Sipunculus nudus
+- Bankia setacea
+- Laxus oneistus
+- Pelecyora isocardia
 - Homo sapiens
+- Cerdocyon thous
 ndex: ''
 annotations: []
 seo: CreativeWork

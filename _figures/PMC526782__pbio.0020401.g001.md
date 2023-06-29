@@ -29,6 +29,9 @@ filename: pbio.0020401.g001.jpg
 figtitle: Molecules That Cause or Prevent Parkinson's Disease
 year: '2004'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

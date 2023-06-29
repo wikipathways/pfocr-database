@@ -22,6 +22,7 @@ filename: cddiscovery201561-f6.jpg
 figtitle: Proposed model for the synergistic effect of docetaxel and resveratrol
 year: '2015'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: 032aef68-dedf-11ea-99da-0ac135e8bacf
 annotations: []

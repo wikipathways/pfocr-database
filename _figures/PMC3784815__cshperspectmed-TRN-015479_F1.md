@@ -20,7 +20,7 @@ filename: cshperspectmed-TRN-015479_F1.jpg
 figtitle: Pathway of injury mediated by innate immune receptors
 year: '2013'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

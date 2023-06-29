@@ -16,7 +16,18 @@ filename: elife-40593-fig4-figsupp2.jpg
 figtitle: A metabolic pathway of serine, glycine, and threonine
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Pseudomonas aeruginosa
+- Brassica napus subsp. rapifera
+- Saccharomyces cerevisiae
+- Cinchona pubescens
+- Agaricus bisporus
+- Drosophila melanogaster
 - Homo sapiens
+- Equus asinus
+- Capra hircus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -15,6 +15,32 @@ filename: microorganisms-08-00771-g006.jpg
 figtitle: Representation of metabolic pathway performed on KEGG website
 year: '2020'
 organisms:
+- Mus musculus
+- Moumouvirus Monve
+- Staphylococcus aureus
+- Bacillus thuringiensis
+- Bacillus thuringiensis serovar san diego
+- Acanthamoeba triangularis
+- Listeria monocytogenes
+- Rathayibacter tanaceti
+- Sawyeria marylandensis
+- Agriosomyces longus
+- Legionella pneumophila str. Paris
+- Legionella pneumophila
+- Dictyostelium discoideum
+- Naegleria lovaniensis
+- Willaertia magna
+- Pleurotus ostreatus
+- Amoebozoa
+- Escherichia coli
+- Acanthamoeba castellanii
+- Acanthamoeba polyphaga
+- Naegleria gruberi
+- Naegleria fowleri
+- Vermamoeba vermiformis
+- Tetrahymena thermophila
+- Balamuthia mandrillaris
+- Naegleria gruberi strain NEG-M
 - Homo sapiens
 ndex: ''
 annotations: []

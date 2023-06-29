@@ -16,7 +16,13 @@ filename: microorganisms-09-00600-g001.jpg
 figtitle: Metabolic pathway designed for the production of Beta-alanine
 year: '2021'
 organisms:
-- Homo sapiens
+- Levilactobacillus brevis
+- Corynebacterium glutamicum
+- Schizochytrium sp.
+- Pseudomonas aeruginosa
+- Matthiola incana
+- Saccharomyces cerevisiae
+- Escherichia coli
 ndex: ''
 annotations: []
 seo: CreativeWork

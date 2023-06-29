@@ -14,7 +14,11 @@ figtitle: Docking analysis of models for 4-hydroxy-3-methylbut-2-enyl diphosphat
   reductase and a ferredoxin from Botryococcus braunii, race B
 year: '2018'
 organisms:
-- Homo sapiens
+- Botryococcus braunii Showa
+- Chlamydomonas reinhardtii
+- Botryococcus braunii
+- Escherichia coli
+- Plasmodium falciparum
 ndex: ''
 annotations: []
 seo: CreativeWork

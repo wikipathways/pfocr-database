@@ -19,7 +19,29 @@ figtitle: A schematic presentation of relationships between the key components o
   the ethylene signal transduction pathway
 year: '2010'
 organisms:
-- Homo sapiens
+- Sinapis arvensis
+- Embryophyta
+- Marchantiophyta
+- Dianthus caryophyllus
+- Nicotiana glutinosa
+- Arabidopsis thaliana
+- Brassica oleracea
+- Brassica oleracea var. alboglabra
+- Matthiola incana
+- Medicago sativa
+- Pelargonium x hortorum
+- Catharanthus roseus
+- Solanum lycopersicum
+- Nicotiana tabacum
+- Solanum tuberosum
+- Oryza sativa
+- Triticum aestivum
+- Zea mays
+- Trichoderma viride
+- PX clade
+- Plagiomnium cuspidatum
+- Mimosa pudica
+- Pelophylax ridibundus
 ndex: ''
 annotations: []
 seo: CreativeWork

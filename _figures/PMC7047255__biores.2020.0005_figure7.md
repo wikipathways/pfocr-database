@@ -33,7 +33,10 @@ figtitle: Pathway interaction schematic constructed to demonstrate overlap of ge
   expression data with critical osteogenic pathways
 year: '2020'
 organisms:
+- Rattus norvegicus
 - Homo sapiens
+- Aepyceros melampus
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

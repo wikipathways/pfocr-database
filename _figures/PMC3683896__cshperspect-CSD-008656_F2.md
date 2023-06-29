@@ -22,6 +22,7 @@ filename: cshperspect-CSD-008656_F2.jpg
 figtitle: Extrinsic and intrinsic pathways of apoptosis
 year: '2013'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: e1490740-def3-11ea-99da-0ac135e8bacf
 annotations: []

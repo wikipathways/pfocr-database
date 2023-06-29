@@ -14,7 +14,8 @@ filename: plantbiotechnology-37-3-20.0413a-figure01.jpg
 figtitle: Figure 1. Biosynthetic pathway leading to antraquinone glucosides
 year: '2020'
 organisms:
-- Homo sapiens
+- Rheum palmatum
+- Embryophyta
 ndex: ''
 annotations: []
 seo: CreativeWork

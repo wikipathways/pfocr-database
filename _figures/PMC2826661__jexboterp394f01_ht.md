@@ -30,6 +30,13 @@ figtitle: Biosynthetic pathway for anthocyanins, caffeoylquinates, and other maj
   phenolic derivatives in potato tuber
 year: '2010'
 organisms:
+- Mus musculus
+- Arabidopsis thaliana
+- Glycine max
+- Solanum lycopersicum
+- Solanum melongena
+- Solanum tuberosum
+- Zea mays
 - Homo sapiens
 ndex: cd50db5a-df2a-11ea-99da-0ac135e8bacf
 annotations: []

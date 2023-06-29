@@ -20,6 +20,46 @@ filename: elife-45530-fig5-figsupp1.jpg
 figtitle: Schematic outline of the Nodal signaling pathway in vertebrates
 year: '2020'
 organisms:
+- Mus musculus
+- Ctenophora
+- Trichoplax adhaerens
+- Ecdysozoa
+- Lophotrochozoa
+- Capsaspora owczarzaki
+- Amomum maximum
+- Mesozoa
+- Mnemiopsis leidyi
+- other sequences
+- Chlorophyta
+- Opisthokonta
+- Metazoa
+- Bilateria
+- Deuterostomia
+- Chaetopterus variopedatus
+- Cucumis sativus
+- Arabidopsis thaliana
+- Amphimedon queenslandica
+- Nematostella vectensis
+- Saccharomyces cerevisiae
+- Stylophora pistillata
+- Eumetazoa
+- Hydra vulgaris
+- Caenorhabditis elegans
+- Trichinella pseudospiralis
+- Aplysia californica
+- Daphnia pulex
+- Drosophila melanogaster
+- Oncopeltus fasciatus
+- Lingula anatina
+- Paracentrotus lividus
+- Strongylocentrotus purpuratus
+- Ciona intestinalis
+- Branchiostoma lanceolatum
+- Gnathostomata
+- Danio rerio
+- Monosiga brevicollis
+- Xenopus laevis
+- Salpingoeca rosetta
 - Homo sapiens
 ndex: ''
 annotations: []

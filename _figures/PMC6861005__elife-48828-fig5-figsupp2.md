@@ -16,6 +16,9 @@ filename: elife-48828-fig5-figsupp2.jpg
 figtitle: Metabolomic profile in hTim8aMUT SH-SY5Y cells
 year: '2019'
 organisms:
+- Mus musculus
+- Saccharomyces cerevisiae
+- Neurospora crassa
 - Homo sapiens
 ndex: ''
 annotations: []

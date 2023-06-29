@@ -21,7 +21,26 @@ filename: mSystems.00651-19-f0005.jpg
 figtitle: Metabolic reconstruction of “Ca
 year: '2020'
 organisms:
-- Homo sapiens
+- Ficus racemosa
+- Geoglobus ahangari
+- uncultured archaeon
+- Eucalyptus intertexta
+- Candidatus Methanoplasma termitum
+- Desulforapulum autotrophicum HRM2
+- Methanosarcina barkeri
+- Archaeoglobus fulgidus
+- Archaeoglobus fulgidus DSM 4304
+- Methanopyrus kandleri
+- transposons
+- Candidatus Methanodesulfokores washburnensis
+- metagenome
+- integrons
+- Geobacter metallireducens
+- metagenomes
+- Ferroglobus placidus
+- Geoglobus acetivorans
+- uncultured bacterium
+- Archaeoglobus profundus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -28,7 +28,15 @@ figtitle: 'Protein Kinase CK2: Intricate Relationships within Regulatory Cellula
   Networks'
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus 1
+- Saccharomyces cerevisiae
+- Ostreococcus tauri
+- Drosophila melanogaster
+- Xenopus laevis
 - Homo sapiens
+- Bos taurus
 ndex: 301aa15d-df2f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

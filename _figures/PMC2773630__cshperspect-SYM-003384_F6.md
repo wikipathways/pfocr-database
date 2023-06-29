@@ -29,7 +29,7 @@ filename: cshperspect-SYM-003384_F6.jpg
 figtitle: Molecular interactions during pheromone induced cell polarization
 year: '2009'
 organisms:
-- Homo sapiens
+- Saccharomyces cerevisiae
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -17,6 +17,8 @@ filename: 15_076_iordanskaiaf5.jpg
 figtitle: The effects of extracellular CypA and MM284 in experimental BA
 year: '2015'
 organisms:
+- Mus musculus
+- Simian rotavirus A strain RRV
 - Homo sapiens
 ndex: 897bfb64-defc-11ea-99da-0ac135e8bacf
 annotations: []

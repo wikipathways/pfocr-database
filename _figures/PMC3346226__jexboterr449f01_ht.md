@@ -17,7 +17,12 @@ figtitle: Simplified flavonoid biosynthetic pathway showing steps specific to th
   (VvGST); genes included in expression analysis are in bold type
 year: '2012'
 organisms:
-- Homo sapiens
+- Vitis labrusca x Vitis vinifera
+- Vitis vinifera
+- Diospyros kaki
+- Arabidopsis thaliana
+- Fragaria x ananassa
+- Malus domestica
 ndex: f224eabb-df1e-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

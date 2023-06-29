@@ -16,7 +16,21 @@ figtitle: Biosynthetic pathway of poly(3-hydroxybutyrate) production within the 
   cytoplasm
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cupriavidus necator
+- Staphylococcus aureus
+- Priestia megaterium
+- Bacillus sp. in: firmicutes
+- Haloferax mediterranei
+- Streptomyces nymphaeiformis
+- Pseudomonas putida
+- Azotobacter vinelandii
+- Rhodovulum visakhapatnamense
+- Pseudomonas corrugata
+- Escherichia coli
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

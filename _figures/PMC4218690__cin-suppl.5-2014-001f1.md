@@ -23,6 +23,9 @@ filename: cin-suppl.5-2014-001f1.jpg
 figtitle: Honokiol and ionizing radiation (IR) affect Notch signaling
 year: '2014'
 organisms:
+- Danio rerio
+- Xenopus laevis
+- Magnolia officinalis
 - Homo sapiens
 ndex: 55cf2fb7-df15-11ea-99da-0ac135e8bacf
 annotations: []

@@ -37,7 +37,7 @@ filename: cshperspect-CAL-004069_F1.jpg
 figtitle: Organellar Ca2+ buffering and intracellular Ca2+ dynamics
 year: '2011'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: 5bf53b8b-dee0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

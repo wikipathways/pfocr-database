@@ -31,7 +31,26 @@ filename: cshperspect-TMR-032649_F1.jpg
 figtitle: The eukaryotic translation elongation pathway
 year: '2018'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Venezuelan equine encephalitis virus
+- West Nile virus
+- Human immunodeficiency virus 1
+- Rous sarcoma virus
+- Simian retrovirus 1
+- Encephalomyocarditis virus
+- Cricket paralysis virus
+- Enterovirus C
+- Taura syndrome virus
+- Methanocaldococcus jannaschii
+- Porcine reproductive and respiratory syndrome virus
+- Pseudomonas aeruginosa
+- Kluyveromyces lactis
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Vibrio cholerae
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

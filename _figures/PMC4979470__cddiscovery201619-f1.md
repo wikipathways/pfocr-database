@@ -25,6 +25,11 @@ filename: cddiscovery201619-f1.jpg
 figtitle: The NLRP3 inflammasome signaling pathway
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- prion
+- Candida albicans
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
 ndex: ''
 annotations: []

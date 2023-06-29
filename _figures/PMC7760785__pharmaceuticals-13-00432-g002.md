@@ -38,6 +38,13 @@ figtitle: Crosstalk between the major signaling pathway regulating autophagy and
   tumorigenesis
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Hepatitis B virus
+- Adenoviridae
+- Walsura robusta
+- Panax ginseng
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: ''
 annotations: []

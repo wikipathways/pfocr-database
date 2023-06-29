@@ -21,6 +21,18 @@ figtitle: Enteroviruses have demonstrated the capacity to escape host antiviral 
   by affecting NK cell effector response through unclear mechanisms
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus 1
+- Coxsackievirus
+- Coxsackievirus B3
+- Coxsackievirus B4
+- Foot-and-mouth disease virus
+- Enterovirus A
+- Enterovirus B
+- Enterovirus C
+- Rhinovirus A
+- Enterovirus A71
 - Homo sapiens
 ndex: ''
 annotations: []

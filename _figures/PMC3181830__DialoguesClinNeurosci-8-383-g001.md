@@ -26,7 +26,13 @@ filename: DialoguesClinNeurosci-8-383-g001.jpg
 figtitle: Schematic representation of the hypothalamic-pituitary-adrenal (HPA) axis
 year: '2006'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Phaseolus vulgaris
+- Olea europaea
+- Apis mellifera
 - Homo sapiens
+- Felis catus
 ndex: ''
 annotations: []
 seo: CreativeWork

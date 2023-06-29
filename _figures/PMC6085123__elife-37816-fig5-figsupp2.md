@@ -13,7 +13,29 @@ filename: elife-37816-fig5-figsupp2.jpg
 figtitle: NOD-like receptor signaling pathway
 year: '2018'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Dicentrarchus labrax
+- Enterococcus faecalis
+- Enterococcus gallinarum
+- feces metagenome
+- Enterobacteriaceae incertae sedis
+- Neocloeon triangulifer
+- Akkermansia muciniphila
+- metagenome
+- Sequoia sempervirens
+- Ruminococcus gnavus
+- Bacteroidales incertae sedis
+- Enterococcus casseliflavus
+- metagenomes
+- Cenchrus americanus
+- Candidatus Arthromitus sp. SFB-mouse
+- Escherichia coli
+- Cofana spectra
+- gut metagenome
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
+- Bos taurus
 ndex: 39c47486-df08-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

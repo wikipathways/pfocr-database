@@ -13,6 +13,38 @@ filename: microorganisms-08-00223-g005.jpg
 figtitle: Metabolic pathway of cypermethrin degradation of strain SG4
 year: '2020'
 organisms:
+- Bacillus sp. DG-02
+- Micrococcus sp.
+- Bacillus cereus
+- Bacillus licheniformis
+- Bacillus pumilus
+- Bacillus subtilis
+- Bacillus thuringiensis
+- enrichment cultures
+- Cupriavidus sp.
+- Streptomyces sp.
+- Streptomyces aureus
+- Brevibacterium aureum
+- Brucella lupini
+- Pseudomonas aeruginosa
+- Brevundimonas diminuta
+- Cladosporium cladosporioides
+- Ganoderma boninense
+- Brassica oleracea
+- Scopulariopsis brumptii
+- Saccharum officinarum
+- Acinetobacter baumannii
+- Pseudomonas fulva
+- Wickerhamomyces anomalus
+- Saccharomyces cerevisiae
+- Aspergillus oryzae
+- Paecilomyces niveus
+- Brucella anthropi
+- Raoultella ornithinolytica
+- Sphingobium faniae
+- Sphingobium wenxiniae
+- Stenotrophomonas sp.
+- Bacillus sp. SG2
 - Homo sapiens
 ndex: ''
 annotations: []

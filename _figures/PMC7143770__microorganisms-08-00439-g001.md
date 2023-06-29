@@ -24,7 +24,36 @@ filename: microorganisms-08-00439-g001.jpg
 figtitle: Conserved fatty acids biosynthesis pathway based on the Lb
 year: '2020'
 organisms:
-- Homo sapiens
+- Mus musculus
+- Listeria monocytogenes str. Scott A
+- Moloney murine leukemia virus
+- Enterococcus faecalis
+- Geobacillus stearothermophilus
+- Clostridium sporogenes
+- Lactobacillus acidophilus
+- Lacticaseibacillus casei
+- Lactobacillus delbrueckii subsp. bulgaricus
+- Lactobacillus helveticus
+- Lactiplantibacillus plantarum
+- Lacticaseibacillus paracasei
+- Limosilactobacillus reuteri
+- Fructilactobacillus sanfranciscensis
+- Listeria monocytogenes
+- Streptomyces coelicolor
+- Bifidobacterium longum
+- Actinidia deliciosa
+- Prunus armeniaca
+- Matthiola incana
+- Origanum vulgare
+- Daucus carota
+- Saccharomyces bayanus
+- Saccharomyces cerevisiae
+- Yarrowia lipolytica
+- Thymus vulgaris
+- Lacticaseibacillus casei BL23
+- Escherichia coli
+- Escherichia coli K-12
+- Bifidobacterium longum subsp. longum BBMN68
 ndex: ''
 annotations: []
 seo: CreativeWork

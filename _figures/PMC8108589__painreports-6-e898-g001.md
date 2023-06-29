@@ -30,6 +30,10 @@ figtitle: 'Proinflammatory pathways regulated by LRP-1: The interaction between 
   pathway'
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Schisandra chinensis
+- Chamaeleo chamaeleon
 - Homo sapiens
 ndex: ''
 annotations: []

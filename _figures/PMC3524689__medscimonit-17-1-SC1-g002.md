@@ -17,7 +17,13 @@ filename: medscimonit-17-1-SC1-g002.jpg
 figtitle: Proposed model of OGP(10-14) differentiation signalling
 year: '2011'
 organisms:
+- Rattus norvegicus
+- Raphanus sativus
 - Homo sapiens
+- Equus caballus
+- Sus scrofa
+- Bos taurus
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

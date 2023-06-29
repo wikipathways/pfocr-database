@@ -16,6 +16,30 @@ filename: Beilstein_J_Org_Chem-09-2556-g004.jpg
 figtitle: Proposed biosynthetic pathway for antimycins
 year: '2013'
 organisms:
+- uncultured actinomycete
+- Mus musculus
+- Streptomyces sp. TOR3209
+- Streptomyces hygroscopicus subsp. jinggangensis 5008
+- Streptomyces sp. LaPpAH-202
+- Streptomyces sp. CNY228
+- Streptomyces sp. 303MFCol5.2
+- Streptomyces sp. SM8
+- Streptomyces hygroscopicus subsp. jinggangensis TL01
+- Streptomyces gancidicus BKS 13-15
+- Streptomyces sp. NRRL 2288
+- Planomonospora alba
+- Streptomyces albus
+- Streptomyces coelicolor
+- Streptomyces lividans
+- Streptomyces ambofaciens ATCC 23877
+- Streptomyces albus J1074
+- Streptomyces griseoflavus Tu4000
+- Streptomyces odorifer
+- Candida albicans
+- Acromyrmex octospinosus
+- Streptomyces blastmyceticus
+- catfish
+- Microbispora corallina
 - Homo sapiens
 ndex: eadcaeec-df20-11ea-99da-0ac135e8bacf
 annotations: []

@@ -27,7 +27,15 @@ filename: pharmaceuticals-03-00994-g001.jpg
 figtitle: Type I IFN Signaling
 year: '2010'
 organisms:
+- Mus musculus
+- Vaccinia virus
+- Human immunodeficiency virus 1
+- Rauscher mink cell focus-forming virus
+- Moloney murine sarcoma virus
+- Diaporthe sclerotioides
+- Antarctothoa delta
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: 0cccf33f-df05-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

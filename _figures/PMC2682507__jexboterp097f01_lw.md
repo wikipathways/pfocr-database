@@ -17,7 +17,21 @@ filename: jexboterp097f01_lw.jpg
 figtitle: A stylized diagram of the flavonoid biosynthetic pathway
 year: '2009'
 organisms:
-- Homo sapiens
+- Petunia axillaris
+- Agrobacterium tumefaciens
+- Arabidopsis thaliana
+- Prunus persica
+- Glycine max
+- Medicago sativa
+- Narcissus pseudonarcissus
+- Solanum lycopersicum
+- Nicotiana tabacum
+- Petunia x hybrida
+- Chrysanthemum x morifolium
+- Zea mays
+- Lotus corniculatus
+- Galax urceolata
+- Quercus coccifera
 ndex: ''
 annotations: []
 seo: CreativeWork

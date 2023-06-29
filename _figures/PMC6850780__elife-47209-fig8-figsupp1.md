@@ -29,7 +29,13 @@ figtitle: Proposed mechanisms underlying the cocaine-regulated synthesis and rel
   of 2-AG in VTA
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- mouserat NG108-15
+- vectors
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

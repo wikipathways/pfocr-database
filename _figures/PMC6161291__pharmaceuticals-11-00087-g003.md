@@ -24,6 +24,12 @@ figtitle: The “heme-mitochondria” relationship and the putative heme-related
   for the therapy of neurodegenerative disorders
 year: '2018'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Feline leukemia virus
+- Subgroup C
+- Saccharomyces cerevisiae
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -27,7 +27,21 @@ figtitle: Main intracellular signalling pathways after activation of 5-HT2A-C re
   by N,N-dimethyltryptamine (DMT)
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Lophophora williamsii
+- Diplopterys cabrerana
+- Psilocybe cubensis
+- Psychotria viridis
+- Desmanthus illinoensis
+- Phalaris aquatica
+- Nicotiana tabacum
+- Peganum harmala
+- Agaricus bisporus
+- Banisteriopsis caapi
+- Saimiri
 - Homo sapiens
+- Felis catus
 ndex: ''
 annotations: []
 seo: CreativeWork

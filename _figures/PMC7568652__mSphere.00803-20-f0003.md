@@ -18,7 +18,11 @@ figtitle: CD40 pathway genes upregulated (red) or downregulated (green) by expos
   assays for 6 h exposure time
 year: '2020'
 organisms:
+- Staphylococcus aureus
+- Streptococcus pyogenes
+- Streptococcus sp. group A
 - Homo sapiens
+- Oryctolagus cuniculus
 ndex: ''
 annotations: []
 seo: CreativeWork

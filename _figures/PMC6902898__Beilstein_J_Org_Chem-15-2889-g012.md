@@ -24,7 +24,14 @@ filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
 figtitle: Engineering of terpenoid pathways
 year: '2019'
 organisms:
-- Homo sapiens
+- uncultured actinomycete
+- Streptomyces albus
+- Streptomyces coelicolor
+- Streptomyces lividans
+- Streptomyces avermitilis
+- Saccharomyces cerevisiae
+- Sorangium cellulosum
+- Escherichia coli
 ndex: ''
 annotations: []
 seo: CreativeWork

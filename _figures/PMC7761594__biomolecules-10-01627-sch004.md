@@ -15,6 +15,32 @@ figtitle: Multistep synthesis pathway leading to the formation of wyosine (imG) 
   methylwyosine (mimG) via 3-methylguanosine intermediate
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Nanoarchaeum equitans
+- Pyrobaculum calidifontis
+- Methanocaldococcus jannaschii
+- Archaeoglobus fulgidus
+- Haloferax volcanii
+- Pyrococcus furiosus
+- Pyrobaculum islandicum
+- Staphylothermus marinus
+- Sulfolobus acidocaldarius
+- Saccharolobus solfataricus
+- Tinca tinca
+- Pyrococcus abyssi
+- Thermococcus kodakarensis
+- Sulfolobus islandicus
+- Schizosaccharomyces japonicus
+- Cyberlindnera jadinii
+- Saccharomyces cerevisiae
+- Pyrococcus horikoshii
+- Pyrolobus fumarii
+- Escherichia coli
+- Aeropyrum pernix
+- Trypanosoma brucei
+- Bombyx mori
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

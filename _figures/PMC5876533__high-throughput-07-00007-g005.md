@@ -22,6 +22,12 @@ figtitle: Exemplary results of the targeted metabolomics analysis of CDF3oe plan
   relative to the wild type
 year: '2018'
 organisms:
+- environmental samples
+- Ziziphus mauritiana
+- Corynebacterium glutamicum
+- Arabidopsis thaliana
+- Solanum lycopersicum
+- Oryza sativa
 - Homo sapiens
 ndex: ''
 annotations: []

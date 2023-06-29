@@ -22,7 +22,9 @@ figtitle: Cross talk between PKA, PI3K/AKT and WNT/CTNNB1 intracellular signalin
   pathways
 year: '2008'
 organisms:
+- Mus musculus
 - Homo sapiens
+- Equus caballus
 ndex: c68c5cee-def6-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

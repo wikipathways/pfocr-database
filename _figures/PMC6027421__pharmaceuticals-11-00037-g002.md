@@ -19,7 +19,11 @@ filename: pharmaceuticals-11-00037-g002.jpg
 figtitle: Steroid biosynthetic pathway
 year: '2018'
 organisms:
+- Escherichia coli
+- teleost fish
+- Metatheria
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

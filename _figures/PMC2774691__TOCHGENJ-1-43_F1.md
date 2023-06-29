@@ -27,6 +27,8 @@ figtitle: Fluorescent assay formats used to characterize kinase inhibitors withi
   the RAF-MEK-ERK pathway
 year: '2008'
 organisms:
+- Mus musculus
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 2f521063-de92-11ea-99da-0ac135e8bacf
 annotations: []

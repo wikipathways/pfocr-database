@@ -26,6 +26,12 @@ filename: jexbotern323f01_lw.jpg
 figtitle: The flavonoid pathway in Arabidopsis
 year: '2009'
 organisms:
+- Dipturus trachyderma
+- Arabidopsis thaliana
+- Rhizobium leguminosarum bv. trifolii
+- Medicago truncatula
+- Trifolium repens
+- Lumbrineris erecta
 - Homo sapiens
 ndex: ''
 annotations: []

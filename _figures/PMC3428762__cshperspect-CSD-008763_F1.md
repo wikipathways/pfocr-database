@@ -17,6 +17,12 @@ filename: cshperspect-CSD-008763_F1.jpg
 figtitle: PI3K-Akt-mTORC1 pathway and control of autophagy
 year: '2012'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Saccharomyces cerevisiae
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Xenopus laevis
 - Homo sapiens
 ndex: 4d7cc176-dee5-11ea-99da-0ac135e8bacf
 annotations: []

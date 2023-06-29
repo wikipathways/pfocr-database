@@ -19,6 +19,9 @@ filename: pharmaceuticals-08-00675-g002.jpg
 figtitle: Mitochondrial dysfunction caused by inhibition of pyruvate transfer to mitochondria
 year: '2015'
 organisms:
+- Mus musculus
+- Lactate dehydrogenase-elevating virus
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 4316ff0d-dea2-11ea-99da-0ac135e8bacf
 annotations: []

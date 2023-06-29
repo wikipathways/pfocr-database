@@ -21,6 +21,12 @@ filename: cshperspect-CIL-028175_F1.jpg
 figtitle: The backbone of the Hedgehog (Hh) signal transduction pathway
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- unidentified
+- Drosophila melanogaster
+- Danio rerio
+- Gallus gallus
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -22,6 +22,15 @@ figtitle: Overview of the likely epigenetic interactions in the paqr-2 pathway b
   on published work prior to the present study
 year: '2019'
 organisms:
+- Cricetulus griseus
+- Mus musculus
+- Rattus norvegicus
+- Matthiola incana
+- Candida dubliniensis
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Caenorhabditis elegans
+- Escherichia coli HT115
 - Homo sapiens
 ndex: ''
 annotations: []

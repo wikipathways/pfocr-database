@@ -17,7 +17,34 @@ filename: jexboterp218f01_lw.jpg
 figtitle: Carotenoid biosynthetic pathway in plants
 year: '2009'
 organisms:
-- Homo sapiens
+- Mus musculus
+- Prunus mume
+- Corynephage beta
+- Synechococcus sp.
+- Citrus aurantiifolia
+- Actinidia macrosperma
+- Actinidia melanandra
+- Citrullus lanatus subsp. vulgaris
+- Synechococcus elongatus PCC 6301
+- Citrus sinensis
+- Actinidia melanandra var. melanandra
+- Mangifera indica
+- Lotus japonicus
+- Actinidia chinensis
+- Actinidia deliciosa
+- Carica papaya
+- Arabidopsis thaliana
+- Prunus domestica
+- Narcissus pseudonarcissus
+- Daucus carota
+- Solanum lycopersicum
+- Solanum tuberosum
+- Oryza sativa
+- Triticum aestivum
+- Zea mays
+- Pantoea ananatis
+- Escherichia coli
+- Sandersonia aurantiaca
 ndex: ''
 annotations: []
 seo: CreativeWork

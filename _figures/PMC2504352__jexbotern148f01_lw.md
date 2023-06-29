@@ -23,7 +23,8 @@ figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and th
   monoligols
 year: '2008'
 organisms:
-- Homo sapiens
+- Arabidopsis thaliana
+- Zea mays
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -27,7 +27,7 @@ filename: cshperspect-AXN-001941_F2.jpg
 figtitle: Regulation of receptor activation and signaling by proteolytic processing
 year: '2010'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

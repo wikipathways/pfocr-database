@@ -31,7 +31,14 @@ filename: medscimonit-17-2-RA44-g001.jpg
 figtitle: Schematic diagram represents the ischemic preconditioning pathway in cardiomyocytes
 year: '2011'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Gallus gallus
 - Homo sapiens
+- Canis lupus familiaris
+- Sus scrofa
+- Oryctolagus cuniculus
 ndex: 7265ac74-df13-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

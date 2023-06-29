@@ -22,6 +22,7 @@ figtitle: Schematic model for MMP24 expression promoted by extracellular matrix 
   stiffening
 year: '2020'
 organisms:
+- Colocasia esculenta
 - Homo sapiens
 ndex: ''
 annotations: []

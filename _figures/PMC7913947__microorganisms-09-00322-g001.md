@@ -20,6 +20,11 @@ filename: microorganisms-09-00322-g001.jpg
 figtitle: The kynurenine pathway
 year: '2021'
 organisms:
+- Mus musculus
+- Human alphaherpesvirus 1
+- Human alphaherpesvirus 3
+- Mycobacterium tuberculosis variant bovis BCG str. Sweden
+- Borreliella burgdorferi
 - Homo sapiens
 ndex: ''
 annotations: []

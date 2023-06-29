@@ -29,6 +29,7 @@ figtitle: Host cell apoptosis pathways are classified into two main categoriesâ€
   and intrinsic pathways
 year: '2014'
 organisms:
+- Mycobacterium tuberculosis
 - Homo sapiens
 ndex: 4d07a72c-df0c-11ea-99da-0ac135e8bacf
 annotations: []

@@ -17,6 +17,8 @@ figtitle: 'Pathway in MAS and differentially expressed genes: as shown in Figure
   IGSF4, PTPRC (CD45) and CD3D belong to a family of cell surface adhesion molecules'
 year: '2012'
 organisms:
+- Mus musculus
+- Meleagris gallopavo
 - Homo sapiens
 ndex: 0f3dd772-df20-11ea-99da-0ac135e8bacf
 annotations: []

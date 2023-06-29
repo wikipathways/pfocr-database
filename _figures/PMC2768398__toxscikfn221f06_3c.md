@@ -17,7 +17,7 @@ figtitle: Cd-induced alterations within the ingenuity canonical p53-signaling pa
   in C57BL/6J and SWV embryos
 year: '2009'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

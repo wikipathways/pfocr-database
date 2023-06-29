@@ -17,6 +17,12 @@ filename: elife-00378-fig1-figsupp3.jpg
 figtitle: Schematic model of LIN-12/Notch signaling pathway
 year: '2013'
 organisms:
+- Mus musculus
+- Escherichia coli IS5
+- Escherichia coli
+- Caenorhabditis elegans
+- Escherichia coli OP50
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

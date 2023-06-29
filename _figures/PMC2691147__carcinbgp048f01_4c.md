@@ -20,6 +20,7 @@ filename: carcinbgp048f01_4c.jpg
 figtitle: Hh signalling—a simplified model
 year: '2009'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: 086ca07f-dea8-11ea-99da-0ac135e8bacf
 annotations: []

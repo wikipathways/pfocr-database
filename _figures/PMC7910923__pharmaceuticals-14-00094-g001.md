@@ -21,6 +21,8 @@ filename: pharmaceuticals-14-00094-g001.jpg
 figtitle: Metabolic pathway of Oestradiol
 year: '2021'
 organisms:
+- Dorcatragus megalotis
+- Aklioshbomyces papillarum
 - Homo sapiens
 ndex: ''
 annotations: []

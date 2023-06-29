@@ -19,6 +19,11 @@ filename: pbio.0020276.g002.jpg
 figtitle: 'Innate Immunity in Fruit Flies: A Textbook Example of Genomic Recycling'
 year: '2004'
 organisms:
+- Mus musculus
+- Alocasia macrorrhizos
+- Caenorhabditis elegans
+- Anopheles gambiae
+- Drosophila melanogaster
 - Homo sapiens
 ndex: cddb756d-df0a-11ea-99da-0ac135e8bacf
 annotations: []

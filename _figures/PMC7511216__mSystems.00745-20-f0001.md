@@ -24,7 +24,27 @@ figtitle: Alternative assimilation pathways of d-arabitol with an example of the
   and expected labeling of Rib5P
 year: '2020'
 organisms:
-- Homo sapiens
+- Escherichia phage T7
+- Bacillus subtilis
+- Bacillus methanolicus
+- enrichment culture
+- Corynebacterium glutamicum
+- Methylorubrum extorquens AM1
+- Escherichia coli Nissle 1917
+- Enterococcus avium
+- Rickettsia slovaca
+- Bacteriophage sp.
+- Escherichia coli BL21DE3
+- Saccharomyces cerevisiae
+- Aspergillus niger
+- Penicillium chrysogenum
+- Klebsiella aerogenes
+- Escherichia coli
+- Escherichia coli DH5alpha
+- Bacillus methanolicus MGA3
+- Halalkalibacterium halodurans
+- Methylotuvimicrobium buryatense
+- Bacillus methanolicus PB1
 ndex: ''
 annotations: []
 seo: CreativeWork

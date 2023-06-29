@@ -16,6 +16,7 @@ filename: carcinbgq156f01_lw.jpg
 figtitle: The estrogen biosynthesis pathway
 year: '2010'
 organisms:
+- Nicotiana tabacum
 - Homo sapiens
 ndex: ''
 annotations: []

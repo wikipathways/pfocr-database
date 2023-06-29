@@ -20,6 +20,21 @@ figtitle: Differentially expressed genes (DEGs) involved in major metabolic path
   during development from the mature spore to the sporoplasm
 year: '2020'
 organisms:
+- Pyrus communis
+- Paranosema locustae
+- Ithyoclinostomum yamagutii
+- Antonospora locustae
+- Nosema bombycis
+- Enterocytozoon bieneusi
+- Vairimorpha apis
+- Nosema sp.
+- Spraguea lophii
+- Nosema bombycis CQ1
+- Encephalitozoon cuniculi
+- Vairimorpha necatrix
+- Bombyx mori
+- Anncaliia algerae
+- Trachipleistophora hominis
 - Homo sapiens
 ndex: ''
 annotations: []

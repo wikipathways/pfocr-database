@@ -34,6 +34,16 @@ figtitle: 'Current hypotheses for IFNGamma-mediated effect on NSPC activity.Note
   1 and 2 and signal transducers and activators of transcription-1 (JAK-STAT1) pathway'
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human alphaherpesvirus 1
+- Human betaherpesvirus 5
+- Murid betaherpesvirus 1
+- Sindbis virus
+- Venezuelan equine encephalitis virus
+- Japanese encephalitis virus
+- Measles morbillivirus
+- Zika virus
 - Homo sapiens
 ndex: 678ff52d-dea1-11ea-99da-0ac135e8bacf
 annotations: []

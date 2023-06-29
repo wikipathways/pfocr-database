@@ -38,7 +38,36 @@ filename: mSphere.00675-20-f0004.jpg
 figtitle: Carbon metabolism in the plastids of E
 year: '2020'
 organisms:
-- Homo sapiens
+- Synechocystis sp.
+- Rhabdomonas costata
+- Helicosporidium sp. ATCC 50920
+- Streptococcus pyogenes
+- Cuscuta campestris
+- Nitzschia sp. NIES-3581
+- Crypthecodinium cohnii
+- Cryptomonas paramecium
+- Euglena longa
+- Euglena gracilis
+- Chlorophyta
+- Chlamydomonas reinhardtii
+- Perkinsus marinus
+- Embryophyta
+- unidentified
+- Alveolata
+- Stramenopiles
+- prasinophyte incertae sedis
+- Arabidopsis thaliana
+- Brassica napus
+- Pteridomonas danica
+- Ciliophrys infusionum
+- Oryza sativa
+- Chromera velia
+- Escherichia coli
+- PX clade
+- Toxoplasma gondii
+- Plasmodium falciparum
+- Paramecium aurelia
+- Pfiesteria piscicida
 ndex: ''
 annotations: []
 seo: CreativeWork

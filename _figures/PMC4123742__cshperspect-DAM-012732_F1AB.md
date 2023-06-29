@@ -41,6 +41,20 @@ figtitle: Advances in Understanding the Complex Mechanisms of DNA Interstrand Cr
   Repair
 year: '2013'
 organisms:
+- Mus musculus
+- Haloferax volcanii
+- Calloplesiops altivelis
+- synthetic construct
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Schizosaccharomyces pombe
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Caenorhabditis elegans
+- Bombyx mori
+- Drosophila melanogaster
+- Xenopus laevis
+- Gallus gallus
 - Homo sapiens
 ndex: c5b4c728-df09-11ea-99da-0ac135e8bacf
 annotations: []

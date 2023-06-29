@@ -33,6 +33,21 @@ figtitle: Differentially regulated metabolic fluxes and metabolites in gluconeog
   (D), and respiratory chain (E) under 2-mg/liter colistin treatment for 1 h
 year: '2019'
 organisms:
+- Mus musculus
+- Acinetobacter baumannii AB5075
+- Non-A non-B hepatitis virus
+- Staphylococcus aureus
+- Mycobacterium tuberculosis
+- metagenome
+- Pseudomonas aeruginosa
+- Acinetobacter baumannii
+- Acinetobacter baumannii MDR-ZJ06
+- Acinetobacter baumannii AYE
+- Klebsiella pneumoniae
+- Acinetobacter baumannii ATCC 19606  CIP 70.34  JCM 6841
+- Plasmodium falciparum
+- Acinetobacter baylyi ADP1
+- Vibrio vulnificus
 - Homo sapiens
 ndex: ''
 annotations: []

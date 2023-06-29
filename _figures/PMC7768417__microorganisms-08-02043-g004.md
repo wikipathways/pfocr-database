@@ -45,6 +45,23 @@ filename: microorganisms-08-02043-g004.jpg
 figtitle: Proposed model for observed BNF activity in L
 year: '2020'
 organisms:
+- Streptococcus pneumoniae
+- Enterococcus faecalis
+- Lactococcus lactis
+- Lactococcus cremoris
+- Bacillus subtilis
+- Campylobacter jejuni
+- metagenome
+- Lactococcus cremoris subsp. cremoris SK11
+- Lactococcus lactis subsp. lactis Il1403
+- Salmonella enterica
+- Lactococcus sp.
+- Triticum turgidum subsp. durum
+- Zea mays
+- Escherichia coli
+- Aeromonas hydrophila
+- Lactococcus lactis subsp. lactis KF147
+- Oreochromis niloticus
 - Homo sapiens
 ndex: ''
 annotations: []

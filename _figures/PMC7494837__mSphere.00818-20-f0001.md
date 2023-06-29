@@ -17,6 +17,19 @@ figtitle: Two branches of Snl1 and Sho1 which are responsible for the activation
   the S
 year: '2020'
 organisms:
+- Paracoccidioides brasiliensis
+- Aspergillus fumigatus CEA17
+- Aspergillus nidulans
+- Verticillium dahliae
+- Solanum lycopersicum
+- Saccharomyces cerevisiae
+- Penicillium chrysogenum
+- Cryptococcus neoformans
+- Ustilago maydis
+- Candida albicans
+- Fusarium oxysporum
+- Galleria mellonella
+- Aspergillus fumigatus
 - Homo sapiens
 ndex: ''
 annotations: []

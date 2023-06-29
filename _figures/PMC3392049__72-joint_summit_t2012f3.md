@@ -16,6 +16,7 @@ filename: 72-joint_summit_t2012f3.jpg
 figtitle: An example pathway
 year: '2012'
 organisms:
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: c82dec05-df28-11ea-99da-0ac135e8bacf
 annotations: []

@@ -14,6 +14,7 @@ filename: cshperspect-WNT-008052_F1.jpg
 figtitle: Tumor suppressors and oncogenes in the Wnt pathway
 year: '2012'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: abd18555-df0f-11ea-99da-0ac135e8bacf
 annotations: []

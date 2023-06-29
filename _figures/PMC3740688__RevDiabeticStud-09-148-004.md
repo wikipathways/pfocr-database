@@ -25,6 +25,7 @@ figtitle: 'Pathogenic Mechanisms in Type 1 Diabetes: The Islet is Both Target an
   Driver of Disease'
 year: '2012'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: 75dcf899-dea4-11ea-99da-0ac135e8bacf
 annotations: []

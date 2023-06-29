@@ -22,6 +22,8 @@ figtitle: Proposed mechanisms of endothelial dysregulation via Plasmodium falcip
   cytoadherence
 year: '2020'
 organisms:
+- Candida dubliniensis
+- Plasmodium falciparum
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -32,6 +32,12 @@ filename: cshperspect-CIL-028175_F3.jpg
 figtitle: Hedgehog (Hh) signal transduction in the primary cilium
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- unidentified
+- Drosophila melanogaster
+- Danio rerio
+- Gallus gallus
 - Homo sapiens
 ndex: 88793187-decc-11ea-99da-0ac135e8bacf
 annotations: []

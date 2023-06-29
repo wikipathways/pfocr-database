@@ -22,6 +22,11 @@ filename: cddiscovery201771-f2.jpg
 figtitle: Molecular pathways regulated by ZNFs in physiological conditions
 year: '2017'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus
+- Cyprinus carpio
+- Xenopus laevis
 - Homo sapiens
 ndex: d17894e9-dea2-11ea-99da-0ac135e8bacf
 annotations: []

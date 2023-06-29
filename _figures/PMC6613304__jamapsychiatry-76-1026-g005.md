@@ -32,6 +32,7 @@ filename: jamapsychiatry-76-1026-g005.jpg
 figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
 year: '2019'
 organisms:
+- Danio rerio
 - Homo sapiens
 ndex: ''
 annotations: []

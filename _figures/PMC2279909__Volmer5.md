@@ -13,7 +13,7 @@ filename: Volmer5.jpg
 figtitle: Metabolic pathway for lactose degradation
 year: '2003'
 organisms:
-- Homo sapiens
+- Escherichia coli
 ndex: ''
 annotations: []
 seo: CreativeWork

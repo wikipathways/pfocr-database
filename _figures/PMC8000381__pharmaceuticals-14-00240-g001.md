@@ -21,6 +21,8 @@ figtitle: Alternate use of B2R and B1R in cardioprotection in non-diabetic and d
   mice, respectively, during cardiac ischemia-reperfusion
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -22,7 +22,22 @@ figtitle: The effects of thiamin biosynthetic pathway knockouts on expression of
   thiS riboswitch-reporter construct
 year: '2019'
 organisms:
-- Homo sapiens
+- bacterium NOTE
+- Bacillus subtilis At2
+- Clostridium lundense DSM 17049
+- Bacillus subtilis
+- Escherichia coli IS1
+- Clostridioides difficile
+- Clostridium sp.
+- Candidatus Pelagibacter ubique
+- Bacillus subtilis subsp. subtilis str. 168
+- Clostridium lundense
+- synthetic construct
+- unidentified shuttle vector
+- Escherichia coli BL21DE3
+- Escherichia coli
+- Salmonella enterica subsp. enterica serovar Typhimurium
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

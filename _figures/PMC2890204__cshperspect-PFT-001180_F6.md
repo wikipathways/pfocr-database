@@ -18,7 +18,7 @@ figtitle: Existence of two branches in the p53 pathway allows pharmacological di
   of different p53 activities
 year: '2010'
 organisms:
-- Homo sapiens
+- Mus musculus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -61,7 +61,30 @@ figtitle: Immune response, immunopathology, and mechanism of action of immunothe
   for SARS-CoV-2 infection (intracellular)
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Vaccinia virus
+- Hepatitis B virus
+- Coronaviridae
+- Human coronavirus 229E
+- unidentified influenza virus
+- H1N1 subtype
+- Coxsackievirus
+- Respiratory syncytial virus
+- Middle East respiratory syndrome-related coronavirus
+- Human adenovirus sp.
+- Ebola virus sp.
+- Severe acute respiratory syndrome coronavirus 2
+- H7N9 subtype
+- Human gammaherpesvirus 8
+- ssRNA viruses
+- Leishmania donovani
+- Betacoronavirus
+- Severe acute respiratory syndrome-related coronavirus
 - Homo sapiens
+- Canis lupus familiaris
+- Mustela putorius furo
+- Manis javanica
 ndex: ''
 annotations: []
 seo: CreativeWork

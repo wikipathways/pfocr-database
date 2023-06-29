@@ -21,7 +21,20 @@ figtitle: Simplified scheme of the astaxanthin biosynthetic pathway from endogen
   heterologous expression of Brevundimonas CrtW and CrtZ
 year: '2019'
 organisms:
-- Homo sapiens
+- Corynephage beta
+- Erebia epipsodea
+- Synechococcus sp.
+- Synechococcus elongatus PCC 7942  FACHB-805
+- Synechocystis sp.
+- Synechocystis sp. PCC 6803
+- Prunus persica
+- Nicotiana tabacum
+- Haematococcus lacustris
+- unidentified shuttle vector
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Escherichia coli DH5alpha
+- Elephas maximus
 ndex: ''
 annotations: []
 seo: CreativeWork

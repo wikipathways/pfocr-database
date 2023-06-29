@@ -28,6 +28,9 @@ filename: cshperspect-CIL-028225_F2.jpg
 figtitle: Signaling pathway in sea urchin sperm
 year: '2017'
 organisms:
+- Mus musculus
+- Paracentrotus lividus
+- Danio rerio
 - Homo sapiens
 ndex: 767da899-dea8-11ea-99da-0ac135e8bacf
 annotations: []

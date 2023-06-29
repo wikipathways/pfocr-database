@@ -19,6 +19,14 @@ filename: cshperspect-CSD-008797_F1.jpg
 figtitle: Apoptosis pathway in Drosophila
 year: '2012'
 organisms:
+- Mus musculus
+- Dipturus trachyderma
+- unidentified
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Danio rerio
+- Notophthalmus viridescens
+- Xenopus laevis
 - Homo sapiens
 ndex: 2db7285d-dee0-11ea-99da-0ac135e8bacf
 annotations: []

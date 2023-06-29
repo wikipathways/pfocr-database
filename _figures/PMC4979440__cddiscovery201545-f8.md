@@ -19,7 +19,15 @@ figtitle: Role of EtOH-mediated cytotoxicity and neuroinflammation in context to
   via cPLA2signaling in human astrocytes
 year: '2015'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus 1
+- Simian immunodeficiency virus
+- Armoracia rusticana
+- Gallus gallus
 - Homo sapiens
+- Capra hircus
+- Oryctolagus cuniculus
 ndex: eb10ecc2-ded0-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

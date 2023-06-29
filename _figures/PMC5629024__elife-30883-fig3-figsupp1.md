@@ -18,7 +18,14 @@ filename: elife-30883-fig3-figsupp1.jpg
 figtitle: Gene networks with the genes in core from GSEA analysis
 year: '2017'
 organisms:
+- Mus musculus
+- Diaporthe sclerotioides
+- Listeria monocytogenes
+- Mycobacterium tuberculosis
+- Leishmania major
+- Trypanosoma cruzi
 - Homo sapiens
+- Bos taurus
 ndex: 20c61d17-df30-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

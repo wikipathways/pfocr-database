@@ -1,7 +1,9 @@
 ---
 common: Camellia sinensis
 latin: Camellia sinensis
-ncbi: 
-title: Camellia sinensis pathways
-group: "Plants"
+ncbi: '4442'
+title: Camellia sinensis
+group: Plants and Fungi
+image: http://www.ncbi.nlm.nih.gov/Taxonomy/taxi/images/4240
+
 ---

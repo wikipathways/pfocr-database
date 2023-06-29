@@ -20,6 +20,9 @@ filename: elife-11612-fig7-figsupp1.jpg
 figtitle: Working models
 year: '2016'
 organisms:
+- Mus musculus
+- Candida dubliniensis
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 7901f49f-df20-11ea-99da-0ac135e8bacf
 annotations: []

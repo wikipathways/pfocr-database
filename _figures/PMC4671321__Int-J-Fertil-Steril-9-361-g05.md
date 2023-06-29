@@ -18,7 +18,12 @@ figtitle: Predicted model for the action of GSK3B in buffalo embryonic stem ( ES
   cells
 year: '2015'
 organisms:
+- Mus musculus
+- Moloney murine leukemia virus
+- Escherichia coli
+- Bubalus bubalis
 - Homo sapiens
+- Bos taurus
 ndex: ff977436-ded4-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

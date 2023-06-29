@@ -19,6 +19,16 @@ filename: elife-51605-fig4-figsupp2.jpg
 figtitle: Reaction mechanisms for the APE1 and NEIL2-PNKP pathways
 year: '2020'
 organisms:
+- Mus musculus
+- Human immunodeficiency virus 1
+- Papaya ringspot virus
+- vectors
+- Shuttle vector pSP189
+- Morchella esculenta
+- unidentified shuttle vector
+- Saccharomyces cerevisiae
+- Campanula medium
+- Escherichia coli
 - Homo sapiens
 ndex: ''
 annotations: []

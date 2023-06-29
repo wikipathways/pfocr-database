@@ -19,6 +19,7 @@ filename: radiol.2017161845.fig3a.jpg
 figtitle: Association of the activity of metagene 19 with two distinct image phenotypes
 year: ''
 organisms:
+- Rattus norvegicus
 - Homo sapiens
 ndex: ''
 annotations: []

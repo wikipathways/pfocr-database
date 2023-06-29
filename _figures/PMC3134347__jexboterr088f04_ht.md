@@ -18,7 +18,14 @@ figtitle: A pathway description of the differentially expressed starch metabolis
   genes and their ratios between superior and inferior spikelets at 9 DPA
 year: '2011'
 organisms:
-- Homo sapiens
+- Glycine max
+- Oryza sativa Indica Group
+- Oryza sativa Japonica Group
+- Solanum lycopersicum
+- Oryza sativa
+- Sorghum bicolor
+- Triticum aestivum
+- Zea mays
 ndex: ''
 annotations: []
 seo: CreativeWork

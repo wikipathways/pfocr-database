@@ -25,6 +25,10 @@ filename: pbio.0020311.g003.jpg
 figtitle: Hormonal Regulation of Plant Growth and Development
 year: '2004'
 organisms:
+- Arabidopsis thaliana
+- Oryza sativa
+- Triticum aestivum
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 75d26bfd-deb6-11ea-99da-0ac135e8bacf
 annotations: []

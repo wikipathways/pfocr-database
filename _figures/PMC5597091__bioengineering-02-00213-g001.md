@@ -21,7 +21,17 @@ filename: bioengineering-02-00213-g001.jpg
 figtitle: Schematic outline of the experimental approach used in this study (A)
 year: '2015'
 organisms:
+- Cricetulus griseus
+- Mus musculus
+- Rattus norvegicus
+- Pseudomonas aeruginosa
+- Dryas iulia
+- Armoracia rusticana
+- Triportheus paranensis
+- Aleuria aurantia
 - Homo sapiens
+- Bos taurus
+- Ovis aries
 ndex: c702ae14-df2f-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

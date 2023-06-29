@@ -25,7 +25,20 @@ figtitle: Changes of the Proteome and Acetylome during Transition into the Stati
   Phase in the Organohalide-Respiring Dehalococcoides mccartyi Strain CBDB1
 year: '2021'
 organisms:
-- Homo sapiens
+- mixed culture
+- Borreliella burgdorferi
+- Clostridium acetobutylicum
+- enrichment cultures
+- Mycobacterium tuberculosis
+- Sulfurospirillum halorespirans
+- Borreliella burgdorferi B31
+- Dehalococcoides mccartyi CBDB1
+- metagenome
+- Salmonella enterica
+- Phascolarctos cinereus
+- Escherichia coli
+- Dehalococcoides mccartyi
+- Sulfurospirillum multivorans
 ndex: ''
 annotations: []
 seo: CreativeWork

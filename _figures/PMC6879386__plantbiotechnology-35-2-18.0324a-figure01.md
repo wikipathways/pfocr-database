@@ -14,7 +14,9 @@ figtitle: Identification and characterization of a novel sesquiterpene synthase,
   synthase, from Artemisia maritima
 year: '2018'
 organisms:
-- Homo sapiens
+- Artemisia annua
+- Saccharomyces cerevisiae
+- Artemisia maritima
 ndex: ''
 annotations: []
 seo: CreativeWork

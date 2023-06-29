@@ -33,6 +33,16 @@ figtitle: Summarized interconnection between PC synthesis, trans-sulfuration pat
   folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis
 year: '2021'
 organisms:
+- Agriosomyces longus
+- Venustaconcha ellipsiformis
+- Leishmania chagasi
+- Leishmania amazonensis
+- Leishmania braziliensis
+- Leishmania donovani
+- Leishmania tropica
+- Leishmania infantum
+- Leishmania panamensis
+- Plasmodium falciparum
 - Homo sapiens
 ndex: ''
 annotations: []

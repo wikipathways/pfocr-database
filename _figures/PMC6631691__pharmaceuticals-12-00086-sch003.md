@@ -17,7 +17,15 @@ figtitle: Recent Developments in Peptidyl Diaryl Phoshonates as Inhibitors and A
   Probes for Serine Proteases
 year: '2019'
 organisms:
+- West Nile virus
+- Staphylococcus aureus
+- Pseudomonas aeruginosa
+- Escherichia coli
+- Kobus kob
+- Zika virus
+- Chlamydia trachomatis
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

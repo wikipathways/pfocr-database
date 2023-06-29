@@ -20,7 +20,10 @@ figtitle: Model depicting stress-induced mutagenesis leading to the emergence of
   prototrophic suppressor mutants
 year: '2021'
 organisms:
-- Homo sapiens
+- Escherichia coli str. K-12 substr. W3110
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Escherichia coli K-12
 ndex: ''
 annotations: []
 seo: CreativeWork

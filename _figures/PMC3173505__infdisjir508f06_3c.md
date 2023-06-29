@@ -24,6 +24,8 @@ filename: infdisjir508f06_3c.jpg
 figtitle: Pathways involved in protein turnover
 year: '2011'
 organisms:
+- Simian immunodeficiency virus
+- Macaca mulatta
 - Homo sapiens
 ndex: ''
 annotations: []

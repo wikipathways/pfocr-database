@@ -16,7 +16,12 @@ filename: jexbotern157f02_ht.jpg
 figtitle: The central metabolic pathway of Synechocystis sp
 year: '2008'
 organisms:
-- Homo sapiens
+- Synechococcus elongatus PCC 7942  FACHB-805
+- Synechocystis sp. PCC 6803
+- Bacillus subtilis At2
+- Bacillus subtilis
+- Arabidopsis thaliana
+- Oryza sativa
 ndex: ''
 annotations: []
 seo: CreativeWork

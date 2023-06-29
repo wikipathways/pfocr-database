@@ -50,6 +50,19 @@ filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
 figtitle: Rewiring cellular networks by members of the Flaviviridae family
 year: '2018'
 organisms:
+- Mus musculus
+- Dengue virus type 2
+- Japanese encephalitis virus
+- West Nile virus
+- Tick-borne encephalitis virus
+- Yellow fever virus
+- Coronaviridae
+- Flock House virus
+- Dengue virus
+- Hepatitis C virus genotype 2
+- Oryza sativa
+- Zika virus
+- Aedes aegypti
 - Homo sapiens
 ndex: ''
 annotations: []

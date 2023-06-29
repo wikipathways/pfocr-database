@@ -13,6 +13,9 @@ filename: pharmaceuticals-03-01530-g002.jpg
 figtitle: A simplified diagram of the inflammatory pathway and its mediators
 year: '2010'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
 - Homo sapiens
 ndex: ''
 annotations: []

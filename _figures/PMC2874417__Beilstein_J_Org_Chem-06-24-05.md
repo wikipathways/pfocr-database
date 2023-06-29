@@ -20,6 +20,7 @@ figtitle: Metabolic pathway of Ac4GlcNAz and the genetic control of Neu5Ac 1 syn
 year: '2010'
 organisms:
 - Homo sapiens
+- Bos taurus
 ndex: ''
 annotations: []
 seo: CreativeWork

@@ -31,6 +31,31 @@ figtitle: Exemplary metabolic sketch of BSC Rubrobacteraceae species based on th
   most abundant MAG
 year: '2021'
 organisms:
+- uncultured Planctomycetota bacterium
+- Microvirga vignae
+- Deinococcus radiodurans
+- Rubrobacter calidifluminis
+- Rubrobacter naiadicus
+- Rubrobacter taiwanensis
+- Actinomycetia bacterium
+- Streptomyces coelicolor
+- Epirrhoe alternata
+- Rubrobacter indicoceani
+- metagenome
+- Bryophyta
+- Gluconacetobacter diazotrophicus
+- Myxococcus xanthus
+- Matthiola incana
+- Vigna unguiculata
+- metagenomes
+- Rubrobacter radiotolerans
+- human oral metagenome
+- Rubrobacter xylanophilus
+- phototrophic bacterium
+- Escherichia coli
+- Erythrina poeppigiana
+- uncultured bacterium
+- Rubrobacter aplysinae
 - Homo sapiens
 ndex: ''
 annotations: []

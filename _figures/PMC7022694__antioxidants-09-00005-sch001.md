@@ -13,6 +13,8 @@ filename: antioxidants-09-00005-sch001.jpg
 figtitle: Synthesis pathway for functionalized nanoparticles 1A and 1B
 year: '2020'
 organisms:
+- Rattus norvegicus
+- Thymus vulgaris
 - Homo sapiens
 ndex: ''
 annotations: []

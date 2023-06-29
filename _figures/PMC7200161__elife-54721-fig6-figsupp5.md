@@ -15,6 +15,9 @@ figtitle: Schematic model for possible signaling pathway related to the role of 
   in mediating BAT responses to nutrient stress
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Armoracia rusticana
 - Homo sapiens
 ndex: ''
 annotations: []

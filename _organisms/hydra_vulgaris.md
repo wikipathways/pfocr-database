@@ -1,7 +1,9 @@
 ---
 common: Hydra vulgaris
 latin: Hydra vulgaris
-ncbi: 
-title: Hydra vulgaris pathways
-group: "Invertebrates"
+ncbi: '6087'
+title: Hydra vulgaris
+group: Invertebrates
+image: http://www.ncbi.nlm.nih.gov/Taxonomy/taxi/images/4184
+
 ---

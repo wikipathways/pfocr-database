@@ -17,6 +17,21 @@ figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the I
   in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid
 year: '2010'
 organisms:
+- Middle East respiratory syndrome-related coronavirus
+- Escherichia coli 85B
+- Pseudomonas syringae
+- Pseudomonas syringae pv. tomato
+- Arabidopsis thaliana
+- Brassica napus
+- Cicer arietinum
+- Phyllotreta nemorum
+- Vigna angularis
+- Solanum lycopersicum
+- Helianthus annuus
+- Komagataella pastoris
+- Saccharomyces cerevisiae
+- Barbarea vulgaris
+- Escherichia coli
 - Homo sapiens
 ndex: ''
 annotations: []

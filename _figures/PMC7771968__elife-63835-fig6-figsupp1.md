@@ -15,6 +15,9 @@ filename: elife-63835-fig6-figsupp1.jpg
 figtitle: Purine catabolism pathway
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Escherichia coli
 - Homo sapiens
 ndex: ''
 annotations: []

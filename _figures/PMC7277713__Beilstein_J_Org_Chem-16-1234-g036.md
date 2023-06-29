@@ -14,7 +14,8 @@ figtitle: Possible pathway of one-pot oxidative cyclization of Alpha-halogenated
   and 1,3-dicarbonyl compounds
 year: '2020'
 organisms:
-- Homo sapiens
+- Armoracia rusticana
+- Cellulosimicrobium sp. 3-H
 ndex: ''
 annotations: []
 seo: CreativeWork

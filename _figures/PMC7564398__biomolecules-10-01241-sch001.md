@@ -22,6 +22,10 @@ figtitle: A high-fat diet (HFD) and chronic cannabidiol (CBD) administration on 
   sphingolipid metabolic pathway in rat myocytes
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cannabis sativa
+- Armoracia rusticana
 - Homo sapiens
 ndex: ''
 annotations: []

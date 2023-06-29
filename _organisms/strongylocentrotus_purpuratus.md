@@ -1,7 +1,9 @@
 ---
 common: Strongylocentrotus purpuratus
 latin: Strongylocentrotus purpuratus
-ncbi: 
-title: Strongylocentrotus purpuratus pathways
-group: "Invertebrates"
+ncbi: '7668'
+title: Strongylocentrotus purpuratus
+group: Invertebrates
+image: http://www.ncbi.nlm.nih.gov/Taxonomy/taxi/images/2825
+
 ---

@@ -15,6 +15,7 @@ figtitle: 'Top overlapped pathways for non-users (top) and users (bottom) of ora
   contraceptives.Notes: Hexagon shaped are genes'
 year: '2014'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: 197645c6-df15-11ea-99da-0ac135e8bacf
 annotations: []

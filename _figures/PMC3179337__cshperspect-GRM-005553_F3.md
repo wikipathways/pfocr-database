@@ -39,7 +39,8 @@ figtitle: Gap junctional communication between the oocyte and the surrounding so
   cells regulates oocyte meiotic maturation
 year: '2011'
 organisms:
-- Homo sapiens
+- Caenorhabditis elegans
+- Drosophila melanogaster
 ndex: dff205c7-dea2-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

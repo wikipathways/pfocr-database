@@ -28,6 +28,8 @@ filename: pharmaceuticals-06-00915-g002.jpg
 figtitle: Platelet activation, aggregation and fibrin formation
 year: '2013'
 organisms:
+- Mus musculus
+- Cavia porcellus
 - Homo sapiens
 ndex: ''
 annotations: []

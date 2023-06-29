@@ -24,7 +24,12 @@ filename: pharmaceuticals-14-00175-g003.jpg
 figtitle: AT2R-mediated intracellular signaling pathways involved in neuronal cells
 year: '2021'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Prevotella sp.
 - Homo sapiens
+- Sus scrofa
+- Ovis aries
 ndex: ''
 annotations: []
 seo: CreativeWork

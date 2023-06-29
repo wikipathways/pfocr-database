@@ -17,6 +17,25 @@ filename: mSystems.00451-19-f0002.jpg
 figtitle: Mouse gene expression affected by biofilm status
 year: '2020'
 organisms:
+- Mus musculus
+- Bacillus subtilis
+- Clostridioides difficile
+- Clostridium perfringens
+- Clostridium innocuum
+- Thomasclavelia ramosa
+- Campylobacter jejuni
+- metagenome
+- Salmonella enterica
+- Amedibacillus dolichus
+- metagenomes
+- Streptococcus gallolyticus subsp. gallolyticus
+- Escherichia coli
+- human metagenome
+- gut metagenome
+- Bacteroides fragilis
+- Phocaeicola vulgatus
+- Fusobacterium nucleatum
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
 ndex: ''
 annotations: []

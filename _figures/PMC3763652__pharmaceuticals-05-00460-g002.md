@@ -13,7 +13,7 @@ filename: pharmaceuticals-05-00460-g002.jpg
 figtitle: The synthetic pathway for the preparation of compounds 2–5
 year: '2012'
 organisms:
-- Homo sapiens
+- Pneumocystis carinii
 ndex: ''
 annotations: []
 seo: CreativeWork

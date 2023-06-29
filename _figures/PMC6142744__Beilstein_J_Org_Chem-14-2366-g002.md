@@ -17,7 +17,7 @@ figtitle: Mechanistic pathway for Cp*Co(III)-catalysed alkylation of acetanilide
   the cationic [Cp*Co(III)AcO]+ species and the 3-buten-2-one coupling partner
 year: '2018'
 organisms:
-- Homo sapiens
+- Diaporthe sclerotioides
 ndex: ''
 annotations: []
 seo: CreativeWork

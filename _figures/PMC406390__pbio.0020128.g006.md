@@ -18,7 +18,8 @@ figtitle: Ras and Gpa2 Mediate One Branch of a Redundant Glucose Signaling Pathw
   in Yeast
 year: '2004'
 organisms:
-- Homo sapiens
+- Simian retrovirus 2
+- Saccharomyces cerevisiae
 ndex: ''
 annotations: []
 seo: CreativeWork

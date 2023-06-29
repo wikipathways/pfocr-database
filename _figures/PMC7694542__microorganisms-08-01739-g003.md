@@ -36,7 +36,19 @@ filename: microorganisms-08-01739-g003.jpg
 figtitle: Conservation of signalling pathway proteins in Myxococcaceae
 year: '2020'
 organisms:
-- Homo sapiens
+- Corallococcus coralloides DSM 2259
+- Corallococcus macrosporus DSM 14697
+- Myxococcus stipitatus DSM 14675
+- Myxococcus hansupus
+- Cyanagraea praedator
+- Myxococcus xanthus DK 1622
+- Myxococcales
+- Myxococcus fulvus
+- Myxococcus xanthus
+- Pyxidicoccus fallax
+- Archangium gephyra
+- Escherichia coli
+- Corallococcus exiguus
 ndex: ''
 annotations: []
 seo: CreativeWork

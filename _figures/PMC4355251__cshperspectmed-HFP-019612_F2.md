@@ -48,6 +48,7 @@ figtitle: PRR and signaling pathways that lead to differentiation of antifungal 
   cells
 year: '2015'
 organisms:
+- Mus musculus
 - Homo sapiens
 ndex: 0a360f6e-dea0-11ea-99da-0ac135e8bacf
 annotations: []

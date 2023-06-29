@@ -26,6 +26,16 @@ filename: pharmaceuticals-12-00170-g001.jpg
 figtitle: Major Signalling Pathways Involved in Hepcidin Regulation
 year: '2019'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Mycobacterium sp.
+- Helicobacter pylori
+- Xanthorhoe munitata
+- Brucella abortus
+- Sar
+- Vibrio vulnificus
+- Danio rerio
+- Macaca fascicularis
 - Homo sapiens
 ndex: ''
 annotations: []

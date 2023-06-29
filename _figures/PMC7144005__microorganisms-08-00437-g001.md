@@ -21,7 +21,23 @@ filename: microorganisms-08-00437-g001.jpg
 figtitle: Modes of electron transfer to pMMO in iMsOB3b model developed in this study
 year: '2020'
 organisms:
-- Homo sapiens
+- type I methanotrophic bacterium
+- Methylotuvimicrobium alcaliphilum 20Z
+- Methylocystis parvus OBBP
+- methanotrophic bacterium
+- Methylococcus capsulatus str. Bath
+- Methylotuvimicrobium alcaliphilum
+- Methylorubrum extorquens AM1
+- Geobacter metallireducens
+- Methylocystaceae
+- type II methanotrophic bacterium
+- Methylococcaceae
+- Methylococcus capsulatus
+- Methylosinus trichosporium
+- Escherichia coli
+- Methylosinus trichosporium OB3b
+- Methylotuvimicrobium buryatense 5G
+- Methylocystis sp. SB2
 ndex: ''
 annotations: []
 seo: CreativeWork

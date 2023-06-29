@@ -24,7 +24,21 @@ filename: mSystems.00843-19-f0005.jpg
 figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitation
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Salmonella enterica
+- Venustaconcha ellipsiformis
+- Arabidopsis thaliana
+- Bacteriophage sp.
+- Zea mays
+- Klebsiella aerogenes
+- Escherichia coli
+- Drosophila melanogaster
+- Escherichia coli K-12
+- Methanobrevibacter ruminantium
 - Homo sapiens
+- Bos taurus
+- Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
 ndex: ''
 annotations: []
 seo: CreativeWork

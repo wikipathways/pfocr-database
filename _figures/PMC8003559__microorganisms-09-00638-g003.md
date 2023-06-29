@@ -25,6 +25,28 @@ figtitle: Activation of innate immune signaling pathway by lipopolysaccharide (L
   and tumor necrosis factor (TNF)
 year: '2021'
 organisms:
+- Staphylococcus aureus
+- Streptococcus pyogenes
+- Listeria monocytogenes
+- Mycobacterium tuberculosis variant bovis
+- Mycobacterium tuberculosis
+- Helicobacter pylori
+- Francisella tularensis
+- Francisella tularensis subsp. novicida
+- Severe acute respiratory syndrome coronavirus 2
+- Salmonella enterica
+- Legionella pneumophila
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Salmonella enterica subsp. enterica serovar Pullorum
+- Shigella flexneri
+- Yersinia enterocolitica
+- Yersinia pseudotuberculosis
+- Severe acute respiratory syndrome-related coronavirus
+- Chlamydia trachomatis
+- Bacteroides fragilis
+- Gallus gallus
+- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
 ndex: ''
 annotations: []

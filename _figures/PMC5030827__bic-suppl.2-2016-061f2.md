@@ -22,6 +22,10 @@ filename: bic-suppl.2-2016-061f2.jpg
 figtitle: Schematic of the main interactions of glucose fatty acid oxidation
 year: '2016'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Mycobacterium kansasii
+- Saraca indica
 - Homo sapiens
 ndex: ''
 annotations: []

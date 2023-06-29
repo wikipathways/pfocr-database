@@ -22,6 +22,9 @@ filename: AnnGastroenterol-30-405-g001.jpg
 figtitle: Iron homeostasis
 year: '2017'
 organisms:
+- Rattus norvegicus
+- Helicobacter pylori
+- Citrullus lanatus subsp. vulgaris
 - Homo sapiens
 ndex: 85eec762-deb0-11ea-99da-0ac135e8bacf
 annotations: []

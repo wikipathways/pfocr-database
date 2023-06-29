@@ -16,6 +16,19 @@ filename: microorganisms-08-01742-g003.jpg
 figtitle: Branched pathway as related to bacterial growth rate
 year: '2020'
 organisms:
+- Mannheimia succiniciproducens
+- Staphylococcus aureus subsp. aureus N315
+- Streptomyces lividans
+- Megasphaera sp.
+- Mycoplasmoides genitalium
+- Megasphaera cerevisiae
+- Bifidobacterium adolescentis L2-32
+- Faecalibacterium duncaniae
+- Saccharomyces cerevisiae
+- Escherichia coli
+- human metagenome
+- gut metagenome
+- Megasphaera elsdenii
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -18,7 +18,23 @@ filename: mSphere.00047-19-f0004.jpg
 figtitle: Mapping of hits in the MAPK signaling pathway
 year: '2019'
 organisms:
+- Mus musculus
+- Human respirovirus 3
+- Bovine orthopneumovirus
+- Human orthopneumovirus
+- Vesicular stomatitis virus
+- Lyssavirus rabies
+- unidentified influenza virus
+- Influenza A virus
+- Foot-and-mouth disease virus
+- Ebola virus
+- SARS coronavirus NS-1
+- Prunus armeniaca
+- Saccharomyces cerevisiae
+- Aichivirus A
 - Homo sapiens
+- Canis lupus familiaris
+- Bos taurus
 ndex: 57f7194f-df0a-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

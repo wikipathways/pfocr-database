@@ -22,6 +22,21 @@ figtitle: Schematic diagram of PHB, carotenoid, and gellan production in Sphingo
   elodea ATCC 31461
 year: '2019'
 organisms:
+- Sphingomonas elodea ATCC 31461
+- Sphingomonas sanxanigenens DSM 19645  NX02
+- Sphingomonas paucimobilis
+- Bacillus subtilis
+- Sphingomonas elodea
+- Caldimonas manganoxidans
+- Plasmid RK2
+- Mangifera indica
+- Cucumis sativus
+- Manihot esculenta
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Escherichia coli HB101
+- Chenopodium quinoa
+- Escherichia coli DH5alpha
 - Homo sapiens
 ndex: ''
 annotations: []

@@ -37,7 +37,17 @@ filename: pharmaceuticals-11-00100-g001.jpg
 figtitle: Transient receptor potential (TRP) channels and itch signaling
 year: '2018'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Phytomonas oxycareni
+- Syzygium aromaticum
+- Origanum vulgare
+- Allium sativum
+- Thymus vulgaris
+- Caenorhabditis elegans
 - Homo sapiens
+- Bos taurus
 ndex: 024f4f03-df24-11ea-99da-0ac135e8bacf
 annotations: []
 seo: CreativeWork

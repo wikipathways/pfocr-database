@@ -26,7 +26,30 @@ filename: mSphere.00536-19-f0001.jpg
 figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid products
 year: '2019'
 organisms:
+- Mus musculus
+- Trichoplax adhaerens
+- Rickettsia parkeri str. Portsmouth
+- spotted fever group
+- typhus group
+- Rickettsia tamurae subsp. buchneri
+- Mycobacterium tuberculosis
+- transposons
+- Agriosomyces longus
+- Malacoplasma penetrans
+- Rickettsia parkeri
+- Rickettsia rickettsii str. Iowa
+- Escherichia coli
+- Cryptosporidium parvum
+- Toxoplasma gondii
+- Rickettsia conorii
+- Rickettsia prowazekii
+- Rickettsia rickettsii
+- Orientia tsutsugamushi
+- Chlamydia trachomatis
+- Escherichia coli K-12
+- Chlorocebus aethiops
 - Homo sapiens
+- Ovis aries
 ndex: ''
 annotations: []
 seo: CreativeWork

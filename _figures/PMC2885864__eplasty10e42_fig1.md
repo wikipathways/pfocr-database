@@ -15,6 +15,8 @@ filename: eplasty10e42_fig1.jpg
 figtitle: Nitric oxide signaling pathway
 year: '2010'
 organisms:
+- Mus musculus
+- Rattus norvegicus
 - Homo sapiens
 ndex: ce5d4229-df05-11ea-99da-0ac135e8bacf
 annotations: []

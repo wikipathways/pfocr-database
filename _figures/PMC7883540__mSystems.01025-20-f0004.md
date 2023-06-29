@@ -24,7 +24,16 @@ filename: mSystems.01025-20-f0004.jpg
 figtitle: Integrated analysis of transcriptional and metabolic changes
 year: '2021'
 organisms:
-- Homo sapiens
+- Chlorobaculum tepidum
+- Staphylococcus aureus
+- Agriosomyces longus
+- Pseudomonas fluorescens
+- Matthiola incana
+- Oryza sativa
+- Intrasporangium calvum
+- Escherichia coli
+- Desulfovibrio desulfuricans
+- Desulfovibrio vulgaris
 ndex: ''
 annotations: []
 seo: CreativeWork

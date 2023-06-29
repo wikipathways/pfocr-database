@@ -17,6 +17,12 @@ figtitle: Schematic illustration visualizing how our finding of the calcium-Calp
   during ALS pathogenesis
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- Phengaris arion
+- Matthiola incana
+- Elysia serca
+- Drosophila melanogaster
 - Homo sapiens
 ndex: ''
 annotations: []

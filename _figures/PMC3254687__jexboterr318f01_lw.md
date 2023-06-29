@@ -15,6 +15,23 @@ filename: jexboterr318f01_lw.jpg
 figtitle: Carotenoid metabolic pathway in citrus
 year: '2012'
 organisms:
+- Prunus mume
+- Citrus limon
+- Citrus sinensis
+- Mangifera indica
+- Chlamydomonas reinhardtii
+- Embryophyta
+- Prunus armeniaca
+- Arabidopsis thaliana
+- Sinapis alba
+- Arachis hypogaea
+- Vigna unguiculata
+- Solanum lycopersicum
+- Nicotiana tabacum
+- Zea mays
+- Citrus nobilis
+- Citrus unshiu
+- Citrus reticulata
 - Homo sapiens
 ndex: ''
 annotations: []

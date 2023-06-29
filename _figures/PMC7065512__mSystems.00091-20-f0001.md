@@ -37,7 +37,27 @@ figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight
   absence of key pathway genes
 year: '2020'
 organisms:
-- Homo sapiens
+- Ralstonia mannitolilytica
+- Cupriavidus necator
+- Ralstonia pickettii DTP0602
+- Synodontis clarias
+- Ralstonia insidiosa
+- Dinoroseobacter shibae
+- metagenome
+- Cupriavidus pinatubonensis JMP134
+- Ralstonia solanacearum
+- Escherichia coli str. K-12 substr. DH10B
+- Ralstonia pickettii
+- Arabidopsis thaliana
+- Roseobacter denitrificans OCh 114
+- Cupriavidus necator H16
+- Solanum lycopersicum
+- Solanum tuberosum
+- Oryza sativa
+- Saccharomyces cerevisiae
+- Escherichia coli
+- Phaeobacter gallaeciensis
+- Ralstonia syzygii R24
 ndex: ''
 annotations: []
 seo: CreativeWork

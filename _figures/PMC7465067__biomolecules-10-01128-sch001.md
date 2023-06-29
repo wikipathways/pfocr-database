@@ -23,6 +23,9 @@ figtitle: Proposed mechanisms leading to the neurotoxicity in hyperhomocysteinem
   (hHcy) + ischemia-reperfusion insult (IRI) conditions
 year: '2020'
 organisms:
+- Mus musculus
+- Rattus norvegicus
+- unidentified
 - Homo sapiens
 ndex: ''
 annotations: []

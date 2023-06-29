@@ -14,6 +14,10 @@ filename: pharmaceuticals-13-00247-g001.jpg
 figtitle: The nicotinamide adenine dinucleotide (NAD) metabolism
 year: '2020'
 organisms:
+- Mus musculus
+- Coronaviridae
+- Severe acute respiratory syndrome coronavirus 2
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: ''
 annotations: []

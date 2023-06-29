@@ -26,6 +26,7 @@ filename: toxscikfp162f07_3c.jpg
 figtitle: Interaction networks of As sensitivity in yeast
 year: '2009'
 organisms:
+- Saccharomyces cerevisiae
 - Homo sapiens
 ndex: 1348f5c1-df14-11ea-99da-0ac135e8bacf
 annotations: []
