@@ -25,6 +25,6 @@ btn-class: "btn-front"
     <td>{{ pw.year}}</td>
     <td title="{{ pw.organisms | join: ", "}}">{{ pw.organisms | join: ", "}}</td>
   </tr> 
-  {% endfor %} 
+  {% endfor %}
 </table>
 </div>
