@@ -1,40 +1,34 @@
 ---
 figid: PMC2807926__mplantssp098f02_4c
+figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the Importance
+  of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
+  in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid
+organisms:
+- Arabidopsis thaliana
+- Homo sapiens
+pmcid: PMC2807926
+filename: mplantssp098f02_4c.jpg
 figlink: /pmc/articles/PMC2807926/figure/fig2/
 number: F2
 caption: Schematic Representation of Indole Glucosinolate Pathway Showing the Importance
   of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
   in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid. Known
   positive regulators of transcription involved in this grid are indicated in magenta.
-pmcid: PMC2807926
 papertitle: Metabolomic, Transcriptional, Hormonal, and Signaling Cross-Talk in Superroot2.
 reftext: Marc Morant, et al. Mol Plant. 2010 Jan;3(1):192-211.
-pmc_ranked_result_index: '114163'
-pathway_score: 0.9554395
-filename: mplantssp098f02_4c.jpg
-figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the Importance
-  of Indole-3-Acetaldoxime as a Central Metabolite for Indole Secondary Metabolism
-  in Arabidopsis thaliana.R can either be a glucose moiety or an amino acid
 year: '2010'
-organisms:
-- Middle East respiratory syndrome-related coronavirus
-- Escherichia coli 85B
-- Pseudomonas syringae
-- Pseudomonas syringae pv. tomato
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9554395
+figid_alias: PMC2807926__F2
+figtype: Figure
+organisms_ner:
 - Arabidopsis thaliana
-- Brassica napus
-- Cicer arietinum
-- Phyllotreta nemorum
-- Vigna angularis
-- Solanum lycopersicum
-- Helianthus annuus
-- Komagataella pastoris
-- Saccharomyces cerevisiae
-- Barbarea vulgaris
-- Escherichia coli
-- Homo sapiens
+redirect_from: /figures/PMC2807926__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,7 +45,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ABCC8
+  - MYB34
+  - MYB51
+  - MYB122
+  - CYP79B2
+  - CYP79B3
+  - PAD3
+  - CYP71A13
+  - CYP83B1
+  - DOF1
+  - SUR1
+  - UGT74B1
   - indole
   - Glucose
   - indole-glucosinolate
@@ -59,36 +63,4 @@ schema-jsonld:
   - quinones
   - tryptophan
   - tyrosine
-genes:
-- word: SUR1
-  symbol: SUR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ABCC8
-  entrez: '6833'
-chemicals:
-- word: indole
-  source: MESH
-  identifier: C030374
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: indole-glucosinolate
-  source: MESH
-  identifier: D005961
-- word: phenylalanine
-  source: MESH
-  identifier: D010649
-- word: quinones
-  source: MESH
-  identifier: D011809
-- word: tryptophan
-  source: MESH
-  identifier: D014364
-- word: tyrosine
-  source: MESH
-  identifier: D014443
-diseases: []
-figid_alias: PMC2807926__F2
-redirect_from: /figures/PMC2807926__F2
-figtype: Figure
 ---

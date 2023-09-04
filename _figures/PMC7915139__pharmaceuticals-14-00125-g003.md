@@ -1,5 +1,11 @@
 ---
 figid: PMC7915139__pharmaceuticals-14-00125-g003
+figtitle: Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-Beta-cyclodextrin
+  (MBCD) on pigments and terpenes biosynthesis in C
+organisms:
+- NA
+pmcid: PMC7915139
+filename: pharmaceuticals-14-00125-g003.jpg
 figlink: pmc/articles/PMC7915139/figure/pharmaceuticals-14-00125-f003/
 number: F3
 caption: 'Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-β-cyclodextrin
@@ -15,20 +21,22 @@ caption: 'Conceptual diagram of the effects of methyl jasmonate (MeJA) and methy
   decrease in metabolites abundance compared to untreated cells, respectively. Dashed
   arrows indicate multiple enzymatic steps. MEP: 2-C-methyl-D-erythritol 4-phosphate;
   ROS: reactive oxygen species; Chl: chlorophyll; FPP: farnesyl diphosphate.'
-pmcid: PMC7915139
 papertitle: Methyl Jasmonate and Methyl-β-Cyclodextrin Individually Boost Triterpenoid
   Biosynthesis in Chlamydomonas Reinhardtii UVM4.
 reftext: Audrey S. Commault, et al. Pharmaceuticals (Basel). 2021 Feb;14(2):125.
-pmc_ranked_result_index: '39607'
-pathway_score: 0.9669633
-filename: pharmaceuticals-14-00125-g003.jpg
-figtitle: Conceptual diagram of the effects of methyl jasmonate (MeJA) and methyl-Beta-cyclodextrin
-  (MBCD) on pigments and terpenes biosynthesis in C
 year: '2021'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9669633
+figid_alias: PMC7915139__F3
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+redirect_from: /figures/PMC7915139__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,9 +61,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SPX
+  - CHL
+  - CH1
+  - CHI
+  - TT5
   - CHIA
-  - CHRDL1
+  - HCHIB
   - Ergosterol
   - MBCD  MeJA
   - 7-dehydroporiferasterol Ergosterol
@@ -68,61 +79,4 @@ schema-jsonld:
   - Violaxanthin
   - Neoxanthin
   - MBCD
-genes:
-- word: NPQ
-  symbol: NPQ
-  source: hgnc_alias_symbol
-  hgnc_symbol: SPX
-  entrez: '80763'
-- word: Chla
-  symbol: CHIA
-  source: hgnc_symbol
-  hgnc_symbol: CHIA
-  entrez: '27159'
-- word: Chl
-  symbol: CHL
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHRDL1
-  entrez: '91851'
-chemicals:
-- word: Ergosterol
-  source: MESH
-  identifier: D004875
-- word: MBCD  MeJA
-  source: MESH
-  identifier: C443642
-- word: 7-dehydroporiferasterol Ergosterol
-  source: MESH
-  identifier: D004875
-- word: B-carotene
-  source: MESH
-  identifier: D002338
-- word: cycloartenol
-  source: MESH
-  identifier: C100089
-- word: FPP
-  source: MESH
-  identifier: C039834
-- word: Zeaxanthin
-  source: MESH
-  identifier: D065146
-- word: (S)-2,3-epoxysqualene
-  source: MESH
-  identifier: D013455
-- word: squalene
-  source: MESH
-  identifier: D013185
-- word: Violaxanthin
-  source: MESH
-  identifier: C005613
-- word: Neoxanthin
-  source: MESH
-  identifier: C011947
-diseases:
-- word: MBCD
-  source: MESH
-  identifier: C566487
-figid_alias: PMC7915139__F3
-redirect_from: /figures/PMC7915139__F3
-figtype: Figure
 ---

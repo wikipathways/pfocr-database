@@ -1,5 +1,10 @@
 ---
 figid: PMC3579397__cshperspect-MIT-011437_F1
+figtitle: Sulfide production
+organisms:
+- Homo sapiens
+pmcid: PMC3579397
+filename: cshperspect-MIT-011437_F1.jpg
 figlink: /pmc/articles/PMC3579397/figure/A011437F1/
 number: F1
 caption: Sulfide production. Methionine, derived from alimentary sources, is converted
@@ -18,18 +23,21 @@ caption: Sulfide production. Methionine, derived from alimentary sources, is con
   The H2S produced by either AAT or CBS/CSE can be further oxidized by a sulfur dioxygenase
   (SDO/ETHE1)-dependent pathway (see ). The metabolic pathway carried out by Moco-dependent
   enzymes is encircled in red (see text for details).
-pmcid: PMC3579397
 papertitle: Altered Sulfide (H2S) Metabolism in Ethylmalonic Encephalopathy.
 reftext: Valeria Tiranti, et al. Cold Spring Harb Perspect Biol. 2013 Jan;5(1):a011437.
-pmc_ranked_result_index: '80599'
-pathway_score: 0.9086325
-filename: cshperspect-MIT-011437_F1.jpg
-figtitle: Sulfide production
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9086325
+figid_alias: PMC3579397__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3579397__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,52 +65,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SERPINA1
-  - SLC2A1
-  - SUOX
-  - GNMT
-  - MAT1A
   - CBS
+  - ACAT1
+  - MAT1A
+  - GNMT
+  - CTH
+  - SLC2A1
+  - SERPINA1
+  - TGFBI
   - CSAD
-genes:
-- word: AAT
-  symbol: AAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: SERPINA1
-  entrez: '5265'
-- word: '|CSE'
-  symbol: CSE
-  source: hgnc_prev_symbol
-  hgnc_symbol: SLC2A1
-  entrez: '6513'
-- word: SUOX
-  symbol: SUOX
-  source: hgnc_symbol
-  hgnc_symbol: SUOX
-  entrez: '6821'
-- word: GNMT
-  symbol: GNMT
-  source: hgnc_symbol
-  hgnc_symbol: GNMT
-  entrez: '27232'
-- word: MAT
-  symbol: MAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAT1A
-  entrez: '4143'
-- word: CBS
-  symbol: CBS
-  source: hgnc_symbol
-  hgnc_symbol: CBS
-  entrez: '875'
-- word: CSD
-  symbol: CSD
-  source: hgnc_alias_symbol
-  hgnc_symbol: CSAD
-  entrez: '51380'
-chemicals: []
-diseases: []
-figid_alias: PMC3579397__F1
-redirect_from: /figures/PMC3579397__F1
-figtype: Figure
+  - SUOX
 ---

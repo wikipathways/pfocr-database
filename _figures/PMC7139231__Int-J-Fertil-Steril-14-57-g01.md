@@ -1,5 +1,12 @@
 ---
 figid: PMC7139231__Int-J-Fertil-Steril-14-57-g01
+figtitle: Concept model of micronutrients administration in support to DNA methylation
+  (blue pathway) and antioxidant defences (grey pathway)
+organisms:
+- Homo sapiens
+- Rattus norvegicus
+pmcid: PMC7139231
+filename: Int-J-Fertil-Steril-14-57-g01.jpg
 figlink: pmc/articles/PMC7139231/figure/F1/
 number: F1
 caption: 'Concept model of micronutrients administration in support to DNA methylation
@@ -10,22 +17,23 @@ caption: 'Concept model of micronutrients administration in support to DNA methy
   to increase GSH synthesis. Reducing power from GSH synthesis in turn activates the
   carbon cycle. Homeostatic effects: DNA methylation and antioxidant defences synergize
   in keeping a healthy DNA status.'
-pmcid: PMC7139231
 papertitle: 'Micronutrients in Support to The Carbon Cycle Activate Antioxidant Defences
   and Reduce Sperm DNA Damage in Infertile Men Attending Assisted Reproductive Technology
   Programs: Clinical Trial Study.'
 reftext: Farzaneh Bassiri, et al. Int J Fertil Steril. 2020 Apr-Jun;14(1):57-62.
-pmc_ranked_result_index: '4430'
-pathway_score: 0.8906804
-filename: Int-J-Fertil-Steril-14-57-g01.jpg
-figtitle: Concept model of micronutrients administration in support to DNA methylation
-  (blue pathway) and antioxidant defences (grey pathway)
 year: '2020'
-organisms:
-- Rattus norvegicus
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8906804
+figid_alias: PMC7139231__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7139231__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,8 +53,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - VIT
-  - CADM1
   - S-Adenosyl-Methionine
   - Vit
   - FAD
@@ -56,62 +62,4 @@ schema-jsonld:
   - GSH
   - Cysteines
   - Glutathione
-genes:
-- word: Vit.
-  symbol: VIT
-  source: hgnc_symbol
-  hgnc_symbol: VIT
-  entrez: '5212'
-- word: Vit.
-  symbol: VIT
-  source: hgnc_symbol
-  hgnc_symbol: VIT
-  entrez: '5212'
-- word: B12
-  symbol: BL2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CADM1
-  entrez: '23705'
-- word: Vit.
-  symbol: VIT
-  source: hgnc_symbol
-  hgnc_symbol: VIT
-  entrez: '5212'
-- word: Vit.
-  symbol: VIT
-  source: hgnc_symbol
-  hgnc_symbol: VIT
-  entrez: '5212'
-chemicals:
-- word: S-Adenosyl-Methionine
-  source: MESH
-  identifier: C468227
-- word: Vit
-  source: MESH
-  identifier: D024505
-- word: FAD
-  source: MESH
-  identifier: D005182
-- word: Carbon
-  source: MESH
-  identifier: D002244
-- word: Zinc
-  source: MESH
-  identifier: D015032
-- word: Homocysteine
-  source: MESH
-  identifier: D006710
-- word: GSH
-  source: MESH
-  identifier: D005978
-- word: Cysteines
-  source: MESH
-  identifier: D003545
-- word: Glutathione
-  source: MESH
-  identifier: D005978
-diseases: []
-figid_alias: PMC7139231__F1
-redirect_from: /figures/PMC7139231__F1
-figtype: Figure
 ---

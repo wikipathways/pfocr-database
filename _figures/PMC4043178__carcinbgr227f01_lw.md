@@ -1,5 +1,12 @@
 ---
 figid: PMC4043178__carcinbgr227f01_lw
+figtitle: Mechanism of apoptosis induction in oncogenically transformed cells through
+  signalling by surrounding cells (intercellular induction of apoptosis; reviewed
+  in ref
+organisms:
+- NA
+pmcid: PMC4043178
+filename: carcinbgr227f01_lw.jpg
 figlink: /pmc/articles/PMC4043178/figure/fig1/
 number: F1
 caption: 'Mechanism of apoptosis induction in oncogenically transformed cells through
@@ -19,22 +26,23 @@ caption: 'Mechanism of apoptosis induction in oncogenically transformed cells th
   rates of signalling species are considered in step 1, a set of reaction–diffusion
   equations is used to model step 2, and step 3 is represented by a non-linear kinetic
   model in which induction of apoptosis competes with cell proliferation.'
-pmcid: PMC4043178
 papertitle: Mechanistic modelling suggests that the size of preneoplastic lesions
   is limited by intercellular induction of apoptosis in oncogenically transformed
   cells.
 reftext: Pavel Kundrát, et al. Carcinogenesis. 2012 Feb;33(2):253-259.
-pmc_ranked_result_index: '38669'
-pathway_score: 0.9283865
-filename: carcinbgr227f01_lw.jpg
-figtitle: Mechanism of apoptosis induction in oncogenically transformed cells through
-  signalling by surrounding cells (intercellular induction of apoptosis; reviewed
-  in ref
 year: '2012'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9283865
+figid_alias: PMC4043178__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC4043178__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -64,34 +72,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PTPN5
-  - TGFB2
-  - TGFB3
-  - TGFB1
-genes:
-- word: Step
-  symbol: STEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTPN5
-  entrez: '84867'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-chemicals: []
-diseases: []
-figid_alias: PMC4043178__F1
-redirect_from: /figures/PMC4043178__F1
-figtype: Figure
+  - step
+  - dpp
+  - gbb
+  - put
+  - mav
+  - pod
 ---

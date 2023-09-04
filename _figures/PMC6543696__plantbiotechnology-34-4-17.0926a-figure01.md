@@ -1,22 +1,30 @@
 ---
 figid: PMC6543696__plantbiotechnology-34-4-17.0926a-figure01
+figtitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
+  production in loquat (Eriobotrya japonica) flowers
+organisms:
+- NA
+pmcid: PMC6543696
+filename: plantbiotechnology-34-4-17.0926a-figure01.jpg
 figlink: /pmc/articles/PMC6543696/figure/figure1/
 number: F1
 caption: .na.character
-pmcid: PMC6543696
 papertitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
   production in loquat (Eriobotrya japonica) flowers.
 reftext: Takao Koeduka, et al. Plant Biotechnol (Tokyo). 2017;34(4):193-198.
-pmc_ranked_result_index: '39331'
-pathway_score: 0.8561373
-filename: plantbiotechnology-34-4-17.0926a-figure01.jpg
-figtitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetaldehyde
-  production in loquat (Eriobotrya japonica) flowers
 year: '2017'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8561373
+figid_alias: PMC6543696__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6543696__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -29,38 +37,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DDC
-  - SLC1A5
   - phenylacetaldehyde
   - phenylpyruvic acid
   - phenylethyl alcohol
   - phenylalanine
-genes:
-- word: AADC/PAASIAAS
-  symbol: AADC
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDC
-  entrez: '1644'
-- word: AAAT
-  symbol: AAAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC1A5
-  entrez: '6510'
-chemicals:
-- word: phenylacetaldehyde
-  source: MESH
-  identifier: C013192
-- word: phenylpyruvic acid
-  source: MESH
-  identifier: C031606
-- word: phenylethyl alcohol
-  source: MESH
-  identifier: D010626
-- word: phenylalanine
-  source: MESH
-  identifier: D010649
-diseases: []
-figid_alias: PMC6543696__F1
-redirect_from: /figures/PMC6543696__F1
-figtype: Figure
 ---

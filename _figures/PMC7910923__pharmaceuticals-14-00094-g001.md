@@ -1,5 +1,12 @@
 ---
 figid: PMC7910923__pharmaceuticals-14-00094-g001
+figtitle: Metabolic pathway of Oestradiol
+organisms:
+- Homo sapiens
+- Aklioshbomyces papillarum
+- Dorcatragus megalotis
+pmcid: PMC7910923
+filename: pharmaceuticals-14-00094-g001.jpg
 figlink: pmc/articles/PMC7910923/figure/pharmaceuticals-14-00094-f001/
 number: F1
 caption: Schematic representation of the metabolic pathway of Oestradiol. CYP1B1,
@@ -11,21 +18,22 @@ caption: Schematic representation of the metabolic pathway of Oestradiol. CYP1B1
   the remethylation of homocysteine to methionine, a precursor of S-adenosylmethionine
   (SAM). SAM is the methyl donor for COMT catalyzed reactions, allowing the inactivation
   of catechol estrogens.
-pmcid: PMC7910923
 papertitle: Influence of Estrogenic Metabolic Pathway Genes Polymorphisms on Postmenopausal
   Breast Cancer Risk.
 reftext: Micaela Almeida, et al. Pharmaceuticals (Basel). 2021 Feb;14(2):94.
-pmc_ranked_result_index: '5561'
-pathway_score: 0.904833
-filename: pharmaceuticals-14-00094-g001.jpg
-figtitle: Metabolic pathway of Oestradiol
 year: '2021'
-organisms:
-- Dorcatragus megalotis
-- Aklioshbomyces papillarum
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.904833
+figid_alias: PMC7910923__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7910923__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -46,9 +54,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MTHFR
-  - COMT
-  - ACSM3
   - Oestradiol
   - Catechol Estrogens
   - tetrahydrofolate
@@ -58,52 +63,4 @@ schema-jsonld:
   - methoxyestrogens
   - Glutathione
   - SAH
-genes:
-- word: MTHFR
-  symbol: MTHFR
-  source: hgnc_symbol
-  hgnc_symbol: MTHFR
-  entrez: '4524'
-- word: COMT
-  symbol: COMT
-  source: hgnc_symbol
-  hgnc_symbol: COMT
-  entrez: '1312'
-- word: SAH
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-chemicals:
-- word: Oestradiol
-  source: MESH
-  identifier: D004958
-- word: Catechol Estrogens
-  source: MESH
-  identifier: D002393
-- word: tetrahydrofolate
-  source: MESH
-  identifier: D013763
-- word: methionine
-  source: MESH
-  identifier: D008715
-- word: 5-methyltetrahydrofolate
-  source: MESH
-  identifier: C005984
-- word: homocysteine
-  source: MESH
-  identifier: D006710
-- word: methoxyestrogens
-  source: ''
-  identifier: ''
-- word: Glutathione
-  source: MESH
-  identifier: D005978
-diseases:
-- word: SAH
-  source: MESH
-  identifier: D013345
-figid_alias: PMC7910923__F1
-redirect_from: /figures/PMC7910923__F1
-figtype: Figure
 ---

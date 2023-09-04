@@ -1,5 +1,15 @@
 ---
 figid: PMC5874888__bioengineering-05-00022-g004
+figtitle: Hypoxia on HIF-1A
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Sus scrofa
+- Poecilia reticulata
+- Eugenia axillaris
+pmcid: PMC5874888
+filename: bioengineering-05-00022-g004.jpg
 figlink: /pmc/articles/PMC5874888/figure/bioengineering-05-00022-f004/
 number: F4
 caption: Effects of hypoxia on HIF-1α. The thickness of the line indicates the ratio
@@ -7,24 +17,26 @@ caption: Effects of hypoxia on HIF-1α. The thickness of the line indicates the 
   lines indicate reduced expression. Green lines ending in arrowheads indicate activators,
   while red lines ending in a bar indicate inhibitory activity. Dotted-boxes indicate
   links to other pathway figures.
-pmcid: PMC5874888
 papertitle: Metabolic Reprogramming and the Recovery of Physiological Functionality
   in 3D Cultures in Micro-Bioreactors .
 reftext: Krzysztof Wrzesinski, et al. Bioengineering (Basel). 2018 Mar;5(1):22.
-pmc_ranked_result_index: '105264'
-pathway_score: 0.9033984
-filename: bioengineering-05-00022-g004.jpg
-figtitle: Hypoxia on HIF-1A
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9033984
+figid_alias: PMC5874888__F4
+figtype: Figure
+organisms_ner:
 - Mus musculus
 - Rattus norvegicus
-- Eugenia axillaris
-- Poecilia reticulata
-- Homo sapiens
 - Sus scrofa
+- Homo sapiens
+- Poecilia reticulata
+redirect_from: /figures/PMC5874888__F4
 ndex: de8040b7-df0c-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,156 +53,78 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TP53
+  - Cat
+  - cac
+  - Mip
+  - Trpv6
+  - Glyat
+  - Siah2
+  - Pdk1
+  - Pdpk1
+  - Lonp1
+  - P4ha1
+  - Trp53
+  - Slc1a3
+  - Slc2a1
+  - Tpt1
+  - Mtor
+  - Slc2a3
+  - Vhl
+  - Hif1a
+  - Hk2
+  - Pkm
+  - Rps6ka3
+  - Ccn2
+  - Slc25a1
+  - Ldha
+  - Tp53
   - CAT
-  - DLAT
-  - DLD
-  - MTOR
-  - HIF1A
-  - PDHA1
-  - CTGF
+  - SIAH2
+  - PDK1
   - LONP1
   - P4HA1
-  - SLC2A3
-  - LDHA
-  - PDHA2
-  - VHL
-  - TPT1
-  - PDK1
-  - RPS6KA3
-  - COX4I1
+  - TP53
   - SLC2A1
+  - TPT1
+  - MTOR
+  - SLC2A3
+  - VHL
+  - HIF1A
+  - HK2
+  - RPS6KA3
+  - CCN2
+  - SLC25A1
+  - LDHA
+  - CRAT
+  - GLYAT
+  - COX4I1
+  - PDP1
+  - DLAT
+  - DLD
+  - PDHA1
+  - PDHA2
   - PDHB
   - PDHX
-  - SIAH2
-  - SLC25A1
+  - PDPK1
+  - TP63
+  - TP73
+  - KCNA5
+  - KIF2A
+  - KLK2
+  - HOOK2
+  - PKM
+  - PKLR
+  - cat
+  - pdk1
+  - lonp1
+  - p4ha1b
+  - mtor
+  - hif1aa
+  - hk2
+  - rps6ka3b
+  - ccn2
+  - si:dkey-178e17.1
+  - ldha
   - SIAH2
   - VHL
-genes:
-- word: p53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: CAT
-  symbol: CAT
-  source: hgnc_symbol
-  hgnc_symbol: CAT
-  entrez: '847'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: HIF-1a
-  symbol: HIF-1alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: CCN2
-  symbol: CCN2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CTGF
-  entrez: '1490'
-- word: LONP1
-  symbol: LONP1
-  source: hgnc_symbol
-  hgnc_symbol: LONP1
-  entrez: '9361'
-- word: P4HA1
-  symbol: P4HA1
-  source: hgnc_symbol
-  hgnc_symbol: P4HA1
-  entrez: '5033'
-- word: GLUT3
-  symbol: GLUT3
-  source: hgnc_prev_symbol
-  hgnc_symbol: SLC2A3
-  entrez: '6515'
-- word: LDHA
-  symbol: LDHA
-  source: hgnc_symbol
-  hgnc_symbol: LDHA
-  entrez: '3939'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: VHL
-  symbol: VHL
-  source: hgnc_symbol
-  hgnc_symbol: VHL
-  entrez: '7428'
-- word: TCTP
-  symbol: TCTP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TPT1
-  entrez: '7178'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: RPS6KA3
-  symbol: RPS6KA3
-  source: hgnc_symbol
-  hgnc_symbol: RPS6KA3
-  entrez: '6197'
-- word: COX4.1
-  symbol: COX4-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: COX4I1
-  entrez: '1327'
-- word: GLUT1
-  symbol: GLUT1
-  source: hgnc_prev_symbol
-  hgnc_symbol: SLC2A1
-  entrez: '6513'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: SIAH2
-  symbol: SIAH2
-  source: hgnc_symbol
-  hgnc_symbol: SIAH2
-  entrez: '6478'
-- word: SLC25A1
-  symbol: SLC25A1
-  source: hgnc_symbol
-  hgnc_symbol: SLC25A1
-  entrez: '6576'
-chemicals: []
-diseases:
-- word: SIAH2
-  source: ''
-  identifier: ''
-- word: VHL
-  source: MESH
-  identifier: D006623
-figid_alias: PMC5874888__F4
-redirect_from: /figures/PMC5874888__F4
-figtype: Figure
 ---

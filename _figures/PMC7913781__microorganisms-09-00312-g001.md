@@ -1,5 +1,11 @@
 ---
 figid: PMC7913781__microorganisms-09-00312-g001
+figtitle: Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
+  polymorpha
+organisms:
+- NA
+pmcid: PMC7913781
+filename: microorganisms-09-00312-g001.jpg
 figlink: pmc/articles/PMC7913781/figure/microorganisms-09-00312-f001/
 number: F1
 caption: 'Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
@@ -30,19 +36,21 @@ caption: 'Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (H
   affect the chain length of HA as well as the titers []. In B. subtilis, an increase
   in the cultivation temperature led to an increase in HA’s molecular weight but a
   decrease in its concentration in the culture broth.'
-pmcid: PMC7913781
 papertitle: Evaluation of Ogataea (Hansenula) polymorpha for Hyaluronic Acid Production.
 reftext: João Heitor Colombelli Manfrão-Netto, et al. Microorganisms. 2021 Feb;9(2):312.
-pmc_ranked_result_index: '114159'
-pathway_score: 0.9708771
-filename: microorganisms-09-00312-g001.jpg
-figtitle: Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (Hansenula)
-  polymorpha
 year: '2021'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9708771
+figid_alias: PMC7913781__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7913781__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -83,14 +91,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - XK
-  - WDTC1
-  - PPL
-  - CAT
-  - FBP1
-  - RASA1
-  - TKFC
-  - FBXO3
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - Pgi
+  - Aldox89A
+  - Pfk
+  - CG15812
+  - pi
+  - Cat
+  - Ca-alpha1T
+  - ChAT
+  - sv
+  - fbp
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - Dp
+  - Ald1
+  - Aldh-III
+  - ca
+  - ha
+  - CycE
+  - cyc
   - Glucose
   - ATP
   - ADP
@@ -112,138 +137,4 @@ schema-jsonld:
   - GlcNAc
   - TSA
   - Glucose-6P  Glucose-1P
-genes:
-- word: xk
-  symbol: XK
-  source: hgnc_symbol
-  hgnc_symbol: XK
-  entrez: '7504'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: PPI
-  symbol: PPL
-  source: hgnc_symbol
-  hgnc_symbol: PPL
-  entrez: '5493'
-- word: cat
-  symbol: CAT
-  source: hgnc_symbol
-  hgnc_symbol: CAT
-  entrez: '847'
-- word: fbp
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: FBP
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: dak
-  symbol: DAK
-  source: hgnc_prev_symbol
-  hgnc_symbol: TKFC
-  entrez: '26007'
-- word: fba
-  symbol: FBA
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXO3
-  entrez: '26273'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: PPI
-  symbol: PPL
-  source: hgnc_symbol
-  hgnc_symbol: PPL
-  entrez: '5493'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Methanol
-  source: MESH
-  identifier: D000432
-- word: Pentose
-  source: MESH
-  identifier: D010429
-- word: Phosphate
-  source: MESH
-  identifier: D010710
-- word: UTP
-  source: MESH
-  identifier: D014544
-- word: NH
-  source: MESH
-  identifier: D000641
-- word: Glu
-  source: MESH
-  identifier: C094686
-- word: UDP
-  source: MESH
-  identifier: D014530
-- word: Gln
-  source: MESH
-  identifier: C544323
-- word: Fructose-6P
-  source: MESH
-  identifier: D005632
-- word: 2NAD
-  source: MESH
-  identifier: D009243
-- word: 2NADH
-  source: MESH
-  identifier: D009243
-- word: DHA
-  source: MESH
-  identifier: C111716
-- word: FBP
-  source: MESH
-  identifier: C504504
-- word: AcCoA
-  source: MESH
-  identifier: C059703
-- word: DHAP
-  source: MESH
-  identifier: C017202
-- word: GlcNAc
-  source: MESH
-  identifier: C097320
-- word: TSA
-  source: MESH
-  identifier: C070842
-diseases:
-- word: Glucose-6P  Glucose-1P
-  source: MESH
-  identifier: D018149
-figid_alias: PMC7913781__F1
-redirect_from: /figures/PMC7913781__F1
-figtype: Figure
 ---

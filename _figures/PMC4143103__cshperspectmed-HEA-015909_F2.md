@@ -1,5 +1,10 @@
 ---
 figid: PMC4143103__cshperspectmed-HEA-015909_F2
+figtitle: Canonical and noncanonical TGFB signaling
+organisms:
+- Homo sapiens
+pmcid: PMC4143103
+filename: cshperspectmed-HEA-015909_F2.jpg
 figlink: /pmc/articles/PMC4143103/figure/A015909F2/
 number: F2
 caption: 'Canonical and noncanonical TGF-β signaling. Microfibrils composed of fibrillin-1
@@ -24,18 +29,21 @@ caption: 'Canonical and noncanonical TGF-β signaling. Microfibrils composed of 
   myosin light chain kinase; α-SMA, α-smooth muscle actin; ERK1, extracellular regulated
   protein kinase; JNK, c-Jun amino-terminal kinase; MAPK, any MAP kinase: ERK1, JNK,
   or p38.'
-pmcid: PMC4143103
 papertitle: The Genetic Basis of Aortic Aneurysm.
 reftext: Mark E. Lindsay, et al. Cold Spring Harb Perspect Med. 2014 Sep;4(9):a015909.
-pmc_ranked_result_index: '92724'
-pathway_score: 0.9737988
-filename: cshperspectmed-HEA-015909_F2.jpg
-figtitle: Canonical and noncanonical TGFB signaling
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9737988
+figid_alias: PMC4143103__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4143103__F2
 ndex: 125fabbb-dec3-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -69,181 +77,90 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAPK8
-  - MAPK11
-  - MAPK10
-  - MAPK14
-  - MAPK9
-  - ROCK1
-  - MAPK3
-  - MAPK13
-  - SKI
-  - MAPK12
-  - RHOA
-  - TGFBR2
-  - SMAD4
-  - NR2C2
+  - NEUROD1
+  - TUBB4B
   - TGFBR1
-  - MAPK1
-  - SMAD3
-  - MAP2K1
-  - ROCK2
-  - CACNA1E
+  - TGFBR2
   - SMAD2
-genes:
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK1
-  entrez: '6093'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: SKI
-  symbol: SKI
-  source: hgnc_symbol
-  hgnc_symbol: SKI
-  entrez: '6497'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: RhoA
-  symbol: RhoA
-  source: hgnc_alias_symbol
-  hgnc_symbol: RHOA
-  entrez: '387'
-- word: TGFBR1/2
-  symbol: TGFBR2
-  source: hgnc_symbol
-  hgnc_symbol: TGFBR2
-  entrez: '7048'
-- word: SMAD4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: TAK1
-  symbol: TAK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NR2C2
-  entrez: '7182'
-- word: TGFBR1/2
-  symbol: TGFBR1
-  source: hgnc_symbol
-  hgnc_symbol: TGFBR1
-  entrez: '7046'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: SMAD2/3
-  symbol: SMAD3
-  source: hgnc_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: MEK1
-  symbol: MEK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK2
-  entrez: '9475'
-- word: B2
-  symbol: BII
-  source: hgnc_alias_symbol
-  hgnc_symbol: CACNA1E
-  entrez: '777'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: SMAD2/3
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-chemicals: []
-diseases: []
-figid_alias: PMC4143103__F2
-redirect_from: /figures/PMC4143103__F2
-figtype: Figure
+  - SMAD3
+  - RHOA
+  - MAP3K7
+  - NR2C2
+  - MAP2K1
+  - SKI
+  - SMAD4
+  - ROCK1
+  - ROCK2
+  - CRK
+  - MAPK14
+  - MAPK1
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - EPHB2
+  - MAPK3
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - MYLK
+  - MYLK2
+  - MYLK3
+  - MYH14
+  - MYO6
+  - MYO10
+  - MYO16
+  - MYO19
+  - MYH1
+  - MYH10
+  - MYH11
+  - MYH13
+  - MYH15
+  - MYH16
+  - MYH2
+  - MYH3
+  - MYH4
+  - MYH6
+  - MYH7
+  - MYH7B
+  - MYH8
+  - MYH9
+  - MYO1A
+  - MYO1B
+  - MYO1C
+  - MYO1D
+  - MYO1E
+  - MYO1F
+  - MYO1G
+  - MYO1H
+  - MYO3A
+  - MYO3B
+  - MYO5A
+  - MYO5B
+  - MYO5C
+  - MYO7A
+  - MYO7B
+  - MYO9A
+  - MYO9B
+  - MYO15A
+  - MYO15B
+  - MYO18A
+  - MYO18B
+  - MYL1
+  - MYL3
+  - MYL4
+  - MYL6
+  - MYL6B
+  - MYL10
+  - MYL12A
+  - MYL12B
+  - MYL2
+  - MYL5
+  - MYL7
+  - MYL9
+  - MYL11
+  - ACTA1
 ---

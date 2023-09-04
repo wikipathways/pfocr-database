@@ -1,5 +1,35 @@
 ---
 figid: PMC7905385__gr1b_lrg
+figtitle: Immune response, immunopathology, and mechanism of action of immunotherapeutics
+  for SARS-CoV-2 infection (intracellular)
+organisms:
+- Severe acute respiratory syndrome coronavirus 2
+- Hepatitis B virus
+- Coronaviridae
+- Severe acute respiratory syndrome-related coronavirus
+- unidentified influenza virus
+- Middle East respiratory syndrome-related coronavirus
+- Respiratory syncytial virus
+- H1N1 subtype
+- Human gammaherpesvirus 8
+- Vaccinia virus
+- Betacoronavirus
+- Coxsackievirus
+- Human coronavirus 229E
+- Ebola virus sp.
+- ssRNA viruses
+- H7N9 subtype
+- Human adenovirus sp.
+- Canis lupus familiaris
+- Mustela putorius furo
+- Manis javanica
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Leishmania donovani
+- NA
+pmcid: PMC7905385
+filename: gr1b_lrg.jpg
 figlink: pmc/articles/PMC7905385/figure/fig1b/
 number: F1b
 caption: Immune response, immunopathology, and mechanism of action of immunotherapeutics
@@ -50,43 +80,27 @@ caption: Immune response, immunopathology, and mechanism of action of immunother
   the chemokines recruit the lymphocyte and leukocyte to the site of inflammation.
   . (For interpretation of the references to color in this figure legend, the reader
   is referred to the Web version of this article.)
-pmcid: PMC7905385
 papertitle: 'Inflammation, immunity and potential target therapy of SARS-COV-2: A
   total scale analysis review.'
 reftext: Shukur Wasman Smail, et al. Food Chem Toxicol. 2021 Feb 25 ;150:112087-112087.
-pmc_ranked_result_index: '122584'
-pathway_score: 0.7128643
-filename: gr1b_lrg.jpg
-figtitle: Immune response, immunopathology, and mechanism of action of immunotherapeutics
-  for SARS-CoV-2 infection (intracellular)
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7128643
+figid_alias: PMC7905385__F1b
+figtype: Figure
+organisms_ner:
+- Manis javanica
 - Mus musculus
-- Rattus norvegicus
-- Vaccinia virus
-- Hepatitis B virus
-- Coronaviridae
-- Human coronavirus 229E
-- unidentified influenza virus
-- H1N1 subtype
-- Coxsackievirus
-- Respiratory syncytial virus
-- Middle East respiratory syndrome-related coronavirus
-- Human adenovirus sp.
-- Ebola virus sp.
-- Severe acute respiratory syndrome coronavirus 2
-- H7N9 subtype
-- Human gammaherpesvirus 8
-- ssRNA viruses
-- Leishmania donovani
-- Betacoronavirus
-- Severe acute respiratory syndrome-related coronavirus
 - Homo sapiens
 - Canis lupus familiaris
+- Rattus norvegicus
 - Mustela putorius furo
-- Manis javanica
+redirect_from: /figures/PMC7905385__F1b
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -152,53 +166,106 @@ schema-jsonld:
   - AAK1
   - TLR3
   - TLR7
-  - TLR9
-  - NFKB1
-  - NFKB2
-  - REL
-  - RELA
-  - RELB
-  - IFIH1
-  - DDX58
+  - RIGI
   - IL1B
+  - IL18
+  - IL6
+  - COX2
+  - Tmprss2
+  - Ace2
+  - Aak1
+  - Tlr3
+  - Tlr7
+  - Tlr9
+  - Hspa9
+  - Ercc8
+  - Rnf138
+  - Trim69
+  - Ticam1
+  - Ticam2
+  - Nfkb1
+  - Rigi
+  - Ifih1
+  - Il1b
+  - Car1
+  - Bcl2l10
+  - Ifna
+  - Eya1
+  - Cdca8
+  - Il18
+  - Il6
+  - Tnf
+  - Cxcl2
+  - Cxcl15
+  - Ifnb1
+  - Cacybp
+  - Trp53inp1
+  - Tsacc
+  - Sipd1
+  - Pla2g2a
+  - Pla2g5
+  - Ptgs2
+  - H2-Aa
+  - ap
+  - S1pr1
+  - Mbtps1
+  - XRCC6
+  - TLR9
+  - ERCC8
+  - CSH1
+  - HSPA9
+  - TRIM69
+  - TICAM1
+  - NFKB1
+  - IFIH1
   - CA1
-  - IFNB1
-  - CDCA8
+  - BCL2L10
   - IFNA1
+  - EYA1
+  - CDCA8
+  - TNF
+  - CXCL2
+  - CXCL8
+  - IFN1@
   - IFNA2
+  - IFNA17
   - IFNA4
   - IFNA5
+  - IFNA6
   - IFNA7
   - IFNA8
-  - IFNA17
-  - IFNA6
   - IFNA10
   - IFNA13
   - IFNA14
   - IFNA16
   - IFNA21
-  - IL6
-  - IL18
-  - TNF
-  - CXCL2
-  - CXCL8
+  - IFNB1
+  - RBM14
+  - KANK2
+  - CACYBP
+  - TP53INP1
+  - TSACC
+  - RBM14-RBM4
   - PLA2G1B
   - PLA2G2A
+  - PLA2G6
+  - PLA2G3
   - PLA2G5
+  - PLA2G7
   - PLA2G10
+  - PLA2G12A
+  - PLA2G12B
+  - PLA2G2C
   - PLA2G2D
   - PLA2G2E
-  - PLA2G3
   - PLA2G2F
-  - PLA2G12A
-  - PLA2G4D
-  - PLA2G2C
   - PLA2G4A
-  - PLA2G7
-  - PLA2G6
   - PLA2G4C
-  - PLA2G12B
+  - PLA2G4D
+  - PTGS2
+  - MTCO2P12
   - MBTPS1
+  - ALB
   - CSA
   - MDA
   - PG
@@ -206,501 +273,4 @@ schema-jsonld:
   - sphingosine
   - SARS-COV-2
   - SIP
-genes:
-- word: TMPRSS2
-  symbol: TMPRSS2
-  source: hgnc_symbol
-  hgnc_symbol: TMPRSS2
-  entrez: '7113'
-- word: АCE2
-  symbol: ACE2
-  source: hgnc_symbol
-  hgnc_symbol: ACE2
-  entrez: '59272'
-- word: AAK1
-  symbol: AAK1
-  source: hgnc_symbol
-  hgnc_symbol: AAK1
-  entrez: '22848'
-- word: TLR3
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: TLR7
-  symbol: TLR7
-  source: hgnc_symbol
-  hgnc_symbol: TLR7
-  entrez: '51284'
-- word: TLR9
-  symbol: TLR9
-  source: hgnc_symbol
-  hgnc_symbol: TLR9
-  entrez: '54106'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: MDA-5
-  symbol: MDA-5
-  source: hgnc_alias_symbol
-  hgnc_symbol: IFIH1
-  entrez: '64135'
-- word: RIG-I
-  symbol: RIG-I
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDX58
-  entrez: '23586'
-- word: IL-1B
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: CA-1
-  symbol: CA1
-  source: hgnc_symbol
-  hgnc_symbol: CA1
-  entrez: '759'
-- word: IL-1B
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: IL-1B
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: IFN-a/B
-  symbol: IFNB
-  source: bioentities_symbol
-  hgnc_symbol: IFNB1
-  entrez: '3456'
-- word: IFN-a/Bor
-  symbol: BOR
-  source: hgnc_alias_symbol
-  hgnc_symbol: CDCA8
-  entrez: '55143'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA1
-  entrez: '3439'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA2
-  entrez: '3440'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA4
-  entrez: '3441'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA5
-  entrez: '3442'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA7
-  entrez: '3444'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA8
-  entrez: '3445'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA17
-  entrez: '3451'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA6
-  entrez: '3443'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA10
-  entrez: '3446'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA13
-  entrez: '3447'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA14
-  entrez: '3448'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA16
-  entrez: '3449'
-- word: IFN-a/Bor
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA21
-  entrez: '3452'
-- word: IL-6,
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IL-18,
-  symbol: IL-18
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL18
-  entrez: '3606'
-- word: IL-18,IL-6,
-  symbol: IL-18
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL18
-  entrez: '3606'
-- word: IL-18,IL-6,
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: CXCL2,
-  symbol: CXCL2
-  source: hgnc_symbol
-  hgnc_symbol: CXCL2
-  entrez: '2920'
-- word: IL-8
-  symbol: IL-8
-  source: hgnc_alias_symbol
-  hgnc_symbol: CXCL8
-  entrez: '3576'
-- word: CXCL2,IL-8
-  symbol: IL-8
-  source: hgnc_alias_symbol
-  hgnc_symbol: CXCL8
-  entrez: '3576'
-- word: CXCL2,IL-8
-  symbol: CXCL2
-  source: hgnc_symbol
-  hgnc_symbol: CXCL2
-  entrez: '2920'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA1
-  entrez: '3439'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA2
-  entrez: '3440'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA4
-  entrez: '3441'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA5
-  entrez: '3442'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA7
-  entrez: '3444'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA8
-  entrez: '3445'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA17
-  entrez: '3451'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA6
-  entrez: '3443'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA10
-  entrez: '3446'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA13
-  entrez: '3447'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA14
-  entrez: '3448'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA16
-  entrez: '3449'
-- word: IFNA,
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA21
-  entrez: '3452'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA1
-  entrez: '3439'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA2
-  entrez: '3440'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA4
-  entrez: '3441'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA5
-  entrez: '3442'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA7
-  entrez: '3444'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA8
-  entrez: '3445'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA17
-  entrez: '3451'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA6
-  entrez: '3443'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA10
-  entrez: '3446'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA13
-  entrez: '3447'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA14
-  entrez: '3448'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA16
-  entrez: '3449'
-- word: IFN-a
-  symbol: IFNA
-  source: bioentities_symbol
-  hgnc_symbol: IFNA21
-  entrez: '3452'
-- word: IFN-B
-  symbol: IFNB
-  source: bioentities_symbol
-  hgnc_symbol: IFNB1
-  entrez: '3456'
-- word: TNF-a,
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-6,
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IL-6,TNF-a,
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IL-6,TNF-a,
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: CXCL2,
-  symbol: CXCL2
-  source: hgnc_symbol
-  hgnc_symbol: CXCL2
-  entrez: '2920'
-- word: IL-1B,CXCL2,
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: IL-1B,CXCL2,
-  symbol: CXCL2
-  source: hgnc_symbol
-  hgnc_symbol: CXCL2
-  entrez: '2920'
-- word: IL-1B,
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: IL-8
-  symbol: IL-8
-  source: hgnc_alias_symbol
-  hgnc_symbol: CXCL8
-  entrez: '3576'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G1B
-  entrez: '5319'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G2A
-  entrez: '5320'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G5
-  entrez: '5322'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G10
-  entrez: '8399'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G2D
-  entrez: '26279'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G2E
-  entrez: '30814'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G3
-  entrez: '50487'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G2F
-  entrez: '64600'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G12A
-  entrez: '81579'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G4D
-  entrez: '283748'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G2C
-  entrez: '391013'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G4A
-  entrez: '5321'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G7
-  entrez: '7941'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G6
-  entrez: '8398'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G4C
-  entrez: '8605'
-- word: PLA2
-  symbol: PLA2
-  source: bioentities_symbol
-  hgnc_symbol: PLA2G12B
-  entrez: '84647'
-- word: S1P
-  symbol: S1P
-  source: hgnc_alias_symbol
-  hgnc_symbol: MBTPS1
-  entrez: '8720'
-chemicals:
-- word: CSA
-  source: MESH
-  identifier: D016572
-- word: MDA
-  source: MESH
-  identifier: D008315
-- word: PG
-  source: MESH
-  identifier: D010400
-- word: Ceramide
-  source: MESH
-  identifier: D002518
-- word: sphingosine
-  source: MESH
-  identifier: D013110
-diseases:
-- word: SARS-COV-2
-  source: MESH
-  identifier: D045169
-- word: SIP
-  source: ''
-  identifier: ''
-figid_alias: PMC7905385__F1b
-redirect_from: /figures/PMC7905385__F1b
-figtype: Figure
 ---

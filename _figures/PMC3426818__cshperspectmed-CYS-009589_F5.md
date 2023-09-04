@@ -1,5 +1,11 @@
 ---
 figid: PMC3426818__cshperspectmed-CYS-009589_F5
+figtitle: MUC5B gene expression is transcriptionally regulated by various mediators
+  and pathways
+organisms:
+- NA
+pmcid: PMC3426818
+filename: cshperspectmed-CYS-009589_F5.jpg
 figlink: /pmc/articles/PMC3426818/figure/A009589F5/
 number: F5
 caption: MUC5B gene expression is transcriptionally regulated by various mediators
@@ -13,19 +19,23 @@ caption: MUC5B gene expression is transcriptionally regulated by various mediato
   MUC5B gene expression in differentiated HBE cells by signaling through the ErbB2/ErbB3
   heterodimer receptor, which then signals through three different pathways including
   p38, ERK1/2, and PI3k. PI3k goes on to activate Akt ().
-pmcid: PMC3426818
 papertitle: CFTR, Mucins, and Mucus Obstruction in Cystic Fibrosis.
 reftext: Silvia M. Kreda, et al. Cold Spring Harb Perspect Med. 2012 Sep;2(9):a009589.
-pmc_ranked_result_index: '113707'
-pathway_score: 0.9575589
-filename: cshperspectmed-CYS-009589_F5.jpg
-figtitle: MUC5B gene expression is transcriptionally regulated by various mediators
-  and pathways
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9575589
+figid_alias: PMC3426818__F5
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Drosophila melanogaster
+- Arabidopsis thaliana
+redirect_from: /figures/PMC3426818__F5
 ndex: 9a34f1b7-ded6-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,206 +59,76 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HRAS
-  - RELB
-  - AKT3
+  - IL17A
+  - IL17F
+  - IL1B
+  - ERBB2
+  - ERBB3
   - KRAS
+  - HRAS
   - NRAS
   - MAP3K1
-  - MUC5B
-  - MAP2K7
-  - REL
-  - IL1B
-  - RELA
-  - MAP2K6
-  - PSPC1
-  - AKT1
-  - MAP2K4
-  - ERBB2
-  - MAP2K3
-  - MAPK10
-  - MAPK13
-  - MAPK12
-  - SP1
-  - MAPK14
-  - MAPK8
-  - NFKB1
-  - AKT2
   - MAPK3
-  - NFKB2
-  - IL17A
-  - MAPK11
-  - ERBB3
-  - MAPK9
   - MAPK1
+  - CRK
+  - MAPK14
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
+  - MAP2K3
+  - MAP2K6
+  - MAP2K4
+  - MAP2K7
+  - AKT1
+  - AKT2
+  - AKT3
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - SP1
+  - PSG1
+  - DAND5
+  - MUC5B
+  - ras
+  - Ras64B
+  - Ras85D
+  - Mekk1
+  - pk
+  - rl
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - Dif
+  - dl
+  - Rel
+  - Mkk4
+  - hep
+  - Akt
+  - bsk
+  - Sp1
+  - grass
+  - Spn42Dd
+  - Nplp1
+  - HA1
+  - MEKK1
+  - MKK3
+  - MKK6
+  - MKK4
+  - MKK7
+  - DAL1
+  - APK
   - Cancer
-genes:
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: MEKK1
-  symbol: MEKK1
-  source: hgnc_prev_symbol
-  hgnc_symbol: MAP3K1
-  entrez: '4214'
-- word: MUC5B
-  symbol: MUC5B
-  source: hgnc_symbol
-  hgnc_symbol: MUC5B
-  entrez: '727897'
-- word: MKK4/7
-  symbol: MKK7
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K7
-  entrez: '5609'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: IL1B
-  symbol: IL1B
-  source: hgnc_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: MKK3/6
-  symbol: MKK6
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K6
-  entrez: '5608'
-- word: P-Sp1
-  symbol: PSP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PSPC1
-  entrez: '55269'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: MKK4/7
-  symbol: MKK4
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K4
-  entrez: '6416'
-- word: ErbB2/
-  symbol: ERBB2
-  source: hgnc_symbol
-  hgnc_symbol: ERBB2
-  entrez: '2064'
-- word: MKK3/6
-  symbol: MKK3
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K3
-  entrez: '5606'
-- word: JNK/S
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: Sp1
-  symbol: SP1
-  source: hgnc_symbol
-  hgnc_symbol: SP1
-  entrez: '6667'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: JNK/S
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: ERK1/2
-  symbol: ERK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: IL17A
-  symbol: IL17A
-  source: hgnc_symbol
-  hgnc_symbol: IL17A
-  entrez: '3605'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: ErbB3
-  symbol: ERBB3
-  source: hgnc_symbol
-  hgnc_symbol: ERBB3
-  entrez: '2065'
-- word: JNK/S
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: ERK1/2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3426818__F5
-redirect_from: /figures/PMC3426818__F5
-figtype: Figure
 ---

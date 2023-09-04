@@ -1,5 +1,10 @@
 ---
 figid: PMC4930925__cshperspect-STH-023895_F4
+figtitle: Gene circuits for biomedical applications
+organisms:
+- NA
+pmcid: PMC4930925
+filename: cshperspect-STH-023895_F4.jpg
 figlink: /pmc/articles/PMC4930925/figure/A023895F4/
 number: F4
 caption: Gene circuits for biomedical applications. (A) Closed-loop gene circuit designed
@@ -33,18 +38,21 @@ caption: Gene circuits for biomedical applications. (A) Closed-loop gene circuit
   induces the transcription of a reporter protein that enables the readout of allergic
   reactions using engineered mammalian cells. TNFR, Tumor necrosis factor receptor;
   PKA, protein kinase A.
-pmcid: PMC4930925
 papertitle: Engineering Gene Circuits for Mammalian Cell–Based Applications.
 reftext: Simon Ausländer, et al. Cold Spring Harb Perspect Biol. 2016 Jul;8(7):a023895.
-pmc_ranked_result_index: '74934'
-pathway_score: 0.9306425
-filename: cshperspect-STH-023895_F4.jpg
-figtitle: Gene circuits for biomedical applications
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9306425
+figid_alias: PMC4930925__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4930925__F4
 ndex: b2eb182f-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -87,128 +95,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GPR65
+  - SLC22A12
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
   - PRKACB
   - PRKACG
-  - PRKACA
-  - IL22
-  - PRKAR2A
-  - PRKAR1B
   - LSR
-  - NFKB1
-  - HRH2
-  - TNF
-  - PRKAR1A
-  - TNFRSF1A
   - CREB1
+  - LRP1
+  - IL22
+  - TNF
+  - HRH2
+  - TNFRSF1A
+  - NFKB1
   - STAT3
-  - SLC22A12
-  - PRKAR2B
-  - GPR65
   - fatty acid
   - glucose
   - Histamine
   - Uric acid
-genes:
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: IL22
-  symbol: IL22
-  source: hgnc_symbol
-  hgnc_symbol: IL22
-  entrez: '50616'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: LSR
-  symbol: LSR
-  source: hgnc_symbol
-  hgnc_symbol: LSR
-  entrez: '51599'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: HRH2
-  symbol: HRH2
-  source: hgnc_symbol
-  hgnc_symbol: HRH2
-  entrez: '3274'
-- word: TNF
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: TNFR
-  symbol: TNF-R
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFRSF1A
-  entrez: '7132'
-- word: CREB1
-  symbol: CREB1
-  source: hgnc_symbol
-  hgnc_symbol: CREB1
-  entrez: '1385'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: URAT1
-  symbol: URAT1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC22A12
-  entrez: '116085'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: TDAG8
-  symbol: TDAG8
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPR65
-  entrez: '8477'
-chemicals:
-- word: fatty acid
-  source: MESH
-  identifier: D005227
-- word: glucose
-  source: MESH
-  identifier: D005947
-- word: Histamine
-  source: MESH
-  identifier: D006632
-- word: Uric acid
-  source: MESH
-  identifier: D014527
-diseases: []
-figid_alias: PMC4930925__F4
-redirect_from: /figures/PMC4930925__F4
-figtype: Figure
 ---

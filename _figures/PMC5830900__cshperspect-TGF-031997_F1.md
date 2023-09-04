@@ -1,5 +1,10 @@
 ---
 figid: PMC5830900__cshperspect-TGF-031997_F1
+figtitle: Role of the TGFB family in mammary gland development and maturation
+organisms:
+- NA
+pmcid: PMC5830900
+filename: cshperspect-TGF-031997_F1.jpg
 figlink: pmc/articles/PMC5830900/figure/A031997F1/
 number: F1
 caption: Role of the TGF-β family in mammary gland development and maturation. (A)
@@ -27,18 +32,21 @@ caption: Role of the TGF-β family in mammary gland development and maturation. 
   expression of this BMP receptor, resulting in Smad signaling, which induces expression
   of the transcriptional regulator Msx2. BMP signaling also induces β-casein expression,
   marking terminal differentiation during the lactation phase.
-pmcid: PMC5830900
 papertitle: TGF-β Family Signaling in Ductal Differentiation and Branching Morphogenesis.
 reftext: Kaoru Kahata, et al. Cold Spring Harb Perspect Biol. 2018 Mar;10(3):a031997.
-pmc_ranked_result_index: '19123'
-pathway_score: 0.600142
-filename: cshperspect-TGF-031997_F1.jpg
-figtitle: Role of the TGFB family in mammary gland development and maturation
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.600142
+figid_alias: PMC5830900__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5830900__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -76,318 +84,46 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IGF1
   - HGF
+  - IL6
+  - SOS1
+  - IGF1
   - TGFB1
-  - BMP4
-  - BMP5
-  - GDF2
-  - BMP15
-  - BMP10
   - BMP1
   - BMP2
   - BMP3
+  - BMP4
+  - BMP5
   - BMP6
   - BMP7
-  - BMP8B
-  - GDF1
-  - GDF5
-  - GDF3
-  - GDF7
   - BMP8A
+  - BMP8B
+  - BMP10
+  - BMP15
+  - GDF1
+  - GDF2
+  - GDF3
+  - GDF5
   - GDF6
+  - GDF7
   - INHBA
   - INHBB
-  - TGFB2
-  - TGFB3
   - SMAD1
-  - SMAD2
+  - SMAD4
   - SMAD5
   - SMAD6
-  - SMAD9
-  - SMAD3
-  - SMAD4
   - SMAD7
+  - SMAD9
+  - SMAD2
+  - SMAD3
+  - TGFB2
+  - TGFB3
   - MSX2
+  - FOXD3
   - SKIL
   - STAT5A
   - STAT5B
   - progesterone
   - Rragesterone
   - Pregesterone
-genes:
-- word: IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: HGF,IGF-1
-  symbol: HGF
-  source: hgnc_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: HGF,IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: HGF,
-  symbol: HGF
-  source: hgnc_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: HGF,IGF-1
-  symbol: HGF
-  source: hgnc_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: HGF,IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: HGF,
-  symbol: HGF
-  source: hgnc_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: TGF-B1
-  symbol: TGFB1
-  source: hgnc_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP4
-  entrez: '652'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP5
-  entrez: '653'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF2
-  entrez: '2658'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP15
-  entrez: '9210'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP10
-  entrez: '27302'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP1
-  entrez: '649'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP2
-  entrez: '650'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP3
-  entrez: '651'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP7
-  entrez: '655'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8B
-  entrez: '656'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF5
-  entrez: '8200'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF7
-  entrez: '151449'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8A
-  entrez: '353500'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF6
-  entrez: '392255'
-- word: Activin
-  symbol: Activin
-  source: bioentities_symbol
-  hgnc_symbol: INHBA
-  entrez: '3624'
-- word: Activin
-  symbol: Activin
-  source: bioentities_symbol
-  hgnc_symbol: INHBB
-  entrez: '3625'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: BMP-4
-  symbol: BMP4
-  source: hgnc_symbol
-  hgnc_symbol: BMP4
-  entrez: '652'
-- word: Msx2
-  symbol: MSX2
-  source: hgnc_symbol
-  hgnc_symbol: MSX2
-  entrez: '4488'
-- word: SnoN
-  symbol: SnoN
-  source: hgnc_alias_symbol
-  hgnc_symbol: SKIL
-  entrez: '6498'
-- word: STAT5
-  symbol: STAT5
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: STAT5
-  symbol: STAT5
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-chemicals:
-- word: progesterone
-  source: MESH
-  identifier: D011374
-- word: Rragesterone
-  source: ''
-  identifier: ''
-- word: Pregesterone
-  source: ''
-  identifier: ''
-diseases: []
-figid_alias: PMC5830900__F1
-redirect_from: /figures/PMC5830900__F1
-figtype: Figure
 ---

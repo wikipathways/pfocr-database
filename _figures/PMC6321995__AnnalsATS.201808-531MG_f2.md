@@ -1,5 +1,11 @@
 ---
 figid: PMC6321995__AnnalsATS.201808-531MG_f2
+figtitle: Therapeutic strategy for downregulation of excess inflammatory mucus to
+  normal physiological mucus levels, using a small-molecule kinase inhibitor of MAPK13
+organisms:
+- NA
+pmcid: PMC6321995
+filename: AnnalsATS.201808-531MG_f2.jpg
 figlink: /pmc/articles/PMC6321995/figure/fig2/
 number: F2
 caption: 'Therapeutic strategy for downregulation of excess inflammatory mucus to
@@ -14,20 +20,22 @@ caption: 'Therapeutic strategy for downregulation of excess inflammatory mucus t
   MAPK13 = mitogen-activated protein kinase 13; MUC5AC = mucin 5AC; SMKI = small-molecule
   kinase inhibitor; STAT6 = signal transducer and activator of transcription 6. Adapted
   by permission from Reference .'
-pmcid: PMC6321995
 papertitle: Epithelial–Immune Cell Interactions for Drug Discovery in Chronic Obstructive
   Pulmonary Disease.
 reftext: Shamus P. Keeler, et al. Ann Am Thorac Soc. 2018 Dec;15(Suppl 4):S260-S265.
-pmc_ranked_result_index: '46514'
-pathway_score: 0.9510562
-filename: AnnalsATS.201808-531MG_f2.jpg
-figtitle: Therapeutic strategy for downregulation of excess inflammatory mucus to
-  normal physiological mucus levels, using a small-molecule kinase inhibitor of MAPK13
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9510562
+figid_alias: PMC6321995__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6321995__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -52,51 +60,11 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - IL13
-  - MAPK13
-  - MUC5AC
-  - STAT6
   - IL4
   - IL13RA2
   - CLCA1
-genes:
-- word: IL-4/IL-13
-  symbol: IL-13
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL13
-  entrez: '3596'
-- word: MAPK13
-  symbol: MAPK13
-  source: hgnc_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: MUC5AC
-  symbol: MUC5AC
-  source: hgnc_symbol
-  hgnc_symbol: MUC5AC
-  entrez: '4586'
-- word: STAT6
-  symbol: STAT6
-  source: hgnc_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: IL-4/IL-13
-  symbol: IL-4
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL4
-  entrez: '3565'
-- word: IL-13R,
-  symbol: IL-13R
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL13RA2
-  entrez: '3598'
-- word: CLCA1
-  symbol: CLCA1
-  source: hgnc_symbol
-  hgnc_symbol: CLCA1
-  entrez: '1179'
-chemicals: []
-diseases: []
-figid_alias: PMC6321995__F2
-redirect_from: /figures/PMC6321995__F2
-figtype: Figure
+  - MUC5AC
+  - MAPK13
+  - STAT6
+  - PC
 ---

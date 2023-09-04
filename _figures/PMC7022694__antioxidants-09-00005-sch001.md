@@ -1,23 +1,31 @@
 ---
 figid: PMC7022694__antioxidants-09-00005-sch001
+figtitle: Synthesis pathway for functionalized nanoparticles 1A and 1B
+organisms:
+- Homo sapiens
+- Rattus norvegicus
+- Thymus vulgaris
+pmcid: PMC7022694
+filename: antioxidants-09-00005-sch001.jpg
 figlink: pmc/articles/PMC7022694/figure/antioxidants-09-00005-sch001/
 number: S1
 caption: Synthesis pathway for functionalized nanoparticles 1A and 1B.
-pmcid: PMC7022694
 papertitle: Antioxidant Activity of Metal Nanoparticles Coated with Tocopherol-Like
   Residues—The Importance of Studies in Homo- and Heterogeneous Systems.
 reftext: Adrian Konopko, et al. Antioxidants (Basel). 2020 Jan;9(1):5.
-pmc_ranked_result_index: '26033'
-pathway_score: 0.7296444
-filename: antioxidants-09-00005-sch001.jpg
-figtitle: Synthesis pathway for functionalized nanoparticles 1A and 1B
 year: '2020'
-organisms:
-- Rattus norvegicus
-- Thymus vulgaris
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7296444
+figid_alias: PMC7022694__S1
+figtype: Scheme
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7022694__S1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -38,34 +46,4 @@ schema-jsonld:
   - Au
   - EtOH
   - MEOH
-genes: []
-chemicals:
-- word: Trolox
-  source: MESH
-  identifier: C010643
-- word: DMSO
-  source: MESH
-  identifier: D004121
-- word: DMAP
-  source: MESH
-  identifier: C003885
-- word: H2N
-  source: MESH
-  identifier: D006859
-- word: TroloxS
-  source: MESH
-  identifier: C010643
-- word: Au
-  source: MESH
-  identifier: D006046
-- word: EtOH
-  source: MESH
-  identifier: C118017
-- word: MEOH
-  source: MESH
-  identifier: C522238
-diseases: []
-figid_alias: PMC7022694__S1
-redirect_from: /figures/PMC7022694__S1
-figtype: Scheme
 ---

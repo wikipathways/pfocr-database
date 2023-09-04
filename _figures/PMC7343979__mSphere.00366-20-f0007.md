@@ -1,5 +1,11 @@
 ---
 figid: PMC7343979__mSphere.00366-20-f0007
+figtitle: Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP in microcolony
+  formation
+organisms:
+- NA
+pmcid: PMC7343979
+filename: mSphere.00366-20-f0007.jpg
 figlink: pmc/articles/PMC7343979/figure/fig7/
 number: F7
 caption: Model of Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP
@@ -10,20 +16,22 @@ caption: Model of Sho1 glycolysis-mediated signaling through glycolysis and Ras1
   SH3 domain of the Sho1 protein interacts with phosphofructose kinase 1 (Pfk1) or
   its TM domain interacts with fructose-bisphosphate aldolase 1 (Fba1), phosphoglycerate
   kinase 1 (Pgk1), and pyruvate kinase (CDC19) in mediating the signaling response.
-pmcid: PMC7343979
 papertitle: Sho1p Connects Glycolysis to Ras1-cAMP Signaling and Is Required for Microcolony
   Formation in Candida albicans.
 reftext: Rohitashw Kumar, et al. mSphere. 2020 Jul-Aug;5(4):e00366-20.
-pmc_ranked_result_index: '865'
-pathway_score: 0.9278393
-filename: mSphere.00366-20-f0007.jpg
-figtitle: Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP in microcolony
-  formation
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9278393
+figid_alias: PMC7343979__F7
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+redirect_from: /figures/PMC7343979__F7
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -44,16 +52,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PFKL
+  - SHO1
+  - PFK1
+  - FBA1
   - PGK1
+  - CDC19
+  - IRA2
+  - RAS1
+  - CYR1
   - TPK1
-  - PRKACG
-  - PRKAR1A
-  - PRKAR2A
-  - PRKAR2B
-  - PRKACA
-  - PRKACB
-  - PRKAR1B
+  - EFG1
+  - TPK2
   - Glucose
   - Fru-6-P
   - G-3-P 3-PG
@@ -61,81 +70,4 @@ schema-jsonld:
   - Citrate
   - TCA
   - Acetate
-genes:
-- word: PFK1
-  symbol: PFKL
-  source: hgnc_symbol
-  hgnc_symbol: PFKL
-  entrez: '5211'
-- word: PGK1
-  symbol: PGK1
-  source: hgnc_symbol
-  hgnc_symbol: PGK1
-  entrez: '5230'
-- word: Tpk1
-  symbol: TPK1
-  source: hgnc_symbol
-  hgnc_symbol: TPK1
-  entrez: '27010'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Fru-6-P
-  source: MESH
-  identifier: C082485
-- word: G-3-P 3-PG
-  source: MESH
-  identifier: D011462
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Citrate
-  source: MESH
-  identifier: C102006
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: Acetate
-  source: MESH
-  identifier: D000085
-diseases: []
-figid_alias: PMC7343979__F7
-redirect_from: /figures/PMC7343979__F7
-figtype: Figure
 ---

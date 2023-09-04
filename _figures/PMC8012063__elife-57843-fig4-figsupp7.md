@@ -1,44 +1,63 @@
 ---
 figid: PMC8012063__elife-57843-fig4-figsupp7
+figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
+  hsa050160 Alzheimer’s disease at the cross-tissue level
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Heterocephalus glaber
+- Cryptomys hottentotus
+- Fukomys damarensis
+- Tachyoryctes macrocephalus
+- Fukomys anselli
+- Fukomys mechowii
+- Fukomys micklemi
+- Canis lupus familiaris
+- Equus caballus
+- Felis catus
+- Pekania pennanti
+- Solanum tuberosum
+- Malus domestica
+- Daucus carota
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
+- Fundulus heteroclitus
+pmcid: PMC8012063
+filename: elife-57843-fig4-figsupp7.jpg
 figlink: pmc/articles/PMC8012063/figure/fig4s7/
 number: SF4_7
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
-pmcid: PMC8012063
 papertitle: Increased longevity due to sexual activity in mole-rats is associated
   with transcriptional changes in the HPA stress axis.
 reftext: Arne Sahm, et al. eLife. 2021;10:e57843.
-pmc_ranked_result_index: '45892'
-pathway_score: 0.874425
-filename: elife-57843-fig4-figsupp7.jpg
-figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
-  hsa050160 Alzheimer’s disease at the cross-tissue level
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.874425
+figid_alias: PMC8012063__SF4_7
+figtype: Supplemental figure
+organisms_ner:
 - Mus musculus
-- Rattus norvegicus
-- Cavia porcellus
-- Cryptomys hottentotus
-- Heterocephalus glaber
-- Tachyoryctes macrocephalus
-- Fukomys anselli
-- Malus domestica
-- Daucus carota
-- Solanum tuberosum
-- Fukomys mechowii
-- Fukomys micklemi
-- Caenorhabditis elegans
 - Drosophila melanogaster
-- Pekania pennanti
-- Fundulus heteroclitus
-- Fukomys damarensis
 - Homo sapiens
+- Rattus norvegicus
 - Canis lupus familiaris
 - Felis catus
+- Cavia porcellus
 - Equus caballus
+- Heterocephalus glaber
+- Fukomys damarensis
+- Fundulus heteroclitus
+- Caenorhabditis elegans
+redirect_from: /figures/PMC8012063__SF4_7
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,87 +72,280 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - APP
+  - Bpi
+  - App
+  - Bace1
+  - Gapdh
+  - cx
+  - Psenen
+  - Ncstn
+  - Ide
+  - Ddr1
+  - Mme
+  - Tns2
+  - ap
+  - Lpl
+  - Apoe
+  - Lrp1
+  - Mvp
+  - Txlng
+  - H2-Ab1
+  - Bad
+  - Casp9
+  - Casp3
+  - Fadd
+  - Bid
+  - Apaf1
+  - Calm1
+  - Tmem50a
+  - Snca
+  - Gpbar1
+  - Hspg2
+  - Nlrp1a
+  - Ryr1
+  - Grin1
+  - Casp12
+  - Itpr1
+  - Ern1
+  - Eif2ak3
+  - Lamp1
+  - Atf6
+  - Nos1
+  - Cdk5r1
+  - Il12a
+  - Upk3b
+  - Gchfr
+  - Sbp
+  - tp
+  - Tnc
+  - Tnf
+  - Gsk3b
+  - Il1
+  - Casp7
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
+  - Bace
+  - Gapdh2
+  - Gapdh1
+  - pen-2
+  - Pen
+  - aph-1
+  - Alp1
+  - ATPsynbeta
+  - Atpalpha
+  - Nep1
+  - arr
+  - ab
+  - cass
+  - Cyt-c-d
+  - Cyt-c-p
+  - Decay
+  - Dark
+  - Cam
+  - CaMKII
+  - cn
+  - Oamb
+  - norpA
+  - sl
+  - Plc21C
+  - Cyp6a20
+  - tRNA:Arg-CCT-1-2
+  - tRNA:Arg-CCT-1-3
+  - tRNA:Arg-CCT-1-1
+  - nac
+  - Nacalpha
+  - SERCA
+  - RyR
+  - Nmdar2
+  - Nmdar1
+  - Itpr
+  - Ire1
+  - PEK
+  - rl
+  - Nos
+  - nos
+  - ynd
+  - Cdk5alpha
+  - RpLP0
+  - MED6
+  - P-25
+  - DCTN5-p25
+  - ten
+  - egr
+  - Cdk4
+  - sgg
+  - Axn
+  - gskt
+  - JIL-1
+  - 'On'
   - BPI
+  - APP
   - BACE1
   - GAPDH
   - IL17C
   - PSENEN
   - NCSTN
+  - APH1A
+  - ATP8A2
   - EIF4A3
+  - FALEC
   - IDE
+  - DDR1
   - MME
   - HSD17B10
   - LPL
+  - LCP1
   - APOE
+  - RPSA
+  - LRP1
+  - PTPRA
+  - MVP
+  - SUCLA2
   - BAD
   - CASP9
   - CASP3
   - FADD
   - BID
   - APAF1
+  - CALM1
+  - CALM2
+  - CALM3
   - KRIT1
+  - CAMKMT
   - SNCA
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
   - PLCB3
   - PLCB4
-  - PLCG1
-  - PLCB1
-  - PLCE1
-  - PLCD4
-  - PLCD3
-  - PLCB2
   - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
   - PLCG2
-  - PLCZ1
+  - XK
   - NLRP1
   - ATP2A1
   - ATP2A2
   - ATP2A3
   - RYR1
+  - RYR2
+  - RYR3
   - GRIN1
   - GRIN2A
-  - GRIN2D
   - GRIN2B
   - GRIN2C
+  - GRIN2D
   - GRIN3A
   - GRIN3B
   - CASP12
+  - ITPR1
+  - ITPR3
+  - ERN1
   - EIF2AK3
   - ATF6
   - NOS1
   - NOS2
   - NOS3
+  - FCN2
+  - GCHFR
+  - IL12A
+  - CDK5R1
+  - UPK3B
+  - LCN2
+  - TPPP
+  - TMED9
   - TNF
+  - CDKL1
+  - CDKL2
+  - CDKL3
+  - CDKL4
+  - CDKL5
   - CDK3
+  - CDK4
   - CDK5
+  - CDK6
   - CDK7
+  - CDK8
   - CDK9
+  - CDK10
+  - CDK11A
+  - CDK11B
+  - CDK12
+  - CDK13
+  - CDK14
+  - CDK15
   - CDK16
   - CDK17
   - CDK18
-  - CDK14
-  - CDKL5
-  - CDK13
-  - CDKL1
-  - CDKL2
-  - CDK20
-  - CDKL3
-  - CDK12
-  - CDK15
-  - CDKL4
-  - CDK11A
-  - CDK1
-  - CDK11B
-  - CDK2
-  - CDK4
-  - CDK6
-  - CDK8
-  - CDK10
   - CDK19
+  - CDK20
+  - CDK1
+  - CDK2
   - GSK3B
-  - IL1A
   - IL1B
   - CASP7
+  - Hsd17b10
+  - Ptpra
+  - Calm2
+  - Mageb16
+  - Tas2r134
+  - Rxfp2
+  - Ryr2
+  - Anxa1
+  - ADRB3
+  - CCR5
+  - KISS1R
+  - Nos2
+  - Caspase-12
+  - appa
+  - ncstn
+  - ide
+  - lpla
+  - apoeb
+  - badb
+  - casp9
+  - fadd
+  - apaf1
+  - sncgb
+  - atf6
+  - gsk3ba
+  - casp7
+  - atf-6
   - BPI
   - Fe
   - PEN2 PSEN
@@ -142,454 +354,4 @@ schema-jsonld:
   - Calcium
   - Tau-Pm
   - Mitochondrial dysfunction
-genes:
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: BPI
-  symbol: BPI
-  source: hgnc_symbol
-  hgnc_symbol: BPI
-  entrez: '671'
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: BACE
-  symbol: BACE
-  source: hgnc_prev_symbol
-  hgnc_symbol: BACE1
-  entrez: '23621'
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: GAPD
-  symbol: GAPD
-  source: hgnc_prev_symbol
-  hgnc_symbol: GAPDH
-  entrez: '2597'
-- word: CxII
-  symbol: CX2
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17C
-  entrez: '27189'
-- word: PEN2
-  symbol: PEN2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PSENEN
-  entrez: '55851'
-- word: NCSTN
-  symbol: NCSTN
-  source: hgnc_symbol
-  hgnc_symbol: NCSTN
-  entrez: '23385'
-- word: Fall
-  symbol: Fal1
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF4A3
-  entrez: '9775'
-- word: IDE
-  symbol: IDE
-  source: hgnc_symbol
-  hgnc_symbol: IDE
-  entrez: '3416'
-- word: NEP
-  symbol: NEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MME
-  entrez: '4311'
-- word: ABAD
-  symbol: ABAD
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSD17B10
-  entrez: '3028'
-- word: LPL.
-  symbol: LPL
-  source: hgnc_symbol
-  hgnc_symbol: LPL
-  entrez: '4023'
-- word: ApoE
-  symbol: APOE
-  source: hgnc_symbol
-  hgnc_symbol: APOE
-  entrez: '348'
-- word: Bad
-  symbol: BAD
-  source: hgnc_symbol
-  hgnc_symbol: BAD
-  entrez: '572'
-- word: CASP9
-  symbol: CASP9
-  source: hgnc_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: CASP3
-  symbol: CASP3
-  source: hgnc_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: FADD
-  symbol: FADD
-  source: hgnc_symbol
-  hgnc_symbol: FADD
-  entrez: '8772'
-- word: Bid
-  symbol: BID
-  source: hgnc_symbol
-  hgnc_symbol: BID
-  entrez: '637'
-- word: Apafl
-  symbol: APAF1
-  source: hgnc_symbol
-  hgnc_symbol: APAF1
-  entrez: '317'
-- word: CaM
-  symbol: CAM
-  source: hgnc_alias_symbol
-  hgnc_symbol: KRIT1
-  entrez: '889'
-- word: SNCA
-  symbol: SNCA
-  source: hgnc_symbol
-  hgnc_symbol: SNCA
-  entrez: '6622'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG1
-  entrez: '5335'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCE1
-  entrez: '51196'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD4
-  entrez: '84812'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD3
-  entrez: '113026'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD1
-  entrez: '5333'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG2
-  entrez: '5336'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCZ1
-  entrez: '89869'
-- word: NAC
-  symbol: NAC
-  source: hgnc_alias_symbol
-  hgnc_symbol: NLRP1
-  entrez: '22861'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A1
-  entrez: '487'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A2
-  entrez: '488'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A3
-  entrez: '489'
-- word: RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN1
-  entrez: '2902'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN2A
-  entrez: '2903'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN2D
-  entrez: '2906'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN2B
-  entrez: '2904'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN2C
-  entrez: '2905'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN3A
-  entrez: '116443'
-- word: NMDAR
-  symbol: NMDAR
-  source: bioentities_symbol
-  hgnc_symbol: GRIN3B
-  entrez: '116444'
-- word: CASP12
-  symbol: CASP12
-  source: hgnc_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS1
-  entrez: '4842'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS2
-  entrez: '4843'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS3
-  entrez: '4846'
-- word: TNF
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK3
-  entrez: '1018'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK5
-  entrez: '1020'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK7
-  entrez: '1022'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK9
-  entrez: '1025'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK16
-  entrez: '5127'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK17
-  entrez: '5128'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK18
-  entrez: '5129'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK14
-  entrez: '5218'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDKL5
-  entrez: '6792'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK13
-  entrez: '8621'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDKL1
-  entrez: '8814'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDKL2
-  entrez: '8999'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK20
-  entrez: '23552'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDKL3
-  entrez: '51265'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK12
-  entrez: '51755'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK15
-  entrez: '65061'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDKL4
-  entrez: '344387'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK11A
-  entrez: '728642'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK1
-  entrez: '983'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK11B
-  entrez: '984'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK2
-  entrez: '1017'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK4
-  entrez: '1019'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK6
-  entrez: '1021'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK8
-  entrez: '1024'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK10
-  entrez: '8558'
-- word: Cdks
-  symbol: CDK
-  source: bioentities_symbol
-  hgnc_symbol: CDK19
-  entrez: '23097'
-- word: GSK3B
-  symbol: GSK3B
-  source: hgnc_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: CASP3
-  symbol: CASP3
-  source: hgnc_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: IL-1
-  symbol: IL1
-  source: bioentities_symbol
-  hgnc_symbol: IL1A
-  entrez: '3552'
-- word: IL-1
-  symbol: IL1
-  source: bioentities_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: CASP7
-  symbol: CASP7
-  source: hgnc_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-chemicals:
-- word: BPI
-  source: MESH
-  identifier: C064678
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: PEN2 PSEN
-  source: MESH
-  identifier: C035086
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: NAC
-  source: MESH
-  identifier: C086501
-- word: Calcium
-  source: MESH
-  identifier: D002118
-- word: Tau-Pm
-  source: MESH
-  identifier: D011399
-diseases:
-- word: Mitochondrial dysfunction
-  source: MESH
-  identifier: D028361
-figid_alias: PMC8012063__SF4_7
-redirect_from: /figures/PMC8012063__SF4_7
-figtype: Supplemental figure
 ---

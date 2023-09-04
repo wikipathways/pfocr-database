@@ -1,5 +1,11 @@
 ---
 figid: PMC5666637__cshperspect-TGF-022269_F2
+figtitle: Summary of the transforming growth factor B (TGFB) signaling pathway and
+  mutations causing connective tissue disorders
+organisms:
+- NA
+pmcid: PMC5666637
+filename: cshperspect-TGF-022269_F2.jpg
 figlink: /pmc/articles/PMC5666637/figure/A022269F2/
 number: F2
 caption: Summary of the transforming growth factor β (TGF-β) signaling pathway and
@@ -26,19 +32,21 @@ caption: Summary of the transforming growth factor β (TGF-β) signaling pathway
   targets (i.e., tissue metalloproteinases, collagen, integrins, and several other
   ECM components). The syndromes associated with these mutations, and the human gene
   mutated in each condition, are highlighted in yellow.
-pmcid: PMC5666637
 papertitle: TGF-β Family Signaling in Connective Tissue and Skeletal Diseases.
 reftext: Elena Gallo MacFarlane, et al. Cold Spring Harb Perspect Biol. 2017 Nov;9(11):a022269.
-pmc_ranked_result_index: '196758'
-pathway_score: 0.8960102
-filename: cshperspect-TGF-022269_F2.jpg
-figtitle: Summary of the transforming growth factor B (TGFB) signaling pathway and
-  mutations causing connective tissue disorders
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8960102
+figid_alias: PMC5666637__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5666637__F2
 ndex: a38e4053-df14-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -76,104 +84,49 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TGFB1
+  - IFT122
+  - TGFB2
   - TGFB3
   - FBN1
-  - TGFB2
-  - TGFBR2
-  - SKI
-  - SMAD2
+  - ERVK-8
+  - ERVK-10
+  - ERVK-9
+  - ERVK-21
+  - ERVK-18
+  - ERVK-25
+  - ERVK-24
+  - ERVK-19
   - TGFBR1
-  - SMAD4
+  - TGFBR2
+  - ITGA1
+  - ITGA10
+  - ITGA11
+  - ITGA2
+  - ITGA2B
+  - ITGA3
+  - ITGA4
+  - ITGA5
+  - ITGA6
+  - ITGA7
+  - ITGA8
+  - ITGA9
+  - ITGAD
+  - ITGAE
+  - ITGAL
+  - ITGAM
+  - ITGAV
+  - ITGAX
+  - ITGB1
+  - ITGB2
+  - ITGB3
+  - ITGB4
+  - ITGB5
+  - ITGB6
+  - ITGB7
+  - ITGB8
+  - ITGBL1
+  - SMAD2
+  - SKI
   - SMAD3
-genes:
-- word: TGF-B1
-  symbol: TGFB1
-  source: hgnc_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: (FBN
-  symbol: FBN
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBN1
-  entrez: '2200'
-- word: SGS
-  symbol: SGS
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBN1
-  entrez: '2200'
-- word: CED
-  symbol: CED
-  source: hgnc_alias_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TBRII
-  symbol: TBRII
-  source: hgnc_alias_symbol
-  hgnc_symbol: TGFBR2
-  entrez: '7048'
-- word: (TGFB2)
-  symbol: TGFB2
-  source: hgnc_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: (SKI)
-  symbol: SKI
-  source: hgnc_symbol
-  hgnc_symbol: SKI
-  entrez: '6497'
-- word: (TGFBR2)
-  symbol: TGFBR2
-  source: hgnc_symbol
-  hgnc_symbol: TGFBR2
-  entrez: '7048'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: (TGFB3)
-  symbol: TGFB3
-  source: hgnc_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: TBRI
-  symbol: TBR-i
-  source: hgnc_alias_symbol
-  hgnc_symbol: TGFBR1
-  entrez: '7046'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: (TGFBR1)
-  symbol: TGFBR1
-  source: hgnc_symbol
-  hgnc_symbol: TGFBR1
-  entrez: '7046'
-- word: (SMAD3)
-  symbol: SMAD3
-  source: hgnc_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-chemicals: []
-diseases: []
-figid_alias: PMC5666637__F2
-redirect_from: /figures/PMC5666637__F2
-figtype: Figure
+  - SMAD4
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC3405868__cshperspect-WNT-007948_F4
+figtitle: Beta-Catenin-Dependent Wnt Signaling
+organisms:
+- Homo sapiens
+- Caenorhabditis elegans
+pmcid: PMC3405868
+filename: cshperspect-WNT-007948_F4.jpg
 figlink: /pmc/articles/PMC3405868/figure/A007948F4/
 number: F4
 caption: The C. elegans Wnt/β-catenin asymmetry (WBA) signaling pathway. (A) Asymmetric
@@ -18,20 +24,23 @@ caption: The C. elegans Wnt/β-catenin asymmetry (WBA) signaling pathway. (A) As
   and SYS-1 interact to up-regulate expression of Wnt target genes (red rectangle).
   Unlabeled blue hexagons indicate high levels of nuclear POP-1 (left) or phosphorylated,
   cytoplasmic POP-1 (right).
-pmcid: PMC3405868
 papertitle: 'β-Catenin-Dependent Wnt Signaling in C. elegans: Teaching an Old Dog
   a New Trick.'
 reftext: Belinda M. Jackson, et al. Cold Spring Harb Perspect Biol. 2012 Aug;4(8):a007948.
-pmc_ranked_result_index: '91095'
-pathway_score: 0.8970338
-filename: cshperspect-WNT-007948_F4.jpg
-figtitle: Beta-Catenin-Dependent Wnt Signaling
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8970338
+figid_alias: PMC3405868__F4
+figtype: Figure
+organisms_ner:
+- Caenorhabditis elegans
 - Homo sapiens
--  Caenorhabditis elegans
+redirect_from: /figures/PMC3405868__F4
 ndex: 4943205b-df13-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -59,262 +68,60 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - FZD2
-  - WNT3A
+  - apr-1
+  - pry-1
+  - lit-1
+  - wrm-1
+  - mom-4
+  - sys-1
+  - pop-1
+  - unc-37
   - WNT1
-  - FZD10
-  - FZD9
-  - WNT9B
-  - MAGEH1
-  - WNT5A
-  - WNT4
-  - WNT7B
-  - WNT9A
-  - FZD6
-  - FZD8
-  - WNT16
-  - WNT7A
-  - FZD5
-  - WNT5B
-  - WNT6
-  - MAPK1
-  - PRY
-  - MAPK14
-  - FZD7
-  - FZD1
-  - MAPK3
-  - SYS1
-  - FZD3
-  - WNT10A
-  - FZD4
-  - WNT8B
-  - POP1
-  - WNT8A
   - WNT2
   - WNT2B
-  - MAPK12
-  - MAPK9
-  - WNT10B
   - WNT3
-  - MAPK11
-  - MAPK13
+  - WNT3A
+  - WNT4
+  - WNT6
+  - WNT7A
+  - WNT7B
+  - WNT8A
+  - WNT8B
+  - WNT9A
+  - WNT9B
+  - WNT10A
+  - WNT10B
   - WNT11
+  - WNT16
+  - WNT5A
+  - WNT5B
+  - FZD1
+  - FZD10
+  - FZD2
+  - FZD3
+  - FZD4
+  - FZD5
+  - FZD6
+  - FZD7
+  - FZD8
+  - FZD9
+  - MAGEH1
+  - ADAR
+  - DVL1P1
+  - PRY
+  - KCNQ1OT1
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
   - MAPK8
+  - MAPK9
   - MAPK10
-genes:
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD2
-  entrez: '2535'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3A
-  entrez: '89780'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT1
-  entrez: '7471'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD10
-  entrez: '11211'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD9
-  entrez: '8326'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9B
-  entrez: '7484'
-- word: APR-1
-  symbol: APR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAGEH1
-  entrez: '28986'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5A
-  entrez: '7474'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT4
-  entrez: '54361'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7B
-  entrez: '7477'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9A
-  entrez: '7483'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD6
-  entrez: '8323'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD8
-  entrez: '8325'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT16
-  entrez: '51384'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7A
-  entrez: '7476'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD5
-  entrez: '7855'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5B
-  entrez: '81029'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT6
-  entrez: '7475'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PRY-1
-  symbol: PRY1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRY
-  entrez: '9081'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD7
-  entrez: '8324'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD1
-  entrez: '8321'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: SYS-1
-  symbol: SYS1
-  source: hgnc_symbol
-  hgnc_symbol: SYS1
-  entrez: '90196'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD3
-  entrez: '7976'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10A
-  entrez: '80326'
-- word: Frizzled
-  symbol: Frizzled
-  source: bioentities_symbol
-  hgnc_symbol: FZD4
-  entrez: '8322'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8B
-  entrez: '7479'
-- word: P-POP-1
-  symbol: POP1
-  source: hgnc_symbol
-  hgnc_symbol: POP1
-  entrez: '10940'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8A
-  entrez: '7478'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2
-  entrez: '7472'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2B
-  entrez: '7482'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10B
-  entrez: '7480'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3
-  entrez: '7473'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT11
-  entrez: '7481'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-chemicals: []
-diseases: []
-figid_alias: PMC3405868__F4
-redirect_from: /figures/PMC3405868__F4
-figtype: Figure
+  - SYS1
+  - POP1
+  - BVES
+  - PYDC1
+  - ERVW-4
 ---

@@ -1,21 +1,29 @@
 ---
 figid: PMC2279909__Volmer5
+figtitle: Metabolic pathway for lactose degradation
+organisms:
+- Escherichia coli
+pmcid: PMC2279909
+filename: Volmer5.jpg
 figlink: /pmc/articles/PMC2279909/figure/f5/
 number: F5
 caption: Metabolic pathway for lactose degradation.
-pmcid: PMC2279909
 papertitle: 'Differential Proteome Analysis: Two-Dimensional Nano-LC/MS of E. Coli
   Proteome Grown on Different Carbon Sources.'
 reftext: Martin Vollmer, et al. J Biomol Tech. 2003 Jun;14(2):128-135.
-pmc_ranked_result_index: '39023'
-pathway_score: 0.9226835
-filename: Volmer5.jpg
-figtitle: Metabolic pathway for lactose degradation
 year: '2003'
-organisms:
-- Escherichia coli
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9226835
+figid_alias: PMC2279909__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC2279909__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -28,7 +36,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - WDTC1
   - Glucose-1-phosphate
   - Galactose
   - Glucose
@@ -36,36 +43,4 @@ schema-jsonld:
   - phosphate
   - UDP
   - UDP-Galctose
-genes:
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-chemicals:
-- word: Glucose-1-phosphate
-  source: MESH
-  identifier: C031590
-- word: Galactose
-  source: MESH
-  identifier: D005690
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: 6-phosphate
-  source: MESH
-  identifier: D010710
-- word: phosphate
-  source: MESH
-  identifier: D010710
-- word: UDP
-  source: MESH
-  identifier: D014530
-- word: UDP-Galctose
-  source: MESH
-  identifier: D014530
-diseases: []
-figid_alias: PMC2279909__F5
-redirect_from: /figures/PMC2279909__F5
-figtype: Figure
 ---

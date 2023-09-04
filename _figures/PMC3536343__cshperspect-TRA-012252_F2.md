@@ -1,5 +1,10 @@
 ---
 figid: PMC3536343__cshperspect-TRA-012252_F2
+figtitle: MTORC2 signaling pathway
+organisms:
+- NA
+pmcid: PMC3536343
+filename: cshperspect-TRA-012252_F2.jpg
 figlink: /pmc/articles/PMC3536343/figure/A012252F2/
 number: F2
 caption: Schematic representation of mTORC2 signaling pathway. Cellular functions
@@ -14,18 +19,21 @@ caption: Schematic representation of mTORC2 signaling pathway. Cellular function
   mTORC2 are still largely elusive. T bars represent inhibitory signals, whereas arrows
   indicate stimulatory signals. Abbreviations and detailed explanations are provided
   in the text.
-pmcid: PMC3536343
 papertitle: Regulation of mRNA Translation by Signaling Pathways.
 reftext: Philippe P. Roux, et al. Cold Spring Harb Perspect Biol. 2012 Nov;4(11):a012252.
-pmc_ranked_result_index: '97409'
-pathway_score: 0.8014809
-filename: cshperspect-TRA-012252_F2.jpg
-figtitle: MTORC2 signaling pathway
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8014809
+figid_alias: PMC3536343__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3536343__F2
 ndex: fc929420-df25-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,143 +57,25 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - MAPKAP1
+  - MTOR
+  - RICTOR
+  - MLST8
+  - SGK1
+  - DEPTOR
+  - AKT1
+  - AKT2
+  - AKT3
+  - PRRT2
   - PRKCA
   - PRKCB
-  - RICTOR
-  - SGK1
-  - MLST8
   - PRKCD
-  - PRKD3
-  - MAPKAP1
+  - PRKCE
+  - PRKCG
+  - PRKCH
   - PRKCI
   - PRKCQ
-  - MTOR
   - PRKCZ
-  - PRKCG
-  - PRKCE
-  - AKT2
-  - DEPTOR
-  - PRKCH
-  - AKT3
-  - AKT1
+  - PRKD3
   - Cancer
-genes:
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: SGK1
-  symbol: SGK1
-  source: hgnc_symbol
-  hgnc_symbol: SGK1
-  entrez: '6446'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: Rictor
-  symbol: RICTOR
-  source: hgnc_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: gBL
-  symbol: GbetaL
-  source: hgnc_alias_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Deptor
-  symbol: DEPTOR
-  source: hgnc_symbol
-  hgnc_symbol: DEPTOR
-  entrez: '64798'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3536343__F2
-redirect_from: /figures/PMC3536343__F2
-figtype: Figure
 ---

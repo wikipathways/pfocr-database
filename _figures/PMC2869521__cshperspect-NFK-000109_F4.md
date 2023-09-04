@@ -1,5 +1,10 @@
 ---
 figid: PMC2869521__cshperspect-NFK-000109_F4
+figtitle: Solid tumors activate the NFKB pathway to maintain cell survival
+organisms:
+- NA
+pmcid: PMC2869521
+filename: cshperspect-NFK-000109_F4.jpg
 figlink: /pmc/articles/PMC2869521/figure/A000109F4/
 number: F4
 caption: Solid tumors activate the NF-κB pathway to maintain cell survival. (A) IKKε
@@ -15,18 +20,22 @@ caption: Solid tumors activate the NF-κB pathway to maintain cell survival. (A)
   NF-κB pathway activation, as judged by the accumulation of nuclear p50/c-rel heterodimers.
   Because TBK1 can only phosphorylate one serine in IκBα, an as yet unknown kinase
   must cooperate with TBK1 to achieve dual IκBα phosphorylation.
-pmcid: PMC2869521
 papertitle: Oncogenic Activation of NF-κB.
 reftext: Louis M. Staudt. Cold Spring Harb Perspect Biol. 2010 Jun;2(6):a000109.
-pmc_ranked_result_index: '135409'
-pathway_score: 0.9569199
-filename: cshperspect-NFK-000109_F4.jpg
-figtitle: Solid tumors activate the NFKB pathway to maintain cell survival
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9569199
+figid_alias: PMC2869521__F4
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2869521__F4
 ndex: 80ad638c-decd-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -52,140 +61,60 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NFKB1
-  - MTOR
-  - PIK3CG
-  - IKBKE
-  - IKBKG
-  - PIK3R3
-  - PIK3R5
-  - PIK3CD
-  - PIK3CB
-  - PIK3CA
-  - RALB
-  - PIK3R6
-  - IKBKB
-  - BRAF
-  - ARAF
-  - PIK3R4
-  - CHUK
-  - TBK1
-  - RAF1
-  - REL
+  - IKKepsilon
+  - as
+  - mapP
+  - Raf
+  - kra
+  - kraken
+  - Myd88
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Mtor
+  - Tor
   - CYLD
+  - Sec5
+  - key
+  - IKKbeta
+  - Rel
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - Dif
+  - dl
+  - IKBKE
+  - SGSM3
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - KRAS
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - MTOR
+  - RALB
+  - MTG1
+  - EXOC2
+  - IKBKG
+  - TBK1
+  - IKBKB
+  - CHUK
+  - REL
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - NFKB1
   - Cancer
-genes:
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: IKKE
-  symbol: IKKE
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKE
-  entrez: '9641'
-- word: IKKY
-  symbol: IKK-gamma
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: RalB
-  symbol: RALB
-  source: hgnc_symbol
-  hgnc_symbol: RALB
-  entrez: '5899'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: IKKB
-  symbol: IKK-beta
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: +RAF+
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: +RAF+
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: PI(3)K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: IKKA
-  symbol: IKK-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: TBK1
-  symbol: TBK1
-  source: hgnc_symbol
-  hgnc_symbol: TBK1
-  entrez: '29110'
-- word: +RAF+
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: c-rel
-  symbol: c-Rel
-  source: hgnc_alias_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: CYLD
-  symbol: CYLD
-  source: hgnc_symbol
-  hgnc_symbol: CYLD
-  entrez: '1540'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC2869521__F4
-redirect_from: /figures/PMC2869521__F4
-figtype: Figure
 ---

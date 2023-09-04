@@ -1,5 +1,10 @@
 ---
 figid: PMC4665079__cshperspect-SIG-006080_F4
+figtitle: Death receptor signaling pathway
+organisms:
+- NA
+pmcid: PMC4665079
+filename: cshperspect-SIG-006080_F4.jpg
 figlink: /pmc/articles/PMC4665079/figure/A006080F4/
 number: F4
 caption: 'Death receptor signaling pathway. The death receptor signaling pathway is
@@ -25,18 +30,21 @@ caption: 'Death receptor signaling pathway. The death receptor signaling pathway
   activity, and this activity antagonizes the activation of RIP3. Therefore, complexes
   containing FLIP–caspase-8 heterodimers simultaneously block apoptosis and RIP-dependent
   necrosis.'
-pmcid: PMC4665079
 papertitle: Cell Death Signaling.
 reftext: Douglas R. Green, et al. Cold Spring Harb Perspect Biol. 2015 Dec;7(12):a006080.
-pmc_ranked_result_index: '106027'
-pathway_score: 0.9606661
-filename: cshperspect-SIG-006080_F4.jpg
-figtitle: Death receptor signaling pathway
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9606661
+figid_alias: PMC4665079__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4665079__F4
 ndex: 42c867a2-dedd-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -71,82 +79,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - FAS
-  - TNFRSF1A
-  - KRR1
-  - BIRC2
-  - TRAF2
-  - FADD
-  - BIRC3
-  - FASLG
-  - RIPK3
   - TNF
+  - FASLG
+  - FAS
+  - FASN
+  - TNFRSF1A
   - TRADD
+  - UQCRFS1
+  - RIPK1
+  - RALBP1
+  - KRR1
+  - FADD
+  - TRAF2
+  - TANK
+  - BIRC2
+  - BIRC3
+  - RIPK3
+  - MPRIP
   - CFLAR
-genes:
-- word: Fas
-  symbol: FAS
-  source: hgnc_symbol
-  hgnc_symbol: FAS
-  entrez: '355'
-- word: TNFR1
-  symbol: TNFR1
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNFRSF1A
-  entrez: '7132'
-- word: RIP1
-  symbol: RIP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: KRR1
-  entrez: '11103'
-- word: CIAP1/2
-  symbol: c-IAP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: BIRC2
-  entrez: '329'
-- word: TRAF2
-  symbol: TRAF2
-  source: hgnc_symbol
-  hgnc_symbol: TRAF2
-  entrez: '7186'
-- word: FADD
-  symbol: FADD
-  source: hgnc_symbol
-  hgnc_symbol: FADD
-  entrez: '8772'
-- word: CIAP1/2
-  symbol: c-IAP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BIRC3
-  entrez: '330'
-- word: FasL
-  symbol: FasL
-  source: hgnc_alias_symbol
-  hgnc_symbol: FASLG
-  entrez: '356'
-- word: RIP3
-  symbol: RIP3
-  source: hgnc_alias_symbol
-  hgnc_symbol: RIPK3
-  entrez: '11035'
-- word: TNF
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: TRADD
-  symbol: TRADD
-  source: hgnc_symbol
-  hgnc_symbol: TRADD
-  entrez: '8717'
-- word: FLIP
-  symbol: FLIP
-  source: hgnc_alias_symbol
-  hgnc_symbol: CFLAR
-  entrez: '8837'
-chemicals: []
-diseases: []
-figid_alias: PMC4665079__F4
-redirect_from: /figures/PMC4665079__F4
-figtype: Figure
+  - FIRRM
 ---

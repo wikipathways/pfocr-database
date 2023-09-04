@@ -1,5 +1,11 @@
 ---
 figid: PMC3865377__gahmj.2013.088.g001
+figtitle: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
+  and glutathione synthesis
+organisms:
+- NA
+pmcid: PMC3865377
+filename: gahmj.2013.088.g001.jpg
 figlink: /pmc/articles/PMC3865377/figure/F1/
 number: F1
 caption: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
@@ -23,20 +29,22 @@ caption: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylati
   function, DNA synthesis and repair), essential methylation (eg, DNA, RNA, protein,
   phospholipid, neurotranmittors, creatine), and redox homeostasis (eg, cell signaling,
   detoxification, stress response, cell cycle progression, and apoptosis).
-pmcid: PMC3865377
 papertitle: 'Autism and Folate-dependent One-carbon Metabolism: Serendipity and Critical
   Branch-point Decisions in Science.'
 reftext: S. Jill James. Glob Adv Health Med. 2013 Nov;2(6):48-51.
-pmc_ranked_result_index: '6363'
-pathway_score: 0.8803252
-filename: gahmj.2013.088.g001.jpg
-figtitle: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylation
-  and glutathione synthesis
 year: '2013'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8803252
+figid_alias: PMC3865377__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3865377__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -70,8 +78,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CBS
-  - ACSM3
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - Ms
+  - sah
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Cbs
+  - cbs
+  - caboose
+  - CycE
+  - cyc
   - Adenosine
   - Cystathionine
   - Cysteine
@@ -79,41 +100,4 @@ schema-jsonld:
   - Homocysteine
   - Methionine
   - GSSG
-genes:
-- word: CBS
-  symbol: CBS
-  source: hgnc_symbol
-  hgnc_symbol: CBS
-  entrez: '875'
-- word: SAH
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-chemicals:
-- word: Adenosine
-  source: MESH
-  identifier: D000241
-- word: Cystathionine
-  source: MESH
-  identifier: D003540
-- word: Cysteine
-  source: MESH
-  identifier: D003545
-- word: Folate
-  source: MESH
-  identifier: D005492
-- word: Homocysteine
-  source: MESH
-  identifier: D006710
-- word: Methionine
-  source: MESH
-  identifier: D008715
-- word: GSSG
-  source: MESH
-  identifier: D019803
-diseases: []
-figid_alias: PMC3865377__F1
-redirect_from: /figures/PMC3865377__F1
-figtype: Figure
 ---

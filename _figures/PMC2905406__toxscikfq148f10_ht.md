@@ -1,5 +1,11 @@
 ---
 figid: PMC2905406__toxscikfq148f10_ht
+figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticles
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC2905406
+filename: toxscikfq148f10_ht.jpg
 figlink: /pmc/articles/PMC2905406/figure/fig10/
 number: F10
 caption: 'Illustration of GDNF signaling disruption by coated silver nanoparticles.
@@ -13,19 +19,23 @@ caption: 'Illustration of GDNF signaling disruption by coated silver nanoparticl
   nanoparticles promoted a decrease in Fyn activity, which disrupted Akt activity
   and promoted a decline in N-myc expression, leading ultimately to a decline in cell
   proliferation. GDNF binding and Ret activation are not affected.'
-pmcid: PMC2905406
 papertitle: Silver Nanoparticles Disrupt GDNF/Fyn kinase Signaling in Spermatogonial
   Stem Cells.
 reftext: Laura K. Braydich-Stolle, et al. Toxicol Sci. 2010 Aug;116(2):577-589.
-pmc_ranked_result_index: '72242'
-pathway_score: 0.875026
-filename: toxscikfq148f10_ht.jpg
-figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticles
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.875026
+figid_alias: PMC2905406__F10
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Mus musculus
+redirect_from: /figures/PMC2905406__F10
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,68 +58,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MYCN
-  - GFRA1
-  - PI3
-  - RET
-  - AKT1
   - GDNF
+  - GFRA1
+  - RET
   - FYN
+  - AKT1
   - AKT2
   - AKT3
+  - PI3
+  - MYCN
+  - ag
+  - Gdnf
+  - Gfra1
+  - Ret
+  - Fyn
+  - Akt1
+  - Serpina1c
+  - Mycn
   - Cancer
-genes:
-- word: N-myc
-  symbol: N-myc
-  source: hgnc_alias_symbol
-  hgnc_symbol: MYCN
-  entrez: '4613'
-- word: GFRA-1
-  symbol: GFRA1
-  source: hgnc_symbol
-  hgnc_symbol: GFRA1
-  entrez: '2674'
-- word: PI3/Akt
-  symbol: PI3
-  source: hgnc_symbol
-  hgnc_symbol: PI3
-  entrez: '5266'
-- word: Ret
-  symbol: RET
-  source: hgnc_symbol
-  hgnc_symbol: RET
-  entrez: '5979'
-- word: PI3/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: GDNF
-  symbol: GDNF
-  source: hgnc_symbol
-  hgnc_symbol: GDNF
-  entrez: '2668'
-- word: Fyn
-  symbol: FYN
-  source: hgnc_symbol
-  hgnc_symbol: FYN
-  entrez: '2534'
-- word: PI3/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC2905406__F10
-redirect_from: /figures/PMC2905406__F10
-figtype: Figure
 ---

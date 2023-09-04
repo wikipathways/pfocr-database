@@ -1,5 +1,10 @@
 ---
 figid: PMC3536343__cshperspect-TRA-012252_F1
+figtitle: MTORC1 signaling to the translational machinery
+organisms:
+- NA
+pmcid: PMC3536343
+filename: cshperspect-TRA-012252_F1.jpg
 figlink: /pmc/articles/PMC3536343/figure/A012252F1/
 number: F1
 caption: Schematic representation of mTORC1 signaling to the translational machinery.
@@ -16,18 +21,22 @@ caption: Schematic representation of mTORC1 signaling to the translational machi
   are specific components of mTORC1 (pink). T bars represent inhibitory signals, whereas
   arrows indicate stimulatory signals. Abbreviations and detailed explanations are
   provided in the text.
-pmcid: PMC3536343
 papertitle: Regulation of mRNA Translation by Signaling Pathways.
 reftext: Philippe P. Roux, et al. Cold Spring Harb Perspect Biol. 2012 Nov;4(11):a012252.
-pmc_ranked_result_index: '28244'
-pathway_score: 0.9348234
-filename: cshperspect-TRA-012252_F1.jpg
-figtitle: MTORC1 signaling to the translational machinery
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9348234
+figid_alias: PMC3536343__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3536343__F1
 ndex: d25b428b-df08-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,340 +62,188 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAPK1
+  - Tie
+  - Ras85D
+  - InR
+  - Pdk1
+  - ras
+  - Ras64B
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Lkb1
+  - Raf
+  - Pten
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - SNF4Agamma
+  - AMPKalpha
+  - gig
+  - Tsc1
+  - Amph
+  - ATPsynbeta
+  - Atpalpha
+  - Rheb
+  - Crtc
+  - Mtor
+  - Tor
+  - raptor
+  - PRAS40
+  - Lst8
+  - eIF4B
+  - RpS6
+  - Thor
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E1
+  - Pdcd4
+  - eIF4G2
+  - eIF4G1
+  - eIF4E6
+  - eIF4EHP
+  - CG9932
+  - eIF4A
+  - CG7483
+  - eEF2
+  - CG4849
+  - Maf1
+  - tj
+  - trnA
+  - tRNA:Asp-GTC-1-9
+  - VhaSFD
+  - Vha55
+  - Vha16-1
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
   - PDK1
-  - AKT3
-  - MAPKAP1
-  - STK11
-  - PIK3R6
-  - PDCD4
-  - PIK3R3
-  - POLDIP3
-  - PTEN
-  - MAPK3
-  - MLST8
-  - AKT1
-  - AKT1S1
-  - TSC2
-  - PIK3CG
-  - AKT2
-  - TSC1
-  - EEF2K
-  - EEF2
-  - PIK3CD
-  - RPTOR
-  - DEPTOR
-  - RICTOR
-  - RPS6
-  - PRKAB2
-  - MFAP1
-  - DDIT4
-  - MAP2K2
-  - PIK3CB
-  - PRKAG1
-  - ARAF
-  - MTOR
-  - RAF1
+  - PDPK1
+  - KRAS
+  - HRAS
   - NRAS
   - PIK3CA
-  - PRKAB1
-  - RHEB
-  - PRKAG2
-  - MAP2K1
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
   - PIK3R4
-  - MAF1
-  - HRAS
-  - PRKAA1
-  - KRAS
-  - PRKAG3
   - PIK3R5
-  - PRKAA2
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
+  - STK11
+  - ZHX2
+  - ARAF
   - BRAF
+  - RAF1
+  - PTEN
+  - MAPKAP1
+  - MTOR
+  - RICTOR
+  - MLST8
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - TSC2
+  - TSC1
+  - CCL26
+  - APRT
+  - MFAP1
+  - ATP8A2
+  - RHEB
+  - RHEBP1
+  - RPTOR
+  - DDIT4
+  - DEPTOR
+  - RRAGD
+  - AKT1S1
+  - RRAGB
+  - EIF4B
+  - RPS6
+  - EIF4A2
+  - EIF4E
+  - EIF4G1
+  - PDCD4
+  - EEF2K
+  - EIF4G2
+  - EIF4G3
+  - POLDIP3
+  - EIF4E2
+  - EIF4E3
+  - EIF4A1
+  - EIF4A3
+  - EEF2
+  - MAF1
+  - TRNA
+  - DNAH8
   - Cancer
   - Cardiomyopathy
   - Lung cancer
   - Noonan syndrome
-genes:
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: LKB1
-  symbol: LKB1
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK11
-  entrez: '6794'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PDCD4
-  symbol: PDCD4
-  source: hgnc_symbol
-  hgnc_symbol: PDCD4
-  entrez: '27250'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: SKAR
-  symbol: SKAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: POLDIP3
-  entrez: '84271'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: gBL
-  symbol: GbetaL
-  source: hgnc_alias_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PRAS40
-  symbol: PRAS40
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1S1
-  entrez: '84335'
-- word: TSC2
-  symbol: TSC2
-  source: hgnc_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: TSC1
-  symbol: TSC1
-  source: hgnc_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: EEF2K
-  symbol: EEF2K
-  source: hgnc_symbol
-  hgnc_symbol: EEF2K
-  entrez: '29904'
-- word: EEF2
-  symbol: EEF2
-  source: hgnc_symbol
-  hgnc_symbol: EEF2
-  entrez: '1938'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: MTORC1-
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: Deptor
-  symbol: DEPTOR
-  source: hgnc_symbol
-  hgnc_symbol: DEPTOR
-  entrez: '64798'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: rpS6
-  symbol: RPS6
-  source: hgnc_symbol
-  hgnc_symbol: RPS6
-  entrez: '6194'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: '|AMP/ATP'
-  symbol: AMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MFAP1
-  entrez: '4236'
-- word: REDD1
-  symbol: REDD-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDIT4
-  entrez: '54541'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: MTORC1-
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: Rheb
-  symbol: RHEB
-  source: hgnc_symbol
-  hgnc_symbol: RHEB
-  entrez: '6009'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: Maf1
-  symbol: MAF1
-  source: hgnc_symbol
-  hgnc_symbol: MAF1
-  entrez: '84232'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: Raptor
-  symbol: raptor
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Lung cancer
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC3536343__F1
-redirect_from: /figures/PMC3536343__F1
-figtype: Figure
 ---

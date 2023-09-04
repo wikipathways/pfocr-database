@@ -1,5 +1,14 @@
 ---
 figid: PMC8108589__painreports-6-e898-g003
+figtitle: LRP-1 modulates neurodegeneration and neuroregeneration
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Schisandra chinensis
+- Chamaeleo chamaeleon
+pmcid: PMC8108589
+filename: painreports-6-e898-g003.jpg
 figlink: pmc/articles/PMC8108589/figure/F3/
 number: F3
 caption: LRP-1 modulates neurodegeneration and neuroregeneration. The inflammatory
@@ -21,23 +30,24 @@ caption: LRP-1 modulates neurodegeneration and neuroregeneration. The inflammato
   B cells; SFK, Src family kinase; TNFα, tumor necrosis factor α; TNFR, TNF-α receptor;
   TRADD, TNFR-associated domain protein; TRAF1/2, TNF receptor–associated factor 1/2;
   Trk, tyrosine kinase.
-pmcid: PMC8108589
 papertitle: 'From the low-density lipoprotein receptor–related protein 1 to neuropathic
   pain: a potentially novel target.'
 reftext: Patricia García-Fernández, et al. Pain Rep. 2021;6(1):e898.
-pmc_ranked_result_index: '101240'
-pathway_score: 0.9713984
-filename: painreports-6-e898-g003.jpg
-figtitle: LRP-1 modulates neurodegeneration and neuroregeneration
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9713984
+figid_alias: PMC8108589__F3
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Mus musculus
 - Rattus norvegicus
-- Schisandra chinensis
-- Chamaeleo chamaeleon
-- Homo sapiens
+redirect_from: /figures/PMC8108589__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -72,204 +82,60 @@ schema-jsonld:
   - IL16
   - NGF
   - LRP1
-  - MMRN1
+  - C1D
+  - TNFRSF1A
   - IL1R1
-  - MAPK14
-  - MAPK11
-  - MAPK13
-  - MAPK12
+  - NTRK1
+  - TPM3
   - MAPK8
   - MAPK9
   - MAPK10
-  - MAPK3
+  - CRK
+  - MAPK14
   - MAPK1
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK3
   - TRADD
   - TRAF1
   - FADD
   - TRAF2
+  - TANK
+  - AKT1
   - AKT2
   - AKT3
-  - AKT1
+  - ERVK-8
+  - ERVK-10
+  - ERVK-9
+  - ERVK-21
+  - ERVK-18
+  - ERVK-25
+  - ERVK-24
+  - ERVK-19
   - IL6
-genes:
-- word: TNFa
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-16
-  symbol: IL-16
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL16
-  entrez: '3603'
-- word: NGF
-  symbol: NGF
-  source: hgnc_symbol
-  hgnc_symbol: NGF
-  entrez: '4803'
-- word: LRP-1
-  symbol: LRP1
-  source: hgnc_symbol
-  hgnc_symbol: LRP1
-  entrez: '4035'
-- word: ЕСМ
-  symbol: ECM
-  source: hgnc_alias_symbol
-  hgnc_symbol: MMRN1
-  entrez: '22915'
-- word: IL-1R
-  symbol: IL1R
-  source: hgnc_prev_symbol
-  hgnc_symbol: IL1R1
-  entrez: '3554'
-- word: LRP-1
-  symbol: LRP1
-  source: hgnc_symbol
-  hgnc_symbol: LRP1
-  entrez: '4035'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: ERK1/2
-  symbol: ERK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: ERK1/2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: TRADD
-  symbol: TRADD
-  source: hgnc_symbol
-  hgnc_symbol: TRADD
-  entrez: '8717'
-- word: TRAF1
-  symbol: TRAF1
-  source: hgnc_symbol
-  hgnc_symbol: TRAF1
-  entrez: '7185'
-- word: FADD
-  symbol: FADD
-  source: hgnc_symbol
-  hgnc_symbol: FADD
-  entrez: '8772'
-- word: TRAF2
-  symbol: TRAF2
-  source: hgnc_symbol
-  hgnc_symbol: TRAF2
-  entrez: '7186'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: DERK(1/2)/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: TNFa
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-16
-  symbol: IL-16
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL16
-  entrez: '3603'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-chemicals: []
-diseases: []
-figid_alias: PMC8108589__F3
-redirect_from: /figures/PMC8108589__F3
-figtype: Figure
+  - Tnf
+  - Il16
+  - Ngf
+  - Lrp1
+  - Tnfrsf1a
+  - Ntrk1
+  - Mapk8
+  - Crk
+  - Grap2
+  - Syp
+  - Mapk14
+  - Ahsa1
+  - Mapk3
+  - Mapk1
+  - Tradd
+  - Traf1
+  - Fadd
+  - Traf2
+  - Akt1
+  - Il6
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC4066641__cshperspectmed-MYC-014407_F1
+figtitle: Apoptotic signaling pathways in normal and malignant cells
+organisms:
+- Homo sapiens
+- Mus musculus
+pmcid: PMC4066641
+filename: cshperspectmed-MYC-014407_F1.jpg
 figlink: /pmc/articles/PMC4066641/figure/A014407F1/
 number: F1
 caption: Apoptotic signaling pathways in normal and malignant cells. Fundamental differences
@@ -21,19 +27,22 @@ caption: Apoptotic signaling pathways in normal and malignant cells. Fundamental
   tumor cells are able to tolerate constitutively elevated MYC and avoid apoptosis.
   At least conceptually, the restoration of MYC-driven apoptosis signaling pathways
   in tumor cells yields promise as an anticancer therapy.
-pmcid: PMC4066641
 papertitle: MYC and the Control of Apoptosis.
 reftext: Steven B. McMahon. Cold Spring Harb Perspect Med. 2014 Jul;4(7):a014407.
-pmc_ranked_result_index: '75501'
-pathway_score: 0.610228
-filename: cshperspectmed-MYC-014407_F1.jpg
-figtitle: Apoptotic signaling pathways in normal and malignant cells
 year: '2014'
-organisms:
-- Mus musculus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.610228
+figid_alias: PMC4066641__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC4066641__F1
 ndex: 95a2ebf2-df33-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -65,88 +74,70 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - REL
-  - RELA
-  - PDGFA
-  - PDGFC
-  - NFKB2
-  - NFKB1
-  - RELB
-  - EGF
-  - BCL2
-  - TP53
   - MYC
-  - PDGFD
+  - IGF1
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
   - PDGFB
-genes:
-- word: (NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: (NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFA
-  entrez: '5154'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFC
-  entrez: '56034'
-- word: (NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: (NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: (NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: BCL-2)
-  symbol: BCL2
-  source: hgnc_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: p53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: MYC
-  symbol: MYC
-  source: hgnc_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFD
-  entrez: '80310'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFB
-  entrez: '5155'
-chemicals: []
-diseases: []
-figid_alias: PMC4066641__F1
-redirect_from: /figures/PMC4066641__F1
-figtype: Figure
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - BCL2
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
+  - TP53
+  - TP63
+  - TP73
+  - Myc
+  - Nol3
+  - Egf
+  - Bcl2
+  - Nfkb1
+  - Trp53
 ---

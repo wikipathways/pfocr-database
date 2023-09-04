@@ -1,5 +1,10 @@
 ---
 figid: PMC2647614__PROCATS4144fig2
+figtitle: Novel Insights into Lung Transplant Rejection by Microarray Analysis
+organisms:
+- NA
+pmcid: PMC2647614
+filename: PROCATS4144fig2.jpg
 figlink: /pmc/articles/PMC2647614/figure/fig2/
 number: F2
 caption: Relationship of genes significantly changed in acute rejection to process
@@ -17,18 +22,21 @@ caption: Relationship of genes significantly changed in acute rejection to proce
   significantly changed; those highlighted in gray are not significantly changed;
   those in white were not represented on the Affymetrix Human U133A GeneChip. Reprinted
   by permission from Reference 76.
-pmcid: PMC2647614
 papertitle: Novel Insights into Lung Transplant Rejection by Microarray Analysis.
 reftext: Jeffrey D. Lande, et al. Proc Am Thorac Soc. 2007 Jan;4(1):44-51.
-pmc_ranked_result_index: '43360'
-pathway_score: 0.8901932
-filename: PROCATS4144fig2.jpg
-figtitle: Novel Insights into Lung Transplant Rejection by Microarray Analysis
 year: '2007'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8901932
+figid_alias: PMC2647614__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2647614__F2
 ndex: 3b53500a-deaf-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,175 +63,71 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IL5RA
-  - LCK
-  - IL2RB
-  - MET
-  - THBS1
-  - SET
-  - THBS2
-  - COMP
-  - CD80
-  - IL5
-  - IL2RA
-  - IL4
-  - TNFRSF1B
-  - CD86
-  - CD40LG
-  - IL2
-  - TNFRSF1A
-  - IL4R
-  - ZAP70
   - CD79A
-  - THBS4
-  - THBS3
-  - CACNA1E
+  - CD40LG
+  - COL6A1
+  - COL6A2
+  - COL6A3
+  - COL6A5
+  - COL6A6
+  - COL7A1
+  - COL8A1
+  - COL8A2
+  - COL9A1
+  - COL9A2
+  - COL9A3
+  - COL10A1
+  - COL11A1
+  - COL11A2
+  - COL12A1
+  - COL13A1
+  - COL14A1
+  - COL15A1
+  - COL16A1
+  - COL17A1
+  - COL18A1
+  - COL19A1
+  - COL20A1
+  - COL21A1
+  - COL22A1
+  - COL23A1
+  - COL24A1
+  - COL25A1
+  - COL26A1
+  - COL27A1
+  - COL28A1
+  - COL1A1
+  - COL1A2
+  - COL4A1
+  - COL4A2
+  - COL4A3
+  - COL4A4
+  - COL4A5
+  - COL4A6
+  - COL5A1
+  - COL5A2
+  - COL5A3
+  - IL5RA
+  - IL4R
+  - NEUROD1
+  - TUBB4B
+  - CD80
   - VTN
+  - CD86
+  - THBS1
+  - THBS2
+  - THBS3
+  - THBS4
+  - COMP
+  - LCK
+  - ZAP70
   - CD28
-genes:
-- word: IL5-R
-  symbol: IL5R
-  source: hgnc_prev_symbol
-  hgnc_symbol: IL5RA
-  entrez: '3568'
-- word: LCK
-  symbol: LCK
-  source: hgnc_symbol
-  hgnc_symbol: LCK
-  entrez: '3932'
-- word: IL-2R-beta
-  symbol: IL2RB
-  source: hgnc_symbol
-  hgnc_symbol: IL2RB
-  entrez: '3560'
-- word: met
-  symbol: MET
-  source: hgnc_symbol
-  hgnc_symbol: MET
-  entrez: '4233'
-- word: Thbs
-  symbol: THBS
-  source: bioentities_symbol
-  hgnc_symbol: THBS1
-  entrez: '7057'
-- word: 'Set:'
-  symbol: SET
-  source: hgnc_symbol
-  hgnc_symbol: SET
-  entrez: '6418'
-- word: Thbs
-  symbol: THBS
-  source: bioentities_symbol
-  hgnc_symbol: THBS2
-  entrez: '7058'
-- word: Thbs
-  symbol: THBS
-  source: bioentities_symbol
-  hgnc_symbol: COMP
-  entrez: '1311'
-- word: B7-1
-  symbol: B7-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CD80
-  entrez: '941'
-- word: IL5
-  symbol: IL5
-  source: hgnc_symbol
-  hgnc_symbol: IL5
-  entrez: '3567'
-- word: IL-2R-alpha
-  symbol: IL2RA
-  source: hgnc_symbol
-  hgnc_symbol: IL2RA
-  entrez: '3559'
-- word: IL4
-  symbol: IL4
-  source: hgnc_symbol
-  hgnc_symbol: IL4
-  entrez: '3565'
-- word: TNF-R2
-  symbol: TNF-R-II
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFRSF1B
-  entrez: '7133'
-- word: B7-2
-  symbol: B7-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CD86
-  entrez: '942'
-- word: CD40L
-  symbol: CD40L
-  source: hgnc_alias_symbol
-  hgnc_symbol: CD40LG
-  entrez: '959'
-- word: IL2
-  symbol: IL2
-  source: hgnc_symbol
-  hgnc_symbol: IL2
-  entrez: '3558'
-- word: TNF-R1
-  symbol: TNFR1
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNFRSF1A
-  entrez: '7132'
-- word: IL4-R
-  symbol: IL4R
-  source: hgnc_symbol
-  hgnc_symbol: IL4R
-  entrez: '3566'
-- word: Zap-70
-  symbol: ZAP-70
-  source: hgnc_alias_symbol
-  hgnc_symbol: ZAP70
-  entrez: '7535'
-- word: IgA
-  symbol: IGA
-  source: hgnc_prev_symbol
-  hgnc_symbol: CD79A
-  entrez: '973'
-- word: Thbs
-  symbol: THBS
-  source: bioentities_symbol
-  hgnc_symbol: THBS4
-  entrez: '7060'
-- word: Thbs3
-  symbol: THBS3
-  source: hgnc_symbol
-  hgnc_symbol: THBS3
-  entrez: '7059'
-- word: beta2
-  symbol: BII
-  source: hgnc_alias_symbol
-  hgnc_symbol: CACNA1E
-  entrez: '777'
-- word: Vitronectin
-  symbol: VTN
-  source: hgnc_symbol
-  hgnc_symbol: VTN
-  entrez: '7448'
-- word: CD-28
-  symbol: CD28
-  source: hgnc_symbol
-  hgnc_symbol: CD28
-  entrez: '940'
-- word: Thbs1
-  symbol: THBS1
-  source: hgnc_symbol
-  hgnc_symbol: THBS1
-  entrez: '7057'
-- word: Thbs
-  symbol: THBS
-  source: bioentities_symbol
-  hgnc_symbol: THBS3
-  entrez: '7059'
-- word: 'B7-2:'
-  symbol: B7-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CD86
-  entrez: '942'
-chemicals: []
-diseases: []
-figid_alias: PMC2647614__F2
-redirect_from: /figures/PMC2647614__F2
-figtype: Figure
+  - TNFRSF1A
+  - TNFRSF1B
+  - IL2RA
+  - IL2RB
+  - IL2
+  - IL4
+  - IL5
+  - SET
 ---

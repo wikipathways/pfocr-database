@@ -1,5 +1,10 @@
 ---
 figid: PMC3543073__cshperspectmed-BAC-010272_F2
+figtitle: Three examples of chromatin-modifying complexes and their mode of action
+organisms:
+- NA
+pmcid: PMC3543073
+filename: cshperspectmed-BAC-010272_F2.jpg
 figlink: /pmc/articles/PMC3543073/figure/A010272F2/
 number: F2
 caption: Three examples of chromatin-modifying complexes and their mode of action.
@@ -36,18 +41,21 @@ caption: Three examples of chromatin-modifying complexes and their mode of actio
   assembly of the different subunits, in response to signals to which cells are submitted.
   On Listeria infection, the BAHD1 complex assembles at promoters of a set of interferon-stimulated
   genes (ISGs), as shown in .
-pmcid: PMC3543073
 papertitle: Epigenetics and Bacterial Infections.
 reftext: Hélène Bierne, et al. Cold Spring Harb Perspect Med. 2012 Dec;2(12):a010272.
-pmc_ranked_result_index: '233949'
-pathway_score: 0.85406
-filename: cshperspectmed-BAC-010272_F2.jpg
-figtitle: Three examples of chromatin-modifying complexes and their mode of action
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.85406
+figid_alias: PMC3543073__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3543073__F2
 ndex: 80feb438-deee-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -93,117 +101,48 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAPK9
-  - TF
-  - CBX5
-  - JUN
-  - KIFAP3
-  - MAPK10
   - MAPK8
+  - MAPK9
+  - MAPK10
+  - MTA1
+  - JUN
+  - MBD3
+  - DPEP3
+  - MBD2
+  - DPEP2
+  - XIST
+  - XIC
+  - EED
+  - EZH1
+  - EZH2
+  - SUZ12
+  - PRC1
+  - BMI1
+  - CBX2
+  - CBX4
+  - CBX8
+  - PCGF2
+  - PHC1
+  - PHC2
+  - PHC3
+  - PHF1
+  - RING1
+  - RNF2
+  - SCMH1
+  - YY1
+  - ZNF134
+  - DNMT3A
   - BAHD1
   - SETDB1
-  - PRC1
-  - HDAC2
+  - DEFA1
+  - CBX5
+  - DEFA1B
+  - CDKN3
+  - TRIM28
+  - KIFAP3
   - HDAC1
-  - DNMT3A
-  - MTA1
-  - MBD3
+  - HDAC2
   - MBD1
-  - MBD2
-genes:
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: TF
-  symbol: TF
-  source: hgnc_symbol
-  hgnc_symbol: TF
-  entrez: '7018'
-- word: HP1
-  symbol: HP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CBX5
-  entrez: '23468'
-- word: C-Jun
-  symbol: c-Jun
-  source: hgnc_alias_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: KAP1
-  symbol: KAP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: KIFAP3
-  entrez: '22920'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: BAHD1
-  symbol: BAHD1
-  source: hgnc_symbol
-  hgnc_symbol: BAHD1
-  entrez: '22893'
-- word: SETDB1
-  symbol: SETDB1
-  source: hgnc_symbol
-  hgnc_symbol: SETDB1
-  entrez: '9869'
-- word: PRC1
-  symbol: PRC1
-  source: hgnc_symbol
-  hgnc_symbol: PRC1
-  entrez: '9055'
-- word: c-Jun
-  symbol: c-Jun
-  source: hgnc_alias_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: HDAC2
-  symbol: HDAC2
-  source: hgnc_symbol
-  hgnc_symbol: HDAC2
-  entrez: '3066'
-- word: HDAC1
-  symbol: HDAC1
-  source: hgnc_symbol
-  hgnc_symbol: HDAC1
-  entrez: '3065'
-- word: DNMT3A
-  symbol: DNMT3A
-  source: hgnc_symbol
-  hgnc_symbol: DNMT3A
-  entrez: '1788'
-- word: MTA1,
-  symbol: MTA1
-  source: hgnc_symbol
-  hgnc_symbol: MTA1
-  entrez: '9112'
-- word: MBD3
-  symbol: MBD3
-  source: hgnc_symbol
-  hgnc_symbol: MBD3
-  entrez: '53615'
-- word: MBD1
-  symbol: MBD1
-  source: hgnc_symbol
-  hgnc_symbol: MBD1
-  entrez: '4152'
-- word: MBD2
-  symbol: MBD2
-  source: hgnc_symbol
-  hgnc_symbol: MBD2
-  entrez: '8932'
-chemicals: []
-diseases: []
-figid_alias: PMC3543073__F2
-redirect_from: /figures/PMC3543073__F2
-figtype: Figure
+  - DPEP1
+  - TF
 ---

@@ -1,5 +1,17 @@
 ---
 figid: PMC6850780__elife-47209-fig8-figsupp1
+figtitle: Proposed mechanisms underlying the cocaine-regulated synthesis and release
+  of 2-AG in VTA
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- mouserat NG108-15
+- Homo sapiens
+- Bos taurus
+- vectors
+pmcid: PMC6850780
+filename: elife-47209-fig8-figsupp1.jpg
 figlink: /pmc/articles/PMC6850780/figure/fig8s1/
 number: SF8_1
 caption: DA neurons and the involvement of EVs and Sig1R-ARF6 signaling pathway. As
@@ -18,26 +30,26 @@ caption: DA neurons and the involvement of EVs and Sig1R-ARF6 signaling pathway.
   permit 2-AG release into extracellular space. This 2-AG then activates CB1Rs located
   on GABA axon terminals to inhibit GABA release onto postsynaptic GABAB receptors
   leading to 2-AG-mediated disinhibition of DA neurons.
-pmcid: PMC6850780
 papertitle: Cocaine-induced endocannabinoid signaling mediated by sigma-1 receptors
   and extracellular vesicle secretion.
 reftext: Yoki Nakamura, et al. eLife. 2019;8:e47209.
-pmc_ranked_result_index: '39535'
-pathway_score: 0.9519854
-filename: elife-47209-fig8-figsupp1.jpg
-figtitle: Proposed mechanisms underlying the cocaine-regulated synthesis and release
-  of 2-AG in VTA
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9519854
+figid_alias: PMC6850780__SF8_1
+figtype: Supplemental figure
+organisms_ner:
 - Mus musculus
+- Homo sapiens
 - Rattus norvegicus
 - Cavia porcellus
-- mouserat NG108-15
-- vectors
-- Homo sapiens
 - Bos taurus
+redirect_from: /figures/PMC6850780__SF8_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -66,58 +78,36 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ARF6
-  - GRM1
-  - PLCB2
+  - Cnr1
+  - Elk3
+  - Slc6a2
+  - Ephb1
+  - Plcb1
+  - Mylk
+  - Mylk3
+  - Arf6
+  - da
+  - Sigmar1
+  - Coc
+  - Grm1
+  - CNR1
+  - ELK3
+  - EPHB1
+  - SLC6A2
   - PLCB1
+  - PLCB2
   - PLCB3
   - PLCB4
+  - MYLK
+  - MYLK2
+  - MYLK3
+  - ARF6
+  - MTG1
+  - SIGMAR1
+  - GRM1
+  - Mylk2
+  - Pck1
   - cocaine
   - GDP
   - COOH Cocaine
-genes:
-- word: ARF6
-  symbol: ARF6
-  source: hgnc_symbol
-  hgnc_symbol: ARF6
-  entrez: '382'
-- word: '''mGluR1'
-  symbol: MGLUR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: GRM1
-  entrez: '2911'
-- word: PLCB
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: PLCB
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: PLCB
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: PLCB
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-chemicals:
-- word: cocaine
-  source: MESH
-  identifier: D003042
-- word: GDP
-  source: MESH
-  identifier: D006153
-- word: COOH Cocaine
-  source: MESH
-  identifier: D003042
-diseases: []
-figid_alias: PMC6850780__SF8_1
-redirect_from: /figures/PMC6850780__SF8_1
-figtype: Supplemental figure
 ---

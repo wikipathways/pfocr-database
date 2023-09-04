@@ -1,5 +1,12 @@
 ---
 figid: PMC4355251__cshperspectmed-HFP-019612_F2
+figtitle: PRR and signaling pathways that lead to differentiation of antifungal T-helper
+  cells
+organisms:
+- Homo sapiens
+- Mus musculus
+pmcid: PMC4355251
+filename: cshperspectmed-HFP-019612_F2.jpg
 figlink: /pmc/articles/PMC4355251/figure/A019612F2/
 number: F2
 caption: PRR and signaling pathways that lead to differentiation of antifungal T-helper
@@ -38,20 +45,22 @@ caption: PRR and signaling pathways that lead to differentiation of antifungal T
   are sensed by endosomal TLRs and induce NF-κB-, MAPK-, and IRF-dependent cytokine
   production. TLR2 signaling is thought to generate weaker proinflammatory signals,
   but induce strong stimulation of TGF-β and IL-10 that induces Treg cells (; ).
-pmcid: PMC4355251
 papertitle: Adaptive Immunity to Fungi.
 reftext: Akash Verma, et al. Cold Spring Harb Perspect Med. 2015 Mar;5(3):a019612.
-pmc_ranked_result_index: '210974'
-pathway_score: 0.8722978
-filename: cshperspectmed-HFP-019612_F2.jpg
-figtitle: PRR and signaling pathways that lead to differentiation of antifungal T-helper
-  cells
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8722978
+figid_alias: PMC4355251__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
 - Homo sapiens
+redirect_from: /figures/PMC4355251__F2
 ndex: 0a360f6e-dea0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -100,234 +109,85 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CLEC4D
-  - BCL10
-  - IL12A
+  - Gpr162
+  - Btg3
+  - Clec4e
+  - Tlr4
+  - Tlr2
+  - Tlr1
+  - Tlr3
+  - Tlr9
+  - Tlr7
+  - Mal
+  - Tirap
+  - Mrtfa
+  - ras
+  - Hras
+  - Kras
+  - Rem1
+  - Syk
+  - Myd88
+  - Bcl10
+  - Nlrp3
+  - Spdef
+  - Rel
+  - Irf1
+  - Il6
+  - Tnf
+  - Il10
+  - Il18
+  - Csf2
+  - Tgfb1
+  - Ltbp1
+  - Il23a
+  - Il16
+  - Th
+  - Hand1
+  - Nelfcd
+  - Tht
   - GPR162
   - BTG3
-  - IL10
+  - CLEC4E
+  - TLR4
   - TLR2
-  - TNF
-  - IL12B
-  - IL16
+  - TLR1
+  - CLEC7A
+  - CLEC6A
+  - CLEC4D
+  - TLR3
+  - TLR9
+  - TLR7
+  - MAL
+  - MRTFA
+  - TIRAP
+  - KRAS
+  - HRAS
+  - NRAS
+  - SYK
+  - MYD88
+  - BCL10
+  - NLRP3
   - REL
+  - IRF1
+  - SGSM3
+  - IL6
+  - IL12A
+  - IL12B
+  - TNF
+  - IL10
+  - IL18
+  - CSF2
+  - TGFB1
+  - TGFB2
   - TGFB3
+  - IL37
+  - IL23A
+  - IL16
+  - RPL12
+  - RSL1D1
+  - IGKV1-5
   - TH
   - NELFCD
-  - TLR1
-  - CLEC6A
-  - MYD88
-  - CSF2
-  - HRAS
-  - KRAS
-  - NRAS
-  - TLR9
-  - SYK
-  - IL18
-  - IL23A
-  - IL6
-  - IRF1
-  - CLEC7A
-  - CLEC4E
-  - TLR7
-  - TLR3
-  - TLR4
-  - TGFB2
-  - TGFB1
-  - MAL
-  - NLRP3
   - Mannose
   - mannose
-genes:
-- word: Dectin-3
-  symbol: Dectin-3
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC4D
-  entrez: '338339'
-- word: BCL-10
-  symbol: BCL10
-  source: hgnc_symbol
-  hgnc_symbol: BCL10
-  entrez: '8915'
-- word: IL-12
-  symbol: IL12
-  source: bioentities_symbol
-  hgnc_symbol: IL12A
-  entrez: '3592'
-- word: a-1,2
-  symbol: A-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPR162
-  entrez: '27239'
-- word: DNA,ANA
-  symbol: ANA
-  source: hgnc_alias_symbol
-  hgnc_symbol: BTG3
-  entrez: '10950'
-- word: IL-10
-  symbol: IL-10
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL10
-  entrez: '3586'
-- word: TLR2/TLR1
-  symbol: TLR2
-  source: hgnc_symbol
-  hgnc_symbol: TLR2
-  entrez: '7097'
-- word: TNF
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-12
-  symbol: IL12
-  source: bioentities_symbol
-  hgnc_symbol: IL12B
-  entrez: '3593'
-- word: IL-16
-  symbol: IL-16
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL16
-  entrez: '3603'
-- word: REL
-  symbol: REL
-  source: hgnc_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: Th
-  symbol: TH
-  source: hgnc_symbol
-  hgnc_symbol: TH
-  entrez: '7054'
-- word: Th1?
-  symbol: TH1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NELFCD
-  entrez: '51497'
-- word: TLR2/TLR1
-  symbol: TLR1
-  source: hgnc_symbol
-  hgnc_symbol: TLR1
-  entrez: '7096'
-- word: Dectin-2
-  symbol: dectin-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC6A
-  entrez: '93978'
-- word: Myd88/Tit
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: GM-CSF
-  symbol: GM-CSF
-  source: hgnc_alias_symbol
-  hgnc_symbol: CSF2
-  entrez: '1437'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: TLR9
-  symbol: TLR9
-  source: hgnc_symbol
-  hgnc_symbol: TLR9
-  entrez: '54106'
-- word: Syk
-  symbol: SYK
-  source: hgnc_symbol
-  hgnc_symbol: SYK
-  entrez: '6850'
-- word: IL-18
-  symbol: IL-18
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL18
-  entrez: '3606'
-- word: IL-23
-  symbol: IL-23
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL23A
-  entrez: '51561'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IRF-1
-  symbol: IRF1
-  source: hgnc_symbol
-  hgnc_symbol: IRF1
-  entrez: '3659'
-- word: Dectin-1
-  symbol: dectin-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC7A
-  entrez: '64581'
-- word: Mincle
-  symbol: mincle
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC4E
-  entrez: '26253'
-- word: TLR7,
-  symbol: TLR7
-  source: hgnc_symbol
-  hgnc_symbol: TLR7
-  entrez: '51284'
-- word: TLR3,
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: MAL
-  symbol: MAL
-  source: hgnc_symbol
-  hgnc_symbol: MAL
-  entrez: '4118'
-- word: NLRP3
-  symbol: NLRP3
-  source: hgnc_symbol
-  hgnc_symbol: NLRP3
-  entrez: '114548'
-chemicals:
-- word: Mannose
-  source: MESH
-  identifier: D008358
-- word: mannose
-  source: MESH
-  identifier: D008358
-diseases: []
-figid_alias: PMC4355251__F2
-redirect_from: /figures/PMC4355251__F2
-figtype: Figure
 ---

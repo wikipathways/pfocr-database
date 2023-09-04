@@ -1,5 +1,11 @@
 ---
 figid: PMC8065760__pharmaceuticals-14-00322-g003
+figtitle: Involvement of the significantly dysregulated microRNAs in renal cancer
+  signaling pathways
+organisms:
+- NA
+pmcid: PMC8065760
+filename: pharmaceuticals-14-00322-g003.jpg
 figlink: pmc/articles/PMC8065760/figure/pharmaceuticals-14-00322-f003/
 number: F3
 caption: Involvement of the significantly dysregulated microRNAs in renal cancer signaling
@@ -13,20 +19,24 @@ caption: Involvement of the significantly dysregulated microRNAs in renal cancer
   phosphatidylinositol-3-kinase; AKT, protein kinase B; mTOR, mammalian target of
   rapamycin) signaling pathway and on the downregulation of miRNAs panel that promote
   epithelial to mesenchymal transition of renal cancer cells.
-pmcid: PMC8065760
 papertitle: 'The Ambivalent Role of miRNAs in Carcinogenesis: Involvement in Renal
   Cell Carcinoma and Their Clinical Applications.'
 reftext: Federica Spadaccino, et al. Pharmaceuticals (Basel). 2021 Apr;14(4):322.
-pmc_ranked_result_index: '16345'
-pathway_score: 0.9573803
-filename: pharmaceuticals-14-00322-g003.jpg
-figtitle: Involvement of the significantly dysregulated microRNAs in renal cancer
-  signaling pathways
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9573803
+figid_alias: PMC8065760__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
 - Homo sapiens
+redirect_from: /figures/PMC8065760__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,212 +59,80 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - mir-210
+  - sima
+  - Vhl
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Mtor
+  - Tor
+  - Egfr
+  - Pvf1
+  - Pvf2
+  - Pvf3
+  - Pvr
+  - mir-124
+  - mir-100
+  - dpp
+  - gbb
+  - put
+  - mav
+  - mir155
+  - mir210
+  - mir122
+  - hif1ab
+  - vhl
+  - mtor
+  - egfra
+  - mir126a
+  - mir34a
+  - vegfaa
+  - egf
+  - celsr1a
+  - mir200b
+  - MIR155
+  - MIR210
+  - MIR122
   - HIF1A
+  - MIR17
+  - MIR224
   - VHL
   - PIK3CA
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
   - PIK3R3
   - PIK3R4
-  - PIK3CB
-  - PIK3CD
   - PIK3R5
   - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - AKT1
   - AKT2
   - AKT3
-  - AKT1
   - MTOR
   - EGFR
-  - VEGFD
-  - VEGFB
-  - PGF
+  - MIR203A
+  - MIR126
+  - MIR34A
   - VEGFA
+  - VEGFB
   - VEGFC
+  - VEGFD
+  - PGF
+  - MIR378A
   - EGF
+  - MIR100
   - TGFB1
   - TGFB2
   - TGFB3
-  - PDGFB
   - PDGFA
+  - PDGFB
   - PDGFC
   - PDGFD
+  - MIR200B
   - VHL
-genes:
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: VHL
-  symbol: VHL
-  source: hgnc_symbol
-  hgnc_symbol: VHL
-  entrez: '7428'
-- word: VHL
-  symbol: VHL
-  source: hgnc_symbol
-  hgnc_symbol: VHL
-  entrez: '7428'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: HIF-1a
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: VEGF
-  symbol: VEGF
-  source: bioentities_symbol
-  hgnc_symbol: VEGFD
-  entrez: '2277'
-- word: VEGF
-  symbol: VEGF
-  source: bioentities_symbol
-  hgnc_symbol: VEGFB
-  entrez: '7423'
-- word: VEGF
-  symbol: VEGF
-  source: bioentities_symbol
-  hgnc_symbol: PGF
-  entrez: '5228'
-- word: VEGF
-  symbol: VEGF
-  source: bioentities_symbol
-  hgnc_symbol: VEGFA
-  entrez: '7422'
-- word: VEGF
-  symbol: VEGF
-  source: bioentities_symbol
-  hgnc_symbol: VEGFC
-  entrez: '7424'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFB
-  entrez: '5155'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFA
-  entrez: '5154'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFC
-  entrez: '56034'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFD
-  entrez: '80310'
-chemicals: []
-diseases:
-- word: VHL
-  source: MESH
-  identifier: D006623
-figid_alias: PMC8065760__F3
-redirect_from: /figures/PMC8065760__F3
-figtype: Figure
 ---

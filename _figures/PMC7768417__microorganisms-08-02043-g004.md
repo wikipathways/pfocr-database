@@ -1,5 +1,27 @@
 ---
 figid: PMC7768417__microorganisms-08-02043-g004
+figtitle: Proposed model for observed BNF activity in L
+organisms:
+- Escherichia coli
+- Bacillus subtilis
+- Streptococcus pneumoniae
+- Salmonella enterica
+- Enterococcus faecalis
+- Lactococcus lactis
+- Campylobacter jejuni
+- Aeromonas hydrophila
+- Lactococcus cremoris
+- Lactococcus sp.
+- Lactococcus lactis subsp. lactis Il1403
+- Lactococcus cremoris subsp. cremoris SK11
+- Lactococcus lactis subsp. lactis KF147
+- Zea mays
+- Triticum turgidum subsp. durum
+- Homo sapiens
+- metagenome
+- Oreochromis niloticus
+pmcid: PMC7768417
+filename: microorganisms-08-02043-g004.jpg
 figlink: pmc/articles/PMC7768417/figure/microorganisms-08-02043-f004/
 number: F4
 caption: Proposed model for observed BNF activity in L. lactis associated with Sierra
@@ -35,36 +57,23 @@ caption: Proposed model for observed BNF activity in L. lactis associated with S
   reduction. Pyruvate and ATP generated from sugar metabolism contribute to electron
   transfer between the NifJ protein and a secondary electron carrier (Ferredoxin Reductase
   or Flavodoxin), which relays the reducing equivalent to the site of catalysis.
-pmcid: PMC7768417
 papertitle: Identification of Nitrogen Fixation Genes in Lactococcus Isolated from
   Maize Using Population Genomics and Machine Learning.
 reftext: Shawn M. Higdon, et al. Microorganisms. 2020 Dec;8(12):2043.
-pmc_ranked_result_index: '118938'
-pathway_score: 0.9664254
-filename: microorganisms-08-02043-g004.jpg
-figtitle: Proposed model for observed BNF activity in L
 year: '2020'
-organisms:
-- Streptococcus pneumoniae
-- Enterococcus faecalis
-- Lactococcus lactis
-- Lactococcus cremoris
-- Bacillus subtilis
-- Campylobacter jejuni
-- metagenome
-- Lactococcus cremoris subsp. cremoris SK11
-- Lactococcus lactis subsp. lactis Il1403
-- Salmonella enterica
-- Lactococcus sp.
-- Triticum turgidum subsp. durum
-- Zea mays
-- Escherichia coli
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9664254
+figid_alias: PMC7768417__F4
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 - Aeromonas hydrophila
-- Lactococcus lactis subsp. lactis KF147
-- Oreochromis niloticus
-- Homo sapiens
+redirect_from: /figures/PMC7768417__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -111,10 +120,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CADM1
-  - WDTC1
-  - NFU1
-  - S100A9
+  - hemE
+  - btuD
+  - hemN
+  - hemH
+  - iscU
+  - araA
+  - araB
+  - araD
   - NADH
   - Menaquinone
   - Fe
@@ -135,95 +148,4 @@ schema-jsonld:
   - Fe2+
   - Galactose
   - Mannose
-genes:
-- word: B12
-  symbol: BL2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CADM1
-  entrez: '23705'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: NifU
-  symbol: NifU
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFU1
-  entrez: '27247'
-- word: Nifs
-  symbol: NIF
-  source: hgnc_alias_symbol
-  hgnc_symbol: S100A9
-  entrez: '6280'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-chemicals:
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: Menaquinone
-  source: MESH
-  identifier: D024482
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: VitB12
-  source: MESH
-  identifier: D024505
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: NADP
-  source: MESH
-  identifier: D009249
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: Flavodoxin
-  source: ''
-  identifier: ''
-- word: Arabinose
-  source: MESH
-  identifier: D001089
-- word: AraB
-  source: MESH
-  identifier: C104457
-- word: 4Fe-45
-  source: MESH
-  identifier: C066317
-- word: Phosphate
-  source: MESH
-  identifier: D010710
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: flavodoxin
-  source: ''
-  identifier: ''
-- word: Sugar
-  source: MESH
-  identifier: D002241
-- word: 2Fe-25
-  source: MESH
-  identifier: D007501
-- word: Fe2+
-  source: MESH
-  identifier: D007501
-- word: Galactose
-  source: MESH
-  identifier: D005690
-- word: Mannose
-  source: MESH
-  identifier: D008358
-diseases: []
-figid_alias: PMC7768417__F4
-redirect_from: /figures/PMC7768417__F4
-figtype: Figure
 ---

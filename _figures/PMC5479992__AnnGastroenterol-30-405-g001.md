@@ -1,5 +1,14 @@
 ---
 figid: PMC5479992__AnnGastroenterol-30-405-g001
+figtitle: Iron homeostasis
+organisms:
+- Homo sapiens
+- Rattus norvegicus
+- Helicobacter pylori
+- Citrullus lanatus subsp. vulgaris
+- NA
+pmcid: PMC5479992
+filename: AnnGastroenterol-30-405-g001.jpg
 figlink: /pmc/articles/PMC5479992/figure/F1/
 number: F1
 caption: Iron homeostasis. (A) Iron absorption. Fe3+ is reduced to Fe2+ by duodenal
@@ -12,22 +21,23 @@ caption: Iron homeostasis. (A) Iron absorption. Fe3+ is reduced to Fe2+ by duode
   BMP/SMAD pathway via the interaction of transferrin with TfR2, protein HFE and the
   co-receptor hemojuvelin (HJV)BMPR, bone morphogenetic protein receptor, HAMP, hepcidin
   antimicrobial protein.
-pmcid: PMC5479992
 papertitle: 'Iron deficiency anemia in chronic liver disease: etiopathogenesis, diagnosis
   and treatment.'
 reftext: Eleana Gkamprela, et al. Ann Gastroenterol. 2017;30(4):405-413.
-pmc_ranked_result_index: '158588'
-pathway_score: 0.9679326
-filename: AnnGastroenterol-30-405-g001.jpg
-figtitle: Iron homeostasis
 year: '2017'
-organisms:
-- Rattus norvegicus
-- Helicobacter pylori
-- Citrullus lanatus subsp. vulgaris
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9679326
+figid_alias: PMC5479992__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Rattus norvegicus
+redirect_from: /figures/PMC5479992__F1
 ndex: 85eec762-deb0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,82 +59,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SMAD6
-  - HFE2
-  - SMAD5
+  - DMRT1
+  - SLC11A2
+  - CHMP2B
   - FES
+  - HJV
   - HFE
-  - SMAD9
-  - SMAD3
-  - SMAD4
   - TFR2
+  - APRT
+  - MFAP1
+  - IMMT
+  - HAMP
   - SMAD1
+  - SMAD4
+  - SMAD5
+  - SMAD6
   - SMAD7
+  - SMAD9
   - SMAD2
-genes:
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: HJV
-  symbol: HJV
-  source: hgnc_alias_symbol
-  hgnc_symbol: HFE2
-  entrez: '148738'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Fe-S
-  symbol: FES
-  source: hgnc_symbol
-  hgnc_symbol: FES
-  entrez: '2242'
-- word: HFE
-  symbol: HFE
-  source: hgnc_symbol
-  hgnc_symbol: HFE
-  entrez: '3077'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: TFR2
-  symbol: TFR2
-  source: hgnc_symbol
-  hgnc_symbol: TFR2
-  entrez: '7036'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-chemicals: []
-diseases: []
-figid_alias: PMC5479992__F1
-redirect_from: /figures/PMC5479992__F1
-figtype: Figure
+  - SMAD3
+  - LOC24906
+  - Fes
+  - Hjv
+  - Hfe
+  - Tfr2
+  - Tmprss5
+  - Hamp
 ---

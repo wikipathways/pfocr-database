@@ -1,5 +1,12 @@
 ---
 figid: PMC7652419__elife-56171-fig5-figsupp1
+figtitle: 13C labeling of various metabolites from [1,6-13C2]glucose in a three-compartment
+  metabolic model [1,6-13C2]glucose is converted to PyruvateC3 via glycolysis and
+  subsequently enters the TCA cycle
+organisms:
+- NA
+pmcid: PMC7652419
+filename: elife-56171-fig5-figsupp1.jpg
 figlink: pmc/articles/PMC7652419/figure/fig5s1/
 number: SF5_1
 caption: 'Metabolism of [1,6-13C2]glucose in glutamatergic and GABAergic neurons produces
@@ -17,21 +24,22 @@ caption: 'Metabolism of [1,6-13C2]glucose in glutamatergic and GABAergic neurons
   of GABA shunt; VTCA(A): Astroglial TCA cycle flux; VTCA(GABA), GABAergic TCA cycle
   flux; VTCA(Glu): glutamatergic TCA cycle flux; Vx: exchange rate between a ketoglutarate
   and glutamate. ∗ represents the position of the 13C carbon.'
-pmcid: PMC7652419
 papertitle: Chronic postnatal chemogenetic activation of forebrain excitatory neurons
   evokes persistent changes in mood behavior.
 reftext: Sthitapranjya Pati, et al. eLife. 2020;9:e56171.
-pmc_ranked_result_index: '3373'
-pathway_score: 0.9673219
-filename: elife-56171-fig5-figsupp1.jpg
-figtitle: 13C labeling of various metabolites from [1,6-13C2]glucose in a three-compartment
-  metabolic model [1,6-13C2]glucose is converted to PyruvateC3 via glycolysis and
-  subsequently enters the TCA cycle
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9673219
+figid_alias: PMC7652419__SF5_1
+figtype: Supplemental figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7652419__SF5_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -59,118 +67,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DLAT
-  - DLD
-  - PDHA1
-  - PDHA2
-  - PDHB
-  - PDHX
-  - PC
-  - GBA3
-genes:
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: ↑PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: PC
-  symbol: PC
-  source: hgnc_symbol
-  hgnc_symbol: PC
-  entrez: '5091'
-- word: Gluc
-  symbol: GLUC
-  source: hgnc_alias_symbol
-  hgnc_symbol: GBA3
-  entrez: '57733'
-chemicals: []
-diseases: []
-figid_alias: PMC7652419__SF5_1
-redirect_from: /figures/PMC7652419__SF5_1
-figtype: Supplemental figure
+  - Coa
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - cype
+  - anon-92Eb
+  - Sgs3
+  - GABA-B-R1
+  - Rdl
+  - Gabat
+  - Suc
+  - ca
+  - Pc
 ---

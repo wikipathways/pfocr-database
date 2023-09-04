@@ -1,5 +1,10 @@
 ---
 figid: PMC7759385__elife-60821-fig7-figsupp1
+figtitle: Unifying model of Vpr function
+organisms:
+- NA
+pmcid: PMC7759385
+filename: elife-60821-fig7-figsupp1.jpg
 figlink: pmc/articles/PMC7759385/figure/fig7s1/
 number: SF7_1
 caption: (1) Stimulation of various PRRs results in activation of transcription factors
@@ -15,19 +20,22 @@ caption: (1) Stimulation of various PRRs results in activation of transcription
   manner. This inhibits nuclear translocation of transcription factors such as IRF3
   and NF-κB and subsequent antiviral ISG expression. This also inhibits IRF3 and NF-κB-dependent
   plasmid expression or nuclear import but does not impact lentiviral gene delivery.
-pmcid: PMC7759385
 papertitle: HIV-1 Vpr antagonizes innate immune activation by targeting karyopherin-mediated
   NF-κB/IRF3 nuclear transport.
 reftext: Hataf Khan, et al. eLife. 2020;9:e60821.
-pmc_ranked_result_index: '74273'
-pathway_score: 0.9433689
-filename: elife-60821-fig7-figsupp1.jpg
-figtitle: Unifying model of Vpr function
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9433689
+figid_alias: PMC7759385__SF7_1
+figtype: Supplemental figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7759385__SF7_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,60 +61,25 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IRF3
-  - TBPL2
-  - TRIM63
-  - IPO8
-  - BRAP
-genes:
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: TRF3
-  symbol: TRF3
-  source: hgnc_alias_symbol
-  hgnc_symbol: TBPL2
-  entrez: '387332'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF
-  symbol: IRF
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRIM63
-  entrez: '84676'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: imp-8
-  symbol: IMP8
-  source: hgnc_alias_symbol
-  hgnc_symbol: IPO8
-  entrez: '10526'
-- word: Imp
-  symbol: IMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: BRAP
-  entrez: '8315'
-chemicals: []
-diseases: []
-figid_alias: PMC7759385__SF7_1
-redirect_from: /figures/PMC7759385__SF7_1
-figtype: Supplemental figure
+  - dl
+  - wash
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - awd
+  - Irp-1B
+  - Irp-1A
+  - Trf
+  - Tsf1
+  - Ppa
+  - Pas
+  - shakB
+  - Imp
+  - CG11110
+  - CG17029
+  - CG17028
+  - CG17027
+  - CG9391
+  - CG9389
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC7818015__JZhejiangUnivSciB-22-1-47-g004
+figtitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy'
+organisms:
+- NA
+pmcid: PMC7818015
+filename: JZhejiangUnivSciB-22-1-47-g004.jpg
 figlink: pmc/articles/PMC7818015/figure/JZhejiangUnivSciB-22-1-47-f004/
 number: F4
 caption: .  AlkB homolog 3 (ALKBH3)-dependent repair pathway. (a) Recruitment of ALKBH3
@@ -14,18 +19,22 @@ caption: .  AlkB homolog 3 (ALKBH3)-dependent repair pathway. (a) Recruitment of
   break (DSB), it will first allow the end resection to generate the 3'-tailed DNA.
   Subsequently, DNA repair protein RAD51 homolog C (RAD51C) binds the 3'-tailed DNA
   and guides ALKBH3 to repair the lesion. .
-pmcid: PMC7818015
 papertitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy.'
 reftext: Yihan PENG, et al. J Zhejiang Univ Sci B. 2021 Jan 15;22(1):47-62.
-pmc_ranked_result_index: '94834'
-pathway_score: 0.8908663
-filename: JZhejiangUnivSciB-22-1-47-g004.jpg
-figtitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy'
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8908663
+figid_alias: PMC7818015__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC7818015__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,31 +60,9 @@ schema-jsonld:
   keywords:
   - RNF113A
   - RAD51C
+  - GNAS
   - ALKBH3
-genes:
-- word: RNF113A
-  symbol: RNF113A
-  source: hgnc_symbol
-  hgnc_symbol: RNF113A
-  entrez: '7737'
-- word: RAD51C
-  symbol: RAD51C
-  source: hgnc_symbol
-  hgnc_symbol: RAD51C
-  entrez: '5889'
-- word: ALKBH3
-  symbol: ALKBH3
-  source: hgnc_symbol
-  hgnc_symbol: ALKBH3
-  entrez: '221120'
-- word: ALKBH3
-  symbol: ALKBH3
-  source: hgnc_symbol
-  hgnc_symbol: ALKBH3
-  entrez: '221120'
-chemicals: []
-diseases: []
-figid_alias: PMC7818015__F4
-redirect_from: /figures/PMC7818015__F4
-figtype: Figure
+  - rnf113a
+  - rad51c
+  - alkbh3
 ---

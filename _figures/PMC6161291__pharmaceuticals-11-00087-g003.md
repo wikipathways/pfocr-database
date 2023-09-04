@@ -1,5 +1,17 @@
 ---
 figid: PMC6161291__pharmaceuticals-11-00087-g003
+figtitle: The “heme-mitochondria” relationship and the putative heme-related targets
+  for the therapy of neurodegenerative disorders
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Subgroup C
+- Feline leukemia virus
+- Homo sapiens
+- Saccharomyces cerevisiae
+- Drosophila melanogaster
+pmcid: PMC6161291
+filename: pharmaceuticals-11-00087-g003.jpg
 figlink: /pmc/articles/PMC6161291/figure/pharmaceuticals-11-00087-f003/
 number: F3
 caption: 'The “heme-mitochondria” relationship and the putative heme-related targets
@@ -14,25 +26,21 @@ caption: 'The “heme-mitochondria” relationship and the putative heme-related
   by a balance among synthesis, catabolism and proper trafficking of heme. Thus, all
   these processes (highlighted with red boxes in the figure) represent putative good
   targets for the therapy of neurodegenerative disorder.'
-pmcid: PMC6161291
 papertitle: 'Mitochondrial Targeting in Neurodegeneration: A Heme Perspective.'
 reftext: Veronica Fiorito, et al. Pharmaceuticals (Basel). 2018 Sep;11(3):87.
-pmc_ranked_result_index: '28212'
-pathway_score: 0.9241056
-filename: pharmaceuticals-11-00087-g003.jpg
-figtitle: The “heme-mitochondria” relationship and the putative heme-related targets
-  for the therapy of neurodegenerative disorders
 year: '2018'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Feline leukemia virus
-- Subgroup C
-- Saccharomyces cerevisiae
-- Drosophila melanogaster
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9241056
+figid_alias: PMC6161291__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6161291__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,25 +69,4 @@ schema-jsonld:
   - heme
   - O heme
   - Ca2+
-genes: []
-chemicals:
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: Succinyl-CoA
-  source: MESH
-  identifier: C012046
-- word: heme
-  source: MESH
-  identifier: D006418
-- word: O heme
-  source: MESH
-  identifier: D006418
-- word: Ca2+
-  source: MESH
-  identifier: D002118
-diseases: []
-figid_alias: PMC6161291__F3
-redirect_from: /figures/PMC6161291__F3
-figtype: Figure
 ---

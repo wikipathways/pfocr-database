@@ -1,5 +1,10 @@
 ---
 figid: PMC3245473__jexboterr284f01_ht
+figtitle: Carotenoid biosynthetic pathway in higher plants
+organisms:
+- NA
+pmcid: PMC3245473
+filename: jexboterr284f01_ht.jpg
 figlink: /pmc/articles/PMC3245473/figure/fig1/
 number: F1
 caption: Carotenoid biosynthetic pathway in higher plants. Genes with expression levels
@@ -13,19 +18,23 @@ caption: Carotenoid biosynthetic pathway in higher plants. Genes with expression
   β-cyclase; CYCB, chromoplast-specific lycopene β-cyclase; BCH, β-carotene hydroxylase;
   ECH, ε-carotene hydroxylase; ZEP, zeaxanthin epoxidase; VDE, violaxanthin de-epoxidase;
   NSY, neoxanthin synthase; NCED, 9-cis-epoxycarotenoid dioxygenase.
-pmcid: PMC3245473
 papertitle: Plastid structure and carotenogenic gene expression in red- and white-fleshed
   loquat (Eriobotrya japonica) fruits.
 reftext: Xiumin Fu, et al. J Exp Bot. 2012 Jan;63(1):341-354.
-pmc_ranked_result_index: '66567'
-pathway_score: 0.8455915
-filename: jexboterr284f01_ht.jpg
-figtitle: Carotenoid biosynthetic pathway in higher plants
 year: '2012'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8455915
+figid_alias: PMC3245473__F1
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+- Drosophila melanogaster
+redirect_from: /figures/PMC3245473__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,11 +57,34 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SLC26A4
-  - IPP
-  - NKX2-1
-  - IDS
-  - RASA1
+  - CLA1
+  - DXR
+  - PSY
+  - PDS3
+  - Z-ISO
+  - ZDS
+  - CRTISO
+  - AT1G09330
+  - ABA1
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - Ids
+  - Idi
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - Taf8
+  - CycB
+  - bch
+  - psq
+  - Gfat1
   - Violaxanthin
   - 9-cis-neoxanthin
   - DMAPP
@@ -63,65 +95,4 @@ schema-jsonld:
   - Lutein
   - Zeaxanthin
   - B-cryptoxanthin
-genes:
-- word: PDS
-  symbol: PDS
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC26A4
-  entrez: '5172'
-- word: IPP
-  symbol: IPP
-  source: hgnc_symbol
-  hgnc_symbol: IPP
-  entrez: '3652'
-- word: BCH
-  symbol: BCH
-  source: hgnc_prev_symbol
-  hgnc_symbol: NKX2-1
-  entrez: '7080'
-- word: IDS
-  symbol: IDS
-  source: hgnc_symbol
-  hgnc_symbol: IDS
-  entrez: '3423'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-chemicals:
-- word: Violaxanthin
-  source: MESH
-  identifier: C005613
-- word: 9-cis-neoxanthin
-  source: MESH
-  identifier: C011947
-- word: DMAPP
-  source: MESH
-  identifier: C043060
-- word: Phytoene
-  source: MESH
-  identifier: C100185
-- word: B-carotene
-  source: MESH
-  identifier: D002338
-- word: carotene
-  source: MESH
-  identifier: D002338
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Lutein
-  source: MESH
-  identifier: D014975
-- word: Zeaxanthin
-  source: MESH
-  identifier: D065146
-- word: B-cryptoxanthin
-  source: MESH
-  identifier: D065366
-diseases: []
-figid_alias: PMC3245473__F1
-redirect_from: /figures/PMC3245473__F1
-figtype: Figure
 ---

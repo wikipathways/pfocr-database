@@ -1,5 +1,54 @@
 ---
 figid: PMC6722697__microorganisms-07-00222-g005
+figtitle: Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,])
+organisms:
+- Embryophyta
+- PX clade
+- Lingulodinium polyedra
+- Breviolum minutum
+- Alexandrium tamarense
+- Alexandrium minutum
+- Karenia brevis
+- Crypthecodinium cohnii
+- Alexandrium catenella
+- Gymnodinium catenatum
+- Alexandrium fundyense
+- Symbiodinium microadriaticum
+- Karlodinium veneficum
+- Symbiodinium kawagutii
+- Karenia mikimotoi
+- Symbiodinium sp.
+- Pyrodinium bahamense
+- Amphidinium carterae
+- Alexandrium ostenfeldii
+- Oxyrrhis marina
+- Heterocapsa triquetra
+- Alexandrium pacificum
+- Prorocentrum lima
+- Gambierdiscus polynesiensis
+- Pyrodinium bahamense var. compressum
+- Alexandrium tamiyavanichii
+- Alexandrium taylorii
+- Karenia selliformis
+- Amphidinium operculatum
+- Amphidinium sp.
+- Prorocentrum hoffmannianum
+- Alexandrium peruvianum
+- Gotoius excentricus
+- Sphenolobus minutus var. minutus
+- Azadinium spinosum
+- Prorocentrum maculosum
+- Plasmodium falciparum
+- Cryptosporidium parvum
+- Alveolata
+- Acartia hudsonica
+- Dolichospermum circinale
+- Microseira wollei
+- Dolichospermum circinale AWQC131C
+- Homo sapiens
+- environmental samples
+pmcid: PMC6722697
+filename: microorganisms-07-00222-g005.jpg
 figlink: /pmc/articles/PMC6722697/figure/microorganisms-07-00222-f005/
 number: F5
 caption: 'Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,]).
@@ -7,62 +56,21 @@ caption: 'Revised biosynthetic pathway of PSTs in dinoflagellates (modified from
   3: heterocyclization; 4: desaturation (Double bond formation); 5: epoxidation of
   the new double bond; 6: aldehyde formation; 7: terminal aldehyde reduction; 8: dihydroxylation
   and 9: carbamoylation.'
-pmcid: PMC6722697
 papertitle: The Genetic Basis of Toxin Biosynthesis in Dinoflagellates.
 reftext: Arjun Verma, et al. Microorganisms. 2019 Aug;7(8):222.
-pmc_ranked_result_index: '44531'
-pathway_score: 0.8900813
-filename: microorganisms-07-00222-g005.jpg
-figtitle: Revised biosynthetic pathway of PSTs in dinoflagellates (modified from [,,,,])
 year: '2019'
-organisms:
-- Symbiodinium kawagutii
-- Amphidinium operculatum
-- Alexandrium taylorii
-- Dolichospermum circinale
-- environmental samples
-- Karenia brevis
-- Alexandrium pacificum
-- Lingulodinium polyedra
-- Amphidinium sp.
-- Acartia hudsonica
-- Alexandrium tamiyavanichii
-- Karenia mikimotoi
-- Prorocentrum hoffmannianum
-- Breviolum minutum
-- Karenia selliformis
-- Crypthecodinium cohnii
-- Alexandrium catenella
-- Alexandrium tamarense
-- Alexandrium fundyense
-- Symbiodinium sp.
-- Symbiodinium microadriaticum
-- Amphidinium carterae
-- Oxyrrhis marina
-- Embryophyta
-- Alveolata
-- Alexandrium peruvianum
-- Gotoius excentricus
-- Gymnodinium catenatum
-- Prorocentrum lima
-- Alexandrium minutum
-- Dolichospermum circinale AWQC131C
-- Sphenolobus minutus var. minutus
-- Karlodinium veneficum
-- Alexandrium ostenfeldii
-- Gambierdiscus polynesiensis
-- Microseira wollei
-- PX clade
-- Cryptosporidium parvum
-- Plasmodium falciparum
-- Azadinium spinosum
-- Heterocapsa triquetra
-- Prorocentrum maculosum
-- Pyrodinium bahamense
-- Pyrodinium bahamense var. compressum
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8900813
+figid_alias: PMC6722697__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6722697__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -79,7 +87,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NDUFAB1
   - Acetyl CoA
   - Glutamyl
   - TCA
@@ -106,93 +113,4 @@ schema-jsonld:
   - CH,0-LNH
   - OH
   - SAH
-genes:
-- word: ACP
-  symbol: ACP
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDUFAB1
-  entrez: '4706'
-chemicals:
-- word: Acetyl CoA
-  source: MESH
-  identifier: D000105
-- word: Glutamyl
-  source: MESH
-  identifier: C097376
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: H
-  source: MESH
-  identifier: D006859
-- word: NADP
-  source: MESH
-  identifier: D009249
-- word: ketoglutarate
-  source: MESH
-  identifier: C029743
-- word: Glutamate
-  source: ''
-  identifier: ''
-- word: Arginine
-  source: MESH
-  identifier: D001127
-- word: Glutamine
-  source: MESH
-  identifier: C578860
-- word: omitine
-  source: ''
-  identifier: ''
-- word: acetyl
-  source: MESH
-  identifier: C011632
-- word: propionyl
-  source: MESH
-  identifier: C009061
-- word: NADIPH
-  source: ''
-  identifier: ''
-- word: NADIPIH
-  source: ''
-  identifier: ''
-- word: ketogjutarate
-  source: ''
-  identifier: ''
-- word: NADIP
-  source: ''
-  identifier: ''
-- word: succinate
-  source: MESH
-  identifier: D013386
-- word: CO
-  source: MESH
-  identifier: D002245
-- word: Succinate
-  source: MESH
-  identifier: D013386
-- word: HFo-NH
-  source: MESH
-  identifier: D000641
-- word: Saxitoxin
-  source: MESH
-  identifier: D012530
-- word: CH
-  source: MESH
-  identifier: C103208
-- word: CH,0-LNH
-  source: MESH
-  identifier: C054034
-- word: OH
-  source: MESH
-  identifier: C031356
-diseases:
-- word: SAH
-  source: MESH
-  identifier: D013345
-figid_alias: PMC6722697__F5
-redirect_from: /figures/PMC6722697__F5
-figtype: Figure
 ---

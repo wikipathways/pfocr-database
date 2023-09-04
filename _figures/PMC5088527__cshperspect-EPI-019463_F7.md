@@ -1,5 +1,10 @@
 ---
 figid: PMC5088527__cshperspect-EPI-019463_F7
+figtitle: Linking the circadian clock with the NAD+ salvage pathway
+organisms:
+- NA
+pmcid: PMC5088527
+filename: cshperspect-EPI-019463_F7.jpg
 figlink: /pmc/articles/PMC5088527/figure/A019463F7/
 number: F7
 caption: Linking the circadian clock with the NAD+ salvage pathway. The NAMPT enzyme
@@ -11,18 +16,21 @@ caption: Linking the circadian clock with the NAD+ salvage pathway. The NAMPT en
   activity of SIRT1 oscillates in a circadian manner via the circadian controlled
   supply of its metabolite, NAD+, its activity also constitutes an enzymatic feedback
   loop for the circadian clock via its repressive activity at the NAMPT gene.
-pmcid: PMC5088527
 papertitle: Metabolic Signaling to Chromatin.
 reftext: Shelley L. Berger, et al. Cold Spring Harb Perspect Biol. 2016 Nov;8(11):a019463.
-pmc_ranked_result_index: '28967'
-pathway_score: 0.9405181
-filename: cshperspect-EPI-019463_F7.jpg
-figtitle: Linking the circadian clock with the NAD+ salvage pathway
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9405181
+figid_alias: PMC5088527__F7
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5088527__F7
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -44,28 +52,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CLOCK
   - SIRT1
   - NAMPT
-genes:
-- word: clock
-  symbol: CLOCK
-  source: hgnc_symbol
-  hgnc_symbol: CLOCK
-  entrez: '9575'
-- word: SIRT1
-  symbol: SIRT1
-  source: hgnc_symbol
-  hgnc_symbol: SIRT1
-  entrez: '23411'
-- word: NAMPT
-  symbol: NAMPT
-  source: hgnc_symbol
-  hgnc_symbol: NAMPT
-  entrez: '10135'
-chemicals: []
-diseases: []
-figid_alias: PMC5088527__F7
-redirect_from: /figures/PMC5088527__F7
-figtype: Figure
+  - STAC3
+  - CLOCK
 ---

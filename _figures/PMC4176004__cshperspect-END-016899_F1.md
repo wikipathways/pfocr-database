@@ -1,5 +1,11 @@
 ---
 figid: PMC4176004__cshperspect-END-016899_F1
+figtitle: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
+  cells
+organisms:
+- NA
+pmcid: PMC4176004
+filename: cshperspect-END-016899_F1.jpg
 figlink: /pmc/articles/PMC4176004/figure/A016899F1/
 number: F1
 caption: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
@@ -22,20 +28,22 @@ caption: Molecular mechanisms for Crumbs endocytic and recycling regulation in e
   at the early sorting endosome for recycling, away from the degradative pathway.
   Crumbs recycling pathways could be from the EE, the recycling endosome (RE), or
   the trans-Golgi network (TGN).
-pmcid: PMC4176004
 papertitle: 'Cargo Sorting in the Endocytic Pathway: A Key Regulator of Cell Polarity
   and Tissue Dynamics.'
 reftext: Suzanne Eaton, et al. Cold Spring Harb Perspect Biol. 2014 Oct;6(10):a016899.
-pmc_ranked_result_index: '105588'
-pathway_score: 0.7736363
-filename: cshperspect-END-016899_F1.jpg
-figtitle: Molecular mechanisms for Crumbs endocytic and recycling regulation in epithelial
-  cells
 year: '2014'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7736363
+figid_alias: PMC4176004__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC4176004__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -67,44 +75,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RAB5A
-  - JTB
-  - WWC1
-  - CDC42
-  - NUCB1
+  - Rab5
+  - Syx7
+  - mid
+  - Cdc42
+  - par
+  - para
+  - par-6
+  - crb
+  - ee
+  - aPKC
+  - Nuc
+  - kibra
   - Lys
-genes:
-- word: Rab5
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-- word: Par
-  symbol: PAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: JTB
-  entrez: '10899'
-- word: Ex/Kibra
-  symbol: KIBRA
-  source: hgnc_alias_symbol
-  hgnc_symbol: WWC1
-  entrez: '23286'
-- word: Cdc42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-- word: NUC
-  symbol: NUC
-  source: hgnc_alias_symbol
-  hgnc_symbol: NUCB1
-  entrez: '4924'
-chemicals:
-- word: Lys
-  source: MESH
-  identifier: D008239
-diseases: []
-figid_alias: PMC4176004__F1
-redirect_from: /figures/PMC4176004__F1
-figtype: Figure
 ---

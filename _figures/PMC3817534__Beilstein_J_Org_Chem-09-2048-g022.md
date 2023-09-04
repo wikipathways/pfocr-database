@@ -1,40 +1,48 @@
 ---
 figid: PMC3817534__Beilstein_J_Org_Chem-09-2048-g022
-figlink: /pmc/articles/PMC3817534/figure/C11/
-number: S11
-caption: Proposed biosynthetic pathway to chilenine (93).
-pmcid: PMC3817534
-papertitle: The chemistry of isoindole natural products.
-reftext: Klaus Speck, et al. Beilstein J Org Chem. 2013;9:2048-2078.
-pmc_ranked_result_index: '20780'
-pathway_score: 0.9073311
-filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
 figtitle: Proposed biosynthetic pathway to chilenine (93)
-year: '2013'
 organisms:
-- Aspergillus awamori
-- H1N1 subtype
-- Human immunodeficiency virus 1
-- Staphylococcus aureus
-- Viola sororia
+- Saccharomyces cerevisiae
 - herbal medicine
+- Agaricus bisporus
 - Aspergillus nidulans
+- Penicillium expansum
+- Hericium erinaceus
+- Chaetomium globosum
+- Viola sororia
+- Fusarium culmorum
+- Aspergillus awamori
 - Stachybotrys sp.
 - Berberis darwinii
 - Berberis empetrifolia
-- Penicillium expansum
-- Lycogala epidendrum
-- Chaetomium globosum
 - Sarcocapnos enneaphylla
-- Saccharomyces cerevisiae
-- Agaricus bisporus
-- Fusarium culmorum
-- Lentzea albida
+- Staphylococcus aureus
 - Streptomyces rishiriensis
-- Hericium erinaceus
+- Lentzea albida
+- Human immunodeficiency virus 1
+- H1N1 subtype
 - Homo sapiens
+- Lycogala epidendrum
+pmcid: PMC3817534
+filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
+figlink: /pmc/articles/PMC3817534/figure/C11/
+number: S11
+caption: Proposed biosynthetic pathway to chilenine (93).
+papertitle: The chemistry of isoindole natural products.
+reftext: Klaus Speck, et al. Beilstein J Org Chem. 2013;9:2048-2078.
+year: '2013'
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9073311
+figid_alias: PMC3817534__S11
+figtype: Scheme
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3817534__S11
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,28 +61,4 @@ schema-jsonld:
   - berberine
   - dopamine
   - L-tyrosine
-genes: []
-chemicals:
-- word: Semipinacol
-  source: MESH
-  identifier: C519041
-- word: chilenine
-  source: MESH
-  identifier: C521999
-- word: acetaldehyde
-  source: MESH
-  identifier: D000079
-- word: berberine
-  source: MESH
-  identifier: D001599
-- word: dopamine
-  source: MESH
-  identifier: D004298
-- word: L-tyrosine
-  source: MESH
-  identifier: D014443
-diseases: []
-figid_alias: PMC3817534__S11
-redirect_from: /figures/PMC3817534__S11
-figtype: Scheme
 ---

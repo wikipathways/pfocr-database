@@ -1,5 +1,11 @@
 ---
 figid: PMC2517170__RevDiabeticStud-05-013-002
+figtitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insulin
+  Resistance
+organisms:
+- Homo sapiens
+pmcid: PMC2517170
+filename: RevDiabeticStud-05-013-002.jpg
 figlink: /pmc/articles/PMC2517170/figure/F2/
 number: F2
 caption: 'Ceramide, a second messenger in the sphngomyelin signaling pathway, is generated
@@ -7,20 +13,22 @@ caption: 'Ceramide, a second messenger in the sphngomyelin signaling pathway, is
   Ceramide might be deacylated to form sphingosine and fatty acid, phosphorylated
   to form C1P or glycosylated to form glucosylceramide. SPT: serine palmitoyltransferase.
   C1P: ceramide-1-phosphate. S1p: sphingosine-1-phos-phate.'
-pmcid: PMC2517170
 papertitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insulin
   Resistance.
 reftext: Marek Straczkowski, et al. Rev Diabet Stud. 2008 Spring;5(1):13-24.
-pmc_ranked_result_index: '12501'
-pathway_score: 0.5415602
-filename: RevDiabeticStud-05-013-002.jpg
-figtitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insulin
-  Resistance
 year: '2008'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.5415602
+figid_alias: PMC2517170__F2
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC2517170__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -37,8 +45,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MBTPS1
-  - AGXT
   - 3-ketosphinganine
   - Sphinganine
   - Dihydroceramide
@@ -47,44 +53,4 @@ schema-jsonld:
   - Serine
   - Sphingomyelin
   - Sphingosine
-genes:
-- word: S1P
-  symbol: S1P
-  source: hgnc_alias_symbol
-  hgnc_symbol: MBTPS1
-  entrez: '8720'
-- word: SPT
-  symbol: SPT
-  source: hgnc_alias_symbol
-  hgnc_symbol: AGXT
-  entrez: '189'
-chemicals:
-- word: 3-ketosphinganine
-  source: MESH
-  identifier: C002882
-- word: Sphinganine
-  source: MESH
-  identifier: C005682
-- word: Dihydroceramide
-  source: MESH
-  identifier: C109343
-- word: Ceramide
-  source: MESH
-  identifier: D002518
-- word: Glucosylceramide
-  source: MESH
-  identifier: D005963
-- word: Serine
-  source: MESH
-  identifier: D012694
-- word: Sphingomyelin
-  source: MESH
-  identifier: D013109
-- word: Sphingosine
-  source: MESH
-  identifier: D013110
-diseases: []
-figid_alias: PMC2517170__F2
-redirect_from: /figures/PMC2517170__F2
-figtype: Figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC4665076__cshperspect-GLI-020396_F1
+figtitle: Overview of astrocytic metabolism
+organisms:
+- NA
+pmcid: PMC4665076
+filename: cshperspect-GLI-020396_F1.jpg
 figlink: /pmc/articles/PMC4665076/figure/A020396F1/
 number: F1
 caption: 'Overview of astrocytic metabolism. (Inset) Astrocytes (green) reside between
@@ -38,18 +43,21 @@ caption: 'Overview of astrocytic metabolism. (Inset) Astrocytes (green) reside b
   by neurons during synaptic activity enters astrocytes via K+ channels and the Na+/K+
   ATPase. Methylglyoxal is a side product of glycolysis, which is detoxified mostly
   in astrocytes by the glyoxalase system.'
-pmcid: PMC4665076
 papertitle: 'The Astrocyte: Powerhouse and Recycling Center.'
 reftext: Bruno Weber, et al. Cold Spring Harb Perspect Biol. 2015 Dec;7(12):a020396.
-pmc_ranked_result_index: '72990'
-pathway_score: 0.8967831
-filename: cshperspect-GLI-020396_F1.jpg
-figtitle: Overview of astrocytic metabolism
 year: '2015'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8967831
+figid_alias: PMC4665076__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC4665076__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -98,11 +106,38 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BRD2
-  - SLC16A7
-  - WLS
-  - GLYAT
-  - ABCC1
+  - Lac
+  - lacquered
+  - GluClalpha
+  - betaGlu
+  - Arl8
+  - amon
+  - CycE
+  - cyc
+  - pyr
+  - ATPsynbeta
+  - Atpalpha
+  - EcR
+  - Eaat2
+  - Eaat1
+  - GABA-B-R1
+  - Rdl
+  - Gabat
+  - Gat
+  - .na.character
+  - Pitslre
+  - gate
+  - sni
+  - glo
+  - vib
+  - aa
+  - Cys
+  - mmy
+  - Csp
+  - MRP
+  - Mhc
+  - RNaseMRP:RNA
+  - na
   - pyrimidines
   - cys
   - fatty acids
@@ -112,62 +147,4 @@ schema-jsonld:
   - methylglyoxal
   - sterols
   - GSSG
-genes:
-- word: Nat/K+
-  symbol: NAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: BRD2
-  entrez: '6046'
-- word: MCT2
-  symbol: MCT2
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC16A7
-  entrez: '9194'
-- word: MRP!
-  symbol: MRP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WLS
-  entrez: '79971'
-- word: GAT
-  symbol: GAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: GLYAT
-  entrez: '10249'
-- word: GS-X+
-  symbol: GS-X
-  source: hgnc_alias_symbol
-  hgnc_symbol: ABCC1
-  entrez: '4363'
-chemicals:
-- word: pyrimidines
-  source: MESH
-  identifier: C030986
-- word: cys
-  source: MESH
-  identifier: D003545
-- word: fatty acids
-  source: MESH
-  identifier: D005227
-- word: GABA
-  source: MESH
-  identifier: D005680
-- word: heme
-  source: MESH
-  identifier: D006418
-- word: porphyrins
-  source: MESH
-  identifier: D011166
-- word: methylglyoxal
-  source: MESH
-  identifier: D011765
-- word: sterols
-  source: MESH
-  identifier: D013261
-- word: GSSG
-  source: MESH
-  identifier: D019803
-diseases: []
-figid_alias: PMC4665076__F1
-redirect_from: /figures/PMC4665076__F1
-figtype: Figure
 ---

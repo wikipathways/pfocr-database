@@ -1,5 +1,14 @@
 ---
 figid: PMC7047255__biores.2020.0005_figure7
+figtitle: Pathway interaction schematic constructed to demonstrate overlap of gene
+  expression data with critical osteogenic pathways
+organisms:
+- Bos taurus
+- Aepyceros melampus
+- Homo sapiens
+- Rattus norvegicus
+pmcid: PMC7047255
+filename: biores.2020.0005_figure7.jpg
 figlink: pmc/articles/PMC7047255/figure/f7/
 number: F7
 caption: Pathway interaction schematic constructed to demonstrate overlap of gene
@@ -22,23 +31,24 @@ caption: Pathway interaction schematic constructed to demonstrate overlap of gen
   differentiation toward osteocytes results in bone mass formation. ALP, alkaline
   phosphatase protein; BMP, bone morphogenetic protein; Col1, collagen 1; FN, fibronectin;
   HH, Hedgehog; OB, osteoblastic; ON, osteonectin; SMO, smoothened.
-pmcid: PMC7047255
 papertitle: Multiomics Evaluation of Human Fat-Derived Mesenchymal Stem Cells on an
   Osteobiologic Nanocomposite.
 reftext: Austin Bow, et al. Biores Open Access. 2020;9(1):37-50.
-pmc_ranked_result_index: '110383'
-pathway_score: 0.9001281
-filename: biores.2020.0005_figure7.jpg
-figtitle: Pathway interaction schematic constructed to demonstrate overlap of gene
-  expression data with critical osteogenic pathways
 year: '2020'
-organisms:
-- Rattus norvegicus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9001281
+figid_alias: PMC7047255__F7
+figtype: Figure
+organisms_ner:
 - Homo sapiens
-- Aepyceros melampus
+- Rattus norvegicus
 - Bos taurus
+redirect_from: /figures/PMC7047255__F7
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -70,639 +80,112 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BMP4
-  - BMP5
-  - GDF2
-  - BMP15
-  - BMP10
   - BMP1
   - BMP2
   - BMP3
+  - BMP4
+  - BMP5
   - BMP6
   - BMP7
-  - BMP8B
-  - GDF1
-  - GDF5
-  - GDF3
-  - GDF7
   - BMP8A
+  - BMP8B
+  - BMP10
+  - BMP15
+  - GDF1
+  - GDF2
+  - GDF3
+  - GDF5
   - GDF6
+  - GDF7
   - WNT1
-  - WNT5A
+  - WNT2
+  - WNT2B
+  - WNT3
+  - WNT3A
+  - WNT4
   - WNT6
   - WNT7A
+  - WNT7B
   - WNT8A
   - WNT8B
-  - WNT10B
-  - WNT2B
-  - WNT16
-  - WNT2
-  - WNT3
-  - WNT7B
-  - WNT11
   - WNT9A
   - WNT9B
-  - WNT4
   - WNT10A
+  - WNT10B
+  - WNT11
+  - WNT16
+  - WNT5A
   - WNT5B
-  - WNT3A
   - PTCH1
   - SMO
+  - SMOX
   - BMPR2
   - AXIN1
   - AXIN2
+  - ADAR
+  - DVL1P1
   - CTNNB1
   - GSK3B
   - SMAD1
-  - SMAD2
+  - SMAD4
   - SMAD5
   - SMAD6
-  - SMAD9
-  - SMAD3
-  - SMAD4
   - SMAD7
+  - SMAD9
+  - SMAD2
+  - SMAD3
+  - GARS1
   - GLI3
   - GLI1
   - HIP1
+  - SETD2
+  - HNF4A
   - MSX2
   - RUNX2
+  - RUNX1
   - SP7
-  - MT-CO1
-  - CTGF
+  - COX1
+  - ALPP
+  - ATHS
+  - SLPI
+  - CCL27
+  - ATRNL1
+  - PDLIM3
+  - NAT10
+  - ASRGL1
+  - CCN2
   - BGLAP
   - SPP1
+  - CXXC1
+  - SGPP1
   - IBSP
   - MSC
+  - SLC25A37
   - FBN1
-genes:
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP4
-  entrez: '652'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP5
-  entrez: '653'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF2
-  entrez: '2658'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP15
-  entrez: '9210'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP10
-  entrez: '27302'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP1
-  entrez: '649'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP2
-  entrez: '650'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP3
-  entrez: '651'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP7
-  entrez: '655'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8B
-  entrez: '656'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF5
-  entrez: '8200'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF7
-  entrez: '151449'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8A
-  entrez: '353500'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF6
-  entrez: '392255'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT1
-  entrez: '7471'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5A
-  entrez: '7474'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT6
-  entrez: '7475'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7A
-  entrez: '7476'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8A
-  entrez: '7478'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8B
-  entrez: '7479'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10B
-  entrez: '7480'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2B
-  entrez: '7482'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT16
-  entrez: '51384'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2
-  entrez: '7472'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3
-  entrez: '7473'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7B
-  entrez: '7477'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT11
-  entrez: '7481'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9A
-  entrez: '7483'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9B
-  entrez: '7484'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT4
-  entrez: '54361'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10A
-  entrez: '80326'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5B
-  entrez: '81029'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3A
-  entrez: '89780'
-- word: PTCH1
-  symbol: PTCH1
-  source: hgnc_symbol
-  hgnc_symbol: PTCH1
-  entrez: '5727'
-- word: SMO
-  symbol: SMO
-  source: hgnc_symbol
-  hgnc_symbol: SMO
-  entrez: '6608'
-- word: BMPR2
-  symbol: BMPR2
-  source: hgnc_symbol
-  hgnc_symbol: BMPR2
-  entrez: '659'
-- word: Axin
-  symbol: AXIN
-  source: bioentities_symbol
-  hgnc_symbol: AXIN1
-  entrez: '8312'
-- word: Axin
-  symbol: AXIN
-  source: bioentities_symbol
-  hgnc_symbol: AXIN2
-  entrez: '8313'
-- word: B-Catenin
-  symbol: BCATENIN
-  source: bioentities_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: GSK3B
-  symbol: GSK3B
-  source: hgnc_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad1/5/8
-  symbol: SMAD5
-  source: hgnc_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad1/5/8
-  symbol: SMAD8
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad1/5/8
-  symbol: SMAD1
-  source: hgnc_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Gli3
-  symbol: GLI3
-  source: hgnc_symbol
-  hgnc_symbol: GLI3
-  entrez: '2737'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: B-Catenin
-  symbol: BCATENIN
-  source: bioentities_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: Gli1
-  symbol: GLI1
-  source: hgnc_symbol
-  hgnc_symbol: GLI1
-  entrez: '2735'
-- word: Hip1
-  symbol: HIP1
-  source: hgnc_symbol
-  hgnc_symbol: HIP1
-  entrez: '3092'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad1/5/8
-  symbol: SMAD5
-  source: hgnc_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad1/5/8
-  symbol: SMAD8
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad1/5/8
-  symbol: SMAD1
-  source: hgnc_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: B-Catenin
-  symbol: BCATENIN
-  source: bioentities_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: B-Catenin
-  symbol: BCATENIN
-  source: bioentities_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Gli1
-  symbol: GLI1
-  source: hgnc_symbol
-  hgnc_symbol: GLI1
-  entrez: '2735'
-- word: B-Catenin
-  symbol: BCATENIN
-  source: bioentities_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: Smad1/5/8
-  symbol: SMAD5
-  source: hgnc_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: Smad1/5/8
-  symbol: SMAD8
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: Smad1/5/8
-  symbol: SMAD1
-  source: hgnc_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: MSX2
-  symbol: MSX2
-  source: hgnc_symbol
-  hgnc_symbol: MSX2
-  entrez: '4488'
-- word: Runx2
-  symbol: RUNX2
-  source: hgnc_symbol
-  hgnc_symbol: RUNX2
-  entrez: '860'
-- word: CBFA1
-  symbol: CBFA1
-  source: hgnc_prev_symbol
-  hgnc_symbol: RUNX2
-  entrez: '860'
-- word: Sp7
-  symbol: SP7
-  source: hgnc_symbol
-  hgnc_symbol: SP7
-  entrez: '121340'
-- word: Col
-  symbol: COI
-  source: hgnc_alias_symbol
-  hgnc_symbol: MT-CO1
-  entrez: '4512'
-- word: CTGF
-  symbol: CTGF
-  source: hgnc_symbol
-  hgnc_symbol: CTGF
-  entrez: '1490'
-- word: BGLAP
-  symbol: BGLAP
-  source: hgnc_symbol
-  hgnc_symbol: BGLAP
-  entrez: '632'
-- word: SPP1
-  symbol: SPP1
-  source: hgnc_symbol
-  hgnc_symbol: SPP1
-  entrez: '6696'
-- word: BSP
-  symbol: BSP
-  source: hgnc_alias_symbol
-  hgnc_symbol: IBSP
-  entrez: '3381'
-- word: MSC
-  symbol: MSC
-  source: hgnc_symbol
-  hgnc_symbol: MSC
-  entrez: '9242'
-- word: Mass
-  symbol: MASS
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBN1
-  entrez: '2200'
-chemicals: []
-diseases: []
-figid_alias: PMC7047255__F7
-redirect_from: /figures/PMC7047255__F7
-figtype: Figure
+  - Wnt2
+  - Ptch1
+  - Smo
+  - Bmpr2
+  - Axin1
+  - Ctnnb1
+  - Gsk3b
+  - Smad9
+  - Smad5
+  - Smad1
+  - Gli3
+  - Smad4
+  - Gli1
+  - Hip1
+  - Msx2
+  - Runx2
+  - Runx1
+  - Sp7
+  - Pdlim3
+  - Ccn2
+  - Bglap
+  - Spp1
+  - Sgpp1
+  - Ibsp
+  - Ahsg
+  - Msc
 ---

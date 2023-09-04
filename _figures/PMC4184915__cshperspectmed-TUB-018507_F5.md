@@ -1,5 +1,10 @@
 ---
 figid: PMC4184915__cshperspectmed-TUB-018507_F5
+figtitle: Nutritional immunity to Mtb
+organisms:
+- NA
+pmcid: PMC4184915
+filename: cshperspectmed-TUB-018507_F5.jpg
 figlink: /pmc/articles/PMC4184915/figure/A018507F5/
 number: F5
 caption: Nutritional immunity to Mtb. (A) Depletion of tricarboxylic acid (TCA) cycle
@@ -12,18 +17,21 @@ caption: Nutritional immunity to Mtb. (A) Depletion of tricarboxylic acid (TCA) 
   depletion by the IFN-γ-induced enzyme, indolamine-2,3-dioxygenase (IDO), in activated
   macrophages. Mtb genes encoding the enzymes known to be involved in generating precursors
   of tryptophan biosynthesis are shown in blue font.
-pmcid: PMC4184915
 papertitle: Cell-Autonomous Effector Mechanisms against Mycobacterium tuberculosis.
 reftext: John D. MacMicking. Cold Spring Harb Perspect Med. 2014 Oct;4(10):a018507.
-pmc_ranked_result_index: '106728'
-pathway_score: 0.9011558
-filename: cshperspectmed-TUB-018507_F5.jpg
-figtitle: Nutritional immunity to Mtb
 year: '2014'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9011558
+figid_alias: PMC4184915__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC4184915__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,10 +53,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ACOD1
-  - CLEC4D
-  - NCAPG2
-  - IDO1
   - Propionyl-CoA
   - Anthranilate
   - 2-Methylcitrate
@@ -58,57 +62,4 @@ schema-jsonld:
   - Pyruvate
   - Succinate
   - L-tryptophan
-genes:
-- word: IRG1
-  symbol: IRG1
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACOD1
-  entrez: '730249'
-- word: MCL
-  symbol: MCL
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC4D
-  entrez: '338339'
-- word: Mtb
-  symbol: MTB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NCAPG2
-  entrez: '54892'
-- word: IDO
-  symbol: IDO
-  source: hgnc_prev_symbol
-  hgnc_symbol: IDO1
-  entrez: '3620'
-chemicals:
-- word: Propionyl-CoA
-  source: MESH
-  identifier: C009061
-- word: Anthranilate
-  source: MESH
-  identifier: C031385
-- word: 2-Methylcitrate
-  source: MESH
-  identifier: C031605
-- word: Glyoxylate
-  source: MESH
-  identifier: D006038
-- word: Isocitrate
-  source: MESH
-  identifier: D007523
-- word: Oxaloacetate
-  source: MESH
-  identifier: D010071
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Succinate
-  source: MESH
-  identifier: D013386
-- word: L-tryptophan
-  source: MESH
-  identifier: D014364
-diseases: []
-figid_alias: PMC4184915__F5
-redirect_from: /figures/PMC4184915__F5
-figtype: Figure
 ---

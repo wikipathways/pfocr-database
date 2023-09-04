@@ -1,49 +1,58 @@
 ---
 figid: PMC7761594__biomolecules-10-01627-sch004
+figtitle: Multistep synthesis pathway leading to the formation of wyosine (imG) and
+  methylwyosine (mimG) via 3-methylguanosine intermediate
+organisms:
+- Escherichia coli
+- Methanocaldococcus jannaschii
+- Pyrococcus furiosus
+- Haloferax volcanii
+- Saccharolobus solfataricus
+- Archaeoglobus fulgidus
+- Thermococcus kodakarensis
+- Sulfolobus acidocaldarius
+- Pyrococcus horikoshii
+- Aeropyrum pernix
+- Pyrococcus abyssi
+- Nanoarchaeum equitans
+- Sulfolobus islandicus
+- Pyrobaculum islandicum
+- Pyrobaculum calidifontis
+- Staphylothermus marinus
+- Pyrolobus fumarii
+- Saccharomyces cerevisiae
+- Drosophila melanogaster
+- Bombyx mori
+- Trypanosoma brucei
+- Cyberlindnera jadinii
+- Schizosaccharomyces japonicus
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Tinca tinca
+pmcid: PMC7761594
+filename: biomolecules-10-01627-sch004.jpg
 figlink: pmc/articles/PMC7761594/figure/biomolecules-10-01627-sch004/
 number: S4
 caption: Multistep synthesis pathway leading to the formation of wyosine (imG) and
   methylwyosine (mimG) via 3-methylguanosine intermediate.
-pmcid: PMC7761594
 papertitle: Biochemical Pathways Leading to the Formation of Wyosine Derivatives in
   tRNA of Archaea.
 reftext: Jaunius Urbonavičius, et al. Biomolecules. 2020 Dec;10(12):1627.
-pmc_ranked_result_index: '27151'
-pathway_score: 0.8932605
-filename: biomolecules-10-01627-sch004.jpg
-figtitle: Multistep synthesis pathway leading to the formation of wyosine (imG) and
-  methylwyosine (mimG) via 3-methylguanosine intermediate
 year: '2020'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Nanoarchaeum equitans
-- Pyrobaculum calidifontis
-- Methanocaldococcus jannaschii
-- Archaeoglobus fulgidus
-- Haloferax volcanii
-- Pyrococcus furiosus
-- Pyrobaculum islandicum
-- Staphylothermus marinus
-- Sulfolobus acidocaldarius
-- Saccharolobus solfataricus
-- Tinca tinca
-- Pyrococcus abyssi
-- Thermococcus kodakarensis
-- Sulfolobus islandicus
-- Schizosaccharomyces japonicus
-- Cyberlindnera jadinii
-- Saccharomyces cerevisiae
-- Pyrococcus horikoshii
-- Pyrolobus fumarii
-- Escherichia coli
-- Aeropyrum pernix
-- Trypanosoma brucei
-- Bombyx mori
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8932605
+figid_alias: PMC7761594__S4
+figtype: Scheme
+organisms_ner:
 - Drosophila melanogaster
-- Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC7761594__S4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,8 +66,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NME2
-  - KLK15
+  - Hn
+  - CR
+  - ac
+  - Aco
+  - Acox57D-d
+  - lmgA
+  - ncn
+  - Nme2
+  - Pacc1
+  - oh
+  - Acaca
+  - Lrig1
   - N*Me2
   - Ac20
   - CH3
@@ -82,94 +101,4 @@ schema-jsonld:
   - Methylwyosine
   - mimG
   - CHC
-genes:
-- word: ŅME2
-  symbol: NME2
-  source: hgnc_symbol
-  hgnc_symbol: NME2
-  entrez: '4831'
-- word: N*Me2
-  symbol: NME2
-  source: hgnc_symbol
-  hgnc_symbol: NME2
-  entrez: '4831'
-- word: AcО.
-  symbol: ACO
-  source: hgnc_alias_symbol
-  hgnc_symbol: KLK15
-  entrez: '55554'
-chemicals:
-- word: N*Me2
-  source: MESH
-  identifier: C033150
-- word: Ac20
-  source: MESH
-  identifier: D000186
-- word: CH3
-  source: MESH
-  identifier: C103208
-- word: Cr
-  source: MESH
-  identifier: D002857
-- word: NaOH
-  source: MESH
-  identifier: D012964
-- word: Ru AcO
-  source: MESH
-  identifier: D012428
-- word: BzO
-  source: MESH
-  identifier: C513928
-- word: OBz OBz
-  source: MESH
-  identifier: C116957
-- word: OAc OAc
-  source: MESH
-  identifier: C065699
-- word: Inosine
-  source: MESH
-  identifier: D007288
-- word: Br
-  source: MESH
-  identifier: C068746
-- word: CH3COONA
-  source: MESH
-  identifier: C038797
-- word: NaH
-  source: MESH
-  identifier: D012964
-- word: DMSO
-  source: MESH
-  identifier: D004121
-- word: Chloroacetone
-  source: MESH
-  identifier: C006973
-- word: Wyosine
-  source: MESH
-  identifier: C012100
-- word: AcO
-  source: MESH
-  identifier: D000186
-- word: Bromobutanone
-  source: ''
-  identifier: ''
-- word: 3-Methylguanosine
-  source: MESH
-  identifier: C116616
-- word: OAc
-  source: MESH
-  identifier: C065699
-- word: Methylwyosine
-  source: ''
-  identifier: ''
-- word: mimG
-  source: MESH
-  identifier: C521425
-diseases:
-- word: CHC
-  source: MESH
-  identifier: D019698
-figid_alias: PMC7761594__S4
-redirect_from: /figures/PMC7761594__S4
-figtype: Scheme
 ---

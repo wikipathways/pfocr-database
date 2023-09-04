@@ -1,5 +1,10 @@
 ---
 figid: PMC3809585__cshperspect-RTK-009076_F3
+figtitle: TAM-regulated cycle of inflammation in dendritic cells
+organisms:
+- Homo sapiens
+pmcid: PMC3809585
+filename: cshperspect-RTK-009076_F3.jpg
 figlink: /pmc/articles/PMC3809585/figure/A009076F3/
 number: F3
 caption: A TAM-regulated cycle of inflammation in dendritic cells. An initial recognition
@@ -18,18 +23,21 @@ caption: A TAM-regulated cycle of inflammation in dendritic cells. An initial re
   of an immune stimulus to a dendritic cell with diminished TAM signaling will always
   result in a hyperelevated inflammatory response. See text for details. (From ; adapted
   and reprinted, with permission, from the author.)
-pmcid: PMC3809585
 papertitle: Biology of the TAM Receptors.
 reftext: Greg Lemke. Cold Spring Harb Perspect Biol. 2013 Nov;5(11):a009076.
-pmc_ranked_result_index: '36752'
-pathway_score: 0.6304036
-filename: cshperspect-RTK-009076_F3.jpg
-figtitle: TAM-regulated cycle of inflammation in dendritic cells
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6304036
+figid_alias: PMC3809585__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3809585__F3
 ndex: 200cdacf-df37-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -58,184 +66,44 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CDK9
-  - TRAF6
   - IFNAR1
-  - TLR3
-  - STAT1
-  - MAPK11
-  - MAPK12
+  - IFNAR2
   - TLR4
-  - TRAF3
-  - STAT5A
-  - MAPK1
+  - SOAT1
+  - STAT1
   - STAT2
   - STAT3
-  - MAPK13
-  - STAT5B
-  - STAT6
-  - AXL
-  - FOSB
-  - FOS
-  - GAS6
-  - MAPK3
-  - FOSL1
-  - FOSL2
-  - JUN
-  - NFKB1
-  - JUNB
-  - MAPK14
   - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
+  - TLR3
+  - TRIM69
+  - TICAM1
+  - TRAF3
+  - TRAF6
+  - CDK9
+  - TAB1
+  - TAB2
+  - TAB3
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - CRK
+  - MAPK14
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - NFKB1
+  - FOS
+  - FOSB
+  - JUN
+  - JUNB
   - JUND
-genes:
-- word: TAB/TAK
-  symbol: TAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: CDK9
-  entrez: '1025'
-- word: TRAF6
-  symbol: TRAF6
-  source: hgnc_symbol
-  hgnc_symbol: TRAF6
-  entrez: '7189'
-- word: IFNAR
-  symbol: IFNAR
-  source: hgnc_prev_symbol
-  hgnc_symbol: IFNAR1
-  entrez: '3454'
-- word: TLR3
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: ERK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: ERK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: TRAF3
-  symbol: TRAF3
-  source: hgnc_symbol
-  hgnc_symbol: TRAF3
-  entrez: '7187'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: ERK/p38
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: ERK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: Axl
-  symbol: AXL
-  source: hgnc_symbol
-  hgnc_symbol: AXL
-  entrez: '558'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSB
-  entrez: '2354'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOS
-  entrez: '2353'
-- word: Gas6
-  symbol: GAS6
-  source: hgnc_symbol
-  hgnc_symbol: GAS6
-  entrez: '2621'
-- word: ERK/p38
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSL1
-  entrez: '8061'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSL2
-  entrez: '2355'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUNB
-  entrez: '3726'
-- word: ERK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUND
-  entrez: '3727'
-chemicals: []
-diseases: []
-figid_alias: PMC3809585__F3
-redirect_from: /figures/PMC3809585__F3
-figtype: Figure
+  - AXL
+  - GAS6
 ---

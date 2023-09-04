@@ -1,5 +1,11 @@
 ---
 figid: PMC7356990__microorganisms-08-00866-g001
+figtitle: N-methylanthranilate (NMA) biosynthesis (A) embedded into aromatic amino
+  acid metabolism of engineered C
+organisms:
+- NA
+pmcid: PMC7356990
+filename: microorganisms-08-00866-g001.jpg
 figlink: pmc/articles/PMC7356990/figure/microorganisms-08-00866-f001/
 number: F1
 caption: Schematic representation of N-methylanthranilate (NMA) biosynthesis (A) embedded
@@ -24,20 +30,22 @@ caption: Schematic representation of N-methylanthranilate (NMA) biosynthesis (A)
   importer; aroK, shikimate kinase; aroA, 5-enolpyruvylshikimate-3-phosphate synthase;
   aroC, chorismate synthase; csm, chorismate mutase; trpEFBR, feedback-resistant anthranilate
   synthase from E. coli.
-pmcid: PMC7356990
 papertitle: Fermentative N-Methylanthranilate Production by Engineered Corynebacterium
   glutamicum.
 reftext: Tatjana Walter, et al. Microorganisms. 2020 Jun;8(6):866.
-pmc_ranked_result_index: '86230'
-pathway_score: 0.9467492
-filename: microorganisms-08-00866-g001.jpg
-figtitle: N-methylanthranilate (NMA) biosynthesis (A) embedded into aromatic amino
-  acid metabolism of engineered C
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9467492
+figid_alias: PMC7356990__F1
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC7356990__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -71,12 +79,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ACSM3
-  - MET
-  - AHCY
-  - TKT
-  - PAEP
-  - LDHA
+  - metK
+  - metH
+  - metE
+  - aroF
+  - aroB
+  - tktA
+  - aroE
+  - aroK
+  - aroA
+  - ppc
+  - aroC
+  - crp
+  - yciE
   - Rg
   - Anthranilate
   - N-methylanthranilate
@@ -90,79 +105,4 @@ schema-jsonld:
   - Tyrosine
   - Phenylalanine
   - SAH
-genes:
-- word: SAH
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-- word: МЕТ
-  symbol: MET
-  source: hgnc_symbol
-  hgnc_symbol: MET
-  entrez: '4233'
-- word: sahH
-  symbol: SAHH
-  source: hgnc_alias_symbol
-  hgnc_symbol: AHCY
-  entrez: '191'
-- word: tkt
-  symbol: TKT
-  source: hgnc_symbol
-  hgnc_symbol: TKT
-  entrez: '7086'
-- word: -PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: IdhA
-  symbol: LDHA
-  source: hgnc_symbol
-  hgnc_symbol: LDHA
-  entrez: '3939'
-chemicals:
-- word: Rg
-  source: MESH
-  identifier: C035054
-- word: Anthranilate
-  source: MESH
-  identifier: C031385
-- word: N-methylanthranilate
-  source: MESH
-  identifier: C412492
-- word: Sugars
-  source: MESH
-  identifier: D002241
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Lactate
-  source: MESH
-  identifier: D019344
-- word: Oxaloacetate
-  source: MESH
-  identifier: D010071
-- word: Prephenate
-  source: MESH
-  identifier: C005550
-- word: Tryptophan
-  source: ''
-  identifier: ''
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: Tyrosine
-  source: ''
-  identifier: ''
-- word: Phenylalanine
-  source: MESH
-  identifier: C119108
-diseases:
-- word: SAH
-  source: MESH
-  identifier: D013345
-figid_alias: PMC7356990__F1
-redirect_from: /figures/PMC7356990__F1
-figtype: Figure
 ---

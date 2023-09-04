@@ -1,5 +1,10 @@
 ---
 figid: PMC5711269__AnnalsATS.201702-136AW_f1
+figtitle: Reverse cholesterol transport pathway
+organisms:
+- NA
+pmcid: PMC5711269
+filename: AnnalsATS.201702-136AW_f1.jpg
 figlink: /pmc/articles/PMC5711269/figure/fig1/
 number: F1
 caption: Reverse cholesterol transport pathway. Reverse cholesterol transport is the
@@ -15,18 +20,23 @@ caption: Reverse cholesterol transport pathway. Reverse cholesterol transport is
   cleared from the plasma is then exported to the biliary system and from there to
   the intestinal lumen, where it can be excreted from the host. Apo B100 = apolipoprotein
   B 100; ApoA-1 = apolipoprotein A-I.
-pmcid: PMC5711269
 papertitle: A New Frontier in Immunometabolism. Cholesterol in Lung Health and Disease.
 reftext: Michael B. Fessler. Ann Am Thorac Soc. 2017 Nov;14(Suppl 5):S399-S405.
-pmc_ranked_result_index: '54415'
-pathway_score: 0.9294673
-filename: AnnalsATS.201702-136AW_f1.jpg
-figtitle: Reverse cholesterol transport pathway
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9294673
+figid_alias: PMC5711269__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Drosophila melanogaster
+- Arabidopsis thaliana
+redirect_from: /figures/PMC5711269__F1
 ndex: 7f275fc9-decd-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,98 +61,33 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - LDLR
-  - APOE
+  - AOPEP
+  - APEX1
+  - CCDC88A
+  - HSD11B1
   - ALB
-  - CLU
-  - C9orf3
   - APOA1
   - APOA2
-  - ABCG1
-  - SREBF2
-  - ABCA1
+  - APOE
+  - CLU
+  - LPA
   - APOA4
-  - SCARB1
   - APOA5
-genes:
-- word: LDLR
-  symbol: LDLR
-  source: hgnc_symbol
-  hgnc_symbol: LDLR
-  entrez: '3949'
-- word: HDL
-  symbol: HDL
-  source: bioentities_symbol
-  hgnc_symbol: APOE
-  entrez: '348'
-- word: HDL
-  symbol: HDL
-  source: bioentities_symbol
-  hgnc_symbol: ALB
-  entrez: '213'
-- word: HDL
-  symbol: HDL
-  source: bioentities_symbol
-  hgnc_symbol: CLU
-  entrez: '1191'
-- word: Apo
-  symbol: AP-O
-  source: hgnc_alias_symbol
-  hgnc_symbol: C9orf3
-  entrez: '84909'
-- word: HDL
-  symbol: HDL
-  source: bioentities_symbol
-  hgnc_symbol: APOA1
-  entrez: '335'
-- word: HDL
-  symbol: HDL
-  source: bioentities_symbol
-  hgnc_symbol: APOA2
-  entrez: '336'
-- word: ABCG1
-  symbol: ABCG1
-  source: hgnc_symbol
-  hgnc_symbol: ABCG1
-  entrez: '9619'
-- word: SREBP2
-  symbol: SREBP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: SREBF2
-  entrez: '6721'
-- word: ApoA
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA1
-  entrez: '335'
-- word: ABCA1
-  symbol: ABCA1
-  source: hgnc_symbol
-  hgnc_symbol: ABCA1
-  entrez: '19'
-- word: ApoA
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA4
-  entrez: '337'
-- word: ApoA
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA2
-  entrez: '336'
-- word: SR-BI
-  symbol: SR-BI
-  source: hgnc_alias_symbol
-  hgnc_symbol: SCARB1
-  entrez: '949'
-- word: ApoA
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA5
-  entrez: '116519'
-chemicals: []
-diseases: []
-figid_alias: PMC5711269__F1
-redirect_from: /figures/PMC5711269__F1
-figtype: Figure
+  - SCARB1
+  - ABCA1
+  - LDLR
+  - ABCG1
+  - NR1H2
+  - NR1H3
+  - SREBF2
+  - apo
+  - RpLP0
+  - modSP
+  - Hdl
+  - sr
+  - LRP1
+  - LpR2
+  - mgl
+  - CG17646
+  - SR
 ---

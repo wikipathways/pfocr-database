@@ -1,5 +1,11 @@
 ---
 figid: PMC3039931__cshperspect-IMS-002352_F1
+figtitle: Cytoplasmic tyrosine kinases in the activating signaling pathways utilizing
+  ITAM-containing adapters
+organisms:
+- NA
+pmcid: PMC3039931
+filename: cshperspect-IMS-002352_F1.jpg
 figlink: /pmc/articles/PMC3039931/figure/A002352F1/
 number: F1
 caption: Cytoplasmic tyrosine kinases in the activating signaling pathways utilizing
@@ -42,20 +48,23 @@ caption: Cytoplasmic tyrosine kinases in the activating signaling pathways utili
   that feed primarily into the Rho/WASP pathway of actin polymerization, leading to
   cytoskeletal changes in innate immune cells required for adhesion, migration, and
   degranulation responses.
-pmcid: PMC3039931
 papertitle: 'Src-family and Syk Kinases in Activating and Inhibitory Pathways in Innate
   Immune Cells: Signaling Cross Talk.'
 reftext: Clifford A. Lowell. Cold Spring Harb Perspect Biol. 2011 Mar;3(3):a002352.
-pmc_ranked_result_index: '160319'
-pathway_score: 0.8667578
-filename: cshperspect-IMS-002352_F1.jpg
-figtitle: Cytoplasmic tyrosine kinases in the activating signaling pathways utilizing
-  ITAM-containing adapters
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8667578
+figid_alias: PMC3039931__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3039931__F1
 ndex: 2e38e802-df15-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -107,248 +116,116 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNFRSF11A
-  - PRKCA
-  - ACTC1
+  - crb
+  - Fs(3)Far
+  - scb
+  - pira
+  - op
+  - oo
+  - Shark
+  - plo
+  - Fak
+  - ras
+  - Ras64B
+  - Ras85D
+  - ra
+  - rho
+  - Bx
+  - Rho1
+  - Lcp65Ab1
+  - RhoBTB
+  - vap
+  - RasGAP1
+  - Dif
+  - dl
+  - Rel
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - ca
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - NFAT
+  - Btk
+  - FCRLB
+  - TYROBP
+  - FEA
+  - CLEC6A
+  - CLEC5A
+  - ITGA1
+  - ITGA10
+  - ITGA11
+  - ITGA2
+  - ITGA2B
+  - ITGA3
+  - ITGA4
+  - ITGA5
+  - ITGA6
+  - ITGA7
+  - ITGA8
+  - ITGA9
+  - ITGAD
+  - ITGAE
+  - ITGAL
+  - ITGAM
+  - ITGAV
+  - ITGAX
+  - ITGB1
+  - ITGB2
+  - ITGB3
+  - ITGB4
+  - ITGB5
+  - ITGB6
+  - ITGB7
+  - ITGB8
+  - ITGBL1
+  - CLEC4E
+  - CLEC7A
+  - IL3RA
+  - CLEC1B
   - SELPLG
-  - NRAS
+  - TNFRSF11A
+  - SYK
+  - PTK2B
+  - PTK2
   - KRAS
+  - HRAS
+  - NRAS
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
+  - RASA1
   - NFKB1
-  - PRKD3
-  - PRKCQ
+  - PRRT2
+  - PRKCA
+  - PRKCB
   - PRKCD
+  - PRKCE
+  - PRKCG
   - PRKCH
   - PRKCI
-  - NFATC3
-  - HRAS
-  - NFATC2
-  - NFATC4
-  - TEC
-  - PRKCB
-  - RHOD
-  - PRKCG
-  - PRKCE
-  - CLEC4E
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
   - ACTA1
   - ACTA2
-  - NFAT5
-  - SYK
-  - CLEC1B
-  - ACTG1
-  - PRKCZ
   - ACTB
-  - CLEC6A
-  - PTK2
-  - PTK2B
-  - NFATC1
-  - CCL25
+  - ACTC1
+  - ACTG1
   - ACTG2
-  - CLEC7A
-  - CLEC5A
-  - TYROBP
+  - NFATC1
+  - NFATC2
+  - NFATC3
+  - NFATC4
+  - NFAT5
+  - CCL25
+  - TEC
   - Cancer
-genes:
-- word: RANK
-  symbol: RANK
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFRSF11A
-  entrez: '8792'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: PSGL-1
-  symbol: PSGL-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SELPLG
-  entrez: '6404'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: NFAT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC3
-  entrez: '4775'
-- word: (Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: NFAT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC2
-  entrez: '4773'
-- word: NFAT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC4
-  entrez: '4776'
-- word: Tec
-  symbol: TEC
-  source: hgnc_symbol
-  hgnc_symbol: TEC
-  entrez: '7006'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: Rho
-  symbol: Rho
-  source: hgnc_alias_symbol
-  hgnc_symbol: RHOD
-  entrez: '29984'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: Mincle
-  symbol: mincle
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC4E
-  entrez: '26253'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: NFAT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFAT5
-  entrez: '10725'
-- word: Syk
-  symbol: SYK
-  source: hgnc_symbol
-  hgnc_symbol: SYK
-  entrez: '6850'
-- word: CLEC2
-  symbol: CLEC2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC1B
-  entrez: '51266'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: (PKC.
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: Dectin-2
-  symbol: dectin-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC6A
-  entrez: '93978'
-- word: Fak/Pyk2
-  symbol: FAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2
-  entrez: '5747'
-- word: Fak/Pyk2
-  symbol: PYK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2B
-  entrez: '2185'
-- word: NFAT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC1
-  entrez: '4772'
-- word: TecKs
-  symbol: TECK
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL25
-  entrez: '6370'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: Dectin-1
-  symbol: dectin-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC7A
-  entrez: '64581'
-- word: MDL-1
-  symbol: MDL-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CLEC5A
-  entrez: '23601'
-- word: DAP12
-  symbol: DAP12
-  source: hgnc_alias_symbol
-  hgnc_symbol: TYROBP
-  entrez: '7305'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3039931__F1
-redirect_from: /figures/PMC3039931__F1
-figtype: Figure
 ---

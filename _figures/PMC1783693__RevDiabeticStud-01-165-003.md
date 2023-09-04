@@ -1,5 +1,11 @@
 ---
 figid: PMC1783693__RevDiabeticStud-01-165-003
+figtitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicity
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC1783693
+filename: RevDiabeticStud-01-165-003.jpg
 figlink: /pmc/articles/PMC1783693/figure/F3/
 number: F3
 caption: The JNK pathway in the liver is activated by factors such as oxidative stress,
@@ -10,18 +16,21 @@ caption: The JNK pathway in the liver is activated by factors such as oxidative 
   normal mice decreased insulin sensitivity. Suppression of the JNK pathway by the
   treatment with Ad-DN-JNK enhances insulin signaling which leads to a decrease in
   gluconeogenesis and amelioration of glucose tolerance.
-pmcid: PMC1783693
 papertitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicity.
 reftext: Hideaki Kaneto, et al. Rev Diabet Stud. 2004 Winter;1(4):165-174.
-pmc_ranked_result_index: '51234'
-pathway_score: 0.8827739
-filename: RevDiabeticStud-01-165-003.jpg
-figtitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicity
 year: '2004'
-organisms:
-- Mus musculus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8827739
+figid_alias: PMC1783693__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC1783693__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,63 +50,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNF
-  - MAPK10
-  - IRS1
-  - TYR
-  - MAPK8
-  - MAPK9
   - Glucose
   - Ser
   - Tyr
-genes:
-- word: TNF-a
-  symbol: TNF-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: TNF-
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: IRS1
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: Tyr
-  symbol: TYR
-  source: hgnc_symbol
-  hgnc_symbol: TYR
-  entrez: '7299'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Ser
-  source: MESH
-  identifier: D012694
-- word: Tyr
-  source: MESH
-  identifier: D014443
-diseases: []
-figid_alias: PMC1783693__F3
-redirect_from: /figures/PMC1783693__F3
-figtype: Figure
 ---

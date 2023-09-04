@@ -1,5 +1,10 @@
 ---
 figid: PMC5012454__jen-suppl.1-2016-023f1
+figtitle: Physiological effects of ROS on synaptic plasticity
+organisms:
+- Homo sapiens
+pmcid: PMC5012454
+filename: jen-suppl.1-2016-023f1.jpg
 figlink: /pmc/articles/PMC5012454/figure/f1-jen-suppl.1-2016-023/
 number: F1
 caption: Physiological effects of ROS on synaptic plasticity. NMDA receptor stimulation
@@ -27,19 +32,22 @@ caption: Physiological effects of ROS on synaptic plasticity. NMDA receptor stim
   physiological over pathological processes. Antioxidants neutralize the excessive
   production of ROS, especially those derived from mitochondria (11). In the nucleus,
   base excision repair (BER) components compensate DNA damage caused by ROS (12).
-pmcid: PMC5012454
 papertitle: 'Reactive Oxygen Species: Physiological and Physiopathological Effects
   on Synaptic Plasticity.'
 reftext: Thiago Fernando Beckhauser, et al. J Exp Neurosci. 2016;10(Suppl 1):23-48.
-pmc_ranked_result_index: '233060'
-pathway_score: 0.9554374
-filename: jen-suppl.1-2016-023f1.jpg
-figtitle: Physiological effects of ROS on synaptic plasticity
 year: '2016'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9554374
+figid_alias: PMC5012454__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC5012454__F1
 ndex: 75c241ed-deea-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -77,178 +85,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CREB5
-  - CREB3L1
-  - PRKD3
-  - PRKCA
-  - CREB3L3
-  - CAMK2B
-  - PRKCG
-  - MAPK1
-  - NOS1
-  - ATF1
-  - PRKCB
-  - CREM
-  - MAPK3
-  - PRKCQ
-  - PRKCZ
-  - PRKG1
-  - PRKCE
-  - RYR1
-  - PRKCH
-  - CREB3L2
-  - PRKCD
-  - CREB3L4
-  - CREB3
-  - CREB1
-  - ATF2
-  - PRKCI
   - Dopamine
   - AMPA
   - Glutamate
-genes:
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB5
-  entrez: '9586'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L1
-  entrez: '90993'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L3
-  entrez: '84699'
-- word: CaMKII
-  symbol: CAMK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CAMK2B
-  entrez: '816'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: NNOS
-  symbol: nNOS
-  source: hgnc_alias_symbol
-  hgnc_symbol: NOS1
-  entrez: '4842'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF1
-  entrez: '466'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREM
-  entrez: '1390'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PKG
-  symbol: PKG
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L2
-  entrez: '64764'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L4
-  entrez: '148327'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3
-  entrez: '10488'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB1
-  entrez: '1385'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF2
-  entrez: '1386'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-chemicals:
-- word: Dopamine
-  source: MESH
-  identifier: D004298
-- word: AMPA
-  source: MESH
-  identifier: D018350
-- word: Glutamate
-  source: MESH
-  identifier: D018698
-diseases: []
-figid_alias: PMC5012454__F1
-redirect_from: /figures/PMC5012454__F1
-figtype: Figure
 ---

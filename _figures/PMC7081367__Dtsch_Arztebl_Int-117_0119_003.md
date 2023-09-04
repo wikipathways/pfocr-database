@@ -1,5 +1,10 @@
 ---
 figid: PMC7081367__Dtsch_Arztebl_Int-117_0119_003
+figtitle: Disorders Caused by Genetic Mosaicism
+organisms:
+- Homo sapiens
+pmcid: PMC7081367
+filename: Dtsch_Arztebl_Int-117_0119_003.jpg
 figlink: pmc/articles/PMC7081367/figure/F3/
 number: F3
 caption: 'PI3K/AKT and RAS/RAF signaling pathways with main genes involved.Following
@@ -28,18 +33,21 @@ caption: 'PI3K/AKT and RAS/RAF signaling pathways with main genes involved.Follo
   genes. Neurofibromatosis type 1 (NF1) is a negative regulator of the RAS/RAF signaling
   pathway. As in syndromes associated with the PI3K/AKT signaling pathway, the phenotypic
   overlap is great (, ).'
-pmcid: PMC7081367
 papertitle: Disorders Caused by Genetic Mosaicism.
 reftext: Ute Moog, et al. Dtsch Arztebl Int. 2020 Feb;117(8):119-125.
-pmc_ranked_result_index: '28592'
-pathway_score: 0.9382147
-filename: Dtsch_Arztebl_Int-117_0119_003.jpg
-figtitle: Disorders Caused by Genetic Mosaicism
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9382147
+figid_alias: PMC7081367__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC7081367__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -78,306 +86,87 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - AKT1
+  - AKT2
+  - AKT3
   - PIK3CA
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
   - PIK3R3
   - PIK3R4
-  - PIK3CB
-  - PIK3CD
   - PIK3R5
   - PIK3R6
-  - AKT2
-  - AKT3
-  - AKT1
-  - HRAS
+  - PIK3R1
+  - PIK3R2
   - KRAS
+  - HRAS
   - NRAS
+  - ZHX2
   - ARAF
   - BRAF
   - RAF1
   - PTEN
   - NF1
+  - SLC12A3
   - TSC1
+  - TESC
   - TSC2
   - MTOR
+  - MAP2K7
   - MAP2K1
   - MAP2K2
-  - MAPK3
+  - EPHB2
   - MAPK1
-genes:
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K/AKTsignalingpathway
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: RAS/RAFsignalingpathway
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: RAS/RAFsignalingpathway
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS/RAFsignalingpathway
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: RAS/RAF
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: RAS/RAF
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS/RAF
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: RAS/RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: RAS/RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: RAS/RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: NF1
-  symbol: NF1
-  source: hgnc_symbol
-  hgnc_symbol: NF1
-  entrez: '4763'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: TSC
-  symbol: TSC
-  source: bioentities_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: TSC
-  symbol: TSC
-  source: bioentities_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: МЕК
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: МЕК
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-chemicals: []
-diseases: []
-figid_alias: PMC7081367__F3
-redirect_from: /figures/PMC7081367__F3
-figtype: Figure
+  - MAPK3
 ---

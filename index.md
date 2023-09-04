@@ -102,17 +102,12 @@ title: Home
       </a>
     </div>
     <div class="carousel-item">
-          <a href="/browse/table.html">
+          <a href="/browse/wikipathways.html">
       <img class="d-block w-100" src="/assets/img/slideshow/browse-6.png" alt="WikiPathways">
       </a>
     </div>
     <div class="carousel-item">
-          <a href="/browse/organisms.html">
-      <img class="d-block w-100" src="/assets/img/slideshow/browse-3.png" alt="Organism">
-      </a>
-    </div>
-    <div class="carousel-item">
-          <a href="/browse/organisms.html">
+          <a href="/browse/ndex.html">
       <img class="d-block w-100" src="/assets/img/slideshow/analyze-4.png" alt="NDEx">
       </a>
     </div>
@@ -131,13 +126,12 @@ title: Home
           </div>
           <div class="col-5 mx-auto" style="display:flex;">
             <div class="container">
-                  <h1 style="font-family:Linux Libertine; text-align:right;">Browse the current collection</h1><h2 style="font-family:Poppins; text-align:right;color: #6c757d;line-height:1.4">Explore the full breadth and depth of published pathway knowledge. Discover pathways of interest by organism and ontology annotations.</h2>
+                  <h1 style="font-family:Linux Libertine; text-align:right;">Browse the current collection</h1><h2 style="font-family:Poppins; text-align:right;color: #6c757d;line-height:1.4">Explore the full breadth and depth of published pathway knowledge. Discover pathways of interest by organism and other metadata.</h2>
                 <div class="row mx-auto" style="display:flex; flex-wrap: wrap;">            
                   <div class="col-4 px-0" style="display:flex;"></div>
                   <div class="col-3 mx-auto" style="display:flex;">
                     <div class="container">      
                     <a class="btn btn-sm btn-front w-100 my-2" style="font-size:large" href="browse/table.html">Table</a>       
-                    <a class="btn btn-sm btn-organism btn-pill w-100 my-2" style="font-size:large" href="browse/organisms.html">Organisms</a> 
                     </div>
                   </div>
                   <div class="col-3 mx-auto>" style="display:flex;">

@@ -1,5 +1,11 @@
 ---
 figid: PMC4696838__ccrpm-suppl.1-2015-091f2
+figtitle: MSCs reduce a central profibrotic factor, TGFB1, using STC1 in bleomycin-induced
+  pulmonary fibrosis
+organisms:
+- NA
+pmcid: PMC4696838
+filename: ccrpm-suppl.1-2015-091f2.jpg
 figlink: /pmc/articles/PMC4696838/figure/f2-ccrpm-suppl.1-2015-091/
 number: F2
 caption: 'MSCs reduce a central profibrotic factor, TGF-β1, using STC1 in bleomycin-induced
@@ -10,21 +16,24 @@ caption: 'MSCs reduce a central profibrotic factor, TGF-β1, using STC1 in bleom
   STC1 increases UCP2 and UCP2 induces a reduction of ER stress through the reduction
   of ROS in AECs and AMs. Finally, STC1 derived from MSCs reduces the secretion of
   TGF-β1 from AECs and AMs.Abbreviation: BLM, Bleomycin.'
-pmcid: PMC4696838
 papertitle: Myriad Functions of Stanniocalcin-1 (STC1) Cover Multiple Therapeutic
   Targets in the Complicated Pathogenesis of Idiopathic Pulmonary Fibrosis (IPF).
 reftext: Shinya Ohkouchi, et al. Clin Med Insights Circ Respir Pulm Med. 2015;9(Suppl
   1):91-96.
-pmc_ranked_result_index: '114029'
-pathway_score: 0.9192669
-filename: ccrpm-suppl.1-2015-091f2.jpg
-figtitle: MSCs reduce a central profibrotic factor, TGFB1, using STC1 in bleomycin-induced
-  pulmonary fibrosis
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9192669
+figid_alias: PMC4696838__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Drosophila melanogaster
+redirect_from: /figures/PMC4696838__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -44,64 +53,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AKT3
-  - BLM
-  - UCP2
   - PI3
-  - MTOR
-  - AKT2
   - AKT1
-  - TGFB1
+  - AKT2
+  - AKT3
+  - MTOR
+  - GDF10
   - HSPA5
-genes:
-- word: PI3/AKT/MTOR↑
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: (BLM)
-  symbol: BLM
-  source: hgnc_symbol
-  hgnc_symbol: BLM
-  entrez: '641'
-- word: UCP2↑
-  symbol: UCP2
-  source: hgnc_symbol
-  hgnc_symbol: UCP2
-  entrez: '7351'
-- word: PI3/AKT/MTOR↑
-  symbol: PI3
-  source: hgnc_symbol
-  hgnc_symbol: PI3
-  entrez: '5266'
-- word: PI3/AKT/MTOR↑
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PI3/AKT/MTOR↑
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3/AKT/MTOR↑
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: TGF-B1
-  symbol: TGFB1
-  source: hgnc_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: BiP
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-chemicals: []
-diseases: []
-figid_alias: PMC4696838__F2
-redirect_from: /figures/PMC4696838__F2
-figtype: Figure
+  - UCP2
+  - TGFB1
+  - BLM
+  - Akt
+  - Mtor
+  - Tor
+  - bip
+  - Hsc70-3
+  - Blm
 ---

@@ -1,5 +1,15 @@
 ---
 figid: PMC509316__pbio.0020276.g002
+figtitle: 'Innate Immunity in Fruit Flies: A Textbook Example of Genomic Recycling'
+organisms:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Anopheles gambiae
+- Homo sapiens
+- Mus musculus
+- Alocasia macrorrhizos
+pmcid: PMC509316
+filename: pbio.0020276.g002.jpg
 figlink: /pmc/articles/PMC509316/figure/pbio-0020276-g002/
 number: F2
 caption: Toll is activated by the processed Spätzle (left). Toll activation leads
@@ -10,23 +20,22 @@ caption: Toll is activated by the processed Spätzle (left). Toll activation lea
   diptericin transcription. The signaling events resulting in Dorsal/Dif/Relish activation
   in the fly are “recycled” in mammals in the activation of mammalian NF-κB. See reviews
   and  for more details.
-pmcid: PMC509316
 papertitle: 'Innate Immunity in Fruit Flies: A Textbook Example of Genomic Recycling.'
 reftext: Shubha Govind, et al. PLoS Biol. 2004 Aug;2(8):e276.
-pmc_ranked_result_index: '91643'
-pathway_score: 0.8993417
-filename: pbio.0020276.g002.jpg
-figtitle: 'Innate Immunity in Fruit Flies: A Textbook Example of Genomic Recycling'
 year: '2004'
-organisms:
-- Mus musculus
-- Alocasia macrorrhizos
-- Caenorhabditis elegans
-- Anopheles gambiae
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8993417
+figid_alias: PMC509316__F2
+figtype: Figure
+organisms_ner:
 - Drosophila melanogaster
-- Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC509316__F2
 ndex: cddb756d-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -46,124 +55,46 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CASP3
-  - CASP2
-  - CASP1
-  - TNF
-  - CASP4
-  - CASP5
-  - CASP14
-  - IRAK1
-  - CHUK
-  - IKBKB
-  - IKBKG
-  - CASP10
-  - CASP12
-  - CASP8
-  - CASP6
-  - CASP9
-  - TUBE1
-  - REL
-  - CASP7
-genes:
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: DIF
-  symbol: DIF
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: PELLE
-  symbol: pelle
-  source: hgnc_alias_symbol
-  hgnc_symbol: IRAK1
-  entrez: '3654'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: TUBE
-  symbol: TUBE
-  source: hgnc_alias_symbol
-  hgnc_symbol: TUBE1
-  entrez: '51175'
-- word: REL
-  symbol: REL
-  source: hgnc_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-chemicals: []
-diseases: []
-figid_alias: PMC509316__F2
-redirect_from: /figures/PMC509316__F2
-figtype: Figure
+  - imd
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Toll-4
+  - Tehao
+  - Toll-7
+  - 18w
+  - Toll-6
+  - Toll-9
+  - MstProx
+  - Tl
+  - Tollo
+  - GNBP3
+  - dl
+  - cac
+  - cact
+  - Dif
+  - tub
+  - pll
+  - PGRP-SA
+  - Drs
+  - Rel
+  - Dredd
+  - rip
+  - ripp
+  - Fadd
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - DptA
+  - DptB
+  - Adm2
+  - Tol1
+  - Tnf
+  - Tube1
+  - Rip
+  - Agfg1
+  - Ptpn13
+  - Ripk1
+  - Rpain
 ---

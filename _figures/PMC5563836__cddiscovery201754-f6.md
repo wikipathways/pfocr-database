@@ -1,5 +1,15 @@
 ---
 figid: PMC5563836__cddiscovery201754-f6
+figtitle: Main mechanisms of EE in post-stroke neurogenesis and functional recovery
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Capra hircus
+- Homo sapiens
+- Armoracia rusticana
+pmcid: PMC5563836
+filename: cddiscovery201754-f6.jpg
 figlink: /pmc/articles/PMC5563836/figure/fig6/
 number: F6
 caption: Main mechanisms of EE in post-stroke neurogenesis and functional recovery.
@@ -7,24 +17,22 @@ caption: Main mechanisms of EE in post-stroke neurogenesis and functional recove
   after ischemic stroke. Astrocytic HMGB1 then enhances the production and secretion
   of activated astrocytes through PI3K/AKT signaling pathway. Astrocytic IL-6 promotes
   post-stroke neurogenesis and functional recovery.
-pmcid: PMC5563836
 papertitle: Enriched housing promotes post-stroke functional recovery through astrocytic
   HMGB1-IL-6-mediated angiogenesis.
 reftext: Jia-Yi Chen, et al. Cell Death Discov. 2017;3:17054.
-pmc_ranked_result_index: '66041'
-pathway_score: 0.79305
-filename: cddiscovery201754-f6.jpg
-figtitle: Main mechanisms of EE in post-stroke neurogenesis and functional recovery
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.79305
+figid_alias: PMC5563836__F6
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Rattus norvegicus
-- Armoracia rusticana
-- Homo sapiens
-- Capra hircus
-- Oryctolagus cuniculus
+redirect_from: /figures/PMC5563836__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,40 +49,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AKT3
-  - HMGB1
-  - AKT1
-  - AKT2
-  - IL6
-genes:
-- word: Pl,K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: HMGB1
-  symbol: HMGB1
-  source: hgnc_symbol
-  hgnc_symbol: HMGB1
-  entrez: '3146'
-- word: Pl,K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: Pl,K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-chemicals: []
-diseases: []
-figid_alias: PMC5563836__F6
-redirect_from: /figures/PMC5563836__F6
-figtype: Figure
+  - Hmgb1
+  - pl
+  - pk
+  - Akt1
+  - Il6
 ---

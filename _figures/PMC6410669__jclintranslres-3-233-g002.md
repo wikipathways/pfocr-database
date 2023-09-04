@@ -1,5 +1,11 @@
 ---
 figid: PMC6410669__jclintranslres-3-233-g002
+figtitle: 'Scorpion and spider venoms in cancer treatment: state of the art, challenges,
+  and perspectives'
+organisms:
+- NA
+pmcid: PMC6410669
+filename: jclintranslres-3-233-g002.jpg
 figlink: /pmc/articles/PMC6410669/figure/jctres.03.201702.g002/
 number: F2
 caption: . Schematic representation of the mechanisms involved in normal cell cycle
@@ -46,20 +52,23 @@ caption: . Schematic representation of the mechanisms involved in normal cell cy
   promote cell migration through their ability to cause volume changes and by interacting
   with F-actin. Also, channels and pumps interact with integrins, leading to cell
   adhesion and facilitating migration. See [, , , , ] for a comprehensive review.
-pmcid: PMC6410669
 papertitle: 'Scorpion and spider venoms in cancer treatment: state of the art, challenges,
   and perspectives.'
 reftext: Catarina Rapôso. J Clin Transl Res. 2017 May 24;3(2):233-249.
-pmc_ranked_result_index: '192446'
-pathway_score: 0.9188677
-filename: jclintranslres-3-233-g002.jpg
-figtitle: 'Scorpion and spider venoms in cancer treatment: state of the art, challenges,
-  and perspectives'
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9188677
+figid_alias: PMC6410669__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC6410669__F2
 ndex: 37f46bfc-df0f-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -117,328 +126,182 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R4
-  - PIK3CA
+  - dap
+  - DCTN6-p27
+  - CG9588
+  - Pten
+  - CycE
+  - Cdk2
+  - Rbf
+  - ebi
+  - E2f2
+  - E2f1
+  - Akt
+  - Cdk4
+  - CycD
+  - Mtor
+  - Tor
+  - prd
+  - cyc
+  - bc2
+  - Fs(3)Bak
+  - AIF
+  - Cyt-c-d
+  - Cyt-c-p
+  - Decay
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - Dronc
+  - Fas2
+  - FASN1
+  - Fas3
+  - fand
+  - tei
+  - rg
+  - FASN2
+  - FASN3
+  - Fas1
+  - Tie
+  - Ras85D
+  - InR
+  - Oamb
+  - Lon
+  - schlank
+  - scb
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
+  - IFI27
+  - PSMD9
+  - ZNRD2
+  - DCTN6
+  - TMED7
+  - H3P23
+  - PTEN
+  - CCNE1
+  - CCNE2
+  - CDK2
+  - RB1
+  - E2F1
+  - E2F2
+  - E2F3
+  - E2F4
+  - E2F5
+  - E2F6
+  - E2F7
+  - E2F8
+  - AKT1
+  - AKT2
+  - AKT3
+  - CDK6
+  - CDK4
+  - CCND1
+  - CCND2
+  - CCND3
+  - MTOR
+  - CCN6
+  - PRD
+  - PAQR6
+  - CHMP2A
+  - BAK1
+  - BAX
+  - AIFM1
+  - CASP1
+  - CASP2
+  - CASP4
+  - CASP5
   - CASP6
   - CASP8
   - CASP9
-  - PIK3CD
-  - PIK3R6
-  - PIK3R5
+  - CASP10
+  - CASP12
+  - CASP14
+  - CASP3
+  - CASP7
+  - ACTA1
   - ACTA2
-  - PIK3CB
+  - ACTB
   - ACTC1
   - ACTG1
   - ACTG2
-  - ACTB
-  - PIK3R3
-  - MTOR
-  - ACTA1
-  - PIK3CG
-  - CASP3
-  - CASP4
-  - CASP5
-  - CASP2
-  - E2F6
-  - E2F7
-  - E2F1
-  - E2F8
-  - FASLG
-  - NMUR1
-  - CASP14
-  - CASP1
-  - CCNE1
-  - CCNE2
-  - E2F4
-  - E2F5
-  - E2F2
-  - E2F3
-  - AIFM1
-  - AKT3
-  - CHMP2A
-  - CASP7
-  - CDK2
   - FAS
-  - BAX
-  - PAQR6
-  - CASP12
-  - BAK1
-  - AKT2
-  - CCND3
-  - PTEN
-  - CCND2
-  - CASP10
-  - CCND1
-  - AKT1
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F6
-  entrez: '1876'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F7
-  entrez: '144455'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F1
-  entrez: '1869'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F8
-  entrez: '79733'
-- word: Fasl
-  symbol: FasL
-  source: hgnc_alias_symbol
-  hgnc_symbol: FASLG
-  entrez: '356'
-- word: GPCR
-  symbol: GPC-R
-  source: hgnc_alias_symbol
-  hgnc_symbol: NMUR1
-  entrez: '10316'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: CyclinE/CDK2
-  symbol: Cyclin_E
-  source: bioentities_symbol
-  hgnc_symbol: CCNE1
-  entrez: '898'
-- word: CyclinE/CDK2
-  symbol: Cyclin_E
-  source: bioentities_symbol
-  hgnc_symbol: CCNE2
-  entrez: '9134'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F4
-  entrez: '1874'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F5
-  entrez: '1875'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F2
-  entrez: '1870'
-- word: E2F
-  symbol: E2F
-  source: bioentities_symbol
-  hgnc_symbol: E2F3
-  entrez: '1871'
-- word: AIF
-  symbol: AIF
-  source: hgnc_alias_symbol
-  hgnc_symbol: AIFM1
-  entrez: '9131'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Bc-2
-  symbol: BC-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHMP2A
-  entrez: '27243'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-- word: E/CDK2
-  symbol: CDK2
-  source: hgnc_symbol
-  hgnc_symbol: CDK2
-  entrez: '1017'
-- word: FAS+
-  symbol: FAS
-  source: hgnc_symbol
-  hgnc_symbol: FAS
-  entrez: '355'
-- word: BAX
-  symbol: BAX
-  source: hgnc_symbol
-  hgnc_symbol: BAX
-  entrez: '581'
-- word: PRD
-  symbol: PRdelta
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAQR6
-  entrez: '79957'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: Bak
-  symbol: BAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: BAK1
-  entrez: '578'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: CyclinD/CDK4,6
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND3
-  entrez: '896'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: CyclinD/CDK4,6
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND2
-  entrez: '894'
-- word: Caspase-independent
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: CyclinD/CDK4,6
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND1
-  entrez: '595'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-chemicals: []
-diseases: []
-figid_alias: PMC6410669__F2
-redirect_from: /figures/PMC6410669__F2
-figtype: Figure
+  - FASN
+  - FASLG
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - LONP1
+  - ITGA1
+  - ITGA10
+  - ITGA11
+  - ITGA2
+  - ITGA2B
+  - ITGA3
+  - ITGA4
+  - ITGA5
+  - ITGA6
+  - ITGA7
+  - ITGA8
+  - ITGA9
+  - ITGAD
+  - ITGAE
+  - ITGAL
+  - ITGAM
+  - ITGAV
+  - ITGAX
+  - ITGB1
+  - ITGB2
+  - ITGB3
+  - ITGB4
+  - ITGB5
+  - ITGB6
+  - ITGB7
+  - ITGB8
+  - ITGBL1
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
 ---

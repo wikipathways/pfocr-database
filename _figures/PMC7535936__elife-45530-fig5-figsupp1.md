@@ -1,5 +1,50 @@
 ---
 figid: PMC7535936__elife-45530-fig5-figsupp1
+figtitle: Schematic outline of the Nodal signaling pathway in vertebrates
+organisms:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Paracentrotus lividus
+- Ciona intestinalis
+- Branchiostoma lanceolatum
+- Strongylocentrotus purpuratus
+- Nematostella vectensis
+- Deuterostomia
+- Metazoa
+- Aplysia californica
+- Bilateria
+- Daphnia pulex
+- Hydra vulgaris
+- Amphimedon queenslandica
+- Monosiga brevicollis
+- Trichoplax adhaerens
+- Ecdysozoa
+- Oncopeltus fasciatus
+- Stylophora pistillata
+- Eumetazoa
+- Lophotrochozoa
+- Lingula anatina
+- Salpingoeca rosetta
+- Mnemiopsis leidyi
+- Trichinella pseudospiralis
+- Ctenophora
+- Mesozoa
+- Chaetopterus variopedatus
+- Saccharomyces cerevisiae
+- Arabidopsis thaliana
+- Cucumis sativus
+- Chlorophyta
+- Opisthokonta
+- Amomum maximum
+- Capsaspora owczarzaki
+- Danio rerio
+- Xenopus laevis
+- Gnathostomata
+- Homo sapiens
+- Mus musculus
+- other sequences
+pmcid: PMC7535936
+filename: elife-45530-fig5-figsupp1.jpg
 figlink: pmc/articles/PMC7535936/figure/fig5s1/
 number: SF5_1
 caption: (A) Nodal binds to its cell surface receptor in the presence of the co-receptor
@@ -11,58 +56,23 @@ caption: (A) Nodal binds to its cell surface receptor in the presence of the co-
   EGF-CFC, or by directly binding to Nodal. Factors that evolved in the ancestor of
   bilaterians are displayed in red, all other factors evolved in the ancestor of eumetazoans
   or earlier. Figure modified after .
-pmcid: PMC7535936
 papertitle: The genetic factors of bilaterian evolution.
 reftext: Peter Heger, et al. eLife. 2020;9:e45530.
-pmc_ranked_result_index: '39604'
-pathway_score: 0.9496636
-filename: elife-45530-fig5-figsupp1.jpg
-figtitle: Schematic outline of the Nodal signaling pathway in vertebrates
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9496636
+figid_alias: PMC7535936__SF5_1
+figtype: Supplemental figure
+organisms_ner:
 - Mus musculus
-- Ctenophora
-- Trichoplax adhaerens
-- Ecdysozoa
-- Lophotrochozoa
-- Capsaspora owczarzaki
-- Amomum maximum
-- Mesozoa
-- Mnemiopsis leidyi
-- other sequences
-- Chlorophyta
-- Opisthokonta
-- Metazoa
-- Bilateria
-- Deuterostomia
-- Chaetopterus variopedatus
-- Cucumis sativus
-- Arabidopsis thaliana
-- Amphimedon queenslandica
-- Nematostella vectensis
-- Saccharomyces cerevisiae
-- Stylophora pistillata
-- Eumetazoa
-- Hydra vulgaris
-- Caenorhabditis elegans
-- Trichinella pseudospiralis
-- Aplysia californica
-- Daphnia pulex
-- Drosophila melanogaster
-- Oncopeltus fasciatus
-- Lingula anatina
-- Paracentrotus lividus
-- Strongylocentrotus purpuratus
-- Ciona intestinalis
-- Branchiostoma lanceolatum
-- Gnathostomata
-- Danio rerio
-- Monosiga brevicollis
-- Xenopus laevis
-- Salpingoeca rosetta
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC7535936__SF5_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -83,143 +93,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Lefty1
+  - Nodal
+  - Gdf1
+  - Gdf3
+  - Smad2
+  - Smad4
+  - Foxh1
+  - Actr2
+  - Acvr1b
   - NODAL
   - GDF1
+  - CERS1
   - GDF3
   - SMAD2
   - SMAD4
   - FOXH1
   - ACVR2A
   - ACVR1B
-genes:
-- word: Nodal
-  symbol: NODAL
-  source: hgnc_symbol
-  hgnc_symbol: NODAL
-  entrez: '4838'
-- word: Gdf1/3
-  symbol: GDF1
-  source: hgnc_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: Gdf1/3
-  symbol: GDF3
-  source: hgnc_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: Nodal
-  symbol: NODAL
-  source: hgnc_symbol
-  hgnc_symbol: NODAL
-  entrez: '4838'
-- word: Nodal
-  symbol: NODAL
-  source: hgnc_symbol
-  hgnc_symbol: NODAL
-  entrez: '4838'
-- word: Nodal
-  symbol: NODAL
-  source: hgnc_symbol
-  hgnc_symbol: NODAL
-  entrez: '4838'
-- word: Gdf1/3
-  symbol: GDF1
-  source: hgnc_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: Gdf1/3
-  symbol: GDF3
-  source: hgnc_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: Smad2
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: FoxH1
-  symbol: FOXH1
-  source: hgnc_symbol
-  hgnc_symbol: FOXH1
-  entrez: '8928'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: ActRII
-  symbol: ACTRII
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR2A
-  entrez: '92'
-- word: ActRII
-  symbol: ACTRII
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR2A
-  entrez: '92'
-- word: ALK4
-  symbol: ALK4
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR1B
-  entrez: '91'
-- word: ActRII
-  symbol: ACTRII
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR2A
-  entrez: '92'
-- word: ActRII
-  symbol: ACTRII
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR2A
-  entrez: '92'
-- word: ALK4
-  symbol: ALK4
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACVR1B
-  entrez: '91'
-chemicals: []
-diseases: []
-figid_alias: PMC7535936__SF5_1
-redirect_from: /figures/PMC7535936__SF5_1
-figtype: Supplemental figure
+  - gdf3
+  - smad2
+  - smad4a
+  - smad4b
+  - foxh1
+  - actr2a
+  - actr2b
+  - acvr1ba
 ---

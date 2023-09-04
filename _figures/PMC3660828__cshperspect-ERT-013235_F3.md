@@ -1,5 +1,11 @@
 ---
 figid: PMC3660828__cshperspect-ERT-013235_F3
+figtitle: Components involved in translocation of phospholipids to and within mitochondria
+  of yeast
+organisms:
+- NA
+pmcid: PMC3660828
+filename: cshperspect-ERT-013235_F3.jpg
 figlink: /pmc/articles/PMC3660828/figure/A013235F3/
 number: F3
 caption: Components involved in translocation of phospholipids to and within mitochondria
@@ -19,19 +25,22 @@ caption: Components involved in translocation of phospholipids to and within mit
   Prohibitin ringlike structures made from two proteins PHB1/2 contribute to the formation
   of PE and CL clusters in the IMM. For a detailed description of biosynthetic and
   translocation processes and components involved, see text.
-pmcid: PMC3660828
 papertitle: Lipid Transport between the Endoplasmic Reticulum and Mitochondria.
 reftext: Vid V. Flis, et al. Cold Spring Harb Perspect Biol. 2013 Jun;5(6):a013235.
-pmc_ranked_result_index: '40768'
-pathway_score: 0.9141018
-filename: cshperspect-ERT-013235_F3.jpg
-figtitle: Components involved in translocation of phospholipids to and within mitochondria
-  of yeast
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9141018
+figid_alias: PMC3660828__F3
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 - Homo sapiens
+redirect_from: /figures/PMC3660828__F3
 ndex: 0a3639ad-dea4-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,92 +70,42 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CDS1
-  - PGS1
-  - ZBTB18
-  - PSD
-  - ITGB3
-  - TRIAP1
-  - SGCG
+  - TAZ1
+  - CLD1
+  - CAD1
   - PHB2
+  - PHB1
+  - GEP4
+  - PGS1
+  - MDM35
+  - CDS1
+  - PSD1
+  - UPS2
+  - UPS1
+  - YME1
   - ATP23
+  - GEM1
+  - OPI3
+  - CHO2
+  - MDM12
+  - MDM34
+  - MMM1
+  - MDM10
+  - TAFAZZIN
+  - ZBTB18
+  - CLDN1
   - PGP
-  - PHB
+  - ABCB1
+  - PGPEP1
+  - BGN
+  - TPGS1
+  - TRIAP1
+  - CHEK2
+  - PSD
   - PC
+  - ITGB3
+  - SGCG
   - ARHGEF9
+  - HYAL4
   - CDP
-genes:
-- word: CDS1
-  symbol: CDS1
-  source: hgnc_symbol
-  hgnc_symbol: CDS1
-  entrez: '1040'
-- word: PGS1
-  symbol: PGS1
-  source: hgnc_symbol
-  hgnc_symbol: PGS1
-  entrez: '9489'
-- word: TAZ1
-  symbol: TAZ-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ZBTB18
-  entrez: '10472'
-- word: PSD1
-  symbol: PSD1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PSD
-  entrez: '5662'
-- word: CD61
-  symbol: CD61
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITGB3
-  entrez: '3690'
-- word: MDM35
-  symbol: MDM35
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRIAP1
-  entrez: '51499'
-- word: ER/MAM
-  symbol: MAM
-  source: hgnc_prev_symbol
-  hgnc_symbol: SGCG
-  entrez: '6445'
-- word: PHB1/PHB2
-  symbol: PHB2
-  source: hgnc_symbol
-  hgnc_symbol: PHB2
-  entrez: '11331'
-- word: ATP23
-  symbol: ATP23
-  source: hgnc_symbol
-  hgnc_symbol: ATP23
-  entrez: '91419'
-- word: PGP
-  symbol: PGP
-  source: hgnc_symbol
-  hgnc_symbol: PGP
-  entrez: '283871'
-- word: PHB1/PHB2
-  symbol: PHB1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PHB
-  entrez: '5245'
-- word: PC
-  symbol: PC
-  source: hgnc_symbol
-  hgnc_symbol: PC
-  entrez: '5091'
-- word: PEM2
-  symbol: PEM-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: ARHGEF9
-  entrez: '23229'
-chemicals:
-- word: CDP
-  source: MESH
-  identifier: D003565
-diseases: []
-figid_alias: PMC3660828__F3
-redirect_from: /figures/PMC3660828__F3
-figtype: Figure
 ---

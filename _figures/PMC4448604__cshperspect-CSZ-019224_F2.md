@@ -1,5 +1,13 @@
 ---
 figid: PMC4448604__cshperspect-CSZ-019224_F2
+figtitle: Drosophila Hippo pathway
+organisms:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
+- Gallus gallus
+pmcid: PMC4448604
+filename: cshperspect-CSZ-019224_F2.jpg
 figlink: /pmc/articles/PMC4448604/figure/A019224F2/
 number: F2
 caption: The Drosophila Hippo pathway. More than 40 proteins have been identified
@@ -21,21 +29,24 @@ caption: The Drosophila Hippo pathway. More than 40 proteins have been identifie
   protein; Tgi, Tondu domain-containing growth inhibitor; Tsh, Teashirt; Wbp2, WW
   domain-binding protein 2; Zyx, Zyxin. (From an earlier publication, ; modified,
   with permission, from the authors.)
-pmcid: PMC4448604
 papertitle: Control of Organ Growth by Patterning and Hippo Signaling in Drosophila.
 reftext: Kenneth D. Irvine, et al. Cold Spring Harb Perspect Biol. 2015 Jun;7(6):a019224.
-pmc_ranked_result_index: '93015'
-pathway_score: 0.8929748
-filename: cshperspect-CSZ-019224_F2.jpg
-figtitle: Drosophila Hippo pathway
 year: '2015'
-organisms:
-- Mus musculus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8929748
+figid_alias: PMC4448604__F2
+figtype: Figure
+organisms_ner:
 - Drosophila melanogaster
 - Gallus gallus
+- Mus musculus
 - Homo sapiens
+redirect_from: /figures/PMC4448604__F2
 ndex: 70342d5f-dea1-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -66,184 +77,128 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AMPD1
-  - ACTA1
-  - LIX1
-  - RASSF7
-  - YWHAQ
-  - RASSF2
-  - RASSF10
-  - WBP2
-  - RASSF5
-  - MAT1A
-  - RASSF3
+  - cb
+  - crb
+  - cr-b
+  - fi
+  - ft
+  - lft
+  - dco
+  - Pka-C1
+  - Mer
+  - Rassf
+  - wap
+  - Tao
+  - par-1
+  - ds
+  - mnb
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
+  - jub
+  - Zyx
+  - hpo
+  - hop
+  - wts
+  - mats
+  - mat
+  - Mad
+  - sav
+  - ed
+  - aPKC
+  - l(2)gl
+  - lgs
+  - mask
+  - scrib
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - yki
+  - Wbp2
+  - mop
+  - Hipk
+  - Tgi
+  - tsh
+  - Lgr1
+  - hth
+  - sd
+  - CG2662
+  - Mnt
+  - ash2
+  - FI
+  - DYRK1A
   - APP
-  - HDAC8
+  - PPY
   - ZYX
   - SCRIB
-  - ACTG1
-  - FBXO17
-  - AJUBA
-  - RASSF6
-  - MERTK
-  - ACTA2
   - ACTB
-  - RASSF9
-  - ACTG2
-  - RASSF1
-  - ACTC1
+  - WBP2
   - OPN4
+  - Fbxo17
+  - sar
+  - Srl
+  - Erh
+  - Lama2
+  - Mertk
+  - A1cf
+  - Taok2
+  - Mark2
+  - Ds
+  - App
+  - Ajuba
+  - Mat1a
+  - Mmp7
+  - Sav1
+  - lgl
+  - Ankrd17
+  - Ankhd1
+  - Scrib
+  - Yap1
+  - Mxd1
+  - LIX1
+  - FBXO17
+  - SARDH
+  - SRL
+  - NR1I2
+  - GPER1
+  - MERTK
+  - RASSF1
+  - RASSF2
+  - RASSF3
   - RASSF4
+  - RASSF5
+  - RASSF6
+  - RASSF7
   - RASSF8
-genes:
-- word: Mad
-  symbol: MAD
-  source: hgnc_alias_symbol
-  hgnc_symbol: AMPD1
-  entrez: '270'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Lft
-  symbol: Lft
-  source: hgnc_alias_symbol
-  hgnc_symbol: LIX1
-  entrez: '167410'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF7
-  entrez: '8045'
-- word: (14-3-3
-  symbol: 14-3-3
-  source: hgnc_alias_symbol
-  hgnc_symbol: YWHAQ
-  entrez: '10971'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF2
-  entrez: '9770'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF10
-  entrez: '644943'
-- word: Wbp2
-  symbol: WBP2
-  source: hgnc_symbol
-  hgnc_symbol: WBP2
-  entrez: '23558'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF5
-  entrez: '83593'
-- word: (Mats
-  symbol: MAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAT1A
-  entrez: '4143'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF3
-  entrez: '283349'
-- word: App
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: Wts
-  symbol: WTS
-  source: hgnc_prev_symbol
-  hgnc_symbol: HDAC8
-  entrez: '55869'
-- word: Zyx
-  symbol: ZYX
-  source: hgnc_symbol
-  hgnc_symbol: ZYX
-  entrez: '7791'
-- word: (Scrib
-  symbol: SCRIB
-  source: hgnc_symbol
-  hgnc_symbol: SCRIB
-  entrez: '23513'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: (Fbx17
-  symbol: Fbx17
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXO17
-  entrez: '115290'
-- word: Jub
-  symbol: JUB
-  source: hgnc_prev_symbol
-  hgnc_symbol: AJUBA
-  entrez: '84962'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF6
-  entrez: '166824'
-- word: Mer
-  symbol: mer
-  source: hgnc_alias_symbol
-  hgnc_symbol: MERTK
-  entrez: '10461'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF9
-  entrez: '9182'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF1
-  entrez: '11186'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Mop
-  symbol: MOP
-  source: hgnc_alias_symbol
-  hgnc_symbol: OPN4
-  entrez: '94233'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF4
-  entrez: '83937'
-- word: Rassf
-  symbol: RASSF
-  source: bioentities_symbol
-  hgnc_symbol: RASSF8
-  entrez: '11228'
-chemicals: []
-diseases: []
-figid_alias: PMC4448604__F2
-redirect_from: /figures/PMC4448604__F2
-figtype: Figure
+  - RASSF9
+  - RASSF10
+  - TAOK2
+  - TAOK1
+  - MARK2
+  - F2R
+  - PWAR1
+  - AJUBA
+  - GFER
+  - LATS1
+  - HDAC8
+  - LAS1L
+  - ACAT1
+  - MAT1A
+  - SAV1
+  - STK26
+  - ANKHD1
+  - ACTA1
+  - ACTA2
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - YAP1
+  - OPRM1
+  - NLN
+  - AMPD1
+  - MXD1
 ---

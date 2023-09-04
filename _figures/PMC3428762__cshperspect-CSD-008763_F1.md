@@ -1,5 +1,16 @@
 ---
 figid: PMC3428762__cshperspect-CSD-008763_F1
+figtitle: PI3K-Akt-mTORC1 pathway and control of autophagy
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
+- Saccharomyces cerevisiae
+- Xenopus laevis
+pmcid: PMC3428762
+filename: cshperspect-CSD-008763_F1.jpg
 figlink: /pmc/articles/PMC3428762/figure/A008763F1/
 number: F1
 caption: The PI3K-Akt-mTORC1 pathway and control of autophagy. PI3K is induced downstream
@@ -8,24 +19,23 @@ caption: The PI3K-Akt-mTORC1 pathway and control of autophagy. PI3K is induced d
   both supports protein translation and inhibits autophagy through phosphorylation
   of ULK1 and ULK2. AMPK, activated under energetic stress, inhibits mTORC1 and directly
   associates with ULK1/2 to activate autophagy.
-pmcid: PMC3428762
 papertitle: Metabolic Stress in Autophagy and Cell Death Pathways.
 reftext: Brian J. Altman, et al. Cold Spring Harb Perspect Biol. 2012 Sep;4(9):a008763.
-pmc_ranked_result_index: '108423'
-pathway_score: 0.9569363
-filename: cshperspect-CSD-008763_F1.jpg
-figtitle: PI3K-Akt-mTORC1 pathway and control of autophagy
 year: '2012'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Saccharomyces cerevisiae
-- Caenorhabditis elegans
-- Drosophila melanogaster
-- Xenopus laevis
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9569363
+figid_alias: PMC3428762__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+redirect_from: /figures/PMC3428762__F1
 ndex: 4d7cc176-dee5-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -43,146 +53,85 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MTOR
-  - PRKAB2
-  - PRKAG2
-  - PRKAG1
-  - PIK3CD
-  - AKT2
-  - PIK3R3
-  - PRKAB1
-  - PRKAG3
-  - RPTOR
-  - PIK3CB
-  - PRKAA2
-  - PRKAA1
-  - AKT1
-  - PIK3R6
-  - PIK3CG
-  - AKT3
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
   - PIK3CA
-  - ULK2
-  - ULK1
-  - PIK3R5
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
   - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - MTOR
+  - RPTOR
+  - ULK1
+  - ULK2
+  - Pik3cg
+  - Akt1
+  - Prkaa2
+  - Ulk1
+  - Ulk2
+  - Pik3r1
   - glucose
-genes:
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: ULK1/2
-  symbol: ULK2
-  source: hgnc_symbol
-  hgnc_symbol: ULK2
-  entrez: '9706'
-- word: ULK1/2
-  symbol: ULK1
-  source: hgnc_symbol
-  hgnc_symbol: ULK1
-  entrez: '8408'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-chemicals:
-- word: glucose
-  source: MESH
-  identifier: D005947
-diseases: []
-figid_alias: PMC3428762__F1
-redirect_from: /figures/PMC3428762__F1
-figtype: Figure
 ---

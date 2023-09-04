@@ -1,5 +1,11 @@
 ---
 figid: PMC3898681__DialoguesClinNeurosci-15-431-g004
+figtitle: Working model of chronic morphine-induced adaptations in ventral tegmental
+  area (VTA) dopamine neurons
+organisms:
+- NA
+pmcid: PMC3898681
+filename: DialoguesClinNeurosci-15-431-g004.jpg
 figlink: /pmc/articles/PMC3898681/figure/DialoguesClinNeurosci-15-431-g004/
 number: F4
 caption: 'Working model of chronic morphine-induced adaptations in ventral tegmental
@@ -18,19 +24,21 @@ caption: 'Working model of chronic morphine-induced adaptations in ventral tegme
   Friedman AK, et al. Role for mTOR signaling and neuronal activity in morphine-induced
   adaptations in ventral tegmental area dopamine neurons. Neuron.2011 ;72:977-990.
   Copyright © Cell Press 2011.'
-pmcid: PMC3898681
 papertitle: Cellular basis of memory for addiction.
 reftext: Eric J. Nestler. Dialogues Clin Neurosci. 2013 Dec;15(4):431-443.
-pmc_ranked_result_index: '153491'
-pathway_score: 0.9527992
-filename: DialoguesClinNeurosci-15-431-g004.jpg
-figtitle: Working model of chronic morphine-induced adaptations in ventral tegmental
-  area (VTA) dopamine neurons
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9527992
+figid_alias: PMC3898681__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3898681__F4
 ndex: a0c8c26b-dee5-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -58,93 +66,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NTRK2
+  - BDNF
+  - BDNF-AS
+  - IRS2
+  - MAPKAP1
   - MTOR
+  - RICTOR
+  - MLST8
+  - AKT1
+  - AKT2
+  - AKT3
+  - RPTOR
+  - NTRK2
   - RPS6KB1
   - RPS6KB2
-  - AKT1
-  - AKT3
-  - MAPKAP1
-  - MLST8
-  - RICTOR
-  - BDNF
-  - RPTOR
-  - AKT2
-  - IRS2
-genes:
-- word: TrKB
-  symbol: TRKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NTRK2
-  entrez: '4915'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB2
-  entrez: '6199'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: BDNF
-  symbol: BDNF
-  source: hgnc_symbol
-  hgnc_symbol: BDNF
-  entrez: '627'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: IRS2?
-  symbol: IRS2
-  source: hgnc_symbol
-  hgnc_symbol: IRS2
-  entrez: '8660'
-chemicals: []
-diseases: []
-figid_alias: PMC3898681__F4
-redirect_from: /figures/PMC3898681__F4
-figtype: Figure
 ---

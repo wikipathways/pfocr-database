@@ -1,5 +1,47 @@
 ---
 figid: PMC6780103__microorganisms-07-00351-g004
+figtitle: Human adenovirus induced cell signaling and downstream immune responses
+  in human keratocytes, highlighting the centrality of Src kinase
+organisms:
+- Human immunodeficiency virus 1
+- Hepatitis B virus
+- Adenoviridae
+- Coronaviridae
+- Human alphaherpesvirus 1
+- Human immunodeficiency virus
+- Adeno-associated virus
+- Vaccinia virus
+- Betapolyomavirus macacae
+- Human coronavirus 229E
+- Human adenovirus 5
+- Foot-and-mouth disease virus
+- Polyomavirus sp.
+- Human papillomavirus types
+- Rift Valley fever virus
+- Human adenovirus sp.
+- Betapolyomavirus hominis
+- Subgroup C
+- Human adenovirus 2
+- Human enterovirus
+- Echovirus E1
+- Human adenovirus D37
+- Human mastadenovirus B
+- Tiger frog virus
+- Human mastadenovirus D
+- Human adenovirus 19
+- Human adenovirus D8
+- Mus musculus
+- Rattus norvegicus
+- Cricetulus griseus
+- Homo sapiens
+- Macaca mulatta
+- Matthiola incana
+- Aspergillus fumigatus
+- Gallus gallus
+- Staphylococcus aureus
+- Panthera leo
+pmcid: PMC6780103
+filename: microorganisms-07-00351-g004.jpg
 figlink: /pmc/articles/PMC6780103/figure/microorganisms-07-00351-f004/
 number: F4
 caption: Overview of human adenovirus induced cell signaling and downstream immune
@@ -15,56 +57,28 @@ caption: Overview of human adenovirus induced cell signaling and downstream immu
   inhibition of apoptosis and expression of pro-inflammatory genes, including IL-8
   and MCP-1. A similar signaling pathway in human corneal epithelial cells has yet
   to be elucidated.
-pmcid: PMC6780103
 papertitle: Disparate Entry of Adenoviruses Dictates Differential Innate Immune Responses
   on the Ocular Surface.
 reftext: Matthew R. Pennington, et al. Microorganisms. 2019 Sep;7(9):351.
-pmc_ranked_result_index: '144255'
-pathway_score: 0.9239823
-filename: microorganisms-07-00351-g004.jpg
-figtitle: Human adenovirus induced cell signaling and downstream immune responses
-  in human keratocytes, highlighting the centrality of Src kinase
 year: '2019'
-organisms:
-- Cricetulus griseus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9239823
+figid_alias: PMC6780103__F4
+figtype: Figure
+organisms_ner:
 - Mus musculus
 - Rattus norvegicus
-- Vaccinia virus
-- Human alphaherpesvirus 1
-- Hepatitis B virus
-- Adenoviridae
-- Human adenovirus 2
-- Human mastadenovirus B
-- Coronaviridae
-- Human coronavirus 229E
-- Rift Valley fever virus
-- Human immunodeficiency virus 1
-- Human enterovirus
-- Foot-and-mouth disease virus
-- Human immunodeficiency virus
-- Staphylococcus aureus
-- Human mastadenovirus D
-- Tiger frog virus
-- Subgroup C
-- Human papillomavirus types
-- Betapolyomavirus hominis
-- Betapolyomavirus macacae
-- Human adenovirus sp.
-- Adeno-associated virus
-- Human adenovirus 19
-- Human adenovirus 5
-- Human adenovirus D8
-- Polyomavirus sp.
-- Matthiola incana
-- Echovirus E1
-- Human adenovirus D37
-- Aspergillus fumigatus
-- Gallus gallus
 - Macaca mulatta
+- Cricetulus griseus
 - Homo sapiens
 - Panthera leo
+- Gallus gallus
+redirect_from: /figures/PMC6780103__F4
 ndex: 41ce24dd-df09-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -89,163 +103,84 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AKT2
-  - AKT1
-  - TLR9
-  - AKT3
+  - Cd46
+  - Tlr1
+  - Tlr6
+  - Tlr2
+  - Myd88
+  - Src
+  - Tlr9
+  - Ptk2
+  - pk
+  - Mapk3
+  - Mapk1
+  - Crk
+  - Grap2
+  - Syp
+  - Mapk14
+  - Ahsa1
+  - Akt1
+  - Mapk8
+  - Jun
+  - Rela
+  - Gorasp1
+  - Rel
+  - Cdc37
+  - Lsp1
+  - Nfkb1
+  - Pold2
+  - Cd40
+  - Dctn2
+  - Cxcl15
+  - Mcpt1
+  - Ccl2
+  - Syt1
   - CD46
-  - MAPK9
-  - MAPK10
-  - CCL2
-  - MAPK1
-  - JUN
-  - REL
-  - MAPK3
-  - CXCL8
-  - MAPK8
-  - MYD88
-  - MAPK14
-  - MAPK11
-  - MAPK12
-  - SRC
   - TLR1
-  - MAPK13
   - TLR6
   - TLR2
+  - MYD88
+  - SRC
+  - TLR9
+  - JUN
+  - CXCL8
+  - CCL2
+  - FGR
+  - FYN
+  - YES1
   - PTK2
+  - MAPK3
+  - MAPK1
+  - CRK
+  - MAPK14
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - AKT1
+  - AKT2
+  - AKT3
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - REL
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - NFKBIA
+  - TLR1A
+  - TLR1B
+  - TLR2A
+  - DCTN2
+  - IL8L1
+  - IL8L2
   - Cancer
-genes:
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: TLR9
-  symbol: TLR9
-  source: hgnc_symbol
-  hgnc_symbol: TLR9
-  entrez: '54106'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: CD46
-  symbol: CD46
-  source: hgnc_symbol
-  hgnc_symbol: CD46
-  entrez: '4179'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: →MCP-1
-  symbol: MCP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL2
-  entrez: '6347'
-- word: ERK1/2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: c-Jun
-  symbol: c-Jun
-  source: hgnc_alias_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: CREL
-  symbol: c-Rel
-  source: hgnc_alias_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: ERK1/2
-  symbol: ERK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: '>IL-8'
-  symbol: IL-8
-  source: hgnc_alias_symbol
-  hgnc_symbol: CXCL8
-  entrez: '3576'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MyD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MCP-1
-  symbol: MCP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL2
-  entrez: '6347'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: Src
-  symbol: SRC
-  source: hgnc_symbol
-  hgnc_symbol: SRC
-  entrez: '6714'
-- word: TLR1
-  symbol: TLR1
-  source: hgnc_symbol
-  hgnc_symbol: TLR1
-  entrez: '7096'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: TLR6
-  symbol: TLR6
-  source: hgnc_symbol
-  hgnc_symbol: TLR6
-  entrez: '10333'
-- word: TLR2
-  symbol: TLR2
-  source: hgnc_symbol
-  hgnc_symbol: TLR2
-  entrez: '7097'
-- word: FAK
-  symbol: FAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2
-  entrez: '5747'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC6780103__F4
-redirect_from: /figures/PMC6780103__F4
-figtype: Figure
 ---

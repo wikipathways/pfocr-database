@@ -1,5 +1,12 @@
 ---
 figid: PMC4749494__15_076_iordanskaiaf5
+figtitle: The effects of extracellular CypA and MM284 in experimental BA
+organisms:
+- Homo sapiens
+- Mus musculus
+- Simian rotavirus A strain RRV
+pmcid: PMC4749494
+filename: 15_076_iordanskaiaf5.jpg
 figlink: /pmc/articles/PMC4749494/figure/f5-15_076_iordanskaia/
 number: F5
 caption: Schematic representation of the effects of extracellular CypA and MM284 in
@@ -7,21 +14,23 @@ caption: Schematic representation of the effects of extracellular CypA and MM284
   cells and stimulates them to produce IL-6. It also activates the SMAD pathway resulting
   in production of TIMP-4, MMP-7 and other mediators. Question marks denote effects
   with unknown mechanism.
-pmcid: PMC4749494
 papertitle: Targeting Extracellular Cyclophilins Ameliorates Disease Progression in
   Experimental Biliary Atresia.
 reftext: Tatiana Iordanskaia, et al. Mol Med. 2015;21(1):657-664.
-pmc_ranked_result_index: '121282'
-pathway_score: 0.9461344
-filename: 15_076_iordanskaiaf5.jpg
-figtitle: The effects of extracellular CypA and MM284 in experimental BA
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9461344
+figid_alias: PMC4749494__F5
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Simian rotavirus A strain RRV
 - Homo sapiens
+redirect_from: /figures/PMC4749494__F5
 ndex: 897bfb64-defc-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -38,94 +47,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MMP7
-  - SERPINE1
-  - SMAD4
-  - TGFB3
+  - Acp2
+  - Cebpb
+  - elap
+  - Acp3
+  - Lap3
+  - Cenpj
+  - Cyp4x1
+  - Ppia
+  - Bsg
+  - Il6
+  - Tgfbr1
+  - Mapk3
+  - Tgfb1
+  - Ltbp1
+  - Tgfbr2
+  - Smad4
+  - Sar1a
+  - Zfyve9
+  - Timp1
+  - Timp4
+  - Mmp7
+  - Serpine1
+  - Serpine2
+  - LAP
+  - ACP2
+  - TGFB1
+  - PICALM
+  - LAP3
+  - CENPJ
+  - PDON2
+  - PPIA
   - BSG
   - IL6
-  - PPIA
-  - MAPK3
-  - TGFB1
-  - TGFB2
-  - MAPK1
-  - TIMP4
   - TGFBR1
+  - MAPK3
+  - TGFB2
+  - TGFB3
+  - TGFBR2
+  - SMAD4
+  - ZFYVE9
+  - SAR1A
   - TIMP1
-genes:
-- word: MMP7
-  symbol: MMP7
-  source: hgnc_symbol
-  hgnc_symbol: MMP7
-  entrez: '4316'
-- word: PAI1
-  symbol: PAI1
-  source: hgnc_prev_symbol
-  hgnc_symbol: SERPINE1
-  entrez: '5054'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: CD147
-  symbol: CD147
-  source: hgnc_alias_symbol
-  hgnc_symbol: BSG
-  entrez: '682'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: CypA
-  symbol: CYPA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PPIA
-  entrez: '5478'
-- word: ERK1/2
-  symbol: ERK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: ERK1/2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: TIMP4
-  symbol: TIMP4
-  source: hgnc_symbol
-  hgnc_symbol: TIMP4
-  entrez: '7079'
-- word: TGFBRI
-  symbol: TGFBR1
-  source: hgnc_symbol
-  hgnc_symbol: TGFBR1
-  entrez: '7046'
-- word: TIMP1
-  symbol: TIMP1
-  source: hgnc_symbol
-  hgnc_symbol: TIMP1
-  entrez: '7076'
-chemicals: []
-diseases: []
-figid_alias: PMC4749494__F5
-redirect_from: /figures/PMC4749494__F5
-figtype: Figure
+  - TIMP4
+  - MMP7
+  - SERPINE1
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC2908764__cshperspect-AXN-002055_F3
+figtitle: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
+  midline
+organisms:
+- NA
+pmcid: PMC2908764
+filename: cshperspect-AXN-002055_F3.jpg
 figlink: /pmc/articles/PMC2908764/figure/A002055F3/
 number: F3
 caption: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
@@ -20,19 +26,22 @@ caption: Molecular cues controlling the pathway choices at the Drosophila and ve
   trajectory into a longitudinal one. The stem cell factor in the floor plate promotes
   the growth of commissural axons via the Kit receptor to allow axons to cross the
   midline in this highly repulsive environment.
-pmcid: PMC2908764
 papertitle: 'Navigating Intermediate Targets: The Nervous System Midline.'
 reftext: Barry J. Dickson, et al. Cold Spring Harb Perspect Biol. 2010 Aug;2(8):a002055.
-pmc_ranked_result_index: '176159'
-pathway_score: 0.6684489
-filename: cshperspect-AXN-002055_F3.jpg
-figtitle: Molecular cues controlling the pathway choices at the Drosophila and vertebrate
-  midline
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6684489
+figid_alias: PMC2908764__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2908764__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -63,40 +72,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KIT
-  - SEMA3F
+  - robo3
+  - robo1
+  - robo2
+  - sli
+  - NetA
+  - NetB
+  - comm
+  - 'Off'
+  - 'On'
+  - blo
   - ROBO1
   - ROBO2
+  - ROBO3
+  - NTN1
+  - NTN3
+  - NTN4
+  - SEMA3F
   - SEMA3B
-genes:
-- word: Kit
-  symbol: KIT
-  source: hgnc_symbol
-  hgnc_symbol: KIT
-  entrez: '3815'
-- word: Sema3F
-  symbol: SEMA3F
-  source: hgnc_symbol
-  hgnc_symbol: SEMA3F
-  entrez: '6405'
-- word: Robo1,2
-  symbol: ROBO1
-  source: hgnc_symbol
-  hgnc_symbol: ROBO1
-  entrez: '6091'
-- word: Robo1,2
-  symbol: ROBO2
-  source: hgnc_symbol
-  hgnc_symbol: ROBO2
-  entrez: '6092'
-- word: Sema3B
-  symbol: SEMA3B
-  source: hgnc_symbol
-  hgnc_symbol: SEMA3B
-  entrez: '7869'
-chemicals: []
-diseases: []
-figid_alias: PMC2908764__F3
-redirect_from: /figures/PMC2908764__F3
-figtype: Figure
+  - KIT
 ---

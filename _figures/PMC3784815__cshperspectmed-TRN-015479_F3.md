@@ -1,5 +1,11 @@
 ---
 figid: PMC3784815__cshperspectmed-TRN-015479_F3
+figtitle: Kidney immune activation against ischemia-reperfusion and transplant injury
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC3784815
+filename: cshperspectmed-TRN-015479_F3.jpg
 figlink: /pmc/articles/PMC3784815/figure/A015479F3/
 number: F3
 caption: Kidney immune activation against ischemia-reperfusion and transplant injury.
@@ -16,18 +22,22 @@ caption: Kidney immune activation against ischemia-reperfusion and transplant in
   the generation of T helper 1 (Th1) cells. C3a and C5a recognition by naïve Th cells
   can also promote their differentiation to a Th1 phenotype. TCR, T-cell receptor;
   MHC II, major histocompatibility complex class II.
-pmcid: PMC3784815
 papertitle: The Innate Immune System and Transplantation.
 reftext: Conrad A. Farrar, et al. Cold Spring Harb Perspect Med. 2013 Oct;3(10):a015479.
-pmc_ranked_result_index: '74252'
-pathway_score: 0.916769
-filename: cshperspectmed-TRN-015479_F3.jpg
-figtitle: Kidney immune activation against ischemia-reperfusion and transplant injury
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.916769
+figid_alias: PMC3784815__F3
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Mus musculus
+redirect_from: /figures/PMC3784815__F3
 ndex: 3ed5dabb-de94-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,138 +64,43 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CCL2
+  - CCL5
+  - IL6
+  - TGFB1
+  - TGFB2
+  - TGFB3
+  - CXCL8
+  - C3
+  - CS
+  - ERVK-2
+  - ERVK-3
   - C5
   - C5AR1
-  - CS
-  - C3
   - C3AR1
-  - TGFB3
-  - TGFB2
-  - TGFB1
-  - TRA
-  - IL6
-  - CCL2
   - APC
-  - TRD
-  - NELFCD
-  - TRG
-  - CXCL8
+  - PROC
+  - HLA-C
+  - TRBV20OR9-2
+  - TRA
   - TRB
-  - CCL5
-genes:
-- word: C5b
-  symbol: C5b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C5
-  entrez: '727'
-- word: C5
-  symbol: C5
-  source: hgnc_symbol
-  hgnc_symbol: C5
-  entrez: '727'
-- word: C5aR
-  symbol: C5AR
-  source: hgnc_alias_symbol
-  hgnc_symbol: C5AR1
-  entrez: '728'
-- word: CS
-  symbol: CS
-  source: hgnc_symbol
-  hgnc_symbol: CS
-  entrez: '1431'
-- word: C3b
-  symbol: C3b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3aR
-  symbol: C3AR
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3AR1
-  entrez: '719'
-- word: TGF-B,
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3a
-  symbol: C3a
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3-a
-  symbol: C3a
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: TGF-B,
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B,
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: IL-6,
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: TGF-B,MCP-1,IL-6,RANTES,
-  symbol: MCP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL2
-  entrez: '6347'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: Th1
-  symbol: TH1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NELFCD
-  entrez: '51497'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: IL-8
-  symbol: IL-8
-  source: hgnc_alias_symbol
-  hgnc_symbol: CXCL8
-  entrez: '3576'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: TGF-B,MCP-1,IL-6,RANTES,
-  symbol: RANTES
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL5
-  entrez: '6352'
-chemicals: []
-diseases: []
-figid_alias: PMC3784815__F3
-redirect_from: /figures/PMC3784815__F3
-figtype: Figure
+  - TRD
+  - TRG
+  - NELFCD
+  - Mcpt1
+  - Ccl2
+  - Ccl5
+  - Il6
+  - Tgfb1
+  - Ltbp1
+  - Cxcl15
+  - Cs
+  - Hc
+  - C3ar1
+  - C5ar1
+  - Apc
+  - H2
+  - Trav6-3
+  - Hand1
+  - Nelfcd
 ---

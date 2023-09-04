@@ -1,5 +1,32 @@
 ---
 figid: PMC3193017__jexboterr216f06_ht
+figtitle: The putative model of anthocyanin and butein synthesis in MJOr and MJY
+organisms:
+- Saccharomyces cerevisiae
+- Arabidopsis thaliana
+- Oryza sativa
+- Zea mays
+- Glycine max
+- Diaporthe sclerotioides
+- Embryophyta
+- Sorghum bicolor
+- Daucus carota
+- Pisum sativum
+- Medicago sativa
+- Petunia x hybrida
+- Antirrhinum majus
+- Perilla frutescens
+- Ipomoea purpurea
+- Ipomoea nil
+- Gerbera hybrid cultivar
+- Gentiana triflora
+- Dahlia pinnata
+- Cosmos sulphureus
+- Ipomoea tricolor
+- NA
+- Homo sapiens
+pmcid: PMC3193017
+filename: jexboterr216f06_ht.jpg
 figlink: /pmc/articles/PMC3193017/figure/fig6/
 number: F6
 caption: The putative model of anthocyanin and butein synthesis in MJOr and MJY. For
@@ -9,39 +36,22 @@ caption: The putative model of anthocyanin and butein synthesis in MJOr and MJY.
   only truncated DvIVS mRNA is expressed and transcriptional regulation cannot function.
   Although DvCHS1, DvF3H, DvDFR, and DvANS are not activated, DvCHS2 and DvCHI are
   not affected by DvIVS, resulting in accumulation of flavone and butein.
-pmcid: PMC3193017
 papertitle: A bHLH transcription factor, DvIVS, is involved in regulation of anthocyanin
   synthesis in dahlia (Dahlia variabilis).
 reftext: Sho Ohno, et al. J Exp Bot. 2011 Oct;62(14):5105-5116.
-pmc_ranked_result_index: '53445'
-pathway_score: 0.8966132
-filename: jexboterr216f06_ht.jpg
-figtitle: The putative model of anthocyanin and butein synthesis in MJOr and MJY
 year: '2011'
-organisms:
-- Dahlia pinnata
-- Diaporthe sclerotioides
-- Gerbera hybrid cultivar
-- Embryophyta
-- Ipomoea nil
-- Arabidopsis thaliana
-- Glycine max
-- Medicago sativa
-- Pisum sativum
-- Daucus carota
-- Petunia x hybrida
-- Ipomoea purpurea
-- Antirrhinum majus
-- Oryza sativa
-- Sorghum bicolor
-- Zea mays
-- Cosmos sulphureus
-- Perilla frutescens
-- Saccharomyces cerevisiae
-- Gentiana triflora
-- Ipomoea tricolor
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8966132
+figid_alias: PMC3193017__F6
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3193017__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,7 +71,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DCHS2
   - naringenin
   - Butein
   - Isoliquiritigenin
@@ -71,42 +80,4 @@ schema-jsonld:
   - Leucoanthocyanidin
   - Flavanone
   - Chalcone
-genes:
-- word: DCHS2
-  symbol: DCHS2
-  source: hgnc_symbol
-  hgnc_symbol: DCHS2
-  entrez: '54798'
-chemicals:
-- word: naringenin
-  source: MESH
-  identifier: C005273
-- word: Butein
-  source: MESH
-  identifier: C040918
-- word: Isoliquiritigenin
-  source: MESH
-  identifier: C040920
-- word: Flavone
-  source: MESH
-  identifier: C043562
-- word: 4-coumaroyl-CoA
-  source: MESH
-  identifier: C058644
-- word: Anthocyanidin
-  source: MESH
-  identifier: D000872
-- word: Leucoanthocyanidin
-  source: MESH
-  identifier: D000872
-- word: Flavanone
-  source: MESH
-  identifier: D044950
-- word: Chalcone
-  source: MESH
-  identifier: D047188
-diseases: []
-figid_alias: PMC3193017__F6
-redirect_from: /figures/PMC3193017__F6
-figtype: Figure
 ---

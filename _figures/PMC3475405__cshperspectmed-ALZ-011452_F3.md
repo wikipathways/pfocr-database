@@ -1,5 +1,10 @@
 ---
 figid: PMC3475405__cshperspectmed-ALZ-011452_F3
+figtitle: Blood–brain barrier (BBB) transport in homeostasis of brain AB
+organisms:
+- NA
+pmcid: PMC3475405
+filename: cshperspectmed-ALZ-011452_F3.jpg
 figlink: /pmc/articles/PMC3475405/figure/A011452F3/
 number: F3
 caption: 'The role of blood–brain barrier (BBB) transport in homeostasis of brain
@@ -20,19 +25,23 @@ caption: 'The role of blood–brain barrier (BBB) transport in homeostasis of br
   LRP mediated by β-secretase (BACE). Liver and kidneys mediate systemic clearance
   of free Aβ and of sLRP–Aβ complexes. APP, Aβ-precurosr protein. TJ, tight junctions.
   (Modified from .)'
-pmcid: PMC3475405
 papertitle: Neurovascular Dysfunction and Faulty Amyloid β-Peptide Clearance in Alzheimer
   Disease.
 reftext: Abhay P. Sagare, et al. Cold Spring Harb Perspect Med. 2012 Oct;2(10):a011452.
-pmc_ranked_result_index: '129378'
-pathway_score: 0.9284314
-filename: cshperspectmed-ALZ-011452_F3.jpg
-figtitle: Blood–brain barrier (BBB) transport in homeostasis of brain AB
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9284314
+figid_alias: PMC3475405__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3475405__F3
 ndex: 266676eb-defe-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -62,76 +71,52 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - APOE
+  - tj
+  - egr
+  - Dif
+  - dl
+  - Rel
+  - ab
+  - Appl
+  - Bace
+  - app
+  - ApepP
+  - APP-BP1
+  - slrp
+  - arr
+  - Ass
   - TNF
-  - APP
-  - BACE1
   - IL1B
-  - AGER
-  - CCL2
-  - CLU
   - NFKB1
   - IL6
+  - CCL2
+  - APP
+  - SUCLA2
+  - AGER
+  - MOK
+  - APOE
+  - CLU
+  - BACE1
+  - BGN
+  - DCN
+  - ASPN
+  - ECM2
+  - FMOD
+  - LUM
+  - PRELP
+  - KERA
+  - OMD
+  - EPYC
+  - OPTC
+  - OGN
+  - CHAD
+  - NYX
+  - TSKU
+  - PODN
+  - PODNL1
+  - RPSA
+  - LRP1
+  - PTPRA
+  - MVP
   - ASS1
-genes:
-- word: (apoJ,apoE,02M)
-  symbol: APOE
-  source: hgnc_symbol
-  hgnc_symbol: APOE
-  entrez: '348'
-- word: TNFa.
-  symbol: TNF-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: Bace
-  symbol: BACE
-  source: hgnc_prev_symbol
-  hgnc_symbol: BACE1
-  entrez: '23621'
-- word: →IL1B
-  symbol: IL1B
-  source: hgnc_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: Rage
-  symbol: RAGE
-  source: hgnc_alias_symbol
-  hgnc_symbol: AGER
-  entrez: '177'
-- word: MCP1
-  symbol: MCP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL2
-  entrez: '6347'
-- word: (apoJ,
-  symbol: APOJ
-  source: hgnc_prev_symbol
-  hgnc_symbol: CLU
-  entrez: '1191'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: -IL6
-  symbol: IL6
-  source: hgnc_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: Aß
-  symbol: ASS
-  source: hgnc_prev_symbol
-  hgnc_symbol: ASS1
-  entrez: '445'
-chemicals: []
-diseases: []
-figid_alias: PMC3475405__F3
-redirect_from: /figures/PMC3475405__F3
-figtype: Figure
 ---

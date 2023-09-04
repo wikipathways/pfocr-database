@@ -1,5 +1,13 @@
 ---
 figid: PMC4527365__bmi-suppl.3-2015-001f2
+figtitle: Activation and downstream signaling of class III RTKs
+organisms:
+- Homo sapiens
+- Rattus norvegicus
+- Escherichia coli
+- Corynebacterium phage gamma
+pmcid: PMC4527365
+filename: bmi-suppl.3-2015-001f2.jpg
 figlink: /pmc/articles/PMC4527365/figure/f2-bmi-suppl.3-2015-001/
 number: F2
 caption: 'Activation and downstream signaling of class III RTKs. In the inactivated
@@ -29,22 +37,23 @@ caption: 'Activation and downstream signaling of class III RTKs. In the inactiva
   Rev Cancer. 2012;12(11):753–766. Copyright 2012.Abbreviatons: Grb2, growth factor
   receptor–bound protein 2; Sos, son of sevenless; Raf, rat fibrosarcoma; ERK, extracellular
   signal-regulated kinase; MEK, mitogen-activated protein kinase kinase.'
-pmcid: PMC4527365
 papertitle: Class III Receptor Tyrosine Kinases in Acute Leukemia – Biological Functions
   and Modern Laboratory Analysis.
 reftext: Rimma Berenstein. Biomark Insights. 2015;10(Suppl 3):1-14.
-pmc_ranked_result_index: '74942'
-pathway_score: 0.7476767
-filename: bmi-suppl.3-2015-001f2.jpg
-figtitle: Activation and downstream signaling of class III RTKs
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7476767
+figid_alias: PMC4527365__F2
+figtype: Figure
+organisms_ner:
 - Rattus norvegicus
-- Corynebacterium phage gamma
-- Escherichia coli
 - Homo sapiens
+redirect_from: /figures/PMC4527365__F2
 ndex: 517af881-de98-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -84,337 +93,82 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RAF1
-  - HRAS
-  - NRAS
-  - AKT3
-  - PDGFB
-  - PDGFD
-  - PDGFC
-  - KRAS
-  - PIK3CB
-  - PIK3CD
-  - PDGFA
-  - MAP2K1
-  - PLCG2
-  - ARAF
-  - MAPK3
-  - KIT
-  - CSF1R
+  - Kitlg
+  - Kit
+  - Prkcg
+  - Flt3
+  - Csf1r
+  - Akt1
+  - Pik3cg
+  - Ephb1
+  - Grb2
+  - Svs4
+  - Ccne1
   - KITLG
-  - BRAF
-  - PIK3R4
-  - PIK3CA
-  - JAK2
-  - TYK2
-  - PIK3R3
-  - AKT1
+  - FLT3LG
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - CSF2
+  - LAMC2
+  - KIT
   - PLCG1
-  - FLT3
-  - AKT2
-  - PRKD3
-  - PIK3R5
-  - GRB2
-  - SOS1
-  - SOS2
-  - PRKCZ
-  - PRKCI
-  - MAP2K2
-  - MAPK1
-  - PIK3R6
-  - PDGFRA
-  - PDGFRB
-  - WDTC1
-  - PRKCQ
-  - PRKCH
-  - PRKCG
-  - PIK3CG
+  - PLCG2
+  - PRRT2
+  - PRKCA
   - PRKCB
   - PRKCD
-  - JAK1
-  - JAK3
-  - PRKCA
   - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - FLT3
+  - PDGFRB
+  - PDGFRA
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
+  - CSF1R
+  - AKT1
+  - AKT2
+  - AKT3
+  - PTK2B
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - GRB2
+  - XYLT2
+  - SOS1
+  - SOS2
+  - KRAS
+  - HRAS
+  - NRAS
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - ATP8A2
+  - WDTC1
   - Cancer
   - Cardiomyopathy
   - Lung cancer
   - Noonan syndrome
-genes:
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFB
-  entrez: '5155'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFD
-  entrez: '80310'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFC
-  entrez: '56034'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PDGF
-  symbol: PDGF
-  source: bioentities_symbol
-  hgnc_symbol: PDGFA
-  entrez: '5154'
-- word: MEK/ERK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: PLCY
-  symbol: PLCG
-  source: bioentities_symbol
-  hgnc_symbol: PLCG2
-  entrez: '5336'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: MEK/ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: c-Kit
-  symbol: C-Kit
-  source: hgnc_alias_symbol
-  hgnc_symbol: KIT
-  entrez: '3815'
-- word: CSF1R
-  symbol: CSF1R
-  source: hgnc_symbol
-  hgnc_symbol: CSF1R
-  entrez: '1436'
-- word: SCF
-  symbol: SCF
-  source: hgnc_alias_symbol
-  hgnc_symbol: KITLG
-  entrez: '4254'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK2
-  entrez: '3717'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: TYK2
-  entrez: '7297'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PLCY
-  symbol: PLCG
-  source: bioentities_symbol
-  hgnc_symbol: PLCG1
-  entrez: '5335'
-- word: FLT3
-  symbol: FLT3
-  source: hgnc_symbol
-  hgnc_symbol: FLT3
-  entrez: '2322'
-- word: PKB/Akt
-  symbol: PKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: Grb2
-  symbol: GRB2
-  source: hgnc_symbol
-  hgnc_symbol: GRB2
-  entrez: '2885'
-- word: Sos
-  symbol: SOS
-  source: bioentities_symbol
-  hgnc_symbol: SOS1
-  entrez: '6654'
-- word: Sos
-  symbol: SOS
-  source: bioentities_symbol
-  hgnc_symbol: SOS2
-  entrez: '6655'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: MEK/ERK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: MEK/ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PDGFR
-  symbol: PDGFR
-  source: bioentities_symbol
-  hgnc_symbol: PDGFRA
-  entrez: '5156'
-- word: PDGFR
-  symbol: PDGFR
-  source: bioentities_symbol
-  hgnc_symbol: PDGFRB
-  entrez: '5159'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK1
-  entrez: '3716'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK3
-  entrez: '3718'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Lung cancer
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC4527365__F2
-redirect_from: /figures/PMC4527365__F2
-figtype: Figure
 ---

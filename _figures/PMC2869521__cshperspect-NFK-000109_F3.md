@@ -1,5 +1,10 @@
 ---
 figid: PMC2869521__cshperspect-NFK-000109_F3
+figtitle: Constitutive NFKB pathway activation in multiple myeloma
+organisms:
+- NA
+pmcid: PMC2869521
+filename: cshperspect-NFK-000109_F3.jpg
 figlink: /pmc/articles/PMC2869521/figure/A000109F3/
 number: F3
 caption: Constitutive NF-κB pathway activation in multiple myeloma. (A) Genetic abnormalities
@@ -24,18 +29,21 @@ caption: Constitutive NF-κB pathway activation in multiple myeloma. (A) Genetic
   mutations that cause constitutive NF-κB pathway activation are selected because
   they allow the malignant cells to survive and proliferate without being limited
   by the bone marrow microenvironment.
-pmcid: PMC2869521
 papertitle: Oncogenic Activation of NF-κB.
 reftext: Louis M. Staudt. Cold Spring Harb Perspect Biol. 2010 Jun;2(6):a000109.
-pmc_ranked_result_index: '114479'
-pathway_score: 0.8123336
-filename: cshperspect-NFK-000109_F3.jpg
-figtitle: Constitutive NFKB pathway activation in multiple myeloma
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8123336
+figid_alias: PMC2869521__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2869521__F3
 ndex: 16c3b8d5-df29-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -69,100 +77,48 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BIRC2
   - TNFRSF13B
-  - NFKB1
-  - CYLD
-  - TRAF2
-  - IKBKG
-  - RELB
-  - IK
-  - CD40
-  - TNFRSF17
-  - TRAF3
   - LTBR
-  - BIRC3
+  - CD40
+  - TRAF3
+  - TRAF2
+  - TANK
+  - ALPI
+  - ALPP
+  - CD47
+  - IAPP
+  - MAGT1
+  - BIRC2
+  - MAP3K14
+  - MAP4K4
+  - IKBKG
+  - CYLD
+  - IK
   - NFKBIA
+  - CUX1
+  - NFKB2
+  - OAS3
+  - PMEL
+  - SART3
+  - TPX2
+  - SND1
+  - ASCC2
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - RELB
+  - FKBP4
+  - GTF2H4
+  - PMPCB
+  - PSIP1
+  - H3P42
+  - NFKB1
+  - TNFRSF17
+  - TNFSF13
+  - ANP32B
   - TNFSF13B
-genes:
-- word: c-IAP1/2
-  symbol: c-IAP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: BIRC2
-  entrez: '329'
-- word: '*CD40/TACI/LTBR'
-  symbol: TACI
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFRSF13B
-  entrez: '23495'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: CYLD
-  symbol: CYLD
-  source: hgnc_symbol
-  hgnc_symbol: CYLD
-  entrez: '1540'
-- word: '*TRAF3/TRAF2'
-  symbol: TRAF2
-  source: hgnc_symbol
-  hgnc_symbol: TRAF2
-  entrez: '7186'
-- word: IKKY
-  symbol: IKK-gamma
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: relB
-  symbol: RELB
-  source: hgnc_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: IK
-  symbol: IK
-  source: hgnc_symbol
-  hgnc_symbol: IK
-  entrez: '3550'
-- word: '*CD40/TACI/LTBR'
-  symbol: CD40
-  source: hgnc_symbol
-  hgnc_symbol: CD40
-  entrez: '958'
-- word: BCMA
-  symbol: BCMA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNFRSF17
-  entrez: '608'
-- word: '*TRAF3/TRAF2'
-  symbol: TRAF3
-  source: hgnc_symbol
-  hgnc_symbol: TRAF3
-  entrez: '7187'
-- word: LTBR
-  symbol: LTBR
-  source: hgnc_symbol
-  hgnc_symbol: LTBR
-  entrez: '4055'
-- word: c-IAP1/2
-  symbol: c-IAP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BIRC3
-  entrez: '330'
-- word: IkBa
-  symbol: IkappaBalpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKBIA
-  entrez: '4792'
-- word: BAFF
-  symbol: BAFF
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFSF13B
-  entrez: '10673'
-chemicals: []
-diseases: []
-figid_alias: PMC2869521__F3
-redirect_from: /figures/PMC2869521__F3
-figtype: Figure
 ---

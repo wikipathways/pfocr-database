@@ -1,5 +1,10 @@
 ---
 figid: PMC6370335__jclintranslres-4-001-g002
+figtitle: Intercellular and intracellular signals that initiate liver regeneration
+organisms:
+- NA
+pmcid: PMC6370335
+filename: jclintranslres-4-001-g002.jpg
 figlink: /pmc/articles/PMC6370335/figure/jclintranslres-4-001-g002/
 number: F2
 caption: 'Intercellular and intracellular signals that initiate liver regeneration.
@@ -34,19 +39,22 @@ caption: 'Intercellular and intracellular signals that initiate liver regenerati
   kinase; MAPK, mitogen-activated protein kinase; STAT3, signal transducer and activator
   of transcription 3; IRE1α, inositol-requiring enzyme-1α; UPR, unfolded protein response;
   ROS, reactive oxygen species.'
-pmcid: PMC6370335
 papertitle: Post-hepatectomy liver regeneration in the context of bile acid homeostasis
   and the gut-liver signaling axis.
 reftext: Lianne de Haan, et al. J Clin Transl Res. 2018 May 28;4(1):1-46.
-pmc_ranked_result_index: '207421'
-pathway_score: 0.9365593
-filename: jclintranslres-4-001-g002.jpg
-figtitle: Intercellular and intracellular signals that initiate liver regeneration
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9365593
+figid_alias: PMC6370335__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6370335__F2
 ndex: e3f26791-dec1-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -91,207 +99,43 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TYK2
-  - JAK3
-  - MAPK1
-  - ACOX2
-  - JAK1
-  - IL6
-  - MAPK3
-  - EGF
-  - MAPK9
-  - MAPK11
-  - MAPK8
-  - MAPK14
-  - HGF
-  - FUT1
-  - IL1B
-  - HBEGF
-  - MAPK13
-  - MAPK10
-  - JAK2
-  - KRAS
-  - STAT3
-  - TNF
-  - HRAS
-  - MAPK12
   - NFKB1
+  - C5
+  - C5AR1
+  - ACOX2
+  - TNF
+  - IL6
+  - IL1B
+  - HGF
+  - SOS1
+  - FUT1
+  - EGF
+  - HBEGF
+  - MET
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
+  - KRAS
+  - HRAS
   - NRAS
   - TGFA
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - EPHB2
+  - STAT3
+  - PTGS2
+  - ERN1
   - Serotonin Sphingosine
   - 1-phosphate
   - PGE2
   - PGE1
   - EBPA
-genes:
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: TYK2
-  entrez: '7297'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK3
-  entrez: '3718'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: ACOX-2
-  symbol: ACOX2
-  source: hgnc_symbol
-  hgnc_symbol: ACOX2
-  entrez: '8309'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK1
-  entrez: '3716'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: ERK/MAPK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: ERK/MAPK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: EGF,
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: HGF
-  symbol: HGF
-  source: hgnc_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: HSC
-  symbol: HSC
-  source: hgnc_prev_symbol
-  hgnc_symbol: FUT1
-  entrez: '2523'
-- word: IL-1B
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-- word: HBEGF
-  symbol: HBEGF
-  source: hgnc_symbol
-  hgnc_symbol: HBEGF
-  entrez: '1839'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK2
-  entrez: '3717'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: TNF-a
-  symbol: TNF-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: ERK/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: TNFA
-  symbol: TNF-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: TGF-a
-  symbol: TGFA
-  source: hgnc_symbol
-  hgnc_symbol: TGFA
-  entrez: '7039'
-chemicals:
-- word: Serotonin Sphingosine
-  source: MESH
-  identifier: D013110
-- word: 1-phosphate
-  source: MESH
-  identifier: D010710
-- word: PGE2
-  source: MESH
-  identifier: D015232
-- word: PGE1
-  source: MESH
-  identifier: D000527
-- word: EBPA
-  source: ''
-  identifier: ''
-diseases: []
-figid_alias: PMC6370335__F2
-redirect_from: /figures/PMC6370335__F2
-figtype: Figure
 ---

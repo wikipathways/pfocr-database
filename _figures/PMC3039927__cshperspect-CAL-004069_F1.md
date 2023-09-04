@@ -1,5 +1,11 @@
 ---
 figid: PMC3039927__cshperspect-CAL-004069_F1
+figtitle: Organellar Ca2+ buffering and intracellular Ca2+ dynamics
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC3039927
+filename: cshperspect-CAL-004069_F1.jpg
 figlink: /pmc/articles/PMC3039927/figure/A004069F1/
 number: F1
 caption: 'Organellar Ca2+ buffering and intracellular Ca2+ dynamics. Ca2+ is stored
@@ -28,18 +34,22 @@ caption: 'Organellar Ca2+ buffering and intracellular Ca2+ dynamics. Ca2+ is sto
   hand/acidic amino acid rich region protein; PDI, protein disulfide isomerase; SERCA,
   sarcoplasmic/endoplasmic reticulum Ca2+-ATPase; SPCA, secretory pathway Ca2+-transport
   ATPase; STIM1, stromal interacting molecule 1.'
-pmcid: PMC3039927
 papertitle: Organellar Calcium Buffers.
 reftext: Daniel Prins, et al. Cold Spring Harb Perspect Biol. 2011 Mar;3(3):a004069.
-pmc_ranked_result_index: '217943'
-pathway_score: 0.9265189
-filename: cshperspect-CAL-004069_F1.jpg
-figtitle: Organellar Ca2+ buffering and intracellular Ca2+ dynamics
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9265189
+figid_alias: PMC3039927__F1
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Mus musculus
+redirect_from: /figures/PMC3039927__F1
 ndex: 5bf53b8b-dee0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -78,111 +88,63 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SDF4
-  - CA4
-  - ORAI1
-  - HSP90B1
+  - TLX2
   - HRC
   - RYR1
-  - ATP2A2
+  - RYR2
+  - RYR3
   - ATP2A1
+  - ATP2A2
   - ATP2A3
-  - HSPA5
+  - ITPR1
+  - ITPR3
+  - CA4
+  - HSP90B1
   - PDIA4
-  - NUCB1
-  - TLX2
-  - NUCB2
+  - CALCR
   - CALR
+  - SLC6A8
+  - P4HB
+  - PADI1
+  - PDIA2
+  - GDF10
+  - HSPA5
+  - ORAI1
   - STIM1
-genes:
-- word: Cab45
-  symbol: Cab45
-  source: hgnc_alias_symbol
-  hgnc_symbol: SDF4
-  entrez: '51150'
-- word: Ca4
-  symbol: CA4
-  source: hgnc_symbol
-  hgnc_symbol: CA4
-  entrez: '762'
-- word: Orai1
-  symbol: ORAI1
-  source: hgnc_symbol
-  hgnc_symbol: ORAI1
-  entrez: '84876'
-- word: GRP94
-  symbol: GRP94
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSP90B1
-  entrez: '7184'
-- word: HRC
-  symbol: HRC
-  source: hgnc_symbol
-  hgnc_symbol: HRC
-  entrez: '3270'
-- word: RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A2
-  entrez: '488'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A1
-  entrez: '487'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A3
-  entrez: '489'
-- word: BİP/GRP78
-  symbol: GRP78
-  source: hgnc_prev_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: ERP72
-  symbol: ERP72
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDIA4
-  entrez: '9601'
-- word: CALNUC
-  symbol: Calnuc
-  source: hgnc_alias_symbol
-  hgnc_symbol: NUCB1
-  entrez: '4924'
-- word: NCX
-  symbol: NCX
-  source: hgnc_alias_symbol
-  hgnc_symbol: TLX2
-  entrez: '3196'
-- word: P54/NEFA
-  symbol: NEFA
-  source: hgnc_alias_symbol
-  hgnc_symbol: NUCB2
-  entrez: '4925'
-- word: CRT
-  symbol: CRT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CALR
-  entrez: '811'
-- word: BİP/GRP78
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: STIM1
-  symbol: STIM1
-  source: hgnc_symbol
-  hgnc_symbol: STIM1
-  entrez: '6786'
-chemicals: []
-diseases: []
-figid_alias: PMC3039927__F1
-redirect_from: /figures/PMC3039927__F1
-figtype: Figure
+  - F7
+  - SDF4
+  - NUCB1
+  - DDX6
+  - ETS1
+  - FKBP5
+  - IFIT2
+  - NONO
+  - SRSF11
+  - H3P43
+  - NUCB2
+  - Tlx2
+  - Casq1
+  - Hrc
+  - Ryr1
+  - Itpr1
+  - Car4
+  - Hsp90b1
+  - Pdia4
+  - Gnat2
+  - Calr
+  - Slc6a8
+  - Pdia3
+  - P4hb
+  - Padi2
+  - Hspa5
+  - Orai1
+  - Tmem132a
+  - Stim1
+  - Atp2c1
+  - Sdf4
+  - Nucb1
+  - Nucb2
+  - Ddx6
+  - Ifit2
+  - Ets1
 ---

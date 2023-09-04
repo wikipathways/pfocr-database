@@ -1,5 +1,19 @@
 ---
 figid: PMC7527139__mSystems.00755-20-f0001
+figtitle: Summary of metabolic networks in iFermCell215
+organisms:
+- Escherichia coli
+- Bacillus subtilis
+- Clostridium kluyveri
+- Megasphaera elsdenii
+- Candidatus Pseudoramibacter fermentans
+- Candidatus Weimeria bifida
+- gut metagenome
+- metagenome
+- Homo sapiens
+- mixed culture
+pmcid: PMC7527139
+filename: mSystems.00755-20-f0001.jpg
 figlink: pmc/articles/PMC7527139/figure/fig1/
 number: F1
 caption: 'Summary of metabolic networks in iFermCell215. Metabolites with an asterisk
@@ -25,28 +39,23 @@ caption: 'Summary of metabolic networks in iFermCell215. Metabolites with an ast
   transhydrogenase. For clarity, not all reactions or metabolites are shown. More
   information on the reactions and metabolites contained in iFermCell215 is provided
   in .'
-pmcid: PMC7527139
 papertitle: Diagnosing and Predicting Mixed-Culture Fermentations with Unicellular
   and Guild-Based Metabolic Models.
 reftext: Matthew J. Scarborough, et al. mSystems. 2020 Sep-Oct;5(5):e00755-20.
-pmc_ranked_result_index: '20382'
-pathway_score: 0.7757471
-filename: mSystems.00755-20-f0001.jpg
-figtitle: Summary of metabolic networks in iFermCell215
 year: '2020'
-organisms:
-- mixed culture
-- Bacillus subtilis
-- Clostridium kluyveri
-- metagenome
-- Candidatus Pseudoramibacter fermentans
-- Candidatus Weimeria bifida
-- Escherichia coli
-- gut metagenome
-- Megasphaera elsdenii
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7757471
+figid_alias: PMC7527139__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC7527139__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -82,586 +91,59 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ADCY1
   - ADCY2
   - ADCY3
+  - ADCY4
   - ADCY5
   - ADCY6
+  - ADCY7
   - ADCY8
   - ADCY9
   - ADCY10
-  - ADCY4
-  - ADCY1
-  - ADCY7
+  - AMY2B
+  - F11
   - PTCRA
   - HGF
+  - PPT2
   - GJB6
   - ACE
-  - APTX
+  - ECT
   - MCC
   - PAEP
+  - PREP
+  - PTPN22
+  - SOAT1
+  - GNAS
+  - LCT
+  - HACD1
+  - HACD2
+  - HACD3
+  - HACD4
   - CIT
-  - MET
-  - ADH1C
-  - ADH6
+  - DHDDS
+  - AVP
   - ADH1A
   - ADH1B
+  - ADH1C
   - ADH4
   - ADH5
+  - ADH6
   - ADH7
   - ADHFE1
-  - GSTZ1
   - MAL
+  - MRTFA
+  - TIRAP
+  - PNMA1
+  - GSTZ1
+  - ATP8A2
+  - glcD
+  - ppa
+  - pta
+  - actP
+  - ppc
+  - sucC
   - co2-CODHA
   - ATP
   - CO
-genes:
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: pta
-  symbol: PTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTCRA
-  entrez: '171558'
-- word: hpta
-  symbol: HPTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: pta
-  symbol: PTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTCRA
-  entrez: '171558'
-- word: hpta
-  symbol: HPTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: EDH>
-  symbol: EDH
-  source: hgnc_alias_symbol
-  hgnc_symbol: GJB6
-  entrez: '10804'
-- word: ace
-  symbol: ACE
-  source: hgnc_symbol
-  hgnc_symbol: ACE
-  entrez: '1636'
-- word: hpta
-  symbol: HPTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: HGF
-  entrez: '3082'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: pta
-  symbol: PTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTCRA
-  entrez: '171558'
-- word: ассоа+-
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа+
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ас
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: MCC
-  symbol: MCC
-  source: hgnc_symbol
-  hgnc_symbol: MCC
-  entrez: '4163'
-- word: pep
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: ace
-  symbol: ACE
-  source: hgnc_symbol
-  hgnc_symbol: ACE
-  entrez: '1636'
-- word: ace
-  symbol: ACE
-  source: hgnc_symbol
-  hgnc_symbol: ACE
-  entrez: '1636'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: реp
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: ассоа*
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: cit
-  symbol: CIT
-  source: hgnc_symbol
-  hgnc_symbol: CIT
-  entrez: '11113'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: ace
-  symbol: ACE
-  source: hgnc_symbol
-  hgnc_symbol: ACE
-  entrez: '1636'
-- word: MET
-  symbol: MET
-  source: hgnc_symbol
-  hgnc_symbol: MET
-  entrez: '4233'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1C
-  entrez: '126'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH6
-  entrez: '130'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1A
-  entrez: '124'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1B
-  entrez: '125'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH4
-  entrez: '127'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH5
-  entrez: '128'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH7
-  entrez: '131'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADHFE1
-  entrez: '137872'
-- word: ассоа+
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: ассоа
-  symbol: AOA
-  source: hgnc_alias_symbol
-  hgnc_symbol: APTX
-  entrez: '54840'
-- word: mal-
-  symbol: MAI
-  source: hgnc_alias_symbol
-  hgnc_symbol: GSTZ1
-  entrez: '2954'
-- word: mal
-  symbol: MAL
-  source: hgnc_symbol
-  hgnc_symbol: MAL
-  entrez: '4118'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: pep*
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-chemicals:
-- word: co2-CODHA
-  source: MESH
-  identifier: C065987
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: CO
-  source: MESH
-  identifier: D002245
-diseases: []
-figid_alias: PMC7527139__F1
-redirect_from: /figures/PMC7527139__F1
-figtype: Figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC2895369__Fig1_Kaplowitz
+figtitle: High-flux and low-flux systems of electron transfer pathways
+organisms:
+- NA
+pmcid: PMC2895369
+filename: Fig1_Kaplowitz.jpg
 figlink: /pmc/articles/PMC2895369/figure/f1-0100098/
 number: F1
 caption: High-flux and low-flux systems of electron transfer pathways. High-flux systems
@@ -30,19 +35,23 @@ caption: High-flux and low-flux systems of electron transfer pathways. High-flux
   redox potentials (Eh) is indicated at the far left; the thiol/disulfide systems
   operate between the potential of the NADPH/NADP+ couple (−400 mV) and that of the
   H2O2/H2O couple (approx +100 mV).]
-pmcid: PMC2895369
 papertitle: Mechanisms of Pathogenesis in Drug Hepatotoxicity Putting the Stress on
   Mitochondria.
 reftext: Dean P. Jones, et al. Mol Interv. 2010 Apr;10(2):98-111.
-pmc_ranked_result_index: '137508'
-pathway_score: 0.9544901
-filename: Fig1_Kaplowitz.jpg
-figtitle: High-flux and low-flux systems of electron transfer pathways
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9544901
+figid_alias: PMC2895369__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2895369__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -83,64 +92,27 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KMT2B
-  - MAP3K5
+  - mv
+  - Trxr-2
+  - Trx-2
+  - Rbp9
+  - Prx3
+  - Ask1
+  - pt
+  - coq
+  - Cyt-c-d
+  - Cyt-c-p
+  - DECR1
   - TXNRD2
-  - GLRX2
-  - GPX4
+  - KMT2B
+  - TXN2
   - FES
+  - MAP3K5
   - GPX1
+  - GLIS3
+  - GPX4
+  - GLRX2
   - thiols
   - O,(oxidant)
   - GSSG
-genes:
-- word: Trx2
-  symbol: TRX2
-  source: hgnc_alias_symbol
-  hgnc_symbol: KMT2B
-  entrez: '9757'
-- word: Ask1
-  symbol: ASK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP3K5
-  entrez: '4217'
-- word: TrxR2
-  symbol: TRXR2
-  source: hgnc_alias_symbol
-  hgnc_symbol: TXNRD2
-  entrez: '10587'
-- word: Grx2
-  symbol: GRX2
-  source: hgnc_alias_symbol
-  hgnc_symbol: GLRX2
-  entrez: '51022'
-- word: Gpx4
-  symbol: GPX4
-  source: hgnc_symbol
-  hgnc_symbol: GPX4
-  entrez: '2879'
-- word: Fe-S
-  symbol: FES
-  source: hgnc_symbol
-  hgnc_symbol: FES
-  entrez: '2242'
-- word: Gpx1
-  symbol: GPX1
-  source: hgnc_symbol
-  hgnc_symbol: GPX1
-  entrez: '2876'
-chemicals:
-- word: thiols
-  source: MESH
-  identifier: D013438
-- word: O,(oxidant)
-  source: MESH
-  identifier: D016877
-- word: GSSG
-  source: MESH
-  identifier: D019803
-diseases: []
-figid_alias: PMC2895369__F1
-redirect_from: /figures/PMC2895369__F1
-figtype: Figure
 ---

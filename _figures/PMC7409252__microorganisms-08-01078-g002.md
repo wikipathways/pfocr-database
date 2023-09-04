@@ -1,5 +1,18 @@
 ---
 figid: PMC7409252__microorganisms-08-01078-g002
+figtitle: Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
+  the context of cytomegalovirus (CMV) viral reactivation
+organisms:
+- Human gammaherpesvirus 4
+- Human immunodeficiency virus
+- Human betaherpesvirus 5
+- Human betaherpesvirus 6
+- Clostridioides difficile
+- Clostridioides difficile CD34
+- Homo sapiens
+- Bikinia letestui
+pmcid: PMC7409252
+filename: microorganisms-08-01078-g002.jpg
 figlink: pmc/articles/PMC7409252/figure/microorganisms-08-01078-f002/
 number: F2
 caption: 'Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
@@ -48,27 +61,22 @@ caption: 'Pathophysiological hypothesis of ulcerative colitis and Crohn disease 
   oligomerization domain 2; Tc: Cytotoxic T cell; TGF-β: Transforming growth factor
   beta; TH: T helper cell; TNF-α: Tumor necrosis factor alpha; Treg: Regulatory T
   cell.'
-pmcid: PMC7409252
 papertitle: Cytomegalovirus and Inflammatory Bowel Diseases (IBD) with a Special Focus
   on the Link with Ulcerative Colitis (UC).
 reftext: Alexandre Jentzer, et al. Microorganisms. 2020 Jul;8(7):1078.
-pmc_ranked_result_index: '124143'
-pathway_score: 0.9354834
-filename: microorganisms-08-01078-g002.jpg
-figtitle: Pathophysiological hypothesis of ulcerative colitis and Crohn disease in
-  the context of cytomegalovirus (CMV) viral reactivation
 year: '2020'
-organisms:
-- Human betaherpesvirus 5
-- Human betaherpesvirus 6
-- Human gammaherpesvirus 4
-- Clostridioides difficile CD34
-- Human immunodeficiency virus
-- Clostridioides difficile
-- Bikinia letestui
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9354834
+figid_alias: PMC7409252__F2
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7409252__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -127,238 +135,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CCL27
-  - TNF
-  - IL5
-  - IL13
-  - IL21
-  - IL22
-  - IL17F
-  - IL17A
-  - IL9
-  - IL6
-  - TGFB1
-  - TGFB2
-  - TGFB3
-  - IL10
-  - IL23A
-  - MADCAM1
   - Ganciclovir
   - Valganciclovir
   - Tofacitinib
-genes:
-- word: ILC
-  symbol: ILC
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL27
-  entrez: '10850'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-5
-  symbol: IL-5
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL5
-  entrez: '3567'
-- word: IL-13
-  symbol: IL-13
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL13
-  entrez: '3596'
-- word: IL-21
-  symbol: IL21
-  source: hgnc_symbol
-  hgnc_symbol: IL21
-  entrez: '59067'
-- word: IL-22
-  symbol: IL22
-  source: hgnc_symbol
-  hgnc_symbol: IL22
-  entrez: '50616'
-- word: IL-17A/F
-  symbol: IL-17F
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17F
-  entrez: '112744'
-- word: IL-17A/F
-  symbol: IL-17A
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17A
-  entrez: '3605'
-- word: IL-17A/FIL-21IL-22
-  symbol: IL-17A
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17A
-  entrez: '3605'
-- word: IL-9
-  symbol: IL-9
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL9
-  entrez: '3578'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IL-13
-  symbol: IL-13
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL13
-  entrez: '3596'
-- word: IL-5
-  symbol: IL-5
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL5
-  entrez: '3567'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: IL-10
-  symbol: IL-10
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL10
-  entrez: '3586'
-- word: IL-22
-  symbol: IL22
-  source: hgnc_symbol
-  hgnc_symbol: IL22
-  entrez: '50616'
-- word: IL-23
-  symbol: IL-23
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL23A
-  entrez: '51561'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: ILC
-  symbol: ILC
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL27
-  entrez: '10850'
-- word: IL-21
-  symbol: IL21
-  source: hgnc_symbol
-  hgnc_symbol: IL21
-  entrez: '59067'
-- word: IL-22
-  symbol: IL22
-  source: hgnc_symbol
-  hgnc_symbol: IL22
-  entrez: '50616'
-- word: IL-17A/F
-  symbol: IL-17F
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17F
-  entrez: '112744'
-- word: IL-17A/F
-  symbol: IL-17A
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17A
-  entrez: '3605'
-- word: IL-17A/FIL-21IL-22
-  symbol: IL-17A
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL17A
-  entrez: '3605'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-22
-  symbol: IL22
-  source: hgnc_symbol
-  hgnc_symbol: IL22
-  entrez: '50616'
-- word: IL-23
-  symbol: IL-23
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL23A
-  entrez: '51561'
-- word: TNF-a
-  symbol: TNFA
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: IL-10
-  symbol: IL-10
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL10
-  entrez: '3586'
-- word: MadCAM-1
-  symbol: MADCAM1
-  source: hgnc_symbol
-  hgnc_symbol: MADCAM1
-  entrez: '8174'
-chemicals:
-- word: Ganciclovir
-  source: MESH
-  identifier: D015774
-- word: Valganciclovir
-  source: MESH
-  identifier: C121677
-- word: Tofacitinib
-  source: MESH
-  identifier: C479163
-diseases: []
-figid_alias: PMC7409252__F2
-redirect_from: /figures/PMC7409252__F2
-figtype: Figure
 ---

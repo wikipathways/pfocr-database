@@ -1,5 +1,11 @@
 ---
 figid: PMC7065518__mSystems.00843-19-f0005
+figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitation
+organisms:
+- Salmonella enterica
+- Homo sapiens
+pmcid: PMC7065518
+filename: mSystems.00843-19-f0005.jpg
 figlink: pmc/articles/PMC7065518/figure/fig5/
 number: F5
 caption: Working model for metabolic outcomes resulting from 5,10-mTHF limitation.
@@ -14,33 +20,22 @@ caption: Working model for metabolic outcomes resulting from 5,10-mTHF limitatio
   that are boldfaced and italicized were not detected by 1H NMR. Compounds listed
   outside the rounded rectangle represent metabolites detected by 1H NMR in the growth
   medium.
-pmcid: PMC7065518
 papertitle: Proton Nuclear Magnetic Resonance Metabolomics Corroborates Serine Hydroxymethyltransferase
   as the Primary Target of 2-Aminoacrylate in a ridA Mutant of Salmonella enterica.
 reftext: Andrew J. Borchert, et al. mSystems. 2020 Mar-Apr;5(2):e00843-19.
-pmc_ranked_result_index: '65668'
-pathway_score: 0.9642413
-filename: mSystems.00843-19-f0005.jpg
-figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitation
 year: '2020'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Salmonella enterica
-- Venustaconcha ellipsiformis
-- Arabidopsis thaliana
-- Bacteriophage sp.
-- Zea mays
-- Klebsiella aerogenes
-- Escherichia coli
-- Drosophila melanogaster
-- Escherichia coli K-12
-- Methanobrevibacter ruminantium
-- Homo sapiens
-- Bos taurus
-- Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9642413
+figid_alias: PMC7065518__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7065518__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -64,7 +59,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ARID4B
   - Valine
   - Putrescine
   - 2-isopropylmalate
@@ -85,75 +79,4 @@ schema-jsonld:
   - Acetyl-CoA
   - Acetate
   - Acetyl-phosphate
-genes:
-- word: ВСАА
-  symbol: BCAA
-  source: hgnc_alias_symbol
-  hgnc_symbol: ARID4B
-  entrez: '51742'
-chemicals:
-- word: Valine
-  source: MESH
-  identifier: C521924
-- word: Putrescine
-  source: MESH
-  identifier: D011700
-- word: 2-isopropylmalate
-  source: MESH
-  identifier: C025313
-- word: 2-aminoacrylate
-  source: MESH
-  identifier: C015102
-- word: Leucine
-  source: MESH
-  identifier: C038361
-- word: Threonine
-  source: MESH
-  identifier: C061951
-- word: Glycine
-  source: MESH
-  identifier: D005998
-- word: Phenylalanine
-  source: MESH
-  identifier: C119108
-- word: N-acetyl putrescine
-  source: MESH
-  identifier: D011700
-- word: Glutamate
-  source: ''
-  identifier: ''
-- word: Glutamine
-  source: MESH
-  identifier: C578860
-- word: Serine
-  source: MESH
-  identifier: C047902
-- word: 5,10-mTHF THF
-  source: MESH
-  identifier: C006461
-- word: Ethanolamine
-  source: MESH
-  identifier: D004983
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: THF
-  source: MESH
-  identifier: C006461
-- word: Formate
-  source: MESH
-  identifier: D005561
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Acetate
-  source: MESH
-  identifier: D000085
-- word: Acetyl-phosphate
-  source: MESH
-  identifier: C011632
-diseases: []
-figid_alias: PMC7065518__F5
-redirect_from: /figures/PMC7065518__F5
-figtype: Figure
 ---

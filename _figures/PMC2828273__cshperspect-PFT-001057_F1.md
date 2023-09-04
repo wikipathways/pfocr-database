@@ -1,5 +1,10 @@
 ---
 figid: PMC2828273__cshperspect-PFT-001057_F1
+figtitle: Interconnections between p53 and IGF-1/AKT/mTOR pathways
+organisms:
+- NA
+pmcid: PMC2828273
+filename: cshperspect-PFT-001057_F1.jpg
 figlink: /pmc/articles/PMC2828273/figure/A001057F1/
 number: F1
 caption: The interconnections between p53 and IGF-1/AKT/mTOR pathways. p53 negatively
@@ -13,18 +18,22 @@ caption: The interconnections between p53 and IGF-1/AKT/mTOR pathways. p53 negat
   between p53 and IGF-1/AKT/mTOR pathways slows down cell growth and division to prevent
   the accumulations of errors in response to stress and restores cellular homeostasis
   after stress is resolved.
-pmcid: PMC2828273
 papertitle: p53 Regulation of the IGF-1/AKT/mTOR Pathways and the Endosomal Compartment.
 reftext: Zhaohui Feng. Cold Spring Harb Perspect Biol. 2010 Feb;2(2):a001057.
-pmc_ranked_result_index: '110654'
-pathway_score: 0.918919
-filename: cshperspect-PFT-001057_F1.jpg
-figtitle: Interconnections between p53 and IGF-1/AKT/mTOR pathways
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.918919
+figid_alias: PMC2828273__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2828273__F1
 ndex: 60b0d8e0-df0e-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,194 +56,115 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DRAM1
-  - PRKAB2
-  - MAPKAP1
+  - p53
+  - betaTub60D
+  - hth
+  - Lkb1
+  - pk
+  - alc
+  - Pten
+  - I-t
+  - wrd
+  - wdb
+  - mts
+  - tws
+  - Pp2A-29B
+  - Pdk1
+  - Prosalpha4
+  - alphaTub67C
+  - nAChRalpha4
+  - SNF4Agamma
+  - AMPKalpha
+  - Crtc
+  - Rheb
+  - Akt
+  - S6k
+  - Thor
+  - CG4025
+  - CycE
+  - cyc
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
   - IGF1
-  - EIF4EBP1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - IGFBP3
+  - TP53
+  - TP63
+  - TP73
+  - STK11
+  - PRKAB1
+  - PRKAB2
+  - PTEN
+  - PTPA
+  - MAPKAP1
+  - MTOR
+  - RICTOR
+  - MLST8
+  - PDK1
+  - PDPK1
+  - IGBP1
+  - PRKAA1
+  - PRKAA2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - PDK2
+  - RPTOR
+  - RHEB
+  - RHEBP1
   - AKT1
   - AKT2
-  - PRKAB1
-  - RICTOR
   - AKT3
-  - IGFBP3
-  - PRKAG2
-  - TP53
-  - RHEB
-  - MLST8
-  - PRKAA2
-  - PRKAG3
-  - MTOR
-  - PRKAG1
-  - PTEN
-  - PRKAA1
-  - PDK1
-  - STK11
-  - RPTOR
-  - PDK2
   - MDM2
+  - RPS6KB1
+  - EIF4EBP1
+  - DRAM1
   - Glucose
   - Cancer
-genes:
-- word: DRAM
-  symbol: DRAM
-  source: hgnc_alias_symbol
-  hgnc_symbol: DRAM1
-  entrez: '55332'
-- word: AMPK-B
-  symbol: AMPK_beta
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: 4EBP1
-  symbol: 4E-BP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF4EBP1
-  entrez: '1978'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: AMPK-B
-  symbol: AMPK_beta
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: IGF-BP3
-  symbol: IGFBP3
-  source: hgnc_symbol
-  hgnc_symbol: IGFBP3
-  entrez: '3486'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: p53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: Rheb-
-  symbol: RHEB
-  source: hgnc_symbol
-  hgnc_symbol: RHEB
-  entrez: '6009'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: -MTORC1+
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: p53.
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: LKB1
-  symbol: LKB1
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK11
-  entrez: '6794'
-- word: -MTORC1+
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: (PDK2)
-  symbol: PDK2
-  source: hgnc_symbol
-  hgnc_symbol: PDK2
-  entrez: '5164'
-- word: MDM2
-  symbol: MDM2
-  source: hgnc_symbol
-  hgnc_symbol: MDM2
-  entrez: '4193'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC2828273__F1
-redirect_from: /figures/PMC2828273__F1
-figtype: Figure
 ---

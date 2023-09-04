@@ -1,5 +1,34 @@
 ---
 figid: PMC2905205__jexboterq177f02_3c
+figtitle: A schematic presentation of relationships between the key components of
+  the ethylene signal transduction pathway
+organisms:
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Oryza sativa
+- Zea mays
+- Solanum lycopersicum
+- Embryophyta
+- Solanum tuberosum
+- Triticum aestivum
+- PX clade
+- Matthiola incana
+- Brassica oleracea
+- Medicago sativa
+- Catharanthus roseus
+- Marchantiophyta
+- Dianthus caryophyllus
+- Mimosa pudica
+- Pelargonium x hortorum
+- Trichoderma viride
+- Nicotiana glutinosa
+- Brassica oleracea var. alboglabra
+- Sinapis arvensis
+- Plagiomnium cuspidatum
+- Pelophylax ridibundus
+- Homo sapiens
+pmcid: PMC2905205
+filename: jexboterq177f02_3c.jpg
 figlink: /pmc/articles/PMC2905205/figure/fig2/
 number: F2
 caption: A schematic presentation of relationships between the key components of the
@@ -8,42 +37,22 @@ caption: A schematic presentation of relationships between the key components of
   (D) Inhibitory action of PAPLD on CTR1 and its expected result. (E) Putative concerted
   action of both messenger molecules on ethylene signal transduction pathway. (F)
   Inhibitory effect of butanol-1 on PAPLPsignalling and its possible consequence.
-pmcid: PMC2905205
 papertitle: Exogenously induced expression of ethylene biosynthesis, ethylene perception,
   phospholipase D, and Rboh-oxidase genes in broccoli seedlings.
 reftext: Małgorzata Jakubowicz, et al. J Exp Bot. 2010 Jul;61(12):3475-3491.
-pmc_ranked_result_index: '27291'
-pathway_score: 0.8737601
-filename: jexboterq177f02_3c.jpg
-figtitle: A schematic presentation of relationships between the key components of
-  the ethylene signal transduction pathway
 year: '2010'
-organisms:
-- Sinapis arvensis
-- Embryophyta
-- Marchantiophyta
-- Dianthus caryophyllus
-- Nicotiana glutinosa
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8737601
+figid_alias: PMC2905205__F2
+figtype: Figure
+organisms_ner:
 - Arabidopsis thaliana
-- Brassica oleracea
-- Brassica oleracea var. alboglabra
-- Matthiola incana
-- Medicago sativa
-- Pelargonium x hortorum
-- Catharanthus roseus
-- Solanum lycopersicum
-- Nicotiana tabacum
-- Solanum tuberosum
-- Oryza sativa
-- Triticum aestivum
-- Zea mays
-- Trichoderma viride
-- PX clade
-- Plagiomnium cuspidatum
-- Mimosa pudica
-- Pelophylax ridibundus
+redirect_from: /figures/PMC2905205__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -62,70 +71,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PLD3
-  - PLD5
-  - PLD2
-  - PLD6
-  - PLD4
-  - KLK15
-  - PLD1
-  - SLC31A1
+  - ACS
+  - CTR1
+  - EIN2
+  - EIN3
+  - PLDALPHA1
   - butanol
   - NO ETHYLENE
   - ethylene
-genes:
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD3
-  entrez: '23646'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD5
-  entrez: '200150'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD2
-  entrez: '5338'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD6
-  entrez: '201164'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD4
-  entrez: '122618'
-- word: ACO
-  symbol: ACO
-  source: hgnc_alias_symbol
-  hgnc_symbol: KLK15
-  entrez: '55554'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD1
-  entrez: '5337'
-- word: CTR1
-  symbol: CTR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC31A1
-  entrez: '1317'
-chemicals:
-- word: butanol
-  source: MESH
-  identifier: D000440
-- word: NO ETHYLENE
-  source: MESH
-  identifier: D005030
-- word: ethylene
-  source: MESH
-  identifier: D005030
-diseases: []
-figid_alias: PMC2905205__F2
-redirect_from: /figures/PMC2905205__F2
-figtype: Figure
 ---

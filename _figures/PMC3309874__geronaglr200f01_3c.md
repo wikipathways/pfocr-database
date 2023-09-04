@@ -1,5 +1,13 @@
 ---
 figid: PMC3309874__geronaglr200f01_3c
+figtitle: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major
+  candidate pathway in human longevity
+organisms:
+- Homo sapiens
+- Mus musculus
+- Caenorhabditis elegans
+pmcid: PMC3309874
+filename: geronaglr200f01_3c.jpg
 figlink: /pmc/articles/PMC3309874/figure/fig1/
 number: F1
 caption: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major candidate
@@ -13,22 +21,23 @@ caption: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major
   human life span. Human population studies established genetic associations between
   some of the IIS genes (,), for example, IGF1R, AKT, FOXO3a, and longevity, supporting
   the role of IIS pathway in human longevity.
-pmcid: PMC3309874
 papertitle: 'Discovery of Functional Gene Variants Associated With Human Longevity:
   Opportunities and Challenges.'
 reftext: Cagdas Tazearslan, et al. J Gerontol A Biol Sci Med Sci. 2012 Apr;67A(4):376-383.
-pmc_ranked_result_index: '79487'
-pathway_score: 0.9628104
-filename: geronaglr200f01_3c.jpg
-figtitle: Insulin/insulin-like growth factor-1 (IGF-1) signaling (IIS) is a major
-  candidate pathway in human longevity
 year: '2012'
-organisms:
-- Mus musculus
-- Caenorhabditis elegans
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9628104
+figid_alias: PMC3309874__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC3309874__F1
 ndex: 2ea7c352-ded8-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -52,134 +61,34 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - FOXO4
+  - INS
+  - IGF1
+  - IRS1
+  - PIK3CA
+  - PIK3CB
   - PIK3CD
-  - AKT2
-  - AKT1
-  - PIK3R4
-  - PIK3R5
   - PIK3CG
   - PIK3R3
-  - IGF1
-  - IGF1R
-  - AKT3
-  - PIK3CA
-  - IRS1
-  - FOXO3
+  - PIK3R4
+  - PIK3R5
   - PIK3R6
-  - PIK3CB
+  - PIK3R1
+  - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
   - FOXO1
-  - INSR
+  - FOXO3
+  - FOXO4
   - FOXO6
-  - INS
+  - IGF1R
+  - INSR
+  - INSRR
+  - Igf1
+  - Irs1
+  - Pik3r1
+  - Akt1
+  - Igf1r
+  - Insr
   - Cancer
-genes:
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO4
-  entrez: '4303'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: IGF1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: IGF1R
-  symbol: IGF1R
-  source: hgnc_symbol
-  hgnc_symbol: IGF1R
-  entrez: '3480'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: IRS-1
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO3
-  entrez: '2309'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO1
-  entrez: '2308'
-- word: INSR
-  symbol: INSR
-  source: hgnc_symbol
-  hgnc_symbol: INSR
-  entrez: '3643'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO6
-  entrez: '100132074'
-- word: INS
-  symbol: INS
-  source: hgnc_symbol
-  hgnc_symbol: INS
-  entrez: '3630'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3309874__F1
-redirect_from: /figures/PMC3309874__F1
-figtype: Figure
 ---

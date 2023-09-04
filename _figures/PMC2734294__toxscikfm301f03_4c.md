@@ -1,5 +1,10 @@
 ---
 figid: PMC2734294__toxscikfm301f03_4c
+figtitle: Several molecular features in the cell body of an oxidatively stressed neuron
+organisms:
+- NA
+pmcid: PMC2734294
+filename: toxscikfm301f03_4c.jpg
 figlink: /pmc/articles/PMC2734294/figure/fig3/
 number: F3
 caption: (A) Several molecular features in the cell body of an oxidatively stressed
@@ -36,19 +41,23 @@ caption: (A) Several molecular features in the cell body of an oxidatively stres
   that result from lifetime environmental exposure; for example, through food—symbolized
   by the French fries; through ambient/occupational exposure—symbolized by the industrial
   plant.
-pmcid: PMC2734294
 papertitle: 'Molecular Mechanisms of the Conjugated α,β-Unsaturated Carbonyl Derivatives:
   Relevance to Neurotoxicity and Neurodegenerative Diseases.'
 reftext: Richard M. LoPachin, et al. Toxicol Sci. 2008 Aug;104(2):235-249.
-pmc_ranked_result_index: '167717'
-pathway_score: 0.9159239
-filename: toxscikfm301f03_4c.jpg
-figtitle: Several molecular features in the cell body of an oxidatively stressed neuron
 year: '2008'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9159239
+figid_alias: PMC2734294__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2734294__F3
 ndex: bc0b61ba-df0e-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -95,146 +104,54 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GSTM3
-  - GSTO1
-  - HMOX1
-  - GSTP1
+  - Keap1
+  - cnc
+  - E(spl)malpha-BFM
+  - Ama
+  - mama
+  - waw
+  - trx
+  - Trxr-1
+  - Trx-2
+  - GstS1
+  - GstE12
+  - GstD1
+  - GstD2
+  - GstD3
+  - GstD4
+  - GstD5
+  - GstD6
+  - GstD7
+  - GstD8
+  - Ho
+  - RER
   - IK
-  - TXN
-  - NQO1
-  - GSTA5
-  - GSTK1
-  - GSTT2B
-  - GSTM5
-  - GSTA2
+  - KEAP1
+  - GABPA
+  - NFE2L2
   - ELANE
-  - GSTM2
-  - GSTT2
-  - GSTO2
-  - GSTM1
-  - GSTA3
+  - NQO1
+  - TXN
+  - VAC14
+  - SLCO6A1
+  - GSTK1
   - GSTA1
-  - GSTM4
-  - GSTZ1
+  - GSTA2
+  - GSTA3
   - GSTA4
+  - GSTA5
+  - GSTM1
+  - GSTM2
+  - GSTM3
+  - GSTM4
+  - GSTM5
+  - GSTO1
+  - GSTO2
+  - GSTP1
+  - GSTT1
+  - GSTT2
+  - GSTZ1
+  - GSTT2B
+  - HMOX1
   - Acrolein
-genes:
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM3
-  entrez: '2947'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTO1
-  entrez: '9446'
-- word: GST/HO-1/NQO1/TRX
-  symbol: HO-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: HMOX1
-  entrez: '3162'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTP1
-  entrez: '2950'
-- word: RER
-  symbol: RER
-  source: hgnc_alias_symbol
-  hgnc_symbol: IK
-  entrez: '3550'
-- word: -1/NQO1/TRX
-  symbol: TRX
-  source: hgnc_alias_symbol
-  hgnc_symbol: TXN
-  entrez: '7295'
-- word: -1/NQO1/TRX
-  symbol: NQO1
-  source: hgnc_symbol
-  hgnc_symbol: NQO1
-  entrez: '1728'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA5
-  entrez: '221357'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTK1
-  entrez: '373156'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTT2B
-  entrez: '653689'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM5
-  entrez: '2949'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA2
-  entrez: '2939'
-- word: Endogenous-Acrolein/HNE
-  symbol: HNE
-  source: hgnc_alias_symbol
-  hgnc_symbol: ELANE
-  entrez: '1991'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM2
-  entrez: '2946'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTT2
-  entrez: '2953'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTO2
-  entrez: '119391'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM1
-  entrez: '2944'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA3
-  entrez: '2940'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA1
-  entrez: '2938'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM4
-  entrez: '2948'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTZ1
-  entrez: '2954'
-- word: GST/HO
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA4
-  entrez: '2941'
-chemicals:
-- word: Acrolein
-  source: MESH
-  identifier: D000171
-diseases: []
-figid_alias: PMC2734294__F3
-redirect_from: /figures/PMC2734294__F3
-figtype: Figure
 ---

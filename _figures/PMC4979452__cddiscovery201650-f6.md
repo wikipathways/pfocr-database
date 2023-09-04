@@ -1,5 +1,10 @@
 ---
 figid: PMC4979452__cddiscovery201650-f6
+figtitle: Protein kinase A (PKA) signaling pathway
+organisms:
+- NA
+pmcid: PMC4979452
+filename: cddiscovery201650-f6.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig6/
 number: F6
 caption: Protein kinase A (PKA) signaling pathway. The majority of G-protein coupled
@@ -13,19 +18,22 @@ caption: Protein kinase A (PKA) signaling pathway. The majority of G-protein cou
   processes, such as regulation of the cell cycle that involves chromatin condensation
   and decondensation. Apart from PKA, other direct targets of cAMP include PDE, p70S6K/RPS6KB1
   and PLA2. Pathway objects and links are described separately in .
-pmcid: PMC4979452
 papertitle: 'Transcriptional landscapes at the intersection of neuronal apoptosis
   and substance P-induced survival: exploring pathways and drug targets.'
 reftext: S Paparone, et al. Cell Death Discov. 2016;2:16050.
-pmc_ranked_result_index: '4652'
-pathway_score: 0.8793685
-filename: cddiscovery201650-f6.jpg
-figtitle: Protein kinase A (PKA) signaling pathway
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8793685
+figid_alias: PMC4979452__F6
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4979452__F6
 ndex: ca616bef-df19-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,40 +57,119 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GSK3A
-  - GHRH
-  - GSK3B
-  - PRKAA1
-  - PRKAA2
-  - HTR2A
   - GNRH2
-  - PYGM
-  - STK19
-  - PHKG2
-  - PRKAG3
   - EDNRA
-  - PRKAB2
-  - PRKAG1
-  - CALM1
-  - PRKAB1
-  - PHKA1
-  - PHKB
-  - PRKAG2
-  - DDC
-  - MDM2
+  - C1QTNF3
+  - GHRH
+  - GNAO1
+  - GNAI1
+  - GNAI2
+  - GNAI3
+  - GNAT1
+  - GNAT2
+  - GNAT3
+  - GNAZ
+  - GNAS
+  - GNAL
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - GNA12
+  - GNA13
+  - B3GNT2
+  - B3GNTL1
+  - RGS3
+  - RGS4
+  - IGKV2D-18
+  - STK19
+  - IGKV2D-19
+  - NEUROD1
+  - TUBB4B
+  - RASA2
+  - AGTR2
   - RAPGEF5
-  - PHKG1
+  - ATP8A2
   - RAP1A
   - PHKA2
-  - C1QTNF3
-  - RGS3
-  - AGTR2
-  - CENPV
-  - RASA2
-  - CACNA1E
-  - RGS4
-  - BDKRB2
+  - CALM1
+  - PHKA1
+  - PHKB
+  - PHKG1
+  - PHKG2
+  - ADRA1D
+  - APP
+  - SUCLA2
+  - GSK3A
+  - GSK3B
+  - PTPA
+  - IGKV2D-29
+  - PYGM
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - DDC
   - BDKRB1
+  - BDKRB2
+  - MDM2
+  - CD80
+  - NMBR
+  - MBOAT7
+  - ADCYAP1
+  - MZB1
+  - CENPV
+  - HTR2A
+  - H1-0
+  - H1-1
+  - H1-2
+  - H1-3
+  - H1-4
+  - H1-5
+  - H1-6
+  - H1-7
+  - H1-8
+  - H1-10
+  - .na.character
+  - H2AB1
+  - H2AJ
+  - H2AZ2
+  - H2AX
+  - MACROH2A1
+  - MACROH2A2
+  - H2AZ1
+  - H2AC1
+  - H2AC6
+  - H2AC7
+  - H2AC12
+  - H2AC14
+  - H2AC21
+  - H2AC20
+  - H2AC25
+  - H2BC1
+  - H2BC3
+  - H2BC5
+  - H2BC9
+  - H2BC11
+  - H2BC12
+  - H2BC13
+  - H2BC14
+  - H2BC15
+  - H2BC17
+  - H2BC18
+  - H2BC19P
+  - H2BC20P
+  - H2BC21
+  - H2BC26
+  - H2BC12L
+  - H2BW2
+  - H2BW1
+  - H3-4
+  - H3-5
+  - H4C7
   - Acetylcholine
   - Prostaglandin Acetylcholine
   - Adenosine
@@ -92,212 +179,4 @@ schema-jsonld:
   - Noradrenaline
   - Serotonin
   - Glycogen storage disease
-genes:
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: GH-RH
-  symbol: GHRH
-  source: hgnc_symbol
-  hgnc_symbol: GHRH
-  entrez: '2691'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: HTR2A
-  symbol: HTR2A
-  source: hgnc_symbol
-  hgnc_symbol: HTR2A
-  entrez: '3356'
-- word: GnRH2
-  symbol: GNRH2
-  source: hgnc_symbol
-  hgnc_symbol: GNRH2
-  entrez: '2797'
-- word: PYGM
-  symbol: PYGM
-  source: hgnc_symbol
-  hgnc_symbol: PYGM
-  entrez: '5837'
-- word: GSK3beta
-  symbol: GSK3B
-  source: hgnc_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: g11
-  symbol: G11
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK19
-  entrez: '8859'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: PHKG2
-  entrez: '5261'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: EDNRA
-  symbol: EDNRA
-  source: hgnc_symbol
-  hgnc_symbol: EDNRA
-  entrez: '1909'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: CALM1
-  entrez: '801'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: PHKA1
-  entrez: '5255'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: PHKB
-  entrez: '5257'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: DDC
-  symbol: DDC
-  source: hgnc_symbol
-  hgnc_symbol: DDC
-  entrez: '1644'
-- word: MDM2
-  symbol: MDM2
-  source: hgnc_symbol
-  hgnc_symbol: MDM2
-  entrez: '4193'
-- word: MR-GEF
-  symbol: MR-GEF
-  source: hgnc_alias_symbol
-  hgnc_symbol: RAPGEF5
-  entrez: '9771'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: PHKG1
-  entrez: '5260'
-- word: RAP-1A
-  symbol: RAP1A
-  source: hgnc_symbol
-  hgnc_symbol: RAP1A
-  entrez: '5906'
-- word: PHK
-  symbol: PhK
-  source: bioentities_symbol
-  hgnc_symbol: PHKA2
-  entrez: '5256'
-- word: CORS
-  symbol: Cors
-  source: hgnc_alias_symbol
-  hgnc_symbol: C1QTNF3
-  entrez: '114899'
-- word: RGS3-4
-  symbol: RGS3
-  source: hgnc_symbol
-  hgnc_symbol: RGS3
-  entrez: '5998'
-- word: AGTR2
-  symbol: AGTR2
-  source: hgnc_symbol
-  hgnc_symbol: AGTR2
-  entrez: '186'
-- word: p30
-  symbol: p30
-  source: hgnc_alias_symbol
-  hgnc_symbol: CENPV
-  entrez: '201161'
-- word: RASA2
-  symbol: RASA2
-  source: hgnc_symbol
-  hgnc_symbol: RASA2
-  entrez: '5922'
-- word: b2
-  symbol: BII
-  source: hgnc_alias_symbol
-  hgnc_symbol: CACNA1E
-  entrez: '777'
-- word: RGS3-4
-  symbol: RGS4
-  source: hgnc_symbol
-  hgnc_symbol: RGS4
-  entrez: '5999'
-- word: BDKRB1-2
-  symbol: BDKRB2
-  source: hgnc_symbol
-  hgnc_symbol: BDKRB2
-  entrez: '624'
-- word: BDKRB1-2
-  symbol: BDKRB1
-  source: hgnc_symbol
-  hgnc_symbol: BDKRB1
-  entrez: '623'
-chemicals:
-- word: Acetylcholine
-  source: MESH
-  identifier: D000109
-- word: Prostaglandin Acetylcholine
-  source: MESH
-  identifier: D000109
-- word: Adenosine
-  source: MESH
-  identifier: D000241
-- word: amine
-  source: MESH
-  identifier: D000588
-- word: Bradykinin
-  source: MESH
-  identifier: D001920
-- word: Dopamine
-  source: MESH
-  identifier: D004298
-- word: Noradrenaline
-  source: MESH
-  identifier: D009638
-- word: Serotonin
-  source: MESH
-  identifier: D012701
-diseases:
-- word: Glycogen storage disease
-  source: ''
-  identifier: ''
-figid_alias: PMC4979452__F6
-redirect_from: /figures/PMC4979452__F6
-figtype: Figure
 ---

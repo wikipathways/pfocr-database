@@ -1,5 +1,11 @@
 ---
 figid: PMC2652062__jexbotern323f01_lw
+figtitle: The flavonoid pathway in Arabidopsis
+organisms:
+- Arabidopsis thaliana
+- Homo sapiens
+pmcid: PMC2652062
+filename: jexbotern323f01_lw.jpg
 figlink: /pmc/articles/PMC2652062/figure/fig1/
 number: F1
 caption: 'The flavonoid pathway in Arabidopsis. Shown are the locations of the transparent
@@ -16,25 +22,22 @@ caption: 'The flavonoid pathway in Arabidopsis. Shown are the locations of the t
   and TT10 an enzyme for biflavonol conversion and oxidizing procyanidins to proanthocyanidins
   in the seed testa. The figure is adapted from , (www.plantphysiol.org), Copyright
   American Society of Plant Biologists.'
-pmcid: PMC2652062
 papertitle: Architectural phenotypes in the transparent testa mutants of Arabidopsis
   thaliana.
 reftext: Charles S. Buer, et al. J Exp Bot. 2009 Mar;60(3):751-763.
-pmc_ranked_result_index: '89257'
-pathway_score: 0.8321596
-filename: jexbotern323f01_lw.jpg
-figtitle: The flavonoid pathway in Arabidopsis
 year: '2009'
-organisms:
-- Dipturus trachyderma
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8321596
+figid_alias: PMC2652062__F1
+figtype: Figure
+organisms_ner:
 - Arabidopsis thaliana
-- Rhizobium leguminosarum bv. trifolii
-- Medicago truncatula
-- Trifolium repens
-- Lumbrineris erecta
-- Homo sapiens
+redirect_from: /figures/PMC2652062__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,8 +64,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - LYST
-  - LMO2
+  - TT4
+  - CHI
+  - TT5
+  - F3H
+  - DFR
+  - TTG1
+  - TT2
+  - FLS1
+  - FLS3
+  - TT8
+  - TT1
+  - TTG2
+  - BAN
   - dihydroquercetin
   - naringenin
   - naringenin chalcone
@@ -71,44 +85,4 @@ schema-jsonld:
   - quercetin
   - proanthocyanidins
   - kaempferol
-genes:
-- word: CHS
-  symbol: CHS
-  source: hgnc_alias_symbol
-  hgnc_symbol: LYST
-  entrez: '1130'
-- word: TTG2,
-  symbol: TTG2
-  source: hgnc_alias_symbol
-  hgnc_symbol: LMO2
-  entrez: '4005'
-chemicals:
-- word: dihydroquercetin
-  source: MESH
-  identifier: C003377
-- word: naringenin
-  source: MESH
-  identifier: C005273
-- word: naringenin chalcone
-  source: MESH
-  identifier: C027329
-- word: dihydrokaempferol
-  source: MESH
-  identifier: C080220
-- word: anthocyanins
-  source: MESH
-  identifier: D000872
-- word: quercetin
-  source: MESH
-  identifier: D011794
-- word: proanthocyanidins
-  source: MESH
-  identifier: D044945
-- word: kaempferol
-  source: MESH
-  identifier: D044949
-diseases: []
-figid_alias: PMC2652062__F1
-redirect_from: /figures/PMC2652062__F1
-figtype: Figure
 ---

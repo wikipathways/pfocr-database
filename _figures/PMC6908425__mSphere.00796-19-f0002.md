@@ -1,5 +1,12 @@
 ---
 figid: PMC6908425__mSphere.00796-19-f0002
+figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
+  enzymes
+organisms:
+- Salmonella enterica
+- Homo sapiens
+pmcid: PMC6908425
+filename: mSphere.00796-19-f0002.jpg
 figlink: /pmc/articles/PMC6908425/figure/fig2/
 number: F2
 caption: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
@@ -18,34 +25,22 @@ caption: Deletion of fumarases leads to changes in carbon fluxes and amounts of 
   analyses, respectively. Statistical analyses were performed by Student’s t test,
   and all data shown have significance differences between the two strains of P < 0.05
   or lower.
-pmcid: PMC6908425
 papertitle: Blocks in Tricarboxylic Acid Cycle of Salmonella enterica Cause Global
   Perturbation of Carbon Storage, Motility, and Host-Pathogen Interaction.
 reftext: Janina Noster, et al. mSphere. 2019 Nov-Dec;4(6):e00796-19.
-pmc_ranked_result_index: '25502'
-pathway_score: 0.7640933
-filename: mSphere.00796-19-f0002.jpg
-figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of metabolic
-  enzymes
 year: '2019'
-organisms:
-- Mus musculus
-- Salmonella sp. WT
-- Corynebacterium glutamicum
-- Mycobacterium tuberculosis
-- Salmonella enterica
-- Escherichia coli Nissle 1917
-- Escherichia coli B
-- Candelariella medians
-- Escherichia coli
-- Caenorhabditis elegans
-- Escherichia coli DH5alpha
-- Escherichia coli K-12
-- Salmonella enterica subsp. enterica serovar Typhimurium
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7640933
+figid_alias: PMC6908425__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
-- Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+redirect_from: /figures/PMC6908425__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -73,139 +68,46 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - VCAN
+  - OTSC1
   - TREH
+  - TRE-TTC3-1
+  - GCK
   - MAP4K3
   - MAL
+  - MRTFA
+  - TIRAP
+  - PNMA1
+  - GSTZ1
+  - BGN
+  - GPI
+  - PGPEP1
   - GANAB
   - CIT
+  - DHDDS
+  - MDH2
   - S100A6
+  - ACVR1
+  - CEP43
+  - CHTOP
+  - TMEM201
+  - GLC1P
   - FBXO3
+  - GAN
+  - MPG
   - RPIA
   - RPE
   - SDHC
-  - CSRP3
-  - PRKG1
+  - LOC642502
+  - FUT3
+  - ENO1
   - ENO2
   - ENO3
-  - ENO1
   - ENO4
   - PAEP
+  - PREP
+  - PTPN22
   - OAc
   - ADPG
   - DHAP
-genes:
-- word: TreA
-  symbol: TREA
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREH
-  entrez: '11181'
-- word: Tre
-  symbol: TRE
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREH
-  entrez: '11181'
-- word: Glk
-  symbol: GLK
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP4K3
-  entrez: '8491'
-- word: Mal
-  symbol: MAL
-  source: hgnc_symbol
-  hgnc_symbol: MAL
-  entrez: '4118'
-- word: Glk
-  symbol: GLK
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP4K3
-  entrez: '8491'
-- word: GIIA
-  symbol: GIIA
-  source: hgnc_alias_symbol
-  hgnc_symbol: GANAB
-  entrez: '23193'
-- word: Cit
-  symbol: CIT
-  source: hgnc_symbol
-  hgnc_symbol: CIT
-  entrez: '11113'
-- word: '>Cit'
-  symbol: CIT
-  source: hgnc_symbol
-  hgnc_symbol: CIT
-  entrez: '11113'
-- word: PRA
-  symbol: PRA
-  source: hgnc_alias_symbol
-  hgnc_symbol: S100A6
-  entrez: '6277'
-- word: Fba
-  symbol: FBA
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXO3
-  entrez: '26273'
-- word: RpiA
-  symbol: RPIA
-  source: hgnc_symbol
-  hgnc_symbol: RPIA
-  entrez: '22934'
-- word: Rpe
-  symbol: RPE
-  source: hgnc_symbol
-  hgnc_symbol: RPE
-  entrez: '6120'
-- word: Sdhc
-  symbol: SDHC
-  source: hgnc_symbol
-  hgnc_symbol: SDHC
-  entrez: '6391'
-- word: M1P
-  symbol: MLP
-  source: hgnc_alias_symbol
-  hgnc_symbol: CSRP3
-  entrez: '8048'
-- word: Pgk
-  symbol: PGK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO2
-  entrez: '2026'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO3
-  entrez: '2027'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO1
-  entrez: '2023'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO4
-  entrez: '387712'
-- word: PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-chemicals:
-- word: OAc
-  source: MESH
-  identifier: C065699
-- word: ADPG
-  source: MESH
-  identifier: D000245
-- word: DHAP
-  source: MESH
-  identifier: C017202
-diseases: []
-figid_alias: PMC6908425__F2
-redirect_from: /figures/PMC6908425__F2
-figtype: Figure
 ---

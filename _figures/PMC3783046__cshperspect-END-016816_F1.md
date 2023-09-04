@@ -1,5 +1,10 @@
 ---
 figid: PMC3783046__cshperspect-END-016816_F1
+figtitle: Organization of the endosomal pathway
+organisms:
+- NA
+pmcid: PMC3783046
+filename: cshperspect-END-016816_F1.jpg
 figlink: /pmc/articles/PMC3783046/figure/A016816F1/
 number: F1
 caption: Organization of the endosomal pathway. In mammalian cells but perhaps not
@@ -20,18 +25,21 @@ caption: Organization of the endosomal pathway. In mammalian cells but perhaps n
   where degradation-resistant LBPA (lysobisphosphatidic acid) membranes may mediate
   intraendosomal dynamics and cholesterol export. Importantly, the endosomal pathway
   also serves as an input or output for other membrane trafficking pathways, as indicated.
-pmcid: PMC3783046
 papertitle: Lipid Sorting and Multivesicular Endosome Biogenesis.
 reftext: Christin Bissig, et al. Cold Spring Harb Perspect Biol. 2013 Oct;5(10):a016816.
-pmc_ranked_result_index: '76699'
-pathway_score: 0.9537777
-filename: cshperspect-END-016816_F1.jpg
-figtitle: Organization of the endosomal pathway
 year: '2013'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9537777
+figid_alias: PMC3783046__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3783046__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -62,38 +70,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TG
-  - RAB7A
-  - RAB5A
-  - CTSC
+  - ps
+  - lds
+  - Rab5
+  - pls
+  - Pis
+  - Rab7
   - Cholesterol
-genes:
-- word: TGN
-  symbol: TGN
-  source: hgnc_alias_symbol
-  hgnc_symbol: TG
-  entrez: '7038'
-- word: RAB5/RAB7
-  symbol: RAB7
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB7A
-  entrez: '7879'
-- word: RAB5
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-- word: Pls
-  symbol: PLS
-  source: hgnc_prev_symbol
-  hgnc_symbol: CTSC
-  entrez: '1075'
-chemicals:
-- word: Cholesterol
-  source: MESH
-  identifier: D002784
-diseases: []
-figid_alias: PMC3783046__F1
-redirect_from: /figures/PMC3783046__F1
-figtype: Figure
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC7650665__biomedicines-08-00426-g0A2
+figtitle: Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
+  kinases from human, vaccinia virus, and herpes simplex virus
+organisms:
+- NA
+pmcid: PMC7650665
+filename: biomedicines-08-00426-g0A2.jpg
 figlink: pmc/articles/PMC7650665/figure/biomedicines-08-00426-f0A2/
 number: AF2
 caption: 'Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
@@ -13,20 +19,22 @@ caption: 'Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by
   monophosphate kinase; NDPK: Nucleoside-diphosphate kinases; AMPK: AMP-activated
   protein kinase; GMPK: Guanylate monophosphate kinase; AMPK: AMP-activated protein
   kinase; GMPK: Guanylate monophosphate kinase.'
-pmcid: PMC7650665
 papertitle: Engineering and Preclinical Evaluation of Western Reserve Oncolytic Vaccinia
   Virus Expressing A167Y Mutant Herpes Simplex Virus Thymidine Kinase.
 reftext: S. M. Bakhtiar UL Islam, et al. Biomedicines. 2020 Oct;8(10):426.
-pmc_ranked_result_index: '63438'
-pathway_score: 0.846546
-filename: biomedicines-08-00426-g0A2.jpg
-figtitle: Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
-  kinases from human, vaccinia virus, and herpes simplex virus
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.846546
+figid_alias: PMC7650665__AF2
+figtype: Appendix figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7650665__AF2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,17 +57,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ITPR1
-  - EFNB2
-  - DTYMK
-  - PRKAG2
-  - PRKAA1
-  - PRKAA2
-  - PRKAB1
-  - PRKAB2
-  - PRKAG1
-  - PRKAG3
-  - CMPK1
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - dc
+  - Dt
+  - Dg
+  - AP-1gamma
+  - da
+  - nAChRalpha2
+  - Ts
+  - Amph
+  - SNF4Agamma
+  - AMPKalpha
+  - Cmpk
+  - awd
+  - Datp
   - Pyrimidine nucleosides
   - Purine nucleosides
   - dGuo
@@ -68,144 +82,4 @@ schema-jsonld:
   - DGMP
   - dCDP
   - DGDP
-genes:
-- word: ACV/GCV
-  symbol: ACV
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITPR1
-  entrez: '3708'
-- word: ACV/
-  symbol: ACV
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITPR1
-  entrez: '3708'
-- word: HTK1
-  symbol: HTKL
-  source: hgnc_alias_symbol
-  hgnc_symbol: EFNB2
-  entrez: '1948'
-- word: GCV-p,ACV-p
-  symbol: ACV
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITPR1
-  entrez: '3708'
-- word: ACV-p
-  symbol: ACV
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITPR1
-  entrez: '3708'
-- word: TMPK
-  symbol: TMPK
-  source: hgnc_alias_symbol
-  hgnc_symbol: DTYMK
-  entrez: '1841'
-- word: TMPK
-  symbol: TMPK
-  source: hgnc_alias_symbol
-  hgnc_symbol: DTYMK
-  entrez: '1841'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: CMPK
-  symbol: CMPK
-  source: hgnc_prev_symbol
-  hgnc_symbol: CMPK1
-  entrez: '51727'
-chemicals:
-- word: Pyrimidine nucleosides
-  source: MESH
-  identifier: D011741
-- word: Purine nucleosides
-  source: MESH
-  identifier: D011684
-- word: dGuo
-  source: MESH
-  identifier: C067134
-- word: ACV
-  source: MESH
-  identifier: C121743
-- word: dCMP
-  source: MESH
-  identifier: C113700
-- word: DGMP
-  source: MESH
-  identifier: C469784
-- word: dCDP
-  source: MESH
-  identifier: C045813
-- word: DGDP
-  source: MESH
-  identifier: C513881
-diseases: []
-figid_alias: PMC7650665__AF2
-redirect_from: /figures/PMC7650665__AF2
-figtype: Appendix figure
 ---

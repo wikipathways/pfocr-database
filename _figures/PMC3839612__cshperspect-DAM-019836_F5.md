@@ -1,5 +1,11 @@
 ---
 figid: PMC3839612__cshperspect-DAM-019836_F5
+figtitle: A detailed model of the Rad5-mediate template switch pathway, assuming gap
+  filling dependent on a subset of HR functions after the replication fork has passed
+organisms:
+- NA
+pmcid: PMC3839612
+filename: cshperspect-DAM-019836_F5.jpg
 figlink: /pmc/articles/PMC3839612/figure/A019836F5/
 number: F5
 caption: A detailed model of the Rad5-mediate template switch pathway, assuming gap
@@ -13,19 +19,22 @@ caption: A detailed model of the Rad5-mediate template switch pathway, assuming 
   on different subunits of the PCNA trimer.) The resulting hemicatenane structure
   is resolved by Sgs1-Top3-Rmi1 helicase, itself dependent on SUMOylation by Ubc9-Mms21.
   (Based on data from
-pmcid: PMC3839612
 papertitle: Replicating Damaged DNA in Eukaryotes.
 reftext: Nimrat Chatterjee, et al. Cold Spring Harb Perspect Biol. 2013 Dec;5(12):a019836.
-pmc_ranked_result_index: '127198'
-pathway_score: 0.7484544
-filename: cshperspect-DAM-019836_F5.jpg
-figtitle: A detailed model of the Rad5-mediate template switch pathway, assuming gap
-  filling dependent on a subset of HR functions after the replication fork has passed
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7484544
+figid_alias: PMC3839612__F5
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 - Homo sapiens
+redirect_from: /figures/PMC3839612__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,52 +57,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TOP3A
-  - RAD18
-  - UBE2I
-  - PCNA
   - RAD51
-  - NSMCE2
+  - SRS2
+  - RAD18
+  - RAD5
+  - MMS21
+  - UBC9
+  - TOP3
   - RMI1
-genes:
-- word: Sgs1/Rmi1/Top3
-  symbol: TOP3
-  source: hgnc_prev_symbol
-  hgnc_symbol: TOP3A
-  entrez: '7156'
-- word: Rad5,Rad18
-  symbol: RAD18
-  source: hgnc_symbol
-  hgnc_symbol: RAD18
-  entrez: '56852'
-- word: Ubc9/Mms21/SUMO
-  symbol: UBC9
-  source: hgnc_alias_symbol
-  hgnc_symbol: UBE2I
-  entrez: '7329'
-- word: PCNA
-  symbol: PCNA
-  source: hgnc_symbol
-  hgnc_symbol: PCNA
-  entrez: '5111'
-- word: Rad51
-  symbol: RAD51
-  source: hgnc_symbol
-  hgnc_symbol: RAD51
-  entrez: '5888'
-- word: Ubc9/Mms21/SUMO
-  symbol: MMS21
-  source: hgnc_alias_symbol
-  hgnc_symbol: NSMCE2
-  entrez: '286053'
-- word: Sgs1/Rmi1/Top3
-  symbol: RMI1
-  source: hgnc_symbol
-  hgnc_symbol: RMI1
-  entrez: '80010'
-chemicals: []
-diseases: []
-figid_alias: PMC3839612__F5
-redirect_from: /figures/PMC3839612__F5
-figtype: Figure
+  - SGS1
+  - PCNA
+  - SHPRH
+  - NSMCE2
+  - UBE2I
+  - TOP3A
 ---

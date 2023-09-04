@@ -1,5 +1,11 @@
 ---
 figid: PMC3071761__jexbotern263f01_lw
+figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
+  rhizome
+organisms:
+- Curcuma longa
+pmcid: PMC3071761
+filename: jexbotern263f01_lw.jpg
 figlink: /pmc/articles/PMC3071761/figure/fig1/
 number: F1
 caption: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
@@ -10,32 +16,22 @@ caption: Proposed biosynthetic pathway to selected diarylheptanoids in the turme
   the right. Structures of the diarylheptanoids are drawn in keto-enol tautomer form,
   which is how they would exist in solution (), although they are typically named
   after their β-diketide tautomeric forms.
-pmcid: PMC3071761
 papertitle: Modules of co-regulated metabolites in turmeric (Curcuma longa) rhizome
   suggest the existence of biosynthetic modules in plant specialized metabolism.
 reftext: Zhengzhi Xie, et al. J Exp Bot. 2009 Jan;60(1):87-97.
-pmc_ranked_result_index: '25497'
-pathway_score: 0.6995991
-filename: jexbotern263f01_lw.jpg
-figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turmeric
-  rhizome
 year: '2009'
-organisms:
-- Rattus norvegicus
-- Curcuma longa
-- Arabidopsis thaliana
-- Brassica napus
-- Medicago truncatula
-- Ocimum basilicum
-- Solanum lycopersicum
-- Nicotiana tabacum
-- Oryza sativa
-- Musa acuminata
-- Perilla frutescens
-- Zingiber officinale
-- Wachendorfia thyrsiflora
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6995991
+figid_alias: PMC3071761__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3071761__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,10 +51,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ACLY
-  - 3'-hydroxy-bisdemethoxycurcumin
+  - 3-hydroxy-bisdemethoxycurcumin
   - bisdemethoxycurcumin
-  - 3'-hydroxy-demethoxycurcumin
+  - 3-hydroxy-demethoxycurcumin
   - 5-hydroxy-demethoxycurcumin
   - demethoxycurcumin
   - caffeoyl-CoA
@@ -68,51 +63,4 @@ schema-jsonld:
   - malonyl-CoA
   - Phe
   - malonyl-CoA polyketide
-genes:
-- word: ACL
-  symbol: ACL
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACLY
-  entrez: '47'
-chemicals:
-- word: 3'-hydroxy-bisdemethoxycurcumin
-  source: MESH
-  identifier: C034786
-- word: bisdemethoxycurcumin
-  source: MESH
-  identifier: C034786
-- word: 3'-hydroxy-demethoxycurcumin
-  source: MESH
-  identifier: C050229
-- word: 5-hydroxy-demethoxycurcumin
-  source: MESH
-  identifier: C050229
-- word: demethoxycurcumin
-  source: MESH
-  identifier: C050229
-- word: caffeoyl-CoA
-  source: MESH
-  identifier: C058645
-- word: feruloyl-CoA
-  source: MESH
-  identifier: C119167
-- word: S-hydraxy-curcumin
-  source: MESH
-  identifier: D003474
-- word: curcumin
-  source: MESH
-  identifier: D003474
-- word: malonyl-CoA
-  source: MESH
-  identifier: D008316
-- word: Phe
-  source: MESH
-  identifier: D010649
-- word: malonyl-CoA polyketide
-  source: MESH
-  identifier: D061065
-diseases: []
-figid_alias: PMC3071761__F1
-redirect_from: /figures/PMC3071761__F1
-figtype: Figure
 ---

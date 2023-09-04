@@ -1,5 +1,13 @@
 ---
 figid: PMC4218690__cin-suppl.5-2014-001f1
+figtitle: Honokiol and ionizing radiation (IR) affect Notch signaling
+organisms:
+- Danio rerio
+- Xenopus laevis
+- Homo sapiens
+- Magnolia officinalis
+pmcid: PMC4218690
+filename: cin-suppl.5-2014-001f1.jpg
 figlink: /pmc/articles/PMC4218690/figure/f1-cin-suppl.5-2014-001/
 number: F1
 caption: Honokiol and ionizing radiation (IR) affect Notch signaling. (A) Upon binding
@@ -13,22 +21,22 @@ caption: Honokiol and ionizing radiation (IR) affect Notch signaling. (A) Upon b
   IR on cellular signaling with cross talk to the Notch pathway. Black edges with
   arrows indicate activating regulations and red edges with blunt ends indicate inhibiting
   regulations.
-pmcid: PMC4218690
 papertitle: Inferring the Effects of Honokiol on the Notch Signaling Pathway in SW480
   Colon Cancer Cells.
 reftext: Michelle L Wynn, et al. Cancer Inform. 2014;13(Suppl 5):1-12.
-pmc_ranked_result_index: '14968'
-pathway_score: 0.8477215
-filename: cin-suppl.5-2014-001f1.jpg
-figtitle: Honokiol and ionizing radiation (IR) affect Notch signaling
 year: '2014'
-organisms:
-- Danio rerio
-- Xenopus laevis
-- Magnolia officinalis
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8477215
+figid_alias: PMC4218690__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4218690__F1
 ndex: 55cf2fb7-df15-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,150 +59,38 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - NOTCH1
+  - NOTCH2
   - NOTCH3
-  - TP53
-  - BAX
-  - HRAS
-  - CDK1
   - NOTCH4
+  - CDK1
+  - MYC
+  - BAX
+  - RRBP1
+  - HES1
   - HES2
   - HES3
-  - NOTCH2
-  - HES6
-  - AKT2
-  - KRAS
-  - NRAS
-  - NOTCH1
-  - AKT1
   - HES4
-  - HES7
-  - AKT3
-  - MYC
-  - HES1
-  - MDM2
   - HES5
+  - HES6
+  - HES7
+  - COA8
+  - AKT1
+  - AKT2
+  - AKT3
+  - KRAS
+  - HRAS
+  - NRAS
+  - MDM2
+  - IFI27
+  - PSMD9
+  - ZNRD2
+  - DCTN6
+  - TMED7
+  - H3P23
+  - TP53
+  - TP63
+  - TP73
   - Honokiol
   - Cancer
-genes:
-- word: Notch
-  symbol: Notch
-  source: bioentities_symbol
-  hgnc_symbol: NOTCH3
-  entrez: '4854'
-- word: P53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: BAX
-  symbol: BAX
-  source: hgnc_symbol
-  hgnc_symbol: BAX
-  entrez: '581'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: CDK1
-  symbol: CDK1
-  source: hgnc_symbol
-  hgnc_symbol: CDK1
-  entrez: '983'
-- word: Notch
-  symbol: Notch
-  source: bioentities_symbol
-  hgnc_symbol: NOTCH4
-  entrez: '4855'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES2
-  entrez: '54626'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES3
-  entrez: '390992'
-- word: Notch
-  symbol: Notch
-  source: bioentities_symbol
-  hgnc_symbol: NOTCH2
-  entrez: '4853'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES6
-  entrez: '55502'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: Notch
-  symbol: Notch
-  source: bioentities_symbol
-  hgnc_symbol: NOTCH1
-  entrez: '4851'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES4
-  entrez: '57801'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES7
-  entrez: '84667'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: MYC
-  symbol: MYC
-  source: hgnc_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES1
-  entrez: '3280'
-- word: MDM2
-  symbol: MDM2
-  source: hgnc_symbol
-  hgnc_symbol: MDM2
-  entrez: '4193'
-- word: HES-P
-  symbol: HES
-  source: bioentities_symbol
-  hgnc_symbol: HES5
-  entrez: '388585'
-chemicals:
-- word: Honokiol
-  source: MESH
-  identifier: C005499
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC4218690__F1
-redirect_from: /figures/PMC4218690__F1
-figtype: Figure
 ---

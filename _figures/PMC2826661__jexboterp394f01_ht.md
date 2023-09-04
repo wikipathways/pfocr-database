@@ -1,5 +1,12 @@
 ---
 figid: PMC2826661__jexboterp394f01_ht
+figtitle: Biosynthetic pathway for anthocyanins, caffeoylquinates, and other major
+  phenolic derivatives in potato tuber
+organisms:
+- Solanum tuberosum
+- Homo sapiens
+pmcid: PMC2826661
+filename: jexboterp394f01_ht.jpg
 figlink: /pmc/articles/PMC2826661/figure/fig1/
 number: F1
 caption: 'Schematic diagram of the biosynthetic pathway for anthocyanins, caffeoylquinates,
@@ -19,27 +26,22 @@ caption: 'Schematic diagram of the biosynthetic pathway for anthocyanins, caffeo
   transferase) which decorates anthocyanin glycosides with hydroxycinnamoyl groups
   is also not represented. The steps required for anthocyanidin synthesis are highlighted
   in the shaded box.'
-pmcid: PMC2826661
 papertitle: Flavonoid profiling and transcriptome analysis reveals new gene–metabolite
   correlations in tubers of Solanum tuberosum L..
 reftext: Cecil Stushnoff, et al. J Exp Bot. 2010 Feb;61(4):1225-1238.
-pmc_ranked_result_index: '39580'
-pathway_score: 0.7607567
-filename: jexboterp394f01_ht.jpg
-figtitle: Biosynthetic pathway for anthocyanins, caffeoylquinates, and other major
-  phenolic derivatives in potato tuber
 year: '2010'
-organisms:
-- Mus musculus
-- Arabidopsis thaliana
-- Glycine max
-- Solanum lycopersicum
-- Solanum melongena
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7607567
+figid_alias: PMC2826661__F1
+figtype: Figure
+organisms_ner:
 - Solanum tuberosum
-- Zea mays
-- Homo sapiens
+redirect_from: /figures/PMC2826661__F1
 ndex: cd50db5a-df2a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -68,24 +70,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ADHFE1
-  - DLD
-  - ADH1C
-  - ADH7
-  - DLAT
-  - PDHX
-  - ADH1A
-  - NUDT6
-  - LYST
-  - FSHB
-  - PDHB
-  - CGA
-  - ADH1B
-  - ADH6
-  - ADH4
-  - ADH5
-  - PDHA2
-  - PDHA1
+  - CHS1A
+  - CHI
+  - DFR
+  - FLS
+  - F3H
   - Dihydroquercetin
   - Arogenate
   - Cyanidin
@@ -105,157 +94,4 @@ schema-jsonld:
   - caffeoyl putrescine
   - Tyrosine
   - Narigenin chalcone
-genes:
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADHFE1
-  entrez: '137872'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1C
-  entrez: '126'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH7
-  entrez: '131'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1A
-  entrez: '124'
-- word: DFR,AS,GFG
-  symbol: gfg
-  source: hgnc_alias_symbol
-  hgnc_symbol: NUDT6
-  entrez: '11162'
-- word: CHS
-  symbol: CHS
-  source: hgnc_alias_symbol
-  hgnc_symbol: LYST
-  entrez: '1130'
-- word: FSH
-  symbol: FSH
-  source: bioentities_symbol
-  hgnc_symbol: FSHB
-  entrez: '2488'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: FSH
-  symbol: FSH
-  source: bioentities_symbol
-  hgnc_symbol: CGA
-  entrez: '1081'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1B
-  entrez: '125'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH6
-  entrez: '130'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH4
-  entrez: '127'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH5
-  entrez: '128'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-chemicals:
-- word: Dihydroquercetin
-  source: MESH
-  identifier: C003377
-- word: Arogenate
-  source: MESH
-  identifier: C015478
-- word: Cyanidin
-  source: MESH
-  identifier: C017154
-- word: Delphinidin
-  source: MESH
-  identifier: C017185
-- word: 4-coumaroyl-CoA
-  source: MESH
-  identifier: C058644
-- word: Caffeoyl-CoA
-  source: MESH
-  identifier: C058645
-- word: Malvidin
-  source: MESH
-  identifier: C065861
-- word: Pelargonidin
-  source: MESH
-  identifier: C066957
-- word: Dihydrokaempferol
-  source: MESH
-  identifier: C080220
-- word: Feruloyl-CoA
-  source: MESH
-  identifier: C119167
-- word: Peonidin
-  source: MESH
-  identifier: C473205
-- word: Petunidin
-  source: MESH
-  identifier: C473206
-- word: Chlorogenic acid
-  source: MESH
-  identifier: D002726
-- word: Cinnamate
-  source: MESH
-  identifier: D002934
-- word: Phenylalanine
-  source: MESH
-  identifier: D010649
-- word: Feuloyl putrescine
-  source: MESH
-  identifier: D011700
-- word: caffeoyl putrescine
-  source: MESH
-  identifier: D011700
-- word: Tyrosine
-  source: MESH
-  identifier: D014443
-- word: Narigenin chalcone
-  source: MESH
-  identifier: D047188
-diseases: []
-figid_alias: PMC2826661__F1
-redirect_from: /figures/PMC2826661__F1
-figtype: Figure
 ---

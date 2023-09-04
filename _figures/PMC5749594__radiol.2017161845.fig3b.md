@@ -1,5 +1,11 @@
 ---
 figid: PMC5749594__radiol.2017161845.fig3b
+figtitle: Association of the activity of metagene 19 with two distinct image phenotypes
+organisms:
+- Homo sapiens
+- Rattus norvegicus
+pmcid: PMC5749594
+filename: radiol.2017161845.fig3b.jpg
 figlink: /pmc/articles/PMC5749594/figure/fig3b/
 number: F3b
 caption: Association of the activity of metagene 19 with two distinct image phenotypes.
@@ -9,20 +15,23 @@ caption: Association of the activity of metagene 19 with two distinct image phen
   19 results in high activity of LRIG1 (red arrow) with inhibition of the EGF–EGF
   receptor pathway (green arrow), but results in higher occurrence of EGF receptor
   mutations, which severs the link between LRIG1 and EGF receptor.
-pmcid: PMC5749594
 papertitle: Non–Small Cell Lung Cancer Radiogenomics Map Identifies Relationships
   between Molecular and Imaging Phenotypes with Prognostic Implications.
 reftext: Mu Zhou, et al. Radiology.  January 2018;286(1):307-315.
-pmc_ranked_result_index: '116634'
-pathway_score: 0.9182659
-filename: radiol.2017161845.fig3b.jpg
-figtitle: Association of the activity of metagene 19 with two distinct image phenotypes
 year: ''
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9182659
+figid_alias: PMC5749594__F3b
+figtype: Figure
+organisms_ner:
 - Rattus norvegicus
 - Homo sapiens
+redirect_from: /figures/PMC5749594__F3b
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -42,34 +51,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EGFR
-  - KRAS
-  - EGF
+  - Lrig1
+  - Egf
+  - Egfr
+  - Pik3ca
+  - Kras
   - LRIG1
-genes:
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: KRAS
-  symbol: KRAS
-  source: hgnc_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: LRIG1
-  symbol: LRIG1
-  source: hgnc_symbol
-  hgnc_symbol: LRIG1
-  entrez: '26018'
-chemicals: []
-diseases: []
-figid_alias: PMC5749594__F3b
-redirect_from: /figures/PMC5749594__F3b
-figtype: Figure
+  - EGF
+  - EGFR
+  - PIK3CA
+  - KRAS
+  - NRAS
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC4733034__elife-10859-fig2-figsupp2
+figtitle: Assay for defining the immunostimulatory potential of different RNAs
+organisms:
+- NA
+pmcid: PMC4733034
+filename: elife-10859-fig2-figsupp2.jpg
 figlink: /pmc/articles/PMC4733034/figure/fig2s2/
 number: SF2_2
 caption: '(A) Endogenous RLRs in HEK 293T ISRE-FF/RFP cells (stably express firefly
@@ -8,19 +13,23 @@ caption: '(A) Endogenous RLRs in HEK 293T ISRE-FF/RFP cells (stably express fire
   RNA. Subsequent interferon (IFN) expression results in activation of the STAT signaling
   pathway which in return induces ISRE promoter driven expression of FF luciferase.DOI:
   http://dx.doi.org/10.7554/eLife.10859.008'
-pmcid: PMC4733034
 papertitle: ATP hydrolysis by the viral RNA sensor RIG-I prevents unintentional recognition
   of self-RNA.
 reftext: Charlotte Lässig, et al. eLife. 2015;4:e10859.
-pmc_ranked_result_index: '26262'
-pathway_score: 0.9243724
-filename: elife-10859-fig2-figsupp2.jpg
-figtitle: Assay for defining the immunostimulatory potential of different RNAs
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9243724
+figid_alias: PMC4733034__SF2_2
+figtype: Supplemental figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC4733034__SF2_2
 ndex: d4f597b1-dea0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -38,82 +47,25 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - RIGI
+  - DHX58
+  - IFIH1
   - IFNB1
   - IRF3
-  - IRF9
-  - TRIM27
-  - STAT3
   - IRF7
+  - SOAT1
   - STAT1
+  - STAT2
+  - STAT3
   - STAT4
   - STAT6
-  - STAT5B
   - STAT5A
-  - STAT2
-genes:
-- word: (IFNB
-  symbol: IFNB
-  source: bioentities_symbol
-  hgnc_symbol: IFNB1
-  entrez: '3456'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF9
-  symbol: IRF9
-  source: hgnc_symbol
-  hgnc_symbol: IRF9
-  entrez: '10379'
-- word: RFP
-  symbol: RFP
-  source: hgnc_prev_symbol
-  hgnc_symbol: TRIM27
-  entrez: '5987'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: IRF7
-  symbol: IRF7
-  source: hgnc_symbol
-  hgnc_symbol: IRF7
-  entrez: '3665'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: Stat
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-chemicals: []
-diseases: []
-figid_alias: PMC4733034__SF2_2
-redirect_from: /figures/PMC4733034__SF2_2
-figtype: Supplemental figure
+  - STAT5B
+  - IRF9
+  - TRIM27
+  - irf3
+  - irf7
+  - stat1b
+  - stat4
+  - irf9
 ---

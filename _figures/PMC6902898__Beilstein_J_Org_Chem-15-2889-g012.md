@@ -1,5 +1,19 @@
 ---
 figid: PMC6902898__Beilstein_J_Org_Chem-15-2889-g012
+figtitle: Engineering of terpenoid pathways
+organisms:
+- Escherichia coli
+- Streptomyces coelicolor
+- Streptomyces lividans
+- Streptomyces avermitilis
+- Streptomyces albus
+- Sorangium cellulosum
+- Saccharomyces cerevisiae
+- uncultured actinomycete
+- NA
+- Homo sapiens
+pmcid: PMC6902898
+filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
 figlink: /pmc/articles/PMC6902898/figure/F11/
 number: F11
 caption: 'Engineering of terpenoid pathways. a) Metabolic network of terpenoid biosynthesis.
@@ -14,26 +28,23 @@ caption: 'Engineering of terpenoid pathways. a) Metabolic network of terpenoid b
   promoters were implemented to dynamically control the expression of MVA pathway
   genes and the terpene cyclase gene in order to prevent the accumulation of toxic
   FPP (9).'
-pmcid: PMC6902898
 papertitle: 'Bacterial terpene biosynthesis: challenges and opportunities for pathway
   engineering.'
 reftext: Eric J N Helfrich, et al. Beilstein J Org Chem. 2019;15:2889-2906.
-pmc_ranked_result_index: '100948'
-pathway_score: 0.8058385
-filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
-figtitle: Engineering of terpenoid pathways
 year: '2019'
-organisms:
-- uncultured actinomycete
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8058385
+figid_alias: PMC6902898__F11
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 - Streptomyces albus
-- Streptomyces coelicolor
-- Streptomyces lividans
-- Streptomyces avermitilis
-- Saccharomyces cerevisiae
-- Sorangium cellulosum
-- Escherichia coli
+redirect_from: /figures/PMC6902898__F11
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,58 +68,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PMVK
-  - MVD
-  - FES
-  - ISPD
+  - atoB
+  - ispH
+  - idi
+  - dxs
+  - ispE
+  - ispD
+  - ispF
+  - dxr
+  - ispG
+  - dppA
+  - ispB
   - Ac
   - H
   - pyruvate
   - terpenoids
   - isopentenols
   - FPP
-genes:
-- word: pmk
-  symbol: PMK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PMVK
-  entrez: '10654'
-- word: mpd
-  symbol: MPD
-  source: hgnc_alias_symbol
-  hgnc_symbol: MVD
-  entrez: '4597'
-- word: fps
-  symbol: FPS
-  source: hgnc_alias_symbol
-  hgnc_symbol: FES
-  entrez: '2242'
-- word: ispD
-  symbol: ISPD
-  source: hgnc_symbol
-  hgnc_symbol: ISPD
-  entrez: '729920'
-chemicals:
-- word: Ac
-  source: MESH
-  identifier: D000186
-- word: H
-  source: MESH
-  identifier: D006859
-- word: pyruvate
-  source: MESH
-  identifier: D011773
-- word: terpenoids
-  source: MESH
-  identifier: D013729
-- word: isopentenols
-  source: MESH
-  identifier: C056744
-- word: FPP
-  source: MESH
-  identifier: C039834
-diseases: []
-figid_alias: PMC6902898__F11
-redirect_from: /figures/PMC6902898__F11
-figtype: Figure
 ---

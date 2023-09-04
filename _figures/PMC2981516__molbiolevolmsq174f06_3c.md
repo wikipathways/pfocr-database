@@ -1,5 +1,11 @@
 ---
 figid: PMC2981516__molbiolevolmsq174f06_3c
+figtitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Simplest
+  Metazoans
+organisms:
+- NA
+pmcid: PMC2981516
+filename: molbiolevolmsq174f06_3c.jpg
 figlink: /pmc/articles/PMC2981516/figure/fig6/
 number: F6
 caption: Maximum parsimony phylogenetic tree (A) based on concatenated sequences of
@@ -12,20 +18,23 @@ caption: Maximum parsimony phylogenetic tree (A) based on concatenated sequences
   transcript (or a fragment thereof) match to a human protein. Many of the identified
   similarities, especially in the low-identity range, are shared domains of a human
   multidomain protein. Legend for panels (B) and (C) shown at the bottom.
-pmcid: PMC2981516
 papertitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Simplest
   Metazoans.
 reftext: Matija Harcet, et al. Mol Biol Evol. 2010 Dec;27(12):2747-2756.
-pmc_ranked_result_index: '129260'
-pathway_score: 0.841461
-filename: molbiolevolmsq174f06_3c.jpg
-figtitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Simplest
-  Metazoans
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.841461
+figid_alias: PMC2981516__F6
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2981516__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,58 +56,28 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNXB
-  - ENG
-  - TNC
-  - TNR
+  - Me
+  - Su(Tpl)
+  - mle
+  - Hem
+  - Atpalpha
+  - an
+  - 'On'
+  - drg
+  - wp
+  - se
+  - sl
+  - St2
+  - tn
   - ELL
-  - TNN
-  - SDCBP2
   - CTNNBL1
-genes:
-- word: T:N
-  symbol: TN
-  source: bioentities_symbol
-  hgnc_symbol: TNXB
-  entrez: '7148'
-- word: end
-  symbol: END
-  source: hgnc_alias_symbol
-  hgnc_symbol: ENG
-  entrez: '2022'
-- word: T:N
-  symbol: TN
-  source: bioentities_symbol
-  hgnc_symbol: TNC
-  entrez: '3371'
-- word: T:N
-  symbol: TN
-  source: bioentities_symbol
-  hgnc_symbol: TNR
-  entrez: '7143'
-- word: ELL
-  symbol: ELL
-  source: hgnc_symbol
-  hgnc_symbol: ELL
-  entrez: '8178'
-- word: T:N
-  symbol: TN
-  source: bioentities_symbol
-  hgnc_symbol: TNN
-  entrez: '63923'
-- word: St.2
-  symbol: ST-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: SDCBP2
-  entrez: '27111'
-- word: nap
-  symbol: NAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: CTNNBL1
-  entrez: '56259'
-chemicals: []
-diseases: []
-figid_alias: PMC2981516__F6
-redirect_from: /figures/PMC2981516__F6
-figtype: Figure
+  - AN
+  - ST2
+  - SULT2A1
+  - IL1RL1
+  - SDCBP2
+  - TNC
+  - TNN
+  - TNR
+  - TNXB
 ---

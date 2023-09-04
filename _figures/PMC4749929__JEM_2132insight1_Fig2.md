@@ -1,21 +1,31 @@
 ---
 figid: PMC4749929__JEM_2132insight1_Fig2
+figtitle: Pumping the breaks on B cell development
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC4749929
+filename: JEM_2132insight1_Fig2.jpg
 figlink: /pmc/articles/PMC4749929/figure/fig2/
 number: F2
 caption: RAG-induced DSBs trigger a signalling pathway that culminates in the suppression
   of pre–BCR signals by the transcriptional repressor SPIC.
-pmcid: PMC4749929
 papertitle: Pumping the breaks on B cell development.
 reftext: Stephen Desiderio. J Exp Med. 2016 Feb 8;213(2):140-140.
-pmc_ranked_result_index: '31273'
-pathway_score: 0.9509872
-filename: JEM_2132insight1_Fig2.jpg
-figtitle: Pumping the breaks on B cell development
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9509872
+figid_alias: PMC4749929__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
+- Homo sapiens
+redirect_from: /figures/PMC4749929__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -29,52 +39,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Syk
+  - Blnk
+  - Igk-V
+  - Igkv3-11
+  - Igkv2-137
+  - Atm
+  - Tpm1
+  - Nfkb2
+  - Spic
+  - Serpinb6c
+  - Spi1
+  - Irf4
   - SYK
-  - SPIC
-  - IRF4
   - BLNK
-  - SPI1
+  - IGKV@
+  - IGKV1-5
+  - IGKV2-29
   - ATM
   - NFKB2
-genes:
-- word: SYK
-  symbol: SYK
-  source: hgnc_symbol
-  hgnc_symbol: SYK
-  entrez: '6850'
-- word: SPIC
-  symbol: SPIC
-  source: hgnc_symbol
-  hgnc_symbol: SPIC
-  entrez: '121599'
-- word: IRF4
-  symbol: IRF4
-  source: hgnc_symbol
-  hgnc_symbol: IRF4
-  entrez: '3662'
-- word: BLNK
-  symbol: BLNK
-  source: hgnc_symbol
-  hgnc_symbol: BLNK
-  entrez: '29760'
-- word: PU.1
-  symbol: PU.1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SPI1
-  entrez: '6688'
-- word: ATM
-  symbol: ATM
-  source: hgnc_symbol
-  hgnc_symbol: ATM
-  entrez: '472'
-- word: NF-KB2
-  symbol: NF-kB2
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-chemicals: []
-diseases: []
-figid_alias: PMC4749929__F2
-redirect_from: /figures/PMC4749929__F2
-figtype: Figure
+  - SPIC
+  - SPI1
+  - IRF4
 ---

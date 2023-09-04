@@ -1,5 +1,12 @@
 ---
 figid: PMC7144005__microorganisms-08-00437-g005a
+figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigations
+  of Methane Metabolism in Methylosinus trichosporium OB3b
+organisms:
+- Methylosinus trichosporium OB3b
+- Methylosinus trichosporium
+pmcid: PMC7144005
+filename: microorganisms-08-00437-g005a.jpg
 figlink: .na.character
 number: F5a
 caption: 'The flux distribution maps between the serine cycle, EMC pathway and TCA
@@ -17,36 +24,22 @@ caption: 'The flux distribution maps between the serine cycle, EMC pathway and T
   to be produced from succinyl-CoA via forward 2-oxoacid ferredoxin synthase reaction
   only; (f) both irreversible 2-oxoglutarate reaction and 2-oxoacid ferredoxin synthase
   reactions are allowed to carry flux.'
-pmcid: PMC7144005
 papertitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigations
   of Methane Metabolism in Methylosinus trichosporium OB3b.
 reftext: Sanzhar Naizabekov, et al. Microorganisms. 2020 Mar;8(3):437.
-pmc_ranked_result_index: '20652'
-pathway_score: 0.9594504
-filename: microorganisms-08-00437-g005a.jpg
-figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigations
-  of Methane Metabolism in Methylosinus trichosporium OB3b
 year: '2020'
-organisms:
-- type I methanotrophic bacterium
-- Methylotuvimicrobium alcaliphilum 20Z
-- Methylocystis parvus OBBP
-- methanotrophic bacterium
-- Methylococcus capsulatus str. Bath
-- Methylotuvimicrobium alcaliphilum
-- Methylorubrum extorquens AM1
-- Geobacter metallireducens
-- Methylocystaceae
-- type II methanotrophic bacterium
-- Methylococcaceae
-- Methylococcus capsulatus
-- Methylosinus trichosporium
-- Escherichia coli
-- Methylosinus trichosporium OB3b
-- Methylotuvimicrobium buryatense 5G
-- Methylocystis sp. SB2
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9594504
+figid_alias: PMC7144005__F5a
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7144005__F5a
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -75,10 +68,6 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - PHB
-  - WDTC1
-  - MAL
-  - PAEP
-  - PHB
   - H4Folate
   - 25-ethvimalonyi-CoA
   - acetyl-CoA
@@ -98,95 +87,4 @@ schema-jsonld:
   - succinyl
   - methylmalyl-CoA
   - iso-citrate
-genes:
-- word: PHB
-  symbol: PHB
-  source: hgnc_symbol
-  hgnc_symbol: PHB
-  entrez: '5245'
-- word: adp
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: adp
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: MAL
-  symbol: MAL
-  source: hgnc_symbol
-  hgnc_symbol: MAL
-  entrez: '4118'
-- word: PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-chemicals:
-- word: PHB
-  source: MESH
-  identifier: C514366
-- word: H4Folate
-  source: MESH
-  identifier: D005492
-- word: 25-ethvimalonyi-CoA
-  source: MESH
-  identifier: C065987
-- word: acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: serine
-  source: MESH
-  identifier: C047902
-- word: hydroxypyruvate
-  source: MESH
-  identifier: C012375
-- word: glyoxylate glycine
-  source: MESH
-  identifier: D006038
-- word: 25-ethylmalonyl-CoA
-  source: MESH
-  identifier: C102829
-- word: malyl-CoA
-  source: MESH
-  identifier: C042519
-- word: Serine
-  source: MESH
-  identifier: C047902
-- word: methylsuccinyl-CoA
-  source: MESH
-  identifier: C102828
-- word: 2-phosphoglycerate
-  source: MESH
-  identifier: C008885
-- word: succinate
-  source: MESH
-  identifier: D013386
-- word: mesaconyl-CoA
-  source: MESH
-  identifier: C065987
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: pyruvate
-  source: MESH
-  identifier: D011773
-- word: citrate
-  source: MESH
-  identifier: C102006
-- word: succinyl
-  source: MESH
-  identifier: C035687
-- word: methylmalyl-CoA
-  source: MESH
-  identifier: C065987
-- word: iso-citrate
-  source: MESH
-  identifier: C102006
-diseases: []
-figid_alias: PMC7144005__F5a
-redirect_from: /figures/PMC7144005__F5a
-figtype: Figure
 ---

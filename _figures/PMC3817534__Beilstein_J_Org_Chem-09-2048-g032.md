@@ -1,42 +1,50 @@
 ---
 figid: PMC3817534__Beilstein_J_Org_Chem-09-2048-g032
+figtitle: 'Postulated biosynthetic pathway for the formation of 156 (adopted from
+  George) '
+organisms:
+- Saccharomyces cerevisiae
+- herbal medicine
+- Agaricus bisporus
+- Aspergillus nidulans
+- Penicillium expansum
+- Hericium erinaceus
+- Chaetomium globosum
+- Viola sororia
+- Fusarium culmorum
+- Aspergillus awamori
+- Stachybotrys sp.
+- Berberis darwinii
+- Berberis empetrifolia
+- Sarcocapnos enneaphylla
+- Staphylococcus aureus
+- Streptomyces rishiriensis
+- Lentzea albida
+- Human immunodeficiency virus 1
+- H1N1 subtype
+- Homo sapiens
+- Lycogala epidendrum
+pmcid: PMC3817534
+filename: Beilstein_J_Org_Chem-09-2048-g032.jpg
 figlink: /pmc/articles/PMC3817534/figure/C21/
 number: S21
 caption: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
   [].
-pmcid: PMC3817534
 papertitle: The chemistry of isoindole natural products.
 reftext: Klaus Speck, et al. Beilstein J Org Chem. 2013;9:2048-2078.
-pmc_ranked_result_index: '22300'
-pathway_score: 0.75497
-filename: Beilstein_J_Org_Chem-09-2048-g032.jpg
-figtitle: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
-  []
 year: '2013'
-organisms:
-- Aspergillus awamori
-- H1N1 subtype
-- Human immunodeficiency virus 1
-- Staphylococcus aureus
-- Viola sororia
-- herbal medicine
-- Aspergillus nidulans
-- Stachybotrys sp.
-- Berberis darwinii
-- Berberis empetrifolia
-- Penicillium expansum
-- Lycogala epidendrum
-- Chaetomium globosum
-- Sarcocapnos enneaphylla
-- Saccharomyces cerevisiae
-- Agaricus bisporus
-- Fusarium culmorum
-- Lentzea albida
-- Streptomyces rishiriensis
-- Hericium erinaceus
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.75497
+figid_alias: PMC3817534__S21
+figtype: Scheme
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3817534__S21
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -50,36 +58,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IPP
   - farnesyl pyrophosphate
   - DMAPP
   - orsellinic acid
   - OH polyene
   - 'terpenoid  Me '
-genes:
-- word: IPP
-  symbol: IPP
-  source: hgnc_symbol
-  hgnc_symbol: IPP
-  entrez: '3652'
-chemicals:
-- word: farnesyl pyrophosphate
-  source: MESH
-  identifier: C004808
-- word: DMAPP
-  source: MESH
-  identifier: C043060
-- word: orsellinic acid
-  source: MESH
-  identifier: C501612
-- word: OH polyene
-  source: MESH
-  identifier: D011090
-- word: 'terpenoid  Me '
-  source: MESH
-  identifier: D013729
-diseases: []
-figid_alias: PMC3817534__S21
-redirect_from: /figures/PMC3817534__S21
-figtype: Scheme
 ---

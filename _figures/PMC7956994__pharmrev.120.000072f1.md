@@ -1,5 +1,10 @@
 ---
 figid: PMC7956994__pharmrev.120.000072f1
+figtitle: Complement system with focus on most relevant targets for therapeutic inhibition
+organisms:
+- NA
+pmcid: PMC7956994
+filename: pharmrev.120.000072f1.jpg
 figlink: pmc/articles/PMC7956994/figure/F1/
 number: F1
 caption: An overview of the complement system with focus on most relevant targets
@@ -49,19 +54,22 @@ caption: An overview of the complement system with focus on most relevant target
   figure is a modified version of one published in J Leukoc Biol (2014) 101:193–204.
   Barratt-Due A, Pischke SE, Nilsson PH, Espevik T, Mollnes TE. Copyright by Mollnes
   TE.)
-pmcid: PMC7956994
 papertitle: 'Therapeutic Targeting of the Complement System: From Rare Diseases to
   Pandemics.'
 reftext: Peter Garred, et al. Pharmacol Rev. 2021 Apr;73(2):792-827.
-pmc_ranked_result_index: '124179'
-pathway_score: 0.9020092
-filename: pharmrev.120.000072f1.jpg
-figtitle: Complement system with focus on most relevant targets for therapeutic inhibition
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9020092
+figid_alias: PMC7956994__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC7956994__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -122,303 +130,50 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CRP
+  - CSRP1
+  - PPIAP10
+  - CD40LG
   - PTX3
+  - PITX3
   - FH
   - C3
   - MBL2
+  - MBL3P
   - SERPING1
   - C4A
-  - C4B
   - C2
+  - C4B
   - C4BPA
+  - C4BPB
   - CAPG
+  - CD46
+  - ERVK-3
   - CD55
   - CR1
+  - CRIPTO
+  - SCGB2B3P
+  - VSIG4
+  - ERVK-2
+  - CRIPTO3
   - C3AR1
+  - CRIPTOP4
   - C5
   - C5AR1
+  - CA1
+  - EIF6
+  - NPDC1
   - C6
   - C9
   - CD59
   - C7
   - C5AR2
+  - SFXN1
+  - C8A
   - C8B
   - C8G
-  - C8A
   - FB
   - C1-INH
   - HiO
   - Ba
   - FD C3 FH
-genes:
-- word: CRP
-  symbol: CRP
-  source: hgnc_symbol
-  hgnc_symbol: CRP
-  entrez: '1401'
-- word: PTX3
-  symbol: PTX3
-  source: hgnc_symbol
-  hgnc_symbol: PTX3
-  entrez: '5806'
-- word: FH
-  symbol: FH
-  source: hgnc_symbol
-  hgnc_symbol: FH
-  entrez: '2271'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: MBL
-  symbol: MBL
-  source: hgnc_prev_symbol
-  hgnc_symbol: MBL2
-  entrez: '4153'
-- word: C1-INH
-  symbol: C1-INH
-  source: hgnc_alias_symbol
-  hgnc_symbol: SERPING1
-  entrez: '710'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C1-INH
-  symbol: C1-INH
-  source: hgnc_alias_symbol
-  hgnc_symbol: SERPING1
-  entrez: '710'
-- word: C4a
-  symbol: C4A
-  source: hgnc_symbol
-  hgnc_symbol: C4A
-  entrez: '720'
-- word: FH
-  symbol: FH
-  source: hgnc_symbol
-  hgnc_symbol: FH
-  entrez: '2271'
-- word: C4b
-  symbol: C4B
-  source: hgnc_symbol
-  hgnc_symbol: C4B
-  entrez: '721'
-- word: C2
-  symbol: C2
-  source: hgnc_symbol
-  hgnc_symbol: C2
-  entrez: '717'
-- word: C4b
-  symbol: C4B
-  source: hgnc_symbol
-  hgnc_symbol: C4B
-  entrez: '721'
-- word: C2
-  symbol: C2
-  source: hgnc_symbol
-  hgnc_symbol: C2
-  entrez: '717'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C4BP
-  symbol: C4BP
-  source: hgnc_prev_symbol
-  hgnc_symbol: C4BPA
-  entrez: '722'
-- word: MCP
-  symbol: MCP
-  source: hgnc_alias_symbol
-  hgnc_symbol: CAPG
-  entrez: '822'
-- word: C4BP
-  symbol: C4BP
-  source: hgnc_prev_symbol
-  hgnc_symbol: C4BPA
-  entrez: '722'
-- word: C3b
-  symbol: C3b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: DAF
-  symbol: DAF
-  source: hgnc_prev_symbol
-  hgnc_symbol: CD55
-  entrez: '1604'
-- word: CR1
-  symbol: CR1
-  source: hgnc_symbol
-  hgnc_symbol: CR1
-  entrez: '1378'
-- word: C3b
-  symbol: C3b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C4b
-  symbol: C4B
-  source: hgnc_symbol
-  hgnc_symbol: C4B
-  entrez: '721'
-- word: C3b
-  symbol: C3b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3
-  symbol: C3
-  source: hgnc_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3a
-  symbol: C3a
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3a
-  symbol: C3a
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3a
-  symbol: C3a
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3
-  entrez: '718'
-- word: C3aR
-  symbol: C3AR
-  source: hgnc_alias_symbol
-  hgnc_symbol: C3AR1
-  entrez: '719'
-- word: C5
-  symbol: C5
-  source: hgnc_symbol
-  hgnc_symbol: C5
-  entrez: '727'
-- word: C5aR1
-  symbol: C5AR1
-  source: hgnc_symbol
-  hgnc_symbol: C5AR1
-  entrez: '728'
-- word: C6
-  symbol: C6
-  source: hgnc_symbol
-  hgnc_symbol: C6
-  entrez: '729'
-- word: C4b
-  symbol: C4B
-  source: hgnc_symbol
-  hgnc_symbol: C4B
-  entrez: '721'
-- word: C9
-  symbol: C9
-  source: hgnc_symbol
-  hgnc_symbol: C9
-  entrez: '735'
-- word: CD59
-  symbol: CD59
-  source: hgnc_symbol
-  hgnc_symbol: CD59
-  entrez: '966'
-- word: C5b
-  symbol: C5b
-  source: hgnc_alias_symbol
-  hgnc_symbol: C5
-  entrez: '727'
-- word: C6
-  symbol: C6
-  source: hgnc_symbol
-  hgnc_symbol: C6
-  entrez: '729'
-- word: C7
-  symbol: C7
-  source: hgnc_symbol
-  hgnc_symbol: C7
-  entrez: '730'
-- word: C5aR2
-  symbol: C5AR2
-  source: hgnc_symbol
-  hgnc_symbol: C5AR2
-  entrez: '27202'
-- word: C9
-  symbol: C9
-  source: hgnc_symbol
-  hgnc_symbol: C9
-  entrez: '735'
-- word: C7
-  symbol: C7
-  source: hgnc_symbol
-  hgnc_symbol: C7
-  entrez: '730'
-- word: C9
-  symbol: C9
-  source: hgnc_symbol
-  hgnc_symbol: C9
-  entrez: '735'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C5
-  entrez: '727'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C7
-  entrez: '730'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C8B
-  entrez: '732'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C8G
-  entrez: '733'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C9
-  entrez: '735'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C6
-  entrez: '729'
-- word: MAC
-  symbol: MAC
-  source: bioentities_symbol
-  hgnc_symbol: C8A
-  entrez: '731'
-chemicals:
-- word: FB
-  source: MESH
-  identifier: C556348
-- word: C1-INH
-  source: MESH
-  identifier: D050718
-- word: HiO
-  source: MESH
-  identifier: C471213
-- word: Ba
-  source: MESH
-  identifier: D001464
-diseases:
-- word: FD C3 FH
-  source: MESH
-  identifier: D004402
-figid_alias: PMC7956994__F1
-redirect_from: /figures/PMC7956994__F1
-figtype: Figure
 ---

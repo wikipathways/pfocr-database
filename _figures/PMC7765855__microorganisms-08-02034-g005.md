@@ -1,21 +1,29 @@
 ---
 figid: PMC7765855__microorganisms-08-02034-g005
+figtitle: Origin of SEK90
+organisms:
+- NA
+pmcid: PMC7765855
+filename: microorganisms-08-02034-g005.jpg
 figlink: pmc/articles/PMC7765855/figure/microorganisms-08-02034-f005/
 number: F5
 caption: Origin of SEK90.
-pmcid: PMC7765855
 papertitle: Targeted Genome Mining—From Compound Discovery to Biosynthetic Pathway
   Elucidation.
 reftext: Nils Gummerlich, et al. Microorganisms. 2020 Dec;8(12):2034.
-pmc_ranked_result_index: '47467'
-pathway_score: 0.8806439
-filename: microorganisms-08-02034-g005.jpg
-figtitle: Origin of SEK90
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8806439
+figid_alias: PMC7765855__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7765855__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -31,19 +39,4 @@ schema-jsonld:
   - Acetyl-CoA
   - Malonyl-CoA
   - O
-genes: []
-chemicals:
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Malonyl-CoA
-  source: MESH
-  identifier: D008316
-- word: O
-  source: MESH
-  identifier: D013481
-diseases: []
-figid_alias: PMC7765855__F5
-redirect_from: /figures/PMC7765855__F5
-figtype: Figure
 ---

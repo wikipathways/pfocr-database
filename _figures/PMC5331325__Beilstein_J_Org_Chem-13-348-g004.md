@@ -1,5 +1,11 @@
 ---
 figid: PMC5331325__Beilstein_J_Org_Chem-13-348-g004
+figtitle: Schematic of the biosynthetic pathway leading to erythromycin A (1) in the
+  bacterium Saccharopolyspora erythraea
+organisms:
+- NA
+pmcid: PMC5331325
+filename: Beilstein_J_Org_Chem-13-348-g004.jpg
 figlink: /pmc/articles/PMC5331325/figure/F3/
 number: F3
 caption: Schematic of the biosynthetic pathway leading to erythromycin A (1) in the
@@ -16,19 +22,21 @@ caption: Schematic of the biosynthetic pathway leading to erythromycin A (1) in 
   is color-coded to match the module responsible). Following release of the chain
   from the PKS, the first free intermediate, 6-deoxyerythronolide B, is further modified
   by a series of post-PKS enzymes to yield the final, bioactive metabolite.
-pmcid: PMC5331325
 papertitle: 'Polyketide stereocontrol: a study in chemical biology.'
 reftext: Kira J Weissman. Beilstein J Org Chem. 2017;13:348-371.
-pmc_ranked_result_index: '126881'
-pathway_score: 0.7818424
-filename: Beilstein_J_Org_Chem-13-348-g004.jpg
-figtitle: Schematic of the biosynthetic pathway leading to erythromycin A (1) in the
-  bacterium Saccharopolyspora erythraea
 year: '2017'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7818424
+figid_alias: PMC5331325__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC5331325__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,42 +62,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SON
-  - ENG
-  - NME2
-  - NDUFAB1
+  - dh
+  - Kr
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
+  - te
+  - Son
+  - jigr1
+  - 'On'
+  - ome
   - 6-deoxyerythronolide B
   - erythromycin A
-genes:
-- word: Son
-  symbol: SON
-  source: hgnc_symbol
-  hgnc_symbol: SON
-  entrez: '6651'
-- word: END
-  symbol: END
-  source: hgnc_alias_symbol
-  hgnc_symbol: ENG
-  entrez: '2022'
-- word: NME2
-  symbol: NME2
-  source: hgnc_symbol
-  hgnc_symbol: NME2
-  entrez: '4831'
-- word: ACP
-  symbol: ACP
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDUFAB1
-  entrez: '4706'
-chemicals:
-- word: 6-deoxyerythronolide B
-  source: MESH
-  identifier: C034277
-- word: erythromycin A
-  source: MESH
-  identifier: D004917
-diseases: []
-figid_alias: PMC5331325__F3
-redirect_from: /figures/PMC5331325__F3
-figtype: Figure
 ---

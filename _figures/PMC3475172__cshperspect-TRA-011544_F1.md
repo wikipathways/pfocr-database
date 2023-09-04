@@ -1,5 +1,10 @@
 ---
 figid: PMC3475172__cshperspect-TRA-011544_F1
+figtitle: Model of canonical eukaryotic translation initiation pathway
+organisms:
+- NA
+pmcid: PMC3475172
+filename: cshperspect-TRA-011544_F1.jpg
 figlink: /pmc/articles/PMC3475172/figure/A011544F1/
 number: F1
 caption: Model of canonical eukaryotic translation initiation pathway. The pathway
@@ -17,19 +22,23 @@ caption: Model of canonical eukaryotic translation initiation pathway. The pathw
   which can begin the elongation phase of protein synthesis. Throughout, GTP is depicted
   as a green ball and GDP as a red ball. (Modified from ; reproduced, with permission,
   from the author.)
-pmcid: PMC3475172
 papertitle: 'The Mechanism of Eukaryotic Translation Initiation: New Insights and
   Challenges.'
 reftext: Alan G. Hinnebusch, et al. Cold Spring Harb Perspect Biol. 2012 Oct;4(10):a011544.
-pmc_ranked_result_index: '135628'
-pathway_score: 0.7664863
-filename: cshperspect-TRA-011544_F1.jpg
-figtitle: Model of canonical eukaryotic translation initiation pathway
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7664863
+figid_alias: PMC3475172__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3475172__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,38 +65,45 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SLTM
-  - EIF2S3
-  - WDTC1
+  - E3
+  - eIF2alpha
+  - eRF3
+  - kra
+  - Pka-R2
+  - tc
+  - an
+  - eIF2beta
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - pAbp
+  - eIF2Bbeta
+  - eIF2Balpha
+  - E(spl)mgamma-HLH
+  - eIF2A
+  - aa
+  - ab
+  - Appl
+  - PDHA1
+  - DHTKD1
+  - SPTBN1
+  - TIMP1
+  - AN
   - ELF2
+  - EIF2S1
+  - EIF2S3
+  - EIF2S2
+  - ATP8A2
+  - WDTC1
+  - PABPC1
+  - SLC29A1
+  - EIF2B1
+  - EIF2B4
+  - EIF2B3
+  - EIF2B2
+  - EIF2B5
+  - EIF2A
+  - APP
+  - SUCLA2
   - Met
-genes:
-- word: Met
-  symbol: Met
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLTM
-  entrez: '79811'
-- word: eIF2
-  symbol: EIF2
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2S3
-  entrez: '1968'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: elF2
-  symbol: ELF2
-  source: hgnc_symbol
-  hgnc_symbol: ELF2
-  entrez: '1998'
-chemicals:
-- word: Met
-  source: MESH
-  identifier: D008715
-diseases: []
-figid_alias: PMC3475172__F1
-redirect_from: /figures/PMC3475172__F1
-figtype: Figure
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC4037924__molbiolevolmsr149f01_3c
+figtitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolution
+organisms:
+- Opisthokonta
+- Homo sapiens
+pmcid: PMC4037924
+filename: molbiolevolmsr149f01_3c.jpg
 figlink: /pmc/articles/PMC4037924/figure/fig1/
 number: F1
 caption: 'Schematic representation of Ca2+signaling machineries in animals and fungi.
@@ -20,45 +26,21 @@ caption: 'Schematic representation of Ca2+signaling machineries in animals and f
   SPCA, secretory pathway Ca2+ ATPase; STIM, stromal interaction molecule; TPC, two-pore
   channel; TRP, transient receptor potential channel; YVC1, yeast vacuolar channel
   protein.'
-pmcid: PMC4037924
 papertitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolution.
 reftext: Xinjiang Cai, et al. Mol Biol Evol. 2012 Jan;29(1):91-100.
-pmc_ranked_result_index: '142465'
-pathway_score: 0.9301097
-filename: molbiolevolmsr149f01_3c.jpg
-figtitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolution
 year: '2012'
-organisms:
-- Mus musculus
-- fungal sp. P2
-- Spizellomyces punctatus
-- Pyricularia grisea
-- Listeria monocytogenes
-- Amastigomonas sp.
-- Capsaspora owczarzaki
-- Allomyces macrogynus
-- Opisthokonta
-- Bilateria
-- Amphimedon queenslandica
-- Dictyostelium discoideum
-- Nematostella vectensis
-- Schizosaccharomyces pombe
-- Saccharomyces cerevisiae
-- Neurospora crassa
-- Thecamonas trahens
-- Apusozoa
-- Escherichia coli
-- Paramecium tetraurelia
-- Caenorhabditis elegans
-- Branchiostoma floridae
-- Branchiostoma lanceolatum
-- Monosiga brevicollis
-- Halalkalibacterium halodurans
-- Salpingoeca rosetta
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9301097
+figid_alias: PMC4037924__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
-- Bos taurus
+redirect_from: /figures/PMC4037924__F1
 ndex: e8199cf4-df03-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -89,105 +71,46 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CATSPER1
-  - RYR1
-  - ATP2A1
-  - TYRP1
-  - CA1
-  - MICA
-  - ATP2A2
-  - TLX2
+  - CATSPER2
+  - CATSPER3
+  - CATSPER4
+  - CATSPERB
+  - CATSPERD
+  - CATSPERG
+  - RASA1
+  - RGS6
+  - SLC24A1
+  - CNGA1
+  - CNGA2
+  - CNGA3
+  - CNGA4
+  - CNGB1
+  - CNGB3
+  - HCN1
+  - HCN2
+  - HCN3
+  - HCN4
+  - MID1
+  - MPG
+  - CA5A
   - CAV2
   - CAV1
-  - MID1
-  - ATP2A3
   - CAV3
-  - RASA1
-  - SLC24A1
+  - F7
+  - CA1
+  - ATP2A1
+  - ATP2A2
+  - ATP2A3
+  - ITPR1
+  - ITPR3
+  - RYR1
+  - RYR2
+  - RYR3
+  - CCDC6
+  - SLC25A19
+  - SLC24A5
+  - MICA
+  - NM
   - LETM1
-genes:
-- word: CatSper
-  symbol: CATSPER
-  source: hgnc_alias_symbol
-  hgnc_symbol: CATSPER1
-  entrez: '117144'
-- word: RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A1
-  entrez: '487'
-- word: TRP
-  symbol: TRP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TYRP1
-  entrez: '7306'
-- word: (Ca1?
-  symbol: CA1
-  source: hgnc_symbol
-  hgnc_symbol: CA1
-  entrez: '759'
-- word: MiCa
-  symbol: MICA
-  source: hgnc_symbol
-  hgnc_symbol: MICA
-  entrez: '100507436'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A2
-  entrez: '488'
-- word: NCX
-  symbol: NCX
-  source: hgnc_alias_symbol
-  hgnc_symbol: TLX2
-  entrez: '3196'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV2
-  entrez: '858'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV1
-  entrez: '857'
-- word: Mid1
-  symbol: MID1
-  source: hgnc_symbol
-  hgnc_symbol: MID1
-  entrez: '4281'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A3
-  entrez: '489'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV3
-  entrez: '859'
-- word: Gap
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: NC(K)X
-  symbol: NCKX
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC24A1
-  entrez: '9187'
-- word: Letm1
-  symbol: LETM1
-  source: hgnc_symbol
-  hgnc_symbol: LETM1
-  entrez: '3954'
-chemicals: []
-diseases: []
-figid_alias: PMC4037924__F1
-redirect_from: /figures/PMC4037924__F1
-figtype: Figure
+  - TLX2
 ---

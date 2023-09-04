@@ -1,5 +1,11 @@
 ---
 figid: PMC3109859__Fig6_REVRettie
+figtitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Disease
+  States'
+organisms:
+- Homo sapiens
+pmcid: PMC3109859
+filename: Fig6_REVRettie.jpg
 figlink: /pmc/articles/PMC3109859/figure/f6-0110124/
 number: F6
 caption: Steps where genetic mutations are linked to ichthyoses are illustrated. Mutations
@@ -8,20 +14,22 @@ caption: Steps where genetic mutations are linked to ichthyoses are illustrated.
   could modulate hepoxilin/trioxilin bioactivity in type 3 lamellar ichthyosis as
   indicated. (The omega position is highlighted in each case, suggesting a role for
   CYP4F22.)
-pmcid: PMC3109859
 papertitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Disease
   States.'
 reftext: Edward J. Kelly, et al. Mol Interv. 2011 Apr;11(2):124-132.
-pmc_ranked_result_index: '127953'
-pathway_score: 0.9286134
-filename: Fig6_REVRettie.jpg
-figtitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Disease
-  States'
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9286134
+figid_alias: PMC3109859__F6
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3109859__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -39,40 +47,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ALOX12B
   - ALOXE3
   - CYP4F22
-  - ALOX12B
   - Trioxilin A3
   - Arachidonic acid
   - Epoxide
-genes:
-- word: ALOXE3
-  symbol: ALOXE3
-  source: hgnc_symbol
-  hgnc_symbol: ALOXE3
-  entrez: '59344'
-- word: CYP4F22
-  symbol: CYP4F22
-  source: hgnc_symbol
-  hgnc_symbol: CYP4F22
-  entrez: '126410'
-- word: ALOX12B
-  symbol: ALOX12B
-  source: hgnc_symbol
-  hgnc_symbol: ALOX12B
-  entrez: '242'
-chemicals:
-- word: Trioxilin A3
-  source: MESH
-  identifier: C019121
-- word: Arachidonic acid
-  source: MESH
-  identifier: D001095
-- word: Epoxide
-  source: MESH
-  identifier: D004852
-diseases: []
-figid_alias: PMC3109859__F6
-redirect_from: /figures/PMC3109859__F6
-figtype: Figure
 ---

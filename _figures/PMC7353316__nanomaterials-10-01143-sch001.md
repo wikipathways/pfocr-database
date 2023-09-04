@@ -1,22 +1,30 @@
 ---
 figid: PMC7353316__nanomaterials-10-01143-sch001
+figtitle: Synthetic pathway for imidazolium/benzimidazolium salts 5–9
+organisms:
+- NA
+pmcid: PMC7353316
+filename: nanomaterials-10-01143-sch001.jpg
 figlink: pmc/articles/PMC7353316/figure/nanomaterials-10-01143-sch001/
 number: S1
 caption: Synthetic pathway for imidazolium/benzimidazolium salts 5–9.
-pmcid: PMC7353316
 papertitle: 'New Amphiphilic Imidazolium/Benzimidazolium Calix[4]arene Derivatives:
   Synthesis, Aggregation Behavior and Decoration of DPPC Vesicles for Suzuki Coupling
   in Aqueous Media.'
 reftext: Vladimir Burilov, et al. Nanomaterials (Basel). 2020 Jun;10(6):1143.
-pmc_ranked_result_index: '44441'
-pathway_score: 0.9564713
-filename: nanomaterials-10-01143-sch001.jpg
-figtitle: Synthetic pathway for imidazolium/benzimidazolium salts 5–9
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9564713
+figid_alias: PMC7353316__S1
+figtype: Scheme
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7353316__S1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -29,7 +37,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KL
+  - br
+  - rt
+  - oo
+  - mw
+  - ci
   - PHOH
   - AICI3, PhMe  Br
   - acetone
@@ -39,42 +51,4 @@ schema-jsonld:
   - imidazole
   - benzimidazole
   - CH
-genes:
-- word: КI
-  symbol: KL
-  source: hgnc_symbol
-  hgnc_symbol: KL
-  entrez: '9365'
-chemicals:
-- word: PHOH
-  source: ''
-  identifier: ''
-- word: AICI3, PhMe  Br
-  source: MESH
-  identifier: C084701
-- word: acetone
-  source: MESH
-  identifier: D000096
-- word: OH
-  source: MESH
-  identifier: C031356
-- word: CH20
-  source: MESH
-  identifier: C103208
-- word: CH3COOH
-  source: MESH
-  identifier: C526539
-- word: imidazole
-  source: MESH
-  identifier: C029899
-- word: benzimidazole
-  source: MESH
-  identifier: C031000
-- word: CH
-  source: MESH
-  identifier: C103208
-diseases: []
-figid_alias: PMC7353316__S1
-redirect_from: /figures/PMC7353316__S1
-figtype: Scheme
 ---

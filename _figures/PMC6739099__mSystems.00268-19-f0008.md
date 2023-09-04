@@ -1,24 +1,33 @@
 ---
 figid: PMC6739099__mSystems.00268-19-f0008
+figtitle: Identification of DEGs relevant to protein processing in the endoplasmic
+  reticulum pathway
+organisms:
+- NA
+pmcid: PMC6739099
+filename: mSystems.00268-19-f0008.jpg
 figlink: /pmc/articles/PMC6739099/figure/fig8/
 number: F8
 caption: Identification of DEGs relevant to protein processing in the endoplasmic
   reticulum pathway. Red boxes refer to genes with an associated unigene(s) that was/were
   upregulated in the BVECs.
-pmcid: PMC6739099
 papertitle: Transcriptome Profiling Analysis of Bovine Vaginal Epithelial Cell Response
   to an Isolated Lactobacillus Strain.
 reftext: Chunyu Niu, et al. mSystems. 2019 Sep-Oct;4(5):e00268-19.
-pmc_ranked_result_index: '113847'
-pathway_score: 0.8862942
-filename: mSystems.00268-19-f0008.jpg
-figtitle: Identification of DEGs relevant to protein processing in the endoplasmic
-  reticulum pathway
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8862942
+figid_alias: PMC6739099__F8
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC6739099__F8
 ndex: 21f2bf81-df17-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -33,202 +42,222 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ATF4
-  - HSP90B1
-  - BCAP31
-  - HERPUD1
-  - ATF6
-  - BAK1
-  - CALR
-  - HSPA5
+  - betaCOP
+  - Cnx14D
+  - Cnx99A
+  - Caf1-180
+  - elB
+  - pio
+  - pigeon
+  - crt
+  - Calr
+  - Go
+  - Ost
+  - Ost48
+  - Ostgamma
+  - Dad1
+  - OstDelta
+  - CG33303
+  - TRAM
+  - Nplp2
+  - Yod1
+  - Ero1L
+  - Taf8
+  - Ubqn
+  - Dsk
+  - Rad23
+  - sub
+  - Svip
+  - bip
+  - Hsc70-3
+  - Fs(3)Bak
+  - Atf6
+  - PEK
+  - rl
+  - be
+  - eIF2alpha
+  - eIF2beta
+  - Keap1
+  - cnc
+  - Rpn12
   - STUB1
+  - Chi
+  - hep
+  - park
+  - crc
+  - bsk
+  - Herp
+  - sip3
+  - Roc1a
+  - Had1
+  - Cul1
+  - fbp
+  - cop
+  - Yif1
+  - cid
+  - ci
+  - Sec23
+  - sel
+  - sei
+  - pag
+  - Pdi
+  - Rop
+  - Sec61beta
+  - cui
+  - ftz
+  - Ste12DOR
   - CANX
-  - FBP1
+  - BATF2
+  - MAN1B1
+  - POLA1
+  - RRBP1
+  - EIF3A
+  - CD109
+  - S100A10
+  - EXOSC3
+  - LMAN2
+  - CALCR
+  - CALR
+  - SLC6A8
+  - SERTAD1
+  - DDOST
+  - MCF2L
+  - HSP90B1
+  - TRAM1
+  - TICAM2
+  - TMED7-TICAM2
+  - S100B
+  - OTUB1
+  - PSMA1
+  - PSMA2
+  - PSMA3
+  - PSMA4
+  - PSMA5
+  - PSMA6
+  - PSMA7
+  - PSMA8
+  - PSMB1
+  - PSMB10
+  - PSMB2
+  - PSMB3
+  - PSMB4
+  - PSMB5
+  - PSMB6
+  - PSMB7
+  - PSMB8
+  - PSMB9
+  - PSMC1
+  - PSMC2
+  - PSMC3
+  - PSMC4
+  - PSMC5
+  - PSMC6
+  - PSMD1
+  - PSMD10
+  - PSMD11
+  - PSMD12
+  - PSMD13
+  - PSMD14
+  - PSMD2
+  - PSMD3
+  - PSMD4
+  - PSMD5
+  - PSMD6
+  - PSMD7
+  - PSMD8
+  - PSMD9
+  - PSME1
+  - PSME2
+  - PSME3
+  - PSMF1
+  - SEM1
+  - USP5
+  - EDEM1
   - SLC26A4
-  - EIF2AK3
-  - RBX1
+  - PTGDS
+  - SARAF
+  - UBQLN2
+  - UBQLN1
+  - BCAP31
+  - TRAP
+  - ACP5
+  - CD40LG
+  - TRAF2
+  - TRRAP
+  - TDRD7
+  - SCYL1
+  - ZUP1
+  - PAG1
   - SVIP
-  - SYVN1
+  - GDF10
+  - HSPA5
+  - PRTN3
+  - BAK1
+  - ATF6
+  - EIF2AK3
+  - RBM14
+  - KANK2
+  - CACYBP
+  - TP53INP1
+  - TSACC
+  - RBM14-RBM4
+  - ELF2
+  - EIF2S1
+  - EIF2S3
+  - EIF2S2
+  - GABPA
+  - NFE2L2
+  - MARCHF6
+  - CENPV
+  - EPHB6
+  - DNLZ
+  - ATF4
+  - XBP1P1
   - MAPK8
   - MAPK9
   - MAPK10
   - LUM
-  - CARD16
-  - EDEM1
-  - ELF2
-  - PRKN
-  - TRRAP
   - SELENOS
-  - LMAN2
-  - CENPV
+  - DERL1
+  - SEL1L
+  - HERPUD1
+  - SYVN1
+  - RBX1
+  - APEH
+  - CUL1
+  - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - DDIT3
+  - F8A1
+  - F8A2
+  - F8A3
+  - PRDX1
+  - PDCD1
+  - RPL17
+  - SNCA
+  - SPATA2
+  - RPL17-C18orf32
+  - P4HB
+  - PADI1
+  - PDIA2
+  - SEC1P
+  - GOLGA4
+  - MAP2K7
+  - CUL2
+  - CUL3
+  - CUL4A
+  - CUL4B
+  - CUL5
+  - CUL7
+  - SULT1E1
   - TRAM
   - Be
   - Amino
   - Kanehisa
   - oiquitia
   - SIP
-genes:
-- word: ATF4
-  symbol: ATF4
-  source: hgnc_symbol
-  hgnc_symbol: ATF4
-  entrez: '468'
-- word: GRP94
-  symbol: GRP94
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSP90B1
-  entrez: '7184'
-- word: Bap31
-  symbol: BAP31
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCAP31
-  entrez: '10134'
-- word: HERP
-  symbol: HERP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HERPUD1
-  entrez: '9709'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: Bak/Ba
-  symbol: BAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: BAK1
-  entrez: '578'
-- word: CRT
-  symbol: CRT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CALR
-  entrez: '811'
-- word: Bip
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: CHIP
-  symbol: CHIP
-  source: hgnc_alias_symbol
-  hgnc_symbol: STUB1
-  entrez: '10273'
-- word: CNX
-  symbol: CNX
-  source: hgnc_alias_symbol
-  hgnc_symbol: CANX
-  entrez: '821'
-- word: FBP
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: PDS
-  symbol: PDS
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC26A4
-  entrez: '5172'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: RBX1
-  symbol: RBX1
-  source: hgnc_symbol
-  hgnc_symbol: RBX1
-  entrez: '9978'
-- word: SVIP
-  symbol: SVIP
-  source: hgnc_symbol
-  hgnc_symbol: SVIP
-  entrez: '258010'
-- word: HRD1
-  symbol: HRD1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SYVN1
-  entrez: '84447'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: LUM
-  symbol: LUM
-  source: hgnc_symbol
-  hgnc_symbol: LUM
-  entrez: '4060'
-- word: CНOP
-  symbol: COP
-  source: hgnc_alias_symbol
-  hgnc_symbol: CARD16
-  entrez: '114769'
-- word: EDEM
-  symbol: EDEM
-  source: hgnc_alias_symbol
-  hgnc_symbol: EDEM1
-  entrez: '9695'
-- word: elF2.
-  symbol: ELF2
-  source: hgnc_symbol
-  hgnc_symbol: ELF2
-  entrez: '1998'
-- word: Parkin
-  symbol: parkin
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKN
-  entrez: '5071'
-- word: TRAP
-  symbol: TR-AP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRRAP
-  entrez: '8295'
-- word: VIMP
-  symbol: VIMP
-  source: hgnc_prev_symbol
-  hgnc_symbol: SELENOS
-  entrez: '55829'
-- word: VIP36
-  symbol: VIP36
-  source: hgnc_alias_symbol
-  hgnc_symbol: LMAN2
-  entrez: '10960'
-- word: p30
-  symbol: p30
-  source: hgnc_alias_symbol
-  hgnc_symbol: CENPV
-  entrez: '201161'
-chemicals:
-- word: TRAM
-  source: MESH
-  identifier: C411671
-- word: Be
-  source: ''
-  identifier: ''
-- word: Amino
-  source: MESH
-  identifier: D000596
-- word: Kanehisa
-  source: ''
-  identifier: ''
-diseases:
-- word: oiquitia
-  source: ''
-  identifier: ''
-- word: SIP
-  source: ''
-  identifier: ''
-figid_alias: PMC6739099__F8
-redirect_from: /figures/PMC6739099__F8
-figtype: Figure
 ---

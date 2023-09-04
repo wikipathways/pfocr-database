@@ -1,5 +1,11 @@
 ---
 figid: PMC4548049__JEM_2129insight4_Fig2
+figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3'
+organisms:
+- Homo sapiens
+- Human alphaherpesvirus 1
+pmcid: PMC4548049
+filename: JEM_2129insight4_Fig2.jpg
 figlink: /pmc/articles/PMC4548049/figure/fig2/
 number: F2
 caption: Mutations in six genes (TLR3, UNC93B1, TRIF, TRAF3, TBK1, and IRF3), all
@@ -12,19 +18,21 @@ caption: Mutations in six genes (TLR3, UNC93B1, TRIF, TRAF3, TBK1, and IRF3), al
   impaired IFN-α/β and/or IFN-λ production upon stimulation of TLR3 or infection with
   HSV-1. A mutation in the gene encoding IRF3 is described in the paper by Andersen
   et al.
-pmcid: PMC4548049
 papertitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3.'
 reftext: Shen-Ying Zhang, et al. J Exp Med. 2015 Aug 24;212(9):1342-1343.
-pmc_ranked_result_index: '55779'
-pathway_score: 0.9723404
-filename: JEM_2129insight4_Fig2.jpg
-figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IRF3'
 year: '2015'
-organisms:
-- Human alphaherpesvirus 1
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9723404
+figid_alias: PMC4548049__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4548049__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -46,58 +54,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IFIH1
   - TLR3
+  - UNC93B1
+  - TRIM69
+  - TICAM1
   - TRAF3
-  - IRF3
+  - RIGI
+  - IFIH1
   - CGAS
-  - DDX58
-  - IKBKE
   - TBK1
-genes:
-- word: MDA5
-  symbol: MDA-5
-  source: hgnc_alias_symbol
-  hgnc_symbol: IFIH1
-  entrez: '64135'
-- word: TLR3
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: TRAF3
-  symbol: TRAF3
-  source: hgnc_symbol
-  hgnc_symbol: TRAF3
-  entrez: '7187'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: CGAS
-  symbol: CGAS
-  source: hgnc_symbol
-  hgnc_symbol: CGAS
-  entrez: '115004'
-- word: RIG-I
-  symbol: RIG-I
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDX58
-  entrez: '23586'
-- word: IKK-e
-  symbol: IKKE
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKE
-  entrez: '9641'
-- word: TBK-1
-  symbol: TBK1
-  source: hgnc_symbol
-  hgnc_symbol: TBK1
-  entrez: '29110'
-chemicals: []
-diseases: []
-figid_alias: PMC4548049__F2
-redirect_from: /figures/PMC4548049__F2
-figtype: Figure
+  - IKBKE
+  - IRF3
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
 ---

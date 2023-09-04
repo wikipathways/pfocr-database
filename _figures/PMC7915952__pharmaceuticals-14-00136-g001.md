@@ -1,5 +1,12 @@
 ---
 figid: PMC7915952__pharmaceuticals-14-00136-g001
+figtitle: Canonical pathway of microRNA (miRNA) processing
+organisms:
+- Homo sapiens
+- Mus musculus
+- Caenorhabditis elegans
+pmcid: PMC7915952
+filename: pharmaceuticals-14-00136-g001.jpg
 figlink: pmc/articles/PMC7915952/figure/pharmaceuticals-14-00136-f001/
 number: F1
 caption: The canonical pathway of microRNA (miRNA) processing. In the nucleus, miRNA
@@ -11,20 +18,22 @@ caption: The canonical pathway of microRNA (miRNA) processing. In the nucleus, m
   is loaded onto the RNA-induced silencing complex (RISC) complex (including the AGO1-4
   protein), which then binds to the complementary target gene. Finally, the target
   mRNA can be suppressed through translation repression or degradation.
-pmcid: PMC7915952
 papertitle: MicroRNA-Based Therapeutics for Drug-Resistant Colorectal Cancer.
 reftext: Eunsun Jung, et al. Pharmaceuticals (Basel). 2021 Feb;14(2):136.
-pmc_ranked_result_index: '81269'
-pathway_score: 0.965447
-filename: pharmaceuticals-14-00136-g001.jpg
-figtitle: Canonical pathway of microRNA (miRNA) processing
 year: '2021'
-organisms:
-- Mus musculus
-- Caenorhabditis elegans
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.965447
+figid_alias: PMC7915952__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC7915952__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,37 +56,16 @@ schema-jsonld:
   keywords:
   - AGO2
   - DICER1
+  - TARBP2
+  - TARBP2P1
+  - NCOA6
   - DGCR8
+  - ERVW-4
   - DROSHA
-genes:
-- word: AGO2
-  symbol: AGO2
-  source: hgnc_symbol
-  hgnc_symbol: AGO2
-  entrez: '27161'
-- word: AGO2
-  symbol: AGO2
-  source: hgnc_symbol
-  hgnc_symbol: AGO2
-  entrez: '27161'
-- word: Dicer
-  symbol: Dicer
-  source: hgnc_alias_symbol
-  hgnc_symbol: DICER1
-  entrez: '23405'
-- word: DGCR8
-  symbol: DGCR8
-  source: hgnc_symbol
-  hgnc_symbol: DGCR8
-  entrez: '54487'
-- word: Drosha
-  symbol: DROSHA
-  source: hgnc_symbol
-  hgnc_symbol: DROSHA
-  entrez: '29102'
-chemicals: []
-diseases: []
-figid_alias: PMC7915952__F1
-redirect_from: /figures/PMC7915952__F1
-figtype: Figure
+  - Ago2
+  - Tarbp2
+  - Dgcr8
+  - Mela
+  - Gm42368
+  - Drosha
 ---

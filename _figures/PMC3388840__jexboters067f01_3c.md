@@ -1,5 +1,24 @@
 ---
 figid: PMC3388840__jexboters067f01_3c
+figtitle: Flavonoid biosynthetic pathway in Arabidopsis seed
+organisms:
+- Arabidopsis thaliana
+- Zea mays
+- Glycine max
+- Solanum lycopersicum
+- Malus domestica
+- Vitis vinifera
+- Brassica napus
+- Medicago truncatula
+- Fragaria x ananassa
+- Phaseolus vulgaris
+- Prunus dulcis
+- Rubus idaeus
+- Homo sapiens
+- Rattus norvegicus
+- Helicoverpa zea
+pmcid: PMC3388840
+filename: jexboters067f01_3c.jpg
 figlink: /pmc/articles/PMC3388840/figure/fig1/
 number: F1
 caption: The flavonoid biosynthetic pathway in Arabidopsis seed. The different steps
@@ -14,33 +33,28 @@ caption: The flavonoid biosynthetic pathway in Arabidopsis seed. The different s
   OMT, methyltransferase; PPO, polyphenol oxydase; rha, rhamnose; RT, rhamnosyltransferase;
   SGT, UDPglucose:sterol glucosyltransferase. Steps that still need to be characterized
   are indicated in green with a question mark.
-pmcid: PMC3388840
 papertitle: Metabolite profiling and quantitative genetics of natural variation for
   flavonoids in Arabidopsis .
 reftext: Jean-Marc Routaboul, et al. J Exp Bot. 2012 Jun 13;63(10):3749-3764.
-pmc_ranked_result_index: '20852'
-pathway_score: 0.9171736
-filename: jexboters067f01_3c.jpg
-figtitle: Flavonoid biosynthetic pathway in Arabidopsis seed
 year: '2012'
-organisms:
-- Rattus norvegicus
-- Vitis vinifera
-- Rubus idaeus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9171736
+figid_alias: PMC3388840__F1
+figtype: Figure
+organisms_ner:
 - Arabidopsis thaliana
-- Brassica napus
-- Fragaria x ananassa
+- Vitis vinifera
 - Malus domestica
-- Prunus dulcis
-- Glycine max
-- Medicago truncatula
-- Phaseolus vulgaris
 - Solanum lycopersicum
-- Zea mays
-- Helicoverpa zea
+- Glycine max
+- Rattus norvegicus
 - Homo sapiens
+redirect_from: /figures/PMC3388840__F1
 ndex: c7b4240f-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -65,31 +79,85 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - TT4
+  - MYB111
+  - MYB48
+  - CHI
+  - TT5
+  - MYB12
+  - MYB11
+  - F3H
+  - FLS1
+  - FLS3
   - MYBL2
-  - GSTT2
-  - GSTZ1
+  - DFR
+  - TT8
+  - TTG1
+  - OMT1
+  - LDOX
+  - TT2
+  - BAN
+  - TT1
+  - TT16
+  - GSTU24
+  - AHA10
+  - TT12
+  - SGT
+  - UGT80B1
+  - TOPP2
+  - CHS
+  - ANR
+  - PPO
+  - FLS
+  - MYB36
   - MYB
-  - GSTO2
-  - PPOX
-  - HHEX
-  - GSTO1
-  - GSTP1
-  - SGTA
-  - GSTM5
+  - gst
+  - LOC606710
+  - LOC778065
+  - CHS10
+  - CHS3
+  - CHI1A
+  - CHI2-A
+  - MYB12A
+  - GSTU41
+  - GSTU47
+  - MATE
+  - Mybl2
+  - Galnt13
+  - Myb
+  - Hhex
   - LYST
-  - GSTT2B
-  - DHX9
   - ANKRD11
-  - GSTM4
-  - GSTA5
-  - GSTA3
-  - GSTM1
+  - LMO1
+  - ODR4
+  - HHEX
+  - HEXA
+  - HEXB
+  - HEXD
+  - OGA
+  - DHX9
+  - HCL2
+  - SLCO6A1
+  - GSTK1
   - GSTA1
   - GSTA2
-  - GSTM2
-  - GSTK1
+  - GSTA3
   - GSTA4
+  - GSTA5
+  - GSTM1
+  - GSTM2
   - GSTM3
+  - GSTM4
+  - GSTM5
+  - GSTO1
+  - GSTO2
+  - GSTP1
+  - GSTT1
+  - GSTT2
+  - GSTZ1
+  - GSTT2B
+  - SGTA
+  - PPOX
   - Leucocyanidin
   - Dihydroquercetin
   - Naringenin
@@ -106,183 +174,4 @@ schema-jsonld:
   - Flavonol
   - Flavonols
   - Kaempferol
-genes:
-- word: (MYBL2)
-  symbol: MYBL2
-  source: hgnc_symbol
-  hgnc_symbol: MYBL2
-  entrez: '4605'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTT2
-  entrez: '2953'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTZ1
-  entrez: '2954'
-- word: (MYB12,MYB
-  symbol: MYB
-  source: hgnc_symbol
-  hgnc_symbol: MYB
-  entrez: '4602'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTO2
-  entrez: '119391'
-- word: PPO
-  symbol: PPO
-  source: hgnc_alias_symbol
-  hgnc_symbol: PPOX
-  entrez: '5498'
-- word: -hex
-  symbol: HEX
-  source: hgnc_alias_symbol
-  hgnc_symbol: HHEX
-  entrez: '3087'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTO1
-  entrez: '9446'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTP1
-  entrez: '2950'
-- word: SGT
-  symbol: SGT
-  source: hgnc_prev_symbol
-  hgnc_symbol: SGTA
-  entrez: '6449'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM5
-  entrez: '2949'
-- word: CHS
-  symbol: CHS
-  source: hgnc_alias_symbol
-  hgnc_symbol: LYST
-  entrez: '1130'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTT2B
-  entrez: '653689'
-- word: -rha
-  symbol: RHA
-  source: hgnc_alias_symbol
-  hgnc_symbol: DHX9
-  entrez: '1660'
-- word: t13
-  symbol: T13
-  source: hgnc_alias_symbol
-  hgnc_symbol: ANKRD11
-  entrez: '29123'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM4
-  entrez: '2948'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA5
-  entrez: '221357'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA3
-  entrez: '2940'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM1
-  entrez: '2944'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA1
-  entrez: '2938'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA2
-  entrez: '2939'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM2
-  entrez: '2946'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTK1
-  entrez: '373156'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTA4
-  entrez: '2941'
-- word: GST
-  symbol: GST
-  source: bioentities_symbol
-  hgnc_symbol: GSTM3
-  entrez: '2947'
-chemicals:
-- word: Leucocyanidin
-  source: MESH
-  identifier: C001532
-- word: Dihydroquercetin
-  source: MESH
-  identifier: C003377
-- word: Naringenin
-  source: MESH
-  identifier: C005273
-- word: Cyanidin
-  source: MESH
-  identifier: C017154
-- word: procyanidin
-  source: MESH
-  identifier: C017674
-- word: procyanidins
-  source: MESH
-  identifier: C017674
-- word: Isorhamnetin
-  source: MESH
-  identifier: C047368
-- word: 4-Coumaroyl-CoA
-  source: MESH
-  identifier: C058644
-- word: Dihydrokaempferol
-  source: MESH
-  identifier: C080220
-- word: Flavan-3-ols
-  source: MESH
-  identifier: C404987
-- word: Epicatechin
-  source: MESH
-  identifier: D002392
-- word: Epicatechin- hexoside
-  source: MESH
-  identifier: D002392
-- word: Quercetin
-  source: MESH
-  identifier: D011794
-- word: Flavonol
-  source: MESH
-  identifier: D044948
-- word: Flavonols
-  source: MESH
-  identifier: D044948
-- word: Kaempferol
-  source: MESH
-  identifier: D044949
-diseases: []
-figid_alias: PMC3388840__F1
-redirect_from: /figures/PMC3388840__F1
-figtype: Figure
 ---

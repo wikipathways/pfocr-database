@@ -1,5 +1,13 @@
 ---
 figid: PMC3179337__cshperspect-GRM-005553_F3
+figtitle: Gap junctional communication between the oocyte and the surrounding somatic
+  cells regulates oocyte meiotic maturation
+organisms:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
+pmcid: PMC3179337
+filename: cshperspect-GRM-005553_F3.jpg
 figlink: /pmc/articles/PMC3179337/figure/A005553F3/
 number: F3
 caption: Gap junctional communication between the oocyte and the surrounding somatic
@@ -28,21 +36,23 @@ caption: Gap junctional communication between the oocyte and the surrounding som
   gap junctions. The nuclear POU homeodomain protein is required for proper differentiation
   of gonadal sheath cells. (B, Adapted from  and ; reprinted with express permission
   from Qing-Yuan Sun and David Greenstein, respectively.)
-pmcid: PMC3179337
 papertitle: Developmental Control of Oocyte Maturation and Egg Activation in Metazoan
   Models.
 reftext: Jessica R. Von Stetina, et al. Cold Spring Harb Perspect Biol. 2011 Oct;3(10):a005553.
-pmc_ranked_result_index: '49782'
-pathway_score: 0.9252342
-filename: cshperspect-GRM-005553_F3.jpg
-figtitle: Gap junctional communication between the oocyte and the surrounding somatic
-  cells regulates oocyte meiotic maturation
 year: '2011'
-organisms:
-- Caenorhabditis elegans
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9252342
+figid_alias: PMC3179337__F3
+figtype: Figure
+organisms_ner:
 - Drosophila melanogaster
+- Caenorhabditis elegans
+redirect_from: /figures/PMC3179337__F3
 ndex: dff205c7-dea2-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -81,214 +91,38 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAPK10
-  - MAPK8
-  - GNAO1
-  - MAPK11
-  - MAPK9
-  - MAPK3
-  - GNAI1
-  - RASA1
-  - GNAS
-  - PRKAR1A
-  - PRKAR1B
-  - GNA15
-  - GNAI3
-  - MAPK1
-  - PRKACG
-  - GNA14
-  - GNAZ
-  - GNAQ
-  - GNAL
-  - GNA11
-  - PRKAR2B
-  - MAPK14
-  - PRKACB
-  - PRKAR2A
-  - PDE3A
-  - GNAI2
-  - PRKACA
-  - MAPK12
-  - VAV1
-  - MAPK13
-  - GNAT3
-  - GNAT2
-  - EPHA1
-  - GNAT1
-genes:
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAO1
-  entrez: '2775'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAI1
-  entrez: '2770'
-- word: Gap
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAS
-  entrez: '2778'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNA15
-  entrez: '2769'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAI3
-  entrez: '2773'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNA14
-  entrez: '9630'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAZ
-  entrez: '2781'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAQ
-  entrez: '2776'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAL
-  entrez: '2774'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNA11
-  entrez: '2767'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: -PDE3A
-  symbol: PDE3A
-  source: hgnc_symbol
-  hgnc_symbol: PDE3A
-  entrez: '5139'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAI2
-  entrez: '2771'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: VAV-1
-  symbol: VAV1
-  source: hgnc_symbol
-  hgnc_symbol: VAV1
-  entrez: '7409'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAT3
-  entrez: '346562'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAT2
-  entrez: '2780'
-- word: Eph
-  symbol: EPH
-  source: hgnc_alias_symbol
-  hgnc_symbol: EPHA1
-  entrez: '2041'
-- word: Ga,ON
-  symbol: Galpha
-  source: bioentities_symbol
-  hgnc_symbol: GNAT1
-  entrez: '2779'
-chemicals: []
-diseases: []
-figid_alias: PMC3179337__F3
-redirect_from: /figures/PMC3179337__F3
-figtype: Figure
+  - gprs
+  - Pkg21D
+  - gv
+  - Msp
+  - SP
+  - nmd
+  - 'On'
+  - 'Off'
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - MKP-4
+  - p38b
+  - rl
+  - Dab
+  - Appl
+  - Nrt
+  - Eph
+  - Sh
+  - acy-4
+  - kin-2
+  - ceh-18
+  - inx-22
+  - inx-14
+  - efn-2
+  - vav-1
+  - vab-1
 ---

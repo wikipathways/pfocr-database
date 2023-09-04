@@ -1,5 +1,10 @@
 ---
 figid: PMC3280674__RevDiabeticStud-08-403-001
+figtitle: Fatty Heart, Cardiac Damage, and Inflammation
+organisms:
+- NA
+pmcid: PMC3280674
+filename: RevDiabeticStud-08-403-001.jpg
 figlink: /pmc/articles/PMC3280674/figure/F1/
 number: F1
 caption: 'FAs enter the cardiomyocyte through specific transporters, and they are
@@ -23,18 +28,22 @@ caption: 'FAs enter the cardiomyocyte through specific transporters, and they ar
   MTP: microsomal triglyceride transfer protein. PM: plasma membrane. ROS: reactive
   oxygen species. Sph: sphingosine. SPT: serine palmitoyl-transferase. TCA: tricarboxylic
   acid cycle. TG: triglyceride.'
-pmcid: PMC3280674
 papertitle: Fatty Heart, Cardiac Damage, and Inflammation.
 reftext: Maria A. Guzzardi, et al. Rev Diabet Stud. 2011 Fall;8(3):403-417.
-pmc_ranked_result_index: '56399'
-pathway_score: 0.9692786
-filename: RevDiabeticStud-08-403-001.jpg
-figtitle: Fatty Heart, Cardiac Damage, and Inflammation
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9692786
+figid_alias: PMC3280674__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3280674__F1
 ndex: 6461d556-dec8-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -67,80 +76,78 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AGXT
+  - fabp
+  - Fatp1
+  - crq
+  - E(spl)mgamma-HLH
+  - AcCoAS
+  - Acsl
+  - Mtp
+  - Mtpbeta
+  - whd
+  - Hsl
+  - bmm
+  - beta-Spec
+  - betaTub56D
+  - betaTry
+  - anon-70Da
+  - Tg
+  - sph
+  - CG5390
+  - slow-phase
+  - CG15450
+  - Gpat4
+  - Gnpat
+  - Agpat1
+  - Agpat2
+  - Agpat4
+  - Agpat3
+  - Spt
+  - lace
+  - en
+  - Spt-I
+  - srp
+  - cer
+  - ATPsynbeta
+  - Atpalpha
+  - mit
+  - Tom40
+  - LPL
+  - LCP1
+  - CRABP1
+  - CRABP2
+  - FABP1
+  - FABP12
+  - FABP2
+  - FABP3
+  - FABP4
+  - FABP5
+  - FABP6
+  - FABP7
+  - FABP9
+  - PMP2
+  - RBP1
+  - RBP2
+  - RBP5
+  - RBP7
+  - SLC27A1
+  - CD36
+  - PLA2G15
+  - ACSS2
+  - ACCS
+  - APOB
+  - MT1B
+  - MTTP
+  - CPT1A
+  - CPT2
   - CHPT1
   - LIPE
   - PNPLA2
-  - SLC27A1
-  - LPL
-  - PPAT
-  - MTTP
-  - CD36
   - TG
-  - APOB
+  - SFTA3
+  - PPAT
+  - GPAM
+  - AGXT
+  - ATP8A2
   - Acyl-CoA
-genes:
-- word: SPT
-  symbol: SPT
-  source: hgnc_alias_symbol
-  hgnc_symbol: AGXT
-  entrez: '189'
-- word: CPT1
-  symbol: CPT1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHPT1
-  entrez: '56994'
-- word: HSL
-  symbol: HSL
-  source: hgnc_alias_symbol
-  hgnc_symbol: LIPE
-  entrez: '3991'
-- word: ATGL
-  symbol: ATGL
-  source: hgnc_alias_symbol
-  hgnc_symbol: PNPLA2
-  entrez: '57104'
-- word: FATP/
-  symbol: FATP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC27A1
-  entrez: '376497'
-- word: LpL
-  symbol: LPL
-  source: hgnc_symbol
-  hgnc_symbol: LPL
-  entrez: '4023'
-- word: GPAT/
-  symbol: GPAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: PPAT
-  entrez: '5471'
-- word: MTP
-  symbol: MTP
-  source: hgnc_prev_symbol
-  hgnc_symbol: MTTP
-  entrez: '4547'
-- word: CD36
-  symbol: CD36
-  source: hgnc_symbol
-  hgnc_symbol: CD36
-  entrez: '948'
-- word: TG
-  symbol: TG
-  source: hgnc_symbol
-  hgnc_symbol: TG
-  entrez: '7038'
-- word: ApoB
-  symbol: APOB
-  source: hgnc_symbol
-  hgnc_symbol: APOB
-  entrez: '338'
-chemicals:
-- word: Acyl-CoA
-  source: MESH
-  identifier: D000214
-diseases: []
-figid_alias: PMC3280674__F1
-redirect_from: /figures/PMC3280674__F1
-figtype: Figure
 ---

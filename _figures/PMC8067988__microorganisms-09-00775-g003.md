@@ -1,5 +1,11 @@
 ---
 figid: PMC8067988__microorganisms-09-00775-g003
+figtitle: Antiviral innate immunity, interactions with viral suppressors and bacterial
+  PTI (1)
+organisms:
+- NA
+pmcid: PMC8067988
+filename: microorganisms-09-00775-g003.jpg
 figlink: pmc/articles/PMC8067988/figure/microorganisms-09-00775-f003/
 number: F3
 caption: Antiviral innate immunity, interactions with viral suppressors and bacterial
@@ -35,19 +41,21 @@ caption: Antiviral innate immunity, interactions with viral suppressors and bact
   βC1 inhibits the MAP kinase cascade. The question marks indicate either events not
   well clarified or unknown. See  for the designations of the viral proteins. The
   figure was created with BioRender.com.
-pmcid: PMC8067988
 papertitle: Geminiviral Triggers and Suppressors of Plant Antiviral Immunity.
 reftext: Ruan M. Teixeira, et al. Microorganisms. 2021 Apr;9(4):775.
-pmc_ranked_result_index: '108329'
-pathway_score: 0.9461151
-filename: microorganisms-09-00775-g003.jpg
-figtitle: Antiviral innate immunity, interactions with viral suppressors and bacterial
-  PTI (1)
 year: '2021'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9461151
+figid_alias: PMC8067988__F3
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+redirect_from: /figures/PMC8067988__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -93,112 +101,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NEK2
+  - FLS2
+  - NIK1
   - BAK1
-  - AK1
-  - SLC44A4
-  - SERPINB6
-  - SPECC1
-  - MAPK14
-  - MAPK3
-  - MAPK8
-  - MAPK11
-  - MAPK13
-  - MAPK12
-  - MAPK1
-  - MAPK9
-  - MAPK10
-  - MAK
+  - REP
   - C2
-genes:
-- word: NIK1
-  symbol: NLK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NEK2
-  entrez: '4751'
-- word: ВАК1
-  symbol: BAK1
-  source: hgnc_symbol
-  hgnc_symbol: BAK1
-  entrez: '578'
-- word: ВАК1
-  symbol: AK1
-  source: hgnc_symbol
-  hgnc_symbol: AK1
-  entrez: '203'
-- word: ng22
-  symbol: NG22
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC44A4
-  entrez: '80736'
-- word: PTI
-  symbol: PTI
-  source: hgnc_alias_symbol
-  hgnc_symbol: SERPINB6
-  entrez: '5269'
-- word: NSP
-  symbol: NSP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SPECC1
-  entrez: '92521'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: МАРК
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: МАРК
-  symbol: MAK
-  source: hgnc_symbol
-  hgnc_symbol: MAK
-  entrez: '4117'
-- word: C2
-  symbol: C2
-  source: hgnc_symbol
-  hgnc_symbol: C2
-  entrez: '717'
-chemicals: []
-diseases: []
-figid_alias: PMC8067988__F3
-redirect_from: /figures/PMC8067988__F3
-figtype: Figure
+  - CNGC4
 ---

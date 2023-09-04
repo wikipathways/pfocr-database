@@ -1,5 +1,10 @@
 ---
 figid: PMC6316648__pharmaceuticals-11-00127-g003
+figtitle: Major mechanisms for hepcidin regulation
+organisms:
+- NA
+pmcid: PMC6316648
+filename: pharmaceuticals-11-00127-g003.jpg
 figlink: /pmc/articles/PMC6316648/figure/pharmaceuticals-11-00127-f003/
 number: F3
 caption: Major mechanisms for hepcidin regulation. Serum and tissue iron induce hepcidin
@@ -25,18 +30,21 @@ caption: Major mechanisms for hepcidin regulation. Serum and tissue iron induce 
   SMAD, Small Mothers Against Decapentaplegic; HFE, high iron (Fe); HJV, hemojuvelin;
   TfR2, transferrin receptor 2; JAK, Janus kinase; STAT, Signal Transducer and Activator
   of Transcription.
-pmcid: PMC6316648
 papertitle: Hepcidin Therapeutics.
 reftext: Angeliki Katsarou, et al. Pharmaceuticals (Basel). 2018 Dec;11(4):127.
-pmc_ranked_result_index: '22363'
-pathway_score: 0.9611003
-filename: pharmaceuticals-11-00127-g003.jpg
-figtitle: Major mechanisms for hepcidin regulation
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9611003
+figid_alias: PMC6316648__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6316648__F3
 ndex: e0135b3d-ded0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -71,301 +79,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SMAD7
-  - BMP8A
-  - SMAD9
-  - BMP10
-  - SMAD6
-  - GDF6
-  - SMAD5
-  - GDF2
+  - BMP6
+  - ERFE
   - BMP2
-  - GDF7
-  - GDF1
+  - TF
   - IL6
+  - HJV
+  - JAK1
+  - JAK2
+  - TFR2
+  - STAT3
+  - SMAD4
+  - SMAD1
+  - GARS1
+  - SMAD5
+  - SMAD6
+  - SMAD7
+  - SMAD9
+  - SMAD2
+  - SMAD3
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
   - HAMP
   - HFE
-  - HFE2
-  - BMP15
-  - GDF3
-  - BMP6
-  - SMAD4
-  - ERFE
-  - STAT2
   - BMP1
-  - SMAD1
-  - GDF5
-  - SMAD3
-  - STAT6
-  - STAT3
-  - TF
-  - TFR2
-  - TMPRSS6
-  - JAK2
-  - SMAD2
-  - STAT5A
-  - JAK1
+  - BMP3
   - BMP4
   - BMP5
-  - STAT5B
-  - BMP3
-  - STAT1
-  - STAT4
   - BMP7
+  - BMP8A
   - BMP8B
+  - BMP10
+  - BMP15
+  - GDF1
+  - GDF2
+  - GDF3
+  - GDF5
+  - GDF6
+  - GDF7
+  - TMPRSS6
   - Fe3+
-genes:
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8A
-  entrez: '353500'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP10
-  entrez: '27302'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF6
-  entrez: '392255'
-- word: SMAD1/5/8
-  symbol: SMAD5
-  source: hgnc_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF2
-  entrez: '2658'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP2
-  entrez: '650'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF7
-  entrez: '151449'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: HAMP
-  symbol: HAMP
-  source: hgnc_symbol
-  hgnc_symbol: HAMP
-  entrez: '57817'
-- word: HFE
-  symbol: HFE
-  source: hgnc_symbol
-  hgnc_symbol: HFE
-  entrez: '3077'
-- word: HJV
-  symbol: HJV
-  source: hgnc_alias_symbol
-  hgnc_symbol: HFE2
-  entrez: '148738'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP15
-  entrez: '9210'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: (BMP6
-  symbol: BMP6
-  source: hgnc_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: ERFE
-  symbol: ERFE
-  source: hgnc_symbol
-  hgnc_symbol: ERFE
-  entrez: '151176'
-- word: SMAD1/5/8
-  symbol: SMAD8
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: BMP2
-  symbol: BMP2
-  source: hgnc_symbol
-  hgnc_symbol: BMP2
-  entrez: '650'
-- word: SMAD4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP1
-  entrez: '649'
-- word: SMAD1/5/8SMAD4
-  symbol: SMAD1
-  source: hgnc_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF5
-  entrez: '8200'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: Tf
-  symbol: TF
-  source: hgnc_symbol
-  hgnc_symbol: TF
-  entrez: '7018'
-- word: TFR2
-  symbol: TFR2
-  source: hgnc_symbol
-  hgnc_symbol: TFR2
-  entrez: '7036'
-- word: TMPRSS6
-  symbol: TMPRSS6
-  source: hgnc_symbol
-  hgnc_symbol: TMPRSS6
-  entrez: '164656'
-- word: JAK1/2
-  symbol: JAK2
-  source: hgnc_symbol
-  hgnc_symbol: JAK2
-  entrez: '3717'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: JAK1/2
-  symbol: JAK1
-  source: hgnc_symbol
-  hgnc_symbol: JAK1
-  entrez: '3716'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP4
-  entrez: '652'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP5
-  entrez: '653'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP3
-  entrez: '651'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP7
-  entrez: '655'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8B
-  entrez: '656'
-chemicals:
-- word: Fe3+
-  source: MESH
-  identifier: D007501
-diseases: []
-figid_alias: PMC6316648__F3
-redirect_from: /figures/PMC6316648__F3
-figtype: Figure
 ---

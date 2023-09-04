@@ -1,5 +1,20 @@
 ---
 figid: PMC6961979__elife-51605-fig4-figsupp2
+figtitle: Reaction mechanisms for the APE1 and NEIL2-PNKP pathways
+organisms:
+- Saccharomyces cerevisiae
+- vectors
+- unidentified shuttle vector
+- Morchella esculenta
+- Campanula medium
+- Shuttle vector pSP189
+- Human immunodeficiency virus 1
+- Papaya ringspot virus
+- Homo sapiens
+- Mus musculus
+- Escherichia coli
+pmcid: PMC6961979
+filename: elife-51605-fig4-figsupp2.jpg
 figlink: pmc/articles/PMC6961979/figure/fig4s2/
 number: SF4_2
 caption: Glycosylase UDG removes U and generates an AP site on U/G mismatch (only
@@ -9,29 +24,23 @@ caption: Glycosylase UDG removes U and generates an AP site on U/G mismatch (onl
   pathway, NEIL2 catalyzes β,δ-elimination step by step at the AP site and generates
   a 5’-phosphate (5’P) and a 3’P. PNKP phosphatase hydrolyzes 3’P to generate a 3’OH
   primer for Polβ.
-pmcid: PMC6961979
 papertitle: Perturbation of base excision repair sensitizes breast cancer cells to
   APOBEC3 deaminase-mediated mutations.
 reftext: Birong Shen, et al. eLife. 2020;9:e51605.
-pmc_ranked_result_index: '65001'
-pathway_score: 0.7188438
-filename: elife-51605-fig4-figsupp2.jpg
-figtitle: Reaction mechanisms for the APE1 and NEIL2-PNKP pathways
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7188438
+figid_alias: PMC6961979__SF4_2
+figtype: Supplemental figure
+organisms_ner:
 - Mus musculus
-- Human immunodeficiency virus 1
-- Papaya ringspot virus
-- vectors
-- Shuttle vector pSP189
-- Morchella esculenta
-- unidentified shuttle vector
-- Saccharomyces cerevisiae
-- Campanula medium
-- Escherichia coli
 - Homo sapiens
+redirect_from: /figures/PMC6961979__SF4_2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -50,61 +59,27 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Gli3
+  - Arp
+  - Rere
+  - ap
+  - Utrn
+  - oh
+  - Neil2
+  - Pnkp
+  - APEX1
+  - CRISP1
+  - RERE
+  - MANF
+  - ARFRP1
+  - UTRN
+  - DENR
   - NEIL2
   - PNKP
-  - 3'hydronyl
+  - 3hydronyl
   - deoxyribosephosphate
   - polyunsaturated
   - sldehyde
   - 3-Phosphate
   - phosphate
-genes:
-- word: '#NEIL2'
-  symbol: NEIL2
-  source: hgnc_symbol
-  hgnc_symbol: NEIL2
-  entrez: '252969'
-- word: NEIL2
-  symbol: NEIL2
-  source: hgnc_symbol
-  hgnc_symbol: NEIL2
-  entrez: '252969'
-- word: NEIL2
-  symbol: NEIL2
-  source: hgnc_symbol
-  hgnc_symbol: NEIL2
-  entrez: '252969'
-- word: PNKP
-  symbol: PNKP
-  source: hgnc_symbol
-  hgnc_symbol: PNKP
-  entrez: '11284'
-- word: NEIL2
-  symbol: NEIL2
-  source: hgnc_symbol
-  hgnc_symbol: NEIL2
-  entrez: '252969'
-chemicals:
-- word: 3'hydronyl
-  source: MESH
-  identifier: C039620
-- word: deoxyribosephosphate
-  source: ''
-  identifier: ''
-- word: polyunsaturated
-  source: MESH
-  identifier: C029449
-- word: sldehyde
-  source: ''
-  identifier: ''
-- word: 3-Phosphate
-  source: MESH
-  identifier: D010710
-- word: phosphate
-  source: MESH
-  identifier: D010710
-diseases: []
-figid_alias: PMC6961979__SF4_2
-redirect_from: /figures/PMC6961979__SF4_2
-figtype: Supplemental figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC4880054__cddiscovery20161-f6
+figtitle: Proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced apoptosis
+organisms:
+- NA
+pmcid: PMC4880054
+filename: cddiscovery20161-f6.jpg
 figlink: /pmc/articles/PMC4880054/figure/fig6/
 number: F6
 caption: The proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced
@@ -11,19 +16,22 @@ caption: The proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induc
   of Bcl-xL at Ser73 was sufficient to induce cell death. Inhibition of Cdk2 using
   DN-Cdk2 or purvalanol and inhibition of active caspases using zVAD-fmk blocked caspase
   activation, and subsequent Bcl-xL cleavage.
-pmcid: PMC4880054
 papertitle: Mimicking Cdk2 phosphorylation of Bcl-xL at Ser73 results in caspase activation
   and Bcl-xL cleavage.
 reftext: NS Seng, et al. Cell Death Discov. 2016;2:16001.
-pmc_ranked_result_index: '109421'
-pathway_score: 0.9575137
-filename: cddiscovery20161-f6.jpg
-figtitle: Proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced apoptosis
 year: '2016'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9575137
+figid_alias: PMC4880054__F6
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC4880054__F6
 ndex: b4275e8d-debf-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -44,94 +52,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CASP1
-  - CASP9
-  - CASP12
-  - CASP2
-  - CASP3
-  - CASP14
-  - CASP7
-  - CASP10
-  - BCL2L1
-  - CASP8
-  - CASP6
-  - CDK2
-  - CASP5
-  - CASP4
-genes:
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: Bcl-xL
-  symbol: bcl-xL
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L1
-  entrez: '598'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: Cdk2
-  symbol: CDK2
-  source: hgnc_symbol
-  hgnc_symbol: CDK2
-  entrez: '1017'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-chemicals: []
-diseases: []
-figid_alias: PMC4880054__F6
-redirect_from: /figures/PMC4880054__F6
-figtype: Figure
+  - ci
+  - Cdk2
+  - BC1
 ---

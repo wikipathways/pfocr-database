@@ -1,5 +1,26 @@
 ---
 figid: PMC6723309__microorganisms-07-00216-g001
+figtitle: Adenovirus-directed innate immunity through nuclear factor kappa-light-chain-enhancer
+  of activated B cells (NFKB)
+organisms:
+- Hepatitis B virus
+- Adenoviridae
+- Human alphaherpesvirus 1
+- Human T-cell leukemia virus type I
+- Coxsackievirus
+- Human adenovirus 5
+- Human adenovirus sp.
+- Human adenovirus 2
+- Human adenovirus E4
+- Human adenovirus 12
+- Human adenovirus D37
+- Human mastadenovirus C
+- Human adenovirus 52
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+pmcid: PMC6723309
+filename: microorganisms-07-00216-g001.jpg
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f001/
 number: F1
 caption: Adenovirus-directed innate immunity through nuclear factor kappa-light-chain-enhancer
@@ -19,35 +40,24 @@ caption: Adenovirus-directed innate immunity through nuclear factor kappa-light-
   EGFR signaling in endosomes (10), and promoting post-internalization TNFR1 sorting
   to lysosomes (11); and downstream of LPS, by limiting cholesterol-dependent TLR4
   signaling from endosomes (12).
-pmcid: PMC6723309
 papertitle: New Insights to Adenovirus-Directed Innate Immunity in Respiratory Epithelial
   Cells.
 reftext: Cathleen R. Carlin. Microorganisms. 2019 Aug;7(8):216.
-pmc_ranked_result_index: '165573'
-pathway_score: 0.8780799
-filename: microorganisms-07-00216-g001.jpg
-figtitle: Adenovirus-directed innate immunity through nuclear factor kappa-light-chain-enhancer
-  of activated B cells (NFKB)
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8780799
+figid_alias: PMC6723309__F1
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Rattus norvegicus
-- Human alphaherpesvirus 1
-- Hepatitis B virus
-- Adenoviridae
-- Human adenovirus 2
-- Human T-cell leukemia virus type I
-- Coxsackievirus
-- Human mastadenovirus C
-- Human adenovirus sp.
-- Human adenovirus E4
-- Human adenovirus 12
-- Human adenovirus 5
-- Human adenovirus 52
-- Human adenovirus D37
 - Homo sapiens
+- Rattus norvegicus
+redirect_from: /figures/PMC6723309__F1
 ndex: 7b03919a-df15-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -76,128 +86,60 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NFKB2
-  - CXCR2
-  - REL
-  - CXCR1
-  - IRF3
-  - IRF6
-  - CGAS
-  - MAPK13
-  - MAPK14
-  - RELA
-  - NFKB1
-  - MAPK12
-  - TMEM173
-  - MAPK11
-  - RELB
-  - TNFRSF1A
-  - EGFR
+  - Smpd1
+  - Tnf
+  - Tlr4
+  - Tnfrsf1a
+  - Tnfrsf1b
+  - Cxcr1
+  - Cxcr2
+  - Pxn
+  - Cgas
+  - Crk
+  - Grap2
+  - Syp
+  - Mapk14
+  - Ahsa1
+  - Sting1
+  - Nfkbib
+  - Irf3
+  - Egfr
+  - Nfkb1
+  - Cxcl15
+  - Map2k6
+  - Kcna2
+  - Mapkapk2
+  - Map2k2
+  - SMPD1
   - TNF
+  - IRF6
+  - TNFRSF1A
+  - CXCR1
+  - CXCR2
+  - CGAS
   - TLR4
+  - CRK
+  - MAPK14
+  - MAPK1
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - STING1
+  - IRF3
+  - EGFR
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
+  - CXCL8
+  - MAP2K6
+  - KCNA2
+  - MAPKAPK2
+  - Rela
   - LPS
-genes:
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: CXCR1/2
-  symbol: CXCR2
-  source: hgnc_symbol
-  hgnc_symbol: CXCR2
-  entrez: '3579'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: CXCR1/2
-  symbol: CXCR1
-  source: hgnc_symbol
-  hgnc_symbol: CXCR1
-  entrez: '3577'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: LPS
-  symbol: LPS
-  source: hgnc_prev_symbol
-  hgnc_symbol: IRF6
-  entrez: '3664'
-- word: CGAS
-  symbol: CGAS
-  source: hgnc_symbol
-  hgnc_symbol: CGAS
-  entrez: '115004'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: STING
-  symbol: STING
-  source: hgnc_alias_symbol
-  hgnc_symbol: TMEM173
-  entrez: '340061'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: TNFR1
-  symbol: TNFR1
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNFRSF1A
-  entrez: '7132'
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: TNF-
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-chemicals: []
-diseases:
-- word: LPS
-  source: MESH
-  identifier: C536528
-figid_alias: PMC6723309__F1
-redirect_from: /figures/PMC6723309__F1
-figtype: Figure
 ---

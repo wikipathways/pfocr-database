@@ -1,5 +1,19 @@
 ---
 figid: PMC3181609__DialoguesClinNeurosci-2-247-g002
+figtitle: Amyloid precursor protein (APP) is processed either by Beta-secretase into
+  a nonamyloidogenic pathway or by Beta- and Gamma-secretases to produce Beta-amyloid
+  peptide (BA)
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Cricetulus griseus
+- Homo sapiens
+- Macaca mulatta
+- Callithrix jacchus
+- Bromus secalinus
+pmcid: PMC3181609
+filename: DialoguesClinNeurosci-2-247-g002.jpg
 figlink: /pmc/articles/PMC3181609/figure/DialoguesClinNeurosci-2-247-g002/
 number: F2
 caption: 'Amyloid precursor protein (APP) is processed either by β-secretase into
@@ -21,27 +35,21 @@ caption: 'Amyloid precursor protein (APP) is processed either by β-secretase in
   protein (MAP) kinase, which results in increased tau protein phosphorylation, and
   inhibition of phosphatase, which results in a lesser dephosporylation of tau, it
   favors the formation of paired helical filaments (PHF). .'
-pmcid: PMC3181609
 papertitle: Pharmacological models in Alzheimer's disease research.
 reftext: Christian Gilles, et al. Dialogues Clin Neurosci. 2000 Sep;2(3):247-255.
-pmc_ranked_result_index: '88787'
-pathway_score: 0.9189203
-filename: DialoguesClinNeurosci-2-247-g002.jpg
-figtitle: Amyloid precursor protein (APP) is processed either by Beta-secretase into
-  a nonamyloidogenic pathway or by Beta- and Gamma-secretases to produce Beta-amyloid
-  peptide (BA)
 year: '2000'
-organisms:
-- Cricetulus griseus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9189203
+figid_alias: PMC3181609__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Rattus norvegicus
-- Cavia porcellus
-- Bromus secalinus
-- Callithrix jacchus
-- Macaca mulatta
-- Homo sapiens
+redirect_from: /figures/PMC3181609__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -72,38 +80,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - APP
-  - MAPT
-  - FGFR3
-  - CAT
+  - App
+  - Hps3
+  - Cat
+  - cac
+  - Mip
+  - Trpv6
+  - Glyat
+  - ba
+  - Mapt
+  - Csnk1e
   - Choline
-genes:
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: Tau
-  symbol: tau
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPT
-  entrez: '4137'
-- word: ACh
-  symbol: ACH
-  source: hgnc_prev_symbol
-  hgnc_symbol: FGFR3
-  entrez: '2261'
-- word: CAT
-  symbol: CAT
-  source: hgnc_symbol
-  hgnc_symbol: CAT
-  entrez: '847'
-chemicals:
-- word: Choline
-  source: MESH
-  identifier: D002794
-diseases: []
-figid_alias: PMC3181609__F2
-redirect_from: /figures/PMC3181609__F2
-figtype: Figure
 ---

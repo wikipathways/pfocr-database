@@ -1,5 +1,11 @@
 ---
 figid: PMC2742584__toxscikfp162f07_3c
+figtitle: Interaction networks of As sensitivity in yeast
+organisms:
+- Homo sapiens
+- Saccharomyces cerevisiae
+pmcid: PMC2742584
+filename: toxscikfp162f07_3c.jpg
 figlink: /pmc/articles/PMC2742584/figure/fig7/
 number: F7
 caption: Interaction networks of As sensitivity in yeast. (A) Requirement of genes
@@ -15,21 +21,24 @@ caption: Interaction networks of As sensitivity in yeast. (A) Requirement of gen
   genes in humans (if any) are shown in red font next to the yeast gene. MRX interacts
   with the Atm-homolog Tel1p via Xrs2p, an interaction that is conserved in humans
   and is supportive of its important role in DNA repair.
-pmcid: PMC2742584
 papertitle: Comparative Functional Genomic Analysis Identifies Distinct and Overlapping
   Sets of Genes Required for Resistance to Monomethylarsonous Acid (MMAIII) and Arsenite
   (AsIII) in Yeast.
 reftext: William J. Jo, et al. Toxicol Sci. 2009 Oct;111(2):424-436.
-pmc_ranked_result_index: '135772'
-pathway_score: 0.8899632
-filename: toxscikfp162f07_3c.jpg
-figtitle: Interaction networks of As sensitivity in yeast
 year: '2009'
-organisms:
-- Saccharomyces cerevisiae
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8899632
+figid_alias: PMC2742584__F7
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 - Homo sapiens
+redirect_from: /figures/PMC2742584__F7
 ndex: 1348f5c1-df14-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,110 +64,57 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RFC2
+  - MET17
+  - ADE3
+  - MET4
+  - STP1
+  - MET32
+  - MET28
+  - MET14
+  - STP2
+  - MUP3
+  - OPT1
+  - LEU3
+  - MET10
+  - MET31
+  - MET16
+  - GCN4
+  - CYS3
+  - CBF1
+  - RPA34
+  - MET2
+  - STR3
   - RFC3
-  - MOSPD3
-  - ATAD5
-  - RBPJ
-  - WDHD1
-  - TERF2IP
-  - PSMD9
-  - RAD50
-  - ATM
-  - RFC4
-  - MRE11
-  - SULT1A1
-  - SULT1A2
+  - RPN4
   - RFC5
-genes:
-- word: RFC2
-  symbol: RFC2
-  source: hgnc_symbol
-  hgnc_symbol: RFC2
-  entrez: '5982'
-- word: RFC3
-  symbol: RFC3
-  source: hgnc_symbol
-  hgnc_symbol: RFC3
-  entrez: '5983'
-- word: NET30
-  symbol: NET30
-  source: hgnc_alias_symbol
-  hgnc_symbol: MOSPD3
-  entrez: '64598'
-- word: ELG1
-  symbol: ELG1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ATAD5
-  entrez: '79915'
-- word: CBF1
-  symbol: CBF1
-  source: hgnc_alias_symbol
-  hgnc_symbol: RBPJ
-  entrez: '3516'
-- word: CTF4
-  symbol: CTF4
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDHD1
-  entrez: '11169'
-- word: RAP1
-  symbol: RAP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TERF2IP
-  entrez: '54386'
-- word: WDHD1
-  symbol: WDHD1
-  source: hgnc_symbol
-  hgnc_symbol: WDHD1
-  entrez: '11169'
-- word: RPN4
-  symbol: Rpn4
-  source: hgnc_alias_symbol
-  hgnc_symbol: PSMD9
-  entrez: '5715'
-- word: RAD50
-  symbol: RAD50
-  source: hgnc_symbol
-  hgnc_symbol: RAD50
-  entrez: '10111'
-- word: ATM
-  symbol: ATM
-  source: hgnc_symbol
-  hgnc_symbol: ATM
-  entrez: '472'
-- word: RFC4
-  symbol: RFC4
-  source: hgnc_symbol
-  hgnc_symbol: RFC4
-  entrez: '5984'
-- word: MRE11
-  symbol: MRE11
-  source: hgnc_symbol
-  hgnc_symbol: MRE11
-  entrez: '4361'
-- word: TEL1
-  symbol: TEL1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ATM
-  entrez: '472'
-- word: STP1
-  symbol: STP1
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1A1
-  entrez: '6817'
-- word: STP2
-  symbol: STP2
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1A2
-  entrez: '6799'
-- word: (RFC5
-  symbol: RFC5
-  source: hgnc_symbol
-  hgnc_symbol: RFC5
-  entrez: '5985'
-chemicals: []
-diseases: []
-figid_alias: PMC2742584__F7
-redirect_from: /figures/PMC2742584__F7
-figtype: Figure
+  - RFC2
+  - MRE11
+  - RAP1
+  - RFC4
+  - CTF4
+  - RAD50
+  - ELG1
+  - TEL1
+  - XRS2
+  - RAD61
+  - RAD27
+  - MAC1
+  - RAD55
+  - MUPP
+  - SULT1A1
+  - MOSPD3
+  - SULT1A2
+  - CD4
+  - RBPJ
+  - POLR1G
+  - PSMD9
+  - RAP1A
+  - RABGEF1
+  - TERF2IP
+  - RAP1B
+  - WDHD1
+  - ATAD5
+  - ATM
+  - ITGAM
+  - ITGB2
 ---

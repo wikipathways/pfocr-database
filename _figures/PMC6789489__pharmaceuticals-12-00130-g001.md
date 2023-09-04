@@ -1,5 +1,10 @@
 ---
 figid: PMC6789489__pharmaceuticals-12-00130-g001
+figtitle: Action of methylxanthine (MTXs) in glioblastoma (GBM)
+organisms:
+- NA
+pmcid: PMC6789489
+filename: pharmaceuticals-12-00130-g001.jpg
 figlink: /pmc/articles/PMC6789489/figure/pharmaceuticals-12-00130-f001/
 number: F1
 caption: Mechanisms of action of methylxanthine (MTXs) in glioblastoma (GBM). The
@@ -13,18 +18,21 @@ caption: Mechanisms of action of methylxanthine (MTXs) in glioblastoma (GBM). Th
   and p38). Theophylline (green arrow) regulates cell differentiation (JAK/STAT3 pathway),
   the epigenetic mechanism (HDAC-2) and alternative splicing (SRSF3). The figure was
   designed using Servier Medical Art ©.
-pmcid: PMC6789489
 papertitle: 'Methylxanthines: Potential Therapeutic Agents for Glioblastoma.'
 reftext: Daniel Pérez-Pérez, et al. Pharmaceuticals (Basel). 2019 Sep;12(3):130.
-pmc_ranked_result_index: '92308'
-pathway_score: 0.9069616
-filename: pharmaceuticals-12-00130-g001.jpg
-figtitle: Action of methylxanthine (MTXs) in glioblastoma (GBM)
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9069616
+figid_alias: PMC6789489__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6789489__F1
 ndex: 4028ea71-df12-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,476 +55,170 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HDAC11
-  - HDAC3
-  - HDAC9
-  - MAPK8
-  - MAPK11
-  - MTOR
-  - HDAC4
-  - HDAC2
-  - MAPK10
-  - NFKB1
-  - MAPK13
-  - MAPK14
-  - MAPK1
-  - MAPK9
-  - MAPK3
-  - GFAP
-  - HDAC10
-  - HDAC6
-  - HDAC5
-  - SIRT2
-  - SIRT5
-  - SIRT4
-  - SIRT3
-  - SIRT1
-  - HDAC1
-  - MAPK12
-  - SIRT6
-  - HDAC7
-  - HDAC8
-  - AKT2
-  - PIK3R3
-  - PIK3R6
-  - AKT3
-  - PIK3R4
-  - AKT1
-  - PIK3CA
-  - PIK3CB
-  - PIK3CD
-  - SIRT7
   - PTK2
-  - ROCK2
   - ROCK1
-  - STAT6
-  - STAT1
-  - STAT2
-  - STAT3
-  - PDE6A
+  - ROCK2
+  - ALDH7A1
   - PDE2A
+  - PDE9A
+  - PDE10A
+  - PDE11A
+  - PDE1A
+  - PDE1B
+  - PDE1C
   - PDE3A
   - PDE3B
   - PDE4A
-  - PIK3CG
+  - PDE4B
   - PDE4C
   - PDE4D
+  - PDE6A
+  - PDE6B
   - PDE6C
   - PDE7A
-  - PDE8A
-  - PDE9A
-  - PDE1B
-  - PDE6B
-  - PDE8B
-  - PDE10A
   - PDE7B
-  - PDE11A
-  - PDE1A
-  - PDE1C
+  - PDE8A
+  - PDE8B
+  - CTSA
+  - CTSB
+  - CTSC
+  - CTSD
+  - CTSE
+  - CTSF
+  - CTSG
+  - CTSH
+  - CTSK
+  - CTSL
+  - CTSO
+  - CTSS
+  - CTSV
+  - CTSW
+  - CTSZ
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
   - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
+  - MTOR
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT3
   - STAT4
+  - STAT6
   - STAT5A
   - STAT5B
-  - PDE4B
+  - EPHB2
+  - NFKB1
+  - RB1
+  - HDAC2
+  - HDAC9
+  - HDAC1
+  - HDAC3
+  - HDAC8
+  - HDAC4
+  - HDAC5
+  - HDAC7
+  - HDAC6
+  - HDAC10
+  - SIRT1
+  - SIRT2
+  - SIRT3
+  - SIRT4
+  - SIRT5
+  - SIRT6
+  - SIRT7
+  - HDAC11
+  - H1-0
+  - H1-1
+  - H1-2
+  - H1-3
+  - H1-4
+  - H1-5
+  - H1-6
+  - H1-7
+  - H1-8
+  - H1-10
+  - .na.character
+  - H2AB1
+  - H2AJ
+  - H2AZ2
+  - H2AX
+  - MACROH2A1
+  - MACROH2A2
+  - H2AZ1
+  - H2AC1
+  - H2AC6
+  - H2AC7
+  - H2AC12
+  - H2AC14
+  - H2AC21
+  - H2AC20
+  - H2AC25
+  - H2BC1
+  - H2BC3
+  - H2BC5
+  - H2BC9
+  - H2BC11
+  - H2BC12
+  - H2BC13
+  - H2BC14
+  - H2BC15
+  - H2BC17
+  - H2BC18
+  - H2BC19P
+  - H2BC20P
+  - H2BC21
+  - H2BC26
+  - H2BC12L
+  - H2BW2
+  - H2BW1
+  - H3-4
+  - H3-5
+  - H4C7
+  - GFAP
+  - S100A1
+  - S100B
+  - S100G
+  - S100P
+  - S100Z
+  - HRNR
+  - S100A10
+  - S100A11
+  - S100A12
+  - S100A13
+  - S100A14
+  - S100A16
+  - S100A2
+  - S100A3
+  - S100A4
+  - S100A5
+  - S100A6
+  - S100A7
+  - S100A7A
+  - S100A8
+  - S100A9
+  - TCHHL1
   - CH
   - Caffeine
   - Theobromine
   - Theophylline
   - methylxanthines
-genes:
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC11
-  entrez: '79885'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC3
-  entrez: '8841'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC9
-  entrez: '9734'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: /mTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC4
-  entrez: '9759'
-- word: HDAC-2
-  symbol: HDAC2
-  source: hgnc_symbol
-  hgnc_symbol: HDAC2
-  entrez: '3066'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: GFAP/S-100
-  symbol: GFAP
-  source: hgnc_symbol
-  hgnc_symbol: GFAP
-  entrez: '2670'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC10
-  entrez: '83933'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC6
-  entrez: '10013'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC5
-  entrez: '10014'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT2
-  entrez: '22933'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT5
-  entrez: '23408'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT4
-  entrez: '23409'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT3
-  entrez: '23410'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT1
-  entrez: '23411'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC1
-  entrez: '3065'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC2
-  entrez: '3066'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT6
-  entrez: '51548'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC7
-  entrez: '51564'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC8
-  entrez: '55869'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K/AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: HDAC-
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT7
-  entrez: '51547'
-- word: ROCK/FAK
-  symbol: FAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2
-  entrez: '5747'
-- word: ROCK/FAK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK2
-  entrez: '9475'
-- word: ROCK/FAK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK1
-  entrez: '6093'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE6A
-  entrez: '5145'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE2A
-  entrez: '5138'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE3A
-  entrez: '5139'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE3B
-  entrez: '5140'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE4A
-  entrez: '5141'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE4C
-  entrez: '5143'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE4D
-  entrez: '5144'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE6C
-  entrez: '5146'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE7A
-  entrez: '5150'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE8A
-  entrez: '5151'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE9A
-  entrez: '5152'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE1B
-  entrez: '5153'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE6B
-  entrez: '5158'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE8B
-  entrez: '8622'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE10A
-  entrez: '10846'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE7B
-  entrez: '27115'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE11A
-  entrez: '50940'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE1A
-  entrez: '5136'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE1C
-  entrez: '5137'
-- word: PI3K/AKT
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: PDE
-  symbol: PDE
-  source: bioentities_symbol
-  hgnc_symbol: PDE4B
-  entrez: '5142'
-chemicals:
-- word: CH
-  source: MESH
-  identifier: C103208
-- word: Caffeine
-  source: MESH
-  identifier: D002110
-- word: Theobromine
-  source: MESH
-  identifier: D013805
-- word: Theophylline
-  source: MESH
-  identifier: D013806
-- word: methylxanthines
-  source: MESH
-  identifier: C008514
-diseases: []
-figid_alias: PMC6789489__F1
-redirect_from: /figures/PMC6789489__F1
-figtype: Figure
 ---

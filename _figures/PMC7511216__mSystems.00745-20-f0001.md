@@ -1,5 +1,11 @@
 ---
 figid: PMC7511216__mSystems.00745-20-f0001
+figtitle: Alternative assimilation pathways of d-arabitol with an example of the measured
+  and expected labeling of Rib5P
+organisms:
+- Bacillus methanolicus
+pmcid: PMC7511216
+filename: mSystems.00745-20-f0001.jpg
 figlink: pmc/articles/PMC7511216/figure/fig1/
 number: F1
 caption: 'Alternative assimilation pathways of d-arabitol with an example of the measured
@@ -13,40 +19,22 @@ caption: 'Alternative assimilation pathways of d-arabitol with an example of the
   flux in the model (bar plot). Unlike the others, the model in which only PTS5 was
   allowed to carry flux did not fit the data (red cross mark [✘]). Circles are carbon
   atoms: solid for 13C (●), empty for 12C (○), dotted when irrelevant.'
-pmcid: PMC7511216
 papertitle: Charting the Metabolic Landscape of the Facultative Methylotroph Bacillus
   methanolicus.
 reftext: Baudoin Delépine, et al. mSystems. 2020 Sep-Oct;5(5):e00745-20.
-pmc_ranked_result_index: '85117'
-pathway_score: 0.7169106
-filename: mSystems.00745-20-f0001.jpg
-figtitle: Alternative assimilation pathways of d-arabitol with an example of the measured
-  and expected labeling of Rib5P
 year: '2020'
-organisms:
-- Escherichia phage T7
-- Bacillus subtilis
-- Bacillus methanolicus
-- enrichment culture
-- Corynebacterium glutamicum
-- Methylorubrum extorquens AM1
-- Escherichia coli Nissle 1917
-- Enterococcus avium
-- Rickettsia slovaca
-- Bacteriophage sp.
-- Escherichia coli BL21DE3
-- Saccharomyces cerevisiae
-- Aspergillus niger
-- Penicillium chrysogenum
-- Klebsiella aerogenes
-- Escherichia coli
-- Escherichia coli DH5alpha
-- Bacillus methanolicus MGA3
-- Halalkalibacterium halodurans
-- Methylotuvimicrobium buryatense
-- Bacillus methanolicus PB1
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7169106
+figid_alias: PMC7511216__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7511216__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -70,8 +58,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RPE
-  - BEST1
   - 5-phosphate
   - NADH O00OO-P
   - histidine
@@ -80,54 +66,4 @@ schema-jsonld:
   - D-arabitol
   - 1-phosphate
   - NADH
-genes:
-- word: rpe
-  symbol: RPE
-  source: hgnc_symbol
-  hgnc_symbol: RPE
-  entrez: '6120'
-- word: best
-  symbol: BEST
-  source: hgnc_alias_symbol
-  hgnc_symbol: BEST1
-  entrez: '7439'
-- word: best
-  symbol: BEST
-  source: hgnc_alias_symbol
-  hgnc_symbol: BEST1
-  entrez: '7439'
-- word: best
-  symbol: BEST
-  source: hgnc_alias_symbol
-  hgnc_symbol: BEST1
-  entrez: '7439'
-chemicals:
-- word: 5-phosphate
-  source: MESH
-  identifier: D010710
-- word: NADH O00OO-P
-  source: MESH
-  identifier: D009243
-- word: histidine
-  source: MESH
-  identifier: C115717
-- word: arabitol
-  source: MESH
-  identifier: C014999
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: D-arabitol
-  source: MESH
-  identifier: C014999
-- word: 1-phosphate
-  source: MESH
-  identifier: D010710
-- word: NADH
-  source: MESH
-  identifier: D009243
-diseases: []
-figid_alias: PMC7511216__F1
-redirect_from: /figures/PMC7511216__F1
-figtype: Figure
 ---

@@ -1,5 +1,16 @@
 ---
 figid: PMC5411695__cshperspect-CIL-028175_F3
+figtitle: Hedgehog (Hh) signal transduction in the primary cilium
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Gallus gallus
+- Danio rerio
+- Homo sapiens
+- Drosophila melanogaster
+- unidentified
+pmcid: PMC5411695
+filename: cshperspect-CIL-028175_F3.jpg
 figlink: /pmc/articles/PMC5411695/figure/A028175F3/
 number: F3
 caption: Hedgehog (Hh) signal transduction in the primary cilium. The primary cilium
@@ -23,24 +34,26 @@ caption: Hedgehog (Hh) signal transduction in the primary cilium. The primary ci
   to SMO near the base of the cilium promotes SMO activity. In the presence of ligand,
   the GLI/SUFU complex accumulates to high levels at the tip of the cilium, where
   dissociation of the complex allows formation of the activator form of GLI2.
-pmcid: PMC5411695
 papertitle: Primary Cilia and Mammalian Hedgehog Signaling.
 reftext: Fiona Bangs, et al. Cold Spring Harb Perspect Biol. 2017 May;9(5):a028175.
-pmc_ranked_result_index: '148455'
-pathway_score: 0.9586857
-filename: cshperspect-CIL-028175_F3.jpg
-figtitle: Hedgehog (Hh) signal transduction in the primary cilium
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9586857
+figid_alias: PMC5411695__F3
+figtype: Figure
+organisms_ner:
 - Mus musculus
+- Homo sapiens
 - Rattus norvegicus
-- unidentified
+- Gallus gallus
 - Drosophila melanogaster
 - Danio rerio
-- Gallus gallus
-- Homo sapiens
+redirect_from: /figures/PMC5411695__F3
 ndex: 88793187-decc-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -74,190 +87,140 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ADCY5
+  - Sufu
+  - Gli3
+  - tip
+  - Mettl8
+  - Gli2
+  - Smo
+  - Smox
+  - Aliq2
+  - Amigo1
+  - Kif7
+  - Evc
+  - Ptch1
+  - Gpr161
+  - Tulp3
+  - Gast
+  - Gnas
+  - ac
+  - Shh
+  - Btrc
+  - Cul1
+  - SUFU
+  - GLI3
+  - KAT5
+  - METTL8
+  - ITFG1
+  - TIPRL
+  - GLI2
+  - SMO
+  - SMOX
+  - AMIGO1
+  - GANAB
+  - CENPE
+  - KIF11
+  - KIF12
+  - KIF13A
+  - KIF13B
+  - KIF14
+  - KIF15
+  - KIF16B
+  - KIF17
+  - KIF18A
+  - KIF18B
+  - KIF19
+  - KIF1A
+  - KIF1B
+  - KIF1C
+  - KIF20A
+  - KIF20B
+  - KIF21A
+  - KIF21B
+  - KIF22
+  - KIF23
+  - KIF24
+  - KIF25
+  - KIF26A
+  - KIF26B
+  - KIF27
+  - KIF2A
+  - KIF2B
+  - KIF2C
+  - KIF3A
+  - KIF3B
+  - KIF3C
+  - KIF4A
+  - KIF4B
+  - KIF5A
+  - KIF5B
+  - KIF5C
+  - KIF6
+  - KIF7
+  - KIF9
+  - KIFC1
+  - KIFC2
+  - KIFC3
+  - STARD9
+  - EVC
+  - PTCH1
+  - GPR161
+  - TULP3
+  - GAST
+  - GALNS
+  - PAGR1
+  - ADCY1
   - ADCY2
   - ADCY3
-  - PTCH1
-  - SUFU
-  - TULP3
-  - PRKAR2B
-  - ADCY7
-  - SHH
-  - ADCY1
-  - ADCY6
-  - ADCY10
-  - ADCY8
-  - SMO
-  - PRKAR2A
-  - GPR161
-  - GAST
-  - EVC
-  - GLI3
   - ADCY4
-  - PRKACB
-  - GLI2
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
   - ADCY9
-  - PRKAR1B
-  - KIF7
-  - PRKACA
-  - CUL1
+  - ADCY10
+  - SHH
   - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
   - PRKACG
   - BTRC
-genes:
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: Ptch1
-  symbol: PTCH1
-  source: hgnc_symbol
-  hgnc_symbol: PTCH1
-  entrez: '5727'
-- word: SUFU
-  symbol: SUFU
-  source: hgnc_symbol
-  hgnc_symbol: SUFU
-  entrez: '51684'
-- word: Tulp3
-  symbol: TULP3
-  source: hgnc_symbol
-  hgnc_symbol: TULP3
-  entrez: '7289'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: Shh
-  symbol: SHH
-  source: hgnc_symbol
-  hgnc_symbol: SHH
-  entrez: '6469'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: Smo
-  symbol: SMO
-  source: hgnc_symbol
-  hgnc_symbol: SMO
-  entrez: '6608'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: Gpr161
-  symbol: GPR161
-  source: hgnc_symbol
-  hgnc_symbol: GPR161
-  entrez: '23432'
-- word: GaS
-  symbol: GAS
-  source: hgnc_prev_symbol
-  hgnc_symbol: GAST
-  entrez: '2520'
-- word: EvC
-  symbol: EVC
-  source: hgnc_symbol
-  hgnc_symbol: EVC
-  entrez: '2121'
-- word: Gli3
-  symbol: GLI3
-  source: hgnc_symbol
-  hgnc_symbol: GLI3
-  entrez: '2737'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: Gli2
-  symbol: GLI2
-  source: hgnc_symbol
-  hgnc_symbol: GLI2
-  entrez: '2736'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: Kif7
-  symbol: KIF7
-  source: hgnc_symbol
-  hgnc_symbol: KIF7
-  entrez: '374654'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: BTrCP/Cul1
-  symbol: CUL1
-  source: hgnc_symbol
-  hgnc_symbol: CUL1
-  entrez: '8454'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: BTrCP/Cul1
-  symbol: betaTrCP
-  source: hgnc_alias_symbol
-  hgnc_symbol: BTRC
-  entrez: '8945'
-chemicals: []
-diseases: []
-figid_alias: PMC5411695__F3
-redirect_from: /figures/PMC5411695__F3
-figtype: Figure
+  - CUL1
+  - GNAS
+  - 'Off'
+  - 'On'
+  - Su(fu)
+  - Nup154
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - smo
+  - sm
+  - Khc
+  - Klc
+  - cos
+  - gas
+  - Galphas
+  - gd
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - slmb
+  - sufu
+  - gli3
+  - gli2a
+  - kif7
+  - ptch1
+  - ptch2
+  - gpr161a
+  - tulp3
+  - shha
+  - cul1a
+  - cul1b
 ---

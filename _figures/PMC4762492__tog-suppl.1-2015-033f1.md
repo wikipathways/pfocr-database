@@ -1,5 +1,11 @@
 ---
 figid: PMC4762492__tog-suppl.1-2015-033f1
+figtitle: 'PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each of
+  its components.Note: RSK, 90 kDa ribosomal protein S6 kinase'
+organisms:
+- NA
+pmcid: PMC4762492
+filename: tog-suppl.1-2015-033f1.jpg
 figlink: /pmc/articles/PMC4762492/figure/f1-tog-suppl.1-2015-033/
 number: F1
 caption: 'The PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each
@@ -13,19 +19,22 @@ caption: 'The PI3K/AKT/mTOR signaling pathway and examples of drugs targeting ea
   protein kinase 1; PIP2, phosphatidylinositol (4,5)-biphosphate; PIP3, phosphatidylinositol
   (3,4,5)-triphosphate; PRAS40, proline-rich AKT1 substrate 1; PTEN, phosphatase and
   tensin homolog; RPS6, 40S ribosomal protein S6.'
-pmcid: PMC4762492
 papertitle: Pharmacodynamic Biomarker Development for PI3K Pathway Therapeutics.
 reftext: Debra H. Josephs, et al. Transl Oncogenomics. 2015;7(Suppl 1):33-49.
-pmc_ranked_result_index: '131950'
-pathway_score: 0.9800116
-filename: tog-suppl.1-2015-033f1.jpg
-figtitle: 'PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each of
-  its components.Note: RSK, 90 kDa ribosomal protein S6 kinase'
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9800116
+figid_alias: PMC4762492__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC4762492__F1
 ndex: 732c6ab1-debc-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,65 +58,111 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Egfr
+  - btl
+  - htl
+  - gfr
+  - nac
+  - Pten
+  - Akt
+  - ras
+  - Ras64B
+  - Ras85D
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - Pdk1
+  - l(1)G0020
+  - Taf4
+  - Pi3K92E
+  - Rpn2
+  - Sap-r
+  - Raf
+  - foxo
+  - cass
+  - Rheb
+  - sgg
+  - Crtc
+  - Dsor1
+  - Mtk
+  - PRAS40
+  - Erk7
+  - rl
+  - Pi3K59F
+  - Pi3K68D
+  - S6k
+  - S6kII
+  - RpS6
+  - Thor
   - EGFR
-  - MAPK1
-  - RPS6KA1
-  - MTOR
-  - PIK3R4
-  - RPS6KA6
-  - SART3
-  - RPS6KA2
-  - RPS6KA3
-  - PIK3R5
   - FGFR1
-  - PDK1
-  - PIK3R6
-  - RPS6KA4
-  - MAPKAP1
-  - AKT2
-  - BAD
-  - ARAF
-  - RAF1
-  - BRAF
-  - KRAS
-  - NRAS
-  - MAPK3
+  - FGFR2
+  - FGFR3
+  - FGFR4
+  - FGFRL1
+  - ERBB2
+  - RAPGEF5
   - INPP4B
-  - PIK3CA
-  - EIF4EBP1
-  - AKT3
+  - PTEN
   - AKT1
-  - FOXO6
+  - AKT2
+  - AKT3
+  - KRAS
+  - HRAS
+  - NRAS
+  - PIK3R1
+  - PIK3R2
+  - ARHGEF7
+  - CBFA2T2
+  - PPP1R13B
+  - PPP1R12C
+  - PDK1
+  - PDPK1
+  - MAPKAP1
+  - MTOR
+  - RICTOR
+  - MLST8
+  - CUX1
+  - SART3
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
   - FOXO1
   - FOXO3
   - FOXO4
-  - TSC2
-  - ERBB2
-  - GSK3B
+  - FOXO6
+  - BAD
+  - RHEB
+  - RHEBP1
   - GSK3A
-  - HRAS
-  - FGFR3
-  - FGFR2
-  - FGFR4
-  - FGFRL1
+  - GSK3B
   - RPTOR
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - AKT1S1
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
   - PIK3R3
-  - RICTOR
-  - MLST8
-  - RAPGEF5
-  - RPS6
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
   - RPS6KB1
-  - PIK3CB
-  - RHEB
-  - MET
-  - AKT1S1
-  - PIK3CD
+  - RPS6KA1
+  - RPS6KA2
+  - RPS6KA3
+  - RPS6KA4
   - RPS6KA5
-  - MAP2K1
-  - PTEN
-  - MAP2K2
+  - RPS6KA6
   - RPS6KB2
+  - RPS6
+  - EIF4EBP1
   - Temsirolimus
   - Ridaforolimus
   - AZD8055
@@ -119,343 +174,4 @@ schema-jsonld:
   - Cardiomyopathy
   - Lung cancer
   - Noonan syndrome
-genes:
-- word: (EGFR,
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA1
-  entrez: '6195'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA6
-  entrez: '27330'
-- word: p110
-  symbol: p110
-  source: hgnc_alias_symbol
-  hgnc_symbol: SART3
-  entrez: '9733'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA2
-  entrez: '6196'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA3
-  entrez: '6197'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: FGFR)
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR1
-  entrez: '2260'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA4
-  entrez: '8986'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: BAD
-  symbol: BAD
-  source: hgnc_symbol
-  hgnc_symbol: BAD
-  entrez: '572'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: INPP4B
-  symbol: INPP4B
-  source: hgnc_symbol
-  hgnc_symbol: INPP4B
-  entrez: '8821'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: 4EBP1
-  symbol: 4E-BP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF4EBP1
-  entrez: '1978'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: FoxO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO6
-  entrez: '100132074'
-- word: FoxO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO1
-  entrez: '2308'
-- word: FoxO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO3
-  entrez: '2309'
-- word: FoxO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO4
-  entrez: '4303'
-- word: Tuberin
-  symbol: tuberin
-  source: hgnc_alias_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: GFR(EGFR,HER2,MET,FGFR)
-  symbol: HER-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERBB2
-  entrez: '2064'
-- word: GSK3/B
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: GSK3/B
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: FGFR)
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR3
-  entrez: '2261'
-- word: FGFR)
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR2
-  entrez: '2263'
-- word: FGFR)
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR4
-  entrez: '2264'
-- word: FGFR)
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFRL1
-  entrez: '53834'
-- word: MTORC1/2inhibitors
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: GFR
-  symbol: GFR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RAPGEF5
-  entrez: '9771'
-- word: RPS6
-  symbol: RPS6
-  source: hgnc_symbol
-  hgnc_symbol: RPS6
-  entrez: '6194'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: Rheb
-  symbol: RHEB
-  source: hgnc_symbol
-  hgnc_symbol: RHEB
-  entrez: '6009'
-- word: MTORC1/2inhibitors
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: MET,
-  symbol: MET
-  source: hgnc_symbol
-  hgnc_symbol: MET
-  entrez: '4233'
-- word: PRAS40
-  symbol: PRAS40
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1S1
-  entrez: '84335'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KA5
-  entrez: '9252'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: RSK
-  symbol: RSK
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB2
-  entrez: '6199'
-chemicals:
-- word: Temsirolimus
-  source: MESH
-  identifier: C401859
-- word: Ridaforolimus
-  source: MESH
-  identifier: C515074
-- word: AZD8055
-  source: MESH
-  identifier: C546624
-- word: MLN-0128
-  source: MESH
-  identifier: C572449
-- word: AZD5363
-  source: MESH
-  identifier: C575618
-- word: AZD2014
-  source: MESH
-  identifier: C585537
-- word: Sirolimus
-  source: MESH
-  identifier: D020123
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Lung cancer
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC4762492__F1
-redirect_from: /figures/PMC4762492__F1
-figtype: Figure
 ---

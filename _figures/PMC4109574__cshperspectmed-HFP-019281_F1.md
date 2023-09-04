@@ -1,5 +1,10 @@
 ---
 figid: PMC4109574__cshperspectmed-HFP-019281_F1
+figtitle: Mating in Candida albicans
+organisms:
+- NA
+pmcid: PMC4109574
+filename: cshperspectmed-HFP-019281_F1.jpg
 figlink: /pmc/articles/PMC4109574/figure/A019281F1/
 number: F1
 caption: Mating in Candida albicans. Mating in Candida albians involves both homozygosis
@@ -15,18 +20,21 @@ caption: Mating in Candida albicans. Mating in Candida albians involves both hom
   pathway for mating activation has been conserved in the hemiascomycetes, so that
   all components, pheromone to the major targeted transcription factor, are orthologs
   of those components in the S. cerevisiae response pathway.
-pmcid: PMC4109574
 papertitle: Sexual Reproduction of Human Fungal Pathogens.
 reftext: Joseph Heitman, et al. Cold Spring Harb Perspect Med. 2014 Aug;4(8):a019281.
-pmc_ranked_result_index: '117858'
-pathway_score: 0.8095566
-filename: cshperspectmed-HFP-019281_F1.jpg
-figtitle: Mating in Candida albicans
 year: '2014'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8095566
+figid_alias: PMC4109574__F1
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+redirect_from: /figures/PMC4109574__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,58 +59,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AWAT2
-  - STK24
-  - FGFR3
-  - TUBE1
-  - SULT1E1
-  - GLI3
-  - EGFLAM
-  - PTPN5
-genes:
-- word: (Mfat;
-  symbol: MFAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: AWAT2
-  entrez: '158835'
-- word: Ste20
-  symbol: STE20
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK24
-  entrez: '8428'
-- word: Cek2
-  symbol: CEK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: FGFR3
-  entrez: '2261'
-- word: tube
-  symbol: TUBE
-  source: hgnc_alias_symbol
-  hgnc_symbol: TUBE1
-  entrez: '51175'
-- word: Stes
-  symbol: STE
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1E1
-  entrez: '6783'
-- word: PAPA
-  symbol: PAP-A
-  source: hgnc_alias_symbol
-  hgnc_symbol: GLI3
-  entrez: '2737'
-- word: PIKA
-  symbol: PIKA
-  source: hgnc_alias_symbol
-  hgnc_symbol: EGFLAM
-  entrez: '133584'
-- word: steps
-  symbol: STEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTPN5
-  entrez: '84867'
-chemicals: []
-diseases: []
-figid_alias: PMC4109574__F1
-redirect_from: /figures/PMC4109574__F1
-figtype: Figure
+  - MFA1
+  - STE2
+  - STE3
+  - STE18
+  - SIR3
+  - GPA1
+  - STE4
+  - STE20
+  - STE11
+  - STE7
+  - STE5
+  - STE12
 ---

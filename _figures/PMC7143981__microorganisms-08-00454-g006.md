@@ -1,5 +1,10 @@
 ---
 figid: PMC7143981__microorganisms-08-00454-g006
+figtitle: The proposed route for formate assimilation in D
+organisms:
+- Desulfurococcus amylolyticus
+pmcid: PMC7143981
+filename: microorganisms-08-00454-g006.jpg
 figlink: pmc/articles/PMC7143981/figure/microorganisms-08-00454-f006/
 number: F6
 caption: Schematic illustration of the proposed route for formate assimilation in
@@ -15,36 +20,21 @@ caption: Schematic illustration of the proposed route for formate assimilation i
   F6P is further isomerized to glucose-6-phosphate (G6P) by glucose-6-phosphate isomerase
   (3). Later, G6P is oxidized to Ru5P by glucose-6-phosphate dehydrogenase (4) and
   6-phosphogluconate dehydrogenase (5).
-pmcid: PMC7143981
 papertitle: Formate Utilization by the Crenarchaeon Desulfurococcus amylolyticus.
 reftext: Ipek Ergal, et al. Microorganisms. 2020 Mar;8(3):454.
-pmc_ranked_result_index: '43556'
-pathway_score: 0.8876746
-filename: microorganisms-08-00454-g006.jpg
-figtitle: The proposed route for formate assimilation in D
 year: '2020'
-organisms:
-- Acetivibrio thermocellus
-- Thermococcus sibiricus
-- Methanosarcina barkeri
-- Haloferax volcanii
-- Desulfurococcus mucosus
-- Thermoanaerobacter kivui
-- Pseudomonas putida
-- Thermococcus kodakarensis
-- Acetobacterium woodii
-- Thermococcus onnurineus
-- Saccharomyces cerevisiae
-- Thermococcus onnurineus NA1
-- Pyrococcus horikoshii
-- Escherichia coli
-- Thermococcus kodakarensis KOD1
-- Desulfurococcus amylolyticus DSM 16532
-- Escherichia coli K-12
-- Gallus gallus
-- Desulfurococcus amylolyticus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8876746
+figid_alias: PMC7143981__F6
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7143981__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -69,88 +59,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TXLNG
-  - ADH1C
-  - ADH6
-  - ADH1A
-  - ADH1B
-  - ADH4
-  - ADH5
-  - ADH7
-  - ADHFE1
   - NAD
   - NADH
   - Formyl
   - Ru5P
   - Formaldehyde
   - FIAT
-genes:
-- word: FIAT
-  symbol: FIAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: TXLNG
-  entrez: '55787'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1C
-  entrez: '126'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH6
-  entrez: '130'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1A
-  entrez: '124'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1B
-  entrez: '125'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH4
-  entrez: '127'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH5
-  entrez: '128'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH7
-  entrez: '131'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADHFE1
-  entrez: '137872'
-chemicals:
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: Formyl
-  source: MESH
-  identifier: C053858
-- word: Ru5P
-  source: MESH
-  identifier: D012428
-- word: Formaldehyde
-  source: MESH
-  identifier: D005557
-diseases:
-- word: FIAT
-  source: ''
-  identifier: ''
-figid_alias: PMC7143981__F6
-redirect_from: /figures/PMC7143981__F6
-figtype: Figure
 ---

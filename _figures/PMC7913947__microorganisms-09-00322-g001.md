@@ -1,5 +1,15 @@
 ---
 figid: PMC7913947__microorganisms-09-00322-g001
+figtitle: The kynurenine pathway
+organisms:
+- Human alphaherpesvirus 1
+- Borreliella burgdorferi
+- Human alphaherpesvirus 3
+- Mycobacterium tuberculosis variant bovis BCG str. Sweden
+- Homo sapiens
+- Mus musculus
+pmcid: PMC7913947
+filename: microorganisms-09-00322-g001.jpg
 figlink: pmc/articles/PMC7913947/figure/microorganisms-09-00322-f001/
 number: F1
 caption: Schematic overview of the kynurenine pathway. The first and rate-limiting
@@ -10,24 +20,23 @@ caption: Schematic overview of the kynurenine pathway. The first and rate-limiti
   metabolites such as kynurenic acid (KYNA) by kynurenine aminotransferases (KAT I-IV)
   or quinolinic acid via kynurenine mono oxidase (KMO). Pathways represented by interrupted
   arrows involve several metabolites and enzymatic reactions.
-pmcid: PMC7913947
 papertitle: The Kynurenine Pathway is Differentially Activated in Children with Lyme
   Disease and Tick-Borne Encephalitis.
 reftext: Ronny Wickström, et al. Microorganisms. 2021 Feb;9(2):322.
-pmc_ranked_result_index: '45822'
-pathway_score: 0.5467461
-filename: microorganisms-09-00322-g001.jpg
-figtitle: The kynurenine pathway
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.5467461
+figid_alias: PMC7913947__F1
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Human alphaherpesvirus 1
-- Human alphaherpesvirus 3
-- Mycobacterium tuberculosis variant bovis BCG str. Sweden
-- Borreliella burgdorferi
 - Homo sapiens
+redirect_from: /figures/PMC7913947__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,8 +56,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TDO2
+  - TrnA
+  - Ido1
+  - Tdo2
+  - Nek1
+  - Katnb1
+  - Tstd1
+  - Kmo
+  - Qprt
+  - TRNA
   - IDO1
+  - DLX3
+  - TDO2
+  - KATNB1
+  - F11R
   - TSTD1
   - KMO
   - QPRT
@@ -62,65 +83,4 @@ schema-jsonld:
   - 3-Hydroxykynurenine
   - Quinolinic acid
   - NAD
-genes:
-- word: TDO
-  symbol: TDO
-  source: hgnc_alias_symbol
-  hgnc_symbol: TDO2
-  entrez: '6999'
-- word: IDO
-  symbol: IDO
-  source: hgnc_prev_symbol
-  hgnc_symbol: IDO1
-  entrez: '3620'
-- word: KAT
-  symbol: KAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: TSTD1
-  entrez: '100131187'
-- word: KMO
-  symbol: KMO
-  source: hgnc_symbol
-  hgnc_symbol: KMO
-  entrez: '8564'
-- word: QPRT
-  symbol: QPRT
-  source: hgnc_symbol
-  hgnc_symbol: QPRT
-  entrez: '23475'
-chemicals:
-- word: Serotonin
-  source: MESH
-  identifier: D012701
-- word: L-Tryptophan
-  source: ''
-  identifier: ''
-- word: tryptophanyl
-  source: MESH
-  identifier: C548317
-- word: N-Formyl kynurenine
-  source: MESH
-  identifier: C029366
-- word: Kynurenine
-  source: MESH
-  identifier: C029366
-- word: L-kynurenine
-  source: MESH
-  identifier: C029366
-- word: Kynurenic acid
-  source: MESH
-  identifier: D007736
-- word: 3-Hydroxykynurenine
-  source: MESH
-  identifier: C402223
-- word: Quinolinic acid
-  source: MESH
-  identifier: D017378
-- word: NAD
-  source: MESH
-  identifier: D009243
-diseases: []
-figid_alias: PMC7913947__F1
-redirect_from: /figures/PMC7913947__F1
-figtype: Figure
 ---

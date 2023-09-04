@@ -1,21 +1,30 @@
 ---
 figid: PMC2930805__carcinbgq142f01_ht
+figtitle: Metabolic signaling pathway of candidate pathway
+organisms:
+- NA
+pmcid: PMC2930805
+filename: carcinbgq142f01_ht.jpg
 figlink: /pmc/articles/PMC2930805/figure/fig1/
 number: F1
 caption: Metabolic signaling pathway of candidate pathway.
-pmcid: PMC2930805
 papertitle: 'Genetic variation in a metabolic signaling pathway and colon and rectal
   cancer risk: mTOR, PTEN, STK11, RPKAA1, PRKAG2, TSC1, TSC2, PI3K and Akt1.'
 reftext: Martha L. Slattery, et al. Carcinogenesis. 2010 Sep;31(9):1604-1611.
-pmc_ranked_result_index: '45'
-pathway_score: 0.9297133
-filename: carcinbgq142f01_ht.jpg
-figtitle: Metabolic signaling pathway of candidate pathway
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9297133
+figid_alias: PMC2930805__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2930805__F1
 ndex: ea90da4a-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -28,130 +37,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R5
-  - AKT1
+  - Amph
+  - ATPsynbeta
+  - Atpalpha
+  - Lkb1
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - as
+  - AMPKalpha
+  - gig
+  - Tsc1
+  - Akt
+  - Mtor
+  - Tor
+  - Pten
+  - S6k
+  - APRT
   - MFAP1
-  - PIK3R4
+  - ATP8A2
+  - STK11
+  - IRS2
+  - IRS1
   - PIK3CA
-  - MTOR
-  - PIK3R6
-  - PIK3R3
-  - AKT2
+  - PIK3CB
   - PIK3CD
   - PIK3CG
-  - IRS1
-  - AKT3
-  - PIK3CB
-  - STK11
-  - PRKAA2
-  - TSC1
-  - IRS2
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
   - PRKAA1
+  - PRKAA2
+  - H3P3
+  - TSC2
+  - TSC1
+  - CCL26
+  - AKT1
+  - AKT2
+  - AKT3
+  - MTOR
   - PTEN
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AMP
-  symbol: AMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MFAP1
-  entrez: '4236'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: IRS-1&
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: LKB1
-  symbol: LKB1
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK11
-  entrez: '6794'
-- word: AMPKa
-  symbol: AMPK_alpha
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: (TSC1/2
-  symbol: TSC1
-  source: hgnc_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: IRS-1&2
-  symbol: IRS2
-  source: hgnc_symbol
-  hgnc_symbol: IRS2
-  entrez: '8660'
-- word: AMPKa
-  symbol: AMPK_alpha
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-chemicals: []
-diseases: []
-figid_alias: PMC2930805__F1
-redirect_from: /figures/PMC2930805__F1
-figtype: Figure
+  - RPS6KB1
 ---

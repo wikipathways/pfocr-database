@@ -1,5 +1,10 @@
 ---
 figid: PMC3086918__Fig1_VPHuggins
+figtitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological Mechanisms'
+organisms:
+- NA
+pmcid: PMC3086918
+filename: Fig1_VPHuggins.jpg
 figlink: /pmc/articles/PMC3086918/figure/f1-0110095/
 number: F1
 caption: Pathway analysis tools can use biological knowledge to focus the number of
@@ -29,19 +34,22 @@ caption: Pathway analysis tools can use biological knowledge to focus the number
   sarcoma viral (v-fgr) oncogene homolog; CFH, complement factor H; AXIN1, axin 1;
   C1orf112, chromosome 1 open reading frame 112; NFYA, nuclear transcription factor
   Y, alpha.
-pmcid: PMC3086918
 papertitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological
   Mechanisms.'
 reftext: Eric C. Wooten, et al. Mol Interv. 2011 Apr;11(2):95-102.
-pmc_ranked_result_index: '177865'
-pathway_score: 0.868829
-filename: Fig1_VPHuggins.jpg
-figtitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological Mechanisms'
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.868829
+figid_alias: PMC3086918__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3086918__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -80,58 +88,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNMD
-  - SCYL3
-  - TGFB1
-  - GCLC
   - AXIN1
-  - ENG
   - CFH
   - FGR
-genes:
-- word: TNMD
-  symbol: TNMD
-  source: hgnc_symbol
-  hgnc_symbol: TNMD
-  entrez: '64102'
-- word: SCYL3
-  symbol: SCYL3
-  source: hgnc_symbol
-  hgnc_symbol: SCYL3
-  entrez: '57147'
-- word: TGFB1
-  symbol: TGFB1
-  source: hgnc_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: GCLC
-  symbol: GCLC
-  source: hgnc_symbol
-  hgnc_symbol: GCLC
-  entrez: '2729'
-- word: AXIN1
-  symbol: AXIN1
-  source: hgnc_symbol
-  hgnc_symbol: AXIN1
-  entrez: '8312'
-- word: ENG
-  symbol: ENG
-  source: hgnc_symbol
-  hgnc_symbol: ENG
-  entrez: '2022'
-- word: CFH
-  symbol: CFH
-  source: hgnc_symbol
-  hgnc_symbol: CFH
-  entrez: '3075'
-- word: FGR
-  symbol: FGR
-  source: hgnc_symbol
-  hgnc_symbol: FGR
-  entrez: '2268'
-chemicals: []
-diseases: []
-figid_alias: PMC3086918__F1
-redirect_from: /figures/PMC3086918__F1
-figtype: Figure
+  - FIRRM
+  - ENG
+  - TGFB1
+  - SCYL3
+  - CCL15
+  - GCLC
+  - TNMD
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC3405863__cshperspect-SIG-005975_F1
+figtitle: Patterning of the early Drosophila embryo
+organisms:
+- Drosophila melanogaster
+- Homo sapiens
+pmcid: PMC3405863
+filename: cshperspect-SIG-005975_F1.jpg
 figlink: /pmc/articles/PMC3405863/figure/A005975F1/
 number: F1
 caption: Patterning of the early Drosophila embryo. (A) Anterior–posterior patterning
@@ -20,18 +26,21 @@ caption: Patterning of the early Drosophila embryo. (A) Anterior–posterior pat
   at the poles of the embryo, which will lead to induction of the terminal patterning
   genes tailless and huckebein. Torso is an RTK and its action is propagated through
   the MAPK pathway.
-pmcid: PMC3405863
 papertitle: Signaling Mechanisms Controlling Cell Fate and Embryonic Patterning.
 reftext: Norbert Perrimon, et al. Cold Spring Harb Perspect Biol. 2012 Aug;4(8):a005975.
-pmc_ranked_result_index: '173900'
-pathway_score: 0.9251928
-filename: cshperspect-SIG-005975_F1.jpg
-figtitle: Patterning of the early Drosophila embryo
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9251928
+figid_alias: PMC3405863__F1
+figtype: Figure
+organisms_ner:
 - Drosophila melanogaster
+redirect_from: /figures/PMC3405863__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,148 +70,46 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ARAF
-  - RHO
-  - MAPK14
-  - IHH
-  - RAF1
-  - BRAF
-  - MAPK1
-  - SNAI1
-  - DHH
-  - MAPK3
-  - MAP2K6
-  - RASA1
-  - MAP2K3
-  - MAPK12
-  - MAPK9
-  - MAP2K5
-  - SHH
-  - MAPK10
-  - MAPK13
-  - MAP2K4
-  - MAPK8
-  - MAPK11
-  - MAP2K7
-genes:
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: rho
-  symbol: RHO
-  source: hgnc_symbol
-  hgnc_symbol: RHO
-  entrez: '6010'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: IHH
-  entrez: '3549'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: sna
-  symbol: SNA
-  source: hgnc_alias_symbol
-  hgnc_symbol: SNAI1
-  entrez: '6615'
-- word: hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: DHH
-  entrez: '50846'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: Dsor1/MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K6
-  entrez: '5608'
-- word: Gap
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: Dsor1/MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K3
-  entrez: '5606'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: Dsor1/MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K5
-  entrez: '5607'
-- word: hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: SHH
-  entrez: '6469'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: Dsor1/MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K4
-  entrez: '6416'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: Rolled/MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: Dsor1/MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K7
-  entrez: '5609'
-chemicals: []
-diseases: []
-figid_alias: PMC3405863__F1
-redirect_from: /figures/PMC3405863__F1
-figtype: Figure
+  - cad
+  - bcd
+  - nos
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - gt
+  - tll
+  - hb
+  - kni
+  - run
+  - .na.character
+  - en
+  - dl
+  - tor
+  - Ras85D
+  - ras
+  - Raf
+  - Dsor1
+  - hep
+  - dpp
+  - DppIII
+  - zen
+  - Alg3
+  - MKP-4
+  - p38b
+  - rl
+  - rho
+  - Bx
+  - Rho1
+  - Lcp65Ab1
+  - ap
+  - Poxn
+  - sna
+  - Tailor
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - twi
 ---

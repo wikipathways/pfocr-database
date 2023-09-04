@@ -1,5 +1,10 @@
 ---
 figid: PMC3220362__cshperspect-PRT-007526_F1
+figtitle: ER quality control system
+organisms:
+- NA
+pmcid: PMC3220362
+filename: cshperspect-PRT-007526_F1.jpg
 figlink: /pmc/articles/PMC3220362/figure/A007526F1/
 number: F1
 caption: 'Schematic model of the ER quality control system. Selected components are
@@ -36,18 +41,21 @@ caption: 'Schematic model of the ER quality control system. Selected components 
   ubiquitin proteasome pathway. A recent report suggests that misfolded TA proteins
   are also degraded by the ERAD pathway (). Autophagy also degrades some ERAD substrates,
   but its recognition mechanism is not well understood.'
-pmcid: PMC3220362
 papertitle: Protein Folding and Quality Control in the ER.
 reftext: Kazutaka Araki, et al. Cold Spring Harb Perspect Biol. 2011 Nov;3(11):a007526.
-pmc_ranked_result_index: '222669'
-pathway_score: 0.9537184
-filename: cshperspect-PRT-007526_F1.jpg
-figtitle: ER quality control system
 year: '2011'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9537184
+figid_alias: PMC3220362__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3220362__F1
 ndex: 7b2a4fe4-deec-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -94,77 +102,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - LMAN2L
-  - PDIA3
-  - CANX
-  - ASNA1
-  - ESR1
-  - BAG6
-  - COMMD3
-  - EDEM1
-  - CALR
+  - Tailor
+  - ple
+  - Eig71Ee
+  - l(2)46Da
+  - anon-48Ae
+  - crt
+  - Calr
+  - Cnx14D
+  - Cnx99A
+  - era
+  - sel
+  - sei
+  - E3
   - disulfide
   - Mannose
-genes:
-- word: ERGICS3VIP38/VIPL
-  symbol: VIPL
-  source: hgnc_alias_symbol
-  hgnc_symbol: LMAN2L
-  entrez: '81562'
-- word: ERP57
-  symbol: ERp57
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDIA3
-  entrez: '2923'
-- word: CNX/CRTeycle
-  symbol: CNX
-  source: hgnc_alias_symbol
-  hgnc_symbol: CANX
-  entrez: '821'
-- word: (Get3)
-  symbol: GET3
-  source: hgnc_alias_symbol
-  hgnc_symbol: ASNA1
-  entrez: '439'
-- word: ERA
-  symbol: ER-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: ESR1
-  entrez: '2099'
-- word: Bat3
-  symbol: BAT3
-  source: hgnc_prev_symbol
-  hgnc_symbol: BAG6
-  entrez: '7917'
-- word: BUP
-  symbol: BUP
-  source: hgnc_alias_symbol
-  hgnc_symbol: COMMD3
-  entrez: '23412'
-- word: TRC40
-  symbol: TRC40
-  source: hgnc_alias_symbol
-  hgnc_symbol: ASNA1
-  entrez: '439'
-- word: EDEM/23?
-  symbol: EDEM
-  source: hgnc_alias_symbol
-  hgnc_symbol: EDEM1
-  entrez: '9695'
-- word: CNX/CRT
-  symbol: CRT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CALR
-  entrez: '811'
-chemicals:
-- word: disulfide
-  source: MESH
-  identifier: D004220
-- word: Mannose
-  source: MESH
-  identifier: D008358
-diseases: []
-figid_alias: PMC3220362__F1
-redirect_from: /figures/PMC3220362__F1
-figtype: Figure
 ---

@@ -1,0 +1,334 @@
+---
+figid: PMC8624829__pharmaceuticals-14-01197-g005
+figtitle: Cucumis sativus L. Seeds Ameliorate Muscular Spasm-Induced Gastrointestinal
+  and Respiratory Disorders by Simultaneously Inhibiting Calcium Mediated Signaling
+  Pathway
+organisms:
+- NA
+pmcid: PMC8624829
+filename: pharmaceuticals-14-01197-g005.jpg
+figlink: /pmc/articles/PMC8624829/figure/pharmaceuticals-14-01197-f005/
+number: F5
+caption: KEGG pathway for calcium mediates signaling and cholinergic synapse. The
+  red boxes indicate the possible proteins targets of compounds.
+papertitle: Cucumis sativus L. Seeds Ameliorate Muscular Spasm-Induced Gastrointestinal
+  and Respiratory Disorders by Simultaneously Inhibiting Calcium Mediated Signaling
+  Pathway.
+reftext: Muqeet Wahid, et al. Pharmaceuticals (Basel). 2021 Nov;14(11):1197.
+year: '2021'
+doi: 10.3390/ph14111197
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords: asthma | antidiarrheal | bronchodilator | Cucumis sativus | cucumber | HPLC
+  | LC-ESI-MS/MS
+automl_pathway: 0.9331481
+figid_alias: PMC8624829__F5
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+redirect_from: /figures/PMC8624829__F5
+ndex: ''
+seo: CreativeWork
+schema-jsonld:
+  '@context': https://schema.org/
+  '@id': https://pfocr.wikipathways.org/figures/PMC8624829__pharmaceuticals-14-01197-g005.html
+  '@type': Dataset
+  description: KEGG pathway for calcium mediates signaling and cholinergic synapse.
+    The red boxes indicate the possible proteins targets of compounds.
+  license: CC0
+  name: CreativeWork
+  creator:
+    '@type': Organization
+    name: WikiPathways
+  keywords:
+  - na
+  - Oamb
+  - mir-ban
+  - Orai
+  - Calx
+  - PMCA
+  - Roc1a
+  - Roc2
+  - Ric
+  - Roc1b
+  - ChAT
+  - Tie
+  - Ras85D
+  - InR
+  - Tcr
+  - RhoGAP1A
+  - ac
+  - gs
+  - gg
+  - Ggamma1
+  - Ggamma30A
+  - Oatp58Dc
+  - ATPsynbeta
+  - Atpalpha
+  - oo
+  - norpA
+  - sl
+  - Plc21C
+  - AcCoAS
+  - Acsl
+  - Cypl
+  - Cyt-c1
+  - E(spl)malpha-BFM
+  - Stim
+  - tim
+  - achi
+  - emc
+  - ChT
+  - Cht11
+  - Cht6
+  - mbl
+  - Cht8
+  - Cht9
+  - Cht2
+  - Cht7
+  - Cht5
+  - Cht4
+  - Cht12
+  - chaetae
+  - Cht10
+  - sr
+  - Ace
+  - SERCA
+  - spg
+  - Itpr
+  - Trpml
+  - Ms
+  - mb
+  - E(spl)mbeta-HLH
+  - mi
+  - mo
+  - Galphas
+  - tRNA:Glu-TTC-1-5
+  - tRNA:Glu-TTC-1-3
+  - tRNA:Glu-TTC-1-2
+  - tRNA:Glu-TTC-1-6
+  - tRNA:Glu-TTC-1-1
+  - tRNA:Glu-TTC-1-4
+  - MCU
+  - ant
+  - sesB
+  - Antp
+  - ems
+  - ove
+  - Strn-Mlck
+  - Nos
+  - nos
+  - Pde1c
+  - por
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - pr
+  - Proc
+  - CrebB
+  - CrebA
+  - MKP-4
+  - p38b
+  - rl
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - term
+  - de
+  - Dsor1
+  - Mtk
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - MAP3K8
+  - CROT
+  - TLX2
+  - CHAT
+  - SH2D3C
+  - CA6
+  - CAV2
+  - CAV3
+  - TRBV20OR9-2
+  - TRA
+  - TRB
+  - TRD
+  - TRG
+  - BCR
+  - RN7SL263P
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - EBP
+  - GNAS
+  - GNAL
+  - GNG10
+  - GNG11
+  - GNG12
+  - GNG13
+  - GNG2
+  - GNG3
+  - GNG4
+  - GNG5
+  - GNG7
+  - GNG8
+  - GNGT1
+  - GNGT2
+  - SLCO1A2
+  - ATP8A2
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - SPHK1
+  - SPHK2
+  - PLA2G15
+  - ACSS2
+  - ACCS
+  - CECR7
+  - CYC1
+  - CCNI
+  - RBM14
+  - KANK2
+  - CACYBP
+  - TP53INP1
+  - TSACC
+  - RBM14-RBM4
+  - MMD
+  - PI3
+  - FGFR3
+  - SLC5A7
+  - HRC
+  - CASQ1
+  - ACHE
+  - XK
+  - NLRP1
+  - PLN
+  - ATP2A1
+  - ATP2A2
+  - ATP2A3
+  - C2
+  - ITPR1
+  - ITPR3
+  - CCDC6
+  - SLC25A19
+  - MS
+  - MB
+  - JAK2
+  - GAA
+  - SLC25A4
+  - SLC25A6
+  - CALM2
+  - CALM3
+  - PICALM
+  - SNAP91
+  - CALM1
+  - FYB1
+  - CAMK4
+  - CAMK2G
+  - CAMK1
+  - CAMK1D
+  - CAMK1G
+  - CAMK2A
+  - CAMK2B
+  - CAMK2D
+  - SLC27A4
+  - ISYNA1
+  - WAS
+  - MYLK
+  - MYLK2
+  - MYLK3
+  - PHKA2
+  - PHKA1
+  - PHKB
+  - PHKG1
+  - PHKG2
+  - NOS1
+  - NOS2
+  - NOS3
+  - PDE1A
+  - PDE1B
+  - PDE1C
+  - PTK2B
+  - POR
+  - VDAC2
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - PROC
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+---

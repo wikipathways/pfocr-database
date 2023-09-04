@@ -1,5 +1,11 @@
 ---
 figid: PMC4200213__cshperspectmed-TUB-021105_F4
+figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
+  drugs
+organisms:
+- Mycobacterium tuberculosis
+pmcid: PMC4200213
+filename: cshperspectmed-TUB-021105_F4.jpg
 figlink: /pmc/articles/PMC4200213/figure/A021105F4/
 number: F4
 caption: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
@@ -22,19 +28,21 @@ caption: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti
   action of Mtb inhibitors are indicated. Drugs presently or formerly used in the
   clinical treatment of TB are in red; inhibitors under development are in blue (see
   ). THL, thiolactomycin; PZA, pyrazinamide.
-pmcid: PMC4200213
 papertitle: The Mycobacterial Cell Envelope—Lipids.
 reftext: Mary Jackson. Cold Spring Harb Perspect Med. 2014 Oct;4(10):a021105.
-pmc_ranked_result_index: '155007'
-pathway_score: 0.8840388
-filename: cshperspectmed-TUB-021105_F4.jpg
-figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of anti-TB
-  drugs
 year: '2014'
-organisms:
-- Mycobacterium tuberculosis
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8840388
+figid_alias: PMC4200213__F4
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC4200213__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -66,48 +74,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KIT
-  - INHA
-  - NDUFAB1
   - dimethyl coumarins
   - Pyridomycin
   - Mycolic acids
   - Thiophenes
   - Triclosan
-genes:
-- word: CD117
-  symbol: CD117
-  source: hgnc_alias_symbol
-  hgnc_symbol: KIT
-  entrez: '3815'
-- word: InhA
-  symbol: INHA
-  source: hgnc_symbol
-  hgnc_symbol: INHA
-  entrez: '3623'
-- word: ACP
-  symbol: ACP
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDUFAB1
-  entrez: '4706'
-chemicals:
-- word: dimethyl coumarins
-  source: MESH
-  identifier: C030123
-- word: Pyridomycin
-  source: MESH
-  identifier: C458999
-- word: Mycolic acids
-  source: MESH
-  identifier: D009171
-- word: Thiophenes
-  source: MESH
-  identifier: D013876
-- word: Triclosan
-  source: MESH
-  identifier: D014260
-diseases: []
-figid_alias: PMC4200213__F4
-redirect_from: /figures/PMC4200213__F4
-figtype: Figure
 ---

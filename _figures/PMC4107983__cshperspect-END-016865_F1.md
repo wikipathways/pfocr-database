@@ -1,5 +1,10 @@
 ---
 figid: PMC4107983__cshperspect-END-016865_F1
+figtitle: Transcriptional programs controlling endocytosis
+organisms:
+- NA
+pmcid: PMC4107983
+filename: cshperspect-END-016865_F1.jpg
 figlink: /pmc/articles/PMC4107983/figure/A016865F1/
 number: F1
 caption: 'Transcriptional programs controlling endocytosis. Lysosomal stress (A) and/or
@@ -19,18 +24,21 @@ caption: 'Transcriptional programs controlling endocytosis. Lysosomal stress (A)
   (transcriptional-dependent) stimulation of RCP-mediated recycling of integrin-EGFR
   complexes, leading to induced migration and metastasis. The molecular mechanism
   for this remains unclear.'
-pmcid: PMC4107983
 papertitle: Endocytosis, Signaling, and Beyond.
 reftext: Pier Paolo Di Fiore, et al. Cold Spring Harb Perspect Biol. 2014 Aug;6(8):a016865.
-pmc_ranked_result_index: '137654'
-pathway_score: 0.9513091
-filename: cshperspect-END-016865_F1.jpg
-figtitle: Transcriptional programs controlling endocytosis
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9513091
+figid_alias: PMC4107983__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4107983__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -60,51 +68,18 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - EGFR
-  - RABEP1
-  - TFEB
   - TP53
-  - HIF1A
   - OPN1LW
+  - CRCP
+  - RAB11FIP1
+  - TFEB
   - RAB5A
-genes:
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: Rabaptin-5
-  symbol: rabaptin-5
-  source: hgnc_alias_symbol
-  hgnc_symbol: RABEP1
-  entrez: '9135'
-- word: TFEB
-  symbol: TFEB
-  source: hgnc_symbol
-  hgnc_symbol: TFEB
-  entrez: '7942'
-- word: TP53
-  symbol: TP53
-  source: hgnc_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: HIF-1a)
-  symbol: HIF1A
-  source: hgnc_symbol
-  hgnc_symbol: HIF1A
-  entrez: '3091'
-- word: RCP
-  symbol: RCP
-  source: hgnc_prev_symbol
-  hgnc_symbol: OPN1LW
-  entrez: '5956'
-- word: RAB5
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-chemicals: []
-diseases: []
-figid_alias: PMC4107983__F1
-redirect_from: /figures/PMC4107983__F1
-figtype: Figure
+  - MTG1
+  - APP
+  - SUCLA2
+  - RPE65
+  - UVRAG
+  - TP63
+  - CKAP4
+  - HIF1A
 ---

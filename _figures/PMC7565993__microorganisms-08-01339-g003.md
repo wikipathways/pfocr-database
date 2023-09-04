@@ -1,5 +1,13 @@
 ---
 figid: PMC7565993__microorganisms-08-01339-g003
+figtitle: Carbon metabolism in the WT during AsIII exposure, with mannitol being the
+  initial substrate
+organisms:
+- Agrobacterium tumefaciens
+- Agrobacterium tumefaciens 5A
+- Homo sapiens
+pmcid: PMC7565993
+filename: microorganisms-08-01339-g003.jpg
 figlink: pmc/articles/PMC7565993/figure/microorganisms-08-01339-f003/
 number: F3
 caption: Model of carbon metabolism in the WT during AsIII exposure, with mannitol
@@ -13,28 +21,22 @@ caption: Model of carbon metabolism in the WT during AsIII exposure, with mannit
   by AsIII; (PDH = pyruvate dehydrogenase; KDGH = alpha-ketoglutarate dehydrogenase).
   Transcripts are denoted by AT5A identification number (purple text), with a triangle
   indication increased expression (←) or decreased expression (↔) upon AsIII exposure.
-pmcid: PMC7565993
 papertitle: Metabolic Responses to Arsenite Exposure Regulated through Histidine Kinases
   PhoR and AioS in Agrobacterium tumefaciens 5A.
 reftext: Rachel A. Rawle, et al. Microorganisms. 2020 Sep;8(9):1339.
-pmc_ranked_result_index: '77727'
-pathway_score: 0.8911332
-filename: microorganisms-08-01339-g003.jpg
-figtitle: Carbon metabolism in the WT during AsIII exposure, with mannitol being the
-  initial substrate
 year: '2020'
-organisms:
-- Rhodococcus sp. NAU-1
-- Agrobacterium tumefaciens 5A
-- Corynebacterium glutamicum
-- Herminiimonas arsenicoxydans
-- Agriosomyces longus
-- Venustaconcha ellipsiformis
-- Agrobacterium tumefaciens
-- Arabidopsis thaliana
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8911332
+figid_alias: PMC7565993__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7565993__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,13 +59,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PAEP
-  - DLAT
-  - DLD
-  - PDHA1
-  - PDHA2
-  - PDHB
-  - PDHX
   - Maltotriose
   - Maltotetraose
   - Glucose
@@ -113,192 +108,4 @@ schema-jsonld:
   - Xanthine
   - Nurokhanthine
   - Glucose-1-P X2  Maltopentose
-genes:
-- word: PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: PDH!
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-chemicals:
-- word: Maltotriose
-  source: MESH
-  identifier: C008317
-- word: Maltotetraose
-  source: MESH
-  identifier: C009819
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Maltohexaose
-  source: MESH
-  identifier: C016549
-- word: D-Mannitol
-  source: MESH
-  identifier: D008353
-- word: Glucose-6-P
-  source: MESH
-  identifier: D005947
-- word: D-Ribose
-  source: MESH
-  identifier: D012266
-- word: D-Sorbitol
-  source: MESH
-  identifier: D013012
-- word: Fructose
-  source: MESH
-  identifier: D005632
-- word: Isonicotinate
-  source: MESH
-  identifier: C094021
-- word: 3-Deoxy-D-arabino-heptulosonate
-  source: MESH
-  identifier: C013469
-- word: Fructose-1,6-bis P
-  source: MESH
-  identifier: D005632
-- word: Nicotinate
-  source: MESH
-  identifier: D009525
-- word: Formate
-  source: MESH
-  identifier: D005561
-- word: L-Alanine
-  source: MESH
-  identifier: D000409
-- word: L-soleucine
-  source: MESH
-  identifier: C025076
-- word: Uracil
-  source: MESH
-  identifier: D014498
-- word: 22266 Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Pyrimidine cytosine
-  source: MESH
-  identifier: D003596
-- word: L-Valine
-  source: MESH
-  identifier: C035810
-- word: PDH
-  source: MESH
-  identifier: C027714
-- word: L-Leucine
-  source: MESH
-  identifier: C027819
-- word: Phenylalanine
-  source: MESH
-  identifier: C119108
-- word: L-Tryptophan
-  source: ''
-  identifier: ''
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: B-Alanine
-  source: MESH
-  identifier: D000409
-- word: Leucine
-  source: MESH
-  identifier: C038361
-- word: L-Tyrosine
-  source: ''
-  identifier: ''
-- word: L-Isoleucine
-  source: MESH
-  identifier: C043801
-- word: Valine
-  source: MESH
-  identifier: C521924
-- word: V16821
-  source: MESH
-  identifier: D014639
-- word: Aspartate
-  source: ''
-  identifier: ''
-- word: Oxaloacetate
-  source: MESH
-  identifier: D010071
-- word: Lysine
-  source: MESH
-  identifier: C114808
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: Succinyl-CoA
-  source: MESH
-  identifier: C012046
-- word: Glutamate
-  source: ''
-  identifier: ''
-- word: proline
-  source: MESH
-  identifier: C489032
-- word: L-Arginine
-  source: ''
-  identifier: ''
-- word: Ornithine
-  source: MESH
-  identifier: C008973
-- word: V09485
-  source: MESH
-  identifier: D014639
-- word: L-Glutamine
-  source: ''
-  identifier: ''
-- word: Proline
-  source: MESH
-  identifier: C489032
-- word: Putrescine
-  source: MESH
-  identifier: D011700
-- word: Purine
-  source: MESH
-  identifier: D011687
-- word: V24280
-  source: MESH
-  identifier: D014639
-- word: Xanthine
-  source: MESH
-  identifier: D019820
-- word: Nurokhanthine
-  source: ''
-  identifier: ''
-diseases:
-- word: Glucose-1-P X2  Maltopentose
-  source: MESH
-  identifier: C566748
-figid_alias: PMC7565993__F3
-redirect_from: /figures/PMC7565993__F3
-figtype: Figure
 ---

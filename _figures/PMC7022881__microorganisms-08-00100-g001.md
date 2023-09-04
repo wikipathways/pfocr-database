@@ -1,5 +1,12 @@
 ---
 figid: PMC7022881__microorganisms-08-00100-g001
+figtitle: Two signaling pathways that respond to extracellular glucose in Saccharomyces
+  cerevisiae
+organisms:
+- Saccharomyces cerevisiae
+- Homo sapiens
+pmcid: PMC7022881
+filename: microorganisms-08-00100-g001.jpg
 figlink: pmc/articles/PMC7022881/figure/microorganisms-08-00100-f001/
 number: F1
 caption: Two signaling pathways that respond to extracellular glucose in Saccharomyces
@@ -18,24 +25,23 @@ caption: Two signaling pathways that respond to extracellular glucose in Sacchar
   phosphorylate Std1 and Mth1. The phosphorylated Std1 and Mth1 are then degraded
   by ubiquitin-dependent proteolysis. Without corepressors Std1 and Mth1, Rgt1 does
   not repress the expression of genes such as HXTs, etc.
-pmcid: PMC7022881
 papertitle: Simulating Extracellular Glucose Signals Enhances Xylose Metabolism in
   Recombinant Saccharomyces cerevisiae.
 reftext: Meiling Wu, et al. Microorganisms. 2020 Jan;8(1):100.
-pmc_ranked_result_index: '4684'
-pathway_score: 0.9158133
-filename: microorganisms-08-00100-g001.jpg
-figtitle: Two signaling pathways that respond to extracellular glucose in Saccharomyces
-  cerevisiae
 year: '2020'
-organisms:
-- metagenome
-- Scheffersomyces stipitis
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Bos taurus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9158133
+figid_alias: PMC7022881__F1
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
+redirect_from: /figures/PMC7022881__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -64,167 +70,54 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - GPR1
-  - CDC25B
+  - CDC25
+  - SNF3
+  - RGT2
+  - YCK2
+  - YCK1
+  - GPA2
+  - IRA2
+  - IRA1
+  - CYR1
+  - MTH1
+  - STD1
+  - PDE2
+  - PDE1
+  - TPK2
+  - TPK3
+  - TPK1
+  - BCY1
+  - RGT1
+  - GBP2
+  - HXK2
+  - HXT1
+  - HXT2
+  - HXT4
+  - HXT3
+  - CMKLR2
   - CDC25C
+  - RASGRF1
   - CDC25A
-  - HRAS
+  - CDC25B
   - KRAS
+  - HRAS
   - NRAS
+  - MTG1
   - GPHA2
   - TBL1XR1
   - NUDT1
+  - ATP8A2
+  - APRT
   - MFAP1
   - PDE1A
-  - PDE1C
   - PDE1B
-  - TPK1
+  - PDE1C
   - FBN1
-  - GBP2
   - GBP1
+  - HK2
   - Glucose
   - glucose
   - GDP
   - ATP
   - AMP
-genes:
-- word: Gpr1
-  symbol: GPR1
-  source: hgnc_symbol
-  hgnc_symbol: GPR1
-  entrez: '2825'
-- word: Cdc25
-  symbol: CDC25
-  source: bioentities_symbol
-  hgnc_symbol: CDC25B
-  entrez: '994'
-- word: Cdc25
-  symbol: CDC25
-  source: bioentities_symbol
-  hgnc_symbol: CDC25C
-  entrez: '995'
-- word: Cdc25
-  symbol: CDC25
-  source: bioentities_symbol
-  hgnc_symbol: CDC25A
-  entrez: '993'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Raş
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: Gpa2
-  symbol: GPA2
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPHA2
-  entrez: '170589'
-- word: Ira1,2
-  symbol: IRA1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TBL1XR1
-  entrez: '79718'
-- word: Mth1
-  symbol: MTH1
-  source: hgnc_prev_symbol
-  hgnc_symbol: NUDT1
-  entrez: '4521'
-- word: АMP
-  symbol: AMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MFAP1
-  entrez: '4236'
-- word: Pde1,2
-  symbol: PDE1
-  source: bioentities_symbol
-  hgnc_symbol: PDE1A
-  entrez: '5136'
-- word: Pde1,2
-  symbol: PDE1
-  source: bioentities_symbol
-  hgnc_symbol: PDE1C
-  entrez: '5137'
-- word: Pde1,2
-  symbol: PDE1
-  source: bioentities_symbol
-  hgnc_symbol: PDE1B
-  entrez: '5153'
-- word: Tpk1,2,3
-  symbol: TPK1
-  source: hgnc_symbol
-  hgnc_symbol: TPK1
-  entrez: '27010'
-- word: Mth1
-  symbol: MTH1
-  source: hgnc_prev_symbol
-  hgnc_symbol: NUDT1
-  entrez: '4521'
-- word: Mass
-  symbol: MASS
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBN1
-  entrez: '2200'
-- word: Gbp1,2
-  symbol: GBP2
-  source: hgnc_symbol
-  hgnc_symbol: GBP2
-  entrez: '2634'
-- word: Gbp1,2
-  symbol: GBP1
-  source: hgnc_symbol
-  hgnc_symbol: GBP1
-  entrez: '2633'
-- word: HXT1,2,3,4,HXK2,MTH1,STD1,etc.
-  symbol: MTH1
-  source: hgnc_prev_symbol
-  hgnc_symbol: NUDT1
-  entrez: '4521'
-- word: MTH1,
-  symbol: MTH1
-  source: hgnc_prev_symbol
-  hgnc_symbol: NUDT1
-  entrez: '4521'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: glucose
-  source: MESH
-  identifier: D005947
-- word: GDP
-  source: MESH
-  identifier: D006153
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: AMP
-  source: MESH
-  identifier: D000249
-diseases: []
-figid_alias: PMC7022881__F1
-redirect_from: /figures/PMC7022881__F1
-figtype: Figure
 ---

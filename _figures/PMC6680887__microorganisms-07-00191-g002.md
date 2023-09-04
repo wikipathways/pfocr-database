@@ -1,24 +1,32 @@
 ---
 figid: PMC6680887__microorganisms-07-00191-g002
+figtitle: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
+  of DNA damage pathway
+organisms:
+- NA
+pmcid: PMC6680887
+filename: microorganisms-07-00191-g002.jpg
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f002/
 number: F2
 caption: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
   of DNA damage pathway. (A) Repair of O6-methylguanine by the MGMT protein. (B) Repair
   of N1-methyladenine and N3-methylcytosine by ALKB protein. Only N1-methyladenine
   is represented.
-pmcid: PMC6680887
 papertitle: DNA Damage Response Pathways in Dinoflagellates.
 reftext: Chongping Li, et al. Microorganisms. 2019 Jul;7(7):191.
-pmc_ranked_result_index: '112508'
-pathway_score: 0.918271
-filename: microorganisms-07-00191-g002.jpg
-figtitle: Diagrammatic summary of dinoflagellate orthologues in the direct reversal
-  of DNA damage pathway
 year: '2019'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.918271
+figid_alias: PMC6680887__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC6680887__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -34,38 +42,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MGMT
-  - ALKBH1
-  - 'N''me  O''me '
+  - ome
+  - Cys
+  - mmy
+  - Csp
+  - AlkB
+  - 'Nme  Ome '
   - 'N'
   - Cys
   - O
-genes:
-- word: MGMT
-  symbol: MGMT
-  source: hgnc_symbol
-  hgnc_symbol: MGMT
-  entrez: '4255'
-- word: ALKB
-  symbol: alkB
-  source: hgnc_alias_symbol
-  hgnc_symbol: ALKBH1
-  entrez: '8846'
-chemicals:
-- word: 'N''me  O''me '
-  source: MESH
-  identifier: C526611
-- word: 'N'
-  source: MESH
-  identifier: D009584
-- word: Cys
-  source: MESH
-  identifier: C046557
-- word: O
-  source: MESH
-  identifier: D013481
-diseases: []
-figid_alias: PMC6680887__F2
-redirect_from: /figures/PMC6680887__F2
-figtype: Figure
 ---

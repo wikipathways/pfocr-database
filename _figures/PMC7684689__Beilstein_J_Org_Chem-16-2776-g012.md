@@ -1,5 +1,11 @@
 ---
 figid: PMC7684689__Beilstein_J_Org_Chem-16-2776-g012
+figtitle: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
+  of the isoprenyl esters
+organisms:
+- NA
+pmcid: PMC7684689
+filename: Beilstein_J_Org_Chem-16-2776-g012.jpg
 figlink: pmc/articles/PMC7684689/figure/C5/
 number: S5
 caption: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
@@ -18,20 +24,22 @@ caption: Proposed biosynthetic pathway of fatty acids leading to the observed re
   likely takes place in form of the conjugated acids, e.g., coenzyme A esters or acyl
   carrier proteins. Finally, the acids are converted into the isoprenyl esters and
   the hydroxy acids are acylated.
-pmcid: PMC7684689
 papertitle: 3-Acetoxy-fatty acid isoprenyl esters from androconia of the ithomiine
   butterfly Ithomia salapia.
 reftext: Florian Mann, et al. Beilstein J Org Chem. 2020;16:2776-2787.
-pmc_ranked_result_index: '12401'
-pathway_score: 0.8321371
-filename: Beilstein_J_Org_Chem-16-2776-g012.jpg
-figtitle: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
-  of the isoprenyl esters
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8321371
+figid_alias: PMC7684689__S5
+figtype: Scheme
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7684689__S5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -59,7 +67,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BCR
+  - gus
+  - ds
+  - red
+  - trc
+  - dh
+  - hy
   - fatty acid
   - (Z)-9-hexadecenoic acid
   - palmitic acid
@@ -75,65 +88,4 @@ schema-jsonld:
   - (Z)-11-octadecenoic acid
   - (Z)-9-octadecenoic
   - (Z)-3-hydroxy-13-eicosenoic acid
-genes:
-- word: A11
-  symbol: ALL
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCR
-  entrez: '613'
-- word: A11
-  symbol: ALL
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCR
-  entrez: '613'
-chemicals:
-- word: fatty acid
-  source: MESH
-  identifier: D005227
-- word: (Z)-9-hexadecenoic acid
-  source: MESH
-  identifier: C090151
-- word: palmitic acid
-  source: MESH
-  identifier: D019308
-- word: (Z)-11-hexadecenoic acid
-  source: MESH
-  identifier: C090151
-- word: malonate
-  source: MESH
-  identifier: D008314
-- word: (Z)-3-hydroxy-11-octadecenoic acid
-  source: MESH
-  identifier: C065593
-- word: 3-hydroxyoctadecanoic acid
-  source: MESH
-  identifier: C061806
-- word: (Z)-3-hydroxy-13-octadecenoic acid
-  source: MESH
-  identifier: C037352
-- word: (2E,11Z)-octadeca-2,11-dienoic acid
-  source: MESH
-  identifier: C046938
-- word: (E)-octadec-2-enoic acid
-  source: MESH
-  identifier: C069772
-- word: (2E,13Z)-octadeca-2,13-dienoic acid
-  source: MESH
-  identifier: C497340
-- word: stearic acid
-  source: MESH
-  identifier: D013229
-- word: (Z)-11-octadecenoic acid
-  source: MESH
-  identifier: C065593
-- word: (Z)-9-octadecenoic
-  source: MESH
-  identifier: C065593
-- word: (Z)-3-hydroxy-13-eicosenoic acid
-  source: MESH
-  identifier: C572289
-diseases: []
-figid_alias: PMC7684689__S5
-redirect_from: /figures/PMC7684689__S5
-figtype: Scheme
 ---

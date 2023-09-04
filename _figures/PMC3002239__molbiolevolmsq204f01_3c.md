@@ -1,5 +1,11 @@
 ---
 figid: PMC3002239__molbiolevolmsq204f01_3c
+figtitle: Functional Compensation of Primary and Secondary Metabolites by Duplicate
+  Genes in Arabidopsis thaliana
+organisms:
+- NA
+pmcid: PMC3002239
+filename: molbiolevolmsq204f01_3c.jpg
 figlink: /pmc/articles/PMC3002239/figure/fig1/
 number: F1
 caption: Metabolic pathways in 35 metabolites in Arabidopsis. (A) Open circles and
@@ -16,20 +22,22 @@ caption: Metabolic pathways in 35 metabolites in Arabidopsis. (A) Open circles a
   in red were quantified in this study. Abbreviation of each metabolite is shown in
   supplementary table S1, Supplementary Material online. The metabolic pathways are
   modified from .
-pmcid: PMC3002239
 papertitle: Functional Compensation of Primary and Secondary Metabolites by Duplicate
   Genes in Arabidopsis thaliana.
 reftext: Kousuke Hanada, et al. Mol Biol Evol. 2011 Jan;28(1):377-382.
-pmc_ranked_result_index: '28773'
-pathway_score: 0.8732076
-filename: molbiolevolmsq204f01_3c.jpg
-figtitle: Functional Compensation of Primary and Secondary Metabolites by Duplicate
-  Genes in Arabidopsis thaliana
 year: '2011'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8732076
+figid_alias: PMC3002239__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3002239__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,46 +63,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TYRP1
-  - PTPN5
   - indole-3-glycerol-phosphate
   - 4MTB
   - D-glyceraldehyde-3-phosphate
   - glyoxylate
   - Ser
   - Trp
-genes:
-- word: Trp
-  symbol: TRP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TYRP1
-  entrez: '7306'
-- word: steps
-  symbol: STEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTPN5
-  entrez: '84867'
-chemicals:
-- word: indole-3-glycerol-phosphate
-  source: MESH
-  identifier: C008117
-- word: 4MTB
-  source: MESH
-  identifier: C066074
-- word: D-glyceraldehyde-3-phosphate
-  source: MESH
-  identifier: D005986
-- word: glyoxylate
-  source: MESH
-  identifier: D006038
-- word: Ser
-  source: MESH
-  identifier: D012694
-- word: Trp
-  source: MESH
-  identifier: D014364
-diseases: []
-figid_alias: PMC3002239__F1
-redirect_from: /figures/PMC3002239__F1
-figtype: Figure
 ---

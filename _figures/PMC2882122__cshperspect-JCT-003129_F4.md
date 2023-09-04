@@ -1,5 +1,11 @@
 ---
 figid: PMC2882122__cshperspect-JCT-003129_F4
+figtitle: Selection of expression patterns and activities of members of the cadherin
+  superfamily in cancer
+organisms:
+- NA
+pmcid: PMC2882122
+filename: cshperspect-JCT-003129_F4.jpg
 figlink: /pmc/articles/PMC2882122/figure/A003129F4/
 number: F4
 caption: 'Selection of expression patterns and activities of members of the cadherin
@@ -38,19 +44,22 @@ caption: 'Selection of expression patterns and activities of members of the cadh
   pathway, which controls organ size in Drosophila and is affected in several human
   cancers. See text for details and references. (a.o.) Amongst others; (EC) extracellular
   cadherin repeat; (PM) plasma membrane; (TK) tyrosine kinase domain.'
-pmcid: PMC2882122
 papertitle: Involvement of Members of the Cadherin Superfamily in Cancer.
 reftext: Geert Berx, et al. Cold Spring Harb Perspect Biol. 2009 Dec;1(6):a003129.
-pmc_ranked_result_index: '153184'
-pathway_score: 0.9281531
-filename: cshperspect-JCT-003129_F4.jpg
-figtitle: Selection of expression patterns and activities of members of the cadherin
-  superfamily in cancer
 year: '2009'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9281531
+figid_alias: PMC2882122__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Drosophila melanogaster
+redirect_from: /figures/PMC2882122__F4
 ndex: fd7774df-df0b-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -100,286 +109,130 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - OPN1LW
-  - FGFR4
-  - APC
-  - AXIN2
-  - AXIN1
-  - FGFR1
-  - FGFR3
-  - AR
-  - FAT4
-  - FGFRL1
-  - PLCD4
-  - PCDH11Y
-  - FGFR2
-  - DCHS1
-  - CDH1
-  - PLCZ1
-  - CDH2
-  - PLCD1
-  - MAP2K5
-  - MAPK3
-  - SGMS1
   - CDH13
-  - PLCG1
-  - PLCG2
+  - DCHS1
+  - FAT4
   - GPI
+  - GNPDA1
+  - CDH1
+  - FZR1
+  - CDH10
+  - PCDH11Y
+  - PCDH11X
   - SAV1
-  - PLCB2
-  - PLCB3
-  - CDH5
+  - MAP3K10
+  - MPST
+  - TAM
+  - MSTO1
+  - SGMS1
+  - MOB2
+  - MOB3A
+  - MOB3B
+  - MOB3C
+  - MOB4
+  - MOB1A
+  - MOB1B
+  - LATS1
+  - LATS2
+  - NKS1
+  - ADAR
+  - DVL1P1
+  - AXIN1
+  - AXIN2
+  - CDH2
+  - APC
+  - PROC
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
   - MAPK8
   - MAPK9
-  - MAPK1
-  - MAPK12
-  - MAP2K6
-  - LAT
   - MAPK10
-  - PLCB1
-  - PLCB4
+  - TK1
+  - TK2
+  - HSPG2
   - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
   - PLCD3
-  - MAPK11
-  - MAPK14
-  - MAP2K7
-  - MAP2K3
-  - MAPK13
-  - MAP2K4
-genes:
-- word: CBP
-  symbol: CBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: OPN1LW
-  entrez: '5956'
-- word: FGFR
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR4
-  entrez: '2264'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-- word: Axin
-  symbol: AXIN
-  source: bioentities_symbol
-  hgnc_symbol: AXIN2
-  entrez: '8313'
-- word: Axin
-  symbol: AXIN
-  source: bioentities_symbol
-  hgnc_symbol: AXIN1
-  entrez: '8312'
-- word: FGFR
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR1
-  entrez: '2260'
-- word: FGFR
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR3
-  entrez: '2261'
-- word: AR-independent
-  symbol: AR
-  source: hgnc_symbol
-  hgnc_symbol: AR
-  entrez: '367'
-- word: FAT4
-  symbol: FAT4
-  source: hgnc_symbol
-  hgnc_symbol: FAT4
-  entrez: '79633'
-- word: FGFR
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFRL1
-  entrez: '53834'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD4
-  entrez: '84812'
-- word: PCDH11Y
-  symbol: PCDH11Y
-  source: hgnc_symbol
-  hgnc_symbol: PCDH11Y
-  entrez: '83259'
-- word: FGFR
-  symbol: FGFR
-  source: bioentities_symbol
-  hgnc_symbol: FGFR2
-  entrez: '2263'
-- word: DCHS1
-  symbol: DCHS1
-  source: hgnc_symbol
-  hgnc_symbol: DCHS1
-  entrez: '8642'
-- word: E-cadherin
-  symbol: CDH1
-  source: hgnc_symbol
-  hgnc_symbol: CDH1
-  entrez: '999'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCZ1
-  entrez: '89869'
-- word: CDH2
-  symbol: CDH2
-  source: hgnc_symbol
-  hgnc_symbol: CDH2
-  entrez: '1000'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD1
-  entrez: '5333'
-- word: (MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K5
-  entrez: '5607'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: (Mob
-  symbol: MOB
-  source: hgnc_alias_symbol
-  hgnc_symbol: SGMS1
-  entrez: '259230'
-- word: =CDH13
-  symbol: CDH13
-  source: hgnc_symbol
-  hgnc_symbol: CDH13
-  entrez: '1012'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG1
-  entrez: '5335'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG2
-  entrez: '5336'
-- word: GPI
-  symbol: GPI
-  source: hgnc_symbol
-  hgnc_symbol: GPI
-  entrez: '2821'
-- word: (ww45
-  symbol: WW45
-  source: hgnc_alias_symbol
-  hgnc_symbol: SAV1
-  entrez: '60485'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: VE-cadherin
-  symbol: CDH5
-  source: hgnc_symbol
-  hgnc_symbol: CDH5
-  entrez: '1003'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: (MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K6
-  entrez: '5608'
-- word: Lats
-  symbol: LAT
-  source: hgnc_symbol
-  hgnc_symbol: LAT
-  entrez: '27040'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCE1
-  entrez: '51196'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD3
-  entrez: '113026'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: (MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K7
-  entrez: '5609'
-- word: (MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K3
-  entrez: '5606'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: (MAPKK
-  symbol: MAPKK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K4
-  entrez: '6416'
-chemicals: []
-diseases: []
-figid_alias: PMC2882122__F4
-redirect_from: /figures/PMC2882122__F4
-figtype: Figure
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - CDH5
+  - FGFR1
+  - FGFR2
+  - FGFR3
+  - FGFR4
+  - FGFRL1
+  - CPA1
+  - CHPT1
+  - DHDDS
+  - TEAD1
+  - TEAD2
+  - TEAD3
+  - TEAD4
+  - SPINK1
+  - MANEA
+  - AR
+  - CREBBP
+  - EIF4E
+  - OPN1LW
+  - PAG1
+  - PCBP4
+  - dos
+  - ex
+  - Pgi
+  - shg
+  - fzr
+  - hpo
+  - hp
+  - mst
+  - Mst84Dd
+  - Mst84Dc
+  - Mst84Db
+  - Mst84Da
+  - CG12279
+  - Mst87F
+  - Mst98Cb
+  - Mst98Ca
+  - mats
+  - wts
+  - pch
+  - dsh
+  - Axn
+  - CadN
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - MKP-4
+  - p38b
+  - rl
+  - Tk
+  - norpA
+  - sl
+  - Plc21C
+  - btl
+  - htl
+  - cpa
+  - Cpt
+  - CG7149
+  - CPT2
+  - sd
+  - pan
+  - Tcp
+  - EndoA
+  - ar
+  - aa
+  - Dsor1
+  - hep
+  - CBP
+  - nej
+  - eIF4E1
 ---

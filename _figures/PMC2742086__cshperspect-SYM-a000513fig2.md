@@ -1,5 +1,10 @@
 ---
 figid: PMC2742086__cshperspect-SYM-a000513fig2
+figtitle: Functional and structural organization of migratory mesenchymal cells
+organisms:
+- NA
+pmcid: PMC2742086
+filename: cshperspect-SYM-a000513fig2.jpg
 figlink: /pmc/articles/PMC2742086/figure/A000513F2/
 number: F2
 caption: Functional and structural organization of migratory mesenchymal cells. (A)
@@ -16,19 +21,23 @@ caption: Functional and structural organization of migratory mesenchymal cells. 
   polarity signaling pathways. Polarity protein complexes (blue) are upstream and
   downstream of Rho small GTPases (Rac1 and Cdc42) and their downstream effectors
   (yellow) and end-point effects (white). For details, see text.
-pmcid: PMC2742086
 papertitle: 'Remodeling Epithelial Cell Organization: Transitions Between Front–Rear
   and Apical–Basal Polarity.'
 reftext: W. James Nelson. Cold Spring Harb Perspect Biol. 2009 Jul;1(1):a000513.
-pmc_ranked_result_index: '140679'
-pathway_score: 0.9609012
-filename: cshperspect-SYM-a000513fig2.jpg
-figtitle: Functional and structural organization of migratory mesenchymal cells
 year: '2009'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9609012
+figid_alias: PMC2742086__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2742086__F2
 ndex: 0d507e86-ded9-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,123 +64,62 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Cdc42
+  - Rac1
+  - Rac2
+  - cue
+  - Rho1
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - scrib
+  - sqh
+  - zip
+  - dlg1
+  - Dlg5
+  - dlg2
+  - par
+  - para
+  - par-6
+  - scb
+  - aPKC
+  - baz
+  - sgg
+  - Axn
+  - gskt
+  - numb
+  - Gtd
+  - l(2)gl
+  - lgs
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - CDC42
+  - RAC1
+  - RNASE1
+  - RHOA
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - NR1I2
+  - JTB
+  - F2RL2
+  - PARD3
+  - PARD6A
+  - PWAR6
   - GSK3B
-  - APC
+  - TIAM1
+  - NUMB
+  - B4GALT1
+  - ITGA2B
   - MYL4
   - GSK3A
-  - ACTA2
-  - ACTA1
-  - ENG
-  - PARD6A
-  - ACTC1
-  - RAC1
-  - ACTB
-  - TIAM1
-  - JTB
-  - NUMB
-  - RHOA
-  - ACTG1
-  - CDC42
-  - ACTG2
-genes:
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-- word: (BPIX1/GT1
-  symbol: GT1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MYL4
-  entrez: '4635'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: GSK3B
-  symbol: GSK3B
-  source: hgnc_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: end
-  symbol: END
-  source: hgnc_alias_symbol
-  hgnc_symbol: ENG
-  entrez: '2022'
-- word: PAR3/6
-  symbol: PAR-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: PARD6A
-  entrez: '50855'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Rac1/Cdc42
-  symbol: RAC1
-  source: hgnc_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: TIAM-1
-  symbol: TIAM1
-  source: hgnc_symbol
-  hgnc_symbol: TIAM1
-  entrez: '7074'
-- word: PAR
-  symbol: PAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: JTB
-  entrez: '10899'
-- word: (Numb
-  symbol: NUMB
-  source: hgnc_symbol
-  hgnc_symbol: NUMB
-  entrez: '8650'
-- word: RhoA
-  symbol: RhoA
-  source: hgnc_alias_symbol
-  hgnc_symbol: RHOA
-  entrez: '387'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: Rac1/Cdc42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-chemicals: []
-diseases: []
-figid_alias: PMC2742086__F2
-redirect_from: /figures/PMC2742086__F2
-figtype: Figure
+  - APC
+  - PROC
 ---

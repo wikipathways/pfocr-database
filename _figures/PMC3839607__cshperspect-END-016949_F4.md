@@ -1,5 +1,10 @@
 ---
 figid: PMC3839607__cshperspect-END-016949_F4
+figtitle: Endosomal sorting regulates integrin-based focal adhesions
+organisms:
+- NA
+pmcid: PMC3839607
+filename: cshperspect-END-016949_F4.jpg
 figlink: /pmc/articles/PMC3839607/figure/A016949F4/
 number: F4
 caption: Endosomal sorting regulates integrin-based focal adhesions. Focal adhesions
@@ -17,18 +22,21 @@ caption: Endosomal sorting regulates integrin-based focal adhesions. Focal adhes
   the flux of integrins through the endocytic pathway, rather than their surface levels,
   dictates migration speed. Accordingly, the levels of both Dab2 and dynamin display
   broad variation in several types of carcinomas (see ).
-pmcid: PMC3839607
 papertitle: Endocytosis and Cancer.
 reftext: Ira Mellman, et al. Cold Spring Harb Perspect Biol. 2013 Dec;5(12):a016949.
-pmc_ranked_result_index: '174668'
-pathway_score: 0.9434641
-filename: cshperspect-END-016949_F4.jpg
-figtitle: Endosomal sorting regulates integrin-based focal adhesions
 year: '2013'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9434641
+figid_alias: PMC3839607__F4
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3839607__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,40 +63,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GPR162
-  - RAB4A
-  - PTK2
-  - DAB2
-  - RAB5A
-genes:
-- word: a1/2/3
-  symbol: A-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPR162
-  entrez: '27239'
-- word: (Rab4)
-  symbol: RAB4
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB4A
-  entrez: '5867'
-- word: FAK)
-  symbol: FAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2
-  entrez: '5747'
-- word: DAB2
-  symbol: DAB2
-  source: hgnc_symbol
-  hgnc_symbol: DAB2
-  entrez: '1601'
-- word: (Rab5)
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-chemicals: []
-diseases: []
-figid_alias: PMC3839607__F4
-redirect_from: /figures/PMC3839607__F4
-figtype: Figure
+  - Rab11
+  - Rab4
+  - ee
+  - Rab5
+  - Act5C
+  - Fak
+  - shi
+  - egh
+  - LanB1
+  - betaTub56D
+  - mys
+  - Prosbeta1
+  - Pen
+  - alphaTub85E
+  - Prosalpha2
+  - nAChRalpha2
+  - Col4a1
+  - Ca-alpha1D
+  - alphaTub84B
+  - nAChRalpha1
+  - wb
+  - Prosalpha1
+  - A3
+  - nAChRalpha3
+  - Prosalpha3
+  - alphaTub84D
 ---

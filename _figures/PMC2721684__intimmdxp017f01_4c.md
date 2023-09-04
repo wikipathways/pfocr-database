@@ -1,5 +1,10 @@
 ---
 figid: PMC2721684__intimmdxp017f01_4c
+figtitle: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2
+organisms:
+- Homo sapiens
+pmcid: PMC2721684
+filename: intimmdxp017f01_4c.jpg
 figlink: /pmc/articles/PMC2721684/figure/fig1/
 number: F1
 caption: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2. (A) The TLR4–MD-2
@@ -19,18 +24,21 @@ caption: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2. (A) The TLR
   and recognizes dsRNA. It recruits TRIF to activate the TRIF-dependent pathway. (H)
   TLR1–TLR2 recognizes bacterial triacylated lipopeptide and recruits TIRAP and MyD88
   at the plasma membrane to activate the MyD88-dependent pathway.
-pmcid: PMC2721684
 papertitle: The roles of TLRs, RLRs and NLRs in pathogen recognition.
 reftext: Taro Kawai, et al. Int Immunol. 2009 Apr;21(4):317-337.
-pmc_ranked_result_index: '85485'
-pathway_score: 0.9500853
-filename: intimmdxp017f01_4c.jpg
-figtitle: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2
 year: '2009'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9500853
+figid_alias: PMC2721684__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2721684__F1
 ndex: 34afdc35-dec7-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -60,190 +68,43 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - IRF6
+  - TLR4
+  - LY96
+  - TRAM1
+  - TICAM2
+  - TMED7-TICAM2
+  - TLR3
+  - TIRAP
+  - MYD88
+  - TRIM69
+  - TICAM1
+  - IRAK4
+  - IRAK1
+  - IRAK2
+  - TRAF6
+  - UQCRFS1
+  - RIPK1
+  - RALBP1
+  - KRR1
+  - TRAF3
+  - MAP3K7
+  - NR2C2
+  - TBK1
+  - IKBKE
+  - MAPK1
+  - MAPK3
+  - MAPK11
   - MAPK12
   - MAPK13
-  - IKBKB
-  - TRAF6
-  - CHUK
-  - MAPK9
-  - MAPK8
-  - LY96
-  - TRAF3
-  - MAPK3
-  - MAPK1
-  - MAPK11
-  - MAPK10
-  - IFNA1
-  - IKBKE
-  - MYD88
-  - TBK1
-  - IRAK2
-  - NR2C2
-  - IKBKG
-  - IRAK1
-  - TLR4
   - MAPK14
-  - IRF6
-  - KRR1
-  - TIRAP
-  - TLR3
-  - IRAK4
-  - NFKB1
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - IKBKG
+  - CHUK
+  - IKBKB
   - IRF3
-genes:
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: IKKa/B
-  symbol: IKK-beta
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: TRAF6
-  symbol: TRAF6
-  source: hgnc_symbol
-  hgnc_symbol: TRAF6
-  entrez: '7189'
-- word: IKKa/B
-  symbol: IKK-alpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MD-2,
-  symbol: MD-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: LY96
-  entrez: '23643'
-- word: TRAF3
-  symbol: TRAF3
-  source: hgnc_symbol
-  hgnc_symbol: TRAF3
-  entrez: '7187'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: IFN
-  symbol: IFN
-  source: hgnc_alias_symbol
-  hgnc_symbol: IFNA1
-  entrez: '3439'
-- word: IKKI
-  symbol: IKK-i
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKE
-  entrez: '9641'
-- word: MyD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: TBK1
-  symbol: TBK1
-  source: hgnc_symbol
-  hgnc_symbol: TBK1
-  entrez: '29110'
-- word: IRAK1,2,4|
-  symbol: IRAK2
-  source: hgnc_symbol
-  hgnc_symbol: IRAK2
-  entrez: '3656'
-- word: TAK1
-  symbol: TAK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NR2C2
-  entrez: '7182'
-- word: NEMO
-  symbol: NEMO
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: IRAK1,2,4|
-  symbol: IRAK1
-  source: hgnc_symbol
-  hgnc_symbol: IRAK1
-  entrez: '3654'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: LPS
-  symbol: LPS
-  source: hgnc_prev_symbol
-  hgnc_symbol: IRF6
-  entrez: '3664'
-- word: RIP1
-  symbol: RIP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: KRR1
-  entrez: '11103'
-- word: TIRAP
-  symbol: TIRAP
-  source: hgnc_symbol
-  hgnc_symbol: TIRAP
-  entrez: '114609'
-- word: TLR3
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: IRAK1,2,4|
-  symbol: IRAK4
-  source: hgnc_symbol
-  hgnc_symbol: IRAK4
-  entrez: '51135'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-chemicals: []
-diseases: []
-figid_alias: PMC2721684__F1
-redirect_from: /figures/PMC2721684__F1
-figtype: Figure
+  - NFKB1
+  - IFNA1
 ---

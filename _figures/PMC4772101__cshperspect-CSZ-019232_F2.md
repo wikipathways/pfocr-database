@@ -1,5 +1,10 @@
 ---
 figid: PMC4772101__cshperspect-CSZ-019232_F2
+figtitle: Mechanical signaling and tissue growth
+organisms:
+- NA
+pmcid: PMC4772101
+filename: cshperspect-CSZ-019232_F2.jpg
 figlink: /pmc/articles/PMC4772101/figure/A019232F2/
 number: F2
 caption: Mechanical signaling and tissue growth. (A) Force generation and force transmission
@@ -22,18 +27,22 @@ caption: Mechanical signaling and tissue growth. (A) Force generation and force 
   with the ECM in an actin-independent way, via Jun amino-terminal kinase (JNK) and
   p38. Also involved in this regulation and shown on the figure are the SRF cofactors
   (Sap and Net) at the SRF-binding consensus element (CArG).
-pmcid: PMC4772101
 papertitle: Mechanical Forces and Growth in Animal Tissues.
 reftext: Loïc LeGoff, et al. Cold Spring Harb Perspect Biol. 2016 Mar;8(3):a019232.
-pmc_ranked_result_index: '62242'
-pathway_score: 0.893937
-filename: cshperspect-CSZ-019232_F2.jpg
-figtitle: Mechanical signaling and tissue growth
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.893937
+figid_alias: PMC4772101__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC4772101__F2
 ndex: e27d086c-dea0-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -66,124 +75,68 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CTNNB1
-  - CCND1
-  - CCND3
-  - TAZ
+  - Act5C
+  - sqh
+  - zip
+  - Low
+  - shg
+  - scb
+  - arm
+  - rhea
+  - Actn
+  - Fak
+  - bsk
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - AIMP2
+  - p38a
+  - Hrb87F
+  - p38c
+  - Rac1
+  - Taz
+  - Dis3
+  - Srf
+  - mal
+  - bs
+  - CycD
+  - yki
+  - myo
+  - Mhc
   - CDH1
-  - SRF
-  - CCND2
-  - MAPK10
-  - RAC3
-  - RAC1
+  - FZR1
+  - CTNNB1
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
   - PTK2
-  - RHOG
-  - MAPK12
   - MAPK8
-  - RAC2
-  - MAPK14
   - MAPK9
-  - MAPK13
+  - MAPK10
+  - CRK
+  - MAPK14
+  - MAPK1
+  - GRAP2
+  - AHSA1
+  - POLDIP2
   - MAPK11
-genes:
-- word: -catenin,B-catenin,vinculin.
-  symbol: beta-catenin
-  source: hgnc_alias_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: Cyclin-D
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND1
-  entrez: '595'
-- word: Cyclin-D
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND3
-  entrez: '896'
-- word: Yki-YAP/TAZ
-  symbol: TAZ
-  source: hgnc_symbol
-  hgnc_symbol: TAZ
-  entrez: '6901'
-- word: E-cadherin
-  symbol: CDH1
-  source: hgnc_symbol
-  hgnc_symbol: CDH1
-  entrez: '999'
-- word: SRF
-  symbol: SRF
-  source: hgnc_symbol
-  hgnc_symbol: SRF
-  entrez: '6722'
-- word: Cyclin-D
-  symbol: Cyclin_D
-  source: bioentities_symbol
-  hgnc_symbol: CCND2
-  entrez: '894'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: Rac-GTP
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC3
-  entrez: '5881'
-- word: Rac-GTP
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: FAK-P
-  symbol: FAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTK2
-  entrez: '5747'
-- word: Rac-GTP
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RHOG
-  entrez: '391'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: Rac-GTP
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC2
-  entrez: '5880'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-chemicals: []
-diseases: []
-figid_alias: PMC4772101__F2
-redirect_from: /figures/PMC4772101__F2
-figtype: Figure
+  - MAPK12
+  - MAPK13
+  - AKT1
+  - RAC1
+  - RAC2
+  - RAC3
+  - RHOG
+  - TAFAZZIN
+  - WWTR1
+  - SRF
+  - FAS-AS1
+  - CCND1
+  - CCND2
+  - CCND3
+  - YAP1
 ---

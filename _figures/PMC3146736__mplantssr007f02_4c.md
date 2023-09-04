@@ -1,5 +1,12 @@
 ---
 figid: PMC3146736__mplantssr007f02_4c
+figtitle: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulation
+  of Plant Meristem Development.(A) In CZ of shoot meristem, ARR7 and ARR15 act as
+  integrative factors in auxin and cytokinin signaling pathways
+organisms:
+- NA
+pmcid: PMC3146736
+filename: mplantssr007f02_4c.jpg
 figlink: /pmc/articles/PMC3146736/figure/fig2/
 number: F2
 caption: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulation
@@ -23,20 +30,21 @@ caption: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulati
   for the LR initiation and LRP patterning. By contrast, cytokinin negatively regulates
   the LR initiation and LRP patterning by inhibiting the expression of PINs and the
   auxin distribution gradients. LR, lateral roots; LRP, lateral root primordia.
-pmcid: PMC3146736
 papertitle: Auxin–Cytokinin Interaction Regulates Meristem Development.
 reftext: Ying-Hua Su, et al. Mol Plant. 2011 Jul;4(4):616-625.
-pmc_ranked_result_index: '181338'
-pathway_score: 0.7914392
-filename: mplantssr007f02_4c.jpg
-figtitle: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulation
-  of Plant Meristem Development.(A) In CZ of shoot meristem, ARR7 and ARR15 act as
-  integrative factors in auxin and cytokinin signaling pathways
 year: '2011'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7914392
+figid_alias: PMC3146736__F2
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+redirect_from: /figures/PMC3146736__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -70,58 +78,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SULT1A3
-  - DNAJC22
-  - DYNLL1
-  - ARL14
-  - ARRB1
-  - TRIT1
-  - GPSM2
-  - XIRP1
-genes:
-- word: STM
-  symbol: STM
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1A3
-  entrez: '6818'
-- word: WUS
-  symbol: wus
-  source: hgnc_alias_symbol
-  hgnc_symbol: DNAJC22
-  entrez: '79962'
-- word: PIN
-  symbol: PIN
-  source: hgnc_alias_symbol
-  hgnc_symbol: DYNLL1
-  entrez: '8655'
-- word: ARF7/19
-  symbol: ARF7
-  source: hgnc_prev_symbol
-  hgnc_symbol: ARL14
-  entrez: '80117'
-- word: AHK3/ARR1
-  symbol: ARR1
-  source: hgnc_prev_symbol
-  hgnc_symbol: ARRB1
-  entrez: '408'
-- word: IPT
-  symbol: IPT
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRIT1
-  entrez: '54802'
-- word: (PINS)
-  symbol: Pins
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPSM2
-  entrez: '29899'
-- word: Ашxin
-  symbol: Xin
-  source: hgnc_alias_symbol
-  hgnc_symbol: XIRP1
-  entrez: '165904'
-chemicals: []
-diseases: []
-figid_alias: PMC3146736__F2
-redirect_from: /figures/PMC3146736__F2
-figtype: Figure
+  - YUC1
+  - STM
+  - SHM1
+  - MP
+  - IPT7
+  - ARR7
+  - CLV3
+  - WUS
+  - HK3
+  - RR1
+  - SHY2
+  - AXR3
+  - ARF16
+  - ARF10
+  - IAA14
+  - WOX5
+  - NPH4
+  - ARF19
+  - LBD16
+  - LBD29
 ---

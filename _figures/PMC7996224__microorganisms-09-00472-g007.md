@@ -1,5 +1,11 @@
 ---
 figid: PMC7996224__microorganisms-09-00472-g007
+figtitle: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
+  prototrophic suppressor mutants
+organisms:
+- Escherichia coli
+pmcid: PMC7996224
+filename: microorganisms-09-00472-g007.jpg
 figlink: pmc/articles/PMC7996224/figure/microorganisms-09-00472-f007/
 number: F7
 caption: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
@@ -9,23 +15,22 @@ caption: Model depicting stress-induced mutagenesis leading to the emergence of 
   in a subpopulation of the cells. Some of the clones obtain, by chance, the ability
   to increase their intracellular level of pyruvate (Step 3), which provides HYE032
   cells with an adequate amount of L-alanine to proliferate (Step 4).
-pmcid: PMC7996224
 papertitle: L-Alanine Prototrophic Suppressors Emerge from L-Alanine Auxotroph through
   Stress-Induced Mutagenesis in Escherichia coli.
 reftext: Harutaka Mishima, et al. Microorganisms. 2021 Mar;9(3):472.
-pmc_ranked_result_index: '40885'
-pathway_score: 0.9587052
-filename: microorganisms-09-00472-g007.jpg
-figtitle: Model depicting stress-induced mutagenesis leading to the emergence of L-alanine
-  prototrophic suppressor mutants
 year: '2021'
-organisms:
-- Escherichia coli str. K-12 substr. W3110
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Escherichia coli K-12
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9587052
+figid_alias: PMC7996224__F7
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7996224__F7
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,36 +50,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SERPINA1
   - Ala
   - glucose
   - pyruvate L-Ala
   - TSA
   - L-Ala
-genes:
-- word: Ala
-  symbol: A1A
-  source: hgnc_alias_symbol
-  hgnc_symbol: SERPINA1
-  entrez: '5265'
-chemicals:
-- word: Ala
-  source: MESH
-  identifier: C026593
-- word: glucose
-  source: MESH
-  identifier: D005947
-- word: pyruvate L-Ala
-  source: MESH
-  identifier: D011773
-- word: TSA
-  source: MESH
-  identifier: C070842
-- word: L-Ala
-  source: MESH
-  identifier: C435323
-diseases: []
-figid_alias: PMC7996224__F7
-redirect_from: /figures/PMC7996224__F7
-figtype: Figure
 ---

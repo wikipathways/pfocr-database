@@ -1,5 +1,12 @@
 ---
 figid: PMC3348497__geronagls102f01_3c
+figtitle: Insulin-like growth factor (IGF)-1 signal transduction
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+pmcid: PMC3348497
+filename: geronagls102f01_3c.jpg
 figlink: /pmc/articles/PMC3348497/figure/fig1/
 number: F1
 caption: Insulin-like growth factor (IGF)-1 signal transduction. IGF-1 binds to IGF-1R
@@ -13,19 +20,23 @@ caption: Insulin-like growth factor (IGF)-1 signal transduction. IGF-1 binds to 
   survival and enhances endothelial nitric oxide synthase activity, thereby inducing
   vasodilation. The Ras/Raf pathway is critical for proliferative responses, whereas
   activation of Rac is important for cell migration.
-pmcid: PMC3348497
 papertitle: Aging, Atherosclerosis, and IGF-1.
 reftext: Yusuke Higashi, et al. J Gerontol A Biol Sci Med Sci. 2012 Jun;67A(6):626-639.
-pmc_ranked_result_index: '73674'
-pathway_score: 0.9587623
-filename: geronagls102f01_3c.jpg
-figtitle: Insulin-like growth factor (IGF)-1 signal transduction
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9587623
+figid_alias: PMC3348497__F1
+figtype: Figure
+organisms_ner:
 - Mus musculus
+- Homo sapiens
 - Rattus norvegicus
+redirect_from: /figures/PMC3348497__F1
 ndex: 00407c8f-dee3-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,188 +60,54 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R5
-  - MAP2K2
-  - HRAS
+  - Igf1
+  - Igf1r
+  - pl
+  - Irs1
+  - Akt1
+  - Zhx2
+  - ras
+  - Hras
+  - Kras
+  - Rem1
+  - Pik3r1
+  - Mdk
+  - Nos3
+  - IGF1
+  - IGF1R
+  - IRS1
+  - AKT1
+  - RAC1
+  - RAC2
+  - RAC3
+  - RHOG
+  - ZHX2
+  - ARAF
   - BRAF
   - RAF1
-  - NRAS
-  - PIK3CB
-  - PIK3R6
   - KRAS
-  - NOS3
-  - IGF1
-  - ARAF
-  - MAP2K1
-  - PIK3CD
-  - AKT3
-  - PIK3R4
-  - RAC3
-  - RAC2
-  - AKT1
-  - AKT2
-  - IRS1
-  - RAC1
+  - HRAS
+  - NRAS
   - PIK3CA
-  - IGF1R
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
-  - RHOG
   - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - NOS3
+  - ENO4
+  - AKT2
+  - AKT3
+  - Pik3cg
   - Cancer
   - Cardiomyopathy
   - Lung cancer
   - Noonan syndrome
-genes:
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: Ras/Raf
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Ras/Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: Ras/Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: Ras/Raf
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: Ras/Raf
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: ENOS
-  symbol: eNOS
-  source: hgnc_alias_symbol
-  hgnc_symbol: NOS3
-  entrez: '4846'
-- word: IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: Ras/Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: Rac
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC3
-  entrez: '5881'
-- word: Rac
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC2
-  entrez: '5880'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: IRS-1.
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: Rac
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: IGF-1R
-  symbol: IGF1R
-  source: hgnc_symbol
-  hgnc_symbol: IGF1R
-  entrez: '3480'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: Rac
-  symbol: RAC
-  source: bioentities_symbol
-  hgnc_symbol: RHOG
-  entrez: '391'
-- word: PI3k
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Lung cancer
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC3348497__F1
-redirect_from: /figures/PMC3348497__F1
-figtype: Figure
 ---

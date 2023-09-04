@@ -1,5 +1,10 @@
 ---
 figid: PMC5553762__RevDiabeticStud-13-113-003
+figtitle: Physiological Effects of Dandelion (Taraxacum Officinale) in Type 2 Diabetes
+organisms:
+- NA
+pmcid: PMC5553762
+filename: RevDiabeticStud-13-113-003.jpg
 figlink: /pmc/articles/PMC5553762/figure/F2/
 number: F2
 caption: The diagram specifies potential mechanisms of bioactive components from dandelion
@@ -23,19 +28,22 @@ caption: The diagram specifies potential mechanisms of bioactive components from
   the release of insulin. X represents the modulation of the insulin receptor by dandelion-derived
   compounds, which induces insulin secretion via regulation of IDX 1 factor, GLUT2,
   glucokinase, and endoplasmic reticulum Ca ions.
-pmcid: PMC5553762
 papertitle: The Physiological Effects of Dandelion (Taraxacum Officinale) in Type
   2 Diabetes.
 reftext: Fonyuy E. Wirngo, et al. Rev Diabet Stud. 2016 Summer-Fall;13(2-3):113-131.
-pmc_ranked_result_index: '138265'
-pathway_score: 0.9248533
-filename: RevDiabeticStud-13-113-003.jpg
-figtitle: Physiological Effects of Dandelion (Taraxacum Officinale) in Type 2 Diabetes
 year: '2016'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9248533
+figid_alias: PMC5553762__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC5553762__F2
 ndex: 86978616-df0c-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -69,173 +77,45 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PRKAR2B
-  - CGA
-  - CA2
-  - IRS4
-  - IRS2
-  - IGF1
-  - IRS1
-  - ABCC8
-  - PRKD3
-  - PDX1
-  - PRKACA
-  - PRKCA
-  - PRKCB
-  - PRKCD
-  - PRKCQ
-  - PRKAR1B
-  - PRKAR2A
-  - PRKACB
-  - PRKCH
-  - PRKCE
-  - PRKCG
-  - PRKCZ
-  - PRKAR1A
-  - PRKACG
-  - PRKCI
+  - sel
+  - tRNA:Arg-TCG-3-4
+  - tRNA:Arg-TCG-3-1
+  - tRNA:Arg-TCG-2-4
+  - tRNA:Arg-TCG-2-2
+  - tRNA:Arg-TCG-3-2
+  - tRNA:Arg-TCG-4-1
+  - tRNA:Arg-TCG-2-1
+  - tRNA:Arg-TCG-3-3
+  - tRNA:Arg-TCG-2-3
+  - tRNA:Arg-TCG-1-1
+  - cra
+  - GlyP
+  - Ts
+  - Surf1
+  - Sur
+  - G6P
+  - Pen
+  - alphaTub85E
+  - Prosalpha2
+  - nAChRalpha2
+  - ATPsynbeta
+  - Atpalpha
+  - un
+  - CycE
+  - cyc
+  - adp
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - IRSp53
+  - IleRS
+  - chico
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
   - Glucose
   - Pyruvate
-genes:
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: CGA
-  symbol: CGA
-  source: hgnc_symbol
-  hgnc_symbol: CGA
-  entrez: '1081'
-- word: Ça2+
-  symbol: CA-II
-  source: hgnc_alias_symbol
-  hgnc_symbol: CA2
-  entrez: '760'
-- word: IRS
-  symbol: IRS
-  source: bioentities_symbol
-  hgnc_symbol: IRS4
-  entrez: '8471'
-- word: IRS
-  symbol: IRS
-  source: bioentities_symbol
-  hgnc_symbol: IRS2
-  entrez: '8660'
-- word: IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: IRS
-  symbol: IRS
-  source: bioentities_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: Sur
-  symbol: SUR
-  source: hgnc_prev_symbol
-  hgnc_symbol: ABCC8
-  entrez: '6833'
-- word: Sur1
-  symbol: SUR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ABCC8
-  entrez: '6833'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: IDX-1
-  symbol: IDX-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDX1
-  entrez: '3651'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-diseases: []
-figid_alias: PMC5553762__F2
-redirect_from: /figures/PMC5553762__F2
-figtype: Figure
 ---

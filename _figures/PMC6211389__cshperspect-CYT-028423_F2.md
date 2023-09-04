@@ -1,5 +1,11 @@
 ---
 figid: PMC6211389__cshperspect-CYT-028423_F2
+figtitle: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
+  gene induction by IFN regulatory factors (IRFs)
+organisms:
+- NA
+pmcid: PMC6211389
+filename: cshperspect-CYT-028423_F2.jpg
 figlink: pmc/articles/PMC6211389/figure/A028423F2/
 number: F2
 caption: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
@@ -21,20 +27,22 @@ caption: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (
   on the endoplasmic reticulum membrane signals downstream of these DNA receptors.
   STING provides a scaffold for recruitment of TBK1, which phosphorylates IRF3 leading
   to the activation of type I IFN gene expression.
-pmcid: PMC6211389
 papertitle: The Interferon (IFN) Class of Cytokines and the IFN Regulatory Factor
   (IRF) Transcription Factor Family.
 reftext: Hideo Negishi, et al. Cold Spring Harb Perspect Biol. 2018 Nov;10(11):a028423.
-pmc_ranked_result_index: '63457'
-pathway_score: 0.9746688
-filename: cshperspect-CYT-028423_F2.jpg
-figtitle: Schematic view of Toll-like receptor (TLR)-mediated type I interferon (IFN)
-  gene induction by IFN regulatory factors (IRFs)
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9746688
+figid_alias: PMC6211389__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6211389__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -67,14 +75,28 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TLR4
+  - TRIM69
+  - TICAM1
   - MYD88
   - TIRAP
-  - TLR9
+  - TRAM1
+  - TICAM2
+  - TMED7-TICAM2
   - TLR7
+  - TLR9
   - TLR3
   - TRAF3
-  - IRAK4
+  - CXCL8
+  - NAP1L1
+  - NAPSA
+  - ACOT8
+  - NCKAP1
+  - TRMO
+  - AZI2
+  - NAA25
+  - TAB3
   - IRAK1
+  - IRAK4
   - TRAF6
   - IRF7
   - IRF1
@@ -84,133 +106,4 @@ schema-jsonld:
   - IRF3
   - IRF8
   - TRAM
-genes:
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: MYD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: MYD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: TIRAP
-  symbol: TIRAP
-  source: hgnc_symbol
-  hgnc_symbol: TIRAP
-  entrez: '114609'
-- word: TLR7/9
-  symbol: TLR9
-  source: hgnc_symbol
-  hgnc_symbol: TLR9
-  entrez: '54106'
-- word: TLR7/9
-  symbol: TLR7
-  source: hgnc_symbol
-  hgnc_symbol: TLR7
-  entrez: '51284'
-- word: TLR3
-  symbol: TLR3
-  source: hgnc_symbol
-  hgnc_symbol: TLR3
-  entrez: '7098'
-- word: MYD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: TRAF3]
-  symbol: TRAF3
-  source: hgnc_symbol
-  hgnc_symbol: TRAF3
-  entrez: '7187'
-- word: IRAK1/4
-  symbol: IRAK4
-  source: hgnc_symbol
-  hgnc_symbol: IRAK4
-  entrez: '51135'
-- word: IRAK1/4
-  symbol: IRAK1
-  source: hgnc_symbol
-  hgnc_symbol: IRAK1
-  entrez: '3654'
-- word: TRAF6
-  symbol: TRAF6
-  source: hgnc_symbol
-  hgnc_symbol: TRAF6
-  entrez: '7189'
-- word: IRF7
-  symbol: IRF7
-  source: hgnc_symbol
-  hgnc_symbol: IRF7
-  entrez: '3665'
-- word: IRF1/5
-  symbol: IRF1
-  source: hgnc_symbol
-  hgnc_symbol: IRF1
-  entrez: '3659'
-- word: IRF1/5
-  symbol: IRF5
-  source: hgnc_symbol
-  hgnc_symbol: IRF5
-  entrez: '3663'
-- word: IKKE
-  symbol: IKKE
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKE
-  entrez: '9641'
-- word: TBK1
-  symbol: TBK1
-  source: hgnc_symbol
-  hgnc_symbol: TBK1
-  entrez: '29110'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF8
-  symbol: IRF8
-  source: hgnc_symbol
-  hgnc_symbol: IRF8
-  entrez: '3394'
-- word: IRF5
-  symbol: IRF5
-  source: hgnc_symbol
-  hgnc_symbol: IRF5
-  entrez: '3663'
-- word: IRF1
-  symbol: IRF1
-  source: hgnc_symbol
-  hgnc_symbol: IRF1
-  entrez: '3659'
-- word: IRF7
-  symbol: IRF7
-  source: hgnc_symbol
-  hgnc_symbol: IRF7
-  entrez: '3665'
-- word: IRF3
-  symbol: IRF3
-  source: hgnc_symbol
-  hgnc_symbol: IRF3
-  entrez: '3661'
-- word: IRF7
-  symbol: IRF7
-  source: hgnc_symbol
-  hgnc_symbol: IRF7
-  entrez: '3665'
-chemicals:
-- word: TRAM
-  source: MESH
-  identifier: C411671
-diseases: []
-figid_alias: PMC6211389__F2
-redirect_from: /figures/PMC6211389__F2
-figtype: Figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC3276397__11_311_issazadeh-navikasf1
+figtitle: Effects of VitA in gut-associated lymphoid tissue
+organisms:
+- NA
+pmcid: PMC3276397
+filename: 11_311_issazadeh-navikasf1.jpg
 figlink: /pmc/articles/PMC3276397/figure/f1-11_311_issazadeh-navikas/
 number: F1
 caption: Overview of the effects of VitA in gut-associated lymphoid tissue. (A) Insufficient
@@ -21,18 +26,22 @@ caption: Overview of the effects of VitA in gut-associated lymphoid tissue. (A) 
   T cells and show an additional upregulation of the mucosal tissue-homing receptors
   CCR9 and integrin β7. GALT, gut-associated lymphoid tissue; RARE, retinoic acid
   response element.
-pmcid: PMC3276397
 papertitle: Influence of Dietary Components on Regulatory T Cells.
 reftext: Shohreh Issazadeh-Navikas, et al. Mol Med. 2012;18(1):95-110.
-pmc_ranked_result_index: '142220'
-pathway_score: 0.918232
-filename: 11_311_issazadeh-navikasf1.jpg
-figtitle: Effects of VitA in gut-associated lymphoid tissue
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.918232
+figid_alias: PMC3276397__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3276397__F1
 ndex: 60d5746a-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -63,88 +72,76 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - TH1
+  - pre
+  - dpp
+  - gbb
+  - put
+  - mav
+  - dc
+  - tlr-2
+  - Galt
+  - beta4GalT7
+  - tt
   - RXRA
-  - GALT
-  - RXRG
-  - RARA
-  - TGFB1
-  - FOXP3
-  - TGFB2
   - RXRB
-  - TLR6
-  - ALDH1A2
-  - TLR2
+  - RXRG
   - NELFCD
+  - RARA
+  - FOXP3
+  - ALDH1A2
+  - TGFB1
+  - TGFB2
   - TGFB3
-genes:
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRA
-  entrez: '6256'
-- word: GALT
-  symbol: GALT
-  source: hgnc_symbol
-  hgnc_symbol: GALT
-  entrez: '2592'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRG
-  entrez: '6258'
-- word: RARa
-  symbol: RARA
-  source: hgnc_symbol
-  hgnc_symbol: RARA
-  entrez: '5914'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: FoxP3
-  symbol: FOXP3
-  source: hgnc_symbol
-  hgnc_symbol: FOXP3
-  entrez: '50943'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRB
-  entrez: '6257'
-- word: TLR2/6
-  symbol: TLR6
-  source: hgnc_symbol
-  hgnc_symbol: TLR6
-  entrez: '10333'
-- word: Raldh2
-  symbol: RALDH2
-  source: hgnc_alias_symbol
-  hgnc_symbol: ALDH1A2
-  entrez: '8854'
-- word: TLR2/6
-  symbol: TLR2
-  source: hgnc_symbol
-  hgnc_symbol: TLR2
-  entrez: '7097'
-- word: Th1
-  symbol: TH1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NELFCD
-  entrez: '51497'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-chemicals: []
-diseases: []
-figid_alias: PMC3276397__F1
-redirect_from: /figures/PMC3276397__F1
-figtype: Figure
+  - TLR2
+  - TLR6
+  - GALT
+  - B3GLCT
+  - H1-0
+  - H1-1
+  - H1-2
+  - H1-3
+  - H1-4
+  - H1-5
+  - H1-6
+  - H1-7
+  - H1-8
+  - H1-10
+  - .na.character
+  - H2AB1
+  - H2AJ
+  - H2AZ2
+  - H2AX
+  - MACROH2A1
+  - MACROH2A2
+  - H2AZ1
+  - H2AC1
+  - H2AC6
+  - H2AC7
+  - H2AC12
+  - H2AC14
+  - H2AC21
+  - H2AC20
+  - H2AC25
+  - H2BC1
+  - H2BC3
+  - H2BC5
+  - H2BC9
+  - H2BC11
+  - H2BC12
+  - H2BC13
+  - H2BC14
+  - H2BC15
+  - H2BC17
+  - H2BC18
+  - H2BC19P
+  - H2BC20P
+  - H2BC21
+  - H2BC26
+  - H2BC12L
+  - H2BW2
+  - H2BW1
+  - H3-4
+  - H3-5
+  - H4C7
 ---

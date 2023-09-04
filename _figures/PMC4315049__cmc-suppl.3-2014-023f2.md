@@ -1,5 +1,10 @@
 ---
 figid: PMC4315049__cmc-suppl.3-2014-023f2
+figtitle: Secretion of FABP4 in association with lipolysis
+organisms:
+- NA
+pmcid: PMC4315049
+filename: cmc-suppl.3-2014-023f2.jpg
 figlink: /pmc/articles/PMC4315049/figure/f2-cmc-suppl.3-2014-023/
 number: F2
 caption: 'Secretion of FABP4 in association with lipolysis. FABP4 lacks an N-terminal
@@ -16,19 +21,23 @@ caption: 'Secretion of FABP4 in association with lipolysis. FABP4 lacks an N-ter
   monoacylglycerol lipase; NPR-A, natriuretic peptide receptor-A; TAG, triacylglyceride;
   IRS-1, insulin receptor substrate 1; PDE-3B, phosphodiesterase 3B; PI3K, phosphatidylinositol-3-kinase;
   PKA, protein kinase A; PKB, protein kinase B; PKG, protein kinase G.'
-pmcid: PMC4315049
 papertitle: 'Fatty Acid-Binding Protein 4 (FABP4): Pathophysiological Insights and
   Potent Clinical Biomarker of Metabolic and Cardiovascular Diseases.'
 reftext: Masato Furuhashi, et al. Clin Med Insights Cardiol. 2014;8(Suppl 3):23-33.
-pmc_ranked_result_index: '156739'
-pathway_score: 0.963857
-filename: cmc-suppl.3-2014-023f2.jpg
-figtitle: Secretion of FABP4 in association with lipolysis
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.963857
+figid_alias: PMC4315049__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC4315049__F2
 ndex: d75b8d33-decb-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,269 +63,79 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PRKACA
-  - ADCY3
-  - PRKAR2A
-  - PRKAR1A
-  - ADCY6
+  - ac
+  - gs
   - GC
-  - GNAI2
-  - PRKAR1B
-  - PDE3B
-  - ADCY7
-  - PRKACG
-  - GNAI3
-  - GNAO1
-  - PRKAR2B
-  - AKT2
-  - GNAZ
-  - GNAI1
-  - FABP4
+  - ATPsynbeta
+  - Atpalpha
+  - pk
+  - Akt
+  - Pkg21D
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - for
+  - Hsl
+  - bmm
+  - mgl
+  - tRNA:Lys-TTT-1-1
+  - tRNA:Lys-TTT-2-4
+  - tRNA:Lys-TTT-2-1
+  - tRNA:Lys-TTT-2-2
+  - tRNA:Lys-TTT-2-5
+  - tRNA:Lys-TTT-2-3
+  - mag
   - NPR1
-  - MGLL
+  - AQP7
+  - ADCY1
   - ADCY2
-  - AKT1
-  - PRKG1
-  - PRKACB
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
   - ADCY8
   - ADCY9
-  - GNAL
-  - GNAS
   - ADCY10
-  - AQP7
-  - PNPLA2
-  - ADCY5
-  - ADCY1
-  - MAG
-  - AKT3
-  - GNAT2
+  - GNAS
+  - GNAL
+  - GNAO1
+  - GNAI1
+  - GNAI2
+  - GNAI3
   - GNAT1
+  - GNAT2
   - GNAT3
-  - LIPE
-  - ADCY4
+  - GNAZ
   - IRS1
+  - ATP8A2
+  - PDE3B
+  - MTG1
+  - AKT1
+  - AKT2
+  - AKT3
+  - PTK2B
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - PRKG1
+  - LIPE
+  - FABP4
+  - PNPLA2
+  - CLEC10A
+  - MGLL
+  - APP
+  - AAAS
+  - AAA1
+  - TMED7
+  - LINC01194
+  - MAG
   - Glycerol
-  - 5'-GMP
-genes:
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: GC
-  symbol: GC
-  source: hgnc_symbol
-  hgnc_symbol: GC
-  entrez: '2638'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAI2
-  entrez: '2771'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: PDE-3B
-  symbol: PDE3B
-  source: hgnc_symbol
-  hgnc_symbol: PDE3B
-  entrez: '5140'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAI3
-  entrez: '2773'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAO1
-  entrez: '2775'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAZ
-  entrez: '2781'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAI1
-  entrez: '2770'
-- word: FABP4
-  symbol: FABP4
-  source: hgnc_symbol
-  hgnc_symbol: FABP4
-  entrez: '2167'
-- word: NPR-A
-  symbol: NPRA
-  source: hgnc_prev_symbol
-  hgnc_symbol: NPR1
-  entrez: '4881'
-- word: MGL
-  symbol: MGL
-  source: hgnc_alias_symbol
-  hgnc_symbol: MGLL
-  entrez: '11343'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: PKB/Akt
-  symbol: PKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PKG
-  symbol: PKG
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: Gs
-  symbol: Gs
-  source: bioentities_symbol
-  hgnc_symbol: GNAL
-  entrez: '2774'
-- word: Gs
-  symbol: Gs
-  source: bioentities_symbol
-  hgnc_symbol: GNAS
-  entrez: '2778'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: AQP7
-  symbol: AQP7
-  source: hgnc_symbol
-  hgnc_symbol: AQP7
-  entrez: '364'
-- word: ATGL
-  symbol: ATGL
-  source: hgnc_alias_symbol
-  hgnc_symbol: PNPLA2
-  entrez: '57104'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: MAG
-  symbol: MAG
-  source: hgnc_symbol
-  hgnc_symbol: MAG
-  entrez: '4099'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PKB/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAT2
-  entrez: '2780'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAT1
-  entrez: '2779'
-- word: Gi
-  symbol: Gi
-  source: bioentities_symbol
-  hgnc_symbol: GNAT3
-  entrez: '346562'
-- word: HSL
-  symbol: HSL
-  source: hgnc_alias_symbol
-  hgnc_symbol: LIPE
-  entrez: '3991'
-- word: AC
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: IRS-1
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-chemicals:
-- word: Glycerol
-  source: MESH
-  identifier: D005990
-- word: 5'-GMP
-  source: MESH
-  identifier: D006157
-diseases: []
-figid_alias: PMC4315049__F2
-redirect_from: /figures/PMC4315049__F2
-figtype: Figure
+  - 5-GMP
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC7498680__mSystems.00277-20-f0004
+figtitle: Defining Genomic and Predicted Metabolic Features of the Acetobacterium
+  Genus
+organisms:
+- NA
+pmcid: PMC7498680
+filename: mSystems.00277-20-f0004.jpg
 figlink: .na.character
 number: F4
 caption: 'The Wood-Ljungdahl pathway (WLP). (A) Pathway diagram of the methyl and
@@ -13,20 +19,22 @@ caption: 'The Wood-Ljungdahl pathway (WLP). (A) Pathway diagram of the methyl an
   tree of formate dehydrogenases from Acetobacterium spp. and closely related proteins.
   Four distinct FDH branches are highlighted, corresponding to the four types of FDH
   cluster I.'
-pmcid: PMC7498680
 papertitle: Defining Genomic and Predicted Metabolic Features of the Acetobacterium
   Genus.
 reftext: Daniel E. Ross, et al. mSystems. 2020 Sep-Oct;5(5):e00277-20.
-pmc_ranked_result_index: '54115'
-pathway_score: 0.9219697
-filename: mSystems.00277-20-f0004.jpg
-figtitle: Defining Genomic and Predicted Metabolic Features of the Acetobacterium
-  Genus
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9219697
+figid_alias: PMC7498680__F4
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7498680__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -74,85 +82,4 @@ schema-jsonld:
   - Acetate
   - acetyl phosphate
   - acetate
-genes: []
-chemicals:
-- word: methyl
-  source: MESH
-  identifier: C031105
-- word: carbonyl
-  source: MESH
-  identifier: C548957
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: Sodium
-  source: MESH
-  identifier: D012964
-- word: formate
-  source: MESH
-  identifier: D005561
-- word: THF
-  source: MESH
-  identifier: C006461
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: formyl-THF
-  source: MESH
-  identifier: C006461
-- word: methenyl-THF
-  source: MESH
-  identifier: C006461
-- word: methylene-THF
-  source: MESH
-  identifier: C006461
-- word: methyl-THF
-  source: MESH
-  identifier: C006461
-- word: acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Formate
-  source: MESH
-  identifier: D005561
-- word: Formate-tetrahydrofolate
-  source: MESH
-  identifier: D013763
-- word: methenyl-tetrahydrofolate
-  source: MESH
-  identifier: C018092
-- word: methylene-tetrahydrofolate
-  source: MESH
-  identifier: D013763
-- word: NADP
-  source: MESH
-  identifier: D009249
-- word: 5,10-methylene-tetrahydrofolate
-  source: MESH
-  identifier: C013123
-- word: 5-methyl-tetrahydrofolate
-  source: MESH
-  identifier: D013763
-- word: iron-sulfur
-  source: MESH
-  identifier: D013455
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Phosphate
-  source: MESH
-  identifier: D010710
-- word: Acetate
-  source: MESH
-  identifier: D000085
-- word: acetyl phosphate
-  source: MESH
-  identifier: C011632
-- word: acetate
-  source: MESH
-  identifier: D000085
-diseases: []
-figid_alias: PMC7498680__F4
-redirect_from: /figures/PMC7498680__F4
-figtype: Figure
 ---

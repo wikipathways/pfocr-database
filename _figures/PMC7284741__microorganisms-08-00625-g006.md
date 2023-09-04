@@ -1,21 +1,29 @@
 ---
 figid: PMC7284741__microorganisms-08-00625-g006
+figtitle: Proposed metabolic degradation pathway of azoxystrobin in strain SH14
+organisms:
+- NA
+pmcid: PMC7284741
+filename: microorganisms-08-00625-g006.jpg
 figlink: pmc/articles/PMC7284741/figure/microorganisms-08-00625-f006/
 number: F6
 caption: Proposed metabolic degradation pathway of azoxystrobin in strain SH14.
-pmcid: PMC7284741
 papertitle: Kinetics and New Mechanism of Azoxystrobin Biodegradation by an Ochrobactrum
   anthropi Strain SH14.
 reftext: Yanmei Feng, et al. Microorganisms. 2020 May;8(5):625.
-pmc_ranked_result_index: '20614'
-pathway_score: 0.5072303
-filename: microorganisms-08-00625-g006.jpg
-figtitle: Proposed metabolic degradation pathway of azoxystrobin in strain SH14
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.5072303
+figid_alias: PMC7284741__F6
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7284741__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -34,26 +42,4 @@ schema-jsonld:
   - acetamide
   - 3-cyano-5,6-dimethyl-pyridine
   - difluoro-4-hydroxy-, ethyl ester
-genes: []
-chemicals:
-- word: Azoxystrobin
-  source: MESH
-  identifier: C087670
-- word: 2-Amino-4-(4-chlorophenyl)- N-(4,6-Dimethoxypyrimidin-2-yl) 3-Quinolinecarboxylic
-    acid
-  source: MESH
-  identifier: C554247
-- word: acetamide
-  source: MESH
-  identifier: C030686
-- word: 3-cyano-5,6-dimethyl-pyridine
-  source: MESH
-  identifier: C067724
-- word: difluoro-4-hydroxy-, ethyl ester
-  source: MESH
-  identifier: D004061
-diseases: []
-figid_alias: PMC7284741__F6
-redirect_from: /figures/PMC7284741__F6
-figtype: Figure
 ---

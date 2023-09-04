@@ -1,5 +1,10 @@
 ---
 figid: PMC7997242__pharmaceuticals-14-00200-g004
+figtitle: CD226 downregulation
+organisms:
+- NA
+pmcid: PMC7997242
+filename: pharmaceuticals-14-00200-g004.jpg
 figlink: pmc/articles/PMC7997242/figure/pharmaceuticals-14-00200-f004/
 number: F4
 caption: Mechanisms of CD226 downregulation. (Left) Tumor microenvironment promotes
@@ -11,18 +16,21 @@ caption: Mechanisms of CD226 downregulation. (Left) Tumor microenvironment promo
   with PVR, mouse CD226 is phosphorylated at Y319 by Scr kinase, subsequently recruiting
   E3 ubiquitin ligase Cbl-b, which induces ubiquitination-dependent proteasomal degradation
   of phosphorylated CD226.
-pmcid: PMC7997242
 papertitle: TIGIT/CD226 Axis Regulates Anti-Tumor Immunity.
 reftext: Jinah Yeo, et al. Pharmaceuticals (Basel). 2021 Mar;14(3):200.
-pmc_ranked_result_index: '40411'
-pathway_score: 0.9506758
-filename: pharmaceuticals-14-00200-g004.jpg
-figtitle: CD226 downregulation
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9506758
+figid_alias: PMC7997242__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC7997242__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -43,7 +51,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - HLA-C
   - PVR
+  - TRBV20OR9-2
   - TRA
   - TRB
   - TRD
@@ -51,126 +61,54 @@ schema-jsonld:
   - CD226
   - EOMES
   - SRC
+  - FGR
+  - FYN
+  - YES1
+  - PSMA1
+  - PSMA2
+  - PSMA3
+  - PSMA4
+  - PSMA5
+  - PSMA6
+  - PSMA7
+  - PSMA8
+  - PSMB1
+  - PSMB10
+  - PSMB2
+  - PSMB3
+  - PSMB4
+  - PSMB5
+  - PSMB6
+  - PSMB7
+  - PSMB8
+  - PSMB9
+  - PSMC1
+  - PSMC2
+  - PSMC3
+  - PSMC4
+  - PSMC5
+  - PSMC6
+  - PSMD1
+  - PSMD10
+  - PSMD11
+  - PSMD12
+  - PSMD13
+  - PSMD14
+  - PSMD2
+  - PSMD3
+  - PSMD4
+  - PSMD5
+  - PSMD6
+  - PSMD7
+  - PSMD8
+  - PSMD9
+  - PSME1
+  - PSME2
+  - PSME3
+  - PSMF1
+  - SEM1
+  - USP5
   - CD8A
   - CD8B
   - TCR
-genes:
-- word: CD155
-  symbol: CD155
-  source: hgnc_alias_symbol
-  hgnc_symbol: PVR
-  entrez: '5817'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: Eomes
-  symbol: EOMES
-  source: hgnc_symbol
-  hgnc_symbol: EOMES
-  entrez: '8320'
-- word: Eomes
-  symbol: EOMES
-  source: hgnc_symbol
-  hgnc_symbol: EOMES
-  entrez: '8320'
-- word: Src
-  symbol: SRC
-  source: hgnc_symbol
-  hgnc_symbol: SRC
-  entrez: '6714'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-- word: CD8*
-  symbol: CD8
-  source: bioentities_symbol
-  hgnc_symbol: CD8A
-  entrez: '925'
-- word: CD8*
-  symbol: CD8
-  source: bioentities_symbol
-  hgnc_symbol: CD8B
-  entrez: '926'
-- word: CD226
-  symbol: CD226
-  source: hgnc_symbol
-  hgnc_symbol: CD226
-  entrez: '10666'
-chemicals:
-- word: TCR
-  source: MESH
-  identifier: D017260
-diseases: []
-figid_alias: PMC7997242__F4
-redirect_from: /figures/PMC7997242__F4
-figtype: Figure
 ---

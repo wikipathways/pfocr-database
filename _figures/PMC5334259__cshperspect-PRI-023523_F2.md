@@ -1,5 +1,10 @@
 ---
 figid: PMC5334259__cshperspect-PRI-023523_F2
+figtitle: Cellular unfolded protein response mechanisms
+organisms:
+- NA
+pmcid: PMC5334259
+filename: cshperspect-PRI-023523_F2.jpg
 figlink: /pmc/articles/PMC5334259/figure/A023523F2/
 number: F2
 caption: Cellular unfolded protein response mechanisms. The accumulation of misfolded
@@ -20,18 +25,22 @@ caption: Cellular unfolded protein response mechanisms. The accumulation of misf
   chaperone LBP-8, which induces gene expression. This pathway was shown to promote
   longevity; however, its possible roles in the maintenance of protein quality control
   are yet to be explored.
-pmcid: PMC5334259
 papertitle: Protein Quality Control in Health and Disease.
 reftext: Tatyana Dubnikov, et al. Cold Spring Harb Perspect Biol. 2017 Mar;9(3):a023523.
-pmc_ranked_result_index: '34490'
-pathway_score: 0.94402
-filename: cshperspect-PRI-023523_F2.jpg
-figtitle: Cellular unfolded protein response mechanisms
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.94402
+figid_alias: PMC5334259__F2
+figtype: Figure
+organisms_ner:
+- Caenorhabditis elegans
 - Homo sapiens
+redirect_from: /figures/PMC5334259__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,58 +70,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - hsf-1
+  - lbp-8
+  - lipl-4
+  - xbp-1
+  - ire-1
+  - atf-6
+  - DDIT3
+  - NR5A1
+  - HSR
+  - IL6
   - LIPN
+  - XBP1
+  - XBP1P1
+  - EIF2AK3
   - ERN1
   - ATF6
-  - XBP1
-  - DDIT3
-  - EIF2AK3
-  - NR5A1
-  - IL6
-genes:
-- word: LIPL-4
-  symbol: LIPL4
-  source: hgnc_prev_symbol
-  hgnc_symbol: LIPN
-  entrez: '643418'
-- word: IRE1
-  symbol: IRE1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERN1
-  entrez: '2081'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: XBP1
-  symbol: XBP1
-  source: hgnc_symbol
-  hgnc_symbol: XBP1
-  entrez: '7494'
-- word: CHOP
-  symbol: CHOP
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDIT3
-  entrez: '1649'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: HSF-1
-  symbol: hSF-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NR5A1
-  entrez: '2516'
-- word: (HSF-
-  symbol: HSF
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-chemicals: []
-diseases: []
-figid_alias: PMC5334259__F2
-redirect_from: /figures/PMC5334259__F2
-figtype: Figure
 ---

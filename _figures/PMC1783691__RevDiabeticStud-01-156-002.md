@@ -1,5 +1,11 @@
 ---
 figid: PMC1783691__RevDiabeticStud-01-156-002
+figtitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabetes
+  Mellitus
+organisms:
+- NA
+pmcid: PMC1783691
+filename: RevDiabeticStud-01-156-002.jpg
 figlink: /pmc/articles/PMC1783691/figure/F2/
 number: F2
 caption: A number of cell surface molecules controls and suppresses T cell activation
@@ -12,20 +18,22 @@ caption: A number of cell surface molecules controls and suppresses T cell activ
   of tolerance. This pathway may be accentuated by the presence of IL-10 or TGF-β.
   Regulatory T cells secretion of IL-10 may induce these B7-dependent DC-signaling
   pathways as well.
-pmcid: PMC1783691
 papertitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabetes
   Mellitus.
 reftext: Bernhard O. Boehm, et al. Rev Diabet Stud. 2004 Winter;1(4):156-164.
-pmc_ranked_result_index: '21794'
-pathway_score: 0.9259192
-filename: RevDiabeticStud-01-156-002.jpg
-figtitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabetes
-  Mellitus
 year: '2004'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9259192
+figid_alias: PMC1783691__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC1783691__F2
 ndex: 37f4dca0-de9c-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,98 +55,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TGFB2
-  - PDCD1LG2
-  - TGFB1
-  - TGFB3
-  - CD28
-  - TRG
-  - TRA
-  - IL10
-  - CTLA4
-  - TRB
-  - PDCD1
-  - TRD
-  - RORC
-  - APC
+  - tor
+  - Tor
+  - Egfr
+  - Mhc
+  - zip
+  - Prosbeta7
+  - Tcr
+  - Apc
+  - Apc2
+  - Axn
+  - Fs(3)Apc
+  - dpp
+  - gbb
+  - put
+  - mav
   - Tryptophan
-genes:
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: PDL-1/2
-  symbol: PD-L2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDCD1LG2
-  entrez: '80380'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: CD28
-  symbol: CD28
-  source: hgnc_symbol
-  hgnc_symbol: CD28
-  entrez: '940'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: IL-10
-  symbol: IL-10
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL10
-  entrez: '3586'
-- word: CTLA-4
-  symbol: CTLA4
-  source: hgnc_symbol
-  hgnc_symbol: CTLA4
-  entrez: '1493'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: PD-1
-  symbol: PD-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDCD1
-  entrez: '5133'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: TOR
-  symbol: TOR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RORC
-  entrez: '6097'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-chemicals:
-- word: Tryptophan
-  source: MESH
-  identifier: D014364
-diseases: []
-figid_alias: PMC1783691__F2
-redirect_from: /figures/PMC1783691__F2
-figtype: Figure
 ---

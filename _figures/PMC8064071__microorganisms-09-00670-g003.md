@@ -1,5 +1,11 @@
 ---
 figid: PMC8064071__microorganisms-09-00670-g003
+figtitle: Scheme of the central carbon metabolism and carotenogenesis in C
+organisms:
+- Corynebacterium glutamicum
+- Homo sapiens
+pmcid: PMC8064071
+filename: microorganisms-09-00670-g003.jpg
 figlink: pmc/articles/PMC8064071/figure/microorganisms-09-00670-f003/
 number: F3
 caption: 'Scheme of the central carbon metabolism and carotenogenesis in C. glutamicum
@@ -45,32 +51,22 @@ caption: 'Scheme of the central carbon metabolism and carotenogenesis in C. glut
   diphosphate; IPP: isopentenyl diphosphate; ME-cPP: 2-methylerythritol 2,4-cyclodiphosphate;
   MEP: 2-methylerythritol 4-phosphate; PEP: phosphoenolpyruvate; R5P: ribose-5-phosphate;
   Ru5P: ribulose-5-phosphate; S7P: sedoheptulose 7-phosphate;X5P: xylulose-5-phosphate.'
-pmcid: PMC8064071
 papertitle: CRISPRi-Library-Guided Target Identification for Engineering Carotenoid
   Production by Corynebacterium glutamicum.
 reftext: Vanessa L. Göttl, et al. Microorganisms. 2021 Apr;9(4):670.
-pmc_ranked_result_index: '123984'
-pathway_score: 0.9658234
-filename: microorganisms-09-00670-g003.jpg
-figtitle: Scheme of the central carbon metabolism and carotenogenesis in C
 year: '2021'
-organisms:
-- Chlorobaculum tepidum
-- Eucalyptus intertexta
-- Corynebacterium glutamicum MB001
-- Streptococcus pyogenes
-- Bacillus methanolicus
-- Brevibacterium linens
-- Corynebacterium glutamicum
-- Corynebacterium glutamicum ATCC 13032
-- Hypostomus robinii
-- Methylorubrum extorquens
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Escherichia coli DH5alpha
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9658234
+figid_alias: PMC8064071__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC8064071__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -126,27 +122,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PAEP
+  - BGN
+  - GPI
+  - PGPEP1
+  - PFKM
+  - ENO1
   - ENO2
   - ENO3
-  - ENO1
   - ENO4
-  - PRKG1
+  - VCAN
   - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
   - FBXO3
   - RASA1
+  - RGS6
+  - PAEP
+  - PREP
+  - PTPN22
   - PHKA2
+  - F11
   - PTCRA
+  - ATP2B3
+  - DECR1
   - PGLS
   - SDHD
-  - LDHA
+  - MDH2
+  - CTSL
+  - NLN
   - SLC25A1
   - THADA
   - RPE
+  - RPIA
+  - ATP8A2
   - TKT
+  - DDR2
   - WDTC1
   - NF2
+  - ACIN1
   - MATN1
+  - GNPTAB
   - IPP
   - Pyruvate
   - DHAP
@@ -178,230 +196,4 @@ schema-jsonld:
   - Lycopene
   - Flavuxanthin
   - Decaprenoxanthin
-genes:
-- word: РЕP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO2
-  entrez: '2026'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO3
-  entrez: '2027'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO1
-  entrez: '2023'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO4
-  entrez: '387712'
-- word: pgk
-  symbol: PGK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: fbp
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: fba
-  symbol: FBA
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXO3
-  entrez: '26273'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: +PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: pyk
-  symbol: PYK
-  source: hgnc_prev_symbol
-  hgnc_symbol: PHKA2
-  entrez: '5256'
-- word: pta
-  symbol: PTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTCRA
-  entrez: '171558'
-- word: 6-PGL
-  symbol: 6PGL
-  source: hgnc_alias_symbol
-  hgnc_symbol: PGLS
-  entrez: '25796'
-- word: pgl
-  symbol: PGL
-  source: hgnc_prev_symbol
-  hgnc_symbol: SDHD
-  entrez: '6392'
-- word: IdhA
-  symbol: LDHA
-  source: hgnc_symbol
-  hgnc_symbol: LDHA
-  entrez: '3939'
-- word: CTP
-  symbol: CTP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC25A1
-  entrez: '6576'
-- word: gita
-  symbol: GITA
-  source: hgnc_alias_symbol
-  hgnc_symbol: THADA
-  entrez: '63892'
-- word: rpe
-  symbol: RPE
-  source: hgnc_symbol
-  hgnc_symbol: RPE
-  entrez: '6120'
-- word: tkt
-  symbol: TKT
-  source: hgnc_symbol
-  hgnc_symbol: TKT
-  entrez: '7086'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: acn
-  symbol: ACN
-  source: hgnc_alias_symbol
-  hgnc_symbol: NF2
-  entrez: '4771'
-- word: tkt
-  symbol: TKT
-  source: hgnc_symbol
-  hgnc_symbol: TKT
-  entrez: '7086'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: CMP
-  symbol: CMP
-  source: hgnc_prev_symbol
-  hgnc_symbol: MATN1
-  entrez: '4146'
-- word: IPP
-  symbol: IPP
-  source: hgnc_symbol
-  hgnc_symbol: IPP
-  entrez: '3652'
-chemicals:
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: DHAP
-  source: MESH
-  identifier: C017202
-- word: Acetate
-  source: MESH
-  identifier: D000085
-- word: Glc-6-P
-  source: MESH
-  identifier: C089452
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: 2-PGA
-  source: MESH
-  identifier: C100008
-- word: PEP
-  source: MESH
-  identifier: C073248
-- word: Acetyl
-  source: MESH
-  identifier: C011632
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: Oxaloacetate
-  source: MESH
-  identifier: D010071
-- word: Lactate
-  source: MESH
-  identifier: D019344
-- word: Citrate
-  source: MESH
-  identifier: C102006
-- word: CDP
-  source: MESH
-  identifier: D003565
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Glyoxylate
-  source: MESH
-  identifier: D006038
-- word: Isocitrate
-  source: MESH
-  identifier: D007523
-- word: tol
-  source: MESH
-  identifier: C543792
-- word: Succinate
-  source: MESH
-  identifier: D013386
-- word: HMBPP
-  source: MESH
-  identifier: C467061
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: Succinyl-CoA
-  source: MESH
-  identifier: C012046
-- word: Oxoglutarate
-  source: MESH
-  identifier: D007656
-- word: DMAPP
-  source: MESH
-  identifier: C043060
-- word: Phytoene
-  source: MESH
-  identifier: C100185
-- word: Lycopene
-  source: MESH
-  identifier: C015329
-- word: Flavuxanthin
-  source: ''
-  identifier: ''
-- word: Decaprenoxanthin
-  source: MESH
-  identifier: C011431
-diseases: []
-figid_alias: PMC8064071__F3
-redirect_from: /figures/PMC8064071__F3
-figtype: Figure
 ---

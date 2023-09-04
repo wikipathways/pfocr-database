@@ -1,5 +1,10 @@
 ---
 figid: PMC3098671__cshperspect-CAL-004317_F2
+figtitle: Endoplasmic-Reticulum Calcium Depletion and Disease
+organisms:
+- NA
+pmcid: PMC3098671
+filename: cshperspect-CAL-004317_F2.jpg
 figlink: /pmc/articles/PMC3098671/figure/A004317F2/
 number: F2
 caption: The UPR. At a normal [Ca2+]ER the ER-stress sensors are scaffolded and inactivated
@@ -36,18 +41,22 @@ caption: The UPR. At a normal [Ca2+]ER the ER-stress sensors are scaffolded and 
   In the presence of ROS, Ca2+ transfer to the mitochondria leads to the release of
   cytochrome c. The balance between proapoptotic and antiapoptotic Bcl-2-family members
   is disturbed, with activation of the intrinsic apoptotic pathway.
-pmcid: PMC3098671
 papertitle: Endoplasmic-Reticulum Calcium Depletion and Disease.
 reftext: Djalila Mekahli, et al. Cold Spring Harb Perspect Biol. 2011 Jun;3(6):a004317.
-pmc_ranked_result_index: '179423'
-pathway_score: 0.8071149
-filename: cshperspect-CAL-004317_F2.jpg
-figtitle: Endoplasmic-Reticulum Calcium Depletion and Disease
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8071149
+figid_alias: PMC3098671__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3098671__F2
 ndex: 81ab4652-df29-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -94,159 +103,69 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HSPA5
-  - ATF6
-  - DDIT3
-  - CASP3
+  - Ire1
+  - crc
+  - Atf6
+  - PEK
+  - rl
+  - Xbp1
+  - bsk
+  - eIF2alpha
+  - eIF2A
+  - bip
+  - Hsc70-3
+  - Hsp70Ab
+  - Debcl
+  - BC1
+  - bc2
+  - bc10
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - chp
+  - .na.character
+  - mora
+  - betaCOP
+  - Sec61gamma
+  - Sec61alpha
+  - Sec61beta
   - ERN1
-  - CASP4
-  - CASP8
-  - CASP2
-  - CASP10
-  - CASP1
-  - BCL2L11
-  - BCL2
-  - MAPK9
-  - CASP9
-  - ATF4
-  - MAPK8
-  - CASP12
-  - CASP14
-  - CASP7
+  - ATF6
+  - EIF2AK3
   - XBP1
+  - XBP1P1
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - CASP1
+  - CASP2
+  - CASP4
   - CASP5
   - CASP6
-  - EIF2AK3
-  - MAPK10
-genes:
-- word: GRP78/BIP
-  symbol: GRP78
-  source: hgnc_prev_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: GRP78/BIP
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: CHỌP
-  symbol: CHOP
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDIT3
-  entrez: '1649'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: Ire1
-  symbol: IRE1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERN1
-  entrez: '2081'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: Bim
-  symbol: BIM
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L11
-  entrez: '10018'
-- word: Bcl-2
-  symbol: Bcl-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: JNK-P
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: ATF4
-  symbol: ATF4
-  source: hgnc_symbol
-  hgnc_symbol: ATF4
-  entrez: '468'
-- word: JNK-P
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-- word: XBP1
-  symbol: XBP1
-  source: hgnc_symbol
-  hgnc_symbol: XBP1
-  entrez: '7494'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: Caspase
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: JNK-P
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-chemicals: []
-diseases: []
-figid_alias: PMC3098671__F2
-redirect_from: /figures/PMC3098671__F2
-figtype: Figure
+  - CASP8
+  - CASP9
+  - CASP10
+  - CASP12
+  - CASP14
+  - CASP3
+  - CASP7
+  - EIF2A
+  - EIF2S1
+  - GDF10
+  - HSPA5
+  - ATF4
+  - BCL2
+  - CHMP2A
+  - BLCAP
+  - BCL2L11
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - CHP1
+  - CHORDC1
+  - DDIT3
+  - DECR1
+  - SEC61A1
 ---

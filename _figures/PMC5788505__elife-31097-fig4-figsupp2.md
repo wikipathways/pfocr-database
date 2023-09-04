@@ -1,5 +1,11 @@
 ---
 figid: PMC5788505__elife-31097-fig4-figsupp2
+figtitle: Comparative genomic reconstruction of L-gulonate and related uronic acid
+  catabolic pathways and regulons in gammaproteobacteria
+organisms:
+- NA
+pmcid: PMC5788505
+filename: elife-31097-fig4-figsupp2.jpg
 figlink: /pmc/articles/PMC5788505/figure/fig4s2/
 number: SF4_2
 caption: (A) Genomic context of L-gulonate, D-glucuronate, and L-galactonate utilization
@@ -39,19 +45,21 @@ caption: (A) Genomic context of L-gulonate, D-glucuronate, and L-galactonate uti
   previously characterized L-gulonate-specific dehydrogenases from E. coli K-12 and
   Halomonas spp. () belong to the RspB branch, which is distinct from the GulD branch
   established in this work.
-pmcid: PMC5788505
 papertitle: Prediction of enzymatic pathways by integrative pathway mapping.
 reftext: Sara Calhoun, et al. eLife. 2018;7:e31097.
-pmc_ranked_result_index: '227547'
-pathway_score: 0.516447
-filename: elife-31097-fig4-figsupp2.jpg
-figtitle: Comparative genomic reconstruction of L-gulonate and related uronic acid
-  catabolic pathways and regulons in gammaproteobacteria
 year: '2018'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.516447
+figid_alias: PMC5788505__SF4_2
+figtype: Supplemental figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC5788505__SF4_2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -101,10 +109,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HEXA
-  - STATH
-  - MYH9
-  - AGL
+  - eda
+  - kdgK
+  - uxuB
+  - uxaC
+  - uxuA
+  - uxuR
+  - uidB
+  - uidA
+  - exuT
+  - exuR
+  - uxaA
+  - uxaB
+  - lgoD
+  - rspB
   - F3031
   - L-gulonate
   - D-glucuronate
@@ -129,102 +147,4 @@ schema-jsonld:
   - Haemophilus somnus
   - Mannheimia
   - parahaemolyticus, H.paraphrohaemolyticus
-genes:
-- word: hexA
-  symbol: HEXA
-  source: hgnc_symbol
-  hgnc_symbol: HEXA
-  entrez: '3073'
-- word: str.
-  symbol: STR
-  source: hgnc_alias_symbol
-  hgnc_symbol: STATH
-  entrez: '6779'
-- word: MHA
-  symbol: MHA
-  source: hgnc_alias_symbol
-  hgnc_symbol: MYH9
-  entrez: '4627'
-- word: agl
-  symbol: AGL
-  source: hgnc_symbol
-  hgnc_symbol: AGL
-  entrez: '178'
-chemicals:
-- word: F3031
-  source: MESH
-  identifier: C486981
-- word: L-gulonate
-  source: MESH
-  identifier: C015252
-- word: D-glucuronate
-  source: MESH
-  identifier: D005965
-- word: L-gulonate, B-Glucuronides
-  source: MESH
-  identifier: C015252
-- word: F0397
-  source: MESH
-  identifier: D005461
-- word: L-galactonate
-  source: MESH
-  identifier: C025076
-- word: D-galacturonate
-  source: MESH
-  identifier: C007792
-- word: C Glucuronides
-  source: MESH
-  identifier: D020719
-- word: D-Glucuronate
-  source: MESH
-  identifier: D005965
-- word: L-Gulonate
-  source: MESH
-  identifier: C015252
-- word: L-Galactonate
-  source: MESH
-  identifier: C025076
-- word: D-Glucuronate L-Gulonate
-  source: MESH
-  identifier: C015252
-- word: HexA
-  source: MESH
-  identifier: C075238
-- word: D-Mannonate
-  source: MESH
-  identifier: C014078
-- word: Gulonate
-  source: MESH
-  identifier: C015252
-- word: 2-keto-3-deoxy-D-gluconate
-  source: MESH
-  identifier: C045553
-- word: KDG
-  source: MESH
-  identifier: C112447
-- word: Glyceraldehyde
-  source: MESH
-  identifier: D005985
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: TRAP
-  source: MESH
-  identifier: C504808
-diseases:
-- word: Mannheimia haemolytica
-  source: ''
-  identifier: ''
-- word: Haemophilus somnus
-  source: MESH
-  identifier: D006192
-- word: Mannheimia
-  source: ''
-  identifier: ''
-- word: parahaemolyticus, H.paraphrohaemolyticus
-  source: MESH
-  identifier: D000848
-figid_alias: PMC5788505__SF4_2
-redirect_from: /figures/PMC5788505__SF4_2
-figtype: Supplemental figure
 ---

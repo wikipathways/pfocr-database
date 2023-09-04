@@ -1,5 +1,10 @@
 ---
 figid: PMC3281591__cshperspectmed-PKD-009332_F4
+figtitle: Mitochondrial-dependent apoptosis
+organisms:
+- NA
+pmcid: PMC3281591
+filename: cshperspectmed-PKD-009332_F4.jpg
 figlink: /pmc/articles/PMC3281591/figure/A009332F4/
 number: F4
 caption: Mitochondrial-dependent apoptosis. Apoptosis can result from the activation
@@ -31,18 +36,21 @@ caption: Mitochondrial-dependent apoptosis. Apoptosis can result from the activa
   shown (). AIF, apoptosis-inducing factor; Casp-9, caspase-9; CL, cardiolipin; OPA1,
   optic atrophy type 1; Cyt. c, cytochrome c; EndoG, endonuclease G; IAP, inhibitor
   of apoptosis; tBid, truncated Bid.
-pmcid: PMC3281591
 papertitle: Mitochondrial Biology and Parkinson's Disease.
 reftext: Celine Perier, et al. Cold Spring Harb Perspect Med. 2012 Feb;2(2):a009332.
-pmc_ranked_result_index: '221518'
-pathway_score: 0.9419939
-filename: cshperspectmed-PKD-009332_F4.jpg
-figtitle: Mitochondrial-dependent apoptosis
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9419939
+figid_alias: PMC3281591__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3281591__F4
 ndex: 7ff7f06f-df04-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -83,194 +91,37 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNFRSF10D
-  - CASP9
-  - CASP6
-  - TNFRSF1B
-  - BCL2
-  - BCL2L1
-  - BAK1
-  - FAS
-  - TNFRSF10C
-  - CASP3
-  - CASP5
-  - DIABLO
-  - BCL2L11
-  - CASP1
   - TNFRSF1A
-  - CASP8
-  - CASP2
-  - APAF1
-  - CASP14
-  - CASP4
-  - ENDOG
-  - TNFRSF10B
-  - CASP7
-  - BID
-  - BBC3
+  - TNFRSF1B
   - TNFRSF10A
+  - TNFRSF10B
+  - TNFRSF10C
+  - TNFRSF10D
+  - FAS
+  - BID
+  - BCL2
+  - BCL2L11
+  - BAK1
+  - BBC3
+  - DIABLO
+  - ALPI
+  - ALPP
+  - CD47
+  - IAPP
+  - MAGT1
+  - ENDOG
+  - AIFM1
+  - CASP9
+  - APAF1
+  - CASP1
+  - CASP2
+  - CASP4
+  - CASP5
+  - CASP6
+  - CASP8
   - CASP10
   - CASP12
-  - AIFM1
-genes:
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF10D
-  entrez: '8793'
-- word: Casp-9
-  symbol: CASP9
-  source: hgnc_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF1B
-  entrez: '7133'
-- word: Bcl2
-  symbol: BCL2
-  source: hgnc_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: Bcl-XL
-  symbol: bcl-xL
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L1
-  entrez: '598'
-- word: Bak
-  symbol: BAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: BAK1
-  entrez: '578'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: FAS
-  entrez: '355'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF10C
-  entrez: '8794'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: Smac/Diablo
-  symbol: DIABLO
-  source: hgnc_symbol
-  hgnc_symbol: DIABLO
-  entrez: '56616'
-- word: (Bim
-  symbol: BIM
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L11
-  entrez: '10018'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF1A
-  entrez: '7132'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: Apaf-1
-  symbol: APAF-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: APAF1
-  entrez: '317'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-- word: Smac/Diablo
-  symbol: SMAC
-  source: hgnc_alias_symbol
-  hgnc_symbol: DIABLO
-  entrez: '56616'
-- word: EndoG
-  symbol: ENDOG
-  source: hgnc_symbol
-  hgnc_symbol: ENDOG
-  entrez: '2021'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF10B
-  entrez: '8795'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-- word: Bid
-  symbol: BID
-  source: hgnc_symbol
-  hgnc_symbol: BID
-  entrez: '637'
-- word: Puma)
-  symbol: PUMA
-  source: hgnc_alias_symbol
-  hgnc_symbol: BBC3
-  entrez: '27113'
-- word: Deathreceptors
-  symbol: Death_receptor
-  source: bioentities_symbol
-  hgnc_symbol: TNFRSF10A
-  entrez: '8797'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: AIF
-  symbol: AIF
-  source: hgnc_alias_symbol
-  hgnc_symbol: AIFM1
-  entrez: '9131'
-chemicals: []
-diseases: []
-figid_alias: PMC3281591__F4
-redirect_from: /figures/PMC3281591__F4
-figtype: Figure
+  - CASP14
+  - CASP3
+  - CASP7
 ---

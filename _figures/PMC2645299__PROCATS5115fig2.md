@@ -1,5 +1,10 @@
 ---
 figid: PMC2645299__PROCATS5115fig2
+figtitle: Calcium Signaling in Airway Smooth Muscle
+organisms:
+- NA
+pmcid: PMC2645299
+filename: PROCATS5115fig2.jpg
 figlink: /pmc/articles/PMC2645299/figure/fig2/
 number: F2
 caption: An integrative model of differential recruitment of cellular calcium mobilization
@@ -20,18 +25,21 @@ caption: An integrative model of differential recruitment of cellular calcium mo
   the SR Ca2+ stores. The TRP channels also play major role in replenishing the SR
   Ca2+ store through store-operated Ca2+ entry (SOCE). EC = extra cellular space;
   PM = plasma membrane.
-pmcid: PMC2645299
 papertitle: Calcium Signaling in Airway Smooth Muscle.
 reftext: Joseph A. Jude, et al. Proc Am Thorac Soc. 2008 Jan 1;5(1):15-22.
-pmc_ranked_result_index: '90947'
-pathway_score: 0.9645529
-filename: PROCATS5115fig2.jpg
-figtitle: Calcium Signaling in Airway Smooth Muscle
 year: '2008'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9645529
+figid_alias: PMC2645299__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC2645299__F2
 ndex: ecb68b14-debe-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,88 +69,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ATP2A2
-  - PLCB3
-  - ATP2A1
-  - RYR1
-  - ATP2A3
-  - PLCB4
-  - CD38
-  - FGFR3
-  - PLCB1
-  - GJA1
-  - TYRP1
-  - PLCB2
-  - FKBP1B
-genes:
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A2
-  entrez: '488'
-- word: PLC-B
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A1
-  entrez: '487'
-- word: RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A3
-  entrez: '489'
-- word: PLC-B
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-- word: CD38
-  symbol: CD38
-  source: hgnc_symbol
-  hgnc_symbol: CD38
-  entrez: '952'
-- word: Ach
-  symbol: ACH
-  source: hgnc_prev_symbol
-  hgnc_symbol: FGFR3
-  entrez: '2261'
-- word: PLC-B
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: Cx43
-  symbol: CX43
-  source: hgnc_alias_symbol
-  hgnc_symbol: GJA1
-  entrez: '2697'
-- word: TRP
-  symbol: TRP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TYRP1
-  entrez: '7306'
-- word: PLC-B
-  symbol: PLCB
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: FKBP12.6
-  symbol: FKBP12.6
-  source: hgnc_alias_symbol
-  hgnc_symbol: FKBP1B
-  entrez: '2281'
-chemicals: []
-diseases: []
-figid_alias: PMC2645299__F2
-redirect_from: /figures/PMC2645299__F2
-figtype: Figure
+  - achi
+  - emc
+  - ec
+  - norpA
+  - ca
+  - RyR
+  - sr
+  - SERCA
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC3996470__cshperspect-END-016931_F3
+figtitle: Processing of APP to form AB peptide
+organisms:
+- NA
+pmcid: PMC3996470
+filename: cshperspect-END-016931_F3.jpg
 figlink: /pmc/articles/PMC3996470/figure/A016931F3/
 number: F3
 caption: Processing of APP to form Aβ peptide. APP is secreted by a constitutive secretory
@@ -13,18 +18,21 @@ caption: Processing of APP to form Aβ peptide. APP is secreted by a constitutiv
   of the organelles. As discussed in the text, these various steps of proteolytic
   processing may take place in several different organelles because APP and the various
   enzymes are found throughout the secretory and endocytic pathways.
-pmcid: PMC3996470
 papertitle: Role of Endosomes and Lysosomes in Human Disease.
 reftext: Frederick R. Maxfield. Cold Spring Harb Perspect Biol. 2014 May;6(5):a016931.
-pmc_ranked_result_index: '152559'
-pathway_score: 0.7181439
-filename: cshperspect-END-016931_F3.jpg
-figtitle: Processing of APP to form AB peptide
 year: '2014'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7181439
+figid_alias: PMC3996470__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3996470__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,28 +55,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IAPP
-  - APP
-  - TG
-genes:
-- word: IAPP
-  symbol: IAPP
-  source: hgnc_symbol
-  hgnc_symbol: IAPP
-  entrez: '3375'
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: TGN
-  symbol: TGN
-  source: hgnc_alias_symbol
-  hgnc_symbol: TG
-  entrez: '7038'
-chemicals: []
-diseases: []
-figid_alias: PMC3996470__F3
-redirect_from: /figures/PMC3996470__F3
-figtype: Figure
+  - pit
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
+  - ab
 ---

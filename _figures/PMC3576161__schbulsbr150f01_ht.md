@@ -1,22 +1,30 @@
 ---
 figid: PMC3576161__schbulsbr150f01_ht
+figtitle: Folate metabolic pathway
+organisms:
+- Homo sapiens
+pmcid: PMC3576161
+filename: schbulsbr150f01_ht.jpg
 figlink: /pmc/articles/PMC3576161/figure/fig1/
 number: F1
 caption: 'The folate metabolic pathway. THF: tetrahydrofolate; Met: methionine; SAM:
   S-adenosylmethionine; SAH: S-adenosyl homocysteine; Hcy: homocysteine.'
-pmcid: PMC3576161
 papertitle: Genetic Variation Throughout the Folate Metabolic Pathway Influences Negative
   Symptom Severity in Schizophrenia.
 reftext: Joshua L. Roffman, et al. Schizophr Bull. 2013 Mar;39(2):330-338.
-pmc_ranked_result_index: '14541'
-pathway_score: 0.9414974
-filename: schbulsbr150f01_ht.jpg
-figtitle: Folate metabolic pathway
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9414974
+figid_alias: PMC3576161__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3576161__F1
 ndex: afbded50-dee8-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -30,90 +38,83 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MTHFR
-  - MTRR
-  - RFC2
-  - SLTM
-  - MTR
-  - ACSM3
-  - RFC3
-  - COMT
   - FOLH1
   - RFC1
-  - RFC5
+  - SLC19A1
+  - RFC2
+  - RFC3
   - RFC4
+  - RFC5
+  - MTHFR
+  - MTRR
+  - MTR
+  - COMT
+  - ASH1L
+  - DOT1L
+  - EHMT1
+  - EHMT2
+  - EZH1
+  - EZH2
+  - KMT2A
+  - KMT2B
+  - KMT2C
+  - KMT2D
+  - KMT2E
+  - KMT5A
+  - KMT5B
+  - KMT5C
+  - MECOM
+  - NSD1
+  - NSD2
+  - NSD3
+  - PRDM16
+  - PRDM2
+  - PRDM6
+  - PRDM8
+  - PRDM9
+  - SETD1A
+  - SETD1B
+  - SETD2
+  - SETD7
+  - SETDB1
+  - SETDB2
+  - SMYD1
+  - SMYD2
+  - SMYD3
+  - SUV39H1
+  - SUV39H2
+  - DNMT1
+  - DNMT3A
+  - DNMT3B
+  - DNMT3L
+  - CARM1
+  - PRMT1
+  - PRMT2
+  - PRMT3
+  - PRMT5
+  - PRMT6
+  - PRMT7
+  - PRMT8
+  - PRMT9
+  - ALKBH8
+  - TRMT1
+  - TRMT10A
+  - TRMT10B
+  - TRMT10C
+  - TRMT11
+  - TRMT112
+  - TRMT12
+  - TRMT13
+  - TRMT1L
+  - TRMT2A
+  - TRMT2B
+  - TRMT44
+  - TRMT5
+  - TRMT6
+  - TRMT61A
+  - TRMT61B
+  - TRMT9B
+  - ACSM3
   - folate
   - Met
-genes:
-- word: MTHFR
-  symbol: MTHFR
-  source: hgnc_symbol
-  hgnc_symbol: MTHFR
-  entrez: '4524'
-- word: MTRR
-  symbol: MTRR
-  source: hgnc_symbol
-  hgnc_symbol: MTRR
-  entrez: '4552'
-- word: RFC
-  symbol: RFC
-  source: bioentities_symbol
-  hgnc_symbol: RFC2
-  entrez: '5982'
-- word: Met
-  symbol: Met
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLTM
-  entrez: '79811'
-- word: MTR
-  symbol: MTR
-  source: hgnc_symbol
-  hgnc_symbol: MTR
-  entrez: '4548'
-- word: SAH
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-- word: RFC
-  symbol: RFC
-  source: bioentities_symbol
-  hgnc_symbol: RFC3
-  entrez: '5983'
-- word: COMT/other
-  symbol: COMT
-  source: hgnc_symbol
-  hgnc_symbol: COMT
-  entrez: '1312'
-- word: FOLH1
-  symbol: FOLH1
-  source: hgnc_symbol
-  hgnc_symbol: FOLH1
-  entrez: '2346'
-- word: RFC
-  symbol: RFC
-  source: bioentities_symbol
-  hgnc_symbol: RFC1
-  entrez: '5981'
-- word: RFC
-  symbol: RFC
-  source: bioentities_symbol
-  hgnc_symbol: RFC5
-  entrez: '5985'
-- word: RFC
-  symbol: RFC
-  source: bioentities_symbol
-  hgnc_symbol: RFC4
-  entrez: '5984'
-chemicals:
-- word: folate
-  source: MESH
-  identifier: D005492
-- word: Met
-  source: MESH
-  identifier: D008715
-diseases: []
-figid_alias: PMC3576161__F1
-redirect_from: /figures/PMC3576161__F1
-figtype: Figure
 ---

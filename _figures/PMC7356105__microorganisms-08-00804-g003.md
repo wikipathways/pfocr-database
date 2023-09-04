@@ -1,22 +1,30 @@
 ---
 figid: PMC7356105__microorganisms-08-00804-g003
+figtitle: TNF pathway inhibition in HGF in response to C
+organisms:
+- NA
+pmcid: PMC7356105
+filename: microorganisms-08-00804-g003.jpg
 figlink: pmc/articles/PMC7356105/figure/microorganisms-08-00804-f003/
 number: F3
 caption: TNF pathway inhibition in HGF in response to C. albicans agonist when treated
   with vitamin E formulation. All gene products highlighted in green are significantly
   down-regulated.
-pmcid: PMC7356105
 papertitle: Anti-Inflammatory Effects of Vitamin E in Response to Candida albicans.
 reftext: Silvana Barros, et al. Microorganisms. 2020 Jun;8(6):804.
-pmc_ranked_result_index: '25808'
-pathway_score: 0.8551476
-filename: microorganisms-08-00804-g003.jpg
-figtitle: TNF pathway inhibition in HGF in response to C
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8551476
+figid_alias: PMC7356105__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC7356105__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -33,153 +41,74 @@ schema-jsonld:
   keywords:
   - TNF
   - TRAF2
+  - TANK
   - UNK
-  - NLK
-  - MAPK14
-  - MAPK11
-  - MAPK13
-  - MAPK12
-  - MAPK3
-  - MAPK8
+  - MAP3K14
+  - MAP4K4
   - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
   - MAPK9
   - MAPK10
+  - CRK
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
   - CHUK
-  - IKBKG
   - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
   - MAPKAPK2
   - HSPB1
-  - ELK1
+  - HSPB2
   - A2M
-genes:
-- word: TNF-
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: TRAF2
-  symbol: TRAF2
-  source: hgnc_symbol
-  hgnc_symbol: TRAF2
-  entrez: '7186'
-- word: UNK
-  symbol: UNK
-  source: hgnc_symbol
-  hgnc_symbol: UNK
-  entrez: '85451'
-- word: NIK
-  symbol: NLK
-  source: hgnc_symbol
-  hgnc_symbol: NLK
-  entrez: '51701'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: MAPKAPK2
-  symbol: MAPKAPK2
-  source: hgnc_symbol
-  hgnc_symbol: MAPKAPK2
-  entrez: '9261'
-- word: HSP27
-  symbol: HSP27
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPB1
-  entrez: '3315'
-- word: ERK2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: EIK1
-  symbol: ELK1
-  source: hgnc_symbol
-  hgnc_symbol: ELK1
-  entrez: '2002'
-- word: A2M
-  symbol: A2M
-  source: hgnc_symbol
-  hgnc_symbol: A2M
-  entrez: '2'
-chemicals: []
-diseases: []
-figid_alias: PMC7356105__F3
-redirect_from: /figures/PMC7356105__F3
-figtype: Figure
+  - IGHA2
+  - COL6A1
+  - COL6A2
+  - COL6A3
+  - COL6A5
+  - COL6A6
+  - COL7A1
+  - COL8A1
+  - COL8A2
+  - COL9A1
+  - COL9A2
+  - COL9A3
+  - COL10A1
+  - COL11A1
+  - COL11A2
+  - COL12A1
+  - COL13A1
+  - COL14A1
+  - COL15A1
+  - COL16A1
+  - COL17A1
+  - COL18A1
+  - COL19A1
+  - COL20A1
+  - COL21A1
+  - COL22A1
+  - COL23A1
+  - COL24A1
+  - COL25A1
+  - COL26A1
+  - COL27A1
+  - COL28A1
+  - COL1A1
+  - COL1A2
+  - COL4A1
+  - COL4A2
+  - COL4A3
+  - COL4A4
+  - COL4A5
+  - COL4A6
+  - COL5A1
+  - COL5A2
+  - COL5A3
 ---

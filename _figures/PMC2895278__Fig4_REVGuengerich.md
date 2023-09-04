@@ -1,23 +1,31 @@
 ---
 figid: PMC2895278__Fig4_REVGuengerich
+figtitle: Latter steps of postulated pathway for synthesis of morphine, based on studies
+  with plants
+organisms:
+- Homo sapiens
+pmcid: PMC2895278
+filename: Fig4_REVGuengerich.jpg
 figlink: /pmc/articles/PMC2895278/figure/f4-0100153/
 number: F4
 caption: Latter steps of postulated pathway for synthesis of morphine, based on studies
   with plants. See (–).
-pmcid: PMC2895278
 papertitle: 'Characterizing Proteins of Unknown Function: Orphan Cytochrome P450 Enzymes
   as a Paradigm.'
 reftext: F. Peter Guengerich, et al. Mol Interv. 2010 Jun;10(3):153-163.
-pmc_ranked_result_index: '52979'
-pathway_score: 0.9585056
-filename: Fig4_REVGuengerich.jpg
-figtitle: Latter steps of postulated pathway for synthesis of morphine, based on studies
-  with plants
 year: '2010'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9585056
+figid_alias: PMC2895278__F4
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC2895278__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -36,25 +44,4 @@ schema-jsonld:
   - Codeine
   - Morphine
   - Thebaine
-genes: []
-chemicals:
-- word: Morphinone
-  source: MESH
-  identifier: C036083
-- word: Codeinone
-  source: MESH
-  identifier: C046414
-- word: Codeine
-  source: MESH
-  identifier: D003061
-- word: Morphine
-  source: MESH
-  identifier: D009020
-- word: Thebaine
-  source: MESH
-  identifier: D013797
-diseases: []
-figid_alias: PMC2895278__F4
-redirect_from: /figures/PMC2895278__F4
-figtype: Figure
 ---

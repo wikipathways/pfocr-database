@@ -1,5 +1,10 @@
 ---
 figid: PMC4066640__cshperspectmed-MYC-014316_F5
+figtitle: MYC autorepression and general cellular gene repression by histone modification
+organisms:
+- Homo sapiens
+pmcid: PMC4066640
+filename: cshperspectmed-MYC-014316_F5.jpg
 figlink: /pmc/articles/PMC4066640/figure/A014316F5/
 number: F5
 caption: Model for MYC autorepression and general cellular gene repression by histone
@@ -13,18 +18,21 @@ caption: Model for MYC autorepression and general cellular gene repression by hi
   kinase pathway, high levels of AKT activity continually suppress EZH2 activity and
   the accumulation of H3K27me3, preventing MYC autoregulation. (Figure based on data
   from ).
-pmcid: PMC4066640
 papertitle: MYC Association with Cancer Risk and a New Model of MYC-Mediated Repression.
 reftext: Michael D. Cole. Cold Spring Harb Perspect Med. 2014 Jul;4(7):a014316.
-pmc_ranked_result_index: '95893'
-pathway_score: 0.8856977
-filename: cshperspectmed-MYC-014316_F5.jpg
-figtitle: MYC autorepression and general cellular gene repression by histone modification
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8856977
+figid_alias: PMC4066640__F5
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4066640__F5
 ndex: 9e062694-df12-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,100 +55,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R6
-  - PTEN
-  - PIK3CD
-  - MYC
-  - PIK3R5
-  - AKT1
-  - PIK3R3
-  - BCL2L10
-  - PIK3R4
-  - PIK3CB
   - PIK3CA
-  - AKT2
-  - EZH2
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - AKT1
+  - AKT2
   - AKT3
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: Myc
-  symbol: MYC
-  source: hgnc_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: boo
-  symbol: Boo
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L10
-  entrez: '10017'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: EZH2
-  symbol: EZH2
-  source: hgnc_symbol
-  hgnc_symbol: EZH2
-  entrez: '2146'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-chemicals: []
-diseases: []
-figid_alias: PMC4066640__F5
-redirect_from: /figures/PMC4066640__F5
-figtype: Figure
+  - PTEN
+  - EZH2
+  - MYC
+  - BCL2L10
 ---

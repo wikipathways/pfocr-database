@@ -1,5 +1,17 @@
 ---
 figid: PMC4902042__lpi-suppl.1-2015-095f3
+figtitle: Schematic pathway of DHE synthesis and possible side pathways
+organisms:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Metaphire sieboldi
+- Mus musculus
+- Cricetulus griseus
+- Homo sapiens
+- Saccharomyces cerevisiae
+- Danio rerio
+pmcid: PMC4902042
+filename: lpi-suppl.1-2015-095f3.jpg
 figlink: /pmc/articles/PMC4902042/figure/f3-lpi-suppl.1-2015-095/
 number: F3
 caption: 'Schematic pathway of DHE synthesis and possible side pathways. The chemical
@@ -8,26 +20,22 @@ caption: 'Schematic pathway of DHE synthesis and possible side pathways. The che
   leading to impurities: (1) ergosterol; (2) ergosteryl acetate; (3) dehydroergosteryl
   acetate; (4) ergosteryl D acetate; (5) ergosterol D; and (6) DHE. Adapted from Ref.
   .'
-pmcid: PMC4902042
 papertitle: Fluorescent Sterols and Cholesteryl Esters as Probes for Intracellular
   Cholesterol Transport.
 reftext: Katarzyna A. Solanko, et al. Lipid Insights. 2015;8(Suppl 1):95-114.
-pmc_ranked_result_index: '67242'
-pathway_score: 0.8722184
-filename: lpi-suppl.1-2015-095f3.jpg
-figtitle: Schematic pathway of DHE synthesis and possible side pathways
 year: '2015'
-organisms:
-- Cricetulus griseus
-- Mus musculus
-- Saccharomyces cerevisiae
-- Metaphire sieboldi
-- Caenorhabditis elegans
-- Drosophila melanogaster
-- Danio rerio
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8722184
+figid_alias: PMC4902042__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC4902042__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -50,25 +58,4 @@ schema-jsonld:
   - Ergosterol
   - hydroxide
   - Sodium hydroxide
-genes: []
-chemicals:
-- word: Dehydroergosterol
-  source: MESH
-  identifier: C010905
-- word: anhydride
-  source: MESH
-  identifier: D000812
-- word: Ergosterol
-  source: MESH
-  identifier: D004875
-- word: hydroxide
-  source: MESH
-  identifier: D006878
-- word: Sodium hydroxide
-  source: MESH
-  identifier: D012972
-diseases: []
-figid_alias: PMC4902042__F3
-redirect_from: /figures/PMC4902042__F3
-figtype: Figure
 ---

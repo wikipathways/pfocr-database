@@ -1,49 +1,32 @@
 ---
 figid: PMC7285305__microorganisms-08-00771-g006
+figtitle: Representation of metabolic pathway performed on KEGG website
+organisms:
+- Willaertia magna
+- Homo sapiens
+pmcid: PMC7285305
+filename: microorganisms-08-00771-g006.jpg
 figlink: pmc/articles/PMC7285305/figure/microorganisms-08-00771-f006/
 number: F6
 caption: Representation of metabolic pathway performed on KEGG website. The map shows
   the pathway of secondary metabolite biosynthesis. In red color are represented the
   enzymes found in transcriptome and proteome of W. magna.
-pmcid: PMC7285305
 papertitle: Insight into the Lifestyle of Amoeba Willaertia magna during Bioreactor
   Growth Using Transcriptomics and Proteomics.
 reftext: Issam Hasni, et al. Microorganisms. 2020 May;8(5):771.
-pmc_ranked_result_index: '20315'
-pathway_score: 0.6709865
-filename: microorganisms-08-00771-g006.jpg
-figtitle: Representation of metabolic pathway performed on KEGG website
 year: '2020'
-organisms:
-- Mus musculus
-- Moumouvirus Monve
-- Staphylococcus aureus
-- Bacillus thuringiensis
-- Bacillus thuringiensis serovar san diego
-- Acanthamoeba triangularis
-- Listeria monocytogenes
-- Rathayibacter tanaceti
-- Sawyeria marylandensis
-- Agriosomyces longus
-- Legionella pneumophila str. Paris
-- Legionella pneumophila
-- Dictyostelium discoideum
-- Naegleria lovaniensis
-- Willaertia magna
-- Pleurotus ostreatus
-- Amoebozoa
-- Escherichia coli
-- Acanthamoeba castellanii
-- Acanthamoeba polyphaga
-- Naegleria gruberi
-- Naegleria fowleri
-- Vermamoeba vermiformis
-- Tetrahymena thermophila
-- Balamuthia mandrillaris
-- Naegleria gruberi strain NEG-M
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6709865
+figid_alias: PMC7285305__F6
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7285305__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -58,7 +41,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RPL21
   - Lysine
   - 2-Amino
   - L-2-Aminoadipyl
@@ -77,69 +59,4 @@ schema-jsonld:
   - O
   - descetykephalosporinC
   - Cephamycin C
-genes:
-- word: '121'
-  symbol: L21
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPL21
-  entrez: '6144'
-chemicals:
-- word: Lysine
-  source: MESH
-  identifier: C114808
-- word: 2-Amino
-  source: MESH
-  identifier: D000596
-- word: L-2-Aminoadipyl
-  source: MESH
-  identifier: C039168
-- word: Leystemyl Dvaline leopenicillin
-  source: ''
-  identifier: ''
-- word: cephalosporin C cephaloeporin C Cephalosporin C
-  source: MESH
-  identifier: C025163
-- word: Penicillin N
-  source: MESH
-  identifier: C006414
-- word: Amino
-  source: MESH
-  identifier: D000596
-- word: cephalorporanate
-  source: ''
-  identifier: ''
-- word: LValine
-  source: ''
-  identifier: ''
-- word: Penacilloie acid O 3526
-  source: MESH
-  identifier: D013481
-- word: Cephalosporine
-  source: ''
-  identifier: ''
-- word: 6-Aminopenicillanac acid 03511I
-  source: MESH
-  identifier: D007455
-- word: Penicilline
-  source: ''
-  identifier: ''
-- word: O-Caubamoyl-descetyl-O
-  source: MESH
-  identifier: D013481
-- word: cephalospofin C
-  source: MESH
-  identifier: D002244
-- word: O
-  source: MESH
-  identifier: D013481
-- word: descetykephalosporinC
-  source: MESH
-  identifier: D002244
-- word: Cephamycin C
-  source: MESH
-  identifier: C024925
-diseases: []
-figid_alias: PMC7285305__F6
-redirect_from: /figures/PMC7285305__F6
-figtype: Figure
 ---

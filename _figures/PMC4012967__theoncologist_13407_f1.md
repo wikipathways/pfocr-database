@@ -1,5 +1,10 @@
 ---
 figid: PMC4012967__theoncologist_13407_f1
+figtitle: IL-6/JAK/STAT pathway
+organisms:
+- NA
+pmcid: PMC4012967
+filename: theoncologist_13407_f1.jpg
 figlink: /pmc/articles/PMC4012967/figure/F1/
 number: F1
 caption: 'The IL-6/JAK/STAT pathway. The endogenous inhibitors of the latter are shown
@@ -17,18 +22,21 @@ caption: 'The IL-6/JAK/STAT pathway. The endogenous inhibitors of the latter are
   may be attractive.Abbreviations: IL, interleukin; JAK, Janus kinase; PIAS, protein
   inhibitor of activated STAT3; SOCS, suppressors of cytokine signaling; STAT, signal
   transducer and activator of transcription.'
-pmcid: PMC4012967
 papertitle: 'STAT3 Inhibitors: Finding a Home in Lymphoma and Leukemia.'
 reftext: Javier Munoz, et al. Oncologist. 2014 May;19(5):536-544.
-pmc_ranked_result_index: '33631'
-pathway_score: 0.9249061
-filename: theoncologist_13407_f1.jpg
-figtitle: IL-6/JAK/STAT pathway
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9249061
+figid_alias: PMC4012967__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4012967__F1
 ndex: 3ad2be23-df0d-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,163 +63,78 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EGFR
   - EGF
-  - CISH
-  - STAT4
-  - PTPN11
-  - STAT3
-  - CCND1
-  - SOCS3
   - IL6
-  - BCL2L1
   - IL6R
+  - EGFR
   - JAK1
-  - STAT5A
-  - SRC
-  - MCL1
-  - STAT6
-  - STAT1
-  - RET
   - JAK2
   - JAK3
-  - BCL2
-  - STAT2
   - TYK2
+  - TK1
+  - TK2
+  - SOCS3
+  - PTPN11
+  - RET
+  - SRC
+  - FGR
+  - FYN
+  - YES1
+  - PSMA1
+  - PSMA2
+  - PSMA3
+  - PSMA4
+  - PSMA5
+  - PSMA6
+  - PSMA7
+  - PSMA8
+  - PSMB1
+  - PSMB10
+  - PSMB2
+  - PSMB3
+  - PSMB4
+  - PSMB5
+  - PSMB6
+  - PSMB7
+  - PSMB8
+  - PSMB9
+  - PSMC1
+  - PSMC2
+  - PSMC3
+  - PSMC4
+  - PSMC5
+  - PSMC6
+  - PSMD1
+  - PSMD10
+  - PSMD11
+  - PSMD12
+  - PSMD13
+  - PSMD14
+  - PSMD2
+  - PSMD3
+  - PSMD4
+  - PSMD5
+  - PSMD6
+  - PSMD7
+  - PSMD8
+  - PSMD9
+  - PSME1
+  - PSME2
+  - PSME3
+  - PSMF1
+  - SEM1
+  - USP5
+  - CISH
+  - STAT3
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT4
+  - STAT6
+  - STAT5A
   - STAT5B
+  - MCL1
+  - CCND1
+  - BCL2
   - Cancer
-genes:
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: SOCS
-  symbol: SOCS
-  source: hgnc_alias_symbol
-  hgnc_symbol: CISH
-  entrez: '1154'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: SHP2
-  symbol: SHP-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTPN11
-  entrez: '5781'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: CyclinD1
-  symbol: Cyclin-D1
-  source: bioentities_symbol
-  hgnc_symbol: CCND1
-  entrez: '595'
-- word: SOCS3
-  symbol: SOCS3
-  source: hgnc_symbol
-  hgnc_symbol: SOCS3
-  entrez: '9021'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: BCL-XL
-  symbol: bcl-xL
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L1
-  entrez: '598'
-- word: IL6-R
-  symbol: IL6R
-  source: hgnc_symbol
-  hgnc_symbol: IL6R
-  entrez: '3570'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK1
-  entrez: '3716'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: Src
-  symbol: SRC
-  source: hgnc_symbol
-  hgnc_symbol: SRC
-  entrez: '6714'
-- word: MCL-1
-  symbol: Mcl-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MCL1
-  entrez: '4170'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: RET
-  symbol: RET
-  source: hgnc_symbol
-  hgnc_symbol: RET
-  entrez: '5979'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK2
-  entrez: '3717'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: JAK3
-  entrez: '3718'
-- word: BCL-2
-  symbol: Bcl-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: JAK
-  symbol: JAK
-  source: bioentities_symbol
-  hgnc_symbol: TYK2
-  entrez: '7297'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC4012967__F1
-redirect_from: /figures/PMC4012967__F1
-figtype: Figure
 ---

@@ -1,5 +1,21 @@
 ---
 figid: PMC8068835__microorganisms-09-00790-g011
+figtitle: Summarized interconnection between PC synthesis, trans-sulfuration pathway,
+  folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis
+organisms:
+- Plasmodium falciparum
+- Venustaconcha ellipsiformis
+- Leishmania donovani
+- Leishmania infantum
+- Leishmania amazonensis
+- Leishmania braziliensis
+- Leishmania chagasi
+- Leishmania tropica
+- Leishmania panamensis
+- Homo sapiens
+- Agriosomyces longus
+pmcid: PMC8068835
+filename: microorganisms-09-00790-g011.jpg
 figlink: pmc/articles/PMC8068835/figure/microorganisms-09-00790-f011/
 number: F11
 caption: 'Summarized interconnection between PC synthesis, trans-sulfuration pathway,
@@ -23,29 +39,21 @@ caption: 'Summarized interconnection between PC synthesis, trans-sulfuration pat
   hydrolase; SAM: S-adenosyl-L-methionine; SAMDC: SAM decarboxylase; SAS: S-adenosylmethionine
   synthetase; SPDS: Spermidine synthase; SPS: Spermine synthase; T(SH)2: Trypanothione;
   THF: tetrahydrofolate; TryS: Trypanothione synthase.'
-pmcid: PMC8068835
 papertitle: Drug-Induced Lipid Remodeling in Leishmania Parasites.
 reftext: Sneider Alexander Gutierrez Guarnizo, et al. Microorganisms. 2021 Apr;9(4):790.
-pmc_ranked_result_index: '11298'
-pathway_score: 0.9684368
-filename: microorganisms-09-00790-g011.jpg
-figtitle: Summarized interconnection between PC synthesis, trans-sulfuration pathway,
-  folate cycle, methionine cycle, polyamine pathway, and trypanothion synthesis
 year: '2021'
-organisms:
-- Agriosomyces longus
-- Venustaconcha ellipsiformis
-- Leishmania chagasi
-- Leishmania amazonensis
-- Leishmania braziliensis
-- Leishmania donovani
-- Leishmania tropica
-- Leishmania infantum
-- Leishmania panamensis
-- Plasmodium falciparum
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9684368
+figid_alias: PMC8068835__F11
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC8068835__F11
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -81,20 +89,45 @@ schema-jsonld:
   - MATN1
   - PC
   - PEMT
-  - PLD3
-  - PLD5
+  - MUC1
+  - CCT
+  - FLVCR2
+  - CCT2
+  - CCT3
+  - CCT4
+  - CCT5
+  - CCT6A
+  - CCT6B
+  - CCT7
+  - CCT8
+  - TCP1
+  - GPLD1
   - PLD1
   - PLD2
+  - PLD3
   - PLD4
+  - PLD5
   - PLD6
   - ACSM3
   - SLC25A1
   - AMD1
+  - ODC1
+  - SLC25A21
   - WDTC1
+  - TSPAN31
   - NANS
   - AHCY
   - BHMT
   - CBS
+  - SMS
+  - TBX4
+  - SEPHS1
+  - PDSS1
+  - CTH
+  - THNSL2
+  - TSHZ2
+  - GNAS
+  - GNAL
   - CMP
   - CDP-choline
   - Polyamine
@@ -117,171 +150,4 @@ schema-jsonld:
   - Trnassulfurarion
   - SAH
   - GS
-genes:
-- word: CMP
-  symbol: CMP
-  source: hgnc_prev_symbol
-  hgnc_symbol: MATN1
-  entrez: '4146'
-- word: PC
-  symbol: PC
-  source: hgnc_symbol
-  hgnc_symbol: PC
-  entrez: '5091'
-- word: PEMT
-  symbol: PEMT
-  source: hgnc_symbol
-  hgnc_symbol: PEMT
-  entrez: '10400'
-- word: PC
-  symbol: PC
-  source: hgnc_symbol
-  hgnc_symbol: PC
-  entrez: '5091'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD3
-  entrez: '23646'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD5
-  entrez: '200150'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD1
-  entrez: '5337'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD2
-  entrez: '5338'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD4
-  entrez: '122618'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD6
-  entrez: '201164'
-- word: SAH
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-- word: СТР
-  symbol: CTP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC25A1
-  entrez: '6576'
-- word: SAMDC
-  symbol: SAMDC
-  source: hgnc_alias_symbol
-  hgnc_symbol: AMD1
-  entrez: '262'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: SAS
-  symbol: SAS
-  source: hgnc_alias_symbol
-  hgnc_symbol: NANS
-  entrez: '54187'
-- word: SAHH
-  symbol: SAHH
-  source: hgnc_alias_symbol
-  hgnc_symbol: AHCY
-  entrez: '191'
-- word: BHMT
-  symbol: BHMT
-  source: hgnc_symbol
-  hgnc_symbol: BHMT
-  entrez: '635'
-- word: SAH-
-  symbol: SAH
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACSM3
-  entrez: '6296'
-- word: CBS
-  symbol: CBS
-  source: hgnc_symbol
-  hgnc_symbol: CBS
-  entrez: '875'
-chemicals:
-- word: CMP
-  source: MESH
-  identifier: D003568
-- word: CDP-choline
-  source: MESH
-  identifier: D003566
-- word: Polyamine
-  source: MESH
-  identifier: D011073
-- word: Ornithine
-  source: MESH
-  identifier: C008973
-- word: Choline
-  source: MESH
-  identifier: D002794
-- word: phosphate
-  source: MESH
-  identifier: D010710
-- word: Methionine
-  source: MESH
-  identifier: D008715
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Putrescine
-  source: MESH
-  identifier: D011700
-- word: DMG
-  source: MESH
-  identifier: C060045
-- word: spermine
-  source: MESH
-  identifier: D013096
-- word: Folate
-  source: MESH
-  identifier: D005492
-- word: THF
-  source: MESH
-  identifier: C006461
-- word: 5-MTHF
-  source: MESH
-  identifier: C032418
-- word: 5,10-MTHF
-  source: MESH
-  identifier: C032418
-- word: Cysteine
-  source: MESH
-  identifier: D003545
-- word: GSH
-  source: MESH
-  identifier: D005978
-- word: Spermidine
-  source: MESH
-  identifier: D013095
-- word: thiol
-  source: MESH
-  identifier: D013438
-- word: Trnassulfurarion
-  source: ''
-  identifier: ''
-diseases:
-- word: SAH
-  source: MESH
-  identifier: D013345
-- word: GS
-  source: MESH
-  identifier: D011125
-figid_alias: PMC8068835__F11
-redirect_from: /figures/PMC8068835__F11
-figtype: Figure
 ---

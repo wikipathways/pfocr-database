@@ -1,5 +1,10 @@
 ---
 figid: PMC4930925__cshperspect-STH-023895_F3
+figtitle: Engineered gene circuits
+organisms:
+- NA
+pmcid: PMC4930925
+filename: cshperspect-STH-023895_F3.jpg
 figlink: /pmc/articles/PMC4930925/figure/A023895F3/
 number: F3
 caption: Engineered gene circuits. (A) The three ligand-responsive, transcriptional
@@ -17,18 +22,22 @@ caption: Engineered gene circuits. (A) The three ligand-responsive, transcriptio
   (LacI), in addition to the recombinase iCre, are connected to build a gene circuit
   using bow-tie architecture. Two miRNA inputs (miR21 and miR141/146) manipulate the
   gene circuit to express the two output proteins in the exclusive presence of miR21.
-pmcid: PMC4930925
 papertitle: Engineering Gene Circuits for Mammalian Cell–Based Applications.
 reftext: Simon Ausländer, et al. Cold Spring Harb Perspect Biol. 2016 Jul;8(7):a023895.
-pmc_ranked_result_index: '175014'
-pathway_score: 0.79133
-filename: cshperspect-STH-023895_F3.jpg
-figtitle: Engineered gene circuits
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.79133
+figid_alias: PMC4930925__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC4930925__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,46 +65,65 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Rpn3
+  - Dox-3
+  - gate
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - dlt
+  - tRNA:Lys-TTT-1-1
+  - tRNA:Lys-TTT-2-4
+  - tRNA:Lys-TTT-2-1
+  - tRNA:Lys-TTT-2-2
+  - tRNA:Lys-TTT-2-5
+  - tRNA:Lys-TTT-2-3
+  - Oamb
+  - aa
+  - Pa
+  - hpa
+  - Rev
   - TNIP1
-  - HPSE
-  - PEF1
-  - NMUR1
   - EDN1
+  - APP
+  - AAAS
+  - AAA1
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
   - GPR65
-genes:
-- word: Van
-  symbol: VAN
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNIP1
-  entrez: '10318'
-- word: HP(A)
-  symbol: HPA
-  source: hgnc_alias_symbol
-  hgnc_symbol: HPSE
-  entrez: '10855'
-- word: PEF1a
-  symbol: PEF1A
-  source: hgnc_alias_symbol
-  hgnc_symbol: PEF1
-  entrez: '553115'
-- word: GPCR
-  symbol: GPC-R
-  source: hgnc_alias_symbol
-  hgnc_symbol: NMUR1
-  entrez: '10316'
-- word: ET1
-  symbol: ET1
-  source: hgnc_alias_symbol
-  hgnc_symbol: EDN1
-  entrez: '1906'
-- word: TDAG8
-  symbol: TDAG8
-  source: hgnc_alias_symbol
-  hgnc_symbol: GPR65
-  entrez: '8477'
-chemicals: []
-diseases: []
-figid_alias: PMC4930925__F3
-redirect_from: /figures/PMC4930925__F3
-figtype: Figure
+  - HBA-LCR
+  - HPSE
+  - MIR141
+  - MIR21
+  - TFPI
+  - PEF1
 ---

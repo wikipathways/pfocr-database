@@ -1,5 +1,10 @@
 ---
 figid: PMC2639036__carcinbgn250f01_ht
+figtitle: Single-strand break repair pathways
+organisms:
+- NA
+pmcid: PMC2639036
+filename: carcinbgn250f01_ht.jpg
 figlink: /pmc/articles/PMC2639036/figure/fig1/
 number: F1
 caption: Single-strand break repair pathways. BER corrects damaged bases by first
@@ -9,19 +14,23 @@ caption: Single-strand break repair pathways. BER corrects damaged bases by firs
   uracil); AP, apurinic/apyrimidinic site; filled circles, dRP abasic residue; circle
   with star, abasic residue that is refractory to POLβ lyase activity; thick lines,
   incorporated nucleotides; P, phosphate; UA, unsaturated aldehyde; PG, 3'-phosphoglycolate.
-pmcid: PMC2639036
 papertitle: Base excision repair of oxidative DNA damage and association with cancer
   and aging.
 reftext: Scott Maynard, et al. Carcinogenesis. 2009 Jan;30(1):2-10.
-pmc_ranked_result_index: '151589'
-pathway_score: 0.6707217
-filename: carcinbgn250f01_ht.jpg
-figtitle: Single-strand break repair pathways
 year: '2009'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6707217
+figid_alias: PMC2639036__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2639036__F1
 ndex: c7dad0ee-df2d-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,82 +50,43 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - POLB
-  - POLA1
+  - ber
+  - mtSSB
+  - as
+  - Ogg1
+  - pg
+  - por
+  - drp
+  - Drp1
+  - Parp
   - PNKP
-  - LIG3
-  - TIPARP
-  - PAPD7
-  - FEN1
-  - SSB
-  - APEX1
+  - Prim1
+  - PolA1
+  - PolA2
+  - Prim2
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
   - PCNA
-  - POR
+  - Fen1
+  - DNAlig3
+  - lig
+  - SSB
+  - BPIFA4P
   - OGG1
-genes:
-- word: POLB
-  symbol: POLB
-  source: hgnc_symbol
-  hgnc_symbol: POLB
-  entrez: '5423'
-- word: POLA
-  symbol: POLA
-  source: hgnc_prev_symbol
-  hgnc_symbol: POLA1
-  entrez: '5422'
-- word: PNKP
-  symbol: PNKP
-  source: hgnc_symbol
-  hgnc_symbol: PNKP
-  entrez: '11284'
-- word: lig3/
-  symbol: LIG3
-  source: hgnc_symbol
-  hgnc_symbol: LIG3
-  entrez: '3980'
-- word: PARP-1
-  symbol: PARP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TIPARP
-  entrez: '25976'
-- word: POLS
-  symbol: POLS
-  source: hgnc_prev_symbol
-  hgnc_symbol: PAPD7
-  entrez: '11044'
-- word: FEN1
-  symbol: FEN1
-  source: hgnc_symbol
-  hgnc_symbol: FEN1
-  entrez: '2237'
-- word: SSB
-  symbol: SSB
-  source: hgnc_symbol
-  hgnc_symbol: SSB
-  entrez: '6741'
-- word: APE1
-  symbol: APE-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: APEX1
-  entrez: '328'
-- word: PČNA
-  symbol: PCNA
-  source: hgnc_symbol
-  hgnc_symbol: PCNA
-  entrez: '5111'
-- word: Por
-  symbol: POR
-  source: hgnc_symbol
-  hgnc_symbol: POR
-  entrez: '5447'
-- word: OGG1
-  symbol: OGG1
-  source: hgnc_symbol
-  hgnc_symbol: OGG1
-  entrez: '4968'
-chemicals: []
-diseases: []
-figid_alias: PMC2639036__F1
-redirect_from: /figures/PMC2639036__F1
-figtype: Figure
+  - APEX1
+  - POR
+  - VDAC2
+  - UTRN
+  - DENR
+  - PARP1
+  - POLA1
+  - TENT4A
+  - POLB
+  - POLG2
+  - FEN1
+  - LIG3
+  - LRIG3
+  - UBE2K
 ---

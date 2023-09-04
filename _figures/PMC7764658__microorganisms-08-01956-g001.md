@@ -1,5 +1,11 @@
 ---
 figid: PMC7764658__microorganisms-08-01956-g001
+figtitle: The type III secretion system (T3SS) regulation and modes of action of T3SS
+  inhibitors in Dickeya dadantii
+organisms:
+- NA
+pmcid: PMC7764658
+filename: microorganisms-08-01956-g001.jpg
 figlink: pmc/articles/PMC7764658/figure/microorganisms-08-01956-f001/
 number: F1
 caption: Model of the type III secretion system (T3SS) regulation and modes of action
@@ -19,20 +25,22 @@ caption: Model of the type III secretion system (T3SS) regulation and modes of a
   Trans-4-hydroxycinnamohdroxamic acid (TS103), a plant phenolic compound derivative,
   represses the expression of T3SS via the HrpX/HrpY-HrpS-RpoN-HrpL pathway. ⊥ represents
   negative control; → represents positive control.
-pmcid: PMC7764658
 papertitle: Innovation and Application of the Type III Secretion System Inhibitors
   in Plant Pathogenic Bacteria.
 reftext: Xiaochen Yuan, et al. Microorganisms. 2020 Dec;8(12):1956.
-pmc_ranked_result_index: '19149'
-pathway_score: 0.9567239
-filename: microorganisms-08-01956-g001.jpg
-figtitle: The type III secretion system (T3SS) regulation and modes of action of T3SS
-  inhibitors in Dickeya dadantii
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9567239
+figid_alias: PMC7764658__F1
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC7764658__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -62,35 +70,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PNPT1
-  - USP6
+  - hfq
+  - arcZ
+  - rssB
+  - slyA
+  - rpoS
+  - rsmB
+  - rsmA
+  - rpoN
+  - ecpC
+  - yegR
+  - hrpA
   - OCA
   - TCA
-genes:
-- word: PNPase
-  symbol: PNPase
-  source: hgnc_alias_symbol
-  hgnc_symbol: PNPT1
-  entrez: '87178'
-- word: PNPase
-  symbol: PNPase
-  source: hgnc_alias_symbol
-  hgnc_symbol: PNPT1
-  entrez: '87178'
-- word: hrpl
-  symbol: HRP1
-  source: hgnc_prev_symbol
-  hgnc_symbol: USP6
-  entrez: '9098'
-chemicals:
-- word: OCA
-  source: MESH
-  identifier: C070580
-- word: TCA
-  source: MESH
-  identifier: C000589078
-diseases: []
-figid_alias: PMC7764658__F1
-redirect_from: /figures/PMC7764658__F1
-figtype: Figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC3504431__cshperspect-CSD-008771_F1
+figtitle: MTOR pathway
+organisms:
+- NA
+pmcid: PMC3504431
+filename: cshperspect-CSD-008771_F1.jpg
 figlink: /pmc/articles/PMC3504431/figure/A008771F1/
 number: F1
 caption: The mTOR pathway. The mTOR kinase exists in two distinct complexes called
@@ -25,18 +30,21 @@ caption: The mTOR pathway. The mTOR kinase exists in two distinct complexes call
   the mechanisms are unknown. The best described substrates of mTORC2 are AKT and
   SGK, which require mTORC2-dependent phosphorylation for full biochemical activity.
   PKC is also regulated by mTORC2.
-pmcid: PMC3504431
 papertitle: mTOR-Dependent Cell Survival Mechanisms.
 reftext: Chien-Min Hung, et al. Cold Spring Harb Perspect Biol. 2012 Dec;4(12):a008771.
-pmc_ranked_result_index: '96246'
-pathway_score: 0.9253045
-filename: cshperspect-CSD-008771_F1.jpg
-figtitle: MTOR pathway
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9253045
+figid_alias: PMC3504431__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3504431__F1
 ndex: 51aa0ad8-defa-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -71,459 +79,83 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3CD
-  - PIK3CG
-  - PIK3R4
-  - PIK3R3
-  - PIK3CB
-  - EIF4EBP1
-  - WNT3A
-  - WNT10A
-  - PIK3CA
-  - PRKAA2
-  - WNT9B
-  - WNT9A
-  - WNT5B
-  - MTOR
-  - PIK3R6
-  - PRKD3
-  - PRKAB1
-  - PRKAA1
-  - WNT1
-  - WNT10B
-  - PRKCI
-  - RPTOR
-  - PIK3R5
-  - PRKCH
-  - WNT2
-  - AKT3
-  - WNT4
-  - PRKAB2
-  - MLST8
   - MAPKAP1
-  - PDK1
-  - PRKCG
-  - ULK1
-  - PRKCQ
-  - WNT16
-  - PRKAG1
-  - MAPK1
-  - PRKCA
+  - MTOR
+  - RICTOR
+  - MLST8
   - AKT1
   - AKT2
-  - PRKAG2
-  - PRKAG3
-  - WNT11
-  - WNT2B
-  - AKT1S1
-  - WNT5A
-  - WNT3
-  - PRKCZ
-  - WNT8A
-  - MAPK3
-  - PRKCE
-  - RICTOR
-  - TSC2
-  - WNT8B
-  - DEPTOR
-  - TSC1
-  - GRB10
-  - PRKCB
-  - PRKCD
+  - AKT3
   - IRS1
-  - ZAP70
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - PDK1
+  - PDPK1
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - TSC2
+  - WNT1
+  - WNT2
+  - WNT2B
+  - WNT3
+  - WNT3A
+  - WNT4
   - WNT6
-  - WNT7B
-  - IRS2
-  - SGK1
   - WNT7A
+  - WNT7B
+  - WNT8A
+  - WNT8B
+  - WNT9A
+  - WNT9B
+  - WNT10A
+  - WNT10B
+  - WNT11
+  - WNT16
+  - WNT5A
+  - WNT5B
   - GSK3A
   - GSK3B
+  - TSC1
+  - CCL26
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - RPS6KB2
+  - ZAP70
   - DDIT4
   - RHEB
+  - RHEBP1
+  - RPTOR
+  - DEPTOR
+  - AKT1S1
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - RPS6KB1
+  - ULK1
+  - EIF4EBP1
+  - GRB10
+  - SGK1
   - Cancer
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: 4EBP1
-  symbol: 4E-BP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF4EBP1
-  entrez: '1978'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3A
-  entrez: '89780'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10A
-  entrez: '80326'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9B
-  entrez: '7484'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9A
-  entrez: '7483'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5B
-  entrez: '81029'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT1
-  entrez: '7471'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10B
-  entrez: '7480'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2
-  entrez: '7472'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT4
-  entrez: '54361'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: ULK1
-  symbol: ULK1
-  source: hgnc_symbol
-  hgnc_symbol: ULK1
-  entrez: '8408'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT16
-  entrez: '51384'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: MLST8
-  symbol: MLST8
-  source: hgnc_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT11
-  entrez: '7481'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2B
-  entrez: '7482'
-- word: PRAS40
-  symbol: PRAS40
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1S1
-  entrez: '84335'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5A
-  entrez: '7474'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3
-  entrez: '7473'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8A
-  entrez: '7478'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: TSC2
-  symbol: TSC2
-  source: hgnc_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8B
-  entrez: '7479'
-- word: DEPTOR
-  symbol: DEPTOR
-  source: hgnc_symbol
-  hgnc_symbol: DEPTOR
-  entrez: '64798'
-- word: TSC1
-  symbol: TSC1
-  source: hgnc_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: Grb10
-  symbol: GRB10
-  source: hgnc_symbol
-  hgnc_symbol: GRB10
-  entrez: '2887'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: RAPTOR
-  symbol: raptor
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: IRS1/2PI3K
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: SRK
-  symbol: SRK
-  source: hgnc_prev_symbol
-  hgnc_symbol: ZAP70
-  entrez: '7535'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT6
-  entrez: '7475'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7B
-  entrez: '7477'
-- word: IRS1/2
-  symbol: IRS2
-  source: hgnc_symbol
-  hgnc_symbol: IRS2
-  entrez: '8660'
-- word: SGK
-  symbol: SGK
-  source: hgnc_prev_symbol
-  hgnc_symbol: SGK1
-  entrez: '6446'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7A
-  entrez: '7476'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: RICTOR
-  symbol: RICTOR
-  source: hgnc_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: REDD1
-  symbol: REDD-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDIT4
-  entrez: '54541'
-- word: Rheb
-  symbol: RHEB
-  source: hgnc_symbol
-  hgnc_symbol: RHEB
-  entrez: '6009'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3504431__F1
-redirect_from: /figures/PMC3504431__F1
-figtype: Figure
 ---

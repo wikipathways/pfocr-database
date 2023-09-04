@@ -1,5 +1,17 @@
 ---
 figid: PMC3524696__medscimonit-17-2-RA44-g001
+figtitle: Schematic diagram represents the ischemic preconditioning pathway in cardiomyocytes
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Canis lupus familiaris
+- Sus scrofa
+- Cavia porcellus
+- Homo sapiens
+- Gallus gallus
+pmcid: PMC3524696
+filename: medscimonit-17-2-RA44-g001.jpg
 figlink: /pmc/articles/PMC3524696/figure/f1-medscimonit-17-2-ra44/
 number: F1
 caption: The schematic diagram represents the ischemic preconditioning pathway in
@@ -21,26 +33,28 @@ caption: The schematic diagram represents the ischemic preconditioning pathway i
   which then inhibits the opening of mitochondrial permeable transition pore (mPTP).
   This inhibition of mPTP opening helps to protect mitochondrial damage during I/R
   injury. (Modified with permission from []).
-pmcid: PMC3524696
 papertitle: Roles of the nitric oxide signaling pathway in cardiac ischemic preconditioning
   against myocardial ischemia-reperfusion injury.
 reftext: Punate Weerateerangkul, et al. Med Sci Monit. 2011;17(2):RA44-RA52.
-pmc_ranked_result_index: '117753'
-pathway_score: 0.8650374
-filename: medscimonit-17-2-RA44-g001.jpg
-figtitle: Schematic diagram represents the ischemic preconditioning pathway in cardiomyocytes
 year: '2011'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Cavia porcellus
-- Gallus gallus
-- Homo sapiens
-- Canis lupus familiaris
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8650374
+figid_alias: PMC3524696__F1
+figtype: Figure
+organisms_ner:
 - Sus scrofa
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Canis lupus familiaris
+- Cavia porcellus
 - Oryctolagus cuniculus
+redirect_from: /figures/PMC3524696__F1
 ndex: 7265ac74-df13-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -71,203 +85,99 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NMUR1
-  - GSK3B
-  - NOS1
-  - PRKCA
-  - PDK2
-  - SGCB
-  - PRKCZ
-  - PRKCD
-  - NOS2
-  - TPH1
-  - MAPK1
-  - PRKCB
-  - PRKD3
-  - AKT1
-  - PRKG1
-  - MAPK3
+  - CMKLR1
   - PDK1
-  - AKT3
-  - AKT2
+  - PDK2
+  - AKT1
+  - NOS3
+  - GSK3B
+  - PKC
+  - FYN
+  - PRKCH
+  - PRKD1
+  - PRKCI
+  - PRKCB
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - PDPK1
   - PDK3
   - PDK4
-  - PRKCQ
-  - PRKCG
-  - NOS3
-  - PRKCH
-  - PRKCI
+  - AKT2
+  - AKT3
+  - NOS1
+  - NOS2
+  - SGCB
+  - GUCY1A2
+  - GUCY1A1
+  - GUCY1B1
+  - GUCY1B2
+  - ATP8A2
+  - PRKG1
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - PRRT2
+  - PRKCA
+  - PRKCD
   - PRKCE
+  - PRKCG
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - Tas2r134
+  - Rxfp2
+  - Pdk1
+  - Pdk2
+  - Akt1
+  - Gucy1b1
+  - Gucy1b2
+  - Gucy1a1
+  - Ephb1
+  - Gsk3b
+  - Prkcg
+  - Tph1
+  - Gpbar1
+  - Pdpk1
+  - Nos1
+  - Srgn
+  - Ephb2
+  - Mapk1
+  - ADRB3
+  - CCR5
+  - KISS1R
+  - Nos2
+  - Prkca
+  - TPH1
   - Adenosine
   - NO L-arginine
   - MPTP
   - Cancer
-genes:
-- word: GPCR
-  symbol: GPC-R
-  source: hgnc_alias_symbol
-  hgnc_symbol: NMUR1
-  entrez: '10316'
-- word: GSK3B
-  symbol: GSK3B
-  source: hgnc_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS1
-  entrez: '4842'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: PDK2
-  symbol: PDK2
-  source: hgnc_symbol
-  hgnc_symbol: PDK2
-  entrez: '5164'
-- word: SGC
-  symbol: SGC
-  source: hgnc_alias_symbol
-  hgnc_symbol: SGCB
-  entrez: '6443'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS2
-  entrez: '4843'
-- word: tpH
-  symbol: TPH
-  source: hgnc_prev_symbol
-  hgnc_symbol: TPH1
-  entrez: '7166'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PKG
-  symbol: PKG
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: PKC&2)
-  symbol: PKC2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PDK
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK3
-  entrez: '5165'
-- word: PDK
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK4
-  entrez: '5166'
-- word: PDK
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: NOS
-  symbol: NOS
-  source: bioentities_symbol
-  hgnc_symbol: NOS3
-  entrez: '4846'
-- word: PDK
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK2
-  entrez: '5164'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: PKC&1
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-chemicals:
-- word: Adenosine
-  source: MESH
-  identifier: D000241
-- word: NO L-arginine
-  source: MESH
-  identifier: D001120
-- word: MPTP
-  source: MESH
-  identifier: D015632
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3524696__F1
-redirect_from: /figures/PMC3524696__F1
-figtype: Figure
 ---

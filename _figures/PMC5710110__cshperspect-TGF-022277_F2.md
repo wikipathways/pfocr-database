@@ -1,5 +1,10 @@
 ---
 figid: PMC5710110__cshperspect-TGF-022277_F2
+figtitle: Transforming growth factor B (TGFB)-induced Smad signaling pathway
+organisms:
+- NA
+pmcid: PMC5710110
+filename: cshperspect-TGF-022277_F2.jpg
 figlink: /pmc/articles/PMC5710110/figure/A022277F2/
 number: F2
 caption: The transforming growth factor β (TGF-β)-induced Smad signaling pathway.
@@ -17,18 +22,21 @@ caption: The transforming growth factor β (TGF-β)-induced Smad signaling pathw
   on the basis of their biological responses. Highlighted in red are gene responses
   repressed by TGF-β, and in green are gene responses induced by TGF-β. These are
   central for the cytostatic program induced by TGF-β.
-pmcid: PMC5710110
 papertitle: TGF-β Family Signaling in Tumor Suppression and Cancer Progression.
 reftext: Joan Seoane, et al. Cold Spring Harb Perspect Biol. 2017 Dec;9(12):a022277.
-pmc_ranked_result_index: '76513'
-pathway_score: 0.9011819
-filename: cshperspect-TGF-022277_F2.jpg
-figtitle: Transforming growth factor B (TGFB)-induced Smad signaling pathway
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9011819
+figid_alias: PMC5710110__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5710110__F2
 ndex: 8cd18d20-df12-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,112 +63,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - TRAP
+  - ACP5
+  - CD40LG
+  - TRAF2
+  - TRRAP
+  - TDRD7
+  - SCYL1
+  - TGFB1
+  - TGFB2
+  - TGFB3
   - SMAD2
+  - SMAD4
+  - CDK4
+  - CDKN1A
   - MYC
   - GSK3A
-  - SMAD4
-  - CDKN1A
-  - ID2
-  - CDK9
-  - SMAD3
-  - TGFB1
-  - TRRAP
-  - TGFB2
-  - ID1
-  - ID3
   - GSK3B
-  - TGFB3
-  - CDK4
+  - CDK9
   - CDK8
-genes:
-- word: Smad2/3
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: c-Myc
-  symbol: c-Myc
-  source: hgnc_alias_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: P21CIP1
-  symbol: p21CIP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CDKN1A
-  entrez: '1026'
-- word: Id2,
-  symbol: ID2
-  source: hgnc_symbol
-  hgnc_symbol: ID2
-  entrez: '3398'
-- word: CDK8/9
-  symbol: CDK9
-  source: hgnc_symbol
-  hgnc_symbol: CDK9
-  entrez: '1025'
-- word: Smad2/3
-  symbol: SMAD3
-  source: hgnc_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: Trap
-  symbol: TR-AP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRRAP
-  entrez: '8295'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: Id1,Id2,Id3
-  symbol: ID1
-  source: hgnc_symbol
-  hgnc_symbol: ID1
-  entrez: '3397'
-- word: Id3
-  symbol: ID3
-  source: hgnc_symbol
-  hgnc_symbol: ID3
-  entrez: '3399'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: CDK4
-  symbol: CDK4
-  source: hgnc_symbol
-  hgnc_symbol: CDK4
-  entrez: '1019'
-- word: CDK8/9
-  symbol: CDK8
-  source: hgnc_symbol
-  hgnc_symbol: CDK8
-  entrez: '1024'
-chemicals: []
-diseases: []
-figid_alias: PMC5710110__F2
-redirect_from: /figures/PMC5710110__F2
-figtype: Figure
+  - ID1
+  - ID2
+  - ID3
 ---

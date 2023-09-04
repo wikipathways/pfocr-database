@@ -1,5 +1,11 @@
 ---
 figid: PMC4481705__molbiolevolmsq096f04_3c
+figtitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Diverse
+  Pathway in Archaea'
+organisms:
+- NA
+pmcid: PMC4481705
+filename: molbiolevolmsq096f04_3c.jpg
 figlink: /pmc/articles/PMC4481705/figure/fig4/
 number: F4
 caption: Predicted biosynthetic pathways of archaeal wyosine derivatives. Acronym
@@ -12,20 +18,22 @@ caption: Predicted biosynthetic pathways of archaeal wyosine derivatives. Acrony
   has not been characterized. A black arrows means that the enzyme certainly catalyzes
   the reaction (when dashed the quantities of the product detected were small). A
   dashed red arrow corresponds to a predicted but not experimentally validated reaction.
-pmcid: PMC4481705
 papertitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Diverse
   Pathway in Archaea.'
 reftext: Valérie de Crécy-Lagard, et al. Mol Biol Evol. 2010 Sep;27(9):2062-2077.
-pmc_ranked_result_index: '91803'
-pathway_score: 0.9075729
-filename: molbiolevolmsq096f04_3c.jpg
-figtitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Diverse
-  Pathway in Archaea'
 year: '2010'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9075729
+figid_alias: PMC4481705__F4
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+redirect_from: /figures/PMC4481705__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,34 +56,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TRMT12
   - TYW1
-  - LCMT2
+  - TRM12
+  - TUB2
+  - IMG2
   - TYW3
-genes:
-- word: Tyw2
-  symbol: TYW2
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRMT12
-  entrez: '55039'
-- word: Tyw1
-  symbol: TYW1
-  source: hgnc_symbol
-  hgnc_symbol: TYW1
-  entrez: '55253'
-- word: Tyw4
-  symbol: TYW4
-  source: hgnc_alias_symbol
-  hgnc_symbol: LCMT2
-  entrez: '9836'
-- word: Tyw3
-  symbol: TYW3
-  source: hgnc_symbol
-  hgnc_symbol: TYW3
-  entrez: '127253'
-chemicals: []
-diseases: []
-figid_alias: PMC4481705__F4
-redirect_from: /figures/PMC4481705__F4
-figtype: Figure
+  - PPM2
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC2742090__cshperspect-GRA-a002014fig4
+figtitle: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
+  proteins
+organisms:
+- NA
+pmcid: PMC2742090
+filename: cshperspect-GRA-a002014fig4.jpg
 figlink: /pmc/articles/PMC2742090/figure/A002014F4/
 number: F4
 caption: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
@@ -7,20 +13,22 @@ caption: Negative feedback loops in the SHH signaling pathway driven by SHH-bind
   and are transcriptionally inhibited by SHH signaling. Conversely, Ptc1 and Hhip1
   are transcriptionally induced by Gli activation and inhibit the transduction of
   a SHH signal to Smo.
-pmcid: PMC2742090
 papertitle: 'Establishing and Interpreting Graded Sonic Hedgehog Signaling during
   Vertebrate Neural Tube Patterning: The Role of Negative Feedback.'
 reftext: Vanessa Ribes, et al. Cold Spring Harb Perspect Biol. 2009 Aug;1(2):a002014.
-pmc_ranked_result_index: '42425'
-pathway_score: 0.8777828
-filename: cshperspect-GRA-a002014fig4.jpg
-figtitle: Negative feedback loops in the SHH signaling pathway driven by SHH-binding
-  proteins
 year: '2009'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8777828
+figid_alias: PMC2742090__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2742090__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -37,34 +45,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CDON
-  - BOC
+  - PTCH1
+  - CCDC6
   - SHH
   - GAS1
-genes:
-- word: Cdo
-  symbol: CDO
-  source: hgnc_alias_symbol
-  hgnc_symbol: CDON
-  entrez: '50937'
-- word: Boc
-  symbol: BOC
-  source: hgnc_symbol
-  hgnc_symbol: BOC
-  entrez: '91653'
-- word: Shh
-  symbol: SHH
-  source: hgnc_symbol
-  hgnc_symbol: SHH
-  entrez: '6469'
-- word: Gas1
-  symbol: GAS1
-  source: hgnc_symbol
-  hgnc_symbol: GAS1
-  entrez: '2619'
-chemicals: []
-diseases: []
-figid_alias: PMC2742090__F4
-redirect_from: /figures/PMC2742090__F4
-figtype: Figure
+  - BOC
+  - CDON
+  - GANAB
 ---

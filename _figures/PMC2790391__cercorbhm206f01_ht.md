@@ -1,5 +1,11 @@
 ---
 figid: PMC2790391__cercorbhm206f01_ht
+figtitle: Activity-dependent gene expression in neurons
+organisms:
+- Rattus norvegicus
+- Homo sapiens
+pmcid: PMC2790391
+filename: cercorbhm206f01_ht.jpg
 figlink: /pmc/articles/PMC2790391/figure/fig1/
 number: F1
 caption: Activity-dependent gene expression in neurons. In response to membrane depolarization
@@ -11,20 +17,24 @@ caption: Activity-dependent gene expression in neurons. In response to membrane 
   is synthesized from their transcripts and released extracellularly. By binding to
   TrkB receptors, BDNF can augment the Ras-MAPK pathway, causing further phosphorylation
   of CREB.
-pmcid: PMC2790391
 papertitle: 'Cochlear Implants Stimulate Activity-Dependent CREB Pathway in the Deaf
   Auditory Cortex: Implications for Molecular Plasticity Induced by Neural Prosthetic
   Devices.'
 reftext: Justin Tan, et al. Cereb Cortex. 2008 Aug;18(8):1799-1813.
-pmc_ranked_result_index: '85294'
-pathway_score: 0.9109054
-filename: cercorbhm206f01_ht.jpg
-figtitle: Activity-dependent gene expression in neurons
 year: '2008'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9109054
+figid_alias: PMC2790391__F1
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Rattus norvegicus
+redirect_from: /figures/PMC2790391__F1
 ndex: b30b3fed-df09-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,147 +55,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CREB3L4
-  - ATF1
-  - CREM
   - BDNF
-  - ATF2
-  - CREB1
-  - FOS
-  - CREB5
-  - CA2
-  - CAMK1G
-  - CAMK1D
-  - CREB3L2
-  - CREB3
-  - CREB3L3
+  - BDNF-AS
   - NTRK2
-  - CAMK1
-  - CAMK2A
   - CAMK4
-  - CREB3L1
   - CAMK2G
+  - CAMK1
+  - CAMK1D
+  - CAMK1G
+  - CAMK2A
   - CAMK2B
   - CAMK2D
-genes:
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L4
-  entrez: '148327'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF1
-  entrez: '466'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREM
-  entrez: '1390'
-- word: BDNF
-  symbol: BDNF
-  source: hgnc_symbol
-  hgnc_symbol: BDNF
-  entrez: '627'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF2
-  entrez: '1386'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB1
-  entrez: '1385'
-- word: c-fos
-  symbol: c-fos
-  source: hgnc_alias_symbol
-  hgnc_symbol: FOS
-  entrez: '2353'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB5
-  entrez: '9586'
-- word: Ca²+
-  symbol: CA-II
-  source: hgnc_alias_symbol
-  hgnc_symbol: CA2
-  entrez: '760'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK1G
-  entrez: '57172'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK1D
-  entrez: '57118'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L2
-  entrez: '64764'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3
-  entrez: '10488'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L3
-  entrez: '84699'
-- word: TrkB
-  symbol: TRKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NTRK2
-  entrez: '4915'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK1
-  entrez: '8536'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK2A
-  entrez: '815'
-- word: ProteinsynthesisegBDNF,c-Fos
-  symbol: c-fos
-  source: hgnc_alias_symbol
-  hgnc_symbol: FOS
-  entrez: '2353'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK4
-  entrez: '814'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L1
-  entrez: '90993'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK2G
-  entrez: '818'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK2B
-  entrez: '816'
-- word: CAMK
-  symbol: CAMK
-  source: bioentities_symbol
-  hgnc_symbol: CAMK2D
-  entrez: '817'
-chemicals: []
-diseases: []
-figid_alias: PMC2790391__F1
-redirect_from: /figures/PMC2790391__F1
-figtype: Figure
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - FOS
+  - Bdnf
+  - Ntrk2
+  - Creb1
+  - Fos
 ---

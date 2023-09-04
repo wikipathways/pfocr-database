@@ -1,5 +1,11 @@
 ---
 figid: PMC3181038__cshperspect-PRT-004424_F1
+figtitle: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
+  and ATF6 regulate the UPR through their respective signaling cascades'
+organisms:
+- NA
+pmcid: PMC3181038
+filename: cshperspect-PRT-004424_F1.jpg
 figlink: /pmc/articles/PMC3181038/figure/A004424F1/
 number: F1
 caption: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
@@ -17,20 +23,23 @@ caption: 'Signaling the unfolded protein response: Three proximal sensors IRE1, 
   translation of ATF4 mRNA. The PERK/eIF2α/ATF4 regulatory axis also induces expression
   of anti-oxidative stress response genes and expression of genes encoding proteins
   with proapoptotic functions, such as CHOP.'
-pmcid: PMC3181038
 papertitle: 'ER Stress and Its Functional Link to Mitochondria: Role in Cell Survival
   and Death.'
 reftext: Jyoti D. Malhotra, et al. Cold Spring Harb Perspect Biol. 2011 Sep;3(9):a004424.
-pmc_ranked_result_index: '22227'
-pathway_score: 0.8987905
-filename: cshperspect-PRT-004424_F1.jpg
-figtitle: 'Signaling the unfolded protein response: Three proximal sensors IRE1, PERK,
-  and ATF6 regulate the UPR through their respective signaling cascades'
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8987905
+figid_alias: PMC3181038__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3181038__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,63 +66,42 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - bip
+  - Hsc70-3
+  - Ire1
+  - crc
+  - PEK
+  - rl
+  - CG10077
+  - Atf6
+  - S2P
+  - S1P
+  - Xbp1
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - GDF10
   - HSPA5
-  - ATF4
   - ERN1
-  - ATF6
-  - XBP1
-  - DDIT3
   - EIF2AK3
+  - CANX
+  - TFRC
+  - CIP2A
+  - CCDC8
+  - ATF6
+  - MBTPS2
   - MBTPS1
-genes:
-- word: BiP
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: ATF4
-  symbol: ATF4
-  source: hgnc_symbol
-  hgnc_symbol: ATF4
-  entrez: '468'
-- word: IRE1
-  symbol: IRE1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERN1
-  entrez: '2081'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: XBP1
-  symbol: XBP1
-  source: hgnc_symbol
-  hgnc_symbol: XBP1
-  entrez: '7494'
-- word: (CHOP)
-  symbol: CHOP
-  source: hgnc_alias_symbol
-  hgnc_symbol: DDIT3
-  entrez: '1649'
-- word: BIP
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: (S1P/S2P)
-  symbol: S1P
-  source: hgnc_alias_symbol
-  hgnc_symbol: MBTPS1
-  entrez: '8720'
-chemicals: []
-diseases: []
-figid_alias: PMC3181038__F1
-redirect_from: /figures/PMC3181038__F1
-figtype: Figure
+  - XBP1
+  - XBP1P1
+  - ATF4
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - DDIT3
 ---

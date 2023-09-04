@@ -1,5 +1,11 @@
 ---
 figid: PMC7823603__pharmaceuticals-14-00029-g003
+figtitle: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
+  signaling pathway in oxidative stress
+organisms:
+- NA
+pmcid: PMC7823603
+filename: pharmaceuticals-14-00029-g003.jpg
 figlink: pmc/articles/PMC7823603/figure/pharmaceuticals-14-00029-f003/
 number: F3
 caption: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
@@ -16,20 +22,22 @@ caption: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nr
   and biliverdin. These metabolites along with HO-1 by scavenging superoxide, hydroxyl-free
   radicals, and singlet oxygen can prevent the oxidation of proteins and lipids anions
   and play an important part in anti-inflammation, antioxidation, and anti-apoptosis.
-pmcid: PMC7823603
 papertitle: Role of Edaravone as a Treatment Option for Patients with Amyotrophic
   Lateral Sclerosis.
 reftext: HaEun Cho, et al. Pharmaceuticals (Basel). 2021 Jan;14(1):29.
-pmc_ranked_result_index: '39677'
-pathway_score: 0.9001548
-filename: pharmaceuticals-14-00029-g003.jpg
-figtitle: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (Nrf2/HO-1)
-  signaling pathway in oxidative stress
 year: '2021'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9001548
+figid_alias: PMC7823603__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7823603__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,43 +64,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KEAP1
-  - HMOX1
   - Fe
   - NADPH
   - quinone
   - inflammation
-genes:
-- word: Keap1
-  symbol: KEAP1
-  source: hgnc_symbol
-  hgnc_symbol: KEAP1
-  entrez: '9817'
-- word: Keap1-dependent
-  symbol: KEAP1
-  source: hgnc_symbol
-  hgnc_symbol: KEAP1
-  entrez: '9817'
-- word: HO-1
-  symbol: HO-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: HMOX1
-  entrez: '3162'
-chemicals:
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: quinone
-  source: MESH
-  identifier: D011809
-diseases:
-- word: inflammation
-  source: MESH
-  identifier: D007249
-figid_alias: PMC7823603__F3
-redirect_from: /figures/PMC7823603__F3
-figtype: Figure
 ---

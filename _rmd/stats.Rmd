@@ -1,7 +1,7 @@
 ---
 title: "stats"
 author: "Alex"
-date: "9/11/2022"
+date: "9/3/2023"
 # output: html_document
 output:
   md_document:
@@ -30,13 +30,12 @@ library(ggplot2)
 ## Read PFOCR .rds files
 Set the path to these files
 ```{r setpath, include=FALSE}
-local.path <- "/Users/alexpico/Dropbox (Gladstone)/Pathway Figure OCR/LATEST"
+local.path <- "~/Dropbox (Gladstone)/Pathway Figure OCR/LATEST"
 ```
 
 Read in files
 ```{r read}
 figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
-years <- readRDS(file.path(local.path,"pfocr_years.rds"))
 genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
 chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
 dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
@@ -44,14 +43,34 @@ dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 
 ## Contents and counts
 ```{r counts}
+papers <- figs %>%
+    distinct(pmcid)
+papers_hs <- figs %>%
+    dplyr::filter(grepl('Homo sapiens',organisms_ner)) %>%
+    distinct(pmcid)
+figures_hs <- figs %>%
+    dplyr::filter(grepl('Homo sapiens',organisms_ner)) %>%
+    distinct(figid)
+ncbigenes <- genes %>%
+    distinct(ncbigene_id)
+ncbigenes_hs <- genes %>%
+    dplyr::filter(organism_id == 9606) %>%
+    distinct(ncbigene_id)
+chemicals <- chems %>%
+    distinct(identifier)
+diseases <- dis %>%
+    distinct(identifier)
 fig.num <- nrow(figs)
-paper.num <- length(unique(figs$pmcid))
+paper.num <- nrow(papers)
+fig.hs.num <- nrow(figures_hs)
+paper.hs.num <- nrow(papers_hs)
 gene.total <- nrow(genes)
-gene.unique <- length(unique(genes$hgnc_symbol))
+gene.unique <- nrow(ncbigenes)
+gene.hs.unique <- nrow(ncbigenes_hs)
 chem.total <- nrow(chems)
-chem.unique <- length(unique(chems$identifier))
+chem.unique <- nrow(chemicals)
 di.total <- nrow(dis)
-di.unique <- length(unique(dis$identifier))
+di.unique <- nrow(diseases)
 
 data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique, di.unique))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
@@ -69,9 +88,10 @@ knitr::kable(data,
 
 ## Main page plot
 ```{r plot}
-years.plot <- years %>%
+years.plot <- figs %>%
+    dplyr::filter(!is.na(year)) %>%
       group_by(year) %>%
-      summarize(fig_cnt = n())
+      dplyr::summarize(fig_cnt = n())
 
 min.year = min(years.plot$year)
 max.year = max(years.plot$year)

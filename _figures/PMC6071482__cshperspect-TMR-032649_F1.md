@@ -1,5 +1,31 @@
 ---
 figid: PMC6071482__cshperspect-TMR-032649_F1
+figtitle: The eukaryotic translation elongation pathway
+organisms:
+- Human immunodeficiency virus 1
+- West Nile virus
+- Enterovirus C
+- Encephalomyocarditis virus
+- Porcine reproductive and respiratory syndrome virus
+- Rous sarcoma virus
+- Venezuelan equine encephalitis virus
+- Cricket paralysis virus
+- Simian retrovirus 1
+- Taura syndrome virus
+- Escherichia coli
+- Pseudomonas aeruginosa
+- Vibrio cholerae
+- Methanocaldococcus jannaschii
+- Mus musculus
+- Rattus norvegicus
+- Saccharomyces cerevisiae
+- Kluyveromyces lactis
+- Homo sapiens
+- Oryctolagus cuniculus
+- NA
+- NA
+pmcid: PMC6071482
+filename: cshperspect-TMR-032649_F1.jpg
 figlink: pmc/articles/PMC6071482/figure/A032649F1/
 number: F1
 caption: Model of the eukaryotic translation elongation pathway. At the top, an eEF1A•GTP•aminoacyl-tRNA
@@ -22,37 +48,21 @@ caption: Model of the eukaryotic translation elongation pathway. At the top, an 
   subunits and of tRNAs, interacting with the peptidyl transferase center in the large
   subunit. Note, however, that the positions of the mRNA, tRNAs, and factors are drawn
   for clarity and are not meant to specify their exact places on the ribosome.
-pmcid: PMC6071482
 papertitle: Translation Elongation and Recoding in Eukaryotes.
 reftext: Thomas E. Dever, et al. Cold Spring Harb Perspect Biol. 2018 Aug;10(8):a032649.
-pmc_ranked_result_index: '99703'
-pathway_score: 0.931945
-filename: cshperspect-TMR-032649_F1.jpg
-figtitle: The eukaryotic translation elongation pathway
 year: '2018'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Venezuelan equine encephalitis virus
-- West Nile virus
-- Human immunodeficiency virus 1
-- Rous sarcoma virus
-- Simian retrovirus 1
-- Encephalomyocarditis virus
-- Cricket paralysis virus
-- Enterovirus C
-- Taura syndrome virus
-- Methanocaldococcus jannaschii
-- Porcine reproductive and respiratory syndrome virus
-- Pseudomonas aeruginosa
-- Kluyveromyces lactis
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Vibrio cholerae
-- Homo sapiens
-- Oryctolagus cuniculus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.931945
+figid_alias: PMC6071482__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6071482__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -85,42 +95,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EEF1A1
   - Aminoacyl
   - Deacyl
   - Hypusine
   - Diphthamide
-genes:
-- word: EF1A
-  symbol: EF1A
-  source: hgnc_prev_symbol
-  hgnc_symbol: EEF1A1
-  entrez: '1915'
-- word: EF1A
-  symbol: EF1A
-  source: hgnc_prev_symbol
-  hgnc_symbol: EEF1A1
-  entrez: '1915'
-- word: EF1A
-  symbol: EF1A
-  source: hgnc_prev_symbol
-  hgnc_symbol: EEF1A1
-  entrez: '1915'
-chemicals:
-- word: Aminoacyl
-  source: MESH
-  identifier: C558391
-- word: Deacyl
-  source: MESH
-  identifier: C080861
-- word: Hypusine
-  source: MESH
-  identifier: C067248
-- word: Diphthamide
-  source: MESH
-  identifier: C027528
-diseases: []
-figid_alias: PMC6071482__F1
-redirect_from: /figures/PMC6071482__F1
-figtype: Figure
 ---

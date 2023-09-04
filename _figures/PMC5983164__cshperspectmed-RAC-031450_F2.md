@@ -1,5 +1,10 @@
 ---
 figid: PMC5983164__cshperspectmed-RAC-031450_F2
+figtitle: RAS effector pathways
+organisms:
+- Homo sapiens
+pmcid: PMC5983164
+filename: cshperspectmed-RAC-031450_F2.jpg
 figlink: pmc/articles/PMC5983164/figure/A031450F2/
 number: F2
 caption: RAS effector pathways. Once activated, RAS proteins signal through multiple
@@ -17,18 +22,21 @@ caption: RAS effector pathways. Once activated, RAS proteins signal through mult
   kinase (ERK) and AKT phosphorylation and activation of both pathways. PTEN, Phosphatase
   and tensin homolog; PDK1, PI3K-dependent kinase 1; MEK1/2, mitogen-activated protein
   kinases 1 and 2.
-pmcid: PMC5983164
 papertitle: 'PI3K: A Crucial Piece in the RAS Signaling Puzzle.'
 reftext: Agata Adelajda Krygowska, et al. Cold Spring Harb Perspect Med. 2018 Jun;8(6):a031450.
-pmc_ranked_result_index: '81511'
-pathway_score: 0.9475625
-filename: cshperspectmed-RAC-031450_F2.jpg
-figtitle: RAS effector pathways
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9475625
+figid_alias: PMC5983164__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5983164__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,17 +63,103 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HRAS
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - PIK3R1
+  - PIK3R2
+  - ARHGEF7
+  - CBFA2T2
+  - PPP1R13B
+  - PPP1R12C
   - KRAS
+  - HRAS
   - NRAS
   - PTEN
+  - PIK3CA
+  - ZHX2
   - ARAF
   - BRAF
   - RAF1
-  - AKT2
-  - AKT3
-  - AKT1
   - PDK1
+  - PDPK1
   - RPS6KB1
   - RPS6KB2
   - IRS1
@@ -73,164 +167,20 @@ schema-jsonld:
   - MAP2K2
   - GSK3A
   - GSK3B
-  - TSC1
   - TSC2
-  - FOXO6
+  - TSC1
+  - CCL26
   - FOXO1
   - FOXO3
   - FOXO4
+  - FOXO6
   - MAPK3
   - MAPK1
   - BAD
+  - MAPKAP1
+  - MTOR
+  - RICTOR
+  - MLST8
   - BCL2
   - Glucose
-genes:
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: RAS
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: RAF
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: АКТ
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: АКТ
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: АКТ
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB2
-  entrez: '6199'
-- word: IRS1
-  symbol: IRS1
-  source: hgnc_symbol
-  hgnc_symbol: IRS1
-  entrez: '3667'
-- word: MEK1/2
-  symbol: MEK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: MEK1/2
-  symbol: MEK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: GSK3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: TSC1/2
-  symbol: TSC1
-  source: hgnc_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: TSC1/2
-  symbol: TSC2
-  source: hgnc_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO6
-  entrez: '100132074'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO1
-  entrez: '2308'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO3
-  entrez: '2309'
-- word: FOXO
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO4
-  entrez: '4303'
-- word: ERK1/2
-  symbol: ERK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: ERK1/2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: BAD
-  symbol: BAD
-  source: hgnc_symbol
-  hgnc_symbol: BAD
-  entrez: '572'
-- word: Bcl-2
-  symbol: Bcl-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-diseases: []
-figid_alias: PMC5983164__F2
-redirect_from: /figures/PMC5983164__F2
-figtype: Figure
 ---

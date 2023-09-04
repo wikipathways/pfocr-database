@@ -1,5 +1,11 @@
 ---
 figid: PMC4979470__cddiscovery201619-f1
+figtitle: The NLRP3 inflammasome signaling pathway
+organisms:
+- prion
+- Homo sapiens
+pmcid: PMC4979470
+filename: cddiscovery201619-f1.jpg
 figlink: /pmc/articles/PMC4979470/figure/fig1/
 number: F1
 caption: The NLRP3 inflammasome signaling pathway. NLRP3 inflammasome activation requires
@@ -15,24 +21,22 @@ caption: The NLRP3 inflammasome signaling pathway. NLRP3 inflammasome activation
   caspase-1 processes pro-IL-1β and pro-IL-18 to their active mature forms, which
   are secreted. Caspase-1 also cleaves Gasdermin-D resulting in inflammatory cell
   death (pyroptosis).
-pmcid: PMC4979470
 papertitle: 'Questions and controversies in innate immune research: what is the physiological
   role of NLRP3?.'
 reftext: RC Coll, et al. Cell Death Discov. 2016;2:16019.
-pmc_ranked_result_index: '38997'
-pathway_score: 0.9536246
-filename: cddiscovery201619-f1.jpg
-figtitle: The NLRP3 inflammasome signaling pathway
 year: '2016'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- prion
-- Candida albicans
-- Salmonella enterica subsp. enterica serovar Typhimurium
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9536246
+figid_alias: PMC4979470__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4979470__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -58,61 +62,14 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TNF
-  - NLRP3
   - IL18
-  - NFKB1
+  - NLRP3
+  - STS
   - PYCARD
+  - NFKB1
   - IL1B
   - Ceramides
   - Cholesterol
   - Fatty acids
   - Monosodium urate
-genes:
-- word: TNF
-  symbol: TNF
-  source: hgnc_symbol
-  hgnc_symbol: TNF
-  entrez: '7124'
-- word: NLRP3
-  symbol: NLRP3
-  source: hgnc_symbol
-  hgnc_symbol: NLRP3
-  entrez: '114548'
-- word: IL-18
-  symbol: IL-18
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL18
-  entrez: '3606'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: ASC
-  symbol: ASC
-  source: hgnc_alias_symbol
-  hgnc_symbol: PYCARD
-  entrez: '29108'
-- word: IL-1B
-  symbol: IL-1B
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL1B
-  entrez: '3553'
-chemicals:
-- word: Ceramides
-  source: MESH
-  identifier: D002518
-- word: Cholesterol
-  source: MESH
-  identifier: D002784
-- word: Fatty acids
-  source: MESH
-  identifier: D005227
-- word: Monosodium urate
-  source: MESH
-  identifier: D014527
-diseases: []
-figid_alias: PMC4979470__F1
-redirect_from: /figures/PMC4979470__F1
-figtype: Figure
 ---

@@ -1,5 +1,15 @@
 ---
 figid: PMC3181740__DialoguesClinNeurosci-7-191-g001
+figtitle: Neuroplasticity and cellular resilience in mood disorders; the multiple
+  influences on neuroplasticity and cellular resilience in mood disorders
+organisms:
+- Nicotiana tabacum
+- Hypericum perforatum
+- Homo sapiens
+- Simian endogenous retrovirus
+- Pollachius virens
+pmcid: PMC3181740
+filename: DialoguesClinNeurosci-7-191-g001.jpg
 figlink: /pmc/articles/PMC3181740/figure/DialoguesClinNeurosci-7-191-g001/
 number: F1
 caption: 'Neuroplasticity and cellular resilience in mood disorders; the multiple
@@ -31,23 +41,21 @@ caption: 'Neuroplasticity and cellular resilience in mood disorders; the multipl
   P, phosphorylation. Reproduced with permission from reference 9: Manji HK, Drevets
   WC, Charney DS. The cellular neurobiology of depression. Nat Med. 2001 ;7:541 -547.
   Copyright © 2001 Nature Publishing Group. .'
-pmcid: PMC3181740
 papertitle: The pharmacological management of depression.
 reftext: David J. Kupfer. Dialogues Clin Neurosci. 2005 Sep;7(3):191-205.
-pmc_ranked_result_index: '203793'
-pathway_score: 0.9535102
-filename: DialoguesClinNeurosci-7-191-g001.jpg
-figtitle: Neuroplasticity and cellular resilience in mood disorders; the multiple
-  influences on neuroplasticity and cellular resilience in mood disorders
 year: '2005'
-organisms:
-- Simian endogenous retrovirus
-- Nicotiana tabacum
-- Hypericum perforatum
-- Pollachius virens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9535102
+figid_alias: PMC3181740__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3181740__F1
 ndex: 2a00a7c0-deee-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -88,220 +96,48 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BCL2L1
-  - BAD
-  - AKT3
-  - AKT2
-  - RPS6KA3
+  - BDNF
+  - BDNF-AS
+  - NTRK1
+  - TPM3
   - AKT1
+  - AKT2
+  - AKT3
+  - GSK3A
+  - GSK3B
+  - BAD
+  - NTRK2
+  - BCL2L1
   - BCL2
-  - NRAS
-  - ATF1
-  - CREB3L2
-  - CREB5
-  - MAPK3
   - KRAS
+  - HRAS
+  - NRAS
+  - MTG1
+  - ZHX2
   - ARAF
   - BRAF
-  - NTRK2
-  - CREB3L3
-  - HRAS
   - RAF1
   - CREB1
-  - CREM
-  - CREB3L4
   - CREB3
-  - BDNF
-  - GSK3B
-  - ATF2
-  - MAP2K2
+  - CREB5
   - CREB3L1
-  - GSK3A
-  - MAPK1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - MAP2K7
   - MAP2K1
+  - MAP2K2
+  - RPS6KA3
+  - EPHB2
+  - MAPK1
+  - MAPK3
   - Cortisol
   - O5-HT
   - Glutamate
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome
-genes:
-- word: Bcl-x
-  symbol: Bcl-X
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2L1
-  entrez: '598'
-- word: BAD
-  symbol: BAD
-  source: hgnc_symbol
-  hgnc_symbol: BAD
-  entrez: '572'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: RSK-2
-  symbol: RSK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPS6KA3
-  entrez: '6197'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: Bcl-2
-  symbol: Bcl-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF1
-  entrez: '466'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L2
-  entrez: '64764'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB5
-  entrez: '9586'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: trkB
-  symbol: TRKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NTRK2
-  entrez: '4915'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L3
-  entrez: '84699'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB1
-  entrez: '1385'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREM
-  entrez: '1390'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L4
-  entrez: '148327'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3
-  entrez: '10488'
-- word: ØBDNF
-  symbol: BDNF
-  source: hgnc_symbol
-  hgnc_symbol: BDNF
-  entrez: '627'
-- word: GSK-3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3B
-  entrez: '2932'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: ATF2
-  entrez: '1386'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: CREB
-  symbol: CREB
-  source: bioentities_symbol
-  hgnc_symbol: CREB3L1
-  entrez: '90993'
-- word: GSK-3
-  symbol: GSK3
-  source: bioentities_symbol
-  hgnc_symbol: GSK3A
-  entrez: '2931'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-chemicals:
-- word: Cortisol
-  source: MESH
-  identifier: D006854
-- word: O5-HT
-  source: MESH
-  identifier: D012701
-- word: Glutamate
-  source: MESH
-  identifier: D018698
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC3181740__F1
-redirect_from: /figures/PMC3181740__F1
-figtype: Figure
 ---

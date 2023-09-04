@@ -1,5 +1,10 @@
 ---
 figid: PMC3660825__cshperspect-CSD-008672_F2
+figtitle: Similarities and differences in apoptotic machinery across evolution
+organisms:
+- NA
+pmcid: PMC3660825
+filename: cshperspect-CSD-008672_F2.jpg
 figlink: /pmc/articles/PMC3660825/figure/A008672F2/
 number: F2
 caption: Similarities and differences in apoptotic machinery across evolution. Many
@@ -13,18 +18,23 @@ caption: Similarities and differences in apoptotic machinery across evolution. M
   enables activation of the CED-3 caspase. For a more complete description of each
   pathway, including highlights of similarities and differences between species, please
   see the text.
-pmcid: PMC3660825
 papertitle: Cellular Mechanisms Controlling Caspase Activation and Function.
 reftext: Amanda B. Parrish, et al. Cold Spring Harb Perspect Biol. 2013 Jun;5(6):a008672.
-pmc_ranked_result_index: '89785'
-pathway_score: 0.9336772
-filename: cshperspect-CSD-008672_F2.jpg
-figtitle: Similarities and differences in apoptotic machinery across evolution
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9336772
+figid_alias: PMC3660825__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Caenorhabditis elegans
 - Homo sapiens
+redirect_from: /figures/PMC3660825__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,51 +57,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - APAF1
-  - DIABLO
-  - BAX
+  - Debcl
+  - Fs(3)Bak
+  - Buffy
+  - dbo
+  - Dark
+  - Argk1
+  - Dronc
+  - Diap2
+  - Diap1
+  - Drice
+  - Decay
+  - egl-1
+  - ced-9
+  - ced-4
+  - ced-3
   - BCL2
+  - BAX
   - BAK1
+  - DIABLO
+  - AXL
+  - RNF111
+  - APAF1
   - CASP8AP2
-genes:
-- word: Apaf-1
-  symbol: APAF-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: APAF1
-  entrez: '317'
-- word: Smac/DIABLO
-  symbol: DIABLO
-  source: hgnc_symbol
-  hgnc_symbol: DIABLO
-  entrez: '56616'
-- word: Bax/Bak
-  symbol: BAX
-  source: hgnc_symbol
-  hgnc_symbol: BAX
-  entrez: '581'
-- word: Bcl-2
-  symbol: Bcl-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: Bax/Bak
-  symbol: BAK
-  source: hgnc_alias_symbol
-  hgnc_symbol: BAK1
-  entrez: '578'
-- word: CED-4
-  symbol: CED-4
-  source: hgnc_alias_symbol
-  hgnc_symbol: CASP8AP2
-  entrez: '9994'
-- word: Smac/DIABLO
-  symbol: SMAC
-  source: hgnc_alias_symbol
-  hgnc_symbol: DIABLO
-  entrez: '56616'
-chemicals: []
-diseases: []
-figid_alias: PMC3660825__F2
-redirect_from: /figures/PMC3660825__F2
-figtype: Figure
+  - CASP3
+  - CASP7
+  - IFT43
 ---

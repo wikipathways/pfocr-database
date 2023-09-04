@@ -1,5 +1,10 @@
 ---
 figid: PMC5138034__elife-19662-fig8-figsupp1
+figtitle: Extracellular actin-induced JAK/STAT pathway activation
+organisms:
+- NA
+pmcid: PMC5138034
+filename: elife-19662-fig8-figsupp1.jpg
 figlink: /pmc/articles/PMC5138034/figure/fig8s1/
 number: SF8_1
 caption: 'Cell death induces release of actin that is detected by an unknown sensor,
@@ -11,19 +16,22 @@ caption: 'Cell death induces release of actin that is detected by an unknown sen
   act in an autocrine fashion. Note that this model is speculative and will require
   further validation, for example to formally show that Src42A is upstream of Dome.DOI:
   http://dx.doi.org/10.7554/eLife.19662.015'
-pmcid: PMC5138034
 papertitle: Actin is an evolutionarily-conserved damage-associated molecular pattern
   that signals tissue injury in Drosophila melanogaster.
 reftext: Naren Srinivasan, et al. eLife. 2016;5:e19662.
-pmc_ranked_result_index: '75623'
-pathway_score: 0.9252801
-filename: elife-19662-fig8-figsupp1.jpg
-figtitle: Extracellular actin-induced JAK/STAT pathway activation
 year: '2016'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9252801
+figid_alias: PMC5138034__SF8_1
+figtype: Supplemental figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC5138034__SF8_1
 ndex: 4cec982a-dea7-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -44,94 +52,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - STAT2
-  - STAT1
-  - STAT5B
-  - CD36
-  - ACTA2
-  - STAT3
-  - ACTG2
-  - STAT5A
-  - ACTG1
-  - STAT6
-  - STAT4
-  - ACTC1
-  - ACTA1
-  - ACTB
-genes:
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: Fat
-  symbol: FAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CD36
-  entrez: '948'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-chemicals: []
-diseases: []
-figid_alias: PMC5138034__SF8_1
-redirect_from: /figures/PMC5138034__SF8_1
-figtype: Supplemental figure
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - upd3
+  - dome
+  - Nox
+  - Src42A
+  - Shark
+  - Stat92E
+  - TotM
+  - ft
+  - kug
+  - faf
 ---

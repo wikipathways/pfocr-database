@@ -19,7 +19,6 @@ Read in files
 
 ``` r
 figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
-years <- readRDS(file.path(local.path,"pfocr_years.rds"))
 genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
 chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
 dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
@@ -28,36 +27,57 @@ dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 ## Contents and counts
 
 ``` r
+papers <- figs %>%
+    distinct(pmcid)
+papers_hs <- figs %>%
+    dplyr::filter(grepl('Homo sapiens',organisms_ner)) %>%
+    distinct(pmcid)
+figures_hs <- figs %>%
+    dplyr::filter(grepl('Homo sapiens',organisms_ner)) %>%
+    distinct(figid)
+ncbigenes <- genes %>%
+    distinct(ncbigene_id)
+ncbigenes_hs <- genes %>%
+    dplyr::filter(organism_id == 9606) %>%
+    distinct(ncbigene_id)
+chemicals <- chems %>%
+    distinct(identifier)
+diseases <- dis %>%
+    distinct(identifier)
 fig.num <- nrow(figs)
-paper.num <- length(unique(figs$pmcid))
+paper.num <- nrow(papers)
+fig.hs.num <- nrow(figures_hs)
+paper.hs.num <- nrow(papers_hs)
 gene.total <- nrow(genes)
-gene.unique <- length(unique(genes$hgnc_symbol))
+gene.unique <- nrow(ncbigenes)
+gene.hs.unique <- nrow(ncbigenes_hs)
 chem.total <- nrow(chems)
-chem.unique <- length(unique(chems$identifier))
+chem.unique <- nrow(chemicals)
 di.total <- nrow(dis)
-di.unique <- length(unique(dis$identifier))
+di.unique <- nrow(diseases)
 
 data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique, di.unique))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 79949 pathway figures from
-68978 published papers.
+The Pathway Figure OCR project has identified 103009 pathway figures
+from 87705 published papers.
 
-|           |     Total | Unique |
-|:----------|----------:|-------:|
-| Genes     | 1,530,196 | 14,253 |
-| Chemicals |   217,792 | 11,100 |
-| Diseases  |    28,783 |  1,204 |
+|           |     Total |  Unique |
+|:----------|----------:|--------:|
+| Genes     | 4,411,327 | 141,113 |
+| Chemicals |   217,770 |  11,099 |
+| Diseases  |    28,769 |   1,204 |
 
 Contents extracted from figures
 
 ## Main page plot
 
 ``` r
-years.plot <- years %>%
+years.plot <- figs %>%
+    dplyr::filter(!is.na(year)) %>%
       group_by(year) %>%
-      summarize(fig_cnt = n())
+      dplyr::summarize(fig_cnt = n())
 
 min.year = min(years.plot$year)
 max.year = max(years.plot$year)

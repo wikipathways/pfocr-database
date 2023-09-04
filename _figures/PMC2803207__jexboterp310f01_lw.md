@@ -1,5 +1,11 @@
 ---
 figid: PMC2803207__jexboterp310f01_lw
+figtitle: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
+  pathway in higher plants
+organisms:
+- NA
+pmcid: PMC2803207
+filename: jexboterp310f01_lw.jpg
 figlink: /pmc/articles/PMC2803207/figure/fig1/
 number: F1
 caption: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
@@ -8,21 +14,24 @@ caption: Simplified representation of the D-mannose/L-galactose L-ascorbic acid 
   (5) GDP-mannose-3′,5′-epimerase, (6) GDP-L-galactose phosphorylase (VTC2/VTC5),
   (7) L-galactose-1-phosphate phosphatase (VTC4), (8) L-galactose dehydrogenase, (9)
   L-galactono-1,4-lactone dehydrogenase. (Adapted from .)
-pmcid: PMC2803207
 papertitle: A mutation in GDP-mannose pyrophosphorylase causes conditional hypersensitivity
   to ammonium, resulting in Arabidopsis root growth inhibition, altered ammonium metabolism,
   and hormone homeostasis.
 reftext: Carina Barth, et al. J Exp Bot. 2010 Jan;61(2):379-394.
-pmc_ranked_result_index: '51054'
-pathway_score: 0.939932
-filename: jexboterp310f01_lw.jpg
-figtitle: Simplified representation of the D-mannose/L-galactose L-ascorbic acid biosynthetic
-  pathway in higher plants
 year: '2010'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.939932
+figid_alias: PMC2803207__F1
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+- Saccharomyces cerevisiae S288C
+redirect_from: /figures/PMC2803207__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,6 +50,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - PMM
+  - CYT1
+  - VTC5
+  - VTC2
+  - VTC4
+  - GLDH
+  - VTC1
   - L-Galactono-1,4-lactone
   - L-Ascorbic acid
   - D-Fructose-6-P
@@ -49,34 +65,4 @@ schema-jsonld:
   - D-Glucose-6-P
   - D-Mannose-1-P
   - D-Mannose-6-P
-genes: []
-chemicals:
-- word: L-Galactono-1,4-lactone
-  source: MESH
-  identifier: C534014
-- word: L-Ascorbic acid
-  source: MESH
-  identifier: D001205
-- word: D-Fructose-6-P
-  source: MESH
-  identifier: D005632
-- word: Galactose
-  source: MESH
-  identifier: D005690
-- word: L-Galactose-1-P
-  source: MESH
-  identifier: D005690
-- word: D-Glucose-6-P
-  source: MESH
-  identifier: D005947
-- word: D-Mannose-1-P
-  source: MESH
-  identifier: D008358
-- word: D-Mannose-6-P
-  source: MESH
-  identifier: D008358
-diseases: []
-figid_alias: PMC2803207__F1
-redirect_from: /figures/PMC2803207__F1
-figtype: Figure
 ---

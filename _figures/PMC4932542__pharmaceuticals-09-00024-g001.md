@@ -1,5 +1,15 @@
 ---
 figid: PMC4932542__pharmaceuticals-09-00024-g001
+figtitle: Models that have been proposed to explain the inhibition of tumor cell proliferation
+  by metformin
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Human immunodeficiency virus
+- Mouse mammary tumor virus
+- Homo sapiens
+pmcid: PMC4932542
+filename: pharmaceuticals-09-00024-g001.jpg
 figlink: /pmc/articles/PMC4932542/figure/pharmaceuticals-09-00024-f001/
 number: F1
 caption: Models that have been proposed to explain the inhibition of tumor cell proliferation
@@ -20,24 +30,24 @@ caption: Models that have been proposed to explain the inhibition of tumor cell 
   of lipogenic citrate leads in the prevention of tumor cell proliferation which requires
   de novo lipogenesis. The red “X” symbol denotes inhibition of a signaling pathway
   while upward and downward pointing arrows denote up- and downregulation, respectively.
-pmcid: PMC4932542
 papertitle: Unexploited Antineoplastic Effects of Commercially Available Anti-Diabetic
   Drugs.
 reftext: Panagiota Papanagnou, et al. Pharmaceuticals (Basel). 2016 Jun;9(2):24.
-pmc_ranked_result_index: '30553'
-pathway_score: 0.9191607
-filename: pharmaceuticals-09-00024-g001.jpg
-figtitle: Models that have been proposed to explain the inhibition of tumor cell proliferation
-  by metformin
 year: '2016'
-organisms:
-- Mus musculus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9191607
+figid_alias: PMC4932542__F1
+figtype: Figure
+organisms_ner:
 - Rattus norvegicus
-- Mouse mammary tumor virus
-- Human immunodeficiency virus
 - Homo sapiens
+- Mus musculus
+redirect_from: /figures/PMC4932542__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -68,40 +78,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IDH2
+  - Th
+  - Igf1
+  - Ccne1
+  - Idh1
+  - Idh2
   - IGF1
   - IDH1
+  - IDH2
   - glucose
   - glutamine
   - metformin
-genes:
-- word: IDH1/2
-  symbol: IDH2
-  source: hgnc_symbol
-  hgnc_symbol: IDH2
-  entrez: '3418'
-- word: insulin/IGF-1
-  symbol: IGF1
-  source: hgnc_symbol
-  hgnc_symbol: IGF1
-  entrez: '3479'
-- word: IDH1/2
-  symbol: IDH1
-  source: hgnc_symbol
-  hgnc_symbol: IDH1
-  entrez: '3417'
-chemicals:
-- word: glucose
-  source: MESH
-  identifier: D005947
-- word: glutamine
-  source: MESH
-  identifier: D005973
-- word: metformin
-  source: MESH
-  identifier: D008687
-diseases: []
-figid_alias: PMC4932542__F1
-redirect_from: /figures/PMC4932542__F1
-figtype: Figure
 ---

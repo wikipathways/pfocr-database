@@ -1,5 +1,11 @@
 ---
 figid: PMC6630544__pharmaceuticals-12-00066-g004
+figtitle: General representation of serine biosynthesis in different organisms and
+  its connection with different metabolic pathways
+organisms:
+- NA
+pmcid: PMC6630544
+filename: pharmaceuticals-12-00066-g004.jpg
 figlink: /pmc/articles/PMC6630544/figure/pharmaceuticals-12-00066-f004/
 number: F4
 caption: General representation of serine biosynthesis in different organisms and
@@ -7,20 +13,22 @@ caption: General representation of serine biosynthesis in different organisms an
   3-phosphohydroxypyruvate; 3-PS, 3-Phospho-l-Serine; PGDH, Phosphoglycerate dehydrogenase;
   PSAT, Phosphoserine aminotransferase; PSP, Phosphoserine phoshatase; SHMT, Serine
   hydroxymethyltransferase; Pi, PO; TCA, tricarboxylic acid cycle or Krebs cycle [].
-pmcid: PMC6630544
 papertitle: 'Targeting the Serine Pathway: A Promising Approach against Tuberculosis?
   .'
 reftext: Marie Haufroid, et al. Pharmaceuticals (Basel). 2019 Jun;12(2):66.
-pmc_ranked_result_index: '17209'
-pathway_score: 0.899303
-filename: pharmaceuticals-12-00066-g004.jpg
-figtitle: General representation of serine biosynthesis in different organisms and
-  its connection with different metabolic pathways
 year: '2019'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.899303
+figid_alias: PMC6630544__F4
+figtype: Figure
+organisms_ner:
+- Arabidopsis thaliana
+redirect_from: /figures/PMC6630544__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -38,9 +46,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PHGDH
-  - SHMT1
-  - PSPH
+  - PGDH
+  - PSAT
+  - PSP
+  - PGI1
   - 3-PGA
   - NADH PGI
   - NAD
@@ -54,64 +63,4 @@ schema-jsonld:
   - Sphingolipids
   - Homocysteine
   - PSAT
-genes:
-- word: PGDH
-  symbol: PGDH
-  source: hgnc_alias_symbol
-  hgnc_symbol: PHGDH
-  entrez: '26227'
-- word: SHMT
-  symbol: SHMT
-  source: hgnc_alias_symbol
-  hgnc_symbol: SHMT1
-  entrez: '6470'
-- word: PSP
-  symbol: PSP
-  source: hgnc_prev_symbol
-  hgnc_symbol: PSPH
-  entrez: '5723'
-chemicals:
-- word: 3-PGA
-  source: MESH
-  identifier: D011454
-- word: NADH PGI
-  source: MESH
-  identifier: D009243
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Glycine
-  source: MESH
-  identifier: D005998
-- word: Ketoglutarate
-  source: MESH
-  identifier: C029743
-- word: TSA
-  source: MESH
-  identifier: C070842
-- word: carbon Glycine
-  source: MESH
-  identifier: D002244
-- word: Tryptophan
-  source: ''
-  identifier: ''
-- word: Methionine
-  source: MESH
-  identifier: D008715
-- word: Sphingolipids
-  source: MESH
-  identifier: D013107
-- word: Homocysteine
-  source: MESH
-  identifier: D006710
-diseases:
-- word: PSAT
-  source: MESH
-  identifier: C567032
-figid_alias: PMC6630544__F4
-redirect_from: /figures/PMC6630544__F4
-figtype: Figure
 ---

@@ -1,5 +1,11 @@
 ---
 figid: PMC3143541__RevDiabeticStud-07-263-003
+figtitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Potential
+  Role of Zinc in Islet Transplantation
+organisms:
+- NA
+pmcid: PMC3143541
+filename: RevDiabeticStud-07-263-003.jpg
 figlink: /pmc/articles/PMC3143541/figure/F1/
 number: F1
 caption: 'The inhibition of ROS by zinc reduces glucose toxicity. Zinc stimulates
@@ -13,20 +19,23 @@ caption: 'The inhibition of ROS by zinc reduces glucose toxicity. Zinc stimulate
   Zinc also stimulates PDX-1 insulin promoter activity, and inhibits xanthine oxidase
   activity, thereby reducing lipid peroxidation. +: stimulation of pathway. -: inhibition
   of pathway.'
-pmcid: PMC3143541
 papertitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Potential
   Role of Zinc in Islet Transplantation.
 reftext: Mariea D. Bosco, et al. Rev Diabet Stud. 2010 Winter;7(4):263-274.
-pmc_ranked_result_index: '94865'
-pathway_score: 0.8714449
-filename: RevDiabeticStud-07-263-003.jpg
-figtitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Potential
-  Role of Zinc in Islet Transplantation
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8714449
+figid_alias: PMC3143541__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC3143541__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,49 +58,34 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PDX1
-  - MAFA
-  - SOD3
+  - MT1A
+  - MT1B
+  - MT1CP
+  - MT1DP
+  - MT1E
+  - MT1F
+  - MT1G
+  - MT1H
+  - MT1HL1
+  - MT1IP
+  - MT1JP
+  - MT1L
+  - MT1M
+  - MT1P1
+  - MT1P3
+  - MT1X
+  - MT2A
+  - MT3
+  - MT4
   - SOD1
   - SOD2
+  - SOD3
+  - PDX1
+  - PDHX
+  - MAFA
+  - KLRG1
+  - pdx1
+  - mafa
+  - mafaa
   - xanthine
-genes:
-- word: PDX-1
-  symbol: PDX-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDX1
-  entrez: '3651'
-- word: MAFA,
-  symbol: MAFA
-  source: hgnc_symbol
-  hgnc_symbol: MAFA
-  entrez: '389692'
-- word: SOD
-  symbol: SOD
-  source: bioentities_symbol
-  hgnc_symbol: SOD3
-  entrez: '6649'
-- word: SOD
-  symbol: SOD
-  source: bioentities_symbol
-  hgnc_symbol: SOD1
-  entrez: '6647'
-- word: (PDX-1),
-  symbol: PDX1
-  source: hgnc_symbol
-  hgnc_symbol: PDX1
-  entrez: '3651'
-- word: SOD
-  symbol: SOD
-  source: bioentities_symbol
-  hgnc_symbol: SOD2
-  entrez: '6648'
-chemicals:
-- word: xanthine
-  source: MESH
-  identifier: D019820
-diseases: []
-figid_alias: PMC3143541__F1
-redirect_from: /figures/PMC3143541__F1
-figtype: Figure
 ---

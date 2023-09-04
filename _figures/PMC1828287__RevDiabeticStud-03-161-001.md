@@ -1,5 +1,10 @@
 ---
 figid: PMC1828287__RevDiabeticStud-03-161-001
+figtitle: Diabetes and Alzheimer's Disease - Is There a Connection?
+organisms:
+- NA
+pmcid: PMC1828287
+filename: RevDiabeticStud-03-161-001.jpg
 figlink: /pmc/articles/PMC1828287/figure/F1/
 number: F1
 caption: Shown are effects on amyloidogenic and non-amyloidogenic APP metabolism (blue)
@@ -19,18 +24,21 @@ caption: Shown are effects on amyloidogenic and non-amyloidogenic APP metabolism
   interferes with insulin signaling and inhibits non-amyloidogenic formation of sAPPα.
   For additional metabolic mechanisms see the text. → indicates promoting effects,
   ┤ indicates inhibitory effects.
-pmcid: PMC1828287
 papertitle: Diabetes and Alzheimer's Disease - Is There a Connection?.
 reftext: Anders A.F. Sima, et al. Rev Diabet Stud. 2006 Winter;3(4):161-168.
-pmc_ranked_result_index: '23490'
-pathway_score: 0.8779622
-filename: RevDiabeticStud-03-161-001.jpg
-figtitle: Diabetes and Alzheimer's Disease - Is There a Connection?
 year: '2006'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8779622
+figid_alias: PMC1828287__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC1828287__F1
 ndex: 4404ddb9-df18-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -60,102 +68,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CASP12
-  - MAPT
-  - APP
-  - CASP14
-  - CASP1
-  - CASP5
-  - CASP8
-  - CASP4
-  - CASP6
-  - CASP9
-  - CASP3
-  - CASP10
-  - CASP2
-  - CASP7
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
+  - ab
+  - tau
   - Cholesterol
   - glucose
-genes:
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP12
-  entrez: '100506742'
-- word: tau
-  symbol: tau
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPT
-  entrez: '4137'
-- word: APP
-  symbol: APP
-  source: hgnc_symbol
-  hgnc_symbol: APP
-  entrez: '351'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP14
-  entrez: '23581'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP1
-  entrez: '834'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP5
-  entrez: '838'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP8
-  entrez: '841'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP4
-  entrez: '837'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP6
-  entrez: '839'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP9
-  entrez: '842'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP3
-  entrez: '836'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP10
-  entrez: '843'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP2
-  entrez: '835'
-- word: Caspases
-  symbol: Caspase
-  source: bioentities_symbol
-  hgnc_symbol: CASP7
-  entrez: '840'
-chemicals:
-- word: Cholesterol
-  source: MESH
-  identifier: D002784
-- word: glucose
-  source: MESH
-  identifier: D005947
-diseases: []
-figid_alias: PMC1828287__F1
-redirect_from: /figures/PMC1828287__F1
-figtype: Figure
 ---

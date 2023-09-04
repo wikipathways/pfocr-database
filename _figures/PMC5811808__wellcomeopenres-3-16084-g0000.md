@@ -1,5 +1,10 @@
 ---
 figid: PMC5811808__wellcomeopenres-3-16084-g0000
+figtitle: Tracing of metabolic pathways
+organisms:
+- Homo sapiens
+pmcid: PMC5811808
+filename: wellcomeopenres-3-16084-g0000.jpg
 figlink: /pmc/articles/PMC5811808/figure/f1/
 number: F1
 caption: The labelling patterns arising from [1,2- 13C] glucose ( A & B) as well as
@@ -12,18 +17,21 @@ caption: The labelling patterns arising from [1,2- 13C] glucose ( A & B) as well
   in [4,5- 13C] glutamate) or via the pyruvate carboxylase (PC; resulting in [2,3-
   13C] aspartate) route (Panel B). Metabolisation of labelled glutamine can reveal
   other anaplerotic pathway activities such as reductive carboxylation (Panel C).
-pmcid: PMC5811808
 papertitle: High-Speed Tracer Analysis of Metabolism (HS-TrAM).
 reftext: Thomas Brendan Smith, et al. Wellcome Open Res. 2018;3:5.
-pmc_ranked_result_index: '105024'
-pathway_score: 0.7385337
-filename: wellcomeopenres-3-16084-g0000.jpg
-figtitle: Tracing of metabolic pathways
 year: '2018'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7385337
+figid_alias: PMC5811808__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC5811808__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,19 +56,4 @@ schema-jsonld:
   - Glucose
   - phosphate
   - Lactate
-genes: []
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: phosphate
-  source: MESH
-  identifier: D010710
-- word: Lactate
-  source: MESH
-  identifier: D019344
-diseases: []
-figid_alias: PMC5811808__F1
-redirect_from: /figures/PMC5811808__F1
-figtype: Figure
 ---

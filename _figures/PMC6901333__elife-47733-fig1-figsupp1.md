@@ -1,5 +1,21 @@
 ---
 figid: PMC6901333__elife-47733-fig1-figsupp1
+figtitle: Overview of the likely epigenetic interactions in the paqr-2 pathway based
+  on published work prior to the present study
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Saccharomyces cerevisiae
+- Candida dubliniensis
+- Matthiola incana
+- Cricetulus griseus
+- Escherichia coli
+- Escherichia coli HT115
+- Homo sapiens
+- Caenorhabditis elegans
+- NA
+pmcid: PMC6901333
+filename: elife-47733-fig1-figsupp1.jpg
 figlink: /pmc/articles/PMC6901333/figure/fig1s1/
 number: SF1_1
 caption: 'Loss-of-function mutation in the red-colored proteins and gain-of-function
@@ -11,29 +27,25 @@ caption: 'Loss-of-function mutation in the red-colored proteins and gain-of-func
   or NHR-49::MDT-15 (; ; ; ). In contrast, prior to this work only loss-of-function
   alleles of fld-1 had so far been identified as paqr-2 mutant suppressors that act
   as regulators of PUFA incorporation ().'
-pmcid: PMC6901333
 papertitle: Evolutionarily conserved long-chain Acyl-CoA synthetases regulate membrane
   composition and fluidity.
 reftext: Mario Ruiz, et al. eLife. 2019;8:e47733.
-pmc_ranked_result_index: '117788'
-pathway_score: 0.961912
-filename: elife-47733-fig1-figsupp1.jpg
-figtitle: Overview of the likely epigenetic interactions in the paqr-2 pathway based
-  on published work prior to the present study
 year: '2019'
-organisms:
-- Cricetulus griseus
-- Mus musculus
-- Rattus norvegicus
-- Matthiola incana
-- Candida dubliniensis
-- Saccharomyces cerevisiae
-- Escherichia coli
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.961912
+figid_alias: PMC6901333__SF1_1
+figtype: Supplemental figure
+organisms_ner:
 - Caenorhabditis elegans
-- Escherichia coli HT115
 - Homo sapiens
+- Mus musculus
+- Cricetulus griseus
+redirect_from: /figures/PMC6901333__SF1_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,46 +66,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - iglr-2
+  - paqr-2
+  - fld-1
+  - sams-1
+  - pcyt-1
+  - cept-1
+  - ech-7
+  - hacd-1
+  - acdh-11
+  - nhr-49
+  - mdt-15
+  - sbp-1
+  - fat-7
+  - ADIPOR2
+  - NAFLD1
+  - MAT1A
+  - PCYT1A
   - CEPT1
   - HACD1
-  - ADIPOR2
-  - PCYT1A
-  - MAT1A
   - HMGB1
-genes:
-- word: CEPT-1
-  symbol: CEPT1
-  source: hgnc_symbol
-  hgnc_symbol: CEPT1
-  entrez: '10390'
-- word: HACD-1
-  symbol: HACD1
-  source: hgnc_symbol
-  hgnc_symbol: HACD1
-  entrez: '9200'
-- word: PAQR-2
-  symbol: PAQR2
-  source: hgnc_alias_symbol
-  hgnc_symbol: ADIPOR2
-  entrez: '79602'
-- word: PCYT-1
-  symbol: PCYT1
-  source: hgnc_prev_symbol
-  hgnc_symbol: PCYT1A
-  entrez: '5130'
-- word: SAMS-1
-  symbol: SAMS1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAT1A
-  entrez: '4143'
-- word: SBP-1
-  symbol: SBP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: HMGB1
-  entrez: '3146'
-chemicals: []
-diseases: []
-figid_alias: PMC6901333__SF1_1
-redirect_from: /figures/PMC6901333__SF1_1
-figtype: Supplemental figure
+  - Adipor2
+  - Mat1a
+  - Cept1
+  - Hacd1
+  - Hmgb1
+  - Pcyt1a
 ---

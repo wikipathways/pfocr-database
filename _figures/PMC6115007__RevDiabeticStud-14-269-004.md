@@ -1,5 +1,11 @@
 ---
 figid: PMC6115007__RevDiabeticStud-14-269-004
+figtitle: 'Iron in Type 1 Diabetes Etiology: A Systematic Review of New Evidence on
+  a Long-Standing Mystery'
+organisms:
+- NA
+pmcid: PMC6115007
+filename: RevDiabeticStud-14-269-004.jpg
 figlink: /pmc/articles/PMC6115007/figure/F2/
 number: F2
 caption: 'Iron (inorganic and hem-bound) is absorbed from the intestine, and enters
@@ -26,20 +32,22 @@ caption: 'Iron (inorganic and hem-bound) is absorbed from the intestine, and ent
   1, LIP - labile iron pool, HJV - hemojuvelin, NTBI - non-transferrin-bound iron,
   ROS - reactive oxidative species, TF - transferrin, TfR1/TfR2 - transferrin receptor
   1 and 2, Zip14 - ZRT/IRT-like protein 14.'
-pmcid: PMC6115007
 papertitle: 'The Role of Iron in Type 1 Diabetes Etiology: A Systematic Review of
   New Evidence on a Long-Standing Mystery.'
 reftext: Karen L. Søgaard, et al. Rev Diabet Stud. 2017 Summer-Fall;14(2-3):269-278.
-pmc_ranked_result_index: '203205'
-pathway_score: 0.9676365
-filename: RevDiabeticStud-14-269-004.jpg
-figtitle: 'Iron in Type 1 Diabetes Etiology: A Systematic Review of New Evidence on
-  a Long-Standing Mystery'
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9676365
+figid_alias: PMC6115007__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6115007__F2
 ndex: e9be159e-deca-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -75,88 +83,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SMAD2
-  - SMAD4
-  - SMAD6
-  - SMAD3
-  - SMAD1
-  - HFE
-  - SMAD5
-  - BMP6
-  - SMAD9
+  - DMRT1
+  - SLC11A2
+  - CHMP2B
+  - CENPF
   - SMG1
-  - SMAD7
-  - TF
+  - AFF1
   - SLC39A14
-genes:
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD6
-  entrez: '4091'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD1
-  entrez: '4086'
-- word: HFE
-  symbol: HFE
-  source: hgnc_symbol
-  hgnc_symbol: HFE
-  entrez: '3077'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD5
-  entrez: '4090'
-- word: BmP6
-  symbol: BMP6
-  source: hgnc_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD9
-  entrez: '4093'
-- word: LIP
-  symbol: LIP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMG1
-  entrez: '23049'
-- word: SMAD
-  symbol: SMAD
-  source: bioentities_symbol
-  hgnc_symbol: SMAD7
-  entrez: '4092'
-- word: TF
-  symbol: TF
-  source: hgnc_symbol
-  hgnc_symbol: TF
-  entrez: '7018'
-- word: ZIP14
-  symbol: ZIP14
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC39A14
-  entrez: '23516'
-chemicals: []
-diseases: []
-figid_alias: PMC6115007__F2
-redirect_from: /figures/PMC6115007__F2
-figtype: Figure
+  - TF
+  - BMP6
+  - HFE
+  - SMAD1
+  - SMAD4
+  - SMAD5
+  - SMAD6
+  - SMAD7
+  - SMAD9
+  - SMAD2
+  - SMAD3
 ---

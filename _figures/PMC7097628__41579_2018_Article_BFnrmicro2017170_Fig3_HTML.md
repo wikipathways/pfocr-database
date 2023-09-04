@@ -1,5 +1,24 @@
 ---
 figid: PMC7097628__41579_2018_Article_BFnrmicro2017170_Fig3_HTML
+figtitle: Rewiring cellular networks by members of the Flaviviridae family
+organisms:
+- Zika virus
+- Coronaviridae
+- Dengue virus
+- West Nile virus
+- Japanese encephalitis virus
+- Yellow fever virus
+- Dengue virus type 2
+- Tick-borne encephalitis virus
+- Flock House virus
+- Hepatitis C virus genotype 2
+- Homo sapiens
+- Mus musculus
+- Oryza sativa
+- Aedes aegypti
+- NA
+pmcid: PMC7097628
+filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
 figlink: pmc/articles/PMC7097628/figure/Fig3/
 number: F3
 caption: A | Expression of the viral proteins during hepatitis C virus (HCV) and dengue
@@ -41,31 +60,22 @@ caption: A | Expression of the viral proteins during hepatitis C virus (HCV) and
   p300; STAT1, signal transducer and activator of transcription 1; STAT2, signal transducer
   and activator of transcription 2; STAT3, signal transducer and activator of transcription
   3; XBP1, X-box-binding protein 1.
-pmcid: PMC7097628
 papertitle: Rewiring cellular networks by members of the Flaviviridae family.
 reftext: Christopher J. Neufeldt, et al. Nat Rev Microbiol. 2018;16(3):125-142.
-pmc_ranked_result_index: '117595'
-pathway_score: 0.8976009
-filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
-figtitle: Rewiring cellular networks by members of the Flaviviridae family
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8976009
+figid_alias: PMC7097628__F3
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Dengue virus type 2
-- Japanese encephalitis virus
-- West Nile virus
-- Tick-borne encephalitis virus
-- Yellow fever virus
-- Coronaviridae
-- Flock House virus
-- Dengue virus
-- Hepatitis C virus genotype 2
-- Oryza sativa
-- Zika virus
-- Aedes aegypti
 - Homo sapiens
+redirect_from: /figures/PMC7097628__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -117,208 +127,109 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Stat3
+  - Stat1
+  - Stat2
+  - Atg12
+  - Atg16l1
+  - Hspa5
+  - H2-Aa
+  - Eif2ak3
+  - Lamp1
+  - Atf6
+  - Ern2
+  - bd
+  - Eif2a
+  - Eif2s1
+  - Xbp1
+  - Atf4
+  - Retreg1
+  - Hmgcr
+  - Fasn
+  - Uts2r
+  - Ddx3x
+  - Chuk
+  - Ccr8
+  - Pi4ka
+  - Osbp
   - STAT3
   - STAT1
   - STAT2
+  - PSMA1
+  - PSMA2
+  - PSMA3
+  - PSMA4
+  - PSMA5
+  - PSMA6
+  - PSMA7
+  - PSMA8
+  - PSMB1
+  - PSMB10
+  - PSMB2
+  - PSMB3
+  - PSMB4
+  - PSMB5
+  - PSMB6
+  - PSMB7
+  - PSMB8
+  - PSMB9
+  - PSMC1
+  - PSMC2
+  - PSMC3
+  - PSMC4
+  - PSMC5
+  - PSMC6
+  - PSMD1
+  - PSMD10
+  - PSMD11
+  - PSMD12
+  - PSMD13
+  - PSMD14
+  - PSMD2
+  - PSMD3
+  - PSMD4
+  - PSMD5
+  - PSMD6
+  - PSMD7
+  - PSMD8
+  - PSMD9
+  - PSME1
+  - PSME2
+  - PSME3
+  - PSMF1
+  - SEM1
+  - USP5
   - ATG12
   - ATG16L1
+  - GDF10
   - HSPA5
   - EIF2AK3
   - ATF6
   - ERN1
   - EIF2A
+  - EIF2S1
   - XBP1
+  - XBP1P1
   - ATF4
   - RETREG1
   - CHUK
-  - IKBKG
   - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
   - HMGCR
   - FASN
+  - UTS2R
+  - SLC14A2
   - DDX3X
-  - PRKAG2
+  - CXCR1
   - PRKAA1
   - PRKAA2
   - PRKAB1
   - PRKAB2
   - PRKAG1
+  - PRKAG2
   - PRKAG3
   - PI4KA
   - OSBP
-genes:
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: STAT1
-  symbol: STAT1
-  source: hgnc_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: STAT2
-  symbol: STAT2
-  source: hgnc_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: ATG12
-  symbol: ATG12
-  source: hgnc_symbol
-  hgnc_symbol: ATG12
-  entrez: '9140'
-- word: ATG16L1
-  symbol: ATG16L1
-  source: hgnc_symbol
-  hgnc_symbol: ATG16L1
-  entrez: '55054'
-- word: BiP
-  symbol: BiP
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-- word: PERK
-  symbol: PERK
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK3
-  entrez: '9451'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: IRE1
-  symbol: IRE1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERN1
-  entrez: '2081'
-- word: ATG16L1
-  symbol: ATG16L1
-  source: hgnc_symbol
-  hgnc_symbol: ATG16L1
-  entrez: '55054'
-- word: elF2a
-  symbol: EIF2A
-  source: hgnc_symbol
-  hgnc_symbol: EIF2A
-  entrez: '83939'
-- word: ATG12
-  symbol: ATG12
-  source: hgnc_symbol
-  hgnc_symbol: ATG12
-  entrez: '9140'
-- word: XBP1
-  symbol: XBP1
-  source: hgnc_symbol
-  hgnc_symbol: XBP1
-  entrez: '7494'
-- word: ATF4
-  symbol: ATF4
-  source: hgnc_symbol
-  hgnc_symbol: ATF4
-  entrez: '468'
-- word: ATF6
-  symbol: ATF6
-  source: hgnc_symbol
-  hgnc_symbol: ATF6
-  entrez: '22926'
-- word: FAM134B
-  symbol: FAM134B
-  source: hgnc_prev_symbol
-  hgnc_symbol: RETREG1
-  entrez: '54463'
-- word: (IKK.
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: (IKK.
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: (IKK.
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: HMGCR
-  symbol: HMGCR
-  source: hgnc_symbol
-  hgnc_symbol: HMGCR
-  entrez: '3156'
-- word: FASN
-  symbol: FASN
-  source: hgnc_symbol
-  hgnc_symbol: FASN
-  entrez: '2194'
-- word: DDX3X
-  symbol: DDX3X
-  source: hgnc_symbol
-  hgnc_symbol: DDX3X
-  entrez: '1654'
-- word: IKKA
-  symbol: IKKA
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: HMGCR
-  symbol: HMGCR
-  source: hgnc_symbol
-  hgnc_symbol: HMGCR
-  entrez: '3156'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: HMGCR)
-  symbol: HMGCR
-  source: hgnc_symbol
-  hgnc_symbol: HMGCR
-  entrez: '3156'
-- word: PI4KA-
-  symbol: PI4KA
-  source: hgnc_symbol
-  hgnc_symbol: PI4KA
-  entrez: '5297'
-- word: OSBP
-  symbol: OSBP
-  source: hgnc_symbol
-  hgnc_symbol: OSBP
-  entrez: '5007'
-chemicals: []
-diseases: []
-figid_alias: PMC7097628__F3
-redirect_from: /figures/PMC7097628__F3
-figtype: Figure
 ---

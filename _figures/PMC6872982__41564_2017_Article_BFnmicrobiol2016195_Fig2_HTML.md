@@ -1,5 +1,41 @@
 ---
 figid: PMC6872982__41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML
+figtitle: Chemosynthetic symbionts of marine invertebrate animals are capable of nitrogen
+  fixation
+organisms:
+- Pinna nobilis
+- Riftia pachyptila
+- Sipunculus nudus
+- Olavius algarvensis
+- Codakia orbicularis
+- Phacoides pectinatus
+- Laxus oneistus
+- Lucinoma borealis
+- Clathrolucina costata
+- Euanodontia ovum
+- Loripes lucinalis
+- Diplodonta circularis
+- Bankia setacea
+- Pelecyora isocardia
+- Bradyrhizobium japonicum
+- Thiobacillus denitrificans
+- sulfur-oxidizing symbionts
+- Methylomonas methanica
+- Candidatus Thiodiazotropha endoloripes
+- Candidatus Endoriftia persephone
+- Sedimenticola thiotaurini
+- Candidatus Thiosymbion oneisti
+- Saccharum officinarum
+- Ananas comosus
+- Posidonia oceanica
+- Zostera noltei
+- Thalassia testudinum
+- Homo sapiens
+- metagenome
+- Cerdocyon thous
+- NA
+pmcid: PMC6872982
+filename: 41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML.jpg
 figlink: /pmc/articles/PMC6872982/figure/Fig2/
 number: F2
 caption: Metabolic enzymes and enzyme systems are shown in yellow, transporters in
@@ -15,49 +51,22 @@ caption: Metabolic enzymes and enzyme systems are shown in yellow, transporters 
   Nass, assimilatory nitrate reduction; ActP, acetate transporter; ABC, ABC transporter;
   TRAP, TRAP transporter; PolyP, polyphosphate granule; PHA, polyhydroxyalkanoate
   granule; GlnA, glutamine synthetase; Nif, nitrogenase.
-pmcid: PMC6872982
 papertitle: Chemosynthetic symbionts of marine invertebrate animals are capable of
   nitrogen fixation.
 reftext: Jillian M. Petersen, et al. Nat Microbiol. 2017;2(1):16195.
-pmc_ranked_result_index: '113592'
-pathway_score: 0.7136459
-filename: 41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML.jpg
-figtitle: Chemosynthetic symbionts of marine invertebrate animals are capable of nitrogen
-  fixation
 year: '2017'
-organisms:
-- Pinna nobilis
-- Codakia orbicularis
-- Sedimenticola thiotaurini
-- Candidatus Thiodiazotropha endoloripes
-- Olavius algarvensis
-- Clathrolucina costata
-- Euanodontia ovum
-- Loripes lucinalis
-- Lucinoma borealis
-- Phacoides pectinatus
-- metagenome
-- sulfur-oxidizing symbionts
-- Thiobacillus denitrificans
-- Bradyrhizobium japonicum
-- Candidatus Endoriftia persephone
-- Diplodonta circularis
-- Methylomonas methanica
-- Saccharum officinarum
-- Ananas comosus
-- Zostera noltei
-- Posidonia oceanica
-- Thalassia testudinum
-- Candidatus Thiosymbion oneisti
-- Riftia pachyptila
-- Sipunculus nudus
-- Bankia setacea
-- Laxus oneistus
-- Pelecyora isocardia
-- Homo sapiens
-- Cerdocyon thous
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7136459
+figid_alias: PMC6872982__F2
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6872982__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -82,34 +91,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - S100A9
-  - TRRAP
   - Acetate
   - Glutamine
   - Pyruvate
-genes:
-- word: Nif
-  symbol: NIF
-  source: hgnc_alias_symbol
-  hgnc_symbol: S100A9
-  entrez: '6280'
-- word: TRAP
-  symbol: TR-AP
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRRAP
-  entrez: '8295'
-chemicals:
-- word: Acetate
-  source: MESH
-  identifier: D000085
-- word: Glutamine
-  source: MESH
-  identifier: D005973
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-diseases: []
-figid_alias: PMC6872982__F2
-redirect_from: /figures/PMC6872982__F2
-figtype: Figure
 ---

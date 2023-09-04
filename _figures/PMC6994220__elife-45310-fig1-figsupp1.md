@@ -1,5 +1,23 @@
 ---
 figid: PMC6994220__elife-45310-fig1-figsupp1
+figtitle: cis-carotene biosynthesis and regulation of PLB formation during skotomorphogenesis
+organisms:
+- Arabidopsis thaliana
+- Oryza sativa
+- Zea mays
+- Solanum lycopersicum
+- Embryophyta
+- Hordeum vulgare
+- Matthiola incana
+- Manihot esculenta
+- Iris germanica
+- Citrus reticulata
+- Cucumis melo
+- Sinapis alba
+- Homo sapiens
+- Escherichia coli
+pmcid: PMC6994220
+filename: elife-45310-fig1-figsupp1.jpg
 figlink: pmc/articles/PMC6994220/figure/fig1s1/
 number: SF1_1
 caption: '(A) A pathway for cis-carotene and xanthophyll synthesis. Tri-cis-ζ-carotene
@@ -24,32 +42,24 @@ caption: '(A) A pathway for cis-carotene and xanthophyll synthesis. Tri-cis-ζ-
   respectively. Abbreviations: GGPP, geranylgeranyl pyrophosphate; PSY, PHYTOENE SYNTHASE;
   PDS, PHYTOENE DESATURASE, ZDS, ζ-CAROTENE DESATURASE; ZISO, ζ-CAROTENE ISOMERASE;
   CRTISO, CAROTENOID ISOMERASE.'
-pmcid: PMC6994220
 papertitle: A cis-carotene derived apocarotenoid regulates etioplast and chloroplast
   development.
 reftext: Christopher I Cazzonelli, et al. eLife. 2020;9:e45310.
-pmc_ranked_result_index: '118673'
-pathway_score: 0.9697022
-filename: elife-45310-fig1-figsupp1.jpg
-figtitle: cis-carotene biosynthesis and regulation of PLB formation during skotomorphogenesis
 year: '2020'
-organisms:
-- Embryophyta
-- Iris germanica
-- Cucumis melo
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9697022
+figid_alias: PMC6994220__SF1_1
+figtype: Supplemental figure
+organisms_ner:
 - Arabidopsis thaliana
-- Matthiola incana
-- Sinapis alba
-- Manihot esculenta
 - Solanum lycopersicum
-- Hordeum vulgare
-- Oryza sativa
-- Zea mays
-- Escherichia coli
-- Citrus reticulata
 - Homo sapiens
+redirect_from: /figures/PMC6994220__SF1_1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -83,12 +93,36 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - PSY
   - POR
   - DET1
+  - PDS3
+  - Z-ISO
+  - ABA1
+  - CCD8
+  - ACS
+  - ZDS
+  - LUT2
+  - CRTISO
+  - PIF3
+  - HY5
+  - Psy1
+  - Det1
+  - pds
+  - ACS2
+  - zds
+  - VDAC2
   - SLC26A4
+  - PTGDS
+  - PLN
   - PLB1
   - RUNX2
+  - PLA2G15
+  - ACSS2
+  - ACCS
   - CR2
+  - CRIPTOP2
+  - RNY5
   - cis-carotene
   - phytoene
   - phytofluene
@@ -104,105 +138,4 @@ schema-jsonld:
   - zeinoaxanthin
   - lycopene
   - lutein
-genes:
-- word: POR
-  symbol: POR
-  source: hgnc_symbol
-  hgnc_symbol: POR
-  entrez: '5447'
-- word: det1
-  symbol: DET1
-  source: hgnc_symbol
-  hgnc_symbol: DET1
-  entrez: '55070'
-- word: PDS
-  symbol: PDS
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC26A4
-  entrez: '5172'
-- word: PDS
-  symbol: PDS
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC26A4
-  entrez: '5172'
-- word: DET1
-  symbol: DET1
-  source: hgnc_symbol
-  hgnc_symbol: DET1
-  entrez: '55070'
-- word: PLB
-  symbol: PLB
-  source: hgnc_alias_symbol
-  hgnc_symbol: PLB1
-  entrez: '151056'
-- word: CCD
-  symbol: CCD
-  source: hgnc_prev_symbol
-  hgnc_symbol: RUNX2
-  entrez: '860'
-- word: cr2
-  symbol: CR2
-  source: hgnc_symbol
-  hgnc_symbol: CR2
-  entrez: '1380'
-- word: det1
-  symbol: DET1
-  source: hgnc_symbol
-  hgnc_symbol: DET1
-  entrez: '55070'
-- word: det1
-  symbol: DET1
-  source: hgnc_symbol
-  hgnc_symbol: DET1
-  entrez: '55070'
-chemicals:
-- word: cis-carotene
-  source: MESH
-  identifier: D002338
-- word: phytoene
-  source: MESH
-  identifier: C100185
-- word: phytofluene
-  source: MESH
-  identifier: C003140
-- word: violaxanthin
-  source: MESH
-  identifier: C005613
-- word: tri-cis---carotene
-  source: MESH
-  identifier: D002338
-- word: ZISO
-  source: ''
-  identifier: ''
-- word: ziso
-  source: ''
-  identifier: ''
-- word: di-cis-7-carotene
-  source: MESH
-  identifier: D002338
-- word: zeaxanthin
-  source: MESH
-  identifier: D065146
-- word: B-carotene
-  source: MESH
-  identifier: D002338
-- word: carotene
-  source: MESH
-  identifier: D002338
-- word: cis-lycopene
-  source: MESH
-  identifier: C015329
-- word: zeinoaxanthin
-  source: ''
-  identifier: ''
-- word: lycopene
-  source: MESH
-  identifier: C015329
-- word: lutein
-  source: MESH
-  identifier: D014975
-diseases: []
-figid_alias: PMC6994220__SF1_1
-redirect_from: /figures/PMC6994220__SF1_1
-figtype: Supplemental figure
 ---

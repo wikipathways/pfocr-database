@@ -4,11 +4,6 @@ layout: none
 [
   {% assign sorted_figures = site.figures | sort: "year" | reverse %}
   {% for pw in sorted_figures %}
-   {% for org in site.organisms %}
-    {% if pw.organisms contains org.latin %}
-      {% assign common-org = org.common %}
-    {% endif %}
-   {% endfor %}
    {
         "title"    : "{{ pw.figtitle | escape }}",
         "alias"    : "{{ pw.figid_alias }}",
@@ -16,7 +11,7 @@ layout: none
         "filename"    : "{{ pw.filename }}",
         "description" : "{{ pw.caption | truncate: 200 | escape  }}",
         "organisms"     : "{{ pw.organisms | join: ', ' }}",
-        "common"     : "{{ common-org }}",
+        "organisms_ner"     : "{{ pw.organisms_ner | join: ', ' }}",
         "keywords"     : "{{ pw.schema-jsonld | map: "keywords" | uniq | join: ', ' | escape }}",
         "url"      : "{{ site.baseurl }}{{ pw.url }}",
         "year"     : "{{ pw.year }}"

@@ -1,5 +1,11 @@
 ---
 figid: PMC2857166__cshperspect-AXN-001941_F2
+figtitle: Regulation of receptor activation and signaling by proteolytic processing
+organisms:
+- Mus musculus
+- Homo sapiens
+pmcid: PMC2857166
+filename: cshperspect-AXN-001941_F2.jpg
 figlink: /pmc/articles/PMC2857166/figure/A001941F2/
 number: F2
 caption: Regulation of receptor activation and signaling by proteolytic processing.
@@ -18,18 +24,22 @@ caption: Regulation of receptor activation and signaling by proteolytic processi
   signaling pathway. Based on genetic observations and the abnormal presence of Robo
   protein on the commissural portions of axons in kuz mutants, we speculate that Kuz
   may cleave Robo to regulate receptor activity.
-pmcid: PMC2857166
 papertitle: Signaling from Axon Guidance Receptors.
 reftext: Greg J. Bashaw, et al. Cold Spring Harb Perspect Biol. 2010 May;2(5):a001941.
-pmc_ranked_result_index: '104471'
-pathway_score: 0.9506227
-filename: cshperspect-AXN-001941_F2.jpg
-figtitle: Regulation of receptor activation and signaling by proteolytic processing
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9506227
+figid_alias: PMC2857166__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
+- Homo sapiens
+redirect_from: /figures/PMC2857166__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,27 +67,34 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DCC
+  - Adam10
+  - Dcc
+  - Abcc6
+  - Sit1
+  - Loca1
   - ADAM10
-genes:
-- word: DCC
-  symbol: DCC
-  source: hgnc_symbol
-  hgnc_symbol: DCC
-  entrez: '1630'
-- word: Adam10/Kuz
-  symbol: ADAM10
-  source: hgnc_symbol
-  hgnc_symbol: ADAM10
-  entrez: '102'
-- word: Adam10/Kuz
-  symbol: kuz
-  source: hgnc_alias_symbol
-  hgnc_symbol: ADAM10
-  entrez: '102'
-chemicals: []
-diseases: []
-figid_alias: PMC2857166__F2
-redirect_from: /figures/PMC2857166__F2
-figtype: Figure
+  - DCC
+  - ROBO1
+  - ROBO2
+  - ROBO3
+  - SIT1
+  - EPHB1
+  - EPHB2
+  - EPHB3
+  - EPHB4
+  - EPHB6
+  - NTN1
+  - NTN3
+  - NTN4
+  - EPHA1
+  - EPHA2
+  - EPHA3
+  - EPHA4
+  - EPHA5
+  - EPHA6
+  - EPHA7
+  - EPHA8
+  - EPHA10
+  - GNPTAB
+  - TRA-TGC7-1
 ---

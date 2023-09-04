@@ -1,5 +1,10 @@
 ---
 figid: PMC5067143__DialoguesClinNeurosci-18-253-g002
+figtitle: (Opposite and overleaf) Visualizing drug action
+organisms:
+- NA
+pmcid: PMC5067143
+filename: DialoguesClinNeurosci-18-253-g002.jpg
 figlink: /pmc/articles/PMC5067143/figure/DialoguesClinNeurosci-18-253-g002/
 number: F2
 caption: (Opposite and overleaf) Visualizing drug action. Illustration of the effect
@@ -16,19 +21,22 @@ caption: (Opposite and overleaf) Visualizing drug action. Illustration of the ef
   3-kinase; PLCG1, phospholipase C γ 1 SHC1, SHC (Src homology 2 domain containing)
   transforming protein 1; STAT, signal transducer and activator of transcription.
   .
-pmcid: PMC5067143
 papertitle: 'Omics approaches to individual variation: modeling networks and the virtual
   patient.'
 reftext: Hans Lehrach. Dialogues Clin Neurosci. 2016 Sep;18(3):253-265.
-pmc_ranked_result_index: '61416'
-pathway_score: 0.8373299
-filename: DialoguesClinNeurosci-18-253-g002.jpg
-figtitle: (Opposite and overleaf) Visualizing drug action
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8373299
+figid_alias: PMC5067143__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5067143__F2
 ndex: 1cf1c277-df13-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,81 +62,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - STAT2
-  - STAT6
-  - STAT4
-  - STAT1
+  - NDE1
   - EGF
+  - PGF
+  - EGFR
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT3
+  - STAT4
+  - STAT6
   - STAT5A
   - STAT5B
-  - NDE1
-  - EGFR
-  - STAT3
-  - PGF
-genes:
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT2
-  entrez: '6773'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT6
-  entrez: '6778'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT4
-  entrez: '6775'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: STAT1
-  symbol: STAT1
-  source: hgnc_symbol
-  hgnc_symbol: STAT1
-  entrez: '6772'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5A
-  entrez: '6776'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT5B
-  entrez: '6777'
-- word: nude
-  symbol: nudE
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDE1
-  entrez: '54820'
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: STAT
-  symbol: STAT
-  source: bioentities_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: pGF
-  symbol: PGF
-  source: hgnc_symbol
-  hgnc_symbol: PGF
-  entrez: '5228'
-chemicals: []
-diseases: []
-figid_alias: PMC5067143__F2
-redirect_from: /figures/PMC5067143__F2
-figtype: Figure
 ---

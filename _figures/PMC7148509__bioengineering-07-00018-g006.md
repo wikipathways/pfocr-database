@@ -1,5 +1,12 @@
 ---
 figid: PMC7148509__bioengineering-07-00018-g006
+figtitle: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
+  stiffening
+organisms:
+- Homo sapiens
+- Colocasia esculenta
+pmcid: PMC7148509
+filename: bioengineering-07-00018-g006.jpg
 figlink: pmc/articles/PMC7148509/figure/bioengineering-07-00018-f006/
 number: F6
 caption: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
@@ -12,20 +19,21 @@ caption: Schematic model for MMP24 expression promoted by extracellular matrix (
   nuclear translocation, resulting in induction of ROCK2 and MMP24 expression via
   TEAD activation. MMP24 expression attenuates the progression of various types of
   cancers such as breast cancer, lung cancer, and renal cancer.
-pmcid: PMC7148509
 papertitle: MMP24 as a Target of YAP Is a Potential Prognostic Factor in Cancer Patients.
 reftext: Wataru Sugimoto, et al. Bioengineering (Basel). 2020 Mar;7(1):18.
-pmc_ranked_result_index: '13779'
-pathway_score: 0.9495568
-filename: bioengineering-07-00018-g006.jpg
-figtitle: Schematic model for MMP24 expression promoted by extracellular matrix (ECM)
-  stiffening
 year: '2020'
-organisms:
-- Colocasia esculenta
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9495568
+figid_alias: PMC7148509__F6
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC7148509__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,50 +55,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MMRN1
-  - ROCK2
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
   - ROCK1
+  - ROCK2
   - MMP24
-  - YY1AP1
-genes:
-- word: ЕСМ
-  symbol: ECM
-  source: hgnc_alias_symbol
-  hgnc_symbol: MMRN1
-  entrez: '22915'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK2
-  entrez: '9475'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK1
-  entrez: '6093'
-- word: МMP24
-  symbol: MMP24
-  source: hgnc_symbol
-  hgnc_symbol: MMP24
-  entrez: '10893'
-- word: ROCK2
-  symbol: ROCK2
-  source: hgnc_symbol
-  hgnc_symbol: ROCK2
-  entrez: '9475'
-- word: YAP
-  symbol: YAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: YY1AP1
-  entrez: '55249'
-- word: MMP24
-  symbol: MMP24
-  source: hgnc_symbol
-  hgnc_symbol: MMP24
-  entrez: '10893'
-chemicals: []
-diseases: []
-figid_alias: PMC7148509__F6
-redirect_from: /figures/PMC7148509__F6
-figtype: Figure
+  - YAP1
+  - TEAD1
+  - TEAD2
+  - TEAD3
+  - TEAD4
 ---

@@ -1,5 +1,29 @@
 ---
 figid: PMC6967385__mSystems.00451-19-f0002
+figtitle: Mouse gene expression affected by biofilm status
+organisms:
+- Escherichia coli
+- Bacillus subtilis
+- Salmonella enterica subsp. enterica serovar Typhimurium
+- Salmonella enterica
+- Clostridioides difficile
+- Bacteroides fragilis
+- Campylobacter jejuni
+- Fusobacterium nucleatum
+- Clostridium perfringens
+- Phocaeicola vulgatus
+- Thomasclavelia ramosa
+- Clostridium innocuum
+- Amedibacillus dolichus
+- Streptococcus gallolyticus subsp. gallolyticus
+- gut metagenome
+- metagenome
+- human metagenome
+- metagenomes
+- Homo sapiens
+- Mus musculus
+pmcid: PMC6967385
+filename: mSystems.00451-19-f0002.jpg
 figlink: pmc/articles/PMC6967385/figure/fig2/
 number: F2
 caption: Mouse gene expression affected by biofilm status. (A) PCA of mouse transcriptomes
@@ -7,38 +31,24 @@ caption: Mouse gene expression affected by biofilm status. (A) PCA of mouse tran
   genes significantly increased in BF+T associated mice in red. See Table S2 at https://figshare.com/s/4b593b780f756a4acf69
   for a list of all significant DE genes in BF+T versus BF-bx associated mice. Boxes
   without color denote no significant change.
-pmcid: PMC6967385
 papertitle: Human Colon Mucosal Biofilms and Murine Host Communicate via Altered mRNA
   and microRNA Expression during Cancer.
 reftext: Sarah Tomkovich, et al. mSystems. 2020 Jan-Feb;5(1):e00451-19.
-pmc_ranked_result_index: '16319'
-pathway_score: 0.883728
-filename: mSystems.00451-19-f0002.jpg
-figtitle: Mouse gene expression affected by biofilm status
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.883728
+figid_alias: PMC6967385__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Bacillus subtilis
-- Clostridioides difficile
-- Clostridium perfringens
-- Clostridium innocuum
-- Thomasclavelia ramosa
-- Campylobacter jejuni
-- metagenome
-- Salmonella enterica
-- Amedibacillus dolichus
-- metagenomes
-- Streptococcus gallolyticus subsp. gallolyticus
-- Escherichia coli
-- human metagenome
-- gut metagenome
-- Bacteroides fragilis
-- Phocaeicola vulgatus
-- Fusobacterium nucleatum
-- Salmonella enterica subsp. enterica serovar Typhimurium
 - Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC6967385__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,55 +66,182 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Pitx1
+  - Ms6hm
+  - Pcsk1
+  - Enpp1
+  - Pkd1
+  - Ppara
+  - Cd320
+  - Prkdc
+  - Apoa1
+  - Pltp
+  - Apoc1
+  - Slc27a1
+  - Ppig
+  - Dbi
+  - Fabp2
+  - Fabp3
+  - Lpl
+  - Acsl1
+  - Acss2
+  - Pla2g15
+  - Cpt2
+  - Acadl
+  - Scp2
+  - Acadm
+  - Cdh15
+  - Angptl4
+  - ap
+  - Adipoq
+  - Sorbs1
+  - Lnpep
+  - Ucp1
+  - Ilk
+  - Ubc
+  - Uba52
+  - Ubb
+  - Rps27a
+  - Pck1
+  - Aqp7
+  - Ass1
   - PITX1
+  - KRT16
   - PCSK1
+  - ENPP1
+  - PKD1
+  - TPD52
   - PPARA
-  - PPARG
   - PPARD
+  - PPARG
   - MMP12
+  - LPA
+  - APOA1
   - APOA2
   - APOA4
   - APOA5
-  - APOA1
   - PLTP
+  - APOC1
   - SLC27A1
-  - RAB8A
+  - KRT10
+  - RXRA
   - RXRB
   - RXRG
-  - RXRA
+  - PPIG
+  - CYP17A1
+  - CYP19A1
+  - CYP20A1
+  - CYP21A2
+  - CYP24A1
+  - CYP39A1
+  - TBXAS1
+  - CYP46A1
+  - CYP51A1
+  - CYP1A1
+  - CYP1A2
+  - CYP1B1
+  - CYP11A1
+  - CYP11B1
+  - CYP11B2
+  - CYP2A13
+  - CYP2A6
+  - CYP2A7
+  - CYP2B6
+  - CYP2C18
+  - CYP2C19
+  - CYP2C8
+  - CYP2C9
+  - CYP2D6
+  - CYP2D7
+  - CYP2E1
+  - CYP2F1
+  - CYP2J2
+  - CYP2R1
+  - CYP2S1
+  - CYP2U1
+  - CYP2W1
+  - CYP26A1
+  - CYP26B1
+  - CYP26C1
+  - CYP27A1
+  - CYP27B1
+  - CYP27C1
+  - CYP3A4
+  - CYP3A43
+  - CYP3A5
+  - CYP3A7
+  - CYP4A11
+  - CYP4A22
+  - CYP4B1
+  - CYP4F11
+  - CYP4F12
+  - CYP4F2
+  - CYP4F22
+  - CYP4F3
+  - CYP4F8
+  - CYP4V2
+  - CYP4X1
+  - CYP4Z1
+  - CYP7A1
+  - CYP7B1
+  - CYP8B1
+  - PTGIS
+  - CPN2
   - DBI
+  - FABP2
   - FABP3
   - LPL
+  - LCP1
+  - PLA2G15
+  - ACSS2
+  - ACCS
   - CPT2
   - ACADL
+  - CALD1
+  - SCP2
   - ACADM
+  - CDH15
   - ANGPTL4
-  - MMP9
-  - MMP15
-  - MMP16
-  - MMP17
-  - MMP19
-  - MMP24
-  - MMP28
-  - MMP21
+  - CTAA1
+  - LNPEP
+  - SERPINB6
+  - HACD1
+  - CAP1
+  - SORBS1
+  - BRD4
+  - CAP2
   - MMP1
   - MMP2
   - MMP3
   - MMP7
   - MMP8
+  - MMP9
   - MMP10
   - MMP11
   - MMP13
   - MMP14
-  - MMP23B
+  - MMP15
+  - MMP16
+  - MMP17
+  - MMP19
   - MMP20
-  - MMP27
+  - MMP21
+  - MMP23B
+  - MMP24
   - MMP25
+  - MMP26
+  - MMP27
+  - MMP28
   - UCP1
   - ILK
   - UBC
+  - RPS27A
   - PCK2
   - AQP7
+  - sad
+  - acs
+  - crp
+  - folD
   - O
   - ketone
   - Caolesterol
@@ -112,301 +249,4 @@ schema-jsonld:
   - fatty acid
   - Ratinoik acid
   - MCAD
-genes:
-- word: BF+T
-  symbol: BFT
-  source: hgnc_prev_symbol
-  hgnc_symbol: PITX1
-  entrez: '5307'
-- word: BF+T
-  symbol: BFT
-  source: hgnc_prev_symbol
-  hgnc_symbol: PITX1
-  entrez: '5307'
-- word: PC1
-  symbol: PC1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PCSK1
-  entrez: '5122'
-- word: PPAR
-  symbol: PPAR
-  source: bioentities_symbol
-  hgnc_symbol: PPARA
-  entrez: '5465'
-- word: PPAR
-  symbol: PPAR
-  source: bioentities_symbol
-  hgnc_symbol: PPARG
-  entrez: '5468'
-- word: PPAR
-  symbol: PPAR
-  source: bioentities_symbol
-  hgnc_symbol: PPARD
-  entrez: '5467'
-- word: HME
-  symbol: HME
-  source: hgnc_alias_symbol
-  hgnc_symbol: MMP12
-  entrez: '4321'
-- word: Apo-A
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA2
-  entrez: '336'
-- word: Apo-A
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA4
-  entrez: '337'
-- word: Apo-A
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA5
-  entrez: '116519'
-- word: Apo-A
-  symbol: APOA
-  source: bioentities_symbol
-  hgnc_symbol: APOA1
-  entrez: '335'
-- word: PLTP
-  symbol: PLTP
-  source: hgnc_symbol
-  hgnc_symbol: PLTP
-  entrez: '5360'
-- word: FATP
-  symbol: FATP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC27A1
-  entrez: '376497'
-- word: MEI
-  symbol: MEL
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB8A
-  entrez: '4218'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRB
-  entrez: '6257'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRG
-  entrez: '6258'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRA
-  entrez: '6256'
-- word: ACBP
-  symbol: ACBP
-  source: hgnc_alias_symbol
-  hgnc_symbol: DBI
-  entrez: '1622'
-- word: FABP3
-  symbol: FABP3
-  source: hgnc_symbol
-  hgnc_symbol: FABP3
-  entrez: '2170'
-- word: LPL
-  symbol: LPL
-  source: hgnc_symbol
-  hgnc_symbol: LPL
-  entrez: '4023'
-- word: CPT-2
-  symbol: CPT2
-  source: hgnc_symbol
-  hgnc_symbol: CPT2
-  entrez: '1376'
-- word: LCAD
-  symbol: LCAD
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACADL
-  entrez: '33'
-- word: MCAD
-  symbol: MCAD
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACADM
-  entrez: '34'
-- word: PGAR
-  symbol: PGAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: ANGPTL4
-  entrez: '51129'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRB
-  entrez: '6257'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRG
-  entrez: '6258'
-- word: RXR
-  symbol: RXR
-  source: bioentities_symbol
-  hgnc_symbol: RXRA
-  entrez: '6256'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP9
-  entrez: '4318'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP15
-  entrez: '4324'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP16
-  entrez: '4325'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP17
-  entrez: '4326'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP19
-  entrez: '4327'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP24
-  entrez: '10893'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP28
-  entrez: '79148'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP21
-  entrez: '118856'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP1
-  entrez: '4312'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP2
-  entrez: '4313'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP3
-  entrez: '4314'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP7
-  entrez: '4316'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP8
-  entrez: '4317'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP10
-  entrez: '4319'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP11
-  entrez: '4320'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP12
-  entrez: '4321'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP13
-  entrez: '4322'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP14
-  entrez: '4323'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP23B
-  entrez: '8510'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP20
-  entrez: '9313'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP27
-  entrez: '64066'
-- word: MMP-
-  symbol: MMP
-  source: bioentities_symbol
-  hgnc_symbol: MMP25
-  entrez: '64386'
-- word: UCP-
-  symbol: UCP
-  source: hgnc_prev_symbol
-  hgnc_symbol: UCP1
-  entrez: '7350'
-- word: ILK
-  symbol: ILK
-  source: hgnc_symbol
-  hgnc_symbol: ILK
-  entrez: '3611'
-- word: UBC
-  symbol: UBC
-  source: hgnc_symbol
-  hgnc_symbol: UBC
-  entrez: '7316'
-- word: PEPCK
-  symbol: PEPCK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PCK2
-  entrez: '5106'
-- word: AQP7
-  symbol: AQP7
-  source: hgnc_symbol
-  hgnc_symbol: AQP7
-  entrez: '364'
-chemicals:
-- word: O
-  source: MESH
-  identifier: D013481
-- word: ketone
-  source: MESH
-  identifier: D007659
-- word: Caolesterol
-  source: ''
-  identifier: ''
-- word: Fatty acid
-  source: MESH
-  identifier: D005227
-- word: fatty acid
-  source: MESH
-  identifier: D005227
-- word: Ratinoik acid
-  source: MESH
-  identifier: D000596
-diseases:
-- word: MCAD
-  source: MESH
-  identifier: C536038
-figid_alias: PMC6967385__F2
-redirect_from: /figures/PMC6967385__F2
-figtype: Figure
 ---

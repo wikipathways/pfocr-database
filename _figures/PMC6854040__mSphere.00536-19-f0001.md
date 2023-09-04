@@ -1,5 +1,11 @@
 ---
 figid: PMC6854040__mSphere.00536-19-f0001
+figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid products
+organisms:
+- Rickettsia parkeri
+- Homo sapiens
+pmcid: PMC6854040
+filename: mSphere.00536-19-f0001.jpg
 figlink: /pmc/articles/PMC6854040/figure/fig1/
 number: F1
 caption: Generalized MEV and MEP pathways leading to downstream isoprenoid products.
@@ -15,43 +21,23 @@ caption: Generalized MEV and MEP pathways leading to downstream isoprenoid produ
   reductoisomerase of the MEP pathway. Alendronate sodium hydrate is an inhibitor
   of farnesyl diphosphate synthase. d-Cycloserine (DCS) is an inhibitor of d-alanine
   racemase and d-alanine-d-alanine ligase.
-pmcid: PMC6854040
 papertitle: A Metabolic Dependency for Host Isoprenoids in the Obligate Intracellular
   Pathogen Rickettsia parkeri Underlies a Sensitivity to the Statin Class of Host-Targeted
   Therapeutics.
 reftext: Vida Ahyong, et al. mSphere. 2019 Nov-Dec;4(6):e00536-19.
-pmc_ranked_result_index: '98115'
-pathway_score: 0.9443204
-filename: mSphere.00536-19-f0001.jpg
-figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid products
 year: '2019'
-organisms:
-- Mus musculus
-- Trichoplax adhaerens
-- Rickettsia parkeri str. Portsmouth
-- spotted fever group
-- typhus group
-- Rickettsia tamurae subsp. buchneri
-- Mycobacterium tuberculosis
-- transposons
-- Agriosomyces longus
-- Malacoplasma penetrans
-- Rickettsia parkeri
-- Rickettsia rickettsii str. Iowa
-- Escherichia coli
-- Cryptosporidium parvum
-- Toxoplasma gondii
-- Rickettsia conorii
-- Rickettsia prowazekii
-- Rickettsia rickettsii
-- Orientia tsutsugamushi
-- Chlamydia trachomatis
-- Escherichia coli K-12
-- Chlorocebus aethiops
-- Homo sapiens
-- Ovis aries
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9443204
+figid_alias: PMC6854040__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC6854040__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -76,7 +62,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IPP
   - Mevalonate
   - acetyl-CoA
   - pyruvate
@@ -95,69 +80,4 @@ schema-jsonld:
   - ubiquinone
   - ubiquinones
   - Rickettsia
-genes:
-- word: IPP
-  symbol: IPP
-  source: hgnc_symbol
-  hgnc_symbol: IPP
-  entrez: '3652'
-chemicals:
-- word: Mevalonate
-  source: MESH
-  identifier: D008798
-- word: acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: pyruvate
-  source: MESH
-  identifier: D011773
-- word: acetoacetyl-CoA
-  source: MESH
-  identifier: C010667
-- word: fosmidomycin
-  source: MESH
-  identifier: C024640
-- word: CDP
-  source: MESH
-  identifier: D003565
-- word: isoprenoid
-  source: MESH
-  identifier: D013729
-- word: mevalonate
-  source: MESH
-  identifier: D008798
-- word: DMAPP
-  source: MESH
-  identifier: C043060
-- word: alendronate
-  source: MESH
-  identifier: D019386
-- word: FPP
-  source: MESH
-  identifier: C039834
-- word: polyprenyl-PP C55-PP
-  source: MESH
-  identifier: C081650
-- word: cholesterol
-  source: MESH
-  identifier: D002784
-- word: steroid
-  source: MESH
-  identifier: D013256
-- word: heme
-  source: MESH
-  identifier: D006418
-- word: ubiquinone
-  source: MESH
-  identifier: D014451
-- word: ubiquinones
-  source: MESH
-  identifier: D014451
-diseases:
-- word: Rickettsia
-  source: MESH
-  identifier: D012282
-figid_alias: PMC6854040__F1
-redirect_from: /figures/PMC6854040__F1
-figtype: Figure
 ---

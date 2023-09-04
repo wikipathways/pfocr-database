@@ -1,5 +1,12 @@
 ---
 figid: PMC6908425__mSphere.00796-19-f0004
+figtitle: Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
+  without changes in amounts of metabolic enzymes
+organisms:
+- Salmonella enterica
+- Homo sapiens
+pmcid: PMC6908425
+filename: mSphere.00796-19-f0004.jpg
 figlink: /pmc/articles/PMC6908425/figure/fig4/
 number: F4
 caption: 'Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
@@ -14,34 +21,22 @@ caption: 'Deletion of glycogen synthase in a ΔfumABC strain restores carbon flu
   (S7P) were determined and normalized to WT (=1). Statistical analyses were performed
   by Student’s t test, and all data shown have significance differences between the
   two strains of P < 0.05 or lower: *, P < 0.05; **, P < 0.01; ***, P < 0.001.'
-pmcid: PMC6908425
 papertitle: Blocks in Tricarboxylic Acid Cycle of Salmonella enterica Cause Global
   Perturbation of Carbon Storage, Motility, and Host-Pathogen Interaction.
 reftext: Janina Noster, et al. mSphere. 2019 Nov-Dec;4(6):e00796-19.
-pmc_ranked_result_index: '11730'
-pathway_score: 0.7579347
-filename: mSphere.00796-19-f0004.jpg
-figtitle: Deletion of glycogen synthase in a ΔfumABC strain restores carbon fluxes
-  without changes in amounts of metabolic enzymes
 year: '2019'
-organisms:
-- Mus musculus
-- Salmonella sp. WT
-- Corynebacterium glutamicum
-- Mycobacterium tuberculosis
-- Salmonella enterica
-- Escherichia coli Nissle 1917
-- Escherichia coli B
-- Candelariella medians
-- Escherichia coli
-- Caenorhabditis elegans
-- Escherichia coli DH5alpha
-- Escherichia coli K-12
-- Salmonella enterica subsp. enterica serovar Typhimurium
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7579347
+figid_alias: PMC6908425__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
-- Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+redirect_from: /figures/PMC6908425__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -65,191 +60,65 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GLC1P
+  - ACHE
+  - VCAN
   - TREH
+  - GCK
   - MAP4K3
-  - RNF24
-  - AQP3
+  - TRE-TTC3-1
+  - GNAO1
+  - GNAI1
+  - GNAI2
+  - GNAI3
+  - GNAT1
+  - GNAT2
+  - GNAT3
+  - GNAZ
   - MAL
+  - MRTFA
+  - TIRAP
+  - PNMA1
+  - GSTZ1
+  - BGN
+  - GPI
+  - PGPEP1
   - CIT
-  - PRKACG
+  - DHDDS
+  - MDH2
+  - RB1
   - PRKAR1A
+  - PRKAR1B
   - PRKAR2A
   - PRKAR2B
   - PRKACA
   - PRKACB
-  - PRKAR1B
+  - PRKACG
   - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - TMEM201
+  - MPG
   - FBXO3
   - RPIA
   - RPE
   - SDHD
   - SDHC
-  - PRKG1
+  - LOC642502
+  - MRI1
+  - ENO1
   - ENO2
   - ENO3
-  - ENO1
   - ENO4
-  - PAEP
+  - IRF6
+  - INPP5K
+  - FUT3
+  - REL
   - MalO
   - OAc
   - ADPG
   - DHAP
-genes:
-- word: TreA
-  symbol: TREA
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREH
-  entrez: '11181'
-- word: Glk
-  symbol: GLK
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP4K3
-  entrez: '8491'
-- word: Tre
-  symbol: TRE
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREH
-  entrez: '11181'
-- word: Gl|
-  symbol: G1L
-  source: hgnc_alias_symbol
-  hgnc_symbol: RNF24
-  entrez: '11237'
-- word: Gl|
-  symbol: GIL
-  source: hgnc_alias_symbol
-  hgnc_symbol: AQP3
-  entrez: '360'
-- word: Mal
-  symbol: MAL
-  source: hgnc_symbol
-  hgnc_symbol: MAL
-  entrez: '4118'
-- word: Glk
-  symbol: GLK
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP4K3
-  entrez: '8491'
-- word: Cit
-  symbol: CIT
-  source: hgnc_symbol
-  hgnc_symbol: CIT
-  entrez: '11113'
-- word: '>Cit'
-  symbol: CIT
-  source: hgnc_symbol
-  hgnc_symbol: CIT
-  entrez: '11113'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: Fbp
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: Fba
-  symbol: FBA
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXO3
-  entrez: '26273'
-- word: RpiA
-  symbol: RPIA
-  source: hgnc_symbol
-  hgnc_symbol: RPIA
-  entrez: '22934'
-- word: Rpe
-  symbol: RPE
-  source: hgnc_symbol
-  hgnc_symbol: RPE
-  entrez: '6120'
-- word: SdhD
-  symbol: SDHD
-  source: hgnc_symbol
-  hgnc_symbol: SDHD
-  entrez: '6392'
-- word: Sdhc
-  symbol: SDHC
-  source: hgnc_symbol
-  hgnc_symbol: SDHC
-  entrez: '6391'
-- word: Pgk
-  symbol: PGK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO2
-  entrez: '2026'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO3
-  entrez: '2027'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO1
-  entrez: '2023'
-- word: Eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO4
-  entrez: '387712'
-- word: РЕР
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-chemicals:
-- word: MalO
-  source: MESH
-  identifier: C042349
-- word: OAc
-  source: MESH
-  identifier: C065699
-- word: ADPG
-  source: MESH
-  identifier: D000245
-- word: DHAP
-  source: MESH
-  identifier: C017202
-diseases: []
-figid_alias: PMC6908425__F4
-redirect_from: /figures/PMC6908425__F4
-figtype: Figure
 ---

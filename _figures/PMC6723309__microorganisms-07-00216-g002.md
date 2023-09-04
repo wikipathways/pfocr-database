@@ -1,5 +1,26 @@
 ---
 figid: PMC6723309__microorganisms-07-00216-g002
+figtitle: Hypothetical model for adenoviral regulation of stress-induced EGFR signaling
+  through NFKB
+organisms:
+- Hepatitis B virus
+- Adenoviridae
+- Human alphaherpesvirus 1
+- Human T-cell leukemia virus type I
+- Coxsackievirus
+- Human adenovirus 5
+- Human adenovirus sp.
+- Human adenovirus 2
+- Human adenovirus E4
+- Human adenovirus 12
+- Human adenovirus D37
+- Human mastadenovirus C
+- Human adenovirus 52
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+pmcid: PMC6723309
+filename: microorganisms-07-00216-g002.jpg
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f002/
 number: F2
 caption: Hypothetical model for adenoviral regulation of stress-induced EGFR signaling
@@ -18,35 +39,24 @@ caption: Hypothetical model for adenoviral regulation of stress-induced EGFR sig
   EGFR stress signaling from MVB limiting membranes (7); and promotes lysosomal degradation
   (8), by mechanisms involving host cell proteins Alix and Rab-interacting lysosomal
   protein (RILP).
-pmcid: PMC6723309
 papertitle: New Insights to Adenovirus-Directed Innate Immunity in Respiratory Epithelial
   Cells.
 reftext: Cathleen R. Carlin. Microorganisms. 2019 Aug;7(8):216.
-pmc_ranked_result_index: '55834'
-pathway_score: 0.8525863
-filename: microorganisms-07-00216-g002.jpg
-figtitle: Hypothetical model for adenoviral regulation of stress-induced EGFR signaling
-  through NFKB
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8525863
+figid_alias: PMC6723309__F2
+figtype: Figure
+organisms_ner:
 - Mus musculus
-- Rattus norvegicus
-- Human alphaherpesvirus 1
-- Hepatitis B virus
-- Adenoviridae
-- Human adenovirus 2
-- Human T-cell leukemia virus type I
-- Coxsackievirus
-- Human mastadenovirus C
-- Human adenovirus sp.
-- Human adenovirus E4
-- Human adenovirus 12
-- Human adenovirus 5
-- Human adenovirus 52
-- Human adenovirus D37
 - Homo sapiens
+- Rattus norvegicus
+redirect_from: /figures/PMC6723309__F2
 ndex: 5ac19ede-df1f-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -74,188 +84,75 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R6
-  - AKT3
+  - Egfr
+  - Map2k6
+  - Crk
+  - Grap2
+  - Syp
+  - Mapk14
+  - Ahsa1
+  - Akt1
+  - Pik3r1
+  - Kcna2
+  - Mapkapk2
+  - Map2k2
+  - Pdcd6ip
+  - Nfkbib
+  - Tsg101
+  - Nfkb1
+  - Pin1
+  - Rilp
+  - Hgs
   - EGFR
-  - CHUK
-  - IKBKB
   - MAP2K6
-  - REL
-  - IKBKG
-  - NFKB2
-  - RELB
-  - MAPK11
-  - NFKB1
-  - MAPK13
+  - CRK
   - MAPK14
-  - TSG101
+  - MAPK1
+  - AIMP2
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - AKT1
+  - AKT2
+  - AKT3
   - PIK3CA
   - PIK3CB
-  - PIK3R5
-  - PIK3R4
-  - PIK3R3
-  - MAPK12
   - PIK3CD
-  - RELA
-  - PDCD6IP
-  - PIN1
-  - RILP
   - PIK3CG
-  - AKT2
-  - AKT1
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - KCNA2
+  - MAPKAPK2
+  - CHUK
+  - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
+  - PDCD6IP
+  - TSG101
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
+  - PIN1
+  - PDZD2
+  - RILP
+  - PRICKLE1
+  - ATN1
+  - HARS1
+  - SRSF5
+  - HGS
+  - Pik3cg
+  - Rela
+  - Prickle1
+  - Srsf5
   - Cancer
-genes:
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PI3K/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: EGFR
-  symbol: EGFR
-  source: hgnc_symbol
-  hgnc_symbol: EGFR
-  entrez: '1956'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: CHUK
-  entrez: '1147'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: MKK6
-  symbol: MKK6
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K6
-  entrez: '5608'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: IKK
-  symbol: IKK
-  source: bioentities_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: Tsg101
-  symbol: TSG101
-  source: hgnc_symbol
-  hgnc_symbol: TSG101
-  entrez: '7251'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: NFKB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: Alix
-  symbol: Alix
-  source: hgnc_alias_symbol
-  hgnc_symbol: PDCD6IP
-  entrez: '10015'
-- word: Pin1
-  symbol: PIN1
-  source: hgnc_symbol
-  hgnc_symbol: PIN1
-  entrez: '5300'
-- word: RILP
-  symbol: RILP
-  source: hgnc_symbol
-  hgnc_symbol: RILP
-  entrez: '83547'
-- word: PI3K/Akt
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: PI3K/Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC6723309__F2
-redirect_from: /figures/PMC6723309__F2
-figtype: Figure
 ---

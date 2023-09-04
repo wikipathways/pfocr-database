@@ -1,5 +1,10 @@
 ---
 figid: PMC6315738__pharmaceuticals-11-00128-g001
+figtitle: Intestinal uptake of non-heme iron and its regulation
+organisms:
+- NA
+pmcid: PMC6315738
+filename: pharmaceuticals-11-00128-g001.jpg
 figlink: /pmc/articles/PMC6315738/figure/pharmaceuticals-11-00128-f001/
 number: F1
 caption: Intestinal uptake of non-heme iron and its regulation. Non-heme iron absorption
@@ -33,19 +38,23 @@ caption: Intestinal uptake of non-heme iron and its regulation. Non-heme iron ab
   across the enterocyte is also controlled extracellularly by the systemic iron regulatory
   hormone hepcidin (Hepc). Hepcidin can bind to FPN, causing its internalization and
   degradation, hence decreasing iron export from enterocytes into the blood plasma.
-pmcid: PMC6315738
 papertitle: 'Iron Supplementation in Suckling Piglets: An Ostensibly Easy Therapy
   of Neonatal Iron Deficiency Anemia.'
 reftext: Mateusz Szudzik, et al. Pharmaceuticals (Basel). 2018 Dec;11(4):128.
-pmc_ranked_result_index: '197082'
-pathway_score: 0.9126568
-filename: pharmaceuticals-11-00128-g001.jpg
-figtitle: Intestinal uptake of non-heme iron and its regulation
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9126568
+figid_alias: PMC6315738__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC6315738__F1
 ndex: 07f44b7f-df11-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -90,16 +99,37 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - FES
-  - CYBRD1
-  - EPHA1
-  - SMG1
-  - EPAS1
-  - PCBP1
+  - Irp-1B
+  - Irp-1A
+  - Mvl
+  - heph
+  - Rbp9
+  - hoip
+  - cno
+  - Rm62
+  - Lip1
+  - Liprin-alpha
+  - lft
+  - ft
+  - cal
+  - Cam
   - ACO1
+  - DMRT1
+  - SLC11A2
+  - CHMP2B
+  - HEPH
+  - SLC40A1
   - IREB2
-  - HMGA2
+  - FES
+  - SMG1
+  - CYBRD1
   - LIX1
+  - HMGA2
+  - PCBP1
+  - EPAS1
+  - FBLIM1
+  - GOPC
+  - CA1
   - 4Fe-4S
   - Fe
   - Fe3+
@@ -107,81 +137,4 @@ schema-jsonld:
   - iron
   - von
   - LIP
-genes:
-- word: Fe-S
-  symbol: FES
-  source: hgnc_symbol
-  hgnc_symbol: FES
-  entrez: '2242'
-- word: DcytB
-  symbol: DCYTB
-  source: hgnc_alias_symbol
-  hgnc_symbol: CYBRD1
-  entrez: '79901'
-- word: Нeph
-  symbol: EPH
-  source: hgnc_alias_symbol
-  hgnc_symbol: EPHA1
-  entrez: '2041'
-- word: LIP
-  symbol: LIP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMG1
-  entrez: '23049'
-- word: HIF2a
-  symbol: HIF2A
-  source: hgnc_alias_symbol
-  hgnc_symbol: EPAS1
-  entrez: '2034'
-- word: PCBP1
-  symbol: PCBP1
-  source: hgnc_symbol
-  hgnc_symbol: PCBP1
-  entrez: '5093'
-- word: IRP1
-  symbol: IRP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACO1
-  entrez: '48'
-- word: IRP2
-  symbol: IRP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: IREB2
-  entrez: '3658'
-- word: LIPO
-  symbol: LIPO
-  source: hgnc_alias_symbol
-  hgnc_symbol: HMGA2
-  entrez: '8091'
-- word: L-Ft
-  symbol: Lft
-  source: hgnc_alias_symbol
-  hgnc_symbol: LIX1
-  entrez: '167410'
-chemicals:
-- word: 4Fe-4S
-  source: MESH
-  identifier: C111959
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: Fe3+
-  source: MESH
-  identifier: D007501
-- word: Fe-S
-  source: MESH
-  identifier: C111959
-- word: iron
-  source: MESH
-  identifier: D007501
-diseases:
-- word: von
-  source: MESH
-  identifier: D014842
-- word: LIP
-  source: MESH
-  identifier: C536528
-figid_alias: PMC6315738__F1
-redirect_from: /figures/PMC6315738__F1
-figtype: Figure
 ---

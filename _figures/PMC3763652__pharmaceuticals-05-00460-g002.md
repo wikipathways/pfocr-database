@@ -1,21 +1,29 @@
 ---
 figid: PMC3763652__pharmaceuticals-05-00460-g002
+figtitle: The synthetic pathway for the preparation of compounds 2–5
+organisms:
+- Pneumocystis carinii
+pmcid: PMC3763652
+filename: pharmaceuticals-05-00460-g002.jpg
 figlink: /pmc/articles/PMC3763652/figure/pharmaceuticals-05-00460-f002/
 number: S1
 caption: The synthetic pathway for the preparation of compounds 2–5.
-pmcid: PMC3763652
 papertitle: Synthesis and Spectroscopic Analysis of Novel 1H-Benzo[d]imidazoles Phenyl
   Sulfonylpiperazines .
 reftext: Amjad M. Qandil. Pharmaceuticals (Basel). 2012 May;5(5):460-468.
-pmc_ranked_result_index: '84254'
-pathway_score: 0.8312675
-filename: pharmaceuticals-05-00460-g002.jpg
-figtitle: The synthetic pathway for the preparation of compounds 2–5
 year: '2012'
-organisms:
-- Pneumocystis carinii
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8312675
+figid_alias: PMC3763652__S1
+figtype: Scheme
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3763652__S1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -31,19 +39,4 @@ schema-jsonld:
   - Benzoquinone
   - ethanol
   - Dimethylamine
-genes: []
-chemicals:
-- word: Benzoquinone
-  source: MESH
-  identifier: C004532
-- word: ethanol
-  source: MESH
-  identifier: D000431
-- word: Dimethylamine
-  source: MESH
-  identifier: D004123
-diseases: []
-figid_alias: PMC3763652__S1
-redirect_from: /figures/PMC3763652__S1
-figtype: Scheme
 ---

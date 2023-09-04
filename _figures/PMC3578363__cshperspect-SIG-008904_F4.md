@@ -1,5 +1,10 @@
 ---
 figid: PMC3578363__cshperspect-SIG-008904_F4
+figtitle: Targeting ubiquitin-dependent degradation of CDK inhibitors
+organisms:
+- NA
+pmcid: PMC3578363
+filename: cshperspect-SIG-008904_F4.jpg
 figlink: /pmc/articles/PMC3578363/figure/A008904F4/
 number: F4
 caption: Targeting ubiquitin-dependent degradation of CDK inhibitors. The p21 family
@@ -7,18 +12,23 @@ caption: Targeting ubiquitin-dependent degradation of CDK inhibitors. The p21 fa
   phosphorylation of these CKIs. Phosphorylated CKIs are recognized by F-box proteins
   such as Cdc4 in budding yeast or SKP2 in human cells, which, through the SKP1 linker
   protein, recruits the CKI substrate to the SCF E3 ligase for ubiquitylation.
-pmcid: PMC3578363
 papertitle: Signaling Pathways that Control Cell Proliferation.
 reftext: Robert J. Duronio, et al. Cold Spring Harb Perspect Biol. 2013 Mar;5(3):a008904.
-pmc_ranked_result_index: '121982'
-pathway_score: 0.9527767
-filename: cshperspect-SIG-008904_F4.jpg
-figtitle: Targeting ubiquitin-dependent degradation of CDK inhibitors
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9527767
+figid_alias: PMC3578363__F4
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+- Saccharomyces cerevisiae S288C
+redirect_from: /figures/PMC3578363__F4
 ndex: f99ad529-ded7-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -36,118 +46,65 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CKS1B
-  - HRAS
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Dsor1
+  - Mtk
+  - cln
+  - Cdk2
+  - p38a
+  - DCTN6-p27
+  - dap
+  - CG9588
+  - Cul1
+  - SkpA
+  - Roc1a
+  - Skp2
+  - ago
+  - an
   - KRAS
-  - CDK2
-  - FBXW7
-  - MAPK1
-  - SKP1
-  - SKP2
-  - CUL1
-  - MAP2K1
-  - MAP2K2
+  - HRAS
+  - NRAS
+  - ZHX2
   - ARAF
   - BRAF
   - RAF1
-  - NRAS
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - CDK2
+  - MAPK1
   - FLI1
+  - IFI27
+  - PSMD9
+  - ZNRD2
+  - DCTN6
+  - TMED7
+  - H3P23
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
+  - CUL1
+  - SKP1
+  - RIT1
+  - RBX1
+  - CKS1B
+  - CKS1BP7
+  - SKP2
+  - UXT
+  - FBXW7
+  - AN
+  - CDC28
+  - SIC1
+  - TEC1
+  - HRT1
+  - UBX4
+  - CKS1
+  - CDC4
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome
-genes:
-- word: CKS1
-  symbol: CKS1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CKS1B
-  entrez: '1163'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: CDK2
-  symbol: CDK2
-  source: hgnc_symbol
-  hgnc_symbol: CDK2
-  entrez: '1017'
-- word: Cdc4
-  symbol: CDC4
-  source: hgnc_alias_symbol
-  hgnc_symbol: FBXW7
-  entrez: '55294'
-- word: ERK2
-  symbol: ERK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: SKP1
-  symbol: SKP1
-  source: hgnc_symbol
-  hgnc_symbol: SKP1
-  entrez: '6500'
-- word: SKP2
-  symbol: SKP2
-  source: hgnc_symbol
-  hgnc_symbol: SKP2
-  entrez: '6502'
-- word: CUL1
-  symbol: CUL1
-  source: hgnc_symbol
-  hgnc_symbol: CUL1
-  entrez: '8454'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: MEK
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: Sic1
-  symbol: SIC-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: FLI1
-  entrez: '2313'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC3578363__F4
-redirect_from: /figures/PMC3578363__F4
-figtype: Figure
 ---

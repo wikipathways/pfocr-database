@@ -1,5 +1,10 @@
 ---
 figid: PMC4979452__cddiscovery201650-f7
+figtitle: Cell adhesion
+organisms:
+- NA
+pmcid: PMC4979452
+filename: cddiscovery201650-f7.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig7/
 number: F7
 caption: Cell adhesion. Focal adhesions are complexes through which signals are transmitted
@@ -26,19 +31,22 @@ caption: Cell adhesion. Focal adhesions are complexes through which signals are 
   to intracellular keratin filaments. The inner dense plaque proteins are attached
   to intermediate filaments. Pathway objects and links are described separately in
   .
-pmcid: PMC4979452
 papertitle: 'Transcriptional landscapes at the intersection of neuronal apoptosis
   and substance P-induced survival: exploring pathways and drug targets.'
 reftext: S Paparone, et al. Cell Death Discov. 2016;2:16050.
-pmc_ranked_result_index: '216704'
-pathway_score: 0.9197294
-filename: cddiscovery201650-f7.jpg
-figtitle: Cell adhesion
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9197294
+figid_alias: PMC4979452__F7
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4979452__F7
 ndex: f2f5d46c-df0c-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -74,192 +82,147 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MTDH
-  - WASF1
-  - TRIO
-  - WIPF1
-  - PTEN
-  - SDC1
-  - ETV6
-  - JAM2
-  - CTNNB1
-  - CD44
-  - CRK
   - TIMP1
-  - PLEC
-  - NCAM2
-  - NRCAM
-  - WASL
-  - MCAM
-  - FYN
-  - GFAP
-  - ITGB1BP1
-  - PMP2
+  - COL6A1
+  - COL6A2
+  - COL6A3
+  - COL6A5
+  - COL6A6
+  - COL7A1
+  - COL8A1
+  - COL8A2
+  - COL9A1
+  - COL9A2
+  - COL9A3
+  - COL10A1
+  - COL11A1
+  - COL11A2
+  - COL12A1
+  - COL13A1
+  - COL14A1
+  - COL15A1
+  - COL16A1
+  - COL17A1
+  - COL18A1
+  - COL19A1
+  - COL20A1
+  - COL21A1
+  - COL22A1
+  - COL23A1
+  - COL24A1
+  - COL25A1
+  - COL26A1
+  - COL27A1
+  - COL28A1
+  - COL1A1
+  - COL1A2
+  - COL4A1
+  - COL4A2
+  - COL4A3
+  - COL4A4
+  - COL4A5
+  - COL4A6
+  - COL5A1
+  - COL5A2
+  - COL5A3
+  - HADHA
   - PLAT
+  - MUPP
+  - PMP2
+  - TPSP1
+  - NR1I2
   - JTB
-  - RASA1
-  - NISCH
-  - FER
-  - PAK2
-  - PAK1
+  - CD44
+  - ITGB1BP1
+  - ATAT1
+  - SDC1
+  - NRCAM
+  - PTEN
+  - TRIO
   - BCAR1
+  - CRK
+  - NISCH
+  - NCAM2
+  - PHOX2A
+  - ETV6
+  - CTNNB1
+  - FYN
+  - WIPF1
+  - PAK2
+  - PKN2
+  - PAK1
+  - PKN1
+  - STMN1
+  - SMN1
+  - SNRPN
+  - WASL
+  - WASF1
+  - PLEC
+  - TSC1
+  - TSC2
+  - APP
+  - SUCLA2
+  - MYH6
+  - FER
+  - MYH14
+  - MYO6
+  - MYO10
+  - MYO16
+  - MYO19
+  - MYH1
+  - MYH10
+  - MYH11
+  - MYH13
+  - MYH15
+  - MYH16
+  - MYH2
+  - MYH3
+  - MYH4
+  - MYH7
+  - MYH7B
+  - MYH8
+  - MYH9
+  - MYO1A
+  - MYO1B
+  - MYO1C
+  - MYO1D
+  - MYO1E
+  - MYO1F
+  - MYO1G
+  - MYO1H
+  - MYO3A
+  - MYO3B
+  - MYO5A
+  - MYO5B
+  - MYO5C
+  - MYO7A
+  - MYO7B
+  - MYO9A
+  - MYO9B
+  - MYO15A
+  - MYO15B
+  - MYO18A
+  - MYO18B
+  - MYL1
+  - MYL3
+  - MYL4
+  - MYL6
+  - MYL6B
+  - MYL10
+  - MYL12A
+  - MYL12B
+  - MYL2
+  - MYL5
+  - MYL7
+  - MYL9
+  - MYL11
+  - MCAM
+  - RASA1
+  - RGS6
+  - GFAP
+  - JAM2
+  - JAM3
+  - MTDH
   - Beta-cerin
   - Cancer
-genes:
-- word: LYRIC
-  symbol: LYRIC
-  source: hgnc_alias_symbol
-  hgnc_symbol: MTDH
-  entrez: '92140'
-- word: (WAVE
-  symbol: WAVE
-  source: hgnc_alias_symbol
-  hgnc_symbol: WASF1
-  entrez: '8936'
-- word: TRIO
-  symbol: TRIO
-  source: hgnc_symbol
-  hgnc_symbol: TRIO
-  entrez: '7204'
-- word: WaspiP
-  symbol: WASPIP
-  source: hgnc_prev_symbol
-  hgnc_symbol: WIPF1
-  entrez: '7456'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: Syndecan
-  symbol: syndecan
-  source: hgnc_alias_symbol
-  hgnc_symbol: SDC1
-  entrez: '6382'
-- word: tel
-  symbol: TEL
-  source: hgnc_alias_symbol
-  hgnc_symbol: ETV6
-  entrez: '2120'
-- word: JAM2
-  symbol: JAM2
-  source: hgnc_symbol
-  hgnc_symbol: JAM2
-  entrez: '58494'
-- word: Beta-catenin
-  symbol: beta-catenin
-  source: hgnc_alias_symbol
-  hgnc_symbol: CTNNB1
-  entrez: '1499'
-- word: CD44
-  symbol: CD44
-  source: hgnc_symbol
-  hgnc_symbol: CD44
-  entrez: '960'
-- word: CRK
-  symbol: CRK
-  source: hgnc_symbol
-  hgnc_symbol: CRK
-  entrez: '1398'
-- word: TIMP1
-  symbol: TIMP1
-  source: hgnc_symbol
-  hgnc_symbol: TIMP1
-  entrez: '7076'
-- word: Plec1
-  symbol: PLEC1
-  source: hgnc_prev_symbol
-  hgnc_symbol: PLEC
-  entrez: '5339'
-- word: NCAM-2
-  symbol: NCAM2
-  source: hgnc_symbol
-  hgnc_symbol: NCAM2
-  entrez: '4685'
-- word: NRCAM
-  symbol: NRCAM
-  source: hgnc_symbol
-  hgnc_symbol: NRCAM
-  entrez: '4897'
-- word: NWASP
-  symbol: N-WASP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WASL
-  entrez: '8976'
-- word: MCAM
-  symbol: MCAM
-  source: hgnc_symbol
-  hgnc_symbol: MCAM
-  entrez: '4162'
-- word: Fyn
-  symbol: FYN
-  source: hgnc_symbol
-  hgnc_symbol: FYN
-  entrez: '2534'
-- word: GFAP
-  symbol: GFAP
-  source: hgnc_symbol
-  hgnc_symbol: GFAP
-  entrez: '2670'
-- word: ICAP-1
-  symbol: ICAP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ITGB1BP1
-  entrez: '9270'
-- word: мMP-2
-  symbol: MP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PMP2
-  entrez: '5375'
-- word: PLAT
-  symbol: PLAT
-  source: hgnc_symbol
-  hgnc_symbol: PLAT
-  entrez: '5327'
-- word: PAR
-  symbol: PAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: JTB
-  entrez: '10899'
-- word: GAP
-  symbol: GAP
-  source: hgnc_alias_symbol
-  hgnc_symbol: RASA1
-  entrez: '5921'
-- word: IRAS
-  symbol: IRAS
-  source: hgnc_alias_symbol
-  hgnc_symbol: NISCH
-  entrez: '11188'
-- word: Fer
-  symbol: FER
-  source: hgnc_symbol
-  hgnc_symbol: FER
-  entrez: '2241'
-- word: PAK1-2
-  symbol: PAK2
-  source: hgnc_symbol
-  hgnc_symbol: PAK2
-  entrez: '5062'
-- word: PAK1-2
-  symbol: PAK1
-  source: hgnc_symbol
-  hgnc_symbol: PAK1
-  entrez: '5058'
-- word: P130CAS
-  symbol: P130Cas
-  source: hgnc_alias_symbol
-  hgnc_symbol: BCAR1
-  entrez: '9564'
-chemicals:
-- word: Beta-cerin
-  source: MESH
-  identifier: C439990
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC4979452__F7
-redirect_from: /figures/PMC4979452__F7
-figtype: Figure
 ---

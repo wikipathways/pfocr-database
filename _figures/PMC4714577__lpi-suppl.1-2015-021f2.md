@@ -1,5 +1,10 @@
 ---
 figid: PMC4714577__lpi-suppl.1-2015-021f2
+figtitle: Schematic of the PG biogenesis pathway in E
+organisms:
+- NA
+pmcid: PMC4714577
+filename: lpi-suppl.1-2015-021f2.jpg
 figlink: /pmc/articles/PMC4714577/figure/f2-lpi-suppl.1-2015-021/
 number: F2
 caption: Schematic of the PG biogenesis pathway in E. coli. Synthesis of PG precursors
@@ -12,18 +17,22 @@ caption: Schematic of the PG biogenesis pathway in E. coli. Synthesis of PG prec
   bonds between stem peptides that are properly oriented in adjacent glycan chains,
   while CPs remove the terminal d-Ala residue of stem peptides. For more detailed
   description, refer to relevant reviews.,,
-pmcid: PMC4714577
 papertitle: Lipid Flippases for Bacterial Peptidoglycan Biosynthesis.
 reftext: Natividad Ruiz. Lipid Insights. 2015;8(Suppl 1):21-31.
-pmc_ranked_result_index: '101381'
-pathway_score: 0.932534
-filename: lpi-suppl.1-2015-021f2.jpg
-figtitle: Schematic of the PG biogenesis pathway in E
 year: '2015'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.932534
+figid_alias: PMC4714577__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC4714577__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,32 +54,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TG
-  - COL14A1
-  - CP
+  - cp
+  - Tg
+  - im
+  - und
+  - udp
+  - murG
+  - mraY
   - UDP
-genes:
-- word: TG
-  symbol: TG
-  source: hgnc_symbol
-  hgnc_symbol: TG
-  entrez: '7038'
-- word: Und-P
-  symbol: UND
-  source: hgnc_prev_symbol
-  hgnc_symbol: COL14A1
-  entrez: '7373'
-- word: CP
-  symbol: CP
-  source: hgnc_symbol
-  hgnc_symbol: CP
-  entrez: '1356'
-chemicals:
-- word: UDP
-  source: MESH
-  identifier: D014530
-diseases: []
-figid_alias: PMC4714577__F2
-redirect_from: /figures/PMC4714577__F2
-figtype: Figure
 ---

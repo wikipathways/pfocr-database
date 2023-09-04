@@ -1,5 +1,10 @@
 ---
 figid: PMC2869518__cshperspect-IMS-002485_F3
+figtitle: Proximal signaling events in the TCR-coupled signaling pathway
+organisms:
+- NA
+pmcid: PMC2869518
+filename: cshperspect-IMS-002485_F3.jpg
 figlink: /pmc/articles/PMC2869518/figure/A002485F3/
 number: F3
 caption: Proximal signaling events in the TCR-coupled signaling pathway. Interactions
@@ -10,18 +15,22 @@ caption: Proximal signaling events in the TCR-coupled signaling pathway. Interac
   its activation. ZAP-70 and Lck phosphorylate and activate several downstream target
   proteins eventually leading to Ras activation, calcium mobilization, and actin cytoskeleton
   rearrangements, and ultimately to the activation of transcription factors.
-pmcid: PMC2869518
 papertitle: ITAM-mediated Signaling by the T-Cell Antigen Receptor.
 reftext: Paul E. Love, et al. Cold Spring Harb Perspect Biol. 2010 Jun;2(6):a002485.
-pmc_ranked_result_index: '54864'
-pathway_score: 0.9239634
-filename: cshperspect-IMS-002485_F3.jpg
-figtitle: Proximal signaling events in the TCR-coupled signaling pathway
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9239634
+figid_alias: PMC2869518__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2869518__F3
 ndex: f07cb3a0-df0b-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -42,400 +51,117 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - NFATC4
-  - MAPK3
-  - NFATC2
-  - PPP3R2
-  - MAP2K1
-  - NCK1
-  - LCK
-  - PPP3CB
-  - CD4
-  - NFATC3
-  - MAPK1
-  - GRB2
-  - RASGRP2
-  - LAT
-  - MAPK9
-  - MAPK10
-  - MAPK12
-  - RASGRP4
-  - MAPK13
-  - VAV2
-  - RASGRP1
-  - MAPK8
-  - PPP3CC
-  - CDC42
-  - SOS1
-  - PPP3CA
-  - NFATC1
-  - NFAT5
-  - PRKCQ
-  - PRKCI
-  - MAP2K2
-  - VAV3
-  - VAV1
-  - ACTC1
-  - ACTG1
-  - ACTG2
-  - RASGRP3
-  - LCP2
-  - MAPK14
-  - SOS2
+  - Tcr
+  - et
+  - Orc3
+  - Lk
+  - drk
+  - Sos
+  - ca
+  - dock
+  - Nckx30C
+  - Vav
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - rack
+  - ras
+  - Ras64B
+  - Ras85D
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - Cdc42
+  - Raf
+  - Dsor1
+  - Mtk
+  - NFAT
+  - bsk
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - AIMP2
+  - p38a
+  - Hrb87F
+  - p38c
+  - Erk7
+  - rl
+  - TRBV20OR9-2
   - TRA
   - TRB
-  - ACTA2
-  - MAPK11
+  - TRD
+  - TRG
+  - CD4
+  - LAT
+  - ORC3
+  - SPNS1
+  - LCK
+  - GRB2
+  - LCP2
+  - XYLT2
+  - SOS1
+  - SOS2
+  - RASGRP1
+  - RASGRP2
+  - RASGRP3
+  - RASGRP4
+  - NCK1
+  - VAV1
+  - VAV2
+  - VAV3
+  - PRRT2
   - PRKCA
   - PRKCB
   - PRKCD
-  - TRD
+  - PRKCE
   - PRKCG
-  - PPP3R1
-  - ARAF
   - PRKCH
-  - TRG
+  - PRKCI
+  - PRKCQ
   - PRKCZ
-  - NRAS
-  - ACTB
-  - ACTA1
+  - PRKD3
   - KRAS
   - HRAS
+  - NRAS
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - CDC42
+  - ZHX2
+  - ARAF
   - BRAF
-  - PRKCE
   - RAF1
-  - PRKD3
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - NFATC1
+  - NFATC2
+  - NFATC3
+  - NFATC4
+  - NFAT5
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - CRK
+  - MAPK14
+  - MAPK1
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - EPHB2
+  - MAPK3
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome
-genes:
-- word: NF-AT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC4
-  entrez: '4776'
-- word: Erk
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: NF-AT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC2
-  entrez: '4773'
-- word: Calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3R2
-  entrez: '5535'
-- word: Mek
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: Nck
-  symbol: NCK
-  source: hgnc_prev_symbol
-  hgnc_symbol: NCK1
-  entrez: '4690'
-- word: Lck
-  symbol: LCK
-  source: hgnc_symbol
-  hgnc_symbol: LCK
-  entrez: '3932'
-- word: Calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CB
-  entrez: '5532'
-- word: CD4
-  symbol: CD4
-  source: hgnc_symbol
-  hgnc_symbol: CD4
-  entrez: '920'
-- word: NF-AT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC3
-  entrez: '4775'
-- word: Erk
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: Grb2
-  symbol: GRB2
-  source: hgnc_symbol
-  hgnc_symbol: GRB2
-  entrez: '2885'
-- word: RasGRP
-  symbol: RASGRP
-  source: bioentities_symbol
-  hgnc_symbol: RASGRP2
-  entrez: '10235'
-- word: LAT
-  symbol: LAT
-  source: hgnc_symbol
-  hgnc_symbol: LAT
-  entrez: '27040'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: RasGRP
-  symbol: RASGRP
-  source: bioentities_symbol
-  hgnc_symbol: RASGRP4
-  entrez: '115727'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: Vav
-  symbol: VAV
-  source: bioentities_symbol
-  hgnc_symbol: VAV2
-  entrez: '7410'
-- word: RasGRP
-  symbol: RASGRP
-  source: bioentities_symbol
-  hgnc_symbol: RASGRP1
-  entrez: '10125'
-- word: JNK/p38
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: Calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CC
-  entrez: '5533'
-- word: Cdc42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-- word: Sos
-  symbol: SOS
-  source: bioentities_symbol
-  hgnc_symbol: SOS1
-  entrez: '6654'
-- word: Calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CA
-  entrez: '5530'
-- word: NF-AT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFATC1
-  entrez: '4772'
-- word: NF-AT
-  symbol: NFAT
-  source: bioentities_symbol
-  hgnc_symbol: NFAT5
-  entrez: '10725'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCQ
-  entrez: '5588'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCI
-  entrez: '5584'
-- word: Mek
-  symbol: MEK
-  source: bioentities_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: Vav
-  symbol: VAV
-  source: bioentities_symbol
-  hgnc_symbol: VAV3
-  entrez: '10451'
-- word: Vav
-  symbol: VAV
-  source: bioentities_symbol
-  hgnc_symbol: VAV1
-  entrez: '7409'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: RasGRP
-  symbol: RASGRP
-  source: bioentities_symbol
-  hgnc_symbol: RASGRP3
-  entrez: '25780'
-- word: SLP-76
-  symbol: SLP-76
-  source: hgnc_alias_symbol
-  hgnc_symbol: LCP2
-  entrez: '3937'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: Sos
-  symbol: SOS
-  source: bioentities_symbol
-  hgnc_symbol: SOS2
-  entrez: '6655'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: JNK/p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCA
-  entrez: '5578'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCB
-  entrez: '5579'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCD
-  entrez: '5580'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCG
-  entrez: '5582'
-- word: Calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3R1
-  entrez: '5534'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCH
-  entrez: '5583'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCZ
-  entrez: '5590'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKCE
-  entrez: '5581'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: PKC
-  symbol: PKC
-  source: bioentities_symbol
-  hgnc_symbol: PRKD3
-  entrez: '23683'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-- word: Cardiomyopathy
-  source: ''
-  identifier: ''
-- word: Noonan syndrome
-  source: ''
-  identifier: ''
-figid_alias: PMC2869518__F3
-redirect_from: /figures/PMC2869518__F3
-figtype: Figure
 ---

@@ -1,5 +1,20 @@
 ---
 figid: PMC4292169__cshperspect-RCM-016634_F1
+figtitle: The meiotic recombination pathway
+organisms:
+- Saccharomyces cerevisiae
+- Arabidopsis thaliana
+- Oryza sativa
+- Schizosaccharomyces pombe
+- Coprinopsis cinerea
+- Sordaria macrospora
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
+- Mus musculus
+- Methanocaldococcus jannaschii
+pmcid: PMC4292169
+filename: cshperspect-RCM-016634_F1.jpg
 figlink: /pmc/articles/PMC4292169/figure/A016634F1/
 number: F1
 caption: The meiotic recombination pathway. A segment of one sister chromatid from
@@ -15,28 +30,24 @@ caption: The meiotic recombination pathway. A segment of one sister chromatid fr
   synthesis and reanneals to the other 3′ end of the DSB, followed by further DNA
   synthesis and nick ligation, ultimately giving rise to noncrossover recombinant
   products.
-pmcid: PMC4292169
 papertitle: Mechanism and Regulation of Meiotic Recombination Initiation.
 reftext: Isabel Lam, et al. Cold Spring Harb Perspect Biol. 2015 Jan;7(1):a016634.
-pmc_ranked_result_index: '74703'
-pathway_score: 0.837244
-filename: cshperspect-RCM-016634_F1.jpg
-figtitle: The meiotic recombination pathway
 year: '2015'
-organisms:
-- Mus musculus
-- Methanocaldococcus jannaschii
-- Arabidopsis thaliana
-- Oryza sativa
-- Schizosaccharomyces pombe
-- Saccharomyces cerevisiae
-- Sordaria macrospora
-- Coprinopsis cinerea
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.837244
+figid_alias: PMC4292169__F1
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 - Caenorhabditis elegans
 - Drosophila melanogaster
-- Homo sapiens
+redirect_from: /figures/PMC4292169__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,40 +72,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EXO1
   - SPO11
-  - ENG
+  - SAE2
   - MRE11
+  - EXO1
+  - RBBP8
   - UBA2
-genes:
-- word: Exo1
-  symbol: EXO1
-  source: hgnc_symbol
-  hgnc_symbol: EXO1
-  entrez: '9156'
-- word: Spo11
-  symbol: SPO11
-  source: hgnc_symbol
-  hgnc_symbol: SPO11
-  entrez: '23626'
-- word: end
-  symbol: END
-  source: hgnc_alias_symbol
-  hgnc_symbol: ENG
-  entrez: '2022'
-- word: Mre11,
-  symbol: MRE11
-  source: hgnc_symbol
-  hgnc_symbol: MRE11
-  entrez: '4361'
-- word: Sae2
-  symbol: SAE2
-  source: hgnc_prev_symbol
-  hgnc_symbol: UBA2
-  entrez: '10054'
-chemicals: []
-diseases: []
-figid_alias: PMC4292169__F1
-redirect_from: /figures/PMC4292169__F1
-figtype: Figure
+  - spo-11
+  - mre-11
+  - exo-1
+  - mei-W68
+  - dsb
+  - Uba2
+  - mre11
+  - Imp
 ---

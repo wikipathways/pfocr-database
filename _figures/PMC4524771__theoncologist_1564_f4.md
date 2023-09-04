@@ -1,5 +1,10 @@
 ---
 figid: PMC4524771__theoncologist_1564_f4
+figtitle: Proposed anticancer mechanisms of itraconazole
+organisms:
+- NA
+pmcid: PMC4524771
+filename: theoncologist_1564_f4.jpg
 figlink: /pmc/articles/PMC4524771/figure/F4/
 number: F4
 caption: 'Proposed anticancer mechanisms of itraconazole. Itraconazole can inhibit
@@ -10,19 +15,23 @@ caption: 'Proposed anticancer mechanisms of itraconazole. Itraconazole can inhib
   lung cancer cells. Reproduced from [] with permission from the publisher.Abbreviations:
   LDL, low-density lipoprotein; mTOR, mammalian target of rapamycin; VEGFR2, vascular
   endothelial growth factor receptor 2; SMO, smoothened.'
-pmcid: PMC4524771
 papertitle: 'Therapeutic Effects of Repurposed Therapies in Non-Small Cell Lung Cancer:
   What Is Old Is New Again.'
 reftext: Ashish Saxena, et al. Oncologist. 2015 Aug;20(8):934-945.
-pmc_ranked_result_index: '23915'
-pathway_score: 0.8503258
-filename: theoncologist_1564_f4.jpg
-figtitle: Proposed anticancer mechanisms of itraconazole
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8503258
+figid_alias: PMC4524771__F4
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC4524771__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -42,54 +51,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SHH
+  - modSP
+  - pit
+  - lds
+  - smo
+  - sm
+  - Mtor
+  - Tor
+  - IRF6
+  - SMO
+  - SMOX
   - MTOR
   - KDR
   - DHH
   - IHH
-  - SMO
+  - SHH
   - Cholesterol
   - Itraconazole
-genes:
-- word: Hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: SHH
-  entrez: '6469'
-- word: MTOR,
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: VEGFR2
-  symbol: VEGFR2
-  source: hgnc_alias_symbol
-  hgnc_symbol: KDR
-  entrez: '3791'
-- word: Hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: DHH
-  entrez: '50846'
-- word: Hedgehog
-  symbol: Hedgehog
-  source: bioentities_symbol
-  hgnc_symbol: IHH
-  entrez: '3549'
-- word: SMO
-  symbol: SMO
-  source: hgnc_symbol
-  hgnc_symbol: SMO
-  entrez: '6608'
-chemicals:
-- word: Cholesterol
-  source: MESH
-  identifier: D002784
-- word: Itraconazole
-  source: MESH
-  identifier: D017964
-diseases: []
-figid_alias: PMC4524771__F4
-redirect_from: /figures/PMC4524771__F4
-figtype: Figure
 ---

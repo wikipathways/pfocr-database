@@ -1,5 +1,12 @@
 ---
 figid: PMC8018703__oncoscience-08-01-g001
+figtitle: 'Monitoring vascular normalization: new opportunities for mitochondrial
+  inhibitors in breast cancer'
+organisms:
+- Homo sapiens
+- Mus musculus
+pmcid: PMC8018703
+filename: oncoscience-08-01-g001.jpg
 figlink: pmc/articles/PMC8018703/figure/F1/
 number: F1
 caption: A. Cancer cells develop metabolic plasticity in order to satisfy the sufficient
@@ -24,21 +31,22 @@ caption: A. Cancer cells develop metabolic plasticity in order to satisfy the su
   play a central role in cancer development. Targeting electron transport chain complex
   I using specific inhibitors such as metformin, phenformin, ME-344 and IACS-010759
   is considered an attractive therapeutic strategy to selectively kill cancer cells.
-pmcid: PMC8018703
 papertitle: 'Monitoring vascular normalization: new opportunities for mitochondrial
   inhibitors in breast cancer.'
 reftext: Silvana Mouron, et al. Oncoscience. 2021;8:1-13.
-pmc_ranked_result_index: '26963'
-pathway_score: 0.9398782
-filename: oncoscience-08-01-g001.jpg
-figtitle: 'Monitoring vascular normalization: new opportunities for mitochondrial
-  inhibitors in breast cancer'
 year: '2021'
-organisms:
-- Mus musculus
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9398782
+figid_alias: PMC8018703__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC8018703__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -73,9 +81,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IDH2
-  - IDH1
-  - WDTC1
   - Citrate
   - Isocitrate
   - NADP
@@ -100,97 +105,4 @@ schema-jsonld:
   - Fumarate
   - NAD
   - Pentose phophate
-genes:
-- word: IDH2
-  symbol: IDH2
-  source: hgnc_symbol
-  hgnc_symbol: IDH2
-  entrez: '3418'
-- word: IDH1
-  symbol: IDH1
-  source: hgnc_symbol
-  hgnc_symbol: IDH1
-  entrez: '3417'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-chemicals:
-- word: Citrate
-  source: MESH
-  identifier: C102006
-- word: Isocitrate
-  source: MESH
-  identifier: D007523
-- word: NADP
-  source: MESH
-  identifier: D009249
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: ketoglutarate
-  source: MESH
-  identifier: C029743
-- word: NADRH
-  source: ''
-  identifier: ''
-- word: Ivosidenib
-  source: ''
-  identifier: ''
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: DON
-  source: MESH
-  identifier: C043247
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Citrate Acetyl
-  source: MESH
-  identifier: C102006
-- word: TCA a-ketoglutarate
-  source: MESH
-  identifier: C029743
-- word: Metformin
-  source: MESH
-  identifier: D008687
-- word: Phenformin
-  source: MESH
-  identifier: D010629
-- word: IACS-010759
-  source: ''
-  identifier: ''
-- word: Succinate
-  source: MESH
-  identifier: D013386
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Fumarate
-  source: MESH
-  identifier: D005650
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: Pentose phophate
-  source: MESH
-  identifier: D010429
-diseases: []
-figid_alias: PMC8018703__F1
-redirect_from: /figures/PMC8018703__F1
-figtype: Figure
 ---

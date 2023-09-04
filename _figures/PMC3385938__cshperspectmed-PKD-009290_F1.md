@@ -1,5 +1,11 @@
 ---
 figid: PMC3385938__cshperspectmed-PKD-009290_F1
+figtitle: The plasma proteins that regulate ionic gradients following neurotransmitter
+  release or during the time course of an action potential spike
+organisms:
+- NA
+pmcid: PMC3385938
+filename: cshperspectmed-PKD-009290_F1.jpg
 figlink: /pmc/articles/PMC3385938/figure/A009290F1/
 number: F1
 caption: Schematic representation of the plasma proteins that regulate ionic gradients
@@ -20,19 +26,21 @@ caption: Schematic representation of the plasma proteins that regulate ionic gra
   SERCA, PMCA, NCX, and the Na/K ATPase all require ATP as the energy source to maintain
   these gradients, and this ATP consumption can have a strong impact on the bioenergetics
   of the cell to maintain normal levels of intracellular Ca2+.
-pmcid: PMC3385938
 papertitle: Physiological Phenotype and Vulnerability in Parkinson's Disease.
 reftext: D. James Surmeier, et al. Cold Spring Harb Perspect Med. 2012 Jul;2(7):a009290.
-pmc_ranked_result_index: '103096'
-pathway_score: 0.9133309
-filename: cshperspectmed-PKD-009290_F1.jpg
-figtitle: The plasma proteins that regulate ionic gradients following neurotransmitter
-  release or during the time course of an action potential spike
 year: '2012'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9133309
+figid_alias: PMC3385938__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3385938__F1
 ndex: 492431de-de9a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -63,80 +71,25 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ATP2A3
-  - TLX2
-  - OPN1LW
-  - BRD2
-  - CAV3
-  - ATP2A2
-  - ATP2A1
-  - CAV2
-  - WDTC1
-  - RYR1
-  - CAV1
+  - Lon
+  - schlank
+  - mv
+  - cav
+  - PMCA
+  - Calx
+  - na
+  - Vha14-1
+  - ATPsynbeta
+  - Atpalpha
+  - GluRIIC
+  - GluRIIA
+  - mGluR
+  - adp
+  - RyR
+  - Itpr
+  - CBP
+  - nej
+  - eIF4E1
+  - SERCA
   - Glu
-genes:
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A3
-  entrez: '489'
-- word: NCX
-  symbol: NCX
-  source: hgnc_alias_symbol
-  hgnc_symbol: TLX2
-  entrez: '3196'
-- word: CBP
-  symbol: CBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: OPN1LW
-  entrez: '5956'
-- word: Nat
-  symbol: NAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: BRD2
-  entrez: '6046'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV3
-  entrez: '859'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A2
-  entrez: '488'
-- word: SERCA
-  symbol: SERCA
-  source: bioentities_symbol
-  hgnc_symbol: ATP2A1
-  entrez: '487'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV2
-  entrez: '858'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: IP3R/RyR
-  symbol: RYR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RYR1
-  entrez: '6261'
-- word: Cav
-  symbol: CAV
-  source: bioentities_symbol
-  hgnc_symbol: CAV1
-  entrez: '857'
-chemicals:
-- word: Glu
-  source: MESH
-  identifier: D018698
-diseases: []
-figid_alias: PMC3385938__F1
-redirect_from: /figures/PMC3385938__F1
-figtype: Figure
 ---

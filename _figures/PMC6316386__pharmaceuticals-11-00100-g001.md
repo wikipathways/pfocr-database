@@ -1,5 +1,20 @@
 ---
 figid: PMC6316386__pharmaceuticals-11-00100-g001
+figtitle: Transient receptor potential (TRP) channels and itch signaling
+organisms:
+- Allium sativum
+- Thymus vulgaris
+- Origanum vulgare
+- Syzygium aromaticum
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Caenorhabditis elegans
+- Phytomonas oxycareni
+- Homo sapiens
+- Bos taurus
+pmcid: PMC6316386
+filename: pharmaceuticals-11-00100-g001.jpg
 figlink: /pmc/articles/PMC6316386/figure/pharmaceuticals-11-00100-f001/
 number: F1
 caption: 'Transient receptor potential (TRP) channels and itch signaling. Six TRP
@@ -28,28 +43,25 @@ caption: 'Transient receptor potential (TRP) channels and itch signaling. Six TR
   selective serotonin reuptake inhibitor (SSRI)-evoked pruritus. Unlike other TRP
   channels, TRPM8 activation inhibits itch and is required for cooling- and menthol-mediated
   itch inhibition.'
-pmcid: PMC6316386
 papertitle: TRP Channels as Drug Targets to Relieve Itch.
 reftext: Zili Xie, et al. Pharmaceuticals (Basel). 2018 Dec;11(4):100.
-pmc_ranked_result_index: '95335'
-pathway_score: 0.8409762
-filename: pharmaceuticals-11-00100-g001.jpg
-figtitle: Transient receptor potential (TRP) channels and itch signaling
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8409762
+figid_alias: PMC6316386__F1
+figtype: Figure
+organisms_ner:
+- Homo sapiens
 - Mus musculus
 - Rattus norvegicus
-- Cavia porcellus
-- Phytomonas oxycareni
-- Syzygium aromaticum
-- Origanum vulgare
-- Allium sativum
-- Thymus vulgaris
-- Caenorhabditis elegans
-- Homo sapiens
 - Bos taurus
+- Cavia porcellus
+redirect_from: /figures/PMC6316386__F1
 ndex: 024f4f03-df24-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -87,207 +99,73 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PLCG1
-  - PLCB2
-  - PLCB3
-  - PLCD1
-  - AP1B1
-  - IL31
-  - LPA
-  - PLCB4
-  - PLCD3
-  - PLCB1
-  - PLCE1
+  - TRPA1
+  - TRPV1
+  - F2RL1
+  - NR1I2
+  - SLC52A1
   - TRPV4
-  - TSLP
-  - CRLF2
-  - PLCG2
-  - PLCD4
-  - HTR7
-  - PLCZ1
-  - MBTPS1
-  - S1PR3
+  - SPACA9
+  - SPG21
+  - TRPV3
   - TRPC4
   - TRPM8
-  - TRPV1
-  - TRPV3
-  - KCNJ4
-  - HTR2B
+  - LPA
+  - TSLP
+  - IL31
+  - AP1B1
+  - MIR711
+  - CRLF2
   - HRH4
-  - TRPA1
+  - KCNJ4
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - HTR7
+  - S1PR3
+  - CORD1
+  - MBTPS1
+  - HTR2B
+  - RNU1-93P
+  - LYVE1
+  - Trpa1
+  - Trpv1
+  - Par2
+  - F2rl1
+  - Slc52a2
+  - Trpv4
+  - Spg21
+  - Spaca9
+  - Trpv3
+  - Trpc4
+  - Trpm8
+  - Tslp
+  - Il31
+  - Mllt1
+  - Mir711
+  - Crlf2
+  - Hrh4
+  - Hrh1
+  - Hspg2
+  - Htr7
+  - S1pr3
+  - S1pr1
+  - Mbtps1
+  - Htr2b
+  - PLG
   - 5-HT
   - Histamine
   - Cyclic phosphatidic acid Sertraline
   - LPA
   - Bile acid
   - Adenylate
-genes:
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG1
-  entrez: '5335'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD1
-  entrez: '5333'
-- word: BAM8-22
-  symbol: BAM22
-  source: hgnc_alias_symbol
-  hgnc_symbol: AP1B1
-  entrez: '162'
-- word: IL-31
-  symbol: IL-31
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL31
-  entrez: '386653'
-- word: IL,31
-  symbol: IL31
-  source: hgnc_symbol
-  hgnc_symbol: IL31
-  entrez: '386653'
-- word: LPA
-  symbol: LPA
-  source: hgnc_symbol
-  hgnc_symbol: LPA
-  entrez: '4018'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD3
-  entrez: '113026'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCE1
-  entrez: '51196'
-- word: TRPV4
-  symbol: TRPV4
-  source: hgnc_symbol
-  hgnc_symbol: TRPV4
-  entrez: '59341'
-- word: TSLP
-  symbol: TSLP
-  source: hgnc_symbol
-  hgnc_symbol: TSLP
-  entrez: '85480'
-- word: TŠLPR
-  symbol: TSLPR
-  source: hgnc_alias_symbol
-  hgnc_symbol: CRLF2
-  entrez: '64109'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG2
-  entrez: '5336'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD4
-  entrez: '84812'
-- word: HTR7
-  symbol: HTR7
-  source: hgnc_symbol
-  hgnc_symbol: HTR7
-  entrez: '3363'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCZ1
-  entrez: '89869'
-- word: S1P
-  symbol: S1P
-  source: hgnc_alias_symbol
-  hgnc_symbol: MBTPS1
-  entrez: '8720'
-- word: S1PR3
-  symbol: S1PR3
-  source: hgnc_symbol
-  hgnc_symbol: S1PR3
-  entrez: '1903'
-- word: TRPC4
-  symbol: TRPC4
-  source: hgnc_symbol
-  hgnc_symbol: TRPC4
-  entrez: '7223'
-- word: TRPM8
-  symbol: TRPM8
-  source: hgnc_symbol
-  hgnc_symbol: TRPM8
-  entrez: '79054'
-- word: TRPV1(+)
-  symbol: TRPV1
-  source: hgnc_symbol
-  hgnc_symbol: TRPV1
-  entrez: '7442'
-- word: TRPV3
-  symbol: TRPV3
-  source: hgnc_symbol
-  hgnc_symbol: TRPV3
-  entrez: '162514'
-- word: HIR/H4R
-  symbol: HIR
-  source: hgnc_alias_symbol
-  hgnc_symbol: KCNJ4
-  entrez: '3761'
-- word: HTR2B
-  symbol: HTR2B
-  source: hgnc_symbol
-  hgnc_symbol: HTR2B
-  entrez: '3357'
-- word: HIR/H4R
-  symbol: H4R
-  source: hgnc_alias_symbol
-  hgnc_symbol: HRH4
-  entrez: '59340'
-- word: TRPA1(+)
-  symbol: TRPA1
-  source: hgnc_symbol
-  hgnc_symbol: TRPA1
-  entrez: '8989'
-chemicals:
-- word: 5-HT
-  source: MESH
-  identifier: D012701
-- word: Histamine
-  source: MESH
-  identifier: D006632
-- word: Cyclic phosphatidic acid Sertraline
-  source: MESH
-  identifier: D020280
-- word: LPA
-  source: MESH
-  identifier: C522988
-- word: Bile acid
-  source: MESH
-  identifier: D001647
-- word: Adenylate
-  source: MESH
-  identifier: C017987
-diseases: []
-figid_alias: PMC6316386__F1
-redirect_from: /figures/PMC6316386__F1
-figtype: Figure
 ---

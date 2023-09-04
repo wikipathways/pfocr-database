@@ -1,5 +1,11 @@
 ---
 figid: PMC3539548__medscimonit-17-6-RA148-g001
+figtitle: Host cell machinery gets activated during influenza infection and leads
+  to trigger Signaling pathways
+organisms:
+- NA
+pmcid: PMC3539548
+filename: medscimonit-17-6-RA148-g001.jpg
 figlink: /pmc/articles/PMC3539548/figure/f1-medscimonit-17-6-ra148/
 number: F1
 caption: 'Host cell machinery gets activated during influenza infection and leads
@@ -12,19 +18,22 @@ caption: 'Host cell machinery gets activated during influenza infection and lead
   JNK pathway; B, p38 pathway; C, ERK1/2 patyhway; D, ERK5 pathway); 4, protein kinase
   C (PKC)/PKR signaling; 5, TLR/RIG-I signaling.Symbols used in the Figure: ⊣ inhibition;
   ⇢ unknown mechanism; → direct activation; ⇆ reversible process.'
-pmcid: PMC3539548
 papertitle: Influenza virus and cell signaling pathways.
 reftext: Pratibha Gaur, et al. Med Sci Monit. 2011;17(6):RA148-RA154.
-pmc_ranked_result_index: '38272'
-pathway_score: 0.964634
-filename: medscimonit-17-6-RA148-g001.jpg
-figtitle: Host cell machinery gets activated during influenza infection and leads
-  to trigger Signaling pathways
 year: '2011'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.964634
+figid_alias: PMC3539548__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3539548__F1
 ndex: 7b8ac93b-ded3-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,229 +56,93 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R5
-  - RAF1
-  - JUN
-  - CCL5
+  - ha
+  - l(1)G0020
+  - Taf4
+  - Pi3K92E
+  - Rpn2
+  - Sap-r
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - Np
+  - Pi3K59F
+  - Pi3K68D
+  - Ns1
+  - Raf
+  - Dsor1
+  - kk
+  - bsk
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - AIMP2
+  - p38a
+  - Hrb87F
+  - p38c
+  - eIF2alpha
+  - eIF2A
+  - Dronc
+  - Decay
+  - N-b
+  - Jra
+  - Atf-2
+  - CG44247
+  - AP-1gamma
+  - kay
   - RBBP9
-  - BRAF
-  - FOSL1
-  - PIK3R6
-  - MAPK12
-  - JUND
-  - ARAF
-  - PIK3CB
-  - MAPK13
-  - EIF2AK2
-  - MAPK7
-  - ATF2
+  - CUX1
   - SART3
-  - MAPK14
-  - FOS
-  - JUNB
-  - IVNS1ABP
-  - MAPK11
-  - MAP2K2
-  - MAPK10
-  - PIK3CG
-  - FOSL2
-  - FOSB
-  - MAP2K1
-  - PIK3R4
+  - PIK3R1
+  - PIK3R2
+  - ARHGEF7
+  - CBFA2T2
+  - PPP1R13B
+  - PPP1R12C
+  - EIF2AK2
   - PIK3CA
-  - F2
+  - PIK3CB
   - PIK3CD
+  - PIK3CG
   - PIK3R3
-  - MAPK9
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PTPN11
+  - IVNS1ABP
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - F2
+  - MAP2K1
+  - MAP2K2
   - MAPK8
+  - MAPK9
+  - MAPK10
+  - CRK
+  - MAPK14
+  - MAPK1
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK7
+  - EIF2A
+  - EIF2S1
+  - JUN
+  - ATF2
+  - GDNF
+  - IFNA17
+  - CCL5
+  - FOS
+  - FOSB
+  - JUNB
+  - JUND
+  - PEX10
+  - PEX13
   - Cancer
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: RAF1
-  entrez: '5894'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: -RANTES
-  symbol: RANTES
-  source: hgnc_alias_symbol
-  hgnc_symbol: CCL5
-  entrez: '6352'
-- word: bog
-  symbol: Bog
-  source: hgnc_alias_symbol
-  hgnc_symbol: RBBP9
-  entrez: '10741'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: BRAF
-  entrez: '673'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSL1
-  entrez: '8061'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUND
-  entrez: '3727'
-- word: Raf
-  symbol: RAF
-  source: bioentities_symbol
-  hgnc_symbol: ARAF
-  entrez: '369'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: PKR
-  symbol: PKR
-  source: hgnc_alias_symbol
-  hgnc_symbol: EIF2AK2
-  entrez: '5610'
-- word: ERK5
-  symbol: ERK5
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAPK7
-  entrez: '5598'
-- word: ATF-2
-  symbol: ATF2
-  source: hgnc_symbol
-  hgnc_symbol: ATF2
-  entrez: '1386'
-- word: p110
-  symbol: p110
-  source: hgnc_alias_symbol
-  hgnc_symbol: SART3
-  entrez: '9733'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOS
-  entrez: '2353'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: JUNB
-  entrez: '3726'
-- word: NS1
-  symbol: NS-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: IVNS1ABP
-  entrez: '10625'
-- word: p38
-  symbol: p38
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: MEK1/2
-  symbol: MEK2
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K2
-  entrez: '5605'
-- word: CJun
-  symbol: c-Jun
-  source: hgnc_alias_symbol
-  hgnc_symbol: JUN
-  entrez: '3725'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSL2
-  entrez: '2355'
-- word: AP-1
-  symbol: AP1
-  source: bioentities_symbol
-  hgnc_symbol: FOSB
-  entrez: '2354'
-- word: MEK1/2
-  symbol: MEK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP2K1
-  entrez: '5604'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: F2
-  symbol: F2
-  source: hgnc_symbol
-  hgnc_symbol: F2
-  entrez: '2147'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: JNK
-  symbol: JNK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-chemicals: []
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3539548__F1
-redirect_from: /figures/PMC3539548__F1
-figtype: Figure
 ---

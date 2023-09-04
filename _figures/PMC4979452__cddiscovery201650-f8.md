@@ -1,5 +1,10 @@
 ---
 figid: PMC4979452__cddiscovery201650-f8
+figtitle: Cytoskeleton remodeling and axonal transport
+organisms:
+- NA
+pmcid: PMC4979452
+filename: cddiscovery201650-f8.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig8/
 number: F8
 caption: 'Cytoskeleton remodeling and axonal transport. The cytoskeleton consists
@@ -25,19 +30,22 @@ caption: 'Cytoskeleton remodeling and axonal transport. The cytoskeleton consist
   with ephrin-A receptors increases cellular adhesion. Conversely, activation of ephrin-B1
   leads to the disassembly of focal adhesions. Pathway objects and links are described
   separately in .'
-pmcid: PMC4979452
 papertitle: 'Transcriptional landscapes at the intersection of neuronal apoptosis
   and substance P-induced survival: exploring pathways and drug targets.'
 reftext: S Paparone, et al. Cell Death Discov. 2016;2:16050.
-pmc_ranked_result_index: '136795'
-pathway_score: 0.8838834
-filename: cddiscovery201650-f8.jpg
-figtitle: Cytoskeleton remodeling and axonal transport
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8838834
+figid_alias: PMC4979452__F8
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4979452__F8
 ndex: 8c542a0f-df13-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -73,357 +81,171 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ACTG2
-  - EQTN
-  - DCTN2
-  - FARP2
-  - ACTG1
-  - NGFR
-  - TUBA1B
-  - GFAP
-  - AKT3
-  - ACTB
-  - ROCK1
-  - TUBB3
-  - CXCL12
   - SLIT2
-  - SRGAP2
-  - ROCK2
-  - TUBB2A
-  - AKT1
-  - AKT2
-  - TUBA3C
-  - TUBA1C
-  - VAV2
-  - DCTN1
-  - TUBD1
-  - TUBE1
-  - TUBA8
-  - TUBA4A
-  - AKAP13
+  - SLIT3
+  - CXCL12
+  - NTN1
+  - NTN3
+  - NTN4
+  - ROBO1
+  - ROBO2
+  - ROBO3
+  - CXCR4
+  - GNAO1
+  - GNAI1
+  - GNAI2
+  - GNAI3
+  - GNAT1
+  - GNAT2
+  - GNAT3
+  - GNAZ
+  - GNAS
+  - GNAL
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - GNA12
+  - GNA13
+  - NGFR
   - LINGO1
-  - MARCKS
-  - NEFH
-  - TUBB4A
-  - ACTC1
-  - ACTA1
-  - ACTA2
-  - REPS1
-  - RAC1
-  - TUBB
-  - TUBG2
-  - HRAS
+  - NTNG2
+  - OPA1
+  - MED12
+  - EQTN
+  - AKAP13
+  - VAV2
+  - PAFAH1B1
+  - PLA2G7
+  - NEFM
   - ARHGEF1
+  - HRAS
+  - NEFH
+  - NDEL1
+  - SRGAP2
+  - SRGAP3
+  - MARCKS
+  - DYNC1H1
+  - DYNC1I1
+  - DYNC1I2
+  - DYNC1LI1
+  - DYNC1LI2
+  - DYNLL1
+  - DYNLL2
+  - DYNLRB1
+  - DYNLRB2
+  - DYNLT1
+  - DYNLT3
+  - DYNC2H1
+  - DYNC2LI1
+  - DYNLT2B
+  - DYNC2I1
+  - DYNC2I2
+  - DNAI7
+  - DNAH1
+  - DNAH10
+  - DNAH12
+  - DNAH14
+  - DNAH2
+  - DNAH3
+  - DNAH6
+  - DNAH7
+  - DNAI3
+  - DNAI4
+  - DNAH11
+  - DNAH17
+  - DNAH5
+  - DNAH8
+  - DNAH9
+  - DNAI1
+  - DNAI2
+  - DNAL1
+  - DNAL4
+  - DYNLT2
   - CDC42
   - DPYSL2
-  - TUBG1
-  - TUBA3E
-  - TUBA3D
-  - TUBAL3
-  - CXCR4
-  - TUBB2B
+  - REPS1
+  - DCTN1
+  - DCTN2
+  - FARP2
+  - RAC1
+  - RNASE1
+  - AKT1
+  - AKT2
+  - AKT3
+  - CENPE
+  - KIF11
+  - KIF12
+  - KIF13A
+  - KIF13B
+  - KIF14
+  - KIF15
+  - KIF16B
+  - KIF17
+  - KIF18A
+  - KIF18B
+  - KIF19
+  - KIF1A
+  - KIF1B
+  - KIF1C
+  - KIF20A
+  - KIF20B
+  - KIF21A
+  - KIF21B
+  - KIF22
+  - KIF23
+  - KIF24
+  - KIF25
+  - KIF26A
+  - KIF26B
+  - KIF27
+  - KIF2A
+  - KIF2B
+  - KIF2C
+  - KIF3A
+  - KIF3B
+  - KIF3C
+  - KIF4A
+  - KIF4B
+  - KIF5A
+  - KIF5B
+  - KIF5C
+  - KIF6
+  - KIF7
+  - KIF9
+  - KIFC1
+  - KIFC2
+  - KIFC3
+  - STARD9
+  - ROCK1
+  - ROCK2
+  - TUBD1
+  - TUBE1
   - TUBA1A
-  - OPA1
+  - TUBA1B
+  - TUBA1C
+  - TUBA3C
+  - TUBA3D
+  - TUBA3E
+  - TUBA4A
+  - TUBA8
+  - TUBAL3
+  - TUBB
   - TUBB1
+  - TUBB2A
+  - TUBB2B
+  - TUBB3
+  - TUBB4A
   - TUBB4B
-  - NDEL1
-  - NTNG2
-  - NEFM
   - TUBB6
-genes:
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-- word: AFAF
-  symbol: AFAF
-  source: hgnc_alias_symbol
-  hgnc_symbol: EQTN
-  entrez: '54586'
-- word: DCTN1-2
-  symbol: DCTN2
-  source: hgnc_symbol
-  hgnc_symbol: DCTN2
-  entrez: '10540'
-- word: FARP2
-  symbol: FARP2
-  source: hgnc_symbol
-  hgnc_symbol: FARP2
-  entrez: '9855'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: (TNFRSF16)
-  symbol: TNFRSF16
-  source: hgnc_alias_symbol
-  hgnc_symbol: NGFR
-  entrez: '4804'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA1B
-  entrez: '10376'
-- word: GFAP
-  symbol: GFAP
-  source: hgnc_symbol
-  hgnc_symbol: GFAP
-  entrez: '2670'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: ACTB
-  symbol: ACTB
-  source: hgnc_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK1
-  entrez: '6093'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB3
-  entrez: '10381'
-- word: SDF-1
-  symbol: SDF1
-  source: hgnc_prev_symbol
-  hgnc_symbol: CXCL12
-  entrez: '6387'
-- word: SLIT2
-  symbol: SLIT2
-  source: hgnc_symbol
-  hgnc_symbol: SLIT2
-  entrez: '9353'
-- word: SRGAP2
-  symbol: SRGAP2
-  source: hgnc_symbol
-  hgnc_symbol: SRGAP2
-  entrez: '23380'
-- word: ROCK
-  symbol: ROCK
-  source: bioentities_symbol
-  hgnc_symbol: ROCK2
-  entrez: '9475'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB2A
-  entrez: '7280'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA3C
-  entrez: '7278'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA1C
-  entrez: '84790'
-- word: VAV-2
-  symbol: VAV2
-  source: hgnc_symbol
-  hgnc_symbol: VAV2
-  entrez: '7410'
-- word: DCTN1-2
-  symbol: DCTN1
-  source: hgnc_symbol
-  hgnc_symbol: DCTN1
-  entrez: '1639'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBD1
-  entrez: '51174'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBE1
-  entrez: '51175'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA8
-  entrez: '51807'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA4A
-  entrez: '7277'
-- word: LBC
-  symbol: LBC
-  source: hgnc_prev_symbol
-  hgnc_symbol: AKAP13
-  entrez: '11214'
-- word: Lingo1
-  symbol: LINGO1
-  source: hgnc_symbol
-  hgnc_symbol: LINGO1
-  entrez: '84894'
-- word: MARCKS
-  symbol: MARCKS
-  source: hgnc_symbol
-  hgnc_symbol: MARCKS
-  entrez: '4082'
-- word: NEFH
-  symbol: NEFH
-  source: hgnc_symbol
-  hgnc_symbol: NEFH
-  entrez: '4744'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB4A
-  entrez: '10382'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: REPS1
-  symbol: REPS1
-  source: hgnc_symbol
-  hgnc_symbol: REPS1
-  entrez: '85021'
-- word: Rac1
-  symbol: RAC1
-  source: hgnc_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB
-  entrez: '203068'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBG2
-  entrez: '27175'
-- word: H-Ras
-  symbol: HRAS
-  source: hgnc_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: ARHGEF1
-  symbol: ARHGEF1
-  source: hgnc_symbol
-  hgnc_symbol: ARHGEF1
-  entrez: '9138'
-- word: CDÇ42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-- word: CRMP2
-  symbol: CRMP2
-  source: hgnc_alias_symbol
-  hgnc_symbol: DPYSL2
-  entrez: '1808'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBG1
-  entrez: '7283'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA3E
-  entrez: '112714'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA3D
-  entrez: '113457'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBAL3
-  entrez: '79861'
-- word: CXCR4
-  symbol: CXCR4
-  source: hgnc_symbol
-  hgnc_symbol: CXCR4
-  entrez: '7852'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB2B
-  entrez: '347733'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBA1A
-  entrez: '7846'
-- word: OPA1
-  symbol: OPA1
-  source: hgnc_symbol
-  hgnc_symbol: OPA1
-  entrez: '4976'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB1
-  entrez: '81027'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB4B
-  entrez: '10383'
-- word: NUDEL
-  symbol: NUDEL
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDEL1
-  entrez: '81565'
-- word: NTNG2
-  symbol: NTNG2
-  source: hgnc_symbol
-  hgnc_symbol: NTNG2
-  entrez: '84628'
-- word: NEFM
-  symbol: NEFM
-  source: hgnc_symbol
-  hgnc_symbol: NEFM
-  entrez: '4741'
-- word: Tubulin
-  symbol: Tubulin
-  source: bioentities_symbol
-  hgnc_symbol: TUBB6
-  entrez: '84617'
-chemicals: []
-diseases: []
-figid_alias: PMC4979452__F8
-redirect_from: /figures/PMC4979452__F8
-figtype: Figure
+  - TUBG1
+  - TUBG2
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - GFAP
+  - POTEF
 ---

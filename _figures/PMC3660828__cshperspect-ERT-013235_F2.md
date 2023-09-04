@@ -1,5 +1,10 @@
 ---
 figid: PMC3660828__cshperspect-ERT-013235_F2
+figtitle: Biosynthetic pathways of aminoglycerophospholipids
+organisms:
+- NA
+pmcid: PMC3660828
+filename: cshperspect-ERT-013235_F2.jpg
 figlink: /pmc/articles/PMC3660828/figure/A013235F2/
 number: F2
 caption: Biosynthetic pathways of aminoglycerophospholipids. (A) Biosynthesis of aminoglycerophospholipids
@@ -17,18 +22,22 @@ caption: Biosynthetic pathways of aminoglycerophospholipids. (A) Biosynthesis of
   of PS. In hepatocytes, a single methyltransferase catalyzes methylation of PE to
   PC. (C) The Land’s cycle describes a sequence of deacylation and reacylation. PE
   and PC are converted to lyso-PE and lyso-PC and vice versa.
-pmcid: PMC3660828
 papertitle: Lipid Transport between the Endoplasmic Reticulum and Mitochondria.
 reftext: Vid V. Flis, et al. Cold Spring Harb Perspect Biol. 2013 Jun;5(6):a013235.
-pmc_ranked_result_index: '28318'
-pathway_score: 0.9039014
-filename: cshperspect-ERT-013235_F2.jpg
-figtitle: Biosynthetic pathways of aminoglycerophospholipids
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9039014
+figid_alias: PMC3660828__F2
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3660828__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,58 +65,48 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CPT1C
-  - PSD
+  - ps
+  - pe
+  - ATPsynbeta
+  - Atpalpha
+  - ctp
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - sl
+  - VhaAC39-1
+  - Pc
+  - Cpt
+  - CG7149
+  - CPT2
+  - ct
+  - ck
+  - psd
+  - Pisd
+  - bbc
+  - TSG101
+  - ect
+  - pl
+  - Pla
+  - CycE
+  - cyc
+  - ATP8A2
   - SLC25A1
+  - CPT1C
   - PC
-  - PEMT
-  - LGI1
-  - PTDSS2
+  - CDSN
   - PTDSS1
-genes:
-- word: Cpt1p
-  symbol: CPT1P
-  source: hgnc_alias_symbol
-  hgnc_symbol: CPT1C
-  entrez: '126129'
-- word: PSD
-  symbol: PSD
-  source: hgnc_symbol
-  hgnc_symbol: PSD
-  entrez: '5662'
-- word: CTP
-  symbol: CTP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC25A1
-  entrez: '6576'
-- word: PC
-  symbol: PC
-  source: hgnc_symbol
-  hgnc_symbol: PC
-  entrez: '5091'
-- word: PEMT
-  symbol: PEMT
-  source: hgnc_symbol
-  hgnc_symbol: PEMT
-  entrez: '10400'
-- word: EPT
-  symbol: EPT
-  source: hgnc_prev_symbol
-  hgnc_symbol: LGI1
-  entrez: '9211'
-- word: PSS2
-  symbol: PSS2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTDSS2
-  entrez: '81490'
-- word: PSS1
-  symbol: PSS1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTDSS1
-  entrez: '9791'
-chemicals: []
-diseases: []
-figid_alias: PMC3660828__F2
-redirect_from: /figures/PMC3660828__F2
-figtype: Figure
+  - CARD14
+  - CHPT1
+  - DHDDS
+  - PSD
+  - PISD
+  - FBXL15
+  - PEMT
+  - MUC1
+  - TGM5
+  - PTDSS2
+  - LGI1
+  - ECT
 ---

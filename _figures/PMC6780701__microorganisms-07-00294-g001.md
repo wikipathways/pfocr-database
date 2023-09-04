@@ -1,47 +1,57 @@
 ---
 figid: PMC6780701__microorganisms-07-00294-g001
+figtitle: The metabolic pathway for Hyaluronic Acid production
+organisms:
+- Kluyveromyces lactis
+- Escherichia coli
+- Bacillus subtilis
+- Corynebacterium glutamicum
+- Streptococcus pyogenes
+- Lactococcus lactis
+- Pasteurella multocida
+- Agrobacterium sp.
+- Streptococcus sp.
+- Streptococcus equi subsp. zooepidemicus
+- Streptococcus dysgalactiae subsp. equisimilis
+- aerobic bacillus
+- Streptococcus equi
+- Saccharomyces cerevisiae
+- PX clade
+- Cryptococcus neoformans
+- Komagataella pastoris
+- Komagataella phaffii
+- Kluyveromyces lactis NRRL Y-1140
+- vectors
+- Synthetic plasmid
+- Homo sapiens
+- Mus musculus
+- Bos taurus
+- Xenopus laevis
+- Tequintavirus T5
+- NA
+pmcid: PMC6780701
+filename: microorganisms-07-00294-g001.jpg
 figlink: /pmc/articles/PMC6780701/figure/microorganisms-07-00294-f001/
 number: F1
 caption: The metabolic pathway for Hyaluronic Acid production. In green, the enzymes
   that are not present in the metabolism of K. lactis but are necessary for the synthesis
   of Hyaluronic Acid.
-pmcid: PMC6780701
 papertitle: Heterologous Hyaluronic Acid Production in Kluyveromyces lactis.
 reftext: Antonio M. V. Gomes, et al. Microorganisms. 2019 Sep;7(9):294.
-pmc_ranked_result_index: '6494'
-pathway_score: 0.5499251
-filename: microorganisms-07-00294-g001.jpg
-figtitle: The metabolic pathway for Hyaluronic Acid production
 year: '2019'
-organisms:
-- Mus musculus
-- Tequintavirus T5
-- Streptococcus dysgalactiae subsp. equisimilis
-- Streptococcus sp.
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.5499251
+figid_alias: PMC6780701__F1
+figtype: Figure
+organisms_ner:
 - Streptococcus pyogenes
-- Streptococcus equi
-- Lactococcus lactis
-- Bacillus subtilis
-- Synthetic plasmid
-- Corynebacterium glutamicum
-- Kluyveromyces lactis NRRL Y-1140
-- Kluyveromyces lactis
-- vectors
-- aerobic bacillus
-- Agrobacterium sp.
-- Streptococcus equi subsp. zooepidemicus
-- Komagataella phaffii
-- Komagataella pastoris
-- Saccharomyces cerevisiae
-- Cryptococcus neoformans
-- Escherichia coli
-- PX clade
-- Pasteurella multocida
-- Xenopus laevis
-- Homo sapiens
-- Bos taurus
+- Mus musculus
+redirect_from: /figures/PMC6780701__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -56,7 +66,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - WDTC1
+  - hasC
+  - hasB
+  - udp
+  - hasA
+  - Och
+  - oh
+  - Wdtc1
+  - Mdga2
+  - Clcn1
   - CH
   - OHI
   - OH
@@ -74,66 +92,4 @@ schema-jsonld:
   - Glucosamine
   - NADH
   - CH
-genes:
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-chemicals:
-- word: CH
-  source: MESH
-  identifier: C103208
-- word: OHI
-  source: MESH
-  identifier: C489255
-- word: OH
-  source: MESH
-  identifier: C031356
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: NH
-  source: MESH
-  identifier: D000641
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Phosphoglucosamine
-  source: ''
-  identifier: ''
-- word: UDP
-  source: MESH
-  identifier: D014530
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: UTP
-  source: MESH
-  identifier: D014544
-- word: Acetyl
-  source: MESH
-  identifier: C011632
-- word: 'N'
-  source: MESH
-  identifier: D009584
-- word: 2 NAD
-  source: MESH
-  identifier: D009243
-- word: N-Acetyl
-  source: MESH
-  identifier: C520160
-- word: Glucosamine
-  source: MESH
-  identifier: D005944
-- word: NADH
-  source: MESH
-  identifier: D009243
-diseases:
-- word: CH
-  source: ''
-  identifier: ''
-figid_alias: PMC6780701__F1
-redirect_from: /figures/PMC6780701__F1
-figtype: Figure
 ---

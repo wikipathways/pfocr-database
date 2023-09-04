@@ -1,5 +1,14 @@
 ---
 figid: PMC3729278__ijtr-suppl.1-2013-003f1
+figtitle: Nutritional Aspect of Tryptophan Metabolism
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Oryza sativa
+- Zea mays
+- Homo sapiens
+pmcid: PMC3729278
+filename: ijtr-suppl.1-2013-003f1.jpg
 figlink: /pmc/articles/PMC3729278/figure/f1-ijtr-suppl.1-2013-003/
 number: F1
 caption: 'The tryptophan-nicotinamide pathway.Notes: The pathway consists of the two
@@ -8,22 +17,21 @@ caption: 'The tryptophan-nicotinamide pathway.Notes: The pathway consists of the
   catabolism.Abbreviations: NaMN, nicotinic acid mononucleotide; NMN, nicotinamide
   mononucleotide; MNA, N1-methylnicotinamide; 2-Py, N1-methyl-2- pridone-5-carboxamide;
   4-Py, N1-methyl-4-pridone-3-carboxamide.'
-pmcid: PMC3729278
 papertitle: Nutritional Aspect of Tryptophan Metabolism.
 reftext: Tsutomu Fukuwatari, et al. Int J Tryptophan Res. 2013;6(Suppl 1):3-8.
-pmc_ranked_result_index: '61550'
-pathway_score: 0.9211338
-filename: ijtr-suppl.1-2013-003f1.jpg
-figtitle: Nutritional Aspect of Tryptophan Metabolism
 year: '2013'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Oryza sativa
-- Zea mays
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9211338
+figid_alias: PMC3729278__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3729278__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -50,37 +58,4 @@ schema-jsonld:
   - Tryptophan
   - 3-Hydroxyanthranilic acid
   - Quinolinic acid
-genes: []
-chemicals:
-- word: Xanthurenic acid
-  source: MESH
-  identifier: C028330
-- word: Picolinic acid
-  source: MESH
-  identifier: C030614
-- word: Anthranilic acid
-  source: MESH
-  identifier: C031385
-- word: Kynurenic acid
-  source: MESH
-  identifier: D007736
-- word: Nicotinamide
-  source: MESH
-  identifier: D009536
-- word: Nicotinic acid
-  source: MESH
-  identifier: D009539
-- word: Tryptophan
-  source: MESH
-  identifier: D014364
-- word: 3-Hydroxyanthranilic acid
-  source: MESH
-  identifier: D015095
-- word: Quinolinic acid
-  source: MESH
-  identifier: D017378
-diseases: []
-figid_alias: PMC3729278__F1
-redirect_from: /figures/PMC3729278__F1
-figtype: Figure
 ---

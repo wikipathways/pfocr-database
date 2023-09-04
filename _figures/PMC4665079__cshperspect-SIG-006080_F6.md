@@ -1,5 +1,10 @@
 ---
 figid: PMC4665079__cshperspect-SIG-006080_F6
+figtitle: Autophagic signaling pathway
+organisms:
+- NA
+pmcid: PMC4665079
+filename: cshperspect-SIG-006080_F6.jpg
 figlink: /pmc/articles/PMC4665079/figure/A006080F6/
 number: F6
 caption: The autophagic signaling pathway. Under metabolic stress, AMPK activation
@@ -16,18 +21,21 @@ caption: The autophagic signaling pathway. Under metabolic stress, AMPK activati
   (also called LC3-II). LC3-II associates with the autophagosomal membrane and is
   crucial for the targeting of autophagosomes to lysosomes, as well as for the selective
   autophagy of organelles and protein aggregates.
-pmcid: PMC4665079
 papertitle: Cell Death Signaling.
 reftext: Douglas R. Green, et al. Cold Spring Harb Perspect Biol. 2015 Dec;7(12):a006080.
-pmc_ranked_result_index: '10104'
-pathway_score: 0.9234266
-filename: cshperspect-SIG-006080_F6.jpg
-figtitle: Autophagic signaling pathway
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9234266
+figid_alias: PMC4665079__F6
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4665079__F6
 ndex: ed502167-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,178 +61,33 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PRKAG2
-  - PRKAA2
+  - ATG12
+  - MTOR
+  - RPTOR
+  - BCL2
+  - ATG7
+  - ATG10
+  - ATG5
+  - ATG16L1
+  - ULK1
+  - BECN1
+  - PIK3R4
+  - PIK3C3
   - RB1CC1
-  - SNAP29
-  - PRKAG1
   - ATG13
   - ATG3
-  - PRKAB2
-  - ATG12
-  - VAMP8
-  - BCL2
-  - ATG5
-  - ATG7
   - PRKAA1
+  - PRKAA2
   - PRKAB1
-  - PIK3C3
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
   - PRKAG3
-  - RPTOR
-  - LAMP2
-  - ATG16L1
-  - ATG10
-  - ULK1
-  - PIK3R4
-  - STX17
-  - LAMP1
   - MAP1LC3A
-  - MTOR
+  - STX17
+  - SNAP29
   - DYNLL1
-genes:
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: FIP200
-  symbol: FIP200
-  source: hgnc_alias_symbol
-  hgnc_symbol: RB1CC1
-  entrez: '9821'
-- word: SNAP29
-  symbol: SNAP29
-  source: hgnc_symbol
-  hgnc_symbol: SNAP29
-  entrez: '9342'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: ATG13
-  symbol: ATG13
-  source: hgnc_symbol
-  hgnc_symbol: ATG13
-  entrez: '9776'
-- word: ATG3
-  symbol: ATG3
-  source: hgnc_symbol
-  hgnc_symbol: ATG3
-  entrez: '64422'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: ATG12
-  symbol: ATG12
-  source: hgnc_symbol
-  hgnc_symbol: ATG12
-  entrez: '9140'
-- word: VAMP8
-  symbol: VAMP8
-  source: hgnc_symbol
-  hgnc_symbol: VAMP8
-  entrez: '8673'
-- word: Bcl2
-  symbol: BCL2
-  source: hgnc_symbol
-  hgnc_symbol: BCL2
-  entrez: '596'
-- word: ATG5
-  symbol: ATG5
-  source: hgnc_symbol
-  hgnc_symbol: ATG5
-  entrez: '9474'
-- word: ATG7
-  symbol: ATG7
-  source: hgnc_symbol
-  hgnc_symbol: ATG7
-  entrez: '10533'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: Vps34
-  symbol: Vps34
-  source: hgnc_alias_symbol
-  hgnc_symbol: PIK3C3
-  entrez: '5289'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: LAMP1/2
-  symbol: LAMP2
-  source: hgnc_symbol
-  hgnc_symbol: LAMP2
-  entrez: '3920'
-- word: ATG16L
-  symbol: ATG16L
-  source: hgnc_prev_symbol
-  hgnc_symbol: ATG16L1
-  entrez: '55054'
-- word: ATG10
-  symbol: ATG10
-  source: hgnc_symbol
-  hgnc_symbol: ATG10
-  entrez: '83734'
-- word: ULK1
-  symbol: ULK1
-  source: hgnc_symbol
-  hgnc_symbol: ULK1
-  entrez: '8408'
-- word: Vps15
-  symbol: VPS15
-  source: hgnc_alias_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: Stx17
-  symbol: STX17
-  source: hgnc_symbol
-  hgnc_symbol: STX17
-  entrez: '55014'
-- word: LAMP1/2
-  symbol: LAMP1
-  source: hgnc_symbol
-  hgnc_symbol: LAMP1
-  entrez: '3916'
-- word: LC3
-  symbol: LC3
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP1LC3A
-  entrez: '84557'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: LC3-11
-  symbol: LC8
-  source: hgnc_alias_symbol
-  hgnc_symbol: DYNLL1
-  entrez: '8655'
-chemicals: []
-diseases: []
-figid_alias: PMC4665079__F6
-redirect_from: /figures/PMC4665079__F6
-figtype: Figure
+  - VAMP8
+  - LAMP1
+  - LAMP2
 ---

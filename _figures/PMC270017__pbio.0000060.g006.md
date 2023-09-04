@@ -1,5 +1,10 @@
 ---
 figid: PMC270017__pbio.0000060.g006
+figtitle: Identification of Drosophila MicroRNA Targets
+organisms:
+- NA
+pmcid: PMC270017
+filename: pbio.0000060.g006.jpg
 figlink: /pmc/articles/PMC270017/figure/pbio.0000060-g006/
 number: F6
 caption: Enzymes identified as miR-277 targets are boxed and identified by CG number.
@@ -7,18 +12,21 @@ caption: Enzymes identified as miR-277 targets are boxed and identified by CG nu
   addition to the predicted targets, the other enzymes for which the gene has been
   identified in Drosophila are shaded in green. The metabolic pathway chart is from
   http://www.genome.ad.jp/kegg/pathway/map/map00280.html.
-pmcid: PMC270017
 papertitle: Identification of Drosophila MicroRNA Targets.
 reftext: Alexander Stark, et al. PLoS Biol. 2003 Dec;1(3):e60.
-pmc_ranked_result_index: '36154'
-pathway_score: 0.755289
-filename: pbio.0000060.g006.jpg
-figtitle: Identification of Drosophila MicroRNA Targets
 year: '2003'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.755289
+figid_alias: PMC270017__F6
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC270017__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -35,7 +43,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SNRPE
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - lbe
+  - CG1673
+  - CG8199
+  - Dbct
+  - Coa
+  - CG6984
+  - Mccc1
+  - Me
+  - scu
+  - te
+  - CG15093
+  - SCOT
+  - CG17896
+  - CycE
+  - cyc
+  - SmE
   - dihydrolipoamide
   - Propionyl-CoA
   - Acetoacetyl-CoA
@@ -50,57 +77,4 @@ schema-jsonld:
   - O L-Isole ucine
   - Sterol
   - Valine
-genes:
-- word: (S)-Me
-  symbol: Sm-E
-  source: hgnc_alias_symbol
-  hgnc_symbol: SNRPE
-  entrez: '6635'
-chemicals:
-- word: dihydrolipoamide
-  source: MESH
-  identifier: C007409
-- word: Propionyl-CoA
-  source: MESH
-  identifier: C009061
-- word: Acetoacetyl-CoA
-  source: MESH
-  identifier: C010667
-- word: acetoacetyl-CoA
-  source: MESH
-  identifier: C010667
-- word: Succinyl-CoA
-  source: MESH
-  identifier: C012046
-- word: Pyrimidine
-  source: MESH
-  identifier: C030986
-- word: glutaconyl-CoA
-  source: MESH
-  identifier: C032423
-- word: isobutyryl-CoA
-  source: MESH
-  identifier: C050106
-- word: fatty acid
-  source: MESH
-  identifier: D005227
-- word: L-Leucine
-  source: MESH
-  identifier: D007930
-- word: Leucine
-  source: MESH
-  identifier: D007930
-- word: O L-Isole ucine
-  source: MESH
-  identifier: D012460
-- word: Sterol
-  source: MESH
-  identifier: D013261
-- word: Valine
-  source: MESH
-  identifier: D014633
-diseases: []
-figid_alias: PMC270017__F6
-redirect_from: /figures/PMC270017__F6
-figtype: Figure
 ---

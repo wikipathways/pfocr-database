@@ -1,5 +1,11 @@
 ---
 figid: PMC7442487__elife-54693-resp-fig1
+figtitle: Pathway affected by RG7112 was known while the mode of action was unknown
+  for o-Vanillin
+organisms:
+- NA
+pmcid: PMC7442487
+filename: elife-54693-resp-fig1.jpg
 figlink: pmc/articles/PMC7442487/figure/sa2fig1/
 number: F1
 caption: 'The pathway affected by RG7112 was known while the mode of action was unknown
@@ -15,20 +21,22 @@ caption: 'The pathway affected by RG7112 was known while the mode of action was 
   CDKs-E2F-RB (please see ). At this level of the study, our first and most important
   goal was to determine that the drugs could reach the target cells and remove senescent
   cells and associated inflammatory factors in native intact human IVD tissue.'
-pmcid: PMC7442487
 papertitle: Senotherapeutic drugs for human intervertebral disc degeneration and low
   back pain.
 reftext: Hosni Cherif, et al. eLife. 2020;9:e54693.
-pmc_ranked_result_index: '76157'
-pathway_score: 0.912191
-filename: elife-54693-resp-fig1.jpg
-figtitle: Pathway affected by RG7112 was known while the mode of action was unknown
-  for o-Vanillin
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.912191
+figid_alias: PMC7442487__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7442487__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -54,47 +62,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CDKN2A
-  - TP53
-  - MDM2
-  - E2F1
+  - Zdhhc8
+  - Arpc5
+  - Su(osk)P16
+  - Rbf
+  - p53
+  - betaTub60D
+  - hth
+  - dap
+  - rb
+  - E2f1
   - RG7112
   - O-vanillin
-genes:
-- word: p16
-  symbol: p16
-  source: hgnc_alias_symbol
-  hgnc_symbol: CDKN2A
-  entrez: '1029'
-- word: p53/
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: MDM2
-  symbol: MDM2
-  source: hgnc_symbol
-  hgnc_symbol: MDM2
-  entrez: '4193'
-- word: E2F1
-  symbol: E2F1
-  source: hgnc_symbol
-  hgnc_symbol: E2F1
-  entrez: '1869'
-- word: E2F1
-  symbol: E2F1
-  source: hgnc_symbol
-  hgnc_symbol: E2F1
-  entrez: '1869'
-chemicals:
-- word: RG7112
-  source: MESH
-  identifier: C579783
-- word: O-vanillin
-  source: MESH
-  identifier: C100058
-diseases: []
-figid_alias: PMC7442487__F1
-redirect_from: /figures/PMC7442487__F1
-figtype: Figure
 ---

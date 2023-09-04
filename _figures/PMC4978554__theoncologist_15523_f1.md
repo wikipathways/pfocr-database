@@ -1,5 +1,10 @@
 ---
 figid: PMC4978554__theoncologist_15523_f1
+figtitle: CTLA-4 pathway inhibition
+organisms:
+- Homo sapiens
+pmcid: PMC4978554
+filename: theoncologist_15523_f1.jpg
 figlink: /pmc/articles/PMC4978554/figure/F1/
 number: F1
 caption: 'CTLA-4 pathway inhibition. The antitumor immune response is initiated by
@@ -13,18 +18,21 @@ caption: 'CTLA-4 pathway inhibition. The antitumor immune response is initiated 
   blockade may remove this inhibitory signal and stimulate antitumor immunity (C).Abbreviations:
   APC, antigen-presenting cell; CTLA-4, cytotoxic T-lymphocyte antigen-4; MHC, major
   histocompatibility complex; TCR, T-cell receptor.'
-pmcid: PMC4978554
 papertitle: The Future of Immunotherapy in the Treatment of Small Cell Lung Cancer.
 reftext: Leora Horn, et al. Oncologist. 2016 Aug;21(8):910-921.
-pmc_ranked_result_index: '60380'
-pathway_score: 0.9055049
-filename: theoncologist_15523_f1.jpg
-figtitle: CTLA-4 pathway inhibition
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9055049
+figid_alias: PMC4978554__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4978554__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,64 +55,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CD86
-  - CD28
-  - CD80
-  - TRB
   - CTLA4
+  - CD28
+  - TRBV20OR9-2
   - TRA
+  - TRB
   - TRD
-  - APC
   - TRG
-genes:
-- word: CD80/86
-  symbol: CD86
-  source: hgnc_symbol
-  hgnc_symbol: CD86
-  entrez: '942'
-- word: CD28
-  symbol: CD28
-  source: hgnc_symbol
-  hgnc_symbol: CD28
-  entrez: '940'
-- word: CD80/86
-  symbol: CD80
-  source: hgnc_symbol
-  hgnc_symbol: CD80
-  entrez: '941'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: CTLA-4
-  symbol: CTLA4
-  source: hgnc_symbol
-  hgnc_symbol: CTLA4
-  entrez: '1493'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-chemicals: []
-diseases: []
-figid_alias: PMC4978554__F1
-redirect_from: /figures/PMC4978554__F1
-figtype: Figure
+  - CD86
+  - CD80
+  - HLA-C
+  - APC
+  - PROC
 ---

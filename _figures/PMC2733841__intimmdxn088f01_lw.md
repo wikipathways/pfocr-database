@@ -1,21 +1,29 @@
 ---
 figid: PMC2733841__intimmdxn088f01_lw
+figtitle: The proposed pathway of regulatory controls (see list of abbreviations)
+organisms:
+- NA
+pmcid: PMC2733841
+filename: intimmdxn088f01_lw.jpg
 figlink: /pmc/articles/PMC2733841/figure/fig1/
 number: F1
 caption: The proposed pathway of regulatory controls (see list of abbreviations).
-pmcid: PMC2733841
 papertitle: What roles do regulatory T cells play in the control of the adaptive immune
   response?.
 reftext: Melvin Cohn. Int Immunol. 2008 Sep;20(9):1107-1118.
-pmc_ranked_result_index: '5122'
-pathway_score: 0.8303138
-filename: intimmdxn088f01_lw.jpg
-figtitle: The proposed pathway of regulatory controls (see list of abbreviations)
 year: '2008'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8303138
+figid_alias: PMC2733841__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC2733841__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -28,40 +36,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - COL4A5
-  - ETS2
-  - MET
-  - ETS1
-  - FOXC1
-genes:
-- word: aTs
-  symbol: ATS
-  source: hgnc_prev_symbol
-  hgnc_symbol: COL4A5
-  entrez: '1287'
-- word: eTs
-  symbol: ETS
-  source: bioentities_symbol
-  hgnc_symbol: ETS2
-  entrez: '2114'
-- word: meTs
-  symbol: MET
-  source: hgnc_symbol
-  hgnc_symbol: MET
-  entrez: '4233'
-- word: eTs
-  symbol: ETS
-  source: bioentities_symbol
-  hgnc_symbol: ETS1
-  entrez: '2113'
-- word: (ARA)
-  symbol: ARA
-  source: hgnc_alias_symbol
-  hgnc_symbol: FOXC1
-  entrez: '2296'
-chemicals: []
-diseases: []
-figid_alias: PMC2733841__F1
-redirect_from: /figures/PMC2733841__F1
-figtype: Figure
+  - 'Off'
+  - ETH
+  - Calr
+  - ath
+  - ara
+  - Ets21C
+  - Ets65A
+  - pnt
+  - Ets96B
+  - Ets97D
+  - Ets98B
+  - ats
+  - 'On'
 ---

@@ -1,5 +1,25 @@
 ---
 figid: PMC4123742__cshperspect-DAM-012732_F1AB
+figtitle: Advances in Understanding the Complex Mechanisms of DNA Interstrand Cross-Link
+  Repair
+organisms:
+- Saccharomyces cerevisiae
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Schizosaccharomyces pombe
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Gallus gallus
+- Xenopus laevis
+- Bombyx mori
+- Calloplesiops altivelis
+- Escherichia coli
+- Haloferax volcanii
+- Homo sapiens
+- Mus musculus
+- synthetic construct
+pmcid: PMC4123742
+filename: cshperspect-DAM-012732_F1AB.jpg
 figlink: /pmc/articles/PMC149053/figure/fig7/
 number: F7
 caption: '(A) Overview of the important steps in Fanconi anemia (FA) signaling pathway.
@@ -30,34 +50,30 @@ caption: '(A) Overview of the important steps in Fanconi anemia (FA) signaling p
   homologous recombination, in particular the formation of 53BP1 and BRCA1 foci, FANCJ
   recruitment to the chromatin, DSB end resection by MRN-CtIP, and RAD51 loading on
   the resected end, do not require the core complex.'
-pmcid: PMC4123742
 papertitle: Advances in Understanding the Complex Mechanisms of DNA Interstrand Cross-Link
   Repair.
 reftext: Cheryl Clauson, et al. Cold Spring Harb Perspect Biol. 2013 Oct;5(10):a012732.
-pmc_ranked_result_index: '192522'
-pathway_score: 0.9329234
-filename: cshperspect-DAM-012732_F1AB.jpg
-figtitle: Advances in Understanding the Complex Mechanisms of DNA Interstrand Cross-Link
-  Repair
 year: '2013'
-organisms:
-- Mus musculus
-- Haloferax volcanii
-- Calloplesiops altivelis
-- synthetic construct
-- Arabidopsis thaliana
-- Nicotiana tabacum
-- Schizosaccharomyces pombe
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Caenorhabditis elegans
-- Bombyx mori
-- Drosophila melanogaster
-- Xenopus laevis
-- Gallus gallus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9329234
+figid_alias: PMC4123742__F7
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Mus musculus
+- Gallus gallus
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Caenorhabditis elegans
+- Schizosaccharomyces pombe
+- Saccharomyces cerevisiae S288C
+- Bombyx mori
+redirect_from: /figures/PMC4123742__F7
 ndex: c5b4c728-df09-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -98,234 +114,133 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BRCA1
-  - FANCL
-  - BRCA2
-  - FANCI
-  - BLM
-  - PALB2
-  - SLX4
-  - ERCC4
-  - RAD51C
-  - FAAP24
-  - MUS81
-  - NLRP2
-  - BRIP1
-  - RMI1
-  - CHEK1
-  - FANCM
-  - ERCC1
-  - FAN1
-  - MRE11
-  - ATR
-  - FANCB
-  - FANCD2
-  - RAD50
-  - RAD51
   - MLIP
+  - AK6
+  - FANCM
+  - MRE11
+  - RAD50
+  - FAAP24
+  - NBN
+  - NLRP2
+  - ATR
+  - ANTXR1
+  - MMAB
+  - SERPINA2
+  - FANCI
+  - FAN1
+  - FSCN1
+  - RMI1
+  - IL1A
+  - FANCD2
   - EME1
-  - RNF8
+  - BLM
+  - MUS81
+  - SLX4
+  - FANCL
+  - ERCC4
+  - ERCC1
+  - FANCB
   - FAAP20
-  - UBE2N
-  - TP53BP1
+  - RAD51
+  - RAD51C
+  - BRCA2
+  - BRIP1
+  - MRPL36
+  - PALB2
+  - BRCA1
   - FUS
+  - ERVK-9
+  - ERVK-11
+  - ERVK-19
+  - CHEK1
+  - RNF8
+  - UBE2N
+  - TUBA4A
+  - H2AC18
+  - H2AC20
+  - TUBA3D
+  - TP53BP1
+  - Mlip
+  - Fancm
+  - Mre11a
+  - Rad50
+  - Faap24
+  - Nbn
+  - Nlrp2
+  - Atr
+  - Mmab
+  - Fanci
+  - Fan1
+  - Fscn1
+  - Il1a
+  - Fancd2
+  - Eme1
+  - Blm
+  - Vps50
+  - Mus81
+  - Slx4
+  - Fancl
+  - Ercc4
+  - Ercc1
+  - Fancb
+  - Faap20
+  - Rad51
+  - Xrcc2
+  - Rad51c
+  - Brca2
+  - Brip1
+  - fa
+  - Brca1
+  - Palb2
+  - Fus
+  - Chek1
+  - Rnf8
+  - Ube2n
+  - Trp53bp1
+  - OPN1MSW
+  - H2AC31
+  - mre11
+  - Imp
+  - rad50
+  - nbs
+  - mei-41
+  - put
+  - RYa-R
+  - mms4
+  - mus81
+  - slx1
+  - Rad51D
+  - spn-B
+  - spn-A
+  - spn-D
+  - grp
+  - ben
+  - His2Av
+  - NBS1
+  - UBC13
+  - mre-11
+  - rad-50
+  - nbs-1
+  - fan-1
+  - eme-1
+  - mus-81
+  - ercc-1
+  - slx-1
+  - rad-51
+  - chk-1
+  - ubc-13
+  - rad32
+  - nbs1
+  - eme1
+  - slx4
+  - rhp51
+  - chk1
+  - ubc13
+  - SLX1
+  - CHK1
+  - Mre11
+  - Fa
+  - Ubc13
   - Breast cancer
   - Fanconi anemia
-genes:
-- word: BRCA1
-  symbol: BRCA1
-  source: hgnc_symbol
-  hgnc_symbol: BRCA1
-  entrez: '672'
-- word: FANCL
-  symbol: FANCL
-  source: hgnc_symbol
-  hgnc_symbol: FANCL
-  entrez: '55120'
-- word: FANCJ/FANCD1/
-  symbol: FANCD1
-  source: hgnc_prev_symbol
-  hgnc_symbol: BRCA2
-  entrez: '675'
-- word: FANCI
-  symbol: FANCI
-  source: hgnc_symbol
-  hgnc_symbol: FANCI
-  entrez: '55215'
-- word: BRCA2
-  symbol: BRCA2
-  source: hgnc_symbol
-  hgnc_symbol: BRCA2
-  entrez: '675'
-- word: BLM
-  symbol: BLM
-  source: hgnc_symbol
-  hgnc_symbol: BLM
-  entrez: '641'
-- word: FANCN/
-  symbol: FANCN
-  source: hgnc_alias_symbol
-  hgnc_symbol: PALB2
-  entrez: '79728'
-- word: FANCP/SLX4
-  symbol: FANCP
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLX4
-  entrez: '84464'
-- word: FANCQ/XPF
-  symbol: FANCQ
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERCC4
-  entrez: '2072'
-- word: FANCO/
-  symbol: FANCO
-  source: hgnc_alias_symbol
-  hgnc_symbol: RAD51C
-  entrez: '5889'
-- word: FAAP24
-  symbol: FAAP24
-  source: hgnc_symbol
-  hgnc_symbol: FAAP24
-  entrez: '91442'
-- word: MUS81
-  symbol: MUS81
-  source: hgnc_symbol
-  hgnc_symbol: MUS81
-  entrez: '80198'
-- word: NBS1
-  symbol: NBS1
-  source: hgnc_alias_symbol
-  hgnc_symbol: NLRP2
-  entrez: '55655'
-- word: BRIP1
-  symbol: BRIP1
-  source: hgnc_symbol
-  hgnc_symbol: BRIP1
-  entrez: '83990'
-- word: Blap75
-  symbol: BLAP75
-  source: hgnc_alias_symbol
-  hgnc_symbol: RMI1
-  entrez: '80010'
-- word: RAD51C
-  symbol: RAD51C
-  source: hgnc_symbol
-  hgnc_symbol: RAD51C
-  entrez: '5889'
-- word: CHK1
-  symbol: CHK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHEK1
-  entrez: '1111'
-- word: FANCJ/
-  symbol: FANCJ
-  source: hgnc_alias_symbol
-  hgnc_symbol: BRIP1
-  entrez: '83990'
-- word: FANCM
-  symbol: FANCM
-  source: hgnc_symbol
-  hgnc_symbol: FANCM
-  entrez: '57697'
-- word: ERCC1
-  symbol: ERCC1
-  source: hgnc_symbol
-  hgnc_symbol: ERCC1
-  entrez: '2067'
-- word: FAN1
-  symbol: FAN1
-  source: hgnc_symbol
-  hgnc_symbol: FAN1
-  entrez: '22909'
-- word: FANCP/SLX4
-  symbol: SLX4
-  source: hgnc_symbol
-  hgnc_symbol: SLX4
-  entrez: '84464'
-- word: FANCQ/XPF
-  symbol: XPF
-  source: hgnc_prev_symbol
-  hgnc_symbol: ERCC4
-  entrez: '2072'
-- word: MRE11
-  symbol: MRE11
-  source: hgnc_symbol
-  hgnc_symbol: MRE11
-  entrez: '4361'
-- word: ATR
-  symbol: ATR
-  source: hgnc_symbol
-  hgnc_symbol: ATR
-  entrez: '545'
-- word: FANCB
-  symbol: FANCB
-  source: hgnc_symbol
-  hgnc_symbol: FANCB
-  entrez: '2187'
-- word: FANCD2
-  symbol: FANCD2
-  source: hgnc_symbol
-  hgnc_symbol: FANCD2
-  entrez: '2177'
-- word: PALB2
-  symbol: PALB2
-  source: hgnc_symbol
-  hgnc_symbol: PALB2
-  entrez: '79728'
-- word: RAD50
-  symbol: RAD50
-  source: hgnc_symbol
-  hgnc_symbol: RAD50
-  entrez: '10111'
-- word: RAD51
-  symbol: RAD51
-  source: hgnc_symbol
-  hgnc_symbol: RAD51
-  entrez: '5888'
-- word: CIP
-  symbol: CIP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MLIP
-  entrez: '90523'
-- word: EME1
-  symbol: EME1
-  source: hgnc_symbol
-  hgnc_symbol: EME1
-  entrez: '146956'
-- word: RNF8
-  symbol: RNF8
-  source: hgnc_symbol
-  hgnc_symbol: RNF8
-  entrez: '9025'
-- word: FAAP20
-  symbol: FAAP20
-  source: hgnc_symbol
-  hgnc_symbol: FAAP20
-  entrez: '199990'
-- word: UBC13
-  symbol: UBC13
-  source: hgnc_alias_symbol
-  hgnc_symbol: UBE2N
-  entrez: '7334'
-- word: 53BP1
-  symbol: 53BP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53BP1
-  entrez: '7158'
-- word: TLS
-  symbol: TLS
-  source: hgnc_alias_symbol
-  hgnc_symbol: FUS
-  entrez: '2521'
-chemicals: []
-diseases:
-- word: Breast cancer
-  source: ''
-  identifier: ''
-- word: Fanconi anemia
-  source: ''
-  identifier: ''
-figid_alias: PMC4123742__F7
-redirect_from: /figures/PMC4123742__F7
-figtype: Figure
 ---

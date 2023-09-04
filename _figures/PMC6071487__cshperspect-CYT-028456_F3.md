@@ -1,5 +1,10 @@
 ---
 figid: PMC6071487__cshperspect-CYT-028456_F3
+figtitle: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
+organisms:
+- NA
+pmcid: PMC6071487
+filename: cshperspect-CYT-028456_F3.jpg
 figlink: pmc/articles/PMC6071487/figure/A028456F3/
 number: F3
 caption: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs).
@@ -14,18 +19,21 @@ caption: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
   and STAT3 mRNAs by Arid5a is important for the IL-6 production and strength of the
   IL-6R-mediated signaling. MyD88, Myeloid differentiation primary response 88; IκB,
   inhibitor of NF-κB; UTR, untranslated region.
-pmcid: PMC6071487
 papertitle: Interleukin (IL-6) Immunotherapy.
 reftext: Toshio Tanaka, et al. Cold Spring Harb Perspect Biol. 2018 Aug;10(8):a028456.
-pmc_ranked_result_index: '23457'
-pathway_score: 0.9313195
-filename: cshperspect-CYT-028456_F3.jpg
-figtitle: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9313195
+figid_alias: PMC6071487__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC6071487__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -55,145 +63,10 @@ schema-jsonld:
   - MYD88
   - ARID5A
   - NFKB1
-  - NFKB2
-  - REL
-  - RELA
-  - RELB
   - PYY
+  - UTS2R
+  - SLC14A2
   - STAT3
+  - RC3H1
   - LPS
-genes:
-- word: LPS
-  symbol: LPS
-  source: hgnc_prev_symbol
-  hgnc_symbol: IRF6
-  entrez: '3664'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: MyD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: Arid5a
-  symbol: ARID5A
-  source: hgnc_symbol
-  hgnc_symbol: ARID5A
-  entrez: '10865'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: P.YY-
-  symbol: PYY
-  source: hgnc_symbol
-  hgnc_symbol: PYY
-  entrez: '5697'
-- word: Arid5a
-  symbol: ARID5A
-  source: hgnc_symbol
-  hgnc_symbol: ARID5A
-  entrez: '10865'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: NFKB2
-  entrez: '4791'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: REL
-  entrez: '5966'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELA
-  entrez: '5970'
-- word: NF-KB
-  symbol: NFKB
-  source: bioentities_symbol
-  hgnc_symbol: RELB
-  entrez: '5971'
-- word: Arid5a
-  symbol: ARID5A
-  source: hgnc_symbol
-  hgnc_symbol: ARID5A
-  entrez: '10865'
-- word: Arid5a
-  symbol: ARID5A
-  source: hgnc_symbol
-  hgnc_symbol: ARID5A
-  entrez: '10865'
-- word: STAT3
-  symbol: STAT3
-  source: hgnc_symbol
-  hgnc_symbol: STAT3
-  entrez: '6774'
-chemicals: []
-diseases:
-- word: LPS
-  source: MESH
-  identifier: C536528
-figid_alias: PMC6071487__F3
-redirect_from: /figures/PMC6071487__F3
-figtype: Figure
 ---

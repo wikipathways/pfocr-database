@@ -1,5 +1,22 @@
 ---
 figid: PMC7694542__microorganisms-08-01739-g003
+figtitle: Conservation of signalling pathway proteins in Myxococcaceae
+organisms:
+- Escherichia coli
+- Myxococcus xanthus
+- Myxococcus fulvus
+- Archangium gephyra
+- Myxococcus xanthus DK 1622
+- Pyxidicoccus fallax
+- Myxococcales
+- Corallococcus coralloides DSM 2259
+- Corallococcus macrosporus DSM 14697
+- Myxococcus stipitatus DSM 14675
+- Myxococcus hansupus
+- Corallococcus exiguus
+- Cyanagraea praedator
+pmcid: PMC7694542
+filename: microorganisms-08-01739-g003.jpg
 figlink: pmc/articles/PMC7694542/figure/microorganisms-08-01739-f003/
 number: F3
 caption: Conservation of signalling pathway proteins in Myxococcaceae. Regulatory
@@ -27,30 +44,23 @@ caption: Conservation of signalling pathway proteins in Myxococcaceae. Regulator
   and are indicated with a pale grey background and dashed outline. Dispensable proteins
   are absent from some groups of Myxococcaeal genomes and are shown with a transparent
   background, and grey text.
-pmcid: PMC7694542
 papertitle: A Genomic Survey of Signalling in the Myxococcaceae.
 reftext: David E. Whitworth, et al. Microorganisms. 2020 Nov;8(11):1739.
-pmc_ranked_result_index: '33369'
-pathway_score: 0.8644862
-filename: microorganisms-08-01739-g003.jpg
-figtitle: Conservation of signalling pathway proteins in Myxococcaceae
 year: '2020'
-organisms:
-- Corallococcus coralloides DSM 2259
-- Corallococcus macrosporus DSM 14697
-- Myxococcus stipitatus DSM 14675
-- Myxococcus hansupus
-- Cyanagraea praedator
-- Myxococcus xanthus DK 1622
-- Myxococcales
-- Myxococcus fulvus
-- Myxococcus xanthus
-- Pyxidicoccus fallax
-- Archangium gephyra
-- Escherichia coli
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8644862
+figid_alias: PMC7694542__F3
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 - Corallococcus exiguus
+- Myxococcus xanthus DK 1622
+redirect_from: /figures/PMC7694542__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -88,103 +98,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CALR
-  - CARF
-  - CARS
-  - TCFL5
-  - ACTB
-  - ACTA1
-  - ACTC1
-  - WLS
-  - NANS
-  - EBP
-  - NLRP3
-  - CA2
+  - carA
+  - ptsG
+  - mrp
+  - ftsH
+  - hemL
+  - csgA
+  - fruA
+  - luxS
+  - mrpC
   - c-di-GMP
   - Al-I
   - Al-II
   - AHL
-genes:
-- word: crt
-  symbol: CRT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CALR
-  entrez: '811'
-- word: CarF
-  symbol: CARF
-  source: hgnc_symbol
-  hgnc_symbol: CARF
-  entrez: '79800'
-- word: Cars
-  symbol: CARS
-  source: hgnc_symbol
-  hgnc_symbol: CARS
-  entrez: '833'
-- word: crt
-  symbol: CRT
-  source: hgnc_alias_symbol
-  hgnc_symbol: CALR
-  entrez: '811'
-- word: CHa
-  symbol: CHA
-  source: hgnc_alias_symbol
-  hgnc_symbol: TCFL5
-  entrez: '10732'
-- word: ActB
-  symbol: ACTB
-  source: hgnc_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: ActA
-  symbol: ACTA
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: ActC
-  symbol: ACTC
-  source: hgnc_prev_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Mrp
-  symbol: MRP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WLS
-  entrez: '79971'
-- word: Sass
-  symbol: SAS
-  source: hgnc_alias_symbol
-  hgnc_symbol: NANS
-  entrez: '54187'
-- word: EBP
-  symbol: EBP
-  source: hgnc_symbol
-  hgnc_symbol: EBP
-  entrez: '10682'
-- word: Al-I
-  symbol: AII
-  source: hgnc_alias_symbol
-  hgnc_symbol: NLRP3
-  entrez: '114548'
-- word: CAI-I
-  symbol: CAII
-  source: hgnc_alias_symbol
-  hgnc_symbol: CA2
-  entrez: '760'
-chemicals:
-- word: c-di-GMP
-  source: MESH
-  identifier: C062025
-- word: Al-I
-  source: MESH
-  identifier: D000535
-- word: Al-II
-  source: MESH
-  identifier: D000535
-- word: AHL
-  source: MESH
-  identifier: C030654
-diseases: []
-figid_alias: PMC7694542__F3
-redirect_from: /figures/PMC7694542__F3
-figtype: Figure
 ---

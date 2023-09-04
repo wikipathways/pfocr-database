@@ -1,5 +1,14 @@
 ---
 figid: PMC5131753__cshperspectmed-PCA-026138_F2
+figtitle: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Saccharomyces cerevisiae
+- Danio rerio
+pmcid: PMC5131753
+filename: cshperspectmed-PCA-026138_F2.jpg
 figlink: /pmc/articles/PMC5131753/figure/A026138F2/
 number: F2
 caption: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2. Ribosomal
@@ -10,22 +19,23 @@ caption: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2.
   (RNP) complex, MDM2 is inhibited to stabilize p53. Conversely, p53 may also monitor
   fidelity of protein synthesis or rate of ribosome disassembly by enabling the 5S
   RNP complex to inhibit MDM2 and promote p53 transactivation.
-pmcid: PMC5131753
 papertitle: The Evolution of the Ribosomal Protein–MDM2–p53 Pathway.
 reftext: Chad Deisenroth, et al. Cold Spring Harb Perspect Med. 2016 Dec;6(12):a026138.
-pmc_ranked_result_index: '28569'
-pathway_score: 0.9482671
-filename: cshperspectmed-PCA-026138_F2.jpg
-figtitle: Possible mechanisms of ribosomal proteins L5 and L11 signaling to MDM2
 year: '2016'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Saccharomyces cerevisiae
-- Danio rerio
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9482671
+figid_alias: PMC5131753__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+redirect_from: /figures/PMC5131753__F2
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -45,34 +55,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MDM2
+  - RNPC3
   - RPL5
-  - TP53
+  - RPGR
   - RPL11
-genes:
-- word: MDM2
-  symbol: MDM2
-  source: hgnc_symbol
-  hgnc_symbol: MDM2
-  entrez: '4193'
-- word: Rpl5
-  symbol: RPL5
-  source: hgnc_symbol
-  hgnc_symbol: RPL5
-  entrez: '6125'
-- word: p53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: Rpl11
-  symbol: RPL11
-  source: hgnc_symbol
-  hgnc_symbol: RPL11
-  entrez: '6135'
-chemicals: []
-diseases: []
-figid_alias: PMC5131753__F2
-redirect_from: /figures/PMC5131753__F2
-figtype: Figure
+  - MDM2
+  - TP53
+  - TP63
+  - TP73
+  - Rpl5
+  - Prp2
+  - Rpl11
+  - Mdm2
+  - Tp53
+  - Trp53
 ---

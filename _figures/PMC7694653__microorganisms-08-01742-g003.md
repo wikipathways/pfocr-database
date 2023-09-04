@@ -1,37 +1,33 @@
 ---
 figid: PMC7694653__microorganisms-08-01742-g003
+figtitle: Branched pathway as related to bacterial growth rate
+organisms:
+- Megasphaera elsdenii
+- Homo sapiens
+pmcid: PMC7694653
+filename: microorganisms-08-01742-g003.jpg
 figlink: pmc/articles/PMC7694653/figure/microorganisms-08-01742-f003/
 number: F3
 caption: Schematic representation of the branched pathway as related to bacterial
   growth rate. The orange frame stands for the cell wall separating the intracellular
   and extracellular variables.
-pmcid: PMC7694653
 papertitle: 'True and Illusory Benefits of Modeling: Comment on “Genome-Scale Metabolic
   Network Reconstruction and In Silico Analysis of Hexanoic Acid Producing Megasphaera
   elsdenii. Microorganisms 2020, 8, 539”.'
 reftext: Nicolai S. Panikov. Microorganisms. 2020 Nov;8(11):1742.
-pmc_ranked_result_index: '51701'
-pathway_score: 0.7671686
-filename: microorganisms-08-01742-g003.jpg
-figtitle: Branched pathway as related to bacterial growth rate
 year: '2020'
-organisms:
-- Mannheimia succiniciproducens
-- Staphylococcus aureus subsp. aureus N315
-- Streptomyces lividans
-- Megasphaera sp.
-- Mycoplasmoides genitalium
-- Megasphaera cerevisiae
-- Bifidobacterium adolescentis L2-32
-- Faecalibacterium duncaniae
-- Saccharomyces cerevisiae
-- Escherichia coli
-- human metagenome
-- gut metagenome
-- Megasphaera elsdenii
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7671686
+figid_alias: PMC7694653__F3
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7694653__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -52,28 +48,4 @@ schema-jsonld:
   - Crotonyl-CoA
   - Hexanoyl-CoA
   - Hexanoate
-genes: []
-chemicals:
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Oxalacetate
-  source: ''
-  identifier: ''
-- word: Acetyl
-  source: MESH
-  identifier: C011632
-- word: Crotonyl-CoA
-  source: MESH
-  identifier: C010701
-- word: Hexanoyl-CoA
-  source: MESH
-  identifier: C044181
-- word: Hexanoate
-  source: MESH
-  identifier: D002208
-diseases: []
-figid_alias: PMC7694653__F3
-redirect_from: /figures/PMC7694653__F3
-figtype: Figure
 ---

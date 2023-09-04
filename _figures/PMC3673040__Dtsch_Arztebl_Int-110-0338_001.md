@@ -1,5 +1,11 @@
 ---
 figid: PMC3673040__Dtsch_Arztebl_Int-110-0338_001
+figtitle: Leptin is generated in adipose tissue and transported via the bloodstream
+  to the hypothalamus
+organisms:
+- Homo sapiens
+pmcid: PMC3673040
+filename: Dtsch_Arztebl_Int-110-0338_001.jpg
 figlink: /pmc/articles/PMC3673040/figure/F1/
 number: F1
 caption: Leptin is generated in adipose tissue and transported via the bloodstream
@@ -18,19 +24,21 @@ caption: Leptin is generated in adipose tissue and transported via the bloodstre
   pathway (red boxes). For three of these genes (POMC, MC4R, and BDNF), genome-wide
   significant single nucleotide polymorphisms (SNPs) that contribute to polygenic
   forms of obesity were found in genome-wide association studies (GWAS).
-pmcid: PMC3673040
 papertitle: Molecular Genetic Aspects of Weight Regulation.
 reftext: Johannes Hebebrand, et al. Dtsch Arztebl Int. 2013 May;110(19):338-344.
-pmc_ranked_result_index: '163186'
-pathway_score: 0.6679184
-filename: Dtsch_Arztebl_Int-110-0338_001.jpg
-figtitle: Leptin is generated in adipose tissue and transported via the bloodstream
-  to the hypothalamus
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.6679184
+figid_alias: PMC3673040__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3673040__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -59,67 +67,14 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - AGRP
-  - CARTPT
-  - BDNF
-  - PCSK1
+  - NPY
   - MC4R
+  - BDNF
+  - BDNF-AS
+  - NTRK2
   - POMC
   - STAMBP
-  - NTRK2
-  - NPY
+  - PCSK1
+  - CARTPT
   - Obesity
-genes:
-- word: AGRP
-  symbol: AGRP
-  source: hgnc_symbol
-  hgnc_symbol: AGRP
-  entrez: '181'
-- word: CART
-  symbol: CART
-  source: hgnc_alias_symbol
-  hgnc_symbol: CARTPT
-  entrez: '9607'
-- word: BDNF
-  symbol: BDNF
-  source: hgnc_symbol
-  hgnc_symbol: BDNF
-  entrez: '627'
-- word: PCSK1
-  symbol: PCSK1
-  source: hgnc_symbol
-  hgnc_symbol: PCSK1
-  entrez: '5122'
-- word: MC4R
-  symbol: MC4R
-  source: hgnc_symbol
-  hgnc_symbol: MC4R
-  entrez: '4160'
-- word: POMC
-  symbol: POMC
-  source: hgnc_symbol
-  hgnc_symbol: POMC
-  entrez: '5443'
-- word: a-MSH
-  symbol: AMSH
-  source: hgnc_alias_symbol
-  hgnc_symbol: STAMBP
-  entrez: '10617'
-- word: TrkB
-  symbol: TRKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NTRK2
-  entrez: '4915'
-- word: NPY
-  symbol: NPY
-  source: hgnc_symbol
-  hgnc_symbol: NPY
-  entrez: '4852'
-chemicals: []
-diseases:
-- word: Obesity
-  source: ''
-  identifier: ''
-figid_alias: PMC3673040__F1
-redirect_from: /figures/PMC3673040__F1
-figtype: Figure
 ---

@@ -1,22 +1,30 @@
 ---
 figid: PMC7176932__Beilstein_J_Org_Chem-16-691-g073
+figtitle: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
+  and proposed mechanism for product formation of 456 and 457 (bottom)
+organisms:
+- NA
+pmcid: PMC7176932
+filename: Beilstein_J_Org_Chem-16-691-g073.jpg
 figlink: pmc/articles/PMC7176932/figure/C72/
 number: S72
 caption: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
   and proposed mechanism for product formation of 456 and 457 (bottom).
-pmcid: PMC7176932
 papertitle: Recent advances in Cu-catalyzed C(sp3)–Si and C(sp3)–B bond formation.
 reftext: Balaram S Takale, et al. Beilstein J Org Chem. 2020;16:691-737.
-pmc_ranked_result_index: '27883'
-pathway_score: 0.8147346
-filename: Beilstein_J_Org_Chem-16-691-g073.jpg
-figtitle: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
-  and proposed mechanism for product formation of 456 and 457 (bottom)
 year: '2020'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8147346
+figid_alias: PMC7176932__S72
+figtype: Scheme
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC7176932__S72
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -30,9 +38,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DUOXA1
-  - DYNLL1
-  - BOC
+  - mol
+  - moi
+  - mor
+  - rh
+  - Me
+  - ee
+  - betaTub60D
+  - mo
   - Cu
   - NO Vrin
   - Bu, MeOH
@@ -42,67 +55,4 @@ schema-jsonld:
   - 'NO'
   - 'Bpin  Me '
   - L-Cu-Bpin
-genes:
-- word: mol
-  symbol: mol
-  source: hgnc_alias_symbol
-  hgnc_symbol: DUOXA1
-  entrez: '90527'
-- word: mol
-  symbol: mol
-  source: hgnc_alias_symbol
-  hgnc_symbol: DUOXA1
-  entrez: '90527'
-- word: Врin
-  symbol: PIN
-  source: hgnc_alias_symbol
-  hgnc_symbol: DYNLL1
-  entrez: '8655'
-- word: Врin
-  symbol: PIN
-  source: hgnc_alias_symbol
-  hgnc_symbol: DYNLL1
-  entrez: '8655'
-- word: Вос
-  symbol: BOC
-  source: hgnc_symbol
-  hgnc_symbol: BOC
-  entrez: '91653'
-- word: Вpin
-  symbol: PIN
-  source: hgnc_alias_symbol
-  hgnc_symbol: DYNLL1
-  entrez: '8655'
-chemicals:
-- word: Cu
-  source: MESH
-  identifier: D003300
-- word: NO Vrin
-  source: ''
-  identifier: ''
-- word: Bu, MeOH
-  source: MESH
-  identifier: C031356
-- word: THF
-  source: MESH
-  identifier: C006461
-- word: MezSiO
-  source: MESH
-  identifier: D012825
-- word: Bpin  Me3Sio Bpin
-  source: MESH
-  identifier: C526611
-- word: 'NO'
-  source: ''
-  identifier: ''
-- word: 'Bpin  Me '
-  source: MESH
-  identifier: C526611
-- word: L-Cu-Bpin
-  source: MESH
-  identifier: D003300
-diseases: []
-figid_alias: PMC7176932__S72
-redirect_from: /figures/PMC7176932__S72
-figtype: Scheme
 ---

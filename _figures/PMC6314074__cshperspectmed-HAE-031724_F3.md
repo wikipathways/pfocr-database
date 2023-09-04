@@ -1,5 +1,10 @@
 ---
 figid: PMC6314074__cshperspectmed-HAE-031724_F3
+figtitle: Life cycle of hepatitis E virus (HEV)
+organisms:
+- NA
+pmcid: PMC6314074
+filename: cshperspectmed-HAE-031724_F3.jpg
 figlink: pmc/articles/PMC6314074/figure/A031724F3/
 number: F3
 caption: Life cycle of hepatitis E virus (HEV). (1) Nonenveloped HEV virions bind
@@ -34,18 +39,22 @@ caption: Life cycle of hepatitis E virus (HEV). (1) Nonenveloped HEV virions bin
   transit through the host digestive system, the viral envelope is lost. HEV released
   into the bloodstream appears to retain its quasi-envelope, which is thought to mask
   the capsid shell from the host immune system.
-pmcid: PMC6314074
 papertitle: Hepatitis E Virus Genome Structure and Replication Strategy.
 reftext: Scott P. Kenney, et al. Cold Spring Harb Perspect Med. 2019 Jan;9(1):a031724.
-pmc_ranked_result_index: '123011'
-pathway_score: 0.7580741
-filename: cshperspectmed-HAE-031724_F3.jpg
-figtitle: Life cycle of hepatitis E virus (HEV)
 year: '2019'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7580741
+figid_alias: PMC6314074__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+redirect_from: /figures/PMC6314074__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -90,97 +99,36 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RAB27A
-  - CLTB
-  - CLTA
-  - CLTC
-  - RAB5A
-  - RAB7A
-  - SDC2
-  - HSPA8
-  - HSP90B1
-  - TRAP1
-  - HSP90AB1
-  - HSPA5
-genes:
-- word: Rab27a,
-  symbol: RAB27A
-  source: hgnc_symbol
-  hgnc_symbol: RAB27A
-  entrez: '5873'
-- word: Rab27a,Hrs
-  symbol: RAB27A
-  source: hgnc_symbol
-  hgnc_symbol: RAB27A
-  entrez: '5873'
-- word: Clathrin
-  symbol: Clathrin
-  source: bioentities_symbol
-  hgnc_symbol: CLTB
-  entrez: '1212'
-- word: Clathrin
-  symbol: Clathrin
-  source: bioentities_symbol
-  hgnc_symbol: CLTA
-  entrez: '1211'
-- word: Clathrin
-  symbol: Clathrin
-  source: bioentities_symbol
-  hgnc_symbol: CLTC
-  entrez: '1213'
-- word: Rab5,
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-- word: Rab5,Rab7
-  symbol: RAB7
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB7A
-  entrez: '7879'
-- word: Rab5,Rab7
-  symbol: RAB5
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB5A
-  entrez: '5868'
-- word: Rab7
-  symbol: RAB7
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB7A
-  entrez: '7879'
-- word: HSPGS,HSC70,?
-  symbol: HSPG
-  source: hgnc_prev_symbol
-  hgnc_symbol: SDC2
-  entrez: '6383'
-- word: HSC70,
-  symbol: HSC70
-  source: hgnc_alias_symbol
-  hgnc_symbol: HSPA8
-  entrez: '3312'
-- word: HSP90/Grp78
-  symbol: HSP90
-  source: bioentities_symbol
-  hgnc_symbol: HSP90B1
-  entrez: '7184'
-- word: HSP90/Grp78
-  symbol: HSP90
-  source: bioentities_symbol
-  hgnc_symbol: TRAP1
-  entrez: '10131'
-- word: HSP90/Grp78
-  symbol: HSP90
-  source: bioentities_symbol
-  hgnc_symbol: HSP90AB1
-  entrez: '3326'
-- word: HSP90/Grp78
-  symbol: GRP78
-  source: hgnc_prev_symbol
-  hgnc_symbol: HSPA5
-  entrez: '3309'
-chemicals: []
-diseases: []
-figid_alias: PMC6314074__F3
-redirect_from: /figures/PMC6314074__F3
-figtype: Figure
+  - Hrs
+  - HisRS
+  - Rab7
+  - Rab5
+  - Hsc70-3
+  - Hsc70-5
+  - Hsc70-1
+  - Hsc70Cb
+  - Hsc70-2
+  - Hsc70-4
+  - Hsc70-6
+  - CG6712
+  - CG10561
+  - Mettl4
+  - lmgB
+  - Sxl
+  - stnB
+  - tal-2A
+  - CG43210
+  - tal-3A
+  - Tab2
+  - CG14965
+  - Hsp83
+  - Actn3
+  - stnA
+  - lmgA
+  - tal-1A
+  - Gp93
+  - Hsp70Ab
+  - rab-7
+  - rab-5
+  - hsp-90
 ---

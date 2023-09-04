@@ -1,5 +1,11 @@
 ---
 figid: PMC6613304__jamapsychiatry-76-1026-g005
+figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
+organisms:
+- Homo sapiens
+- Danio rerio
+pmcid: PMC6613304
+filename: jamapsychiatry-76-1026-g005.jpg
 figlink: pmc/articles/PMC6613304/figure/yoi190035f5/
 number: F5
 caption: Nicotinic acid mononucleotide (NAMN) levels are maintained by 3 independent
@@ -22,20 +28,23 @@ caption: Nicotinic acid mononucleotide (NAMN) levels are maintained by 3 indepen
   semialdehyde; NADH, reduced form of nicotinamide adenine dinucleotide; NADPH, reduced
   form of nicotinamide adenine dinucleotide phosphate; NAM, nicotinamide; NR, nicotinamide
   riboside; and TCA, tricarboxylic acid cycle.
-pmcid: PMC6613304
 papertitle: Association of Schizophrenia Risk With Disordered Niacin Metabolism in
   an Indian Genome-wide Association Study.
 reftext: Sathish Periyasamy, et al. JAMA Psychiatry. 2019 Oct;76(10):1026-1034.
-pmc_ranked_result_index: '2662'
-pathway_score: 0.9011813
-filename: jamapsychiatry-76-1026-g005.jpg
-figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
 year: '2019'
-organisms:
-- Danio rerio
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9011813
+figid_alias: PMC6613304__F5
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC6613304__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -70,14 +79,26 @@ schema-jsonld:
   - NAPRT
   - QPRT
   - ACMSD
-  - NMNAT3
-  - NMNAT1
   - NMNAT2
+  - NMNAT1
+  - NMNAT3
+  - TWIST2
   - NADK
+  - DECR1
   - NMRK2
   - CPSF4
   - NAMPT
   - NMRK1
+  - STAC3
+  - naprt
+  - acmsd
+  - nmnat2
+  - nmnat1
+  - nmnat3
+  - nadkb
+  - nmrk2
+  - cpsf4
+  - nmrk1
   - Kynurenine
   - Tryptophan
   - TCA
@@ -89,118 +110,4 @@ schema-jsonld:
   - NADP
   - NADPH
   - NAMPT
-genes:
-- word: NAPRT1
-  symbol: NAPRT1
-  source: hgnc_prev_symbol
-  hgnc_symbol: NAPRT
-  entrez: '93100'
-- word: QPRT
-  symbol: QPRT
-  source: hgnc_symbol
-  hgnc_symbol: QPRT
-  entrez: '23475'
-- word: АСMSD
-  symbol: ACMSD
-  source: hgnc_symbol
-  hgnc_symbol: ACMSD
-  entrez: '130013'
-- word: NMNAT1-3
-  symbol: NMNAT3
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT3
-  entrez: '349565'
-- word: NMNAT1-3
-  symbol: NMNAT1
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT1
-  entrez: '64802'
-- word: NMNAT1-3
-  symbol: NMNAT2
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT2
-  entrez: '23057'
-- word: NADK
-  symbol: NADK
-  source: hgnc_symbol
-  hgnc_symbol: NADK
-  entrez: '65220'
-- word: NMRK2
-  symbol: NMRK2
-  source: hgnc_symbol
-  hgnc_symbol: NMRK2
-  entrez: '27231'
-- word: NMNAT1-3
-  symbol: NMNAT3
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT3
-  entrez: '349565'
-- word: NMNAT1-3
-  symbol: NMNAT1
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT1
-  entrez: '64802'
-- word: NMNAT1-3
-  symbol: NMNAT2
-  source: hgnc_symbol
-  hgnc_symbol: NMNAT2
-  entrez: '23057'
-- word: NAR
-  symbol: NAR
-  source: hgnc_alias_symbol
-  hgnc_symbol: CPSF4
-  entrez: '10898'
-- word: NAMPT
-  symbol: NAMPT
-  source: hgnc_symbol
-  hgnc_symbol: NAMPT
-  entrez: '10135'
-- word: NMRK1-2
-  symbol: NMRK2
-  source: hgnc_symbol
-  hgnc_symbol: NMRK2
-  entrez: '27231'
-- word: NMRK1-2
-  symbol: NMRK1
-  source: hgnc_symbol
-  hgnc_symbol: NMRK1
-  entrez: '54981'
-chemicals:
-- word: Kynurenine
-  source: MESH
-  identifier: C029366
-- word: Tryptophan
-  source: ''
-  identifier: ''
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: NADS
-  source: MESH
-  identifier: C055737
-- word: NAAD
-  source: MESH
-  identifier: C053851
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: NADK
-  source: ''
-  identifier: ''
-- word: NADP
-  source: MESH
-  identifier: D009249
-- word: NADPH
-  source: MESH
-  identifier: D009249
-- word: NAMPT
-  source: MESH
-  identifier: C085455
-diseases: []
-figid_alias: PMC6613304__F5
-redirect_from: /figures/PMC6613304__F5
-figtype: Figure
 ---

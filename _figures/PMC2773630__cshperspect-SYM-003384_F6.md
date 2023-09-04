@@ -1,5 +1,11 @@
 ---
 figid: PMC2773630__cshperspect-SYM-003384_F6
+figtitle: Molecular interactions during pheromone induced cell polarization
+organisms:
+- Saccharomyces cerevisiae
+- Homo sapiens
+pmcid: PMC2773630
+filename: cshperspect-SYM-003384_F6.jpg
 figlink: /pmc/articles/PMC2773630/figure/A003384F6/
 number: F6
 caption: Molecular interactions during pheromone induced cell polarization. (A) Polarized
@@ -20,18 +26,22 @@ caption: Molecular interactions during pheromone induced cell polarization. (A) 
   from the nucleus while Far1 undergoes proteolysis triggered by CDK1 phosphorylation.
   Cdc24 then reaches the plasma membrane likely because of interactions with Rsr1
   and/or Bem1.
-pmcid: PMC2773630
 papertitle: Symmetry Breaking in the Life Cycle of the Budding Yeast.
 reftext: Brian D. Slaughter, et al. Cold Spring Harb Perspect Biol. 2009 Sep;1(3):a003384.
-pmc_ranked_result_index: '15642'
-pathway_score: 0.9023828
-filename: cshperspect-SYM-003384_F6.jpg
-figtitle: Molecular interactions during pheromone induced cell polarization
 year: '2009'
-organisms:
-- Saccharomyces cerevisiae
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9023828
+figid_alias: PMC2773630__F6
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
+redirect_from: /figures/PMC2773630__F6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -62,38 +72,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - STK24
-  - FAR1
-  - CDK1
   - CDC42
+  - CDC24
+  - STE20
+  - STE11
+  - STE7
+  - BEM1
+  - FUS3
+  - BNI1
+  - RSR1
+  - FAR1
+  - CDC28
+  - STK24
+  - CDK1
   - Pheromone
-genes:
-- word: Ste20
-  symbol: STE20
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK24
-  entrez: '8428'
-- word: Far1
-  symbol: FAR1
-  source: hgnc_symbol
-  hgnc_symbol: FAR1
-  entrez: '84188'
-- word: CDK1
-  symbol: CDK1
-  source: hgnc_symbol
-  hgnc_symbol: CDK1
-  entrez: '983'
-- word: Cdc42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-chemicals:
-- word: Pheromone
-  source: MESH
-  identifier: D010675
-diseases: []
-figid_alias: PMC2773630__F6
-redirect_from: /figures/PMC2773630__F6
-figtype: Figure
 ---

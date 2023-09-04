@@ -1,5 +1,12 @@
 ---
 figid: PMC2902905__mplantssn069f01_4c
+figtitle: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localization.A
+  model of regulators and pathways contributing to polar PIN localization in roots
+  is proposed based on results discussed in this review
+organisms:
+- NA
+pmcid: PMC2902905
+filename: mplantssn069f01_4c.jpg
 figlink: /pmc/articles/PMC2902905/figure/fig1/
 number: F1
 caption: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localization.A
@@ -28,20 +35,22 @@ caption: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localization
   There is also some evidence that auxin regulates PIN localization via the TIR1-dependent
   signaling pathway as well as having a more indirect effect by modulating PIN protein
   expression.
-pmcid: PMC2902905
 papertitle: 'Cell Polarity Signaling: Focus on Polar Auxin Transport.'
 reftext: Xiaowei Gao, et al. Mol Plant. 2008 Nov;1(6):899-909.
-pmc_ranked_result_index: '42761'
-pathway_score: 0.9540806
-filename: mplantssn069f01_4c.jpg
-figtitle: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localization.A
-  model of regulators and pathways contributing to polar PIN localization in roots
-  is proposed based on results discussed in this review
 year: '2008'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9540806
+figid_alias: PMC2902905__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC2902905__F1
 ndex: 2a895cb7-deea-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -79,80 +88,38 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PDK4
-  - PDK2
-  - PDK1
+  - side
+  - Sidpn
+  - dod
+  - rc
+  - Rop
+  - wrd
+  - wdb
+  - mts
+  - tws
+  - Pp2A-29B
+  - Vps29
+  - Snx1
+  - lds
+  - Pdk
+  - Pdk1
+  - ec
+  - tc
   - PIN1
-  - PDK3
-  - GNL1
-  - VPS29
-  - C21orf33
-  - TG
-  - SNX1
+  - PDZD2
   - TERF1
+  - OPN1LW
+  - RPS3A
+  - GATD3
+  - GNL1
+  - PTPA
+  - TG
+  - MTA2
+  - VPS29
+  - SNX1
+  - PDK1
+  - PDK2
+  - PDK3
+  - PDK4
   - phosphate
-genes:
-- word: PDK)
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK4
-  entrez: '5166'
-- word: PDK)
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK2
-  entrez: '5164'
-- word: PDK)
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: PIN1
-  symbol: PIN1
-  source: hgnc_symbol
-  hgnc_symbol: PIN1
-  entrez: '5300'
-- word: PDK)
-  symbol: PDK
-  source: bioentities_symbol
-  hgnc_symbol: PDK3
-  entrez: '5165'
-- word: GNL1
-  symbol: GNL1
-  source: hgnc_symbol
-  hgnc_symbol: GNL1
-  entrez: '2794'
-- word: VPS29
-  symbol: VPS29
-  source: hgnc_symbol
-  hgnc_symbol: VPS29
-  entrez: '51699'
-- word: ES1
-  symbol: ES1
-  source: hgnc_alias_symbol
-  hgnc_symbol: C21orf33
-  entrez: '8209'
-- word: TGN
-  symbol: TGN
-  source: hgnc_alias_symbol
-  hgnc_symbol: TG
-  entrez: '7038'
-- word: SNX1
-  symbol: SNX1
-  source: hgnc_symbol
-  hgnc_symbol: SNX1
-  entrez: '6642'
-- word: PIN2
-  symbol: PIN2
-  source: hgnc_alias_symbol
-  hgnc_symbol: TERF1
-  entrez: '7013'
-chemicals:
-- word: phosphate
-  source: MESH
-  identifier: D010710
-diseases: []
-figid_alias: PMC2902905__F1
-redirect_from: /figures/PMC2902905__F1
-figtype: Figure
 ---

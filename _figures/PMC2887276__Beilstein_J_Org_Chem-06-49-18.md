@@ -1,20 +1,28 @@
 ---
 figid: PMC2887276__Beilstein_J_Org_Chem-06-49-18
+figtitle: Synthetic pathway for hydrazono acyclic nucleoside 2a–2g
+organisms:
+- NA
+pmcid: PMC2887276
+filename: Beilstein_J_Org_Chem-06-49-18.jpg
 figlink: /pmc/articles/PMC2887276/figure/C1/
 number: S1
 caption: Synthetic pathway for hydrazono acyclic nucleoside 2a–2g.
-pmcid: PMC2887276
 papertitle: Synthesis of some novel hydrazono acyclic nucleoside analogues.
 reftext: Mohammad N Soltani Rad, et al. Beilstein J Org Chem. 2010;6:49.
-pmc_ranked_result_index: '84215'
-pathway_score: 0.5833124
-filename: Beilstein_J_Org_Chem-06-49-18.jpg
-figtitle: Synthetic pathway for hydrazono acyclic nucleoside 2a–2g
 year: '2010'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.5833124
+figid_alias: PMC2887276__S1
+figtype: Scheme
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC2887276__S1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -27,30 +35,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - br
+  - tea
+  - bh
+  - kst
+  - ome
   - benzotriazole
   - imidazole
   - benzimidazole
   - 2-phenylimidazole
   - hydantoin
-genes: []
-chemicals:
-- word: benzotriazole
-  source: MESH
-  identifier: C012771
-- word: imidazole
-  source: MESH
-  identifier: C029899
-- word: benzimidazole
-  source: MESH
-  identifier: C031000
-- word: 2-phenylimidazole
-  source: MESH
-  identifier: C059194
-- word: hydantoin
-  source: MESH
-  identifier: D006827
-diseases: []
-figid_alias: PMC2887276__S1
-redirect_from: /figures/PMC2887276__S1
-figtype: Scheme
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC5466160__AnnalsATS.201507-450MG_f1
+figtitle: Autophagy pathway
+organisms:
+- Homo sapiens
+pmcid: PMC5466160
+filename: AnnalsATS.201507-450MG_f1.jpg
 figlink: /pmc/articles/PMC5466160/figure/fig1/
 number: F1
 caption: 'Autophagy pathway. Autophagy is a regulated process that responds to regulation
@@ -21,18 +26,21 @@ caption: 'Autophagy pathway. Autophagy is a regulated process that responds to r
   membrane, to capture a cargo such as mitochondria; (3) maturation of the double-membraned
   autophagosomal structure with cargo assimilation; and (4) autophagosome-lysosome
   fusion, which is concluded by degradation of the autolysosomal contents.'
-pmcid: PMC5466160
 papertitle: 'Autophagy: Friend or Foe in Lung Disease?.'
 reftext: Kenji Mizumura, et al. Ann Am Thorac Soc. 2016 Mar;13(Suppl 1):S40-S47.
-pmc_ranked_result_index: '60296'
-pathway_score: 0.8478113
-filename: AnnalsATS.201507-450MG_f1.jpg
-figtitle: Autophagy pathway
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8478113
+figid_alias: PMC5466160__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5466160__F1
 ndex: 496772c6-de8e-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -63,142 +71,28 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ATG10
-  - PRKAB2
-  - BECN1
-  - AKT2
-  - ATG5
-  - GABARAPL2
-  - AKT1
+  - APRT
   - MFAP1
-  - ATG12
+  - MTOR
+  - RPTOR
+  - AKT1
+  - AKT2
   - AKT3
   - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
   - PRKAG1
   - PRKAG2
   - PRKAG3
-  - RPTOR
+  - BECN1
   - ULK1
-  - ATG7
-  - MTOR
   - ATG4B
-  - PRKAA2
+  - ATG7
   - ATG3
-  - PRKAB1
-genes:
-- word: ATG5-12
-  symbol: ATG10
-  source: hgnc_symbol
-  hgnc_symbol: ATG10
-  entrez: '83734'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: ATG5-12
-  symbol: ATG6
-  source: hgnc_alias_symbol
-  hgnc_symbol: BECN1
-  entrez: '8678'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: ATG5-12
-  symbol: ATG5
-  source: hgnc_symbol
-  hgnc_symbol: ATG5
-  entrez: '9474'
-- word: ATG5-12
-  symbol: ATG8
-  source: hgnc_alias_symbol
-  hgnc_symbol: GABARAPL2
-  entrez: '11345'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AMP
-  symbol: AMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MFAP1
-  entrez: '4236'
-- word: ATG5-12
-  symbol: ATG12
-  source: hgnc_symbol
-  hgnc_symbol: ATG12
-  entrez: '9140'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: ULK1
-  symbol: ULK1
-  source: hgnc_symbol
-  hgnc_symbol: ULK1
-  entrez: '8408'
-- word: ATG-7
-  symbol: ATG7
-  source: hgnc_symbol
-  hgnc_symbol: ATG7
-  entrez: '10533'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: ATG-4B
-  symbol: ATG4B
-  source: hgnc_symbol
-  hgnc_symbol: ATG4B
-  entrez: '23192'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: ATG-3
-  symbol: ATG3
-  source: hgnc_symbol
-  hgnc_symbol: ATG3
-  entrez: '64422'
-- word: AMPK-
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-chemicals: []
-diseases: []
-figid_alias: PMC5466160__F1
-redirect_from: /figures/PMC5466160__F1
-figtype: Figure
+  - ATG10
+  - GABARAPL2
+  - GABARAPL1
+  - ATG12
+  - ATG5
 ---

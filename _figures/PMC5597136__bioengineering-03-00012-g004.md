@@ -1,5 +1,10 @@
 ---
 figid: PMC5597136__bioengineering-03-00012-g004
+figtitle: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae
+organisms:
+- NA
+pmcid: PMC5597136
+filename: bioengineering-03-00012-g004.jpg
 figlink: /pmc/articles/PMC5597136/figure/bioengineering-03-00012-f004/
 number: F4
 caption: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae.
@@ -13,18 +18,22 @@ caption: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces c
   of regulation. Some key regulations like activation (positive regulation) of the
   SBF (SWI4/SWI6) and MBF (MBP1/SWI6) complexes by the starter complex (CDC28/CLN3)
   are recovered.
-pmcid: PMC5597136
 papertitle: Stable Gene Regulatory Network Modeling From Steady-State Data .
 reftext: Joy Edward Larvie, et al. Bioengineering (Basel). 2016 Jun;3(2):12.
-pmc_ranked_result_index: '22131'
-pathway_score: 0.9346157
-filename: bioengineering-03-00012-g004.jpg
-figtitle: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9346157
+figid_alias: PMC5597136__F4
+figtype: Figure
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 - Homo sapiens
+redirect_from: /figures/PMC5597136__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,46 +56,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - FLI1
-  - CLN3
+  - FUS3
   - FAR1
-  - TPP1
-  - CDC6
+  - SWI4
+  - CLN2
+  - SWI6
+  - CDC28
+  - CLN3
+  - SIC1
   - CDC20
-genes:
-- word: SIC1
-  symbol: SIC-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: FLI1
-  entrez: '2313'
-- word: CLN3
-  symbol: CLN3
-  source: hgnc_symbol
-  hgnc_symbol: CLN3
-  entrez: '1201'
-- word: FAR1
-  symbol: FAR1
-  source: hgnc_symbol
-  hgnc_symbol: FAR1
-  entrez: '84188'
-- word: CLN2
-  symbol: CLN2
-  source: hgnc_prev_symbol
-  hgnc_symbol: TPP1
-  entrez: '1200'
-- word: CDC6
-  symbol: CDC6
-  source: hgnc_symbol
-  hgnc_symbol: CDC6
-  entrez: '990'
-- word: CDC20
-  symbol: CDC20
-  source: hgnc_symbol
-  hgnc_symbol: CDC20
-  entrez: '991'
-chemicals: []
-diseases: []
-figid_alias: PMC5597136__F4
-redirect_from: /figures/PMC5597136__F4
-figtype: Figure
+  - CDC6
+  - MBP1
+  - CLB6
+  - TPP1
+  - FLI1
+  - HIVEP1
+  - MBL2
+  - PRG2
+  - EFEMP2
 ---

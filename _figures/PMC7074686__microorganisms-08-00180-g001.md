@@ -1,5 +1,10 @@
 ---
 figid: PMC7074686__microorganisms-08-00180-g001
+figtitle: Interplay of different signalling pathways that enable C
+organisms:
+- NA
+pmcid: PMC7074686
+filename: microorganisms-08-00180-g001.jpg
 figlink: pmc/articles/PMC7074686/figure/microorganisms-08-00180-f001/
 number: F1
 caption: 'The interplay of different signalling pathways that enable C. neoformans
@@ -32,19 +37,23 @@ caption: 'The interplay of different signalling pathways that enable C. neoforma
   dashed white line arrows—possible stimulation; solid line black arrows—stimulation;
   thin/double-thin line white arrows—nucleus-independent stimulation; dashed/solid/thin
   line bar—repression/inhibition/decrease; ?—unknown.'
-pmcid: PMC7074686
 papertitle: Environmental Factors That Contribute to the Maintenance of Cryptococcus
   neoformans Pathogenesis.
 reftext: Maphori Maliehe, et al. Microorganisms. 2020 Feb;8(2):180.
-pmc_ranked_result_index: '3800'
-pathway_score: 0.8935673
-filename: microorganisms-08-00180-g001.jpg
-figtitle: Interplay of different signalling pathways that enable C
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8935673
+figid_alias: PMC7074686__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC7074686__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -87,10 +96,54 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ap
+  - apt
+  - Apart
+  - shi
+  - Ste12DOR
+  - an
+  - Pdfr
+  - Gr5a
+  - pat
+  - ptc
+  - Rim
+  - shrb
+  - Vps24
+  - ca
+  - Cat
+  - Ca-alpha1T
+  - ChAT
+  - sv
+  - sxc
+  - pan
+  - Panx
+  - Pka-R2
+  - Lon
+  - schlank
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - wal
+  - LYPLA2P1
   - TREH
   - SULT1E1
+  - AN
+  - RBBP8
+  - RIMS1
   - CAT
+  - CRAT
+  - GLYAT
   - OGT
+  - EOGT
+  - POMGNT1
+  - POMGNT2
+  - FLOT2
+  - EPCAM
+  - PON1
+  - ADA2
+  - TIMP1
+  - LONP1
   - Ca
   - PAN
   - Peroxide
@@ -98,51 +151,4 @@ schema-jsonld:
   - Azole
   - Oemotic Hyposia
   - Hyposia
-genes:
-- word: treas
-  symbol: TREA
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREH
-  entrez: '11181'
-- word: ste
-  symbol: STE
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1E1
-  entrez: '6783'
-- word: Cat
-  symbol: CAT
-  source: hgnc_symbol
-  hgnc_symbol: CAT
-  entrez: '847'
-- word: ogt
-  symbol: OGT
-  source: hgnc_symbol
-  hgnc_symbol: OGT
-  entrez: '8473'
-chemicals:
-- word: Ca
-  source: MESH
-  identifier: D002118
-- word: PAN
-  source: MESH
-  identifier: D011692
-- word: Peroxide
-  source: MESH
-  identifier: D010545
-- word: Fludioxonil
-  source: MESH
-  identifier: C108339
-- word: Azole
-  source: MESH
-  identifier: D001393
-diseases:
-- word: Oemotic Hyposia
-  source: ''
-  identifier: ''
-- word: Hyposia
-  source: ''
-  identifier: ''
-figid_alias: PMC7074686__F1
-redirect_from: /figures/PMC7074686__F1
-figtype: Figure
 ---

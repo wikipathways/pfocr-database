@@ -1,5 +1,11 @@
 ---
 figid: PMC3388835__jexboters010f01_ht
+figtitle: Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
+  and 13-LOX branches
+organisms:
+- NA
+pmcid: PMC3388835
+filename: jexboters010f01_ht.jpg
 figlink: /pmc/articles/PMC3388835/figure/fig1/
 number: F1
 caption: 'Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
@@ -10,20 +16,23 @@ caption: 'Metabolic diagram of the oxylipin pathway in plants including the 9-LO
   oxide cyclase; OPR, oxo-phytodienoic acid reductase; JMT, jasmonic acid carboxyl
   methyltransferase; JAME, methyl jasmonate esterase; HPL, hydroperoxide lyase; and
   DES, divinyl ether synthase. NE, non-enzymatic.'
-pmcid: PMC3388835
 papertitle: Late activation of the 9-oxylipin pathway during arbuscular mycorrhiza
   formation in tomato and its regulation by jasmonate signalling.
 reftext: Rafael Jorge León-Morcillo, et al. J Exp Bot. 2012 Jun 13;63(10):3545-3558.
-pmc_ranked_result_index: '17164'
-pathway_score: 0.8918304
-filename: jexboters010f01_ht.jpg
-figtitle: Metabolic diagram of the oxylipin pathway in plants including the 9-LOX
-  and 13-LOX branches
 year: '2012'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8918304
+figid_alias: PMC3388835__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+redirect_from: /figures/PMC3388835__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -43,7 +52,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DES
+  - La
+  - robo2
+  - ifc
+  - aos
+  - Aos1
+  - Ne
+  - LEA
+  - ECP63
+  - AOS
+  - JMT
   - Colneleic acid
   - nonanoic acid
   - Jasmonic acid
@@ -51,36 +69,4 @@ schema-jsonld:
   - linoleic acid
   - linolenic acid
   - Oleic acid
-genes:
-- word: DES
-  symbol: DES
-  source: hgnc_symbol
-  hgnc_symbol: DES
-  entrez: '1674'
-chemicals:
-- word: Colneleic acid
-  source: MESH
-  identifier: C002946
-- word: nonanoic acid
-  source: MESH
-  identifier: C008776
-- word: Jasmonic acid
-  source: MESH
-  identifier: C011006
-- word: Colnelenic acid
-  source: MESH
-  identifier: C118818
-- word: linoleic acid
-  source: MESH
-  identifier: D008041
-- word: linolenic acid
-  source: MESH
-  identifier: D008042
-- word: Oleic acid
-  source: MESH
-  identifier: D009829
-diseases: []
-figid_alias: PMC3388835__F1
-redirect_from: /figures/PMC3388835__F1
-figtype: Figure
 ---

@@ -1,5 +1,10 @@
 ---
 figid: PMC3543073__cshperspectmed-BAC-010272_F4
+figtitle: Bacterial nucleomodulins targeting chromatin
+organisms:
+- NA
+pmcid: PMC3543073
+filename: cshperspectmed-BAC-010272_F4.jpg
 figlink: /pmc/articles/PMC3543073/figure/A010272F4/
 number: F4
 caption: Bacterial nucleomodulins targeting chromatin. Schematic representation of
@@ -20,18 +25,22 @@ caption: Bacterial nucleomodulins targeting chromatin. Schematic representation 
   OspB, bind the retinoblastoma protein (Rb), which potentially recruits several chromatin-remodeling
   enzymes (not shown). Ac, Acetylation; Me, methylation; P, phosphorylation; E, eliminylation;
   UB, ubiquitinylation.
-pmcid: PMC3543073
 papertitle: Epigenetics and Bacterial Infections.
 reftext: Hélène Bierne, et al. Cold Spring Harb Perspect Med. 2012 Dec;2(12):a010272.
-pmc_ranked_result_index: '161954'
-pathway_score: 0.9519418
-filename: cshperspectmed-BAC-010272_F4.jpg
-figtitle: Bacterial nucleomodulins targeting chromatin
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9519418
+figid_alias: PMC3543073__F4
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3543073__F4
 ndex: 119651ef-def1-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,268 +70,80 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HDAC9
-  - HDAC3
+  - 'Off'
+  - 'On'
+  - HP1b
+  - HP1D3csd
+  - Su(var)205
+  - HP1e
+  - HP1c
+  - rhi
+  - Me
+  - ac
   - HDAC4
-  - MAPK10
-  - ADCY6
-  - MAPK12
-  - HDAC5
-  - SIRT3
-  - SIRT1
-  - MAPK13
-  - HDAC10
   - HDAC6
+  - HDAC1
+  - HDAC3
+  - MKP-4
+  - p38b
+  - rl
+  - rb
+  - dl
+  - wash
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - DEFA1
+  - CBX5
+  - DEFA1B
   - CYBB
-  - SIRT4
-  - BAHD1
-  - ADCY3
-  - SIRT5
-  - HDAC11
-  - ADCY2
-  - SIRT6
-  - ADCY10
-  - MAPK11
-  - HDAC7
-  - MAPK9
-  - MBD1
   - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - MBD1
+  - DPEP1
+  - CDKN3
+  - TRIM28
+  - KIFAP3
+  - BAHD1
+  - HDAC9
+  - HDAC2
+  - HDAC8
+  - HDAC5
+  - HDAC7
+  - HDAC10
+  - SIRT1
   - SIRT2
+  - SIRT3
+  - SIRT4
+  - SIRT5
+  - SIRT6
+  - SIRT7
+  - HDAC11
+  - U2AF1
   - MAPK1
   - MAPK3
-  - MAPK8
-  - HDAC8
+  - MAPK11
+  - MAPK12
+  - MAPK13
   - MAPK14
-  - HDAC2
-  - KIFAP3
-  - ADCY4
-  - ADCY9
-  - SIRT7
-  - CBX5
-  - U2AF1
-  - HDAC1
-  - ADCY8
-  - ADCY7
-  - ADCY5
-genes:
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC9
-  entrez: '9734'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC3
-  entrez: '8841'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC4
-  entrez: '9759'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK10
-  entrez: '5602'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY6
-  entrez: '112'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK12
-  entrez: '6300'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC5
-  entrez: '10014'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT3
-  entrez: '23410'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT1
-  entrez: '23411'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK13
-  entrez: '5603'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC10
-  entrez: '83933'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC6
-  entrez: '10013'
-- word: AT-rich/CYBB
-  symbol: CYBB
-  source: hgnc_symbol
-  hgnc_symbol: CYBB
-  entrez: '1536'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT4
-  entrez: '23409'
-- word: BAHD1
-  symbol: BAHD1
-  source: hgnc_symbol
-  hgnc_symbol: BAHD1
-  entrez: '22893'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY3
-  entrez: '109'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT5
-  entrez: '23408'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC11
-  entrez: '79885'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY2
-  entrez: '108'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT6
-  entrez: '51548'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY10
-  entrez: '55811'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK11
-  entrez: '5600'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC7
-  entrez: '51564'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK9
-  entrez: '5601'
-- word: MBD1
-  symbol: MBD1
-  source: hgnc_symbol
-  hgnc_symbol: MBD1
-  entrez: '4152'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY1
-  entrez: '107'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT2
-  entrez: '22933'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK8
-  entrez: '5599'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC8
-  entrez: '55869'
-- word: MAPK
-  symbol: MAPK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK14
-  entrez: '1432'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC2
-  entrez: '3066'
-- word: KAP1
-  symbol: KAP-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: KIFAP3
-  entrez: '22920'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY4
-  entrez: '196883'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY9
-  entrez: '115'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: SIRT7
-  entrez: '51547'
-- word: HP1
-  symbol: HP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CBX5
-  entrez: '23468'
-- word: U2AF35
-  symbol: U2AF35
-  source: hgnc_alias_symbol
-  hgnc_symbol: U2AF1
-  entrez: '7307'
-- word: HDAC
-  symbol: HDAC
-  source: bioentities_symbol
-  hgnc_symbol: HDAC1
-  entrez: '3065'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY8
-  entrez: '114'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY7
-  entrez: '113'
-- word: Ac
-  symbol: AC
-  source: bioentities_symbol
-  hgnc_symbol: ADCY5
-  entrez: '111'
-chemicals: []
-diseases: []
-figid_alias: PMC3543073__F4
-redirect_from: /figures/PMC3543073__F4
-figtype: Figure
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
 ---

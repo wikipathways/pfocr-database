@@ -1,5 +1,11 @@
 ---
 figid: PMC5711272__AnnalsATS.201702-153AW_f1
+figtitle: Central role of mitochondria in energy production, biosynthesis, and redox
+  regulation
+organisms:
+- NA
+pmcid: PMC5711272
+filename: AnnalsATS.201702-153AW_f1.jpg
 figlink: /pmc/articles/PMC5711272/figure/fig1/
 number: F1
 caption: Central role of mitochondria in energy production, biosynthesis, and redox
@@ -44,20 +50,22 @@ caption: Central role of mitochondria in energy production, biosynthesis, and re
   Conversely, extensive metabolic reprogramming, due to overadaptation to hypoxia
   or inflammation, could lead to increased survival and proliferation of airway smooth
   muscle cells and myofibroblast activation. MnSOD = manganese superoxide dismutase.
-pmcid: PMC5711272
 papertitle: 'Dealing with Stress: Defective Metabolic Adaptation in Chronic Obstructive
   Pulmonary Disease Pathogenesis.'
 reftext: Charalambos Michaeloudes, et al. Ann Am Thorac Soc. 2017 Nov;14(Suppl 5):S374-S382.
-pmc_ranked_result_index: '163362'
-pathway_score: 0.8909689
-filename: AnnalsATS.201702-153AW_f1.jpg
-figtitle: Central role of mitochondria in energy production, biosynthesis, and redox
-  regulation
 year: '2017'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8909689
+figid_alias: PMC5711272__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC5711272__F1
 ndex: 7e12a669-df15-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -113,19 +121,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DLD
-  - PDHB
-  - DLAT
-  - ACLY
-  - PDHA1
-  - LDHC
-  - LDHB
-  - LDHA
-  - PDHX
-  - WDTC1
-  - CHPT1
-  - PDHA2
+  - Hk
   - GLS
+  - Ldh
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - Sod2
+  - CycE
+  - cyc
+  - adp
+  - ATPsynbeta
+  - Atpalpha
+  - whd
+  - ATPCL
   - Fatty acid
   - Fatty acids
   - Glucose
@@ -138,111 +148,4 @@ schema-jsonld:
   - Ribose
   - Glutamate
   - Lactate
-genes:
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLD
-  entrez: '1738'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHB
-  entrez: '5162'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: DLAT
-  entrez: '1737'
-- word: ACL
-  symbol: ACL
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACLY
-  entrez: '47'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA1
-  entrez: '5160'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHC
-  entrez: '3948'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHB
-  entrez: '3945'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHA
-  entrez: '3939'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHX
-  entrez: '8050'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: CPT1
-  symbol: CPT1
-  source: hgnc_alias_symbol
-  hgnc_symbol: CHPT1
-  entrez: '56994'
-- word: PDH
-  symbol: PDH
-  source: bioentities_symbol
-  hgnc_symbol: PDHA2
-  entrez: '5161'
-- word: GLS
-  symbol: GLS
-  source: hgnc_symbol
-  hgnc_symbol: GLS
-  entrez: '2744'
-chemicals:
-- word: Fatty acid
-  source: MESH
-  identifier: D005227
-- word: Fatty acids
-  source: MESH
-  identifier: D005227
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Glucose-6-P
-  source: MESH
-  identifier: D005947
-- word: Glutamine
-  source: MESH
-  identifier: D005973
-- word: Pentose
-  source: MESH
-  identifier: D010429
-- word: Phosphate
-  source: MESH
-  identifier: D010710
-- word: phosphate
-  source: MESH
-  identifier: D010710
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Ribose
-  source: MESH
-  identifier: D012266
-- word: Glutamate
-  source: MESH
-  identifier: D018698
-- word: Lactate
-  source: MESH
-  identifier: D019344
-diseases: []
-figid_alias: PMC5711272__F1
-redirect_from: /figures/PMC5711272__F1
-figtype: Figure
 ---

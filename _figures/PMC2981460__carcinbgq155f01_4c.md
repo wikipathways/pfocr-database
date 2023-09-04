@@ -1,5 +1,11 @@
 ---
 figid: PMC2981460__carcinbgq155f01_4c
+figtitle: TGFB canonical signal transduction pathway and transcriptional responses
+  mediating TGFB growth inhibitory effects
+organisms:
+- NA
+pmcid: PMC2981460
+filename: carcinbgq155f01_4c.jpg
 figlink: /pmc/articles/PMC2981460/figure/fig1/
 number: F1
 caption: TGFβ canonical signal transduction pathway and transcriptional responses
@@ -12,20 +18,22 @@ caption: TGFβ canonical signal transduction pathway and transcriptional respons
   and regulate transcription of target genes, involved in TGFβ-induced growth inhibition.
   Downregulation of c-myc, CDC25A and Id family members and upregulation of p15 and
   p21 CDK inhibitors are key events in this response.
-pmcid: PMC2981460
 papertitle: 'Resistance to transforming growth factor β-mediated tumor suppression
   in melanoma: are multiple mechanisms in place?.'
 reftext: Ahmed Lasfar, et al. Carcinogenesis. 2010 Oct;31(10):1710-1717.
-pmc_ranked_result_index: '146029'
-pathway_score: 0.9276692
-filename: carcinbgq155f01_4c.jpg
-figtitle: TGFB canonical signal transduction pathway and transcriptional responses
-  mediating TGFB growth inhibitory effects
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9276692
+figid_alias: PMC2981460__F1
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2981460__F1
 ndex: d625cde7-df0a-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -47,70 +55,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TGFB3
-  - CDC25A
-  - TGFBR1
-  - SMAD4
-  - TGFBR2
-  - SMAD3
   - TGFB1
-  - SMAD2
   - TGFB2
+  - TGFB3
+  - TGFBR1
+  - TGFBR2
+  - SMAD2
+  - SMAD3
+  - SMAD4
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
+  - CDKN2B
+  - MRPL28
+  - SUB1
+  - NXT1
+  - H3P9
   - MYC
-genes:
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: CDC25A
-  symbol: CDC25A
-  source: hgnc_symbol
-  hgnc_symbol: CDC25A
-  entrez: '993'
-- word: TBR-I
-  symbol: TBR-i
-  source: hgnc_alias_symbol
-  hgnc_symbol: TGFBR1
-  entrez: '7046'
-- word: Smad4
-  symbol: SMAD4
-  source: hgnc_symbol
-  hgnc_symbol: SMAD4
-  entrez: '4089'
-- word: TBR-II
-  symbol: TBR-ii
-  source: hgnc_alias_symbol
-  hgnc_symbol: TGFBR2
-  entrez: '7048'
-- word: Smad2/3
-  symbol: SMAD3
-  source: hgnc_symbol
-  hgnc_symbol: SMAD3
-  entrez: '4088'
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: Smad2/3
-  symbol: SMAD2
-  source: hgnc_symbol
-  hgnc_symbol: SMAD2
-  entrez: '4087'
-- word: TGFB
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: c-myc,
-  symbol: c-Myc
-  source: hgnc_alias_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-chemicals: []
-diseases: []
-figid_alias: PMC2981460__F1
-redirect_from: /figures/PMC2981460__F1
-figtype: Figure
+  - CDC25A
 ---

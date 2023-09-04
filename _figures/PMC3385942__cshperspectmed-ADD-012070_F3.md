@@ -1,5 +1,11 @@
 ---
 figid: PMC3385942__cshperspectmed-ADD-012070_F3
+figtitle: Chronic morphine decreases VTA DA soma size yet increases neuronal excitability,
+  while DA transmission to NAc is decreased
+organisms:
+- NA
+pmcid: PMC3385942
+filename: cshperspectmed-ADD-012070_F3.jpg
 figlink: /pmc/articles/PMC3385942/figure/A012070F3/
 number: F3
 caption: Chronic morphine decreases VTA DA soma size yet increases neuronal excitability,
@@ -15,20 +21,22 @@ caption: Chronic morphine decreases VTA DA soma size yet increases neuronal exci
   as well as decreasing dendritic branching and the number of dendritic spines on
   medium spiny GABA neurons in NAc, further suppressing normal DA signaling in the
   mesolimbic circuit.
-pmcid: PMC3385942
 papertitle: Opiate-Induced Molecular and Cellular Plasticity of Ventral Tegmental
   Area and Locus Coeruleus Catecholamine Neurons.
 reftext: Michelle S. Mazei-Robison, et al. Cold Spring Harb Perspect Med. 2012 Jul;2(7):a012070.
-pmc_ranked_result_index: '125180'
-pathway_score: 0.9450903
-filename: cshperspectmed-ADD-012070_F3.jpg
-figtitle: Chronic morphine decreases VTA DA soma size yet increases neuronal excitability,
-  while DA transmission to NAc is decreased
 year: '2012'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9450903
+figid_alias: PMC3385942__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3385942__F3
 ndex: e74384f9-de90-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,91 +61,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AKT3
-  - MLST8
-  - RICTOR
-  - MAPKAP1
-  - NLRP1
-  - AKT1
-  - MTOR
-  - RPS6KB2
-  - RPTOR
-  - IRS2
-  - RPS6KB1
-  - AKT2
+  - vta
+  - nac
+  - Nacalpha
+  - Akt
+  - Crtc
+  - S6k
   - Morphine
-genes:
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: NAc
-  symbol: NAC
-  source: hgnc_alias_symbol
-  hgnc_symbol: NLRP1
-  entrez: '22861'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB2
-  entrez: '6199'
-- word: MTORC1
-  symbol: mTORC1
-  source: bioentities_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: IRS2
-  symbol: IRS2
-  source: hgnc_symbol
-  hgnc_symbol: IRS2
-  entrez: '8660'
-- word: P70S6K
-  symbol: P70S6K
-  source: bioentities_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-chemicals:
-- word: Morphine
-  source: MESH
-  identifier: D009020
-diseases: []
-figid_alias: PMC3385942__F3
-redirect_from: /figures/PMC3385942__F3
-figtype: Figure
 ---

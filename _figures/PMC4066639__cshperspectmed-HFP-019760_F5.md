@@ -1,5 +1,11 @@
 ---
 figid: PMC4066639__cshperspectmed-HFP-019760_F5
+figtitle: Stress-signaling pathways in C
+organisms:
+- Cryptococcus neoformans
+- Homo sapiens
+pmcid: PMC4066639
+filename: cshperspectmed-HFP-019760_F5.jpg
 figlink: /pmc/articles/PMC4066639/figure/A019760F5/
 number: F5
 caption: The stress-signaling pathways in C. neoformans and C. gattii. The HOG pathway
@@ -22,22 +28,22 @@ caption: The stress-signaling pathways in C. neoformans and C. gattii. The HOG p
   C. gattii as well as C. neoformans are indicated in black boxes. The functions of
   these components in C. gattii are marked by a red line. Dotted arrows or line indicate
   potential but unclear regulation.
-pmcid: PMC4066639
 papertitle: Cryptococcus neoformans and Cryptococcus gattii, the Etiologic Agents
   of Cryptococcosis.
 reftext: Kyung J. Kwon-Chung, et al. Cold Spring Harb Perspect Med. 2014 Jul;4(7):a019760.
-pmc_ranked_result_index: '14443'
-pathway_score: 0.7562708
-filename: cshperspectmed-HFP-019760_F5.jpg
-figtitle: Stress-signaling pathways in C
 year: '2014'
-organisms:
-- Saccharomyces cerevisiae
-- Cryptococcus neoformans
-- Cryptococcus gattii VGIII
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.7562708
+figid_alias: PMC4066639__F5
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4066639__F5
 ndex: 516fa6b0-df2f-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -69,196 +75,56 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RAC1
-  - TMEM54
-  - ESR2
-  - PPP3CB
-  - PPP3CA
-  - NR4A1
-  - PRKACB
-  - PRKAR1B
-  - PPP3CC
-  - PROKR1
-  - HRAS
-  - GSR
-  - SP1
-  - PPP3R2
-  - PRKACG
-  - BUB1B
   - KRAS
-  - ERN1
-  - ESR1
-  - RAB8A
-  - CDC42
-  - PPP3R1
-  - PDK1
-  - PRKAR2B
+  - HRAS
   - NRAS
   - PRKAR1A
-  - PRKACA
+  - PRKAR1B
   - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - CGA
+  - TMEM54
+  - CACUL1
+  - SNORA1
+  - RAC1
+  - RNASE1
+  - CDC42
+  - PROKR1
+  - BUB1B
+  - AKR1B1
+  - FDXR
+  - CTAA1
+  - LNPEP
+  - SERPINB6
+  - HACD1
+  - CAP1
+  - SORBS1
+  - BRD4
+  - CAP2
+  - GSR
+  - NR4A1
+  - MRC1
+  - RAB8A
+  - MAP2K1
+  - ESR1
+  - ESR2
+  - PDK1
+  - PDPK1
+  - CALM2
+  - CALM3
+  - ERN1
+  - CNA1
+  - PPP3CA
+  - PPP3CB
+  - KERA
+  - MAP2K2
+  - CALR
+  - SP1
+  - PSG1
+  - DAND5
   - Melanin
   - Cancer
-genes:
-- word: Rac1
-  symbol: RAC1
-  source: hgnc_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: Cac1,
-  symbol: CAC-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TMEM54
-  entrez: '113452'
-- word: ESR
-  symbol: ESR
-  source: bioentities_symbol
-  hgnc_symbol: ESR2
-  entrez: '2100'
-- word: calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CB
-  entrez: '5532'
-- word: calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CA
-  entrez: '5530'
-- word: HMR,
-  symbol: HMR
-  source: hgnc_prev_symbol
-  hgnc_symbol: NR4A1
-  entrez: '3164'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: Cna2
-  symbol: CNA2
-  source: hgnc_alias_symbol
-  hgnc_symbol: PPP3CB
-  entrez: '5532'
-- word: calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3CC
-  entrez: '5533'
-- word: Pkr1
-  symbol: PKR1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PROKR1
-  entrez: '10887'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: HRAS
-  entrez: '3265'
-- word: GSR,ADR,
-  symbol: GSR
-  source: hgnc_symbol
-  hgnc_symbol: GSR
-  entrez: '2936'
-- word: /Sp1
-  symbol: SP1
-  source: hgnc_symbol
-  hgnc_symbol: SP1
-  entrez: '6667'
-- word: calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3R2
-  entrez: '5535'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: Cna1
-  symbol: CNA1
-  source: hgnc_alias_symbol
-  hgnc_symbol: PPP3CA
-  entrez: '5530'
-- word: Ssk1
-  symbol: SSK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: BUB1B
-  entrez: '701'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: KRAS
-  entrez: '3845'
-- word: Ire1
-  symbol: IRE1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ERN1
-  entrez: '2081'
-- word: ESR
-  symbol: ESR
-  source: bioentities_symbol
-  hgnc_symbol: ESR1
-  entrez: '2099'
-- word: MEL
-  symbol: MEL
-  source: hgnc_prev_symbol
-  hgnc_symbol: RAB8A
-  entrez: '4218'
-- word: Cdc42
-  symbol: CDC42
-  source: hgnc_symbol
-  hgnc_symbol: CDC42
-  entrez: '998'
-- word: calcineurin
-  symbol: CALCINEURIN
-  source: bioentities_symbol
-  hgnc_symbol: PPP3R1
-  entrez: '5534'
-- word: Pdk1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: Ras
-  symbol: RAS
-  source: bioentities_symbol
-  hgnc_symbol: NRAS
-  entrez: '4893'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: CAMP/PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-chemicals:
-- word: Melanin
-  source: MESH
-  identifier: D008543
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC4066639__F5
-redirect_from: /figures/PMC4066639__F5
-figtype: Figure
 ---

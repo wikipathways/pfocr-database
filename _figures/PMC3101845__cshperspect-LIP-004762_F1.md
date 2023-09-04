@@ -1,5 +1,10 @@
 ---
 figid: PMC3101845__cshperspect-LIP-004762_F1
+figtitle: Regulation of Tat2 sorting to the vacuole
+organisms:
+- NA
+pmcid: PMC3101845
+filename: cshperspect-LIP-004762_F1.jpg
 figlink: /pmc/articles/PMC3101845/figure/A004762F1/
 number: F1
 caption: Regulation of Tat2 sorting to the vacuole. (Upper left) Following starvation,
@@ -11,18 +16,21 @@ caption: Regulation of Tat2 sorting to the vacuole. (Upper left) Following starv
   membrane. One possible reason is that Tat2 is misfolded by the altered sterol and
   sphingolipid composition. Alternatively, the sterol mutants may be defective in
   nutrient sensing.
-pmcid: PMC3101845
 papertitle: Distribution and Functions of Sterols and Sphingolipids.
 reftext: J. Thomas Hannich, et al. Cold Spring Harb Perspect Biol. 2011 May;3(5):a004762.
-pmc_ranked_result_index: '95389'
-pathway_score: 0.9448658
-filename: cshperspect-LIP-004762_F1.jpg
-figtitle: Regulation of Tat2 sorting to the vacuole
 year: '2011'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9448658
+figid_alias: PMC3101845__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
+redirect_from: /figures/PMC3101845__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -43,28 +51,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RORC
-  - GLI3
-  - ERG
-genes:
-- word: TOR
-  symbol: TOR
-  source: hgnc_alias_symbol
-  hgnc_symbol: RORC
-  entrez: '6097'
-- word: PHS
-  symbol: PHS
-  source: hgnc_prev_symbol
-  hgnc_symbol: GLI3
-  entrez: '2737'
-- word: erg
-  symbol: ERG
-  source: hgnc_symbol
-  hgnc_symbol: ERG
-  entrez: '2078'
-chemicals: []
-diseases: []
-figid_alias: PMC3101845__F1
-redirect_from: /figures/PMC3101845__F1
-figtype: Figure
+  - Phs
+  - cd
+  - tor
+  - Tor
+  - Egfr
+  - sei
+  - Sh
 ---

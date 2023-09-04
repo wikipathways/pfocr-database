@@ -1,40 +1,48 @@
 ---
 figid: PMC3254687__jexboterr318f01_lw
+figtitle: Carotenoid metabolic pathway in citrus
+organisms:
+- Arabidopsis thaliana
+- Nicotiana tabacum
+- Zea mays
+- Solanum lycopersicum
+- Embryophyta
+- Arachis hypogaea
+- Chlamydomonas reinhardtii
+- Mangifera indica
+- Citrus sinensis
+- Citrus limon
+- Citrus reticulata
+- Prunus armeniaca
+- Vigna unguiculata
+- Prunus mume
+- Citrus unshiu
+- Sinapis alba
+- Citrus nobilis
+- Homo sapiens
+pmcid: PMC3254687
+filename: jexboterr318f01_lw.jpg
 figlink: /pmc/articles/PMC3254687/figure/fig1/
 number: F1
 caption: Carotenoid metabolic pathway in citrus. GGPP, geranylgeranyl diphosphate.
   The expression of CitPSY, CitPDS, CitZDS, CitLCYb1, CitLCYb2, CitHYb, CitZEP, CitNCED2,
   and CitNCED3 was analysed by real-time PCR.
-pmcid: PMC3254687
 papertitle: Regulation of carotenoid accumulation and the expression of carotenoid
   metabolic genes in citrus juice sacs in vitro.
 reftext: Lancui Zhang, et al. J Exp Bot. 2012 Jan;63(2):871-886.
-pmc_ranked_result_index: '27125'
-pathway_score: 0.8264555
-filename: jexboterr318f01_lw.jpg
-figtitle: Carotenoid metabolic pathway in citrus
 year: '2012'
-organisms:
-- Prunus mume
-- Citrus limon
-- Citrus sinensis
-- Mangifera indica
-- Chlamydomonas reinhardtii
-- Embryophyta
-- Prunus armeniaca
-- Arabidopsis thaliana
-- Sinapis alba
-- Arachis hypogaea
-- Vigna unguiculata
-- Solanum lycopersicum
-- Nicotiana tabacum
-- Zea mays
-- Citrus nobilis
-- Citrus unshiu
-- Citrus reticulata
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8264555
+figid_alias: PMC3254687__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3254687__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,7 +57,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GAST
   - kaurene
   - C25 Epoxy-apocarotenal
   - 9-cis-violaxanthin
@@ -66,63 +73,4 @@ schema-jsonld:
   - Gibberellins
   - Zeaxanthin
   - B-Cryptoxanthin
-genes:
-- word: (GAS)
-  symbol: GAS
-  source: hgnc_prev_symbol
-  hgnc_symbol: GAST
-  entrez: '2520'
-chemicals:
-- word: kaurene
-  source: MESH
-  identifier: C002627
-- word: C25 Epoxy-apocarotenal
-  source: MESH
-  identifier: C004984
-- word: 9-cis-violaxanthin
-  source: MESH
-  identifier: C005613
-- word: trans-violaxanthin
-  source: MESH
-  identifier: C005613
-- word: Xanthoxin
-  source: MESH
-  identifier: C012475
-- word: Phytoene
-  source: MESH
-  identifier: C100185
-- word: copalyl diphosphate
-  source: MESH
-  identifier: C408747
-- word: Abscisic acid
-  source: MESH
-  identifier: D000040
-- word: 5-Carotene
-  source: MESH
-  identifier: D002338
-- word: 8-Carotene
-  source: MESH
-  identifier: D002338
-- word: B-Carotene
-  source: MESH
-  identifier: D002338
-- word: Carotene
-  source: MESH
-  identifier: D002338
-- word: S-Carotene
-  source: MESH
-  identifier: D002338
-- word: Gibberellins
-  source: MESH
-  identifier: D005875
-- word: Zeaxanthin
-  source: MESH
-  identifier: D065146
-- word: B-Cryptoxanthin
-  source: MESH
-  identifier: D065366
-diseases: []
-figid_alias: PMC3254687__F1
-redirect_from: /figures/PMC3254687__F1
-figtype: Figure
 ---

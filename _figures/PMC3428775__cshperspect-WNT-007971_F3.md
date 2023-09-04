@@ -1,5 +1,11 @@
 ---
 figid: PMC3428775__cshperspect-WNT-007971_F3
+figtitle: Model depicting effects of Wnt-stabilized Beta-catenin through Tcf proteins
+  in mESCs
+organisms:
+- NA
+pmcid: PMC3428775
+filename: cshperspect-WNT-007971_F3.jpg
 figlink: /pmc/articles/PMC3428775/figure/A007971F3/
 number: F3
 caption: Model depicting effects of Wnt-stabilized β-catenin through Tcf proteins
@@ -25,19 +31,21 @@ caption: Model depicting effects of Wnt-stabilized β-catenin through Tcf protei
   for XTCF-3 (; ). Tcf1–β-catenin stimulates expression of both stem cell genes and
   differentiation genes; however, the high level of stem cell gene expression is sufficient
   to stimulate self-renewal.
-pmcid: PMC3428775
 papertitle: Wnt Pathway Regulation of Embryonic Stem Cell Self-Renewal.
 reftext: Bradley J. Merrill. Cold Spring Harb Perspect Biol. 2012 Sep;4(9):a007971.
-pmc_ranked_result_index: '210175'
-pathway_score: 0.811478
-filename: cshperspect-WNT-007971_F3.jpg
-figtitle: Model depicting effects of Wnt-stabilized Beta-catenin through Tcf proteins
-  in mESCs
 year: '2012'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.811478
+figid_alias: PMC3428775__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC3428775__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -72,40 +80,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TCF3
-  - NANOG
-  - POU5F1
-  - TCF7
   - SOX2
-genes:
-- word: Tcf3
-  symbol: TCF3
-  source: hgnc_symbol
-  hgnc_symbol: TCF3
-  entrez: '6929'
-- word: Nanog
-  symbol: NANOG
-  source: hgnc_symbol
-  hgnc_symbol: NANOG
-  entrez: '79923'
-- word: Oct4
-  symbol: Oct4
-  source: hgnc_alias_symbol
-  hgnc_symbol: POU5F1
-  entrez: '5460'
-- word: Tcf1
-  symbol: TCF-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TCF7
-  entrez: '6932'
-- word: Sox2
-  symbol: SOX2
-  source: hgnc_symbol
-  hgnc_symbol: SOX2
-  entrez: '6657'
-chemicals: []
-diseases: []
-figid_alias: PMC3428775__F3
-redirect_from: /figures/PMC3428775__F3
-figtype: Figure
+  - POU5F1
+  - POU5F1P3
+  - POU5F1P4
+  - TCF3
+  - TCF7L1
+  - NANOG
+  - HNF1A
+  - TCF7
 ---

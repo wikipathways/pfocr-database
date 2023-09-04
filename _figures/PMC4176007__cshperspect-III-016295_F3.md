@@ -1,5 +1,10 @@
 ---
 figid: PMC4176007__cshperspect-III-016295_F3
+figtitle: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a
+organisms:
+- NA
+pmcid: PMC4176007
+filename: cshperspect-III-016295_F3.jpg
 figlink: /pmc/articles/PMC4176007/figure/A016295F3/
 number: F3
 caption: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a. Pathogen-associated
@@ -10,18 +15,22 @@ caption: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a. Pathoge
   regnase-1 is important for the regulation of IL-6 mRNA. MD2, myeloid differentiation
   protein 2; MyD88, myeloid differentiation primary response 88; IκB, inhibitor of
   NF-κB.
-pmcid: PMC4176007
 papertitle: IL-6 in Inflammation, Immunity, and Disease.
 reftext: Toshio Tanaka, et al. Cold Spring Harb Perspect Biol. 2014 Oct;6(10):a016295.
-pmc_ranked_result_index: '1485'
-pathway_score: 0.9577986
-filename: cshperspect-III-016295_F3.jpg
-figtitle: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a
 year: '2014'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9577986
+figid_alias: PMC4176007__F3
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC4176007__F3
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -41,52 +50,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ARID5A
-  - LY96
-  - IL6
   - IRF6
   - TLR4
+  - IL6
+  - LY96
+  - ARID5A
   - MYD88
   - NFKB1
-genes:
-- word: Arid5a
-  symbol: ARID5A
-  source: hgnc_symbol
-  hgnc_symbol: ARID5A
-  entrez: '10865'
-- word: MD2
-  symbol: MD-2
-  source: hgnc_alias_symbol
-  hgnc_symbol: LY96
-  entrez: '23643'
-- word: IL-6
-  symbol: IL-6
-  source: hgnc_alias_symbol
-  hgnc_symbol: IL6
-  entrez: '3569'
-- word: LPS
-  symbol: LPS
-  source: hgnc_prev_symbol
-  hgnc_symbol: IRF6
-  entrez: '3664'
-- word: TLR4
-  symbol: TLR4
-  source: hgnc_symbol
-  hgnc_symbol: TLR4
-  entrez: '7099'
-- word: MyD88
-  symbol: MYD88
-  source: hgnc_symbol
-  hgnc_symbol: MYD88
-  entrez: '4615'
-- word: NF-KB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-chemicals: []
-diseases: []
-figid_alias: PMC4176007__F3
-redirect_from: /figures/PMC4176007__F3
-figtype: Figure
+  - il6
+  - arid5a
+  - myd88
 ---

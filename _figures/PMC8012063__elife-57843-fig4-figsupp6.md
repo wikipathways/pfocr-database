@@ -1,44 +1,53 @@
 ---
 figid: PMC8012063__elife-57843-fig4-figsupp6
+figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
+  hsa05012 Parkinson’s disease at the cross-tissue level
+organisms:
+- Mus musculus
+- Rattus norvegicus
+- Cavia porcellus
+- Heterocephalus glaber
+- Cryptomys hottentotus
+- Fukomys damarensis
+- Tachyoryctes macrocephalus
+- Fukomys anselli
+- Fukomys mechowii
+- Fukomys micklemi
+- Canis lupus familiaris
+- Equus caballus
+- Felis catus
+- Pekania pennanti
+- Solanum tuberosum
+- Malus domestica
+- Daucus carota
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
+- Fundulus heteroclitus
+pmcid: PMC8012063
+filename: elife-57843-fig4-figsupp6.jpg
 figlink: pmc/articles/PMC8012063/figure/fig4s6/
 number: SF4_6
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
-pmcid: PMC8012063
 papertitle: Increased longevity due to sexual activity in mole-rats is associated
   with transcriptional changes in the HPA stress axis.
 reftext: Arne Sahm, et al. eLife. 2021;10:e57843.
-pmc_ranked_result_index: '45913'
-pathway_score: 0.9084439
-filename: elife-57843-fig4-figsupp6.jpg
-figtitle: Status-dependent regulation of Kyoto Encyclopedia of Genes and Genomes pathway
-  hsa05012 Parkinson’s disease at the cross-tissue level
 year: '2021'
-organisms:
-- Mus musculus
-- Rattus norvegicus
-- Cavia porcellus
-- Cryptomys hottentotus
-- Heterocephalus glaber
-- Tachyoryctes macrocephalus
-- Fukomys anselli
-- Malus domestica
-- Daucus carota
-- Solanum tuberosum
-- Fukomys mechowii
-- Fukomys micklemi
-- Caenorhabditis elegans
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9084439
+figid_alias: PMC8012063__SF4_6
+figtype: Supplemental figure
+organisms_ner:
 - Drosophila melanogaster
-- Pekania pennanti
-- Fundulus heteroclitus
-- Fukomys damarensis
-- Homo sapiens
-- Canis lupus familiaris
-- Felis catus
-- Equus caballus
+- Mus musculus
+redirect_from: /figures/PMC8012063__SF4_6
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -53,19 +62,40 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - HMBS
-  - MFAP1
-  - AMPH
-  - PRKACG
-  - PRKAR1A
-  - PRKAR2A
-  - PRKAR2B
-  - PRKACA
-  - PRKACB
-  - PRKAR1B
-  - TH
-  - EPHA8
-  - SULT1E1
+  - ATPsynbeta
+  - Atpalpha
+  - na
+  - ups
+  - Pa
+  - S6kII
+  - Amph
+  - stnA
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - RpS6
+  - Vmat
+  - Ste12DOR
+  - Cyt-c-d
+  - Cyt-c-p
+  - casp
+  - Dark
+  - cx
+  - 'On'
+  - Tap2
+  - Hmbs
+  - Adra2a
+  - Th
+  - Mmp3
+  - Npr3
+  - Epha8
+  - Map7
+  - Sult1e1
+  - Htra1
+  - Crtap
+  - Nbl1
   - ATP
   - AMP
   - L-DOPA
@@ -73,131 +103,4 @@ schema-jsonld:
   - Roenene
   - paoeplrylatin
   - Depuninangic arun
-genes:
-- word: UPS)
-  symbol: UPS
-  source: hgnc_prev_symbol
-  hgnc_symbol: HMBS
-  entrez: '3145'
-- word: AMP
-  symbol: AMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: MFAP1
-  entrez: '4236'
-- word: AMPh
-  symbol: AMPH
-  source: hgnc_symbol
-  hgnc_symbol: AMPH
-  entrez: '273'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-- word: TH
-  symbol: TH
-  source: hgnc_symbol
-  hgnc_symbol: TH
-  entrez: '7054'
-- word: eek
-  symbol: EEK
-  source: hgnc_prev_symbol
-  hgnc_symbol: EPHA8
-  entrez: '2046'
-- word: stes
-  symbol: STE
-  source: hgnc_prev_symbol
-  hgnc_symbol: SULT1E1
-  entrez: '6783'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACG
-  entrez: '5568'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1A
-  entrez: '5573'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2A
-  entrez: '5576'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR2B
-  entrez: '5577'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACA
-  entrez: '5566'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKACB
-  entrez: '5567'
-- word: PKA
-  symbol: PKA
-  source: bioentities_symbol
-  hgnc_symbol: PRKAR1B
-  entrez: '5575'
-chemicals:
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: AMP
-  source: MESH
-  identifier: D000249
-- word: L-DOPA
-  source: MESH
-  identifier: D007980
-- word: MPTP
-  source: MESH
-  identifier: D015632
-- word: Roenene
-  source: ''
-  identifier: ''
-- word: paoeplrylatin
-  source: ''
-  identifier: ''
-diseases:
-- word: Depuninangic arun
-  source: ''
-  identifier: ''
-figid_alias: PMC8012063__SF4_6
-redirect_from: /figures/PMC8012063__SF4_6
-figtype: Supplemental figure
 ---

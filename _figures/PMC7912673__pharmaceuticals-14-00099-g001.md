@@ -1,5 +1,10 @@
 ---
 figid: PMC7912673__pharmaceuticals-14-00099-g001
+figtitle: 'Panel (A): Mechanisms of drug inhibition on cellular pathways'
+organisms:
+- NA
+pmcid: PMC7912673
+filename: pharmaceuticals-14-00099-g001.jpg
 figlink: pmc/articles/PMC7912673/figure/pharmaceuticals-14-00099-f001/
 number: F1
 caption: 'Panel (A): Mechanisms of drug inhibition on cellular pathways. (Letrozole).
@@ -19,18 +24,22 @@ caption: 'Panel (A): Mechanisms of drug inhibition on cellular pathways. (Letroz
   pathways. Verteporfin disrupts the interaction between YAP and TEAD transcription
   factors, which regulate the Hippo signaling pathway. Panel (B): Chemical structure
   of the molecules discussed above.'
-pmcid: PMC7912673
 papertitle: Reuse of Molecules for Glioblastoma Therapy.
 reftext: Abigail Koehler, et al. Pharmaceuticals (Basel). 2021 Feb;14(2):99.
-pmc_ranked_result_index: '5329'
-pathway_score: 0.8841149
-filename: pharmaceuticals-14-00099-g001.jpg
-figtitle: 'Panel (A): Mechanisms of drug inhibition on cellular pathways'
 year: '2021'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8841149
+figid_alias: PMC7912673__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC7912673__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -60,31 +69,80 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - hpo
+  - hp
+  - Imp
+  - CG11110
+  - CG17029
+  - CG17028
+  - CG17027
+  - CG9391
+  - CG9389
+  - fliF
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pten
+  - sd
+  - Akt
+  - gig
+  - Tsc1
+  - Rheb
+  - Thor
+  - S6k
+  - Crtc
+  - p53
+  - betaTub60D
+  - hth
+  - Neurl4
+  - Act5C
+  - Act42A
+  - Act57B
+  - Act79B
+  - Act88F
+  - Act87E
+  - Hn
+  - IMPA1
   - BRAP
   - EMP2
   - NT5C2
   - PIK3CA
+  - PIK3CB
+  - PIK3CD
   - PIK3CG
   - PIK3R3
   - PIK3R4
-  - PIK3CB
-  - PIK3CD
   - PIK3R5
   - PIK3R6
+  - PIK3R1
+  - PIK3R2
   - PTEN
+  - TEAD1
+  - TEAD2
+  - TEAD3
+  - TEAD4
+  - AKT1
   - AKT2
   - AKT3
-  - AKT1
-  - TSC1
   - TSC2
+  - TSC1
+  - CCL26
+  - MTG1
   - RHEB
+  - RHEBP1
+  - EIF4EBP1
   - RPS6KB1
+  - MTOR
+  - RPTOR
   - TP53
+  - TP63
+  - TP73
   - ACTA1
   - ACTA2
-  - ACTG1
   - ACTB
   - ACTC1
+  - ACTG1
   - ACTG2
   - BMS-777607
   - GMP
@@ -95,172 +153,4 @@ schema-jsonld:
   - estrogen
   - Imipramine Blue
   - Visudyne
-genes:
-- word: IMP
-  symbol: IMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: BRAP
-  entrez: '8315'
-- word: XMP
-  symbol: XMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: EMP2
-  entrez: '2013'
-- word: GMP
-  symbol: GMP
-  source: hgnc_alias_symbol
-  hgnc_symbol: NT5C2
-  entrez: '22978'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: Akt
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: TSC1/2
-  symbol: TSC1
-  source: hgnc_symbol
-  hgnc_symbol: TSC1
-  entrez: '7248'
-- word: TSC1/2
-  symbol: TSC2
-  source: hgnc_symbol
-  hgnc_symbol: TSC2
-  entrez: '7249'
-- word: Rheb
-  symbol: RHEB
-  source: hgnc_symbol
-  hgnc_symbol: RHEB
-  entrez: '6009'
-- word: S6K1
-  symbol: S6K1
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: p53
-  symbol: p53
-  source: hgnc_alias_symbol
-  hgnc_symbol: TP53
-  entrez: '7157'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA1
-  entrez: '58'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTA2
-  entrez: '59'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG1
-  entrez: '71'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTB
-  entrez: '60'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTC1
-  entrez: '70'
-- word: Actin
-  symbol: Actin
-  source: bioentities_symbol
-  hgnc_symbol: ACTG2
-  entrez: '72'
-chemicals:
-- word: BMS-777607
-  source: MESH
-  identifier: C550356
-- word: GMP
-  source: MESH
-  identifier: C068152
-- word: GDP
-  source: MESH
-  identifier: D006153
-- word: Imipramine
-  source: MESH
-  identifier: D007099
-- word: LY-2584702
-  source: MESH
-  identifier: C588151
-- word: Letrozole
-  source: MESH
-  identifier: C067431
-- word: estrogen
-  source: MESH
-  identifier: D004967
-- word: Imipramine Blue
-  source: MESH
-  identifier: D007099
-- word: Visudyne
-  source: MESH
-  identifier: C098350
-diseases: []
-figid_alias: PMC7912673__F1
-redirect_from: /figures/PMC7912673__F1
-figtype: Figure
 ---

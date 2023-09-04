@@ -1,5 +1,16 @@
 ---
 figid: PMC4246201__pharmaceuticals-07-01008-g010
+figtitle: Relationship between GPxs and the NFKB pathway in the antiproliferation
+  action of butyrate
+organisms:
+- Bos taurus
+- Oryctolagus cuniculus
+- Equus caballus
+- Homo sapiens
+- Mus musculus
+- Raphanus sativus
+pmcid: PMC4246201
+filename: pharmaceuticals-07-01008-g010.jpg
 figlink: /pmc/articles/PMC4246201/figure/pharmaceuticals-07-01008-f010/
 number: F10
 caption: Relationship between GPxs and the NF-κB pathway in the antiproliferation
@@ -15,25 +26,24 @@ caption: Relationship between GPxs and the NF-κB pathway in the antiproliferati
   target gene expression, causing an anti-inflammatory response. Thus, there is a
   link between the antioxidant effect and anti-inflammatory response in butyrate-arrested
   VSMC proliferation, a crucial factor in atherogenesis.
-pmcid: PMC4246201
 papertitle: Involvement of the Antioxidant Effect and Anti-inflammatory Response in
   Butyrate-Inhibited Vascular Smooth Muscle Cell Proliferation.
 reftext: Omana P. Mathew, et al. Pharmaceuticals (Basel). 2014 Nov;7(11):1008-1027.
-pmc_ranked_result_index: '20746'
-pathway_score: 0.952011
-filename: pharmaceuticals-07-01008-g010.jpg
-figtitle: Relationship between GPxs and the NFKB pathway in the antiproliferation
-  action of butyrate
 year: '2014'
-organisms:
-- Mus musculus
-- Raphanus sativus
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.952011
+figid_alias: PMC4246201__F10
+figtype: Figure
+organisms_ner:
+- Bos taurus
 - Homo sapiens
 - Equus caballus
-- Bos taurus
-- Oryctolagus cuniculus
+redirect_from: /figures/PMC4246201__F10
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -59,55 +69,24 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - GPX3
-  - VCAM1
-  - NFKB1
-  - IKBKG
-  - IKBKB
-  - NFKBIA
   - GPX4
+  - VCAM1
+  - COX2
+  - NOS2
+  - IKBKB
+  - IKBKG
+  - NFKBIA
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - NFKB1
+  - PTGS2
+  - ISYNA1
+  - NFKB2
   - Butyrate
-genes:
-- word: GPX3
-  symbol: GPX3
-  source: hgnc_symbol
-  hgnc_symbol: GPX3
-  entrez: '2878'
-- word: VCAM-1
-  symbol: VCAM1
-  source: hgnc_symbol
-  hgnc_symbol: VCAM1
-  entrez: '7412'
-- word: NF-kB
-  symbol: NF-kappaB
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKB1
-  entrez: '4790'
-- word: NEMO
-  symbol: NEMO
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKG
-  entrez: '8517'
-- word: IKKB
-  symbol: IKK-beta
-  source: hgnc_alias_symbol
-  hgnc_symbol: IKBKB
-  entrez: '3551'
-- word: IkBa
-  symbol: IkappaBalpha
-  source: hgnc_alias_symbol
-  hgnc_symbol: NFKBIA
-  entrez: '4792'
-- word: GPX4
-  symbol: GPX4
-  source: hgnc_symbol
-  hgnc_symbol: GPX4
-  entrez: '2879'
-chemicals:
-- word: Butyrate
-  source: MESH
-  identifier: D002087
-diseases: []
-figid_alias: PMC4246201__F10
-redirect_from: /figures/PMC4246201__F10
-figtype: Figure
 ---

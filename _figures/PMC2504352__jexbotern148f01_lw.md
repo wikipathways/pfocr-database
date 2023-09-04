@@ -1,5 +1,12 @@
 ---
 figid: PMC2504352__jexbotern148f01_lw
+figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
+  monoligols
+organisms:
+- Arabidopsis thaliana
+- Zea mays
+pmcid: PMC2504352
+filename: jexbotern148f01_lw.jpg
 figlink: /pmc/articles/PMC2504352/figure/fig1/
 number: F1
 caption: 'The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
@@ -12,21 +19,22 @@ caption: 'The phenylpropanoid pathway for the biosynthesis of anthocyanin and th
   hydroxycinnamoyltransferase; C3H, ρ-coumarate 3-hydroxylase; CCoAOMT, caffeoyl-CoA
   3-O-methyltransferase; CCR, cinnamoyl-CoA reductase; F5H, ferulate 5-hydroxylase;
   COMT, caffeic acid O-methyltransferase; CAD, cinnamyl alcohol dehydrogenase.'
-pmcid: PMC2504352
 papertitle: Adaptation of Arabidopsis to nitrogen limitation involves induction of
   anthocyanin synthesis which is controlled by the NLA gene.
 reftext: Mingsheng Peng, et al. J Exp Bot. 2008 Aug;59(11):2933-2944.
-pmc_ranked_result_index: '17801'
-pathway_score: 0.8744633
-filename: jexbotern148f01_lw.jpg
-figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and three
-  monoligols
 year: '2008'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8744633
+figid_alias: PMC2504352__F1
+figtype: Figure
+organisms_ner:
 - Arabidopsis thaliana
-- Zea mays
+redirect_from: /figures/PMC2504352__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -48,11 +56,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CAD
-  - COMT
-  - FSHB
-  - LYST
-  - CGA
+  - C4H
+  - HCT
+  - TT4
+  - CHI
+  - TT5
+  - ATCAD4
+  - F3H
+  - DFR
+  - LDOX
   - Leucocyanidin
   - Dihydroquercetin
   - Naringenin
@@ -66,74 +78,4 @@ schema-jsonld:
   - Cinnamate
   - Phenylalanine
   - chalcone
-genes:
-- word: CAD
-  symbol: CAD
-  source: hgnc_symbol
-  hgnc_symbol: CAD
-  entrez: '790'
-- word: COMT
-  symbol: COMT
-  source: hgnc_symbol
-  hgnc_symbol: COMT
-  entrez: '1312'
-- word: FSH
-  symbol: FSH
-  source: bioentities_symbol
-  hgnc_symbol: FSHB
-  entrez: '2488'
-- word: CHS
-  symbol: CHS
-  source: hgnc_alias_symbol
-  hgnc_symbol: LYST
-  entrez: '1130'
-- word: FSH
-  symbol: FSH
-  source: bioentities_symbol
-  hgnc_symbol: CGA
-  entrez: '1081'
-chemicals:
-- word: Leucocyanidin
-  source: MESH
-  identifier: C001532
-- word: Dihydroquercetin
-  source: MESH
-  identifier: C003377
-- word: Naringenin
-  source: MESH
-  identifier: C005273
-- word: coniferyl alcohol
-  source: MESH
-  identifier: C010559
-- word: Cyanidin
-  source: MESH
-  identifier: C017154
-- word: coniferaldehyde
-  source: MESH
-  identifier: C075384
-- word: Sinapaldehyde
-  source: MESH
-  identifier: C075386
-- word: Dihydrokaempferol
-  source: MESH
-  identifier: C080220
-- word: aldehyde
-  source: MESH
-  identifier: D000447
-- word: Anthocyanin
-  source: MESH
-  identifier: D000872
-- word: Cinnamate
-  source: MESH
-  identifier: D002934
-- word: Phenylalanine
-  source: MESH
-  identifier: D010649
-- word: chalcone
-  source: MESH
-  identifier: D047188
-diseases: []
-figid_alias: PMC2504352__F1
-redirect_from: /figures/PMC2504352__F1
-figtype: Figure
 ---

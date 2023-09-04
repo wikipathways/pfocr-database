@@ -1,5 +1,11 @@
 ---
 figid: PMC4817799__cshperspect-AND-018838_F4
+figtitle: Regulation of neural precursor plasticity within the classical neurogenic
+  zones
+organisms:
+- NA
+pmcid: PMC4817799
+filename: cshperspect-AND-018838_F4.jpg
 figlink: /pmc/articles/PMC4817799/figure/A018838F4/
 number: F4
 caption: Regulation of neural precursor plasticity within the classical neurogenic
@@ -27,19 +33,21 @@ caption: Regulation of neural precursor plasticity within the classical neurogen
   change the fate of a subset of neural progenitors from granule cell (GC) neurons
   to periglomerular cell (PGC) neurons (8) (). Stab wound, stroke, and ischemic injuries
   activate astrocytes into reactive astroglia (9) (reviewed in ).
-pmcid: PMC4817799
 papertitle: Diversity of Neural Precursors in the Adult Mammalian Brain.
 reftext: Michael A. Bonaguidi, et al. Cold Spring Harb Perspect Biol. 2016 Apr;8(4):a018838.
-pmc_ranked_result_index: '165991'
-pathway_score: 0.937304
-filename: cshperspect-AND-018838_F4.jpg
-figtitle: Regulation of neural precursor plasticity within the classical neurogenic
-  zones
 year: '2016'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.937304
+figid_alias: PMC4817799__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4817799__F4
 ndex: 76d74459-defe-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -77,92 +85,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SHH
-  - EGF
-  - GC
+  - RGL1
+  - RGL2
+  - RGL3
   - FRZB
   - ASCL1
-  - RGL2
-  - RGL1
-  - APC
-  - RGL3
   - PTEN
+  - GC
+  - APC
+  - PROC
+  - EGF
   - PGC
+  - SHH
   - AraC
   - '[5] Kainic acid'
   - '[7] Kainic acid'
   - Lysolecithin
-genes:
-- word: Shh
-  symbol: SHH
-  source: hgnc_symbol
-  hgnc_symbol: SHH
-  entrez: '6469'
-- word: EGF
-  symbol: EGF
-  source: hgnc_symbol
-  hgnc_symbol: EGF
-  entrez: '1950'
-- word: GC
-  symbol: GC
-  source: hgnc_symbol
-  hgnc_symbol: GC
-  entrez: '2638'
-- word: SFRP3
-  symbol: SFRP3
-  source: hgnc_alias_symbol
-  hgnc_symbol: FRZB
-  entrez: '2487'
-- word: Ascl1
-  symbol: ASCL1
-  source: hgnc_symbol
-  hgnc_symbol: ASCL1
-  entrez: '429'
-- word: RGL
-  symbol: RGL
-  source: bioentities_symbol
-  hgnc_symbol: RGL2
-  entrez: '5863'
-- word: RGL
-  symbol: RGL
-  source: bioentities_symbol
-  hgnc_symbol: RGL1
-  entrez: '23179'
-- word: APC
-  symbol: APC
-  source: hgnc_symbol
-  hgnc_symbol: APC
-  entrez: '324'
-- word: RGL
-  symbol: RGL
-  source: bioentities_symbol
-  hgnc_symbol: RGL3
-  entrez: '57139'
-- word: PTEN,GABAR
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: PGC
-  symbol: PGC
-  source: hgnc_symbol
-  hgnc_symbol: PGC
-  entrez: '5225'
-chemicals:
-- word: AraC
-  source: MESH
-  identifier: D003561
-- word: '[5] Kainic acid'
-  source: MESH
-  identifier: D007608
-- word: '[7] Kainic acid'
-  source: MESH
-  identifier: D007608
-- word: Lysolecithin
-  source: MESH
-  identifier: D008244
-diseases: []
-figid_alias: PMC4817799__F4
-redirect_from: /figures/PMC4817799__F4
-figtype: Figure
 ---

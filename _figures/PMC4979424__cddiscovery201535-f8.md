@@ -1,5 +1,10 @@
 ---
 figid: PMC4979424__cddiscovery201535-f8
+figtitle: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis
+organisms:
+- NA
+pmcid: PMC4979424
+filename: cddiscovery201535-f8.jpg
 figlink: /pmc/articles/PMC4979424/figure/fig8/
 number: F8
 caption: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis.
@@ -13,19 +18,22 @@ caption: Proposed model of VacA effects on Cx43 and autophagy, followed by apopt
   the Tx-insoluble fraction, suggesting its localization in cholesterol-rich DRMs
   (⑨–⑩). In contrast, LRP1-dependent endocytosis of VacA caused ROS-dependent autophagy
   and apoptosis (I–IV). These compartments were localized to the Tx-soluble fraction.
-pmcid: PMC4979424
 papertitle: Helicobacter pylori VacA induces apoptosis by accumulation of connexin
   43 in autophagic vesicles via a Rac1/ERK-dependent pathway.
 reftext: K Yahiro, et al. Cell Death Discov. 2015;1:15035.
-pmc_ranked_result_index: '92683'
-pathway_score: 0.976032
-filename: cddiscovery201535-f8.jpg
-figtitle: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis
 year: '2015'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.976032
+figid_alias: PMC4979424__F8
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC4979424__F8
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -49,58 +57,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - LAMP1
-  - GJA1
-  - EEA1
-  - ATG16L1
+  - EPHB2
+  - MAPK1
   - MAPK3
   - LRP1
+  - C1D
   - RAC1
-  - MAPK1
-genes:
-- word: LAMP1
-  symbol: LAMP1
-  source: hgnc_symbol
-  hgnc_symbol: LAMP1
-  entrez: '3916'
-- word: Cx43
-  symbol: CX43
-  source: hgnc_alias_symbol
-  hgnc_symbol: GJA1
-  entrez: '2697'
-- word: EEA1
-  symbol: EEA1
-  source: hgnc_symbol
-  hgnc_symbol: EEA1
-  entrez: '8411'
-- word: Atg16L1
-  symbol: ATG16L1
-  source: hgnc_symbol
-  hgnc_symbol: ATG16L1
-  entrez: '55054'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK3
-  entrez: '5595'
-- word: LRP1
-  symbol: LRP1
-  source: hgnc_symbol
-  hgnc_symbol: LRP1
-  entrez: '4035'
-- word: Rac1
-  symbol: RAC1
-  source: hgnc_symbol
-  hgnc_symbol: RAC1
-  entrez: '5879'
-- word: ERK
-  symbol: ERK
-  source: bioentities_symbol
-  hgnc_symbol: MAPK1
-  entrez: '5594'
-chemicals: []
-diseases: []
-figid_alias: PMC4979424__F8
-redirect_from: /figures/PMC4979424__F8
-figtype: Figure
+  - RNASE1
+  - EEA1
+  - GJA1
+  - ATG16L1
+  - LAMP1
+  - LSAMP
+  - LAMP3
 ---

@@ -1,30 +1,32 @@
 ---
 figid: PMC8000549__microorganisms-09-00600-g001
+figtitle: Metabolic pathway designed for the production of Beta-alanine
+organisms:
+- Escherichia coli
+pmcid: PMC8000549
+filename: microorganisms-09-00600-g001.jpg
 figlink: pmc/articles/PMC8000549/figure/microorganisms-09-00600-f001/
 number: F1
 caption: 'The metabolic pathway designed for the production of β-alanine. The structure
   of the expression vector pET24a-panD-AspDH is shown beside the metabolic pathway.
   GLY: glycerol, G3P: glyceraldehyde-3-P, PEP: phosphoenolpyruvic acid, PYR: pyruvate,
   OAA: oxaloacetic acid, ASP: aspartic acid, BALA: β-alanine.'
-pmcid: PMC8000549
 papertitle: Novel Mode Engineering for β-Alanine Production in Escherichia coli with
   the Guide of Adaptive Laboratory Evolution.
 reftext: Jian Xu, et al. Microorganisms. 2021 Mar;9(3):600.
-pmc_ranked_result_index: '18322'
-pathway_score: 0.9376691
-filename: microorganisms-09-00600-g001.jpg
-figtitle: Metabolic pathway designed for the production of Beta-alanine
 year: '2021'
-organisms:
-- Levilactobacillus brevis
-- Corynebacterium glutamicum
-- Schizochytrium sp.
-- Pseudomonas aeruginosa
-- Matthiola incana
-- Saccharomyces cerevisiae
-- Escherichia coli
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9376691
+figid_alias: PMC8000549__F1
+figtype: Figure
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
+redirect_from: /figures/PMC8000549__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -40,11 +42,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TFPI
-  - TNMD
-  - ASPDH
-  - PAEP
-  - WDTC1
+  - lacI
+  - panD
+  - pck
+  - ppsA
   - GLY O
   - IPTG
   - O PYR
@@ -53,69 +54,4 @@ schema-jsonld:
   - NADH
   - NH
   - NAD
-genes:
-- word: Lacl
-  symbol: LACI
-  source: hgnc_prev_symbol
-  hgnc_symbol: TFPI
-  entrez: '7035'
-- word: tem
-  symbol: TEM
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNMD
-  entrez: '64102'
-- word: tem
-  symbol: TEM
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNMD
-  entrez: '64102'
-- word: AspDH
-  symbol: ASPDH
-  source: hgnc_symbol
-  hgnc_symbol: ASPDH
-  entrez: '554235'
-- word: PEP
-  symbol: PEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PAEP
-  entrez: '5047'
-- word: CO,+ADP-
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: AspDH
-  symbol: ASPDH
-  source: hgnc_symbol
-  hgnc_symbol: ASPDH
-  entrez: '554235'
-chemicals:
-- word: GLY O
-  source: MESH
-  identifier: C518289
-- word: IPTG
-  source: MESH
-  identifier: D007544
-- word: O PYR
-  source: MESH
-  identifier: C523389
-- word: CO,+ADP
-  source: MESH
-  identifier: D000244
-- word: OAA O
-  source: MESH
-  identifier: C000588452
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: NH
-  source: MESH
-  identifier: D000641
-- word: NAD
-  source: MESH
-  identifier: D009243
-diseases: []
-figid_alias: PMC8000549__F1
-redirect_from: /figures/PMC8000549__F1
-figtype: Figure
 ---

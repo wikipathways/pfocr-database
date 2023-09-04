@@ -1,5 +1,11 @@
 ---
 figid: PMC5666637__cshperspect-TGF-022269_F5
+figtitle: Transforming growth factor B (TGFB) and bone morphogenetic protein (BMP)
+  signaling in bone homeostasis
+organisms:
+- NA
+pmcid: PMC5666637
+filename: cshperspect-TGF-022269_F5.jpg
 figlink: /pmc/articles/PMC5666637/figure/A022269F5/
 number: F5
 caption: Roles of transforming growth factor β (TGF-β) and bone morphogenetic protein
@@ -19,19 +25,21 @@ caption: Roles of transforming growth factor β (TGF-β) and bone morphogenetic 
   It can, however, also promote bone resorption by increasing the expression of sclerostin
   (SOST), an inhibitor of Wnt signaling which is a pathway that normally promotes
   osteoblastogenesis and bone formation. M-CSF, Macrophage-colony stimulating factor.
-pmcid: PMC5666637
 papertitle: TGF-β Family Signaling in Connective Tissue and Skeletal Diseases.
 reftext: Elena Gallo MacFarlane, et al. Cold Spring Harb Perspect Biol. 2017 Nov;9(11):a022269.
-pmc_ranked_result_index: '63042'
-pathway_score: 0.919091
-filename: cshperspect-TGF-022269_F5.jpg
-figtitle: Transforming growth factor B (TGFB) and bone morphogenetic protein (BMP)
-  signaling in bone homeostasis
 year: '2017'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.919091
+figid_alias: PMC5666637__F5
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC5666637__F5
 ndex: ec795ec2-de92-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -61,292 +69,68 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TNFRSF11B
-  - MMP9
-  - GDF3
-  - BMP15
-  - RUNX2
-  - TNFSF11
-  - WNT1
-  - CSF1
-  - TNFRSF11A
-  - MMP2
-  - WNT3A
-  - WNT2
-  - BMP8B
-  - BMP3
   - TGFB1
-  - GDF6
-  - WNT3
-  - WNT2B
-  - GDF5
-  - WNT9A
-  - SOST
-  - WNT10A
-  - WNT5B
-  - WNT5A
-  - WNT9B
-  - WNT7A
-  - WNT7B
+  - TGFB2
+  - TGFB3
+  - BMP1
+  - BMP2
+  - BMP3
   - BMP4
-  - WNT6
+  - BMP5
   - BMP6
   - BMP7
-  - WNT16
-  - WNT4
-  - GDF7
+  - BMP8A
+  - BMP8B
+  - BMP10
+  - BMP15
   - GDF1
   - GDF2
-  - BMP10
-  - BMP8A
-  - TGFB2
-  - BMP1
+  - GDF3
+  - GDF5
+  - GDF6
+  - GDF7
+  - TNFSF11
+  - CSF1
+  - WNT1
+  - WNT2
+  - WNT2B
+  - WNT3
+  - WNT3A
+  - WNT4
+  - WNT6
+  - WNT7A
+  - WNT7B
   - WNT8A
   - WNT8B
-  - TGFB3
-  - WNT11
-  - BMP2
+  - WNT9A
+  - WNT9B
+  - WNT10A
   - WNT10B
-  - BMP5
-genes:
-- word: OPG
-  symbol: OPG
-  source: hgnc_prev_symbol
-  hgnc_symbol: TNFRSF11B
-  entrez: '4982'
-- word: MMP9)
-  symbol: MMP9
-  source: hgnc_symbol
-  hgnc_symbol: MMP9
-  entrez: '4318'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF3
-  entrez: '9573'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP15
-  entrez: '9210'
-- word: Runx2
-  symbol: RUNX2
-  source: hgnc_symbol
-  hgnc_symbol: RUNX2
-  entrez: '860'
-- word: RANKL
-  symbol: RANKL
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFSF11
-  entrez: '8600'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT1
-  entrez: '7471'
-- word: M-CSF
-  symbol: M-CSF
-  source: hgnc_alias_symbol
-  hgnc_symbol: CSF1
-  entrez: '1435'
-- word: RANK
-  symbol: RANK
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNFRSF11A
-  entrez: '8792'
-- word: (MMP2,
-  symbol: MMP2
-  source: hgnc_symbol
-  hgnc_symbol: MMP2
-  entrez: '4313'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3A
-  entrez: '89780'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2
-  entrez: '7472'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8B
-  entrez: '656'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP3
-  entrez: '651'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF6
-  entrez: '392255'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT3
-  entrez: '7473'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT2B
-  entrez: '7482'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF5
-  entrez: '8200'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9A
-  entrez: '7483'
-- word: (SOST),
-  symbol: SOST
-  source: hgnc_symbol
-  hgnc_symbol: SOST
-  entrez: '50964'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10A
-  entrez: '80326'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5B
-  entrez: '81029'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT5A
-  entrez: '7474'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT9B
-  entrez: '7484'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7A
-  entrez: '7476'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT7B
-  entrez: '7477'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP4
-  entrez: '652'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT6
-  entrez: '7475'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP6
-  entrez: '654'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP7
-  entrez: '655'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT16
-  entrez: '51384'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT4
-  entrez: '54361'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF7
-  entrez: '151449'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF1
-  entrez: '2657'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: GDF2
-  entrez: '2658'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP10
-  entrez: '27302'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP8A
-  entrez: '353500'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP1
-  entrez: '649'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8A
-  entrez: '7478'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT8B
-  entrez: '7479'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT11
-  entrez: '7481'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP2
-  entrez: '650'
-- word: Wnt
-  symbol: WNT
-  source: bioentities_symbol
-  hgnc_symbol: WNT10B
-  entrez: '7480'
-- word: BMP
-  symbol: BMP
-  source: bioentities_symbol
-  hgnc_symbol: BMP5
-  entrez: '653'
-chemicals: []
-diseases: []
-figid_alias: PMC5666637__F5
-redirect_from: /figures/PMC5666637__F5
-figtype: Figure
+  - WNT11
+  - WNT16
+  - WNT5A
+  - WNT5B
+  - TNFRSF11A
+  - BTF3P11
+  - TNFRSF11B
+  - AN
+  - SOST
+  - CTSA
+  - CTSB
+  - CTSC
+  - CTSD
+  - CTSE
+  - CTSF
+  - CTSG
+  - CTSH
+  - CTSK
+  - CTSL
+  - CTSO
+  - CTSS
+  - CTSV
+  - CTSW
+  - CTSZ
+  - RUNX2
+  - MMP9
+  - MMP2
 ---

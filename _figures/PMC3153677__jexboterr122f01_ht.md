@@ -1,5 +1,12 @@
 ---
 figid: PMC3153677__jexboterr122f01_ht
+figtitle: Proposed biosynthetic pathways of L-ascorbic acid in animals (reactions
+  1–8 and 25–27), plants (reactions 9–24) and the recycling pathway (reactions 28–31)
+  are shown
+organisms:
+- NA
+pmcid: PMC3153677
+filename: jexboterr122f01_ht.jpg
 figlink: /pmc/articles/PMC3153677/figure/fig1/
 number: F1
 caption: 'Proposed biosynthetic pathways of L-ascorbic acid in animals (reactions
@@ -17,20 +24,21 @@ caption: 'Proposed biosynthetic pathways of L-ascorbic acid in animals (reaction
   UDP-glucuronosyltransferase; 26, β-glucuronidase; 27, UDP-glucuronidase; 28, ascorbate
   peroxidase; 29, monodehydroascorbate reductase; 30, dehydroascorbate reductase;
   31, glutathione reductase.'
-pmcid: PMC3153677
 papertitle: Regulation of L-ascorbic acid content in strawberry fruits.
 reftext: Eduardo Cruz-Rus, et al. J Exp Bot. 2011 Aug;62(12):4191-4201.
-pmc_ranked_result_index: '89256'
-pathway_score: 0.9248472
-filename: jexboterr122f01_ht.jpg
-figtitle: Proposed biosynthetic pathways of L-ascorbic acid in animals (reactions
-  1–8 and 25–27), plants (reactions 9–24) and the recycling pathway (reactions 28–31)
-  are shown
 year: '2011'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9248472
+figid_alias: PMC3153677__F1
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC3153677__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -57,7 +65,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - POLE3
   - Monodehydroascorbate
   - D-galacturonic acid
   - L-galactonic acid
@@ -75,66 +82,4 @@ schema-jsonld:
   - D-mannose-6-P
   - UDP
   - D-glucuronic acid
-genes:
-- word: P17
-  symbol: p17
-  source: hgnc_alias_symbol
-  hgnc_symbol: POLE3
-  entrez: '54107'
-chemicals:
-- word: Monodehydroascorbate
-  source: MESH
-  identifier: C000820
-- word: D-galacturonic acid
-  source: MESH
-  identifier: C007819
-- word: L-galactonic acid
-  source: MESH
-  identifier: C012991
-- word: L-gulonic acid
-  source: MESH
-  identifier: C015252
-- word: GDP-L-gulose
-  source: MESH
-  identifier: C480160
-- word: L-galactono-1,4-lactone
-  source: MESH
-  identifier: C534014
-- word: D-fructose-6-P
-  source: MESH
-  identifier: D005632
-- word: L-galactose
-  source: MESH
-  identifier: D005690
-- word: L-galactose-1-P
-  source: MESH
-  identifier: D005690
-- word: D-glucose
-  source: MESH
-  identifier: D005947
-- word: D-glucose-6-P
-  source: MESH
-  identifier: D005947
-- word: Glutathione
-  source: MESH
-  identifier: D005978
-- word: L-gulono-1,4-lactone
-  source: MESH
-  identifier: D007783
-- word: D-mannose
-  source: MESH
-  identifier: D008358
-- word: D-mannose-6-P
-  source: MESH
-  identifier: D008358
-- word: UDP
-  source: MESH
-  identifier: D014530
-- word: D-glucuronic acid
-  source: MESH
-  identifier: D020723
-diseases: []
-figid_alias: PMC3153677__F1
-redirect_from: /figures/PMC3153677__F1
-figtype: Figure
 ---

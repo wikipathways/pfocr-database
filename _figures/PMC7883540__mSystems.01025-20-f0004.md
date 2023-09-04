@@ -1,5 +1,19 @@
 ---
 figid: PMC7883540__mSystems.01025-20-f0004
+figtitle: Integrated analysis of transcriptional and metabolic changes
+organisms:
+- Escherichia coli
+- Staphylococcus aureus
+- Pseudomonas fluorescens
+- Desulfovibrio vulgaris
+- Chlorobaculum tepidum
+- Desulfovibrio desulfuricans
+- Intrasporangium calvum
+- Oryza sativa
+- Matthiola incana
+- Agriosomyces longus
+pmcid: PMC7883540
+filename: mSystems.01025-20-f0004.jpg
 figlink: pmc/articles/PMC7883540/figure/fig4/
 number: F4
 caption: Integrated analysis of transcriptional and metabolic changes. Expression
@@ -15,27 +29,21 @@ caption: Integrated analysis of transcriptional and metabolic changes. Expressio
   metabolite abundance (or relative abundance) is displayed. The metabolomic feature
   number is indicated for metabolites with putative identification. Error bars represent
   the standard deviations from biological replicates (n ≥ 3).
-pmcid: PMC7883540
 papertitle: Sulfur Metabolites Play Key System-Level Roles in Modulating Denitrification.
 reftext: Anne E. Otwell, et al. mSystems. 2021 Jan-Feb;6(1):e01025-20.
-pmc_ranked_result_index: '69472'
-pathway_score: 0.9129023
-filename: mSystems.01025-20-f0004.jpg
-figtitle: Integrated analysis of transcriptional and metabolic changes
 year: '2021'
-organisms:
-- Chlorobaculum tepidum
-- Staphylococcus aureus
-- Agriosomyces longus
-- Pseudomonas fluorescens
-- Matthiola incana
-- Oryza sativa
-- Intrasporangium calvum
-- Escherichia coli
-- Desulfovibrio desulfuricans
-- Desulfovibrio vulgaris
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9129023
+figid_alias: PMC7883540__F4
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7883540__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -60,10 +68,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - THRA
-  - THRB
-  - TLL2
-  - TREML2
   - Threonine
   - Thr
   - Cys
@@ -98,142 +102,4 @@ schema-jsonld:
   - L-leucine
   - glycerone-phosphate
   - nitrite
-genes:
-- word: (Thr)
-  symbol: THR
-  source: bioentities_symbol
-  hgnc_symbol: THRA
-  entrez: '7067'
-- word: (Thr)
-  symbol: THR
-  source: bioentities_symbol
-  hgnc_symbol: THRB
-  entrez: '7068'
-- word: T112
-  symbol: TLL2
-  source: hgnc_symbol
-  hgnc_symbol: TLL2
-  entrez: '7093'
-- word: T1T2
-  symbol: TLT2
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREML2
-  entrez: '79865'
-- word: T112
-  symbol: TLL2
-  source: hgnc_symbol
-  hgnc_symbol: TLL2
-  entrez: '7093'
-- word: T1T2
-  symbol: TLT2
-  source: hgnc_alias_symbol
-  hgnc_symbol: TREML2
-  entrez: '79865'
-chemicals:
-- word: Threonine
-  source: MESH
-  identifier: C061951
-- word: Thr
-  source: MESH
-  identifier: C055175
-- word: Cys
-  source: MESH
-  identifier: C046557
-- word: lactate
-  source: MESH
-  identifier: D019344
-- word: threonine
-  source: MESH
-  identifier: C061951
-- word: pyruvate
-  source: MESH
-  identifier: D011773
-- word: 2-ketobutyrate
-  source: MESH
-  identifier: C005087
-- word: (S)-2-aceto-2-hydroxybutyrate
-  source: MESH
-  identifier: C027745
-- word: (S)-2-acetolactate
-  source: MESH
-  identifier: C006359
-- word: acetate
-  source: MESH
-  identifier: D000085
-- word: 2,3-dihydroxy-3-methylvalerate
-  source: MESH
-  identifier: C042993
-- word: 2,3-dihydroxy-isovalerate
-  source: MESH
-  identifier: C475857
-- word: acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: glyoxylate
-  source: MESH
-  identifier: D006038
-- word: 2-ketoisovalerate
-  source: MESH
-  identifier: C001505
-- word: 2-keto-3-methylvalerate
-  source: MESH
-  identifier: C021047
-- word: L-isoleucine
-  source: MESH
-  identifier: C043801
-- word: L-valine
-  source: MESH
-  identifier: C035810
-- word: glycerol
-  source: MESH
-  identifier: D005990
-- word: 3-isopropylmalate
-  source: MESH
-  identifier: C025313
-- word: 2-isopropylmalate
-  source: MESH
-  identifier: C025313
-- word: nitrate
-  source: MESH
-  identifier: D009566
-- word: sn-glycerol-3-phosphate
-  source: MESH
-  identifier: C026671
-- word: ubiquinol
-  source: MESH
-  identifier: C003741
-- word: 3-ketoisocaproate
-  source: MESH
-  identifier: C013082
-- word: Leucine
-  source: MESH
-  identifier: C038361
-- word: Leu
-  source: MESH
-  identifier: C038361
-- word: Valine
-  source: MESH
-  identifier: C521924
-- word: Val
-  source: MESH
-  identifier: C081489
-- word: Isoleucine
-  source: MESH
-  identifier: C043801
-- word: ubiquinone
-  source: MESH
-  identifier: D014451
-- word: L-leucine
-  source: MESH
-  identifier: C027819
-- word: glycerone-phosphate
-  source: MESH
-  identifier: C003037
-- word: nitrite
-  source: MESH
-  identifier: D009573
-diseases: []
-figid_alias: PMC7883540__F4
-redirect_from: /figures/PMC7883540__F4
-figtype: Figure
 ---

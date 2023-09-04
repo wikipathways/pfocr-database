@@ -1,5 +1,50 @@
 ---
 figid: PMC7143216__microorganisms-08-00313-g005
+figtitle: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta
+organisms:
+- Escherichia coli
+- Mycobacterium tuberculosis
+- Bacillus subtilis
+- Salmonella enterica
+- Clostridioides difficile
+- Cereibacter sphaeroides
+- Sinorhizobium meliloti
+- Rhodobacter capsulatus
+- phototrophic bacterium
+- Deinococcus radiodurans
+- Paenibacillus polymyxa
+- Allochromatium vinosum
+- Chlorobaculum tepidum
+- Pseudomonadota
+- Chlorobiota
+- Heliomicrobium modesticaldum
+- Desulfitobacterium hafniense
+- Megalodesulfovibrio gigas
+- Chlorobaculum tepidum TLS
+- Allochromatium vinosum DSM 180
+- Metabacillus indicus
+- Alkalihalophilus pseudofirmus OF4
+- Heliobacterium chlorum
+- Bacillus sp. C125
+- Alkalihalophilus pseudofirmus
+- Heliorestis baculata
+- Heliomicrobium gestii
+- Heliobacterium mobile
+- Heliophilum fasciatum
+- Heliomicrobium modesticaldum Ice1
+- Heliorestis acidaminivorans
+- Candidatus Heliomonas lunata
+- Heliorestis daurensis
+- Desulfosarcina cetonica
+- Bacillus sp. TA2.A1
+- Saccharomyces cerevisiae
+- Oryza sativa
+- Olea europaea
+- Eucalyptus intertexta
+- Ithyoclinostomum yamagutii
+- Homo sapiens
+pmcid: PMC7143216
+filename: microorganisms-08-00313-g005.jpg
 figlink: pmc/articles/PMC7143216/figure/microorganisms-08-00313-f005/
 number: F5
 caption: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta.
@@ -23,58 +68,22 @@ caption: Predicted biosynthetic pathway of major pigments in Heliorestis convolu
   [], Adv. Bot. Res. 2013, 66, 67–97, Copyright 2013 Elsevier Ltd.; and Tsukatani
   et al. [], Biochim. Biophys. Acta 2013, 1827, 1200–1204. Copyright 2013 Elsevier
   Ltd.
-pmcid: PMC7143216
 papertitle: Analysis of the Complete Genome of the Alkaliphilic and Phototrophic Firmicute
   Heliorestis convoluta Strain HHT.
 reftext: Emma D. Dewey, et al. Microorganisms. 2020 Mar;8(3):313.
-pmc_ranked_result_index: '29434'
-pathway_score: 0.8896882
-filename: microorganisms-08-00313-g005.jpg
-figtitle: Predicted biosynthetic pathway of major pigments in Heliorestis convoluta
 year: '2020'
-organisms:
-- Allochromatium vinosum
-- Rhodobacter capsulatus
-- Cereibacter sphaeroides
-- Chlorobiota
-- Chlorobaculum tepidum
-- Heliorestis baculata
-- Pseudomonadota
-- Eucalyptus intertexta
-- Deinococcus radiodurans
-- Paenibacillus polymyxa
-- Bacillus subtilis
-- Clostridioides difficile
-- Mycobacterium tuberculosis
-- Chlorobaculum tepidum TLS
-- Metabacillus indicus
-- Heliobacterium chlorum
-- Heliomicrobium gestii
-- Ithyoclinostomum yamagutii
-- Heliobacterium mobile
-- Salmonella enterica
-- Heliophilum fasciatum
-- Heliomicrobium modesticaldum
-- Sinorhizobium meliloti
-- Alkalihalophilus pseudofirmus OF4
-- Olea europaea
-- Bacillus sp. C125
-- Oryza sativa
-- Saccharomyces cerevisiae
-- Desulfitobacterium hafniense
-- Heliomicrobium modesticaldum Ice1
-- phototrophic bacterium
-- Heliorestis acidaminivorans
-- Candidatus Heliomonas lunata
-- Escherichia coli
-- Allochromatium vinosum DSM 180
-- Heliorestis daurensis
-- Alkalihalophilus pseudofirmus
-- Megalodesulfovibrio gigas
-- Desulfosarcina cetonica
-- Bacillus sp. TA2.A1
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.8896882
+figid_alias: PMC7143216__F5
+figtype: Figure
+organisms_ner:
+- NA
+redirect_from: /figures/PMC7143216__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -107,7 +116,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RPL10
   - Pyruvate
   - Glyceraldehyde-3-P
   - D-xylulose-5-P
@@ -121,102 +129,16 @@ schema-jsonld:
   - diphosphate
   - Dimethylallyl Divinyl protochlorophyllide
   - Divinyl chlorophyllide
-  - 8'-OH-chlorophyllide a
+  - 8-OH-chlorophyllide a
   - Geranyl diphosphate
   - Farnesyl diphosphate
   - Bacteriochlorophyllide
-  - 8'-OH-chlorophyll
-  - 8,8'-diapo--carotene
-  - 4,4'-diapophytoene
-  - 4,4'-diaponeurosporene
+  - 8-OH-chlorophyll
+  - 8,8-diapo--carotene
+  - 4,4-diapophytoene
+  - 4,4-diaponeurosporene
   - OH-diaponeurosporene
   - OH-diaponeurosporene glucoside
   - OH-diaponeurosporene glucoside ester
   - mevalonate
-genes:
-- word: I10
-  symbol: L10
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPL10
-  entrez: '6134'
-chemicals:
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Glyceraldehyde-3-P
-  source: MESH
-  identifier: D005985
-- word: D-xylulose-5-P
-  source: MESH
-  identifier: D014996
-- word: 2-C-methyl-D-erythritol-4-P
-  source: MESH
-  identifier: C114232
-- word: 4-(CDP)-2-C-methyl-D-erythritol
-  source: MESH
-  identifier: C114232
-- word: 4-(CDP)-2-C-methyl-D-erythritol-2-P
-  source: MESH
-  identifier: C114232
-- word: 2-C-methyl-D-erythritol 2,4-cyclo-PP
-  source: MESH
-  identifier: C114232
-- word: Glutamic acid
-  source: MESH
-  identifier: C030030
-- word: 4-hydroxy-3-methylbut-2-enyl-PP
-  source: MESH
-  identifier: C467061
-- word: Isopentenyl
-  source: MESH
-  identifier: C004809
-- word: diphosphate
-  source: MESH
-  identifier: D011756
-- word: Dimethylallyl Divinyl protochlorophyllide
-  source: MESH
-  identifier: C020301
-- word: Divinyl chlorophyllide
-  source: MESH
-  identifier: C034388
-- word: 8'-OH-chlorophyllide a
-  source: MESH
-  identifier: C034388
-- word: Geranyl diphosphate
-  source: MESH
-  identifier: C511282
-- word: Farnesyl diphosphate
-  source: MESH
-  identifier: C004808
-- word: Bacteriochlorophyllide
-  source: ''
-  identifier: ''
-- word: 8'-OH-chlorophyll
-  source: MESH
-  identifier: D002734
-- word: 8,8'-diapo--carotene
-  source: MESH
-  identifier: D002338
-- word: 4,4'-diapophytoene
-  source: MESH
-  identifier: C082768
-- word: 4,4'-diaponeurosporene
-  source: MESH
-  identifier: C091058
-- word: OH-diaponeurosporene
-  source: MESH
-  identifier: C091058
-- word: OH-diaponeurosporene glucoside
-  source: MESH
-  identifier: C091058
-- word: OH-diaponeurosporene glucoside ester
-  source: MESH
-  identifier: C091058
-- word: mevalonate
-  source: MESH
-  identifier: D008798
-diseases: []
-figid_alias: PMC7143216__F5
-redirect_from: /figures/PMC7143216__F5
-figtype: Figure
 ---

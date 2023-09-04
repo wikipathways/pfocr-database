@@ -1,5 +1,11 @@
 ---
 figid: PMC5453393__cshperspect-TGF-022178_F1
+figtitle: Generic transforming growth factor B (TGFB) family signaling pathway through
+  Smads compared with the Caenorhabditis elegans dauer pathway and the C
+organisms:
+- NA
+pmcid: PMC5453393
+filename: cshperspect-TGF-022178_F1.jpg
 figlink: /pmc/articles/PMC5453393/figure/A022178F1/
 number: F1
 caption: Generic transforming growth factor β (TGF-β) family signaling pathway through
@@ -14,19 +20,21 @@ caption: Generic transforming growth factor β (TGF-β) family signaling pathway
   to the nucleus. One characterized transcription factor, Schnurri, aids in transcription
   of downstream target genes. The I-Smad TAG-68 is noted with a question mark for
   the Sma/Mab pathway as well, as its role in this pathway is not clearly established.
-pmcid: PMC5453393
 papertitle: The TGF-β Family in Caenorhabditis elegans.
 reftext: Cathy Savage-Dunn, et al. Cold Spring Harb Perspect Biol. 2017 Jun;9(6):a022178.
-pmc_ranked_result_index: '22522'
-pathway_score: 0.933722
-filename: cshperspect-TGF-022178_F1.jpg
-figtitle: Generic transforming growth factor B (TGFB) family signaling pathway through
-  Smads compared with the Caenorhabditis elegans dauer pathway and the C
 year: '2017'
-organisms:
-- Homo sapiens
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.933722
+figid_alias: PMC5453393__F1
+figtype: Figure
+organisms_ner:
+- Caenorhabditis elegans
+redirect_from: /figures/PMC5453393__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -51,44 +59,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TGFB1
-  - TGFB2
-  - SMN1
-  - TGFB3
-genes:
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB1
-  entrez: '7040'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB2
-  entrez: '7042'
-- word: SMA-2
-  symbol: SMA2
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMN1
-  entrez: '6606'
-- word: SMA-3
-  symbol: SMA3
-  source: hgnc_alias_symbol
-  hgnc_symbol: SMN1
-  entrez: '6606'
-- word: TGF-B
-  symbol: TGFB
-  source: bioentities_symbol
-  hgnc_symbol: TGFB3
-  entrez: '7043'
-- word: Śma/Mabpathway
-  symbol: SMA
-  source: hgnc_prev_symbol
-  hgnc_symbol: SMN1
-  entrez: '6606'
-chemicals: []
-diseases: []
-figid_alias: PMC5453393__F1
-redirect_from: /figures/PMC5453393__F1
-figtype: Figure
+  - dbl-1
+  - daf-7
+  - daf-1
+  - sma-6
+  - daf-4
+  - tag-68
+  - sma-4
+  - daf-8
+  - sma-2
+  - daf-14
+  - sma-3
+  - daf-5
+  - sma-9
+  - daf-3
 ---

@@ -1,5 +1,12 @@
 ---
 figid: PMC7764203__microorganisms-08-01970-g005
+figtitle: Metabolic pathways involved in lactate-based or ethanol-based chain elongation
+  and production of acetate, n-butyrate, iso-butyrate, and n-caproate as predicted
+  from the genome annotation of strains BL-3, BL-4, and BL-6
+organisms:
+- NA
+pmcid: PMC7764203
+filename: microorganisms-08-01970-g005.jpg
 figlink: pmc/articles/PMC7764203/figure/microorganisms-08-01970-f005/
 number: F5
 caption: Metabolic pathways involved in lactate-based or ethanol-based chain elongation
@@ -17,21 +24,23 @@ caption: Metabolic pathways involved in lactate-based or ethanol-based chain elo
   via isomerization of n-butyryl-CoA by butyryl-CoA:isobutyryl-CoA mutase (BM) is
   shown; an alternative hypothetical pathway for iso-butyrate formation from lactate
   is depicted in .
-pmcid: PMC7764203
 papertitle: 'Three Novel Clostridia Isolates Produce n-Caproate and iso-Butyrate from
   Lactate: Comparative Genomics of Chain-Elongating Bacteria.'
 reftext: Bin Liu, et al. Microorganisms. 2020 Dec;8(12):1970.
-pmc_ranked_result_index: '20910'
-pathway_score: 0.9656311
-filename: microorganisms-08-01970-g005.jpg
-figtitle: Metabolic pathways involved in lactate-based or ethanol-based chain elongation
-  and production of acetate, n-butyrate, iso-butyrate, and n-caproate as predicted
-  from the genome annotation of strains BL-3, BL-4, and BL-6
 year: '2020'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9656311
+figid_alias: PMC7764203__F5
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC7764203__F5
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -58,25 +67,91 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - na
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
+  - Ldh
+  - Adh
+  - Ada
+  - AP-2alpha
+  - fd
+  - anon-16Fb
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - Vha14-1
+  - Coa
+  - pi
+  - red
+  - trc
+  - Ack
+  - alpha-Cat
+  - Acat2
+  - CG8112
+  - CycE
+  - cyc
+  - Had1
+  - act
+  - Act5C
+  - .na.character
+  - Act42A
+  - Actbeta
+  - heph
+  - wal
+  - bcd
+  - Etfb
+  - Bm
   - NDUFAB1
+  - CPAT1
+  - LDHA
   - LDHB
   - LDHC
-  - LDHA
-  - ADH1C
-  - ADH6
+  - AVP
   - ADH1A
   - ADH1B
+  - ADH1C
   - ADH4
   - ADH5
+  - ADH6
   - ADH7
   - ADHFE1
   - ADA
+  - ADAD1
+  - ADAD2
+  - ADAR
+  - ADARB1
+  - ADARB2
+  - ADAT1
+  - ADAT2
+  - ADAT3
+  - ATP8A2
   - WDTC1
+  - DNAH8
+  - IK
+  - DYRK3
+  - F11
   - PTCRA
   - TNK2
+  - ACAT1
+  - CES1
   - SOAT1
-  - PTBP2
+  - HADH
+  - SERPINA3
+  - ACTG1
+  - ACTG2
+  - FHL5
+  - ACOT7
+  - ACTBL2
+  - POTEKP
+  - POTEM
+  - PTBP1
   - ETFA
+  - CYP4V2
   - ETFB
   - Na
   - H
@@ -105,201 +180,4 @@ schema-jsonld:
   - Butyryl
   - 3-Nydroxybutyryl-CoA
   - Crotonyl
-genes:
-- word: acP
-  symbol: ACP
-  source: hgnc_alias_symbol
-  hgnc_symbol: NDUFAB1
-  entrez: '4706'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHB
-  entrez: '3945'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHC
-  entrez: '3948'
-- word: LDH
-  symbol: LDH
-  source: bioentities_symbol
-  hgnc_symbol: LDHA
-  entrez: '3939'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1C
-  entrez: '126'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH6
-  entrez: '130'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1A
-  entrez: '124'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH1B
-  entrez: '125'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH4
-  entrez: '127'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH5
-  entrez: '128'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADH7
-  entrez: '131'
-- word: ADH
-  symbol: ADH
-  source: bioentities_symbol
-  hgnc_symbol: ADHFE1
-  entrez: '137872'
-- word: ADA
-  symbol: ADA
-  source: hgnc_symbol
-  hgnc_symbol: ADA
-  entrez: '100'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: PTA
-  symbol: PTA
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTCRA
-  entrez: '171558'
-- word: ACK
-  symbol: ACK
-  source: hgnc_alias_symbol
-  hgnc_symbol: TNK2
-  entrez: '10188'
-- word: ACAT
-  symbol: ACAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: SOAT1
-  entrez: '6646'
-- word: ADP
-  symbol: ADP
-  source: hgnc_alias_symbol
-  hgnc_symbol: WDTC1
-  entrez: '23038'
-- word: PTB
-  symbol: PTB
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTBP2
-  entrez: '58155'
-- word: EtfA
-  symbol: ETFA
-  source: hgnc_symbol
-  hgnc_symbol: ETFA
-  entrez: '2108'
-- word: EtfB
-  symbol: ETFB
-  source: hgnc_symbol
-  hgnc_symbol: ETFB
-  entrez: '2109'
-chemicals:
-- word: Na
-  source: MESH
-  identifier: D012964
-- word: H
-  source: MESH
-  identifier: D006859
-- word: Ethanol
-  source: MESH
-  identifier: D000431
-- word: D-lactate
-  source: MESH
-  identifier: D019344
-- word: L-lactate
-  source: MESH
-  identifier: D019344
-- word: NAD
-  source: MESH
-  identifier: D009243
-- word: Lactate
-  source: MESH
-  identifier: D019344
-- word: NADH
-  source: MESH
-  identifier: D009243
-- word: Acetaldehyde COA
-  source: MESH
-  identifier: C479798
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: CoA+2Fd
-  source: MESH
-  identifier: C498057
-- word: Fd
-  source: MESH
-  identifier: C498057
-- word: PFO
-  source: MESH
-  identifier: C542782
-- word: ATP
-  source: MESH
-  identifier: D000255
-- word: ADP
-  source: MESH
-  identifier: D000244
-- word: Co,+2Fd+2H
-  source: MESH
-  identifier: C096208
-- word: Acetyl-P
-  source: MESH
-  identifier: D010695
-- word: Acetyl-CoA
-  source: MESH
-  identifier: D000105
-- word: Acetate
-  source: MESH
-  identifier: D000085
-- word: Acetyl
-  source: MESH
-  identifier: C011632
-- word: Acetoacetyl-CoA
-  source: MESH
-  identifier: C010667
-- word: Butyrate
-  source: MESH
-  identifier: D002087
-- word: NAD(P)H
-  source: MESH
-  identifier: D009243
-- word: Butyryl-CoA
-  source: MESH
-  identifier: C024343
-- word: Butyryl
-  source: MESH
-  identifier: C024343
-- word: 3-Nydroxybutyryl-CoA
-  source: MESH
-  identifier: C065987
-- word: Crotonyl
-  source: MESH
-  identifier: C010701
-diseases: []
-figid_alias: PMC7764203__F5
-redirect_from: /figures/PMC7764203__F5
-figtype: Figure
 ---

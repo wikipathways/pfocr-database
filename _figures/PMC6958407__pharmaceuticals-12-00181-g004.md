@@ -1,5 +1,10 @@
 ---
 figid: PMC6958407__pharmaceuticals-12-00181-g004
+figtitle: Proposed model for modulations of Hippo pathway by PDEF
+organisms:
+- NA
+pmcid: PMC6958407
+filename: pharmaceuticals-12-00181-g004.jpg
 figlink: /pmc/articles/PMC6958407/figure/pharmaceuticals-12-00181-f004/
 number: F4
 caption: Proposed model for modulations of Hippo pathway by PDEF. Our results show
@@ -10,19 +15,23 @@ caption: Proposed model for modulations of Hippo pathway by PDEF. Our results sh
   red lines indicate hypothetical links, while solid black lines indicate currently
   established pathways. The solid red line link was established for the first time
   in the present study.
-pmcid: PMC6958407
 papertitle: 'Prostate-Derived ETS Factor (PDEF) Modulates Yes Associated Protein 1
   (YAP1) in Prostate Cancer Cells: A Potential Cross-Talk between PDEF and Hippo Signaling.'
 reftext: Praveen Kumar Jaiswal, et al. Pharmaceuticals (Basel). 2019 Dec;12(4):181.
-pmc_ranked_result_index: '25666'
-pathway_score: 0.9544309
-filename: pharmaceuticals-12-00181-g004.jpg
-figtitle: Proposed model for modulations of Hippo pathway by PDEF
 year: '2019'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9544309
+figid_alias: PMC6958407__F4
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+- Danio rerio
+redirect_from: /figures/PMC6958407__F4
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -42,60 +51,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MST1
+  - MAP3K10
+  - MPST
+  - TAM
+  - MSTO1
   - STK3
+  - MST1
+  - STK4
   - SPDEF
-  - LATS1
   - LATS2
+  - LATS1
   - YAP1
+  - msto1
+  - hnf1ba
+  - mst1
+  - lats2
+  - lats1
+  - yap1
   - DOD0D00000DD000000000DD0D00
-genes:
-- word: MST1/2
-  symbol: MST1
-  source: hgnc_symbol
-  hgnc_symbol: MST1
-  entrez: '4485'
-- word: MST1/2
-  symbol: MST2
-  source: hgnc_alias_symbol
-  hgnc_symbol: STK3
-  entrez: '6788'
-- word: PDEF
-  symbol: PDEF
-  source: hgnc_alias_symbol
-  hgnc_symbol: SPDEF
-  entrez: '25803'
-- word: LATS1/2
-  symbol: LATS1
-  source: hgnc_symbol
-  hgnc_symbol: LATS1
-  entrez: '9113'
-- word: LATS1/2
-  symbol: LATS2
-  source: hgnc_symbol
-  hgnc_symbol: LATS2
-  entrez: '26524'
-- word: YAP1
-  symbol: YAP1
-  source: hgnc_symbol
-  hgnc_symbol: YAP1
-  entrez: '10413'
-- word: YAP1
-  symbol: YAP1
-  source: hgnc_symbol
-  hgnc_symbol: YAP1
-  entrez: '10413'
-- word: YAP1
-  symbol: YAP1
-  source: hgnc_symbol
-  hgnc_symbol: YAP1
-  entrez: '10413'
-chemicals: []
-diseases:
-- word: DOD0D00000DD000000000DD0D00
-  source: ''
-  identifier: ''
-figid_alias: PMC6958407__F4
-redirect_from: /figures/PMC6958407__F4
-figtype: Figure
 ---

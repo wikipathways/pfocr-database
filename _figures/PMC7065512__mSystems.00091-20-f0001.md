@@ -1,5 +1,11 @@
 ---
 figid: PMC7065512__mSystems.00091-20-f0001
+figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
+  absence of key pathway genes
+organisms:
+- Ralstonia solanacearum
+pmcid: PMC7065512
+filename: mSystems.00091-20-f0001.jpg
 figlink: pmc/articles/PMC7065512/figure/fig1/
 number: F1
 caption: 'Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
@@ -26,40 +32,22 @@ caption: 'Glucose oxidation pathways in Ralstonia solanacearum strains highlight
   isomerase; tal, transaldolase; fbp, fructose-1,6-bisphosphatase I; fruK, 1-phosphofructokinase;
   fruA and fruB, phosphotransferase system, enzyme I, scrk, fructokinase; fbaA, fructose
   bisphosphate aldolase, class II.'
-pmcid: PMC7065512
 papertitle: The Entner-Doudoroff and Nonoxidative Pentose Phosphate Pathways Bypass
   Glycolysis and the Oxidative Pentose Phosphate Pathway in Ralstonia solanacearum.
 reftext: Poonam Jyoti, et al. mSystems. 2020 Mar-Apr;5(2):e00091-20.
-pmc_ranked_result_index: '57861'
-pathway_score: 0.9465554
-filename: mSystems.00091-20-f0001.jpg
-figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight the
-  absence of key pathway genes
 year: '2020'
-organisms:
-- Ralstonia mannitolilytica
-- Cupriavidus necator
-- Ralstonia pickettii DTP0602
-- Synodontis clarias
-- Ralstonia insidiosa
-- Dinoroseobacter shibae
-- metagenome
-- Cupriavidus pinatubonensis JMP134
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9465554
+figid_alias: PMC7065512__F1
+figtype: Figure
+organisms_ner:
 - Ralstonia solanacearum
-- Escherichia coli str. K-12 substr. DH10B
-- Ralstonia pickettii
-- Arabidopsis thaliana
-- Roseobacter denitrificans OCh 114
-- Cupriavidus necator H16
-- Solanum lycopersicum
-- Solanum tuberosum
-- Oryza sativa
-- Saccharomyces cerevisiae
-- Escherichia coli
-- Phaeobacter gallaeciensis
-- Ralstonia syzygii R24
+redirect_from: /figures/PMC7065512__F1
 ndex: ''
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -96,117 +84,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAP4K3
-  - SDHD
-  - UBR5
-  - RPE
-  - EDA
-  - FBP1
-  - RPIA
-  - TAAR1
-  - PRKG1
-  - ENO2
-  - ENO3
-  - ENO1
-  - ENO4
+  - zwf
+  - pgl
+  - pgi
+  - edd
+  - rpiA
+  - tal
+  - tpiA
+  - gpmA
+  - eno
   - D-Glucose
   - Fructose
   - KDPG
   - D-Fructose
   - DHAP
   - Pyruvate
-genes:
-- word: glk
-  symbol: GLK
-  source: hgnc_alias_symbol
-  hgnc_symbol: MAP4K3
-  entrez: '8491'
-- word: pgl
-  symbol: PGL
-  source: hgnc_prev_symbol
-  hgnc_symbol: SDHD
-  entrez: '6392'
-- word: edd
-  symbol: EDD
-  source: hgnc_alias_symbol
-  hgnc_symbol: UBR5
-  entrez: '51366'
-- word: гре
-  symbol: RPE
-  source: hgnc_symbol
-  hgnc_symbol: RPE
-  entrez: '6120'
-- word: eda
-  symbol: EDA
-  source: hgnc_symbol
-  hgnc_symbol: EDA
-  entrez: '1896'
-- word: fbP
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: rpiA
-  symbol: RPIA
-  source: hgnc_symbol
-  hgnc_symbol: RPIA
-  entrez: '22934'
-- word: FBP
-  symbol: FBP
-  source: hgnc_prev_symbol
-  hgnc_symbol: FBP1
-  entrez: '2203'
-- word: tal
-  symbol: TA1
-  source: hgnc_alias_symbol
-  hgnc_symbol: TAAR1
-  entrez: '134864'
-- word: pgk
-  symbol: PGK
-  source: hgnc_alias_symbol
-  hgnc_symbol: PRKG1
-  entrez: '5592'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO2
-  entrez: '2026'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO3
-  entrez: '2027'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO1
-  entrez: '2023'
-- word: eno
-  symbol: ENO
-  source: bioentities_symbol
-  hgnc_symbol: ENO4
-  entrez: '387712'
-chemicals:
-- word: D-Glucose
-  source: MESH
-  identifier: D005947
-- word: Fructose
-  source: MESH
-  identifier: D005632
-- word: KDPG
-  source: MESH
-  identifier: C081217
-- word: D-Fructose
-  source: MESH
-  identifier: D005632
-- word: DHAP
-  source: MESH
-  identifier: C017202
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-diseases: []
-figid_alias: PMC7065512__F1
-redirect_from: /figures/PMC7065512__F1
-figtype: Figure
 ---

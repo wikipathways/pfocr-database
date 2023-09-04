@@ -1,5 +1,10 @@
 ---
 figid: PMC6315991__pharmaceuticals-11-00113-g001
+figtitle: Links between Lipid and Iron Metabolic Pathways
+organisms:
+- NA
+pmcid: PMC6315991
+filename: pharmaceuticals-11-00113-g001.jpg
 figlink: /pmc/articles/PMC6315991/figure/pharmaceuticals-11-00113-f001/
 number: F1
 caption: Links between Lipid and Iron Metabolic Pathways. (Top) Pyruvate, a product
@@ -33,18 +38,22 @@ caption: Links between Lipid and Iron Metabolic Pathways. (Top) Pyruvate, a prod
   iron levels in the cell can promote the formation of lipid peroxides, a process
   critical for ferroptosis (shown in grey). Please see [,,,,,,,,] for comprehensive
   reviews of these pathways and the contributing enzymes.
-pmcid: PMC6315991
 papertitle: 'Links Between Iron and Lipids: Implications in Some Major Human Diseases.'
 reftext: Stephanie Rockfield, et al. Pharmaceuticals (Basel). 2018 Dec;11(4):113.
-pmc_ranked_result_index: '48785'
-pathway_score: 0.9256853
-filename: pharmaceuticals-11-00113-g001.jpg
-figtitle: Links between Lipid and Iron Metabolic Pathways
 year: '2018'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9256853
+figid_alias: PMC6315991__F1
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC6315991__F1
 ndex: 95bd15a2-df0c-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -88,65 +97,163 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SLC39A14
-  - GPX6
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - alpha-Cat
+  - Acat2
+  - CG8112
+  - Ebp
+  - CDase
+  - schlank
+  - step
+  - lds
+  - CG32052
+  - Dgat2
+  - Gat
+  - mdy
+  - Coa
+  - Hmgcr
+  - norpA
+  - sl
+  - Plc21C
+  - Dsp1
+  - Mgat1
+  - Mgat4a
+  - Mgat4b
+  - Mgat2
+  - Mgat3
+  - wisp
+  - PAPLA1
+  - Pli
+  - Pdf
+  - skd
+  - hrg
+  - Pld
+  - Agpat1
+  - Agpat2
+  - Agpat4
+  - Agpat3
+  - Pla
+  - LPCAT
+  - atx
+  - ATPCL
+  - Gpdh1
+  - CycE
+  - cyc
+  - Tpi
+  - mAcon1
+  - Irp-1B
+  - Irp-1A
+  - Rbp9
+  - Acsl
+  - Loxl2
+  - Loxl1
+  - Mvl
+  - heph
+  - PHGPx
+  - peo
+  - AttA
+  - tbi
+  - Eph
+  - ACAT1
+  - CES1
+  - SOAT1
+  - SLC40A1
+  - SC5D
+  - EBP
+  - GLB1
+  - SH3D19
+  - NSDHL
   - TM7SF2
-  - PLCB3
-  - PLCB1
+  - CYP51A1
+  - PTPN5
+  - HAMP
+  - DGAT1
+  - ACY1
+  - HMGCR
+  - HSPG2
   - PLCE1
+  - PLCZ1
+  - PLCB1
   - PLCB2
-  - PLCG2
+  - PLCB3
   - PLCB4
   - PLCD1
-  - PLCG1
-  - TWNK
   - PLCD3
-  - EBP
-  - STAB2
-  - FES
-  - SLC40A1
-  - GPAM
-  - GPX1
-  - LCAT
-  - LOX
+  - PLCD4
+  - PLCG1
+  - PLCG2
   - MGAT1
-  - GPX2
-  - CYP51A1
-  - CYBRD1
-  - DGAT1
-  - GPX7
-  - GPX8
-  - HAMP
-  - HEPH
-  - HMGCR
+  - MGAT2
+  - MGAT3
+  - MGAT4A
+  - MGAT4B
+  - MGAT4C
+  - MGAT4D
+  - MGAT5
+  - MGAT5B
+  - REG3A
+  - ASAP2
+  - MRPS30
+  - PAPOLA
+  - PDAP1
+  - TUSC2
+  - ASAP1
+  - GPLD1
+  - PLD1
+  - PLD2
+  - PLD3
+  - PLD4
+  - PLD5
+  - PLD6
+  - LPCAT3
+  - LPCAT1
+  - MBOAT2
+  - ACACA
+  - ENPP2
+  - SMG1
+  - DMBX1
+  - ACLY
+  - GPAM
+  - TPI1
   - ACO1
+  - FES
   - ACSL1
   - ACSL3
   - ACSL4
-  - NCOA4
-  - NSDHL
-  - REG3A
-  - PCBP1
-  - PLD6
-  - PLD3
-  - PLD1
-  - ACACA
-  - SOAT1
-  - ACLY
-  - PTPN5
-  - PLD4
-  - PLD5
-  - PLCD4
-  - PLCZ1
+  - ACSL5
   - ACSL6
-  - PLD2
+  - LCAT
+  - AFF1
+  - LOX
+  - DMRT1
+  - SLC11A2
+  - CHMP2B
+  - HEPH
+  - GPX1
+  - GPX2
+  - GPX3
   - GPX4
   - GPX5
-  - ACSL5
-  - SC5D
-  - STEAP3
-  - GPX3
+  - GPX6
+  - GPX7
+  - GPX8
+  - POLG
+  - TWNK
   - TFRC
+  - STEAP3
+  - NCOA4
+  - PCBP1
+  - SLC39A8
+  - SLC39A14
+  - CYBRD1
+  - RP1
+  - STK19
+  - MAPRE2
+  - TMEM184B-AS1
+  - EPHA1
   - sphingolipid
   - iron
   - Fatty Acid
@@ -192,440 +299,4 @@ schema-jsonld:
   - Arachidonoyl-PE-OH
   - PE-O
   - 'n'
-genes:
-- word: ZIP14
-  symbol: ZIP14
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC39A14
-  entrez: '23516'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX6
-  entrez: '257202'
-- word: TM7SF2
-  symbol: TM7SF2
-  source: hgnc_symbol
-  hgnc_symbol: TM7SF2
-  entrez: '7108'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB3
-  entrez: '5331'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB1
-  entrez: '23236'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCE1
-  entrez: '51196'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB2
-  entrez: '5330'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG2
-  entrez: '5336'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCB4
-  entrez: '5332'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD1
-  entrez: '5333'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCG1
-  entrez: '5335'
-- word: PE-O
-  symbol: PEO
-  source: hgnc_alias_symbol
-  hgnc_symbol: TWNK
-  entrez: '56652'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD3
-  entrez: '113026'
-- word: EBP
-  symbol: EBP
-  source: hgnc_symbol
-  hgnc_symbol: EBP
-  entrez: '10682'
-- word: Fe(ll
-  symbol: FELL
-  source: hgnc_alias_symbol
-  hgnc_symbol: STAB2
-  entrez: '55576'
-- word: Fe-S
-  symbol: FES
-  source: hgnc_symbol
-  hgnc_symbol: FES
-  entrez: '2242'
-- word: FPN1
-  symbol: FPN1
-  source: hgnc_alias_symbol
-  hgnc_symbol: SLC40A1
-  entrez: '30061'
-- word: GPAM
-  symbol: GPAM
-  source: hgnc_symbol
-  hgnc_symbol: GPAM
-  entrez: '57678'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX1
-  entrez: '2876'
-- word: LCAT
-  symbol: LCAT
-  source: hgnc_symbol
-  hgnc_symbol: LCAT
-  entrez: '3931'
-- word: LOX
-  symbol: LOX
-  source: hgnc_symbol
-  hgnc_symbol: LOX
-  entrez: '4015'
-- word: MGAT
-  symbol: MGAT
-  source: hgnc_prev_symbol
-  hgnc_symbol: MGAT1
-  entrez: '4245'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX2
-  entrez: '2877'
-- word: CYP51
-  symbol: CYP51
-  source: hgnc_prev_symbol
-  hgnc_symbol: CYP51A1
-  entrez: '1595'
-- word: DCYTB
-  symbol: DCYTB
-  source: hgnc_alias_symbol
-  hgnc_symbol: CYBRD1
-  entrez: '79901'
-- word: DGAT
-  symbol: DGAT
-  source: hgnc_prev_symbol
-  hgnc_symbol: DGAT1
-  entrez: '8694'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX7
-  entrez: '2882'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX8
-  entrez: '493869'
-- word: HAMP
-  symbol: HAMP
-  source: hgnc_symbol
-  hgnc_symbol: HAMP
-  entrez: '57817'
-- word: HEPH
-  symbol: HEPH
-  source: hgnc_symbol
-  hgnc_symbol: HEPH
-  entrez: '9843'
-- word: HMGCR
-  symbol: HMGCR
-  source: hgnc_symbol
-  hgnc_symbol: HMGCR
-  entrez: '3156'
-- word: (IRP1)
-  symbol: IRP1
-  source: hgnc_alias_symbol
-  hgnc_symbol: ACO1
-  entrez: '48'
-- word: ACSL
-  symbol: ACSL
-  source: bioentities_symbol
-  hgnc_symbol: ACSL1
-  entrez: '2180'
-- word: ACSL
-  symbol: ACSL
-  source: bioentities_symbol
-  hgnc_symbol: ACSL3
-  entrez: '2181'
-- word: ACSL
-  symbol: ACSL
-  source: bioentities_symbol
-  hgnc_symbol: ACSL4
-  entrez: '2182'
-- word: NCOA4
-  symbol: NCOA4
-  source: hgnc_symbol
-  hgnc_symbol: NCOA4
-  entrez: '8031'
-- word: NSDHL
-  symbol: NSDHL
-  source: hgnc_symbol
-  hgnc_symbol: NSDHL
-  entrez: '50814'
-- word: PAP
-  symbol: PAP
-  source: hgnc_prev_symbol
-  hgnc_symbol: REG3A
-  entrez: '5068'
-- word: PCBP1
-  symbol: PCBP1
-  source: hgnc_symbol
-  hgnc_symbol: PCBP1
-  entrez: '5093'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD6
-  entrez: '201164'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD3
-  entrez: '23646'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD1
-  entrez: '5337'
-- word: ACACA
-  symbol: ACACA
-  source: hgnc_symbol
-  hgnc_symbol: ACACA
-  entrez: '31'
-- word: ACAT
-  symbol: ACAT
-  source: hgnc_alias_symbol
-  hgnc_symbol: SOAT1
-  entrez: '6646'
-- word: ACLY
-  symbol: ACLY
-  source: hgnc_symbol
-  hgnc_symbol: ACLY
-  entrez: '47'
-- word: Steps
-  symbol: STEP
-  source: hgnc_alias_symbol
-  hgnc_symbol: PTPN5
-  entrez: '84867'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD4
-  entrez: '122618'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD5
-  entrez: '200150'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCD4
-  entrez: '84812'
-- word: PLC
-  symbol: PLC
-  source: bioentities_symbol
-  hgnc_symbol: PLCZ1
-  entrez: '89869'
-- word: ACSL
-  symbol: ACSL
-  source: bioentities_symbol
-  hgnc_symbol: ACSL6
-  entrez: '23305'
-- word: PLD
-  symbol: PLD
-  source: bioentities_symbol
-  hgnc_symbol: PLD2
-  entrez: '5338'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX4
-  entrez: '2879'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX5
-  entrez: '2880'
-- word: ACSL
-  symbol: ACSL
-  source: bioentities_symbol
-  hgnc_symbol: ACSL5
-  entrez: '51703'
-- word: SC5D
-  symbol: SC5D
-  source: hgnc_symbol
-  hgnc_symbol: SC5D
-  entrez: '6309'
-- word: STEAP3
-  symbol: STEAP3
-  source: hgnc_symbol
-  hgnc_symbol: STEAP3
-  entrez: '55240'
-- word: GPX
-  symbol: GPX
-  source: bioentities_symbol
-  hgnc_symbol: GPX3
-  entrez: '2878'
-- word: CD71
-  symbol: CD71
-  source: hgnc_alias_symbol
-  hgnc_symbol: TFRC
-  entrez: '7037'
-chemicals:
-- word: sphingolipid
-  source: MESH
-  identifier: D013107
-- word: iron
-  source: MESH
-  identifier: D007501
-- word: Fatty Acid
-  source: MESH
-  identifier: D005227
-- word: Cholesterol
-  source: MESH
-  identifier: D002784
-- word: Cholesterol Ester
-  source: MESH
-  identifier: D002788
-- word: Sphingosine
-  source: MESH
-  identifier: D013110
-- word: Fatty Acids
-  source: MESH
-  identifier: D005227
-- word: Ceramide
-  source: MESH
-  identifier: D002518
-- word: Lanosterol
-  source: MESH
-  identifier: D007810
-- word: Triacylglycerol
-  source: MESH
-  identifier: D014280
-- word: Sphingomyelin
-  source: MESH
-  identifier: D013109
-- word: Acyl CoA
-  source: MESH
-  identifier: D000214
-- word: Diacylglycerol
-  source: MESH
-  identifier: D004075
-- word: Acyl
-  source: MESH
-  identifier: D000214
-- word: Phosphatidic Acid
-  source: MESH
-  identifier: D010712
-- word: Phosphatidylcholine
-  source: MESH
-  identifier: D010713
-- word: Acetoacetyl
-  source: MESH
-  identifier: C010667
-- word: Monoacylglycerol
-  source: MESH
-  identifier: D050178
-- word: PLA
-  source: MESH
-  identifier: C507889
-- word: Malonyl
-  source: MESH
-  identifier: D008316
-- word: ACACA
-  source: ''
-  identifier: ''
-- word: Lysophosphatidic
-  source: MESH
-  identifier: C032881
-- word: Acetyl CoA
-  source: MESH
-  identifier: D000105
-- word: Lysophosphatidyl
-  source: MESH
-  identifier: C008301
-- word: choline
-  source: MESH
-  identifier: D002794
-- word: Glycerol
-  source: MESH
-  identifier: D005990
-- word: Phosphate
-  source: MESH
-  identifier: D010710
-- word: Citrate
-  source: MESH
-  identifier: C102006
-- word: TCA
-  source: MESH
-  identifier: C000589078
-- word: Pyruvate
-  source: MESH
-  identifier: D011773
-- word: Dihydroxyacetone
-  source: MESH
-  identifier: D004098
-- word: Glucose
-  source: MESH
-  identifier: D005947
-- word: Glyceraldehyde
-  source: MESH
-  identifier: D005985
-- word: 3-Phosphate
-  source: MESH
-  identifier: D010710
-- word: Fe-S
-  source: MESH
-  identifier: C111959
-- word: Arachidonic Acid
-  source: MESH
-  identifier: D001095
-- word: Arachidonoyl-CoA
-  source: MESH
-  identifier: C026563
-- word: Fatty Acyl
-  source: MESH
-  identifier: D000214
-- word: Arachidonoyl
-  source: MESH
-  identifier: C026563
-- word: Fe
-  source: MESH
-  identifier: D007501
-- word: Fe(l)
-  source: MESH
-  identifier: D007501
-- word: Fe()
-  source: MESH
-  identifier: D007501
-- word: Arachidonoyl-PE-OH
-  source: MESH
-  identifier: C026563
-- word: PE-O
-  source: MESH
-  identifier: C118256
-- word: 'n'
-  source: MESH
-  identifier: C069135
-diseases: []
-figid_alias: PMC6315991__F1
-redirect_from: /figures/PMC6315991__F1
-figtype: Figure
 ---

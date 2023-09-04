@@ -1,5 +1,10 @@
 ---
 figid: PMC3552512__cshperspect-TRA-012336_F3
+figtitle: Oncogenic signals regulate each stage of translation
+organisms:
+- NA
+pmcid: PMC3552512
+filename: cshperspect-TRA-012336_F3.jpg
 figlink: /pmc/articles/PMC3552512/figure/A012336F3/
 number: F3
 caption: Oncogenic signals regulate each stage of translation. Oncogenic stimuli (red)
@@ -22,18 +27,22 @@ caption: Oncogenic signals regulate each stage of translation. Oncogenic stimuli
   mRNAs. Multiple approaches (blue) are used to therapeutically target the translational
   apparatus including rapamycin, ATP-active site inhibitors of mTOR, MNK1/2 kinase
   inhibitors, 4EGI-1, and eIF4E antisense oligonucleotides (ASO).
-pmcid: PMC3552512
 papertitle: Translational Control in Cancer Etiology.
 reftext: Davide Ruggero. Cold Spring Harb Perspect Biol. 2013 Feb;5(2):a012336.
-pmc_ranked_result_index: '12385'
-pathway_score: 0.9585009
-filename: cshperspect-TRA-012336_F3.jpg
-figtitle: Oncogenic signals regulate each stage of translation
 year: '2013'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9585009
+figid_alias: PMC3552512__F3
+figtype: Figure
+organisms_ner:
+- Drosophila melanogaster
 - Homo sapiens
+redirect_from: /figures/PMC3552512__F3
 ndex: a24b07de-dee3-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -65,160 +74,95 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PIK3R4
-  - PIK3R6
-  - UBTF
-  - PIK3CG
-  - PIK3R5
-  - PIK3CB
-  - TCEA1
-  - MTOR
-  - MYC
-  - PIK3CA
-  - RICTOR
-  - RPS6KB1
-  - ATP7A
-  - MKNK1
-  - TRIM24
-  - PIK3CD
-  - PIK3R3
-  - POLI
-  - RPTOR
-  - AKT3
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Mtor
+  - Tor
+  - rictor
+  - raptor
+  - Thor
+  - eIF4E1
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E6
+  - eIF4EHP
+  - tRNA:Lys-TTT-1-1
+  - tRNA:Lys-TTT-2-4
+  - tRNA:Lys-TTT-2-1
+  - tRNA:Lys-TTT-2-2
+  - tRNA:Lys-TTT-2-5
+  - tRNA:Lys-TTT-2-3
+  - Myc
+  - eIF4G2
+  - eIF4G1
+  - Atg1
+  - squ
+  - S6k
+  - CAP
+  - SMC3
+  - Cpn
+  - Capa
+  - capt
+  - bel
+  - SERCA
+  - Cadps
+  - lok
+  - eEF2
+  - CG4849
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - PolI
+  - Tif-IA
   - AKT1
   - AKT2
+  - AKT3
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - MTOR
+  - RICTOR
+  - EIF4E
+  - EIF4E2
+  - EIF4E3
+  - APP
+  - AAAS
+  - AAA1
+  - MYC
+  - EIF4G1
+  - EIF4G2
+  - EIF4G3
+  - RPS6KB1
+  - CTAA1
+  - LNPEP
+  - SERPINB6
+  - HACD1
+  - CAP1
+  - SORBS1
+  - BRD4
+  - CAP2
+  - UTS2R
+  - SLC14A2
+  - MKNK1
+  - ATP7A
   - EEF2
+  - UBTF
+  - POLI
+  - TRIM24
   - tyrosine
   - Rapamycin
   - Cancer
-genes:
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R4
-  entrez: '30849'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R6
-  entrez: '146850'
-- word: UBF)
-  symbol: UBF
-  source: hgnc_alias_symbol
-  hgnc_symbol: UBTF
-  entrez: '7343'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CG
-  entrez: '5294'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R5
-  entrez: '23533'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CB
-  entrez: '5291'
-- word: S6K1/2
-  symbol: SII
-  source: hgnc_alias_symbol
-  hgnc_symbol: TCEA1
-  entrez: '6917'
-- word: MTOR
-  symbol: MTOR
-  source: hgnc_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-- word: Myc
-  symbol: MYC
-  source: hgnc_symbol
-  hgnc_symbol: MYC
-  entrez: '4609'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CA
-  entrez: '5290'
-- word: Rictor
-  symbol: RICTOR
-  source: hgnc_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: S6K1/2
-  symbol: S6K1
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPS6KB1
-  entrez: '6198'
-- word: Mnk
-  symbol: MNK
-  source: hgnc_prev_symbol
-  hgnc_symbol: ATP7A
-  entrez: '538'
-- word: Mnk1/2inhibitor
-  symbol: MNK1
-  source: hgnc_alias_symbol
-  hgnc_symbol: MKNK1
-  entrez: '8569'
-- word: TIF-1A,
-  symbol: Tif1a
-  source: hgnc_alias_symbol
-  hgnc_symbol: TRIM24
-  entrez: '8805'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3CD
-  entrez: '5293'
-- word: PI3K
-  symbol: PI3K
-  source: bioentities_symbol
-  hgnc_symbol: PIK3R3
-  entrez: '8503'
-- word: Pol-I,
-  symbol: POLI
-  source: hgnc_symbol
-  hgnc_symbol: POLI
-  entrez: '11201'
-- word: Raptor
-  symbol: raptor
-  source: hgnc_alias_symbol
-  hgnc_symbol: RPTOR
-  entrez: '57521'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT3
-  entrez: '10000'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: AKT
-  symbol: AKT
-  source: bioentities_symbol
-  hgnc_symbol: AKT2
-  entrez: '208'
-- word: EEF2
-  symbol: EEF2
-  source: hgnc_symbol
-  hgnc_symbol: EEF2
-  entrez: '1938'
-chemicals:
-- word: tyrosine
-  source: MESH
-  identifier: D014443
-- word: Rapamycin
-  source: MESH
-  identifier: D020123
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC3552512__F3
-redirect_from: /figures/PMC3552512__F3
-figtype: Figure
 ---

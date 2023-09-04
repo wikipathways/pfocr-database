@@ -1,5 +1,10 @@
 ---
 figid: PMC2908475__intimmdxq053f02_4c
+figtitle: The intracellular signaling network regulating T-cell trafficking and differentiation
+organisms:
+- NA
+pmcid: PMC2908475
+filename: intimmdxq053f02_4c.jpg
 figlink: /pmc/articles/PMC2908475/figure/fig2/
 number: F2
 caption: Model of the intracellular signaling network regulating T-cell trafficking
@@ -26,18 +31,21 @@ caption: Model of the intracellular signaling network regulating T-cell traffick
   activity, which inhibits mTORC1 activity. AMPK is a nutrient-sensing pathway that
   is activated by TNF receptor associated factor 6. Interestingly, rapamycin and metformin
   can have adjuvant-like functions by targeting the mTORC1 complex and AMPK, respectively.
-pmcid: PMC2908475
 papertitle: Early events governing memory CD8+ T-cell differentiation.
 reftext: Joshua J. Obar, et al. Int Immunol. 2010 Aug;22(8):619-625.
-pmc_ranked_result_index: '115761'
-pathway_score: 0.9515702
-filename: intimmdxq053f02_4c.jpg
-figtitle: The intracellular signaling network regulating T-cell trafficking and differentiation
 year: '2010'
-organisms:
+doi: .na.character
+journal_title: .na.character
+journal_nlm_ta: .na.character
+publisher_name: .na.character
+keywords: .na.character
+automl_pathway: 0.9515702
+figid_alias: PMC2908475__F2
+figtype: Figure
+organisms_ner:
 - Homo sapiens
+redirect_from: /figures/PMC2908475__F2
 ndex: 6fd6f5bd-deef-11ea-99da-0ac135e8bacf
-annotations: []
 seo: CreativeWork
 schema-jsonld:
   '@context': https://schema.org/
@@ -74,226 +82,63 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - IL15RA
+  - IL2RB
+  - IL2RG
   - IL2
-  - PRKAA1
-  - PRKAG3
-  - AKT1
   - IL15
-  - PRKAB1
-  - PRKAB2
-  - EOMES
+  - IL21
+  - IL22
+  - IL9
+  - RPSA
+  - MAPK1
+  - PSMD7
+  - TP63
+  - ARHGEF2
+  - RABEPK
+  - LANCL1
+  - EBNA1BP2
+  - BRMS1L
+  - ARMH1
+  - H3P28
+  - TRBV20OR9-2
+  - TRA
+  - TRB
+  - TRD
+  - TRG
+  - IL2RA
+  - IL21R
+  - PTEN
+  - SERPINA4
+  - PDK1
+  - PDPK1
+  - AKT1
+  - PTK2B
   - FOXO1
   - FOXO3
-  - PTEN
-  - MAPKAP1
-  - PDK1
-  - IL21
-  - IL21R
-  - PRKAG1
-  - BCL6
-  - CCR7
-  - FOXO6
-  - TRG
-  - TRA
   - FOXO4
-  - PRKAA2
-  - TBX21
-  - TRD
-  - IL2RA
-  - PRDM1
-  - S1PR1
-  - MLST8
-  - RICTOR
-  - PRKAG2
-  - TRB
-  - SELL
+  - FOXO6
+  - MAPKAP1
   - MTOR
+  - RICTOR
+  - MLST8
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - EOMES
+  - TBX21
+  - PRDM1
+  - BCL6
+  - SELL
+  - SELENOI
+  - S1PR1
+  - HEXIM1
+  - CCR7
   - Metformin
   - Rapamycin
   - Cancer
-genes:
-- word: IL2
-  symbol: IL2
-  source: hgnc_symbol
-  hgnc_symbol: IL2
-  entrez: '3558'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA1
-  entrez: '5562'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG3
-  entrez: '53632'
-- word: PKB
-  symbol: PKB
-  source: hgnc_alias_symbol
-  hgnc_symbol: AKT1
-  entrez: '207'
-- word: IL15
-  symbol: IL15
-  source: hgnc_symbol
-  hgnc_symbol: IL15
-  entrez: '3600'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB1
-  entrez: '5564'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAB2
-  entrez: '5565'
-- word: Eomes
-  symbol: EOMES
-  source: hgnc_symbol
-  hgnc_symbol: EOMES
-  entrez: '8320'
-- word: Foxo
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO1
-  entrez: '2308'
-- word: Foxo
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO3
-  entrez: '2309'
-- word: PTEN
-  symbol: PTEN
-  source: hgnc_symbol
-  hgnc_symbol: PTEN
-  entrez: '5728'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MAPKAP1
-  entrez: '79109'
-- word: PDK1
-  symbol: PDK1
-  source: hgnc_symbol
-  hgnc_symbol: PDK1
-  entrez: '5163'
-- word: IL21
-  symbol: IL21
-  source: hgnc_symbol
-  hgnc_symbol: IL21
-  entrez: '59067'
-- word: IL-21R
-  symbol: IL21R
-  source: hgnc_symbol
-  hgnc_symbol: IL21R
-  entrez: '50615'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG1
-  entrez: '5571'
-- word: Bcl6??
-  symbol: BCL6
-  source: hgnc_symbol
-  hgnc_symbol: BCL6
-  entrez: '604'
-- word: Ccr7
-  symbol: CCR7
-  source: hgnc_symbol
-  hgnc_symbol: CCR7
-  entrez: '1236'
-- word: Foxo
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO6
-  entrez: '100132074'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRG
-  entrez: '6965'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRA
-  entrez: '6955'
-- word: Foxo
-  symbol: FOXO
-  source: bioentities_symbol
-  hgnc_symbol: FOXO4
-  entrez: '4303'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAA2
-  entrez: '5563'
-- word: T-bet
-  symbol: T-bet
-  source: hgnc_alias_symbol
-  hgnc_symbol: TBX21
-  entrez: '30009'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRD
-  entrez: '6964'
-- word: IL-2R
-  symbol: IL2R
-  source: hgnc_prev_symbol
-  hgnc_symbol: IL2RA
-  entrez: '3559'
-- word: Blimp1
-  symbol: BLIMP1
-  source: hgnc_prev_symbol
-  hgnc_symbol: PRDM1
-  entrez: '639'
-- word: Edg1
-  symbol: edg-1
-  source: hgnc_alias_symbol
-  hgnc_symbol: S1PR1
-  entrez: '1901'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MLST8
-  entrez: '64223'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: RICTOR
-  entrez: '253260'
-- word: AMPK
-  symbol: AMPK
-  source: bioentities_symbol
-  hgnc_symbol: PRKAG2
-  entrez: '51422'
-- word: TCR
-  symbol: TCR
-  source: bioentities_symbol
-  hgnc_symbol: TRB
-  entrez: '6957'
-- word: Sell
-  symbol: SELL
-  source: hgnc_symbol
-  hgnc_symbol: SELL
-  entrez: '6402'
-- word: MTORC2
-  symbol: mTORC2
-  source: bioentities_symbol
-  hgnc_symbol: MTOR
-  entrez: '2475'
-chemicals:
-- word: Metformin
-  source: MESH
-  identifier: D008687
-- word: Rapamycin
-  source: MESH
-  identifier: D020123
-diseases:
-- word: Cancer
-  source: ''
-  identifier: ''
-figid_alias: PMC2908475__F2
-redirect_from: /figures/PMC2908475__F2
-figtype: Figure
 ---
