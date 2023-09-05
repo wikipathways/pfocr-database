@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+    <link rel="android-chrome" sizes="192x192" href="/assets/img/android-chrome-192x192.png">
+    <link rel="android-chrome" sizes="512x512" href="/assets/img/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+    <link rel="manifest" href="/assets/img/site.webmanifest">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico">
+    <link href="/assets/fontawesome.all.min.css" rel="stylesheet">
+    <!-- Bootstrap -->
+      <script src="https://code.jquery.com/jquery-3.5.1.js" type="text/javascript"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- Custom style overrides-->
+    <link rel="stylesheet" href="/assets/main.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KGQFS041KG"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KGQFS041KG');
+    </script> 
+    <!-- Hotjar Tracking Code for Pathway Figure OCR -->
+    <script>
+    (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:3415747,hjsv:6};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    
+    <title>
+      
+        stats | Pathway Figure OCR
+      
+    </title>
+  </head> 
+
+  <body><header class="site-header" role="banner">
+    <div class="wrapper">
+      <!-- NAV BAR -->
+      <nav class="navbar navbar-light">
+        <a class="navbar-brand" href="/">
+          <img src="/assets/img/pfocr_logo_500.png" height="45" class="d-inline-block align-top" alt="PFOCR logo"> Pathway Figure OCR
+        </a>     
+        <div>
+        <!-- SEARCH  -->
+        <div id="search-widget" style="float:left; margin:4px 20px 0px 0px;">
+          <form id="searchForm" action="/search.html">
+            <i class="fa fa-search" aria-hidden="true"></i>
+            <input type="text" name="searchQuery" placeholder="&nbsp;e.g., ace2 aldosterone human">
+          </form>          
+        </div>
+        <script>
+          const searchForm = document.getElementById('searchForm');
+          searchForm.addEventListener('submit', function(event) {
+          event.preventDefault(); // Prevent the default form submission behavior
+          const searchQuery = encodeURIComponent(searchForm.elements.searchQuery.value); // Get the search query and encode it
+          const searchUrl = `/search.html?query=${searchQuery}`; // Construct the search results page URL with the search query as a parameter
+          window.location.href = searchUrl; // Navigate to the search results page
+          });
+        </script>
+        <!-- MENU -->         
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        </div>
+        <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+          <div class="nav justify-content-center">
+            <a class="nav-item nav-link" href="/about.html">About</a>
+            <a class="nav-item nav-link" href="/search.html">Search</a>
+            <a class="nav-item nav-link" href="/#browse">Browse</a>
+            <a class="nav-item nav-link" href="/#download">Download</a>
+            <a class="nav-item nav-link" href="/#download">Analyze</a>
+            <a class="nav-item nav-link" href="/help.html">Help</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>    
+  
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h1 id="pfocr-stats">PFOCR Stats</h1>
+
+<p>This R notebooks prepares counts and figures to summarize PFOCR
+activity. The output files are displayed on the website and used in
+publications and grant applications.</p>
+
+<ul>
+  <li>Data points are collected in _<em>data/</em></li>
+  <li>Plots are saved in <em>assets/img/</em></li>
+</ul>
+
+<h2 id="read-pfocr-rds-files">Read PFOCR .rds files</h2>
+
+<p>Set the path to these files</p>
+
+<p>Read in files</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">figs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_figures_kept.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_genes_kept.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">chems</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_chemicals_kept.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">dis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_diseases_kept.rds"</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="contents-and-counts">Contents and counts</h2>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">papers</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">figs</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">pmcid</span><span class="p">)</span><span class="w">
+</span><span class="n">papers_hs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">figs</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s1">'Homo sapiens'</span><span class="p">,</span><span class="n">organisms_ner</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">pmcid</span><span class="p">)</span><span class="w">
+</span><span class="n">figures_hs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">figs</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s1">'Homo sapiens'</span><span class="p">,</span><span class="n">organisms_ner</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">figid</span><span class="p">)</span><span class="w">
+</span><span class="n">ncbigenes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">genes</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">ncbigene_id</span><span class="p">)</span><span class="w">
+</span><span class="n">ncbigenes_hs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">genes</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="n">organism_id</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">9606</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">ncbigene_id</span><span class="p">)</span><span class="w">
+</span><span class="n">chemicals</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">chems</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">identifier</span><span class="p">)</span><span class="w">
+</span><span class="n">diseases</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dis</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">identifier</span><span class="p">)</span><span class="w">
+</span><span class="n">fig.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">figs</span><span class="p">)</span><span class="w">
+</span><span class="n">paper.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">papers</span><span class="p">)</span><span class="w">
+</span><span class="n">fig.hs.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">figures_hs</span><span class="p">)</span><span class="w">
+</span><span class="n">paper.hs.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">papers_hs</span><span class="p">)</span><span class="w">
+</span><span class="n">gene.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">genes</span><span class="p">)</span><span class="w">
+</span><span class="n">gene.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes</span><span class="p">)</span><span class="w">
+</span><span class="n">gene.hs.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes_hs</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chems</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals</span><span class="p">)</span><span class="w">
+</span><span class="n">di.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">dis</span><span class="p">)</span><span class="w">
+</span><span class="n">di.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases</span><span class="p">)</span><span class="w">
+
+</span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Total</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.total</span><span class="p">,</span><span class="n">chem.total</span><span class="p">,</span><span class="n">di.total</span><span class="p">),</span><span class="w"> </span><span class="n">Unique</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique</span><span class="p">))</span><span class="w">
+</span><span class="n">row.names</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Genes"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Chemicals"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Diseases"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The Pathway Figure OCR project has identified 91117 pathway figures from
+78173 published papers.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: right">Total</th>
+      <th style="text-align: right">Unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Genes</td>
+      <td style="text-align: right">4,419,511</td>
+      <td style="text-align: right">146,566</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Chemicals</td>
+      <td style="text-align: right">213,767</td>
+      <td style="text-align: right">10,944</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Diseases</td>
+      <td style="text-align: right">27,815</td>
+      <td style="text-align: right">1,162</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Contents extracted from figures</p>
+
+<h2 id="main-page-plot">Main page plot</h2>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">years.plot</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">figs</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="o">!</span><span class="nf">is.na</span><span class="p">(</span><span class="n">year</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+      </span><span class="n">group_by</span><span class="p">(</span><span class="n">year</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+      </span><span class="n">dplyr</span><span class="o">::</span><span class="n">summarize</span><span class="p">(</span><span class="n">fig_cnt</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n</span><span class="p">())</span><span class="w">
+
+</span><span class="n">min.year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">min</span><span class="p">(</span><span class="n">years.plot</span><span class="o">$</span><span class="n">year</span><span class="p">)</span><span class="w">
+</span><span class="n">max.year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="n">years.plot</span><span class="o">$</span><span class="n">year</span><span class="p">)</span><span class="w">
+    
+</span><span class="n">years.plot</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+      </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">factor</span><span class="p">(</span><span class="n">year</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="n">min.year</span><span class="p">,</span><span class="w"> </span><span class="n">max.year</span><span class="p">)),</span><span class="w"> </span><span class="n">y</span><span class="o">=</span><span class="n">fig_cnt</span><span class="p">,</span><span class="w"> 
+                 </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">case_when</span><span class="p">(</span><span class="w">
+                   </span><span class="n">year</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">max.year</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="s2">"no"</span><span class="p">,</span><span class="w">
+                   </span><span class="n">year</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">max.year</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="s2">"yes"</span><span class="w">
+                 </span><span class="p">)))</span><span class="w"> </span><span class="o">+</span><span class="w">
+      </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">stat</span><span class="o">=</span><span class="s2">"identity"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+      </span><span class="n">ggtitle</span><span class="p">(</span><span class="s2">"Published Pathway Figures by Year"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+      </span><span class="n">xlab</span><span class="p">(</span><span class="s2">""</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+      </span><span class="n">ylab</span><span class="p">(</span><span class="s2">""</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+      </span><span class="n">scale_x_discrete</span><span class="p">(</span><span class="n">breaks</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">seq</span><span class="p">(</span><span class="n">min.year</span><span class="p">,</span><span class="n">max.year</span><span class="p">,</span><span class="n">by</span><span class="o">=</span><span class="m">5</span><span class="p">)),</span><span class="w"> </span><span class="n">drop</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">)</span><span class="w">  </span><span class="o">+</span><span class="w">
+      </span><span class="n">scale_fill_manual</span><span class="p">(</span><span class="n">values</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"yes"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"#3955E7"</span><span class="p">,</span><span class="w"> </span><span class="s2">"no"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"#7995F7"</span><span class="w"> </span><span class="p">),</span><span class="w"> </span><span class="n">guide</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"none"</span><span class="w"> </span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+      </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">45</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w">
+            </span><span class="n">axis.text.y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">),</span><span class="w">
+            </span><span class="n">text</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="p">,</span><span class="w">  </span><span class="n">family</span><span class="o">=</span><span class="s2">"Helvetica"</span><span class="p">,</span><span class="w"> </span><span class="n">face</span><span class="o">=</span><span class="s2">"plain"</span><span class="p">),</span><span class="w">
+            </span><span class="n">panel.grid.major</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_line</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s2">"#eeeeee"</span><span class="p">),</span><span class="w"> 
+            </span><span class="n">plot.title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">-15</span><span class="p">),</span><span class="w">
+          </span><span class="n">panel.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">),</span><span class="w"> </span><span class="c1">#transparent panel bg</span><span class="w">
+          </span><span class="n">plot.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="o">=</span><span class="kc">NA</span><span class="p">),</span><span class="w"> </span><span class="c1">#transparent plot bg</span><span class="w">
+          </span><span class="n">panel.grid.minor</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_blank</span><span class="p">(),</span><span class="w"> </span><span class="c1">#remove minor gridlines</span><span class="w">
+          </span><span class="n">legend.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">),</span><span class="w"> </span><span class="c1">#transparent legend bg</span><span class="w">
+          </span><span class="n">legend.box.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">)</span><span class="w"> </span><span class="c1">#transparent legend panel</span><span class="w">
+      </span><span class="p">)</span><span class="w"> 
+</span></code></pre></div></div>
+
+<p><img src="stats_files/figure-markdown_github/plot-1.png" alt="" /></p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggsave</span><span class="p">(</span><span class="s2">"../assets/img/pfocr_stats.png"</span><span class="p">,</span><span class="w"> </span><span class="n">plot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">last_plot</span><span class="p">(),</span><span class="w"> 
+       </span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">550</span><span class="p">,</span><span class="w"> </span><span class="n">height</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">300</span><span class="p">,</span><span class="w"> </span><span class="n">units</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"px"</span><span class="p">,</span><span class="w"> </span><span class="n">dpi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">250</span><span class="p">,</span><span class="w"> </span><span class="n">bg</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p><img src="/assets/img/pfocr_stats.png" alt="" /></p>
+
+<h2 id="counts">Counts</h2>
+
+      </div>
+    </main><footer class="site-footer h-card"> 
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+      <a href="https://github.com/wikipathways/pfocr-database/commits" target="_blank">
+        <img alt="GitHub last commit"
+          src="https://img.shields.io/github/last-commit/wikipathways/pfocr-database?label=updated">
+      </a>
+      <a href="https://github.com/wikipathways/pfocr-database/deployments" target="_blank">
+        <img alt="GitHub deployment state" 
+        src="https://img.shields.io/github/deployments/wikipathways/pfocr-database/github-pages">
+      </a>
+      <p style="margin-bottom: 5px;" />
+
+    <div class="row"> 
+
+      <div class="col">
+        <p style="width:300px; margin-bottom: 5px;">Mining the published literature for pathway figures and making their contents accessible for science.</p> 
+        <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank"><img height="25px" src="/assets/img/cc0.jpg"/></a>
+      </div>
+ 
+      <div class="col"><ul class="social-media-list"><li><a href="https://github.com/wikipathways" target="_blank"><span style="color: #666;"><i class="fa fa-github fa"></i></span>&nbsp;&nbsp;<span style="color: #828282;">github</span></a></li><li><a href="https://www.twitter.com/wikipathways" target="_blank"><span style="color: #666;"><i class="fa fa-twitter fa"></i></span>&nbsp;&nbsp;<span style="color: #828282;">twitter</span></a></li><li><a href="https://github.com/wikipathways/wikipathways-help/discussions" target="_blank"><span style="color: #666;"><i class="fa fa-question-circle fa"></i></span>&nbsp;&nbsp;<span style="color: #828282;">forum</span></a></li></ul>
+</div>
+  
+      <div class="col text-nowrap">
+        <ul class="contact-list">
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/help.html">Help</a></li>
+          <li><a href="/help.html#analyze">Tools</a></li>
+        </ul>
+      </div>
+
+      <div class="col text-nowrap">
+        <ul class="contact-list">
+          <li><a href="/stats.html">Statistics</a></li>
+          <li><a href="/cite.html">How to cite</a></li>
+          <li><a href="https://github.com/wikipathways/wikipathways-help/issues" target="_blank">Report a bug</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</footer>
+</body>
+</html>
