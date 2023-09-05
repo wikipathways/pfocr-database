@@ -13,6 +13,13 @@ organisms:
 - Macaca fascicularis
 - Xanthorhoe munitata
 - Danio rerio
+organisms_ner:
+- Rattus norvegicus
+- Macaca fascicularis
+- Homo sapiens
+- Mus musculus
+- Danio rerio
+- Drosophila melanogaster
 pmcid: PMC6958404
 filename: pharmaceuticals-12-00170-g001.jpg
 figlink: /pmc/articles/PMC6958404/figure/pharmaceuticals-12-00170-f001/
@@ -43,12 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9278397
 figid_alias: PMC6958404__F1
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Macaca fascicularis
-- Homo sapiens
-- Mus musculus
-- Danio rerio
 redirect_from: /figures/PMC6958404__F1
 ndex: ''
 seo: CreativeWork
@@ -95,9 +96,9 @@ schema-jsonld:
   - Tfr2
   - Smad6
   - Bambi
-  - Smad1
   - Smad5
   - Smad9
+  - Smad1
   - Stat3
   - Egln3
   - Egln1
@@ -121,21 +122,21 @@ schema-jsonld:
   - TFR2
   - SMAD6
   - BAMBI
-  - SMAD1
   - SMAD5
+  - SMAD1
   - STAT3
   - SMAD7
   - SMAD4
   - HAMP
   - TIMP1
   - EPX
-  - INHBA
   - INHBB
+  - INHBA
   - POR
   - VDAC2
   - TFRC
-  - GARS1
   - SMAD9
+  - GARS1
   - EGLN3
   - HIF1A
   - EPAS1
@@ -184,13 +185,22 @@ schema-jsonld:
   - tfr2
   - smad6a
   - bambia
-  - smad1
   - smad5
+  - smad1
   - stat3
   - smad7
   - smad4a
   - smad4b
   - stat1b
   - stat4
+  - Actbeta
+  - por
+  - Mad
+  - Dad
+  - Med
+  - Stat92E
+  - dpp
+  - gbb
+  - wit
   - Hypoxia
 ---

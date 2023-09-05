@@ -3,6 +3,10 @@ figid: PMC2722148__carcinbgn247f01_lw
 figtitle: MAPK transduction signaling pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC2722148
 filename: carcinbgn247f01_lw.jpg
 figlink: /pmc/articles/PMC2722148/figure/fig1/
@@ -21,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9029193
 figid_alias: PMC2722148__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2722148__F1
 ndex: 39a1342d-dea4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -50,8 +52,8 @@ schema-jsonld:
   - BRAF
   - RAF1
   - MAP3K1
-  - MAP2K2
   - MAP2K1
+  - MAP2K2
   - MAPK1
   - MAPK3
   - MAPK11
@@ -62,12 +64,35 @@ schema-jsonld:
   - MAPK9
   - MAPK10
   - EPHB2
-  - JUN
   - MYC
   - ELK1
   - KCNH4
   - KCNH8
   - FOS
+  - JUN
+  - htl
+  - drk
+  - Sos
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - MKP-4
+  - p38b
+  - rl
+  - Erk7
+  - Myc
+  - kay
+  - Jra
+  - fgfr2
+  - grb2b
+  - rab1ab
+  - map3k1
+  - map2k1
+  - map2k2a
+  - myca
+  - elk1
+  - jun
   - Cancer
   - Noonan syndrome
 ---

@@ -8,6 +8,8 @@ organisms:
 - Homo sapiens
 - Rattus norvegicus
 - Mustela putorius furo
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8240839
 filename: ENEURO.0522-20.2021_f010.jpg
 figlink: /pmc/articles/PMC8240839/figure/F10/
@@ -30,8 +32,6 @@ keywords: auditory | vagus nerve | plasticity | reward | learning | pupil
 automl_pathway: 0.7079576
 figid_alias: PMC8240839__F10
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8240839__F10
 ndex: ''
 seo: CreativeWork

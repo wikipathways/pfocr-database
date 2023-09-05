@@ -4,6 +4,9 @@ figtitle: Roles of APC and Axin Derived from Experimental and Theoretical Analys
   of the Wnt Pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC212691
 filename: pbio.0000010.g001.jpg
 figlink: /pmc/articles/PMC212691/figure/pbio-0000010-g001/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9413074
 figid_alias: PMC212691__F1
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC212691__F1
 ndex: 5685c04b-debe-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -62,11 +62,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - gsk3ba
-  - gsk3ab
-  - ctnnb1
-  - apc
-  - elk4
+  - sgg
+  - Axn
+  - arm
+  - CycE
+  - cyc
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - dsh
+  - pan
   - GSK3A
   - GSK3B
   - AXIN1

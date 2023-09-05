@@ -4,6 +4,8 @@ figtitle: Crosstalk of the Wnt/Beta-Catenin Signaling Pathway in the Induction o
   Apoptosis on Cancer Cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8465904
 filename: pharmaceuticals-14-00871-g002.jpg
 figlink: /pmc/articles/PMC8465904/figure/pharmaceuticals-14-00871-f002/
@@ -49,8 +51,6 @@ keywords: crosstalk | β-catenin | apoptosis | signaling | cancer cells
 automl_pathway: 0.9179004
 figid_alias: PMC8465904__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8465904__F2
 ndex: ''
 seo: CreativeWork
@@ -98,8 +98,8 @@ schema-jsonld:
   - MST1
   - STK4
   - STK3
-  - LATS2
   - LATS1
+  - LATS2
   - TP53
   - TP63
   - TP73
@@ -112,9 +112,9 @@ schema-jsonld:
   - PRKAG2
   - PRKAG3
   - GSK3B
+  - YAP1
   - TAFAZZIN
   - WWTR1
-  - YAP1
   - VEGFA
   - VEGFB
   - VEGFC
@@ -208,7 +208,6 @@ schema-jsonld:
   - APC
   - PROC
   - EP300
-  - CP
   - SMAD7
   - HNF4A
   - TGFBR1
@@ -219,9 +218,9 @@ schema-jsonld:
   - TGFB3
   - TNF
   - POLI
-  - CSF2
   - CSF3
   - CSF1
+  - CSF2
   - CRK
   - MAPK14
   - MAPK1
@@ -276,18 +275,18 @@ schema-jsonld:
   - CSNK2A1
   - CSNK2A2
   - CSNK2B
-  - CDH1
-  - FZR1
   - KDR
   - FLT1
   - FLT4
+  - CDH1
+  - FZR1
   - EPHB2
   - MAPK3
+  - CCNE1
+  - CCNE2
   - CCND1
   - CCND2
   - CCND3
-  - CCNE1
-  - CCNE2
   - PCNA
   - NOS3
   - ENO4

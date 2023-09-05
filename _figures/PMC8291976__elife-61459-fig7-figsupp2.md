@@ -4,10 +4,13 @@ figtitle: Endocrine signaling pathways acting as contributors to fatty acid meta
   of PDStv animals
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC8291976
 filename: elife-61459-fig7-figsupp2.jpg
 figlink: /pmc/articles/PMC8291976/figure/fig7s2/
-number: F7
+number: SF7_2
 caption: Signaling between the soma and the germ line establishing metabolic plasticity
   and the transmission of ancestral starvation memory are dependent on the germline
   nuclear RNAi pathway.
@@ -21,11 +24,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: postdauer | daf-12 | nhr-49 | tcer-1 | hrde-1 | prg-1 | C. elegans
 automl_pathway: 0.9358866
-figid_alias: PMC8291976__F7
-figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
-redirect_from: /figures/PMC8291976__F7
+figid_alias: PMC8291976__SF7_2
+figtype: Supplemental figure
+redirect_from: /figures/PMC8291976__SF7_2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -47,4 +48,12 @@ schema-jsonld:
   - nhr-49
   - sbp-1
   - prg-1
+  - KRI1
+  - HMGB1
+  - PLPPR4
+  - PRG1
+  - SRGN
+  - IER3
+  - CD36
+  - FAT1
 ---

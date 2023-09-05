@@ -10,10 +10,15 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - NA
+organisms_ner:
+- Mus musculus
+- Corynebacterium bovis
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8321552
 filename: elife-70429-fig2-figsupp10.jpg
 figlink: /pmc/articles/PMC8321552/figure/fig2s10/
-number: F2
+number: SF2_10
 caption: 'KEGG analysis of analog #4 differentially regulated genes was found to be
   enriched for the DNA replication pathway, adjp equal 2.18×10−2.'
 papertitle: A subset of CB002 xanthine analogs bypass p53-signaling to restore a p53
@@ -26,13 +31,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: p53 | cancer | therapy | xanthines | CB002 | noxa | Human
 automl_pathway: 0.7168825
-figid_alias: PMC8321552__F2
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Corynebacterium bovis
-redirect_from: /figures/PMC8321552__F2
+figid_alias: PMC8321552__SF2_10
+figtype: Supplemental figure
+redirect_from: /figures/PMC8321552__SF2_10
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -47,6 +48,33 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Trav6-3
+  - Ccdc80
+  - Scyl1
+  - Ercc3
+  - Ube2k
+  - Ddr1
+  - Cdk7
+  - Gtf2h3
+  - Ercc2
+  - Npc2
+  - Dnah8
+  - Xpc
+  - Cetn2
+  - Rad23b
+  - Ercc4
+  - Ercc6
+  - Ddb1
+  - Hspa9
+  - Ercc8
+  - Xpa
+  - Penk
+  - Rpa1
+  - Ercc5
+  - uvrA
+  - uvrB
+  - uvrC
+  - mfd
   - GCGR
   - TRBV20OR9-2
   - TRA
@@ -109,31 +137,33 @@ schema-jsonld:
   - RPA2
   - RPA3
   - ERCC5
-  - Trav6-3
-  - Ccdc80
-  - Scyl1
-  - Ercc3
-  - Ube2k
-  - Ddr1
-  - Cdk7
-  - Gtf2h3
-  - Ercc2
-  - Npc2
-  - Dnah8
-  - Xpc
-  - Cetn2
-  - Rad23b
-  - Ercc4
-  - Ercc6
-  - Ddb1
-  - Hspa9
-  - Ercc8
-  - Xpa
-  - Penk
-  - Rpa1
-  - Ercc5
-  - uvrA
-  - uvrB
-  - uvrC
-  - mfd
+  - 'On'
+  - Tcr
+  - snf
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Dro
+  - 5-HT7
+  - Drsl1
+  - Drsl6
+  - Pkcdelta
+  - poly
+  - Cdk4
+  - hay
+  - Tfb5
+  - lig
+  - Xpd
+  - Teh2
+  - Hel25E
+  - Vha14-1
+  - tei
+  - rec
+  - Kdm5
+  - Cbs
+  - pic
+  - Xpac
+  - Ppa
+  - mus201
 ---

@@ -3,6 +3,9 @@ figid: PMC8308559__pharmaceuticals-14-00628-g002
 figtitle: Roles of DNA Demethylases in Triple-Negative Breast Cancer
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8308559
 filename: pharmaceuticals-14-00628-g002.jpg
 figlink: /pmc/articles/PMC8308559/figure/pharmaceuticals-14-00628-f002/
@@ -26,9 +29,6 @@ keywords: TNBC | TET enzyme | DNA methylation
 automl_pathway: 0.8472678
 figid_alias: PMC8308559__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8308559__F2
 ndex: ''
 seo: CreativeWork
@@ -55,8 +55,8 @@ schema-jsonld:
   - alt
   - CG1640
   - cold
-  - TET1
   - GPT
+  - TET1
   - ADHFE1
   - CD274
   - PDCD1

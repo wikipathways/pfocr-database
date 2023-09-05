@@ -5,6 +5,8 @@ figtitle: A Simplified Schematic Showing Some of the Known Anatomical and Functi
   Amygdala (BLA), and Nucleus Accumbens (NAcc)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2632330
 filename: jschbulsbm048f01_ht.jpg
 figlink: /pmc/articles/PMC2632330/figure/fig1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9245647
 figid_alias: PMC2632330__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2632330__F1
 ndex: ''
 seo: CreativeWork

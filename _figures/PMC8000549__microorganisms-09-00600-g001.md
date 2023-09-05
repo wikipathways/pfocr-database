@@ -3,6 +3,9 @@ figid: PMC8000549__microorganisms-09-00600-g001
 figtitle: Metabolic pathway designed for the production of Beta-alanine
 organisms:
 - Escherichia coli
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8000549
 filename: microorganisms-09-00600-g001.jpg
 figlink: pmc/articles/PMC8000549/figure/microorganisms-09-00600-f001/
@@ -23,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9376691
 figid_alias: PMC8000549__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8000549__F1
 ndex: ''
 seo: CreativeWork
@@ -42,10 +43,25 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - lacI
-  - panD
+  - betaTub60D
+  - Pep
+  - bgcn
+  - pyr
   - pck
-  - ppsA
+  - ale
+  - cg
+  - TFPI
+  - CYLD
+  - TNMD
+  - MFT2
+  - TAC1
+  - TAC3
+  - TAC4
+  - PAND1
+  - ASPDH
+  - PAEP
+  - PREP
+  - PTPN22
   - GLY O
   - IPTG
   - O PYR

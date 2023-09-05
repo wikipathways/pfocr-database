@@ -3,6 +3,9 @@ figid: PMC4077447__theoncologist_14178_f2
 figtitle: '6-Thioguanine: A Drug With Unrealized Potential for Cancer Therapy'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4077447
 filename: theoncologist_14178_f2.jpg
 figlink: /pmc/articles/PMC4077447/figure/F2/
@@ -22,9 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9623597
 figid_alias: PMC4077447__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4077447__F2
 ndex: ''
 seo: CreativeWork

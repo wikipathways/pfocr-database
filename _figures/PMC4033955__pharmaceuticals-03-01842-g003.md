@@ -3,6 +3,8 @@ figid: PMC4033955__pharmaceuticals-03-01842-g003
 figtitle: P38 MAPK signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC4033955
 filename: pharmaceuticals-03-01842-g003.jpg
 figlink: /pmc/articles/PMC4033955/figure/pharmaceuticals-03-01842-f003/
@@ -19,8 +21,6 @@ keywords: .na.character
 automl_pathway: 0.8966504
 figid_alias: PMC4033955__F3
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC4033955__F3
 ndex: b5a92332-df11-11ea-99da-0ac135e8bacf
 seo: CreativeWork

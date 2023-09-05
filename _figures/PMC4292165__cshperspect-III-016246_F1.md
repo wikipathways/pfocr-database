@@ -3,6 +3,8 @@ figid: PMC4292165__cshperspect-III-016246_F1
 figtitle: Signaling pathway of cell surface TLRs
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4292165
 filename: cshperspect-III-016246_F1.jpg
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F1/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.953234
 figid_alias: PMC4292165__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4292165__F1
 ndex: eb285b02-deec-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -94,6 +94,7 @@ schema-jsonld:
   - TMED7
   - TAB2
   - TRAF3
+  - TAB3
   - TBK1
   - IKBKE
   - IKBKG
@@ -133,7 +134,7 @@ schema-jsonld:
   - IFNA14
   - IFNA16
   - IFNA21
-  - IL1B
-  - TNF
   - IL1A
+  - TNF
+  - IL1B
 ---

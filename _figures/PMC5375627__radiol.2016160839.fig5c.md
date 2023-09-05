@@ -4,6 +4,8 @@ figtitle: Induction of glycolytic and tricarboxylic acid cycle enzymes by M-CSF 
   GM-CSF
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5375627
 filename: radiol.2016160839.fig5c.jpg
 figlink: /pmc/articles/PMC5375627/figure/fig5c/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9514871
 figid_alias: PMC5375627__F5c
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5375627__F5c
 ndex: 15f75dda-deae-11ea-99da-0ac135e8bacf
 seo: CreativeWork

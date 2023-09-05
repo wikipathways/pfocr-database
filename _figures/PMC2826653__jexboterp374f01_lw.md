@@ -3,6 +3,9 @@ figid: PMC2826653__jexboterp374f01_lw
 figtitle: The path of carbon in photosynthesis in a tobacco leaf
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2826653
 filename: jexboterp374f01_lw.jpg
 figlink: /pmc/articles/PMC2826653/figure/fig1/
@@ -32,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.88437
 figid_alias: PMC2826653__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2826653__F1
 ndex: ''
 seo: CreativeWork
@@ -60,9 +61,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Aldh-III
   - Pep
   - bgcn
+  - Aldh-III
   - Gapdh2
   - CdGAPr
   - Gapdh1
@@ -77,6 +78,21 @@ schema-jsonld:
   - CycE
   - cyc
   - G6P
+  - PAEP
+  - PREP
+  - PTPN22
+  - RASA1
+  - RGS6
+  - SULT1A1
+  - TRIP10
+  - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - SHBG
+  - CCHCR1
   - Fatty acid
   - Phe
   - Pyruvate----Ala

@@ -4,6 +4,9 @@ figtitle: 'Effect of Palrnatine on lipopolysaccharide-induced acute lung injury 
   inhibiting activation of the Akt/NF‍KB pathway '
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8593526
 filename: JZhejiangUnivSciB-22-11-929-g007.jpg
 figlink: /pmc/articles/PMC8593526/figure/JZhejiangUnivSciB-22-11-929-g007/
@@ -28,8 +31,6 @@ keywords: Acute lung injury | Palrnatine | Lipopolysaccharide (LPS) | Protein ki
 automl_pathway: 0.9565383
 figid_alias: PMC8593526__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8593526__F7
 ndex: ''
 seo: CreativeWork
@@ -59,4 +60,15 @@ schema-jsonld:
   - ali
   - alpha-Est7
   - Pa
+  - IRF6
+  - AKT1
+  - AKT2
+  - AKT3
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - IL13
+  - NOS2
+  - ISYNA1
 ---

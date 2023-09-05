@@ -3,6 +3,9 @@ figid: PMC3280674__RevDiabeticStud-08-403-001
 figtitle: Fatty Heart, Cardiac Damage, and Inflammation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3280674
 filename: RevDiabeticStud-08-403-001.jpg
 figlink: /pmc/articles/PMC3280674/figure/F1/
@@ -39,9 +42,6 @@ keywords: .na.character
 automl_pathway: 0.9692786
 figid_alias: PMC3280674__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3280674__F1
 ndex: 6461d556-dec8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

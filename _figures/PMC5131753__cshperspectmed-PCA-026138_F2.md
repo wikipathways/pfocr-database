@@ -7,6 +7,11 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Danio rerio
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC5131753
 filename: cshperspectmed-PCA-026138_F2.jpg
 figlink: /pmc/articles/PMC5131753/figure/A026138F2/
@@ -30,10 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9482671
 figid_alias: PMC5131753__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
 redirect_from: /figures/PMC5131753__F2
 ndex: ''
 seo: CreativeWork
@@ -69,4 +70,11 @@ schema-jsonld:
   - Mdm2
   - Tp53
   - Trp53
+  - RpL5
+  - RpL11
+  - RpS9
+  - mRpL11
+  - p53
+  - betaTub60D
+  - hth
 ---

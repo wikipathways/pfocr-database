@@ -3,6 +3,8 @@ figid: PMC8111433__Beilstein_J_Org_Chem-17-1001-g004
 figtitle: Synthetic accesses to biguanide compounds
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8111433
 filename: Beilstein_J_Org_Chem-17-1001-g004.jpg
 figlink: /pmc/articles/PMC8111433/figure/F3/
@@ -24,8 +26,6 @@ keywords: amidine | biguanide | guanidine chemistry | metformin derivatives | po
 automl_pathway: 0.8744509
 figid_alias: PMC8111433__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8111433__F3
 ndex: ''
 seo: CreativeWork

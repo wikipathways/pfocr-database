@@ -3,6 +3,8 @@ figid: PMC5597160__bioengineering-03-00002-g001
 figtitle: Butanol producing metabolic pathway in C
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC5597160
 filename: bioengineering-03-00002-g001.jpg
 figlink: /pmc/articles/PMC5597160/figure/bioengineering-03-00002-f001/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9404662
 figid_alias: PMC5597160__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5597160__F1
 ndex: ''
 seo: CreativeWork

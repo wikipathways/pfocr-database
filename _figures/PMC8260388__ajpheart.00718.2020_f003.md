@@ -4,6 +4,9 @@ figtitle: 'Cellular signaling cross-talk between different cardiac cell populati
   an insight into the role of exosomes in the heart diseases and therapy'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8260388
 filename: ajpheart.00718.2020_f003.jpg
 figlink: /pmc/articles/PMC8260388/figure/F0003/
@@ -29,9 +32,6 @@ keywords: cardiac remodeling | exosomes | fibrosis | inflammation | stem cells
 automl_pathway: 0.9688817
 figid_alias: PMC8260388__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC8260388__F3
 ndex: ''
 seo: CreativeWork

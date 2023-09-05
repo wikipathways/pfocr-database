@@ -4,6 +4,8 @@ figtitle: Schematic of the proposed pathways whereby mitochondrial dysfunction i
   chronic obstructive pulmonary disease pathogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6944396
 filename: AnnalsATS.201808-585MG_f1.jpg
 figlink: /pmc/articles/PMC6944396/figure/fig1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.7771919
 figid_alias: PMC6944396__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6944396__F1
 ndex: ''
 seo: CreativeWork
@@ -65,7 +65,7 @@ schema-jsonld:
   keywords:
   - PINK1
   - PRKN
-  - RIPK3
   - MLKL
+  - RIPK3
   - Emphysema
 ---

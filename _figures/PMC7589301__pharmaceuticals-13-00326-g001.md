@@ -4,6 +4,9 @@ figtitle: The possible molecular mechanism of amantadine’s antidepressant effe
   at the level of dopaminergic and glutamatergic transmission
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7589301
 filename: pharmaceuticals-13-00326-g001.jpg
 figlink: pmc/articles/PMC7589301/figure/pharmaceuticals-13-00326-f001/
@@ -47,9 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9275088
 figid_alias: PMC7589301__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7589301__F1
 ndex: ''
 seo: CreativeWork
@@ -119,6 +119,7 @@ schema-jsonld:
   - Pka-C2
   - NOS1
   - DDC
+  - MAOB
   - GRIN1
   - GRIN2A
   - GRIN2B
@@ -126,7 +127,6 @@ schema-jsonld:
   - GRIN2D
   - GRIN3A
   - GRIN3B
-  - MAOB
   - SLC6A3
   - NTRK2
   - ADCY1

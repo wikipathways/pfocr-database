@@ -3,6 +3,8 @@ figid: PMC4828118__theoncologist_15351_f3
 figtitle: Drugs interfering with breast cancer (BC)- and obesity-related pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4828118
 filename: theoncologist_15351_f3.jpg
 figlink: /pmc/articles/PMC4828118/figure/F3/
@@ -38,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.943653
 figid_alias: PMC4828118__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4828118__F3
 ndex: 4d4222d9-df02-11ea-99da-0ac135e8bacf
 seo: CreativeWork

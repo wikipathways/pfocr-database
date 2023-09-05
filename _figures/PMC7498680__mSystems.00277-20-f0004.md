@@ -4,6 +4,8 @@ figtitle: Defining Genomic and Predicted Metabolic Features of the Acetobacteriu
   Genus
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7498680
 filename: mSystems.00277-20-f0004.jpg
 figlink: .na.character
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9219697
 figid_alias: PMC7498680__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7498680__F4
 ndex: ''
 seo: CreativeWork

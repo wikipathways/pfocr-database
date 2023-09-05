@@ -33,6 +33,14 @@ organisms:
 - Mus musculus
 - Moloney murine leukemia virus
 - Homo sapiens
+organisms_ner:
+- Clostridium sporogenes
+- Mus musculus
+- Limosilactobacillus reuteri
+- Fructilactobacillus sanfranciscensis
+- Lactiplantibacillus plantarum
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7143770
 filename: microorganisms-08-00439-g001.jpg
 figlink: pmc/articles/PMC7143770/figure/microorganisms-08-00439-f001/
@@ -61,13 +69,6 @@ keywords: .na.character
 automl_pathway: 0.957552
 figid_alias: PMC7143770__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Clostridium sporogenes
-- Escherichia coli str. K-12 substr. MG1655
-- Limosilactobacillus reuteri
-- Fructilactobacillus sanfranciscensis
-- Lactiplantibacillus plantarum
 redirect_from: /figures/PMC7143770__F1
 ndex: ''
 seo: CreativeWork
@@ -95,6 +96,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - fabD
+  - fabF
+  - fabK
+  - fabG
+  - fabZ
   - Cle
   - Ccd
   - Wdtc1
@@ -103,11 +109,15 @@ schema-jsonld:
   - Hps3
   - Decr1
   - H20
-  - fabD
-  - fabF
-  - fabK
-  - fabG
-  - fabZ
+  - EIF2B5
+  - RTRAF
+  - ATP8A2
+  - RUNX2
+  - WDTC1
+  - MCAT
+  - PMCH
+  - DECR1
+  - HSD17B8
   - fabH
   - accC
   - Cytric acid

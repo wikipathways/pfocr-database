@@ -3,6 +3,10 @@ figid: PMC4143103__cshperspectmed-HEA-015909_F2
 figtitle: Canonical and noncanonical TGFB signaling
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC4143103
 filename: cshperspectmed-HEA-015909_F2.jpg
 figlink: /pmc/articles/PMC4143103/figure/A015909F2/
@@ -40,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9737988
 figid_alias: PMC4143103__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4143103__F2
 ndex: 125fabbb-dec3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -79,8 +81,8 @@ schema-jsonld:
   keywords:
   - NEUROD1
   - TUBB4B
-  - TGFBR1
   - TGFBR2
+  - TGFBR1
   - SMAD2
   - SMAD3
   - RHOA
@@ -163,4 +165,42 @@ schema-jsonld:
   - MYL9
   - MYL11
   - ACTA1
+  - Prosbeta2
+  - betaTub85D
+  - nAChRbeta2
+  - Smox
+  - Rho1
+  - Tak1
+  - sktl
+  - rasp
+  - Med
+  - Rok
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - Erk7
+  - rl
+  - bsk
+  - Strn-Mlck
+  - MKP-4
+  - sqh
+  - Mhc
+  - Mlc2
+  - psmb7
+  - tgfbr2b
+  - tgfbr1a
+  - smad2
+  - smad3a
+  - rhoaa
+  - rhoab
+  - map2k1
+  - smad4a
+  - smad4b
+  - mapk14a
+  - mapk8b
+  - mylk3
 ---

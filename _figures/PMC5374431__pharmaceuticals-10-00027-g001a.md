@@ -12,6 +12,13 @@ organisms:
 - Drosophila melanogaster
 - Human immunodeficiency virus 1
 - Xenopus laevis
+organisms_ner:
+- Bos taurus
+- Rattus norvegicus
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
+- Xenopus laevis
 pmcid: PMC5374431
 filename: pharmaceuticals-10-00027-g001a.jpg
 figlink: /pmc/articles/PMC149053/figure/fig7/
@@ -43,13 +50,6 @@ keywords: .na.character
 automl_pathway: 0.7293876
 figid_alias: PMC5374431__F1a
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Bos taurus
-- Homo sapiens
-- Mus musculus
-- Drosophila melanogaster
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC5374431__F1a
 ndex: 301aa15d-df2f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,57 +77,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Vamp4
-  - Pacs1
-  - Sec63
-  - Gga1
-  - Paf1
-  - Ctr9
-  - Csnk2b
-  - Rnf7
-  - Rtf1
-  - Maz
-  - Pten
-  - Supt16h
-  - Ssrp1
-  - Leo1
-  - Apoe
-  - Eif3f
-  - Nfkbia
-  - Ptpn1
-  - Fos
-  - Jun
-  - Ubc
-  - Srf
-  - Apex1
-  - Csnk2a1
-  - Top2a
-  - Snca
-  - Mageb16
-  - Gap43
-  - Ctnnb1
-  - Xrcc1
-  - Dvl1
-  - Tp53
-  - Rela
-  - Myc
-  - Dvl3
-  - Calm1
-  - Chd3
-  - Hdac1
-  - Hsp90aa1
-  - Dvl2
-  - Hdac3
-  - Hdac2
-  - Sirt1
-  - Pml
-  - Pafah1b1
-  - Spib
-  - Sap18
-  - Sin3a
-  - Ubtf
-  - Suds3
-  - Nolc1
   - VAMP4
   - PACS1
   - SEC63
@@ -180,6 +129,66 @@ schema-jsonld:
   - UBTF
   - SUDS3
   - NOLC1
+  - Vamp4
+  - Pacs1
+  - Sec63
+  - Gga1
+  - Paf1
+  - Ctr9
+  - Csnk2b
+  - Rnf7
+  - Rtf1
+  - Maz
+  - Pten
+  - Supt16h
+  - Ssrp1
+  - Leo1
+  - Apoe
+  - Eif3f
+  - Nfkbia
+  - Ptpn1
+  - Fos
+  - Jun
+  - Ubc
+  - Srf
+  - Apex1
+  - Csnk2a1
+  - Top2a
+  - Snca
+  - Mageb16
+  - Gap43
+  - Ctnnb1
+  - Xrcc1
+  - Dvl1
+  - Tp53
+  - Rela
+  - Myc
+  - Dvl3
+  - Calm1
+  - Chd3
+  - Hdac1
+  - Hsp90aa1
+  - Dvl2
+  - Hdac3
+  - Hdac2
+  - Sirt1
+  - Pml
+  - Pafah1b1
+  - Spib
+  - Sap18
+  - Sin3a
+  - Ubtf
+  - Suds3
+  - Nolc1
+  - Pex2
+  - Supt16
+  - Uba52
+  - Ubb
+  - Rps27a
+  - Trp53
+  - Nol3
+  - Hdac1-ps
+  - Fxyd1
   - PEX2
   - CDC73
   - SKIC8
@@ -191,15 +200,6 @@ schema-jsonld:
   - RPS27A
   - CSNK2A2
   - DVL1P1
-  - Pex2
-  - Supt16
-  - Uba52
-  - Ubb
-  - Rps27a
-  - Trp53
-  - Nol3
-  - Hdac1-ps
-  - Fxyd1
   - atms
   - maz
   - Ssrp
@@ -221,6 +221,62 @@ schema-jsonld:
   - HDAC6
   - Bin1
   - Sin3A
-  - ATG16
+  - sec63.L
+  - gga1.S
+  - paf1.L
+  - pex2.L
+  - ctr9.S
+  - csnk2b.S
+  - rnf7.L
+  - rtf1.L
+  - maz.S
+  - supt16h.S
+  - ssrp1.S
+  - leo1.S
+  - apoe.L
+  - apoe.S
+  - eif3f.S
+  - nfkbia.L
+  - ptpn1.L
+  - fos.S
+  - jun.S
+  - jun.L
+  - ubc.L
+  - srf.L
+  - apex1.L
+  - csnk2a1.S
+  - top2a.L
+  - snca.L
+  - gap43.L
+  - gap43.S
+  - ctnnb1.S
+  - ctnnb1.L
+  - xrcc1.L
+  - rcc1.L
+  - rcc1.S
+  - dvl1.L
+  - dvl1.S
+  - tp53.L
+  - rel.L
+  - rela.L
+  - myc.S
+  - myc.L
+  - calm2.S
+  - calm2.L
+  - calm1.S
+  - hdac1.S
+  - dvl2.L
+  - hdac3.S
+  - hdac2.S
+  - sirt1.L
+  - pafah1b1.L
+  - spib.L
+  - spib.S
+  - sap18.S
+  - sin3a.S
+  - ubtf.S
+  - ubtf.L
+  - suds3.S
+  - nolc1.L
   - Cancer
 ---

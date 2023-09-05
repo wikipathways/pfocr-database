@@ -3,6 +3,8 @@ figid: PMC4066644__cshperspectmed-SKN-013581_F2
 figtitle: Model of tumor heterogeneity
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4066644
 filename: cshperspectmed-SKN-013581_F2.jpg
 figlink: /pmc/articles/PMC4066644/figure/A013581F2/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.7778205
 figid_alias: PMC4066644__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4066644__F2
 ndex: ''
 seo: CreativeWork
@@ -43,8 +43,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - SHH
   - PTCH1
   - SMO
   - SMOX
-  - SHH
 ---

@@ -3,10 +3,12 @@ figid: PMC7877911__elife-61818-fig1-figsupp1
 figtitle: Rescue of an ilvA auxotrophic mutant by SAMases ()
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7877911
 filename: elife-61818-fig1-figsupp1.jpg
 figlink: pmc/articles/PMC7877911/figure/fig1s1/
-number: SF1_1
+number: F1
 caption: Expression of enzymes in the methionine synthesis pathway is repressed by
   MetJ in complex with S-adenosyl methionine (SAM). SAM degradation leads to increased
   expression of the enzymes in the metJ regulon. At high expression level, the promiscuous
@@ -22,11 +24,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8915471
-figid_alias: PMC7877911__SF1_1
-figtype: Supplemental figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-redirect_from: /figures/PMC7877911__SF1_1
+figid_alias: PMC7877911__F1
+figtype: Figure
+redirect_from: /figures/PMC7877911__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

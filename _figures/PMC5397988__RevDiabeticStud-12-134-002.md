@@ -4,6 +4,10 @@ figtitle: Targeting Mitochondria and Reactive Oxygen Species-Driven Pathogenesis
   Diabetic Nephropathy
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC5397988
 filename: RevDiabeticStud-12-134-002.jpg
 figlink: /pmc/articles/PMC5397988/figure/F2/
@@ -34,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9696872
 figid_alias: PMC5397988__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5397988__F2
 ndex: 8e2a3eea-dec8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -81,10 +83,36 @@ schema-jsonld:
   - ATP8A2
   - AIFM1
   - BID
-  - BAX
   - BAK1
+  - BAX
   - BCL2
   - FAS
   - FASN
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - ATPsynbeta
+  - Atpalpha
+  - AIF
+  - Decay
+  - Dronc
+  - Fs(3)Bak
+  - Debcl
+  - Fas2
+  - FASN1
+  - Fas3
+  - fand
+  - tei
+  - rg
+  - FASN2
+  - FASN3
+  - faslg
+  - casp8
+  - aifm1
+  - bida
+  - baxa
+  - chmp2a
+  - fas
   - MPTP
 ---

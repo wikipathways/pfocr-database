@@ -4,6 +4,9 @@ figtitle: Interleukin 6 (IL-6) receptor-mediated signaling pathway and an IL-6 i
   the humanized anti-IL-6 receptor antibody tocilizumab
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6071487
 filename: cshperspect-CYT-028456_F2.jpg
 figlink: pmc/articles/PMC6071487/figure/A028456F2/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.7791287
 figid_alias: PMC6071487__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6071487__F2
 ndex: ''
 seo: CreativeWork

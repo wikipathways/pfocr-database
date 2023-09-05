@@ -3,6 +3,8 @@ figid: PMC4979452__cddiscovery201650-f8
 figtitle: Cytoskeleton remodeling and axonal transport
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f8.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig8/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.8838834
 figid_alias: PMC4979452__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F8
 ndex: 8c542a0f-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -87,6 +87,8 @@ schema-jsonld:
   - NTN1
   - NTN3
   - NTN4
+  - APOE
+  - AOPEP
   - ROBO1
   - ROBO2
   - ROBO3

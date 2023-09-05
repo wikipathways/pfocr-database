@@ -30,10 +30,13 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Tinca tinca
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
 pmcid: PMC7761594
 filename: biomolecules-10-01627-sch004.jpg
 figlink: pmc/articles/PMC7761594/figure/biomolecules-10-01627-sch004/
-number: S4
+number: SF4
 caption: Multistep synthesis pathway leading to the formation of wyosine (imG) and
   methylwyosine (mimG) via 3-methylguanosine intermediate.
 papertitle: Biochemical Pathways Leading to the Formation of Wyosine Derivatives in
@@ -46,12 +49,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8932605
-figid_alias: PMC7761594__S4
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-- Mus musculus
-redirect_from: /figures/PMC7761594__S4
+figid_alias: PMC7761594__SF4
+figtype: Supplemental figure
+redirect_from: /figures/PMC7761594__SF4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

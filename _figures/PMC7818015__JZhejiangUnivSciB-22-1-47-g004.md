@@ -3,6 +3,9 @@ figid: PMC7818015__JZhejiangUnivSciB-22-1-47-g004
 figtitle: 'DNA alkylation lesion repair: outcomes and implications in cancer chemotherapy'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7818015
 filename: JZhejiangUnivSciB-22-1-47-g004.jpg
 figlink: pmc/articles/PMC7818015/figure/JZhejiangUnivSciB-22-1-47-f004/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8908663
 figid_alias: PMC7818015__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC7818015__F4
 ndex: ''
 seo: CreativeWork

@@ -10,6 +10,9 @@ organisms:
 - Homo sapiens
 - Gallus gallus
 - Human papillomavirus type 16
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4558889
 filename: cgm-suppl.1-2015-017f2.jpg
 figlink: /pmc/articles/PMC4558889/figure/f2-cgm-suppl.1-2015-017/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9584398
 figid_alias: PMC4558889__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4558889__F2
 ndex: ''
 seo: CreativeWork
@@ -58,6 +59,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ODC1
+  - SLC25A21
+  - SAT1
+  - SMO
+  - SMOX
+  - PIN1
+  - dc
+  - smo
+  - sm
+  - dod
   - N-acetylspermidine
   - N-acetylspermine
   - APAO

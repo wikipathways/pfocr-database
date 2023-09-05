@@ -90,6 +90,26 @@ organisms:
 - NA
 - NA
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Pteropus alecto
+- Sus scrofa
+- Myotis davidii
+- Fukomys damarensis
+- Octodon degus
+- Canis lupus familiaris
+- Loxodonta africana
+- Orcinus orca
+- Pteropus vampyrus
+- Panthera tigris
+- Felis catus
+- Monodon monoceros
+- Heterocephalus glaber
+- Oryctolagus cuniculus
+- Danio rerio
+- Ochotona curzoniae
+- Drosophila melanogaster
 pmcid: PMC8676434
 filename: physrev.00002.2021_f004.jpg
 figlink: /pmc/articles/PMC8676434/figure/F0004/
@@ -122,25 +142,6 @@ keywords: apoptosis | cell death | infection | necroptosis | pyroptosis
 automl_pathway: 0.9674076
 figid_alias: PMC8676434__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Pteropus alecto
-- Sus scrofa
-- Myotis davidii
-- Fukomys damarensis
-- Octodon degus
-- Canis lupus familiaris
-- Loxodonta africana
-- Orcinus orca
-- Pteropus vampyrus
-- Panthera tigris
-- Felis catus
-- Monodon monoceros
-- Heterocephalus glaber
-- Oryctolagus cuniculus
-- Ochotona curzoniae
-- Danio rerio
 redirect_from: /figures/PMC8676434__F4
 ndex: ''
 seo: CreativeWork
@@ -207,4 +208,12 @@ schema-jsonld:
   - tradd
   - tmub2
   - nedd8
+  - disco
+  - Debcl
+  - Fs(3)Bak
+  - Cyt-c-d
+  - Cyt-c-p
+  - Decay
+  - rn
+  - CG11700
 ---

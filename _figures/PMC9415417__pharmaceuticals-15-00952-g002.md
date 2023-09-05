@@ -8,6 +8,12 @@ organisms:
 - Homo sapiens
 - Bos taurus
 - Nymphalis io
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Bos taurus
+- Drosophila melanogaster
 pmcid: PMC9415417
 filename: pharmaceuticals-15-00952-g002.jpg
 figlink: /pmc/articles/PMC9415417/figure/pharmaceuticals-15-00952-f002/
@@ -36,11 +42,6 @@ keywords: calcimimetics | calcium-sensing receptors | CKD–MBD | fibroblast gro
 automl_pathway: 0.9361337
 figid_alias: PMC9415417__F2
 figtype: Figure
-organisms_ner:
-- Bos taurus
-- Mus musculus
-- Rattus norvegicus
-- Homo sapiens
 redirect_from: /figures/PMC9415417__F2
 ndex: ''
 seo: CreativeWork
@@ -66,14 +67,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CASR
-  - WNT10B
-  - AD
-  - BAX
-  - AKT1
-  - CREB1
-  - MTOR
-  - NFATC1
   - Tnfsf11
   - Calm1
   - Tmem50a
@@ -81,7 +74,6 @@ schema-jsonld:
   - Casr
   - Tnfrsf11a
   - Wnt10b
-  - Ad
   - Bax
   - Nkx3-1
   - It
@@ -91,16 +83,15 @@ schema-jsonld:
   - Mtor
   - Nfatc1
   - Casp3
-  - Calm2
-  - Wnt2
-  - Prkaa2
   - TNFSF11
   - CALM1
   - CALM2
   - CALM3
   - KRIT1
   - CAMKMT
+  - CASR
   - TNFRSF11A
+  - WNT10B
   - WNT1
   - WNT2
   - WNT2B
@@ -119,6 +110,8 @@ schema-jsonld:
   - WNT16
   - WNT5A
   - WNT5B
+  - BAX
+  - AKT1
   - AKT2
   - AKT3
   - PRKAA1
@@ -128,6 +121,7 @@ schema-jsonld:
   - PRKAG1
   - PRKAG2
   - PRKAG3
+  - CREB1
   - CREB3
   - CREB5
   - CREB3L1
@@ -137,4 +131,26 @@ schema-jsonld:
   - CREM
   - ATF1
   - ATF2
+  - MTOR
+  - NFATC1
+  - Calm2
+  - Wnt2
+  - Prkaa2
+  - ca
+  - Cam
+  - CaMKII
+  - Wnt5
+  - Wnt4
+  - wg
+  - GluProRS
+  - I-t
+  - Akt
+  - SNF4Agamma
+  - AMPKalpha
+  - CrebB
+  - CrebA
+  - Dronc
+  - Tor
+  - Decay
+  - pi
 ---

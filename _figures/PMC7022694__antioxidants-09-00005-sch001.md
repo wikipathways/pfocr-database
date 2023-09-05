@@ -5,10 +5,12 @@ organisms:
 - Homo sapiens
 - Rattus norvegicus
 - Thymus vulgaris
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7022694
 filename: antioxidants-09-00005-sch001.jpg
 figlink: pmc/articles/PMC7022694/figure/antioxidants-09-00005-sch001/
-number: S1
+number: SF1
 caption: Synthesis pathway for functionalized nanoparticles 1A and 1B.
 papertitle: Antioxidant Activity of Metal Nanoparticles Coated with Tocopherol-Like
   Residues—The Importance of Studies in Homo- and Heterogeneous Systems.
@@ -20,11 +22,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7296444
-figid_alias: PMC7022694__S1
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC7022694__S1
+figid_alias: PMC7022694__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC7022694__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -38,6 +38,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - op
+  - Sh
+  - hob
+  - sqh
+  - zip
+  - Au
+  - rt
   - Trolox
   - DMSO
   - DMAP

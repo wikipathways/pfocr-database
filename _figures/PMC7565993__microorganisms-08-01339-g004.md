@@ -6,6 +6,8 @@ organisms:
 - Agrobacterium tumefaciens
 - Agrobacterium tumefaciens 5A
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7565993
 filename: microorganisms-08-01339-g004.jpg
 figlink: pmc/articles/PMC7565993/figure/microorganisms-08-01339-f004/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9140442
 figid_alias: PMC7565993__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7565993__F4
 ndex: ''
 seo: CreativeWork
@@ -61,6 +61,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - vs
+  - as
+  - x2
+  - Pep
+  - bgcn
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - x10
+  - Mrgn1
+  - CycE
+  - cyc
+  - x1
   - As
   - Maltotriose
   - Maltotetraose

@@ -4,6 +4,9 @@ figtitle: Changes in cell cycle regulation in response to MG132 (A), methylmercu
   (MeHg, B), and cadmium (Cd, C) in MEF cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2840217
 filename: toxscikfq003f07_3c.jpg
 figlink: /pmc/articles/PMC2840217/figure/fig7/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.896679
 figid_alias: PMC2840217__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2840217__F7
 ndex: 7d8f3c28-deb4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -141,8 +141,8 @@ schema-jsonld:
   - AKR1C4
   - GZMB
   - POLR3K
-  - CD2
   - IL15RA
+  - CD2
   - TPM2
   - IGHD4-11
   - ZBP1

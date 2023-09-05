@@ -5,6 +5,11 @@ figtitle: The phenylpropanoid pathway for the biosynthesis of anthocyanin and th
 organisms:
 - Arabidopsis thaliana
 - Zea mays
+organisms_ner:
+- Arabidopsis thaliana
+- Zea mays
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2504352
 filename: jexbotern148f01_lw.jpg
 figlink: /pmc/articles/PMC2504352/figure/fig1/
@@ -31,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8744633
 figid_alias: PMC2504352__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2504352__F1
 ndex: ''
 seo: CreativeWork
@@ -65,6 +68,39 @@ schema-jsonld:
   - F3H
   - DFR
   - LDOX
+  - LOC542166
+  - LOC542463
+  - LOC542663
+  - LOC542712
+  - A1
+  - pal
+  - Pal2
+  - lace
+  - Coa
+  - Cpr
+  - Chi
+  - chic
+  - cad
+  - .na.character
+  - Drep4
+  - Ca-alpha1D
+  - shg
+  - comt
+  - fs(1)h
+  - Lgr1
+  - ppk
+  - vvl
+  - PAM
+  - LRIT1
+  - SHCBP1
+  - LYST
+  - CAD
+  - DFFB
+  - ACOD1
+  - COMT
+  - BRD2
+  - CGA
+  - FSHB
   - Leucocyanidin
   - Dihydroquercetin
   - Naringenin

@@ -4,6 +4,8 @@ figtitle: Sho1 glycolysis-mediated signaling through glycolysis and Ras1-cAMP in
   formation
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC7343979
 filename: mSphere.00366-20-f0007.jpg
 figlink: pmc/articles/PMC7343979/figure/fig7/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9278393
 figid_alias: PMC7343979__F7
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC7343979__F7
 ndex: ''
 seo: CreativeWork

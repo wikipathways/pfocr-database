@@ -4,6 +4,8 @@ figtitle: Model depicting stress-induced mutagenesis leading to the emergence of
   prototrophic suppressor mutants
 organisms:
 - Escherichia coli
+organisms_ner:
+- NA
 pmcid: PMC7996224
 filename: microorganisms-09-00472-g007.jpg
 figlink: pmc/articles/PMC7996224/figure/microorganisms-09-00472-f007/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9587052
 figid_alias: PMC7996224__F7
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7996224__F7
 ndex: ''
 seo: CreativeWork

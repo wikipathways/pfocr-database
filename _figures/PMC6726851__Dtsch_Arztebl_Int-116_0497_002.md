@@ -4,6 +4,8 @@ figtitle: Inhibition of the MAPK(RAS-RAF-MEK-ERK) signaling pathway by BRAF inhi
   and MEK inhibitorsMAPK, mitogen-activated protein kinase; RTK, receptor-tyrosine-kinase
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6726851
 filename: Dtsch_Arztebl_Int-116_0497_002.jpg
 figlink: /pmc/articles/PMC6726851/figure/F2/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8612274
 figid_alias: PMC6726851__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6726851__F2
 ndex: ''
 seo: CreativeWork
@@ -38,6 +38,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Tie
+  - Ras85D
+  - InR
+  - ras
+  - Ras64B
+  - Erk7
+  - rl
+  - Dsor1
+  - Mtk
   - Vemurafenib
   - Dabrafenib
   - Encorafenib

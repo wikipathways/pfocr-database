@@ -3,6 +3,10 @@ figid: PMC8654299__sciadv.abl3594-f1
 figtitle: CoQ biosynthetic pathway of plant and the coexpression network
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC8654299
 filename: sciadv.abl3594-f1.jpg
 figlink: /pmc/articles/PMC8654299/figure/F1/
@@ -31,9 +35,6 @@ keywords: ''
 automl_pathway: 0.8736036
 figid_alias: PMC8654299__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8654299__F1
 ndex: ''
 seo: CreativeWork
@@ -84,10 +85,13 @@ schema-jsonld:
   - COQ5
   - COQ2
   - COQ4
+  - COQ1
+  - COQ10
+  - COQ8
+  - COQ9
   - PDSS1
   - PPOX
   - IPP
   - MSX2
   - COQ8A
-  - COQ9
 ---

@@ -3,6 +3,9 @@ figid: PMC9495982__bioengineering-09-00439-g002
 figtitle: 'Extracellular Vesicles in Sickle Cell Disease: A Promising Tool'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9495982
 filename: bioengineering-09-00439-g002.jpg
 figlink: /pmc/articles/PMC9495982/figure/bioengineering-09-00439-f002/
@@ -28,8 +31,6 @@ keywords: sickle cell disease | SCD | extracellular vesicles | EVs | micropartic
 automl_pathway: 0.9252666
 figid_alias: PMC9495982__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9495982__F2
 ndex: ''
 seo: CreativeWork
@@ -59,12 +60,12 @@ schema-jsonld:
   - anon-XII
   - ix
   - ps
-  - COX7AL
-  - COX7A
   - ple
   - Eig71Ee
   - l(2)46Da
   - anon-48Ae
+  - COX7AL
+  - COX7A
   - La
   - CkIIbeta
   - Andorra
@@ -74,4 +75,40 @@ schema-jsonld:
   - Nos
   - nos
   - Cam
+  - BTK
+  - FGA
+  - FGB
+  - FGG
+  - PSG1
+  - PSG2
+  - PSG7
+  - PSG8
+  - EDN1
+  - RN7SL263P
+  - CXCL10
+  - CXCL11
+  - CXCL12
+  - CXCL13
+  - CXCL14
+  - CXCL9
+  - PF4
+  - CXCL1
+  - CXCL2
+  - CXCL3
+  - CXCL5
+  - CXCL6
+  - CXCL8
+  - PPBP
+  - NOS1
+  - NOS2
+  - NOS3
+  - ITGAM
+  - ITGB2
+  - ICAM1
+  - ICAM2
+  - ICAM3
+  - ICAM4
+  - ICAM5
+  - CALM2
+  - CALM3
 ---

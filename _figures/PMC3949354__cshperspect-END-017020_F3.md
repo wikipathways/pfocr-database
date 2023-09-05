@@ -3,6 +3,9 @@ figid: PMC3949354__cshperspect-END-017020_F3
 figtitle: Endocytosis and activation of the Notch (N) pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3949354
 filename: cshperspect-END-017020_F3.jpg
 figlink: /pmc/articles/PMC3949354/figure/A017020F3/
@@ -32,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9315326
 figid_alias: PMC3949354__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3949354__F3
 ndex: ''
 seo: CreativeWork
@@ -66,12 +67,20 @@ schema-jsonld:
   - Tom
   - alphaTub67C
   - Brd
-  - Nrt
-  - neur
   - mib
   - Myo61F
   - mib1
+  - Nrt
+  - neur
   - kuz
   - Kul
   - Psn
+  - PRPF6
+  - MKI67
+  - PIEZO1
+  - MIB1
+  - ERBB2
+  - NEU1
+  - NEURL1
+  - ADAM10
 ---

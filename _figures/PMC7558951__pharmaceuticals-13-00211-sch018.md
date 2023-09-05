@@ -3,10 +3,12 @@ figid: PMC7558951__pharmaceuticals-13-00211-sch018
 figtitle: Oxidative pathway to obtain the phosphoroselenoates
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7558951
 filename: pharmaceuticals-13-00211-sch018.jpg
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch018/
-number: S18
+number: SF18
 caption: Oxidative pathway to obtain the phosphoroselenoates.
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
   and Derivatives.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9177538
-figid_alias: PMC7558951__S18
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC7558951__S18
+figid_alias: PMC7558951__SF18
+figtype: Supplemental figure
+redirect_from: /figures/PMC7558951__SF18
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

@@ -5,10 +5,14 @@ figtitle: Tgfbr2 cKO CD34+ SCC cells upregulate genes implicated in invasive hum
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC5319840
 filename: elife-22914-fig3-figsupp2.jpg
 figlink: /pmc/articles/PMC5319840/figure/fig3s2/
-number: SF3_2
+number: F3
 caption: 'Using ToppCluster, the genes upregulated in CD34+ SCC cells were compared
   to previously published datasets and a network of genes shared between Tgfbr2 deficient
   transitional epithelial CD34+ SCC cells and aggressive human cancers was generated.
@@ -24,12 +28,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7844144
-figid_alias: PMC5319840__SF3_2
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-redirect_from: /figures/PMC5319840__SF3_2
+figid_alias: PMC5319840__F3
+figtype: Figure
+redirect_from: /figures/PMC5319840__F3
 ndex: 965287d5-deb1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -52,8 +53,8 @@ schema-jsonld:
   - RECK
   - ADAM10
   - FRK
-  - C6
   - VIM
+  - C6
   - HMOX1
   - HMOX2
   - RASSF2
@@ -127,9 +128,9 @@ schema-jsonld:
   - NCF4
   - CFD
   - PIKFYVE
-  - CFB
   - CD4
   - C4B
+  - CFB
   - Col14a1
   - Lrrc7
   - Reck
@@ -197,8 +198,55 @@ schema-jsonld:
   - Sepsecs
   - Tgfb2
   - Cfd
-  - Cfb
   - Cd4
   - C4b
   - C4a
+  - Cfb
+  - col14a1a
+  - lrrc7
+  - reck
+  - vim
+  - c6
+  - rassf2a
+  - aplnra
+  - wasb
+  - fth1a
+  - sst7
+  - mmp9
+  - fgl2a
+  - fhl1b
+  - fhl1a
+  - c3ar1
+  - spp1
+  - heg1
+  - thraa
+  - sfrp2
+  - nid2a
+  - nes
+  - bgna
+  - bgnb
+  - gsna
+  - scinla
+  - tns1b
+  - dcn
+  - ighm
+  - adoa
+  - epb41b
+  - srgn
+  - apoba
+  - ighv1-1
+  - tprb
+  - ccl38a.5
+  - lcp2b
+  - ogfr
+  - ogfr2
+  - cish
+  - cp
+  - gal
+  - smtla
+  - tgfb2
+  - cfd
+  - cd4-1
+  - c4b
+  - cfb
 ---

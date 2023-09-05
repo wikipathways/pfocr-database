@@ -3,6 +3,8 @@ figid: PMC4292165__cshperspect-III-016246_F3
 figtitle: RLR Signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4292165
 filename: cshperspect-III-016246_F3.jpg
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F3/
@@ -31,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9550179
 figid_alias: PMC4292165__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC4292165__F3
 ndex: c3766ae1-deeb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -75,14 +74,4 @@ schema-jsonld:
   - IKBKE
   - IKBKB
   - NFKB1
-  - sev
-  - da
-  - nAChRalpha2
-  - Traf-like
-  - nmo
-  - IKKbeta
-  - Dif
-  - dl
-  - Rel
-  - Va
 ---

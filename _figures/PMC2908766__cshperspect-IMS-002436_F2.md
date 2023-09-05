@@ -3,6 +3,8 @@ figid: PMC2908766__cshperspect-IMS-002436_F2
 figtitle: PI3K dependent signal pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2908766
 filename: cshperspect-IMS-002436_F2.jpg
 figlink: /pmc/articles/PMC2908766/figure/A002436F2/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9343592
 figid_alias: PMC2908766__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2908766__F2
 ndex: 86d33ca4-dec7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -64,10 +64,10 @@ schema-jsonld:
   - CUX1
   - SART3
   - AKT1
-  - AKT2
-  - AKT3
   - PTK2B
   - BAD
+  - AKT2
+  - AKT3
   - PDK1
   - PDPK1
   - MTOR

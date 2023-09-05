@@ -3,6 +3,8 @@ figid: PMC6921081__microorganisms-07-00560-g005
 figtitle: Proposed pathway for epoxy-janthitrem I–IV biosynthesis
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6921081
 filename: microorganisms-07-00560-g005.jpg
 figlink: /pmc/articles/PMC6921081/figure/microorganisms-07-00560-f005/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.7244377
 figid_alias: PMC6921081__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6921081__F5
 ndex: ''
 seo: CreativeWork

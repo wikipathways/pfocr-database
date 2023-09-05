@@ -4,6 +4,9 @@ figtitle: The positive arm of the circadian clock regulates xenobiotic-metaboliz
   genes and the response of flies to a toxic exposure
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2871760
 filename: toxscikfq083f05_3c.jpg
 figlink: /pmc/articles/PMC2871760/figure/fig5/
@@ -22,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9411164
 figid_alias: PMC2871760__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2871760__F5
 ndex: ''
 seo: CreativeWork
@@ -43,13 +44,25 @@ schema-jsonld:
   - timeout
   - per
   - Pdp1
+  - Clk
   - cyc
   - CycE
   - Cyt-c-d
   - Cyt-c-p
   - cype
-  - Clk
-  - Cyp6a2
   - Cyp6g1
+  - Cyp6a2
   - Hr96
+  - TPI1
+  - ARHGEF5
+  - TIMELESS
+  - HAVCR1
+  - PER1
+  - PDP1
+  - PLPP6
+  - CLK1
+  - CLK2
+  - CLK3
+  - CLK4
+  - CYCS
 ---

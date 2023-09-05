@@ -4,6 +4,8 @@ figtitle: A biochemical pathway of secreted proteins that regulate D-V patternin
   in Xenopus
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2742089
 filename: cshperspect-GRA-a001701fig3.jpg
 figlink: /pmc/articles/PMC2742089/figure/A001701F3/
@@ -37,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.8301924
 figid_alias: PMC2742089__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2742089__F3
 ndex: ''
 seo: CreativeWork

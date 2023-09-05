@@ -3,6 +3,9 @@ figid: PMC9379647__Beilstein_J_Org_Chem-18-1009-g004
 figtitle: Isolation and biosynthesis of daturamycins from Streptomyces sp. KIB-H1544
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9379647
 filename: Beilstein_J_Org_Chem-18-1009-g004.jpg
 figlink: /pmc/articles/PMC9379647/figure/F3/
@@ -21,8 +24,6 @@ keywords: biosynthesis | diarylcyclopentenone | polyporic acid synthetase | p-te
 automl_pathway: 0.5802786
 figid_alias: PMC9379647__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9379647__F3
 ndex: ''
 seo: CreativeWork
@@ -38,15 +39,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CG6712
   - CG10561
-  - Mettl4
-  - lmgB
-  - Sxl
-  - stnB
-  - tal-2A
-  - CG43210
-  - tal-AA
+  - tal-3A
   - Tab2
   - CG14965
   - Hsp83
@@ -54,9 +48,26 @@ schema-jsonld:
   - stnA
   - lmgA
   - tal-1A
-  - tal-3A
+  - tal-AA
+  - CG6712
+  - Mettl4
+  - lmgB
+  - Sxl
+  - stnB
+  - tal-2A
+  - CG43210
   - te
   - Sh
   - Sce
   - oo
+  - EHHADH
+  - CWC15
+  - ASZ1
+  - NCKIPSD
+  - AHI1
+  - CTTNBP2
+  - DECR1
+  - HADHA
+  - HADHB
+  - FAM3B
 ---

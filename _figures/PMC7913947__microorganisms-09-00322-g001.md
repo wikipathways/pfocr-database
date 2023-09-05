@@ -8,6 +8,9 @@ organisms:
 - Mycobacterium tuberculosis variant bovis BCG str. Sweden
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
 pmcid: PMC7913947
 filename: microorganisms-09-00322-g001.jpg
 figlink: pmc/articles/PMC7913947/figure/microorganisms-09-00322-f001/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.5467461
 figid_alias: PMC7913947__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC7913947__F1
 ndex: ''
 seo: CreativeWork
@@ -56,23 +56,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TrnA
-  - Ido1
-  - Tdo2
-  - Nek1
-  - Katnb1
-  - Tstd1
-  - Kmo
-  - Qprt
   - TRNA
-  - IDO1
   - DLX3
   - TDO2
+  - IDO1
   - KATNB1
   - F11R
   - TSTD1
   - KMO
   - QPRT
+  - TrnA
+  - Tdo2
+  - Ido1
+  - Nek1
+  - Katnb1
+  - Tstd1
+  - Kmo
+  - Qprt
   - Serotonin
   - L-Tryptophan
   - tryptophanyl

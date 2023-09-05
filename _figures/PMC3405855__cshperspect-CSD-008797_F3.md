@@ -11,6 +11,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - unidentified
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Xenopus laevis
+- Mus musculus
 pmcid: PMC3405855
 filename: cshperspect-CSD-008797_F3.jpg
 figlink: /pmc/articles/PMC3405855/figure/A008797F3/
@@ -43,9 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9454306
 figid_alias: PMC3405855__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3405855__F3
 ndex: 2f9ed363-de96-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -88,10 +90,10 @@ schema-jsonld:
   - Cdk5alpha
   - RpLP0
   - MED6
+  - Drice
   - Dcp-1
   - Cp1
   - DCP1
-  - Drice
   - Decay
   - hh
   - WG
@@ -119,4 +121,30 @@ schema-jsonld:
   - UPK3B
   - ACE
   - DCP1B
+  - dspp.S
+  - dspp.L
+  - diaph1.L
+  - diaph1.S
+  - mapk8.L
+  - mapk8.S
+  - gchfr.L
+  - cdca5.L
+  - cdca5.S
+  - gchfr.S
+  - dcp1a.S
+  - dcp1b.L
+  - dcp1b.S
+  - casp3.2.L
+  - casp9.S
+  - Dspp
+  - Soat1
+  - Diaph1
+  - Mapk8
+  - Cdk5r1
+  - Il12a
+  - Upk3b
+  - Gchfr
+  - Dxcp1
+  - Casp3
+  - Casp9
 ---

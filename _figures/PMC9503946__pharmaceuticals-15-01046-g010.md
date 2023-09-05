@@ -4,6 +4,8 @@ figtitle: Coronaviral Inhibitors of the Nucleocapsid Protein Identified In Silic
   and In Vitro from a Large Natural Product Library
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9503946
 filename: pharmaceuticals-15-01046-g010.jpg
 figlink: /pmc/articles/PMC9503946/figure/pharmaceuticals-15-01046-f010/
@@ -24,8 +26,6 @@ keywords: COVID-19 | drug discovery | microscale thermophoresis | natural produc
 automl_pathway: 0.8816765
 figid_alias: PMC9503946__F10
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9503946__F10
 ndex: ''
 seo: CreativeWork

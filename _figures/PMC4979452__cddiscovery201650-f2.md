@@ -3,6 +3,8 @@ figid: PMC4979452__cddiscovery201650-f2
 figtitle: Mitogen-activated protein kinase (MAPK) signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f2.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig2/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8451424
 figid_alias: PMC4979452__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F2
 ndex: 425a4ba0-df21-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -81,19 +81,19 @@ schema-jsonld:
   - RASA3
   - RASA2
   - PTPN11
-  - NCK2
-  - GRB7
-  - GRB2
   - GRB14
+  - GRB2
+  - GRB7
   - GRB10
+  - NCK2
   - GAB1
   - PIGU
   - RASAL2
   - RAP1A
   - RAPGEF1
-  - XYLT2
   - SOS1
   - SOS2
+  - XYLT2
   - KRAS
   - HRAS
   - NRAS
@@ -110,8 +110,8 @@ schema-jsonld:
   - MAP3K14
   - MAP4K4
   - DUSP1
-  - DUSP6
   - DUSP4
+  - DUSP6
   - MAPK3
   - MAP4K1
   - TRAF2

@@ -4,6 +4,10 @@ figtitle: Cytokine signaling through the Jak/Stat pathway in mammary gland devel
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2908768
 filename: cshperspect-MAM-003186_F4.jpg
 figlink: /pmc/articles/PMC2908768/figure/A003186F4/
@@ -28,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9366329
 figid_alias: PMC2908768__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC2908768__F4
 ndex: df2ee95b-df07-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -53,8 +54,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Il13
   - Il4
+  - Il13
   - Prl
   - Cebpb
   - Osm
@@ -73,8 +74,8 @@ schema-jsonld:
   - Socs3
   - Saa1
   - Saa2
-  - IL13
   - IL4
+  - IL13
   - PRL
   - SMG1
   - OSM
@@ -103,4 +104,16 @@ schema-jsonld:
   - SOCS3
   - SAA1
   - SAA2
+  - il4
+  - il13
+  - prl
+  - osm
+  - jak2b
+  - jak1
+  - socs1a
+  - stat1b
+  - stat4
+  - stat3
+  - osmr
+  - socs3a
 ---

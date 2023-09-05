@@ -4,6 +4,10 @@ figtitle: 'Iron in Type 1 Diabetes Etiology: A Systematic Review of New Evidence
   a Long-Standing Mystery'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC6115007
 filename: RevDiabeticStud-14-269-004.jpg
 figlink: /pmc/articles/PMC6115007/figure/F2/
@@ -44,8 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9676365
 figid_alias: PMC6115007__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6115007__F2
 ndex: e9be159e-deca-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -83,6 +85,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Mvl
+  - Cp1
+  - Lcp1
+  - corto
+  - HP1b
+  - HP1D3csd
+  - Su(var)205
+  - HP1e
+  - HP1c
+  - rhi
+  - cno
+  - Rm62
+  - Lip1
+  - Liprin-alpha
+  - tf
+  - fo
+  - Smox
+  - Mad
   - DMRT1
   - SLC11A2
   - CHMP2B
@@ -101,4 +121,8 @@ schema-jsonld:
   - SMAD9
   - SMAD2
   - SMAD3
+  - MET1
+  - CP1
+  - AT4G11310
+  - TIR1
 ---

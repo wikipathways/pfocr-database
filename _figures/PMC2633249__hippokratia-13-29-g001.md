@@ -4,6 +4,8 @@ figtitle: Enzymatic function of multiple origins regulates the progression of co
   cancer and the development of metastases
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2633249
 filename: hippokratia-13-29-g001.jpg
 figlink: /pmc/articles/PMC2633249/figure/F3/
@@ -26,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9455561
 figid_alias: PMC2633249__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC2633249__F3
 ndex: 94b119de-dee6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -61,9 +60,9 @@ schema-jsonld:
   - PIK3R1
   - PIK3R2
   - AKT1
+  - PTK2B
   - AKT2
   - AKT3
-  - PTK2B
   - FLT1
   - IL1RL1
   - RAC1
@@ -81,24 +80,4 @@ schema-jsonld:
   - ACTG2
   - BAD
   - FOXD3
-  - Pi3K21B
-  - Pi3K59F
-  - Pi3K68D
-  - Pi3K92E
-  - Akt
-  - Fit1
-  - Rac1
-  - Rac2
-  - Pvf1
-  - Pvf2
-  - Pvf3
-  - Pvr
-  - Act5C
-  - Act42A
-  - Act57B
-  - Act79B
-  - Act88F
-  - Act87E
-  - cass
-  - Dronc
 ---

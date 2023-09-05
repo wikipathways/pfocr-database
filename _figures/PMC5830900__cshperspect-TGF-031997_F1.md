@@ -3,6 +3,8 @@ figid: PMC5830900__cshperspect-TGF-031997_F1
 figtitle: Role of the TGFB family in mammary gland development and maturation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5830900
 filename: cshperspect-TGF-031997_F1.jpg
 figlink: pmc/articles/PMC5830900/figure/A031997F1/
@@ -43,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.600142
 figid_alias: PMC5830900__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5830900__F1
 ndex: ''
 seo: CreativeWork
@@ -108,6 +108,8 @@ schema-jsonld:
   - GDF7
   - INHBA
   - INHBB
+  - TGFB2
+  - TGFB3
   - SMAD1
   - SMAD4
   - SMAD5
@@ -116,8 +118,6 @@ schema-jsonld:
   - SMAD9
   - SMAD2
   - SMAD3
-  - TGFB2
-  - TGFB3
   - MSX2
   - FOXD3
   - SKIL

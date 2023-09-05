@@ -5,6 +5,8 @@ figtitle: Simplified overview of flavonol and anthocyanin biosynthesis within th
   are not shown in this pathway)
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC2652055
 filename: jexbotern336f01_3c.jpg
 figlink: /pmc/articles/PMC2652055/figure/fig1/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9447977
 figid_alias: PMC2652055__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2652055__F1
 ndex: ''
 seo: CreativeWork

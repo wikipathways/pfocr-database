@@ -3,6 +3,9 @@ figid: PMC9027798__pharmaceuticals-15-00482-g002
 figtitle: Augmenting Azoles with Drug Synergy to Expand the Antifungal Toolbox
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC9027798
 filename: pharmaceuticals-15-00482-g002.jpg
 figlink: /pmc/articles/PMC9027798/figure/pharmaceuticals-15-00482-f002/
@@ -41,8 +44,6 @@ keywords: antifungal | azole | synergy | mycosis | resistance | Candida | dermat
 automl_pathway: 0.962523
 figid_alias: PMC9027798__F2
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC9027798__F2
 ndex: ''
 seo: CreativeWork
@@ -84,4 +85,11 @@ schema-jsonld:
   - HMG1
   - HMG2
   - ERG24
+  - KCNH2
+  - CUZD1
+  - PTPN5
+  - HMGB1
+  - HMGB1P5
+  - HMGB2
+  - POMC
 ---

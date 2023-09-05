@@ -4,6 +4,8 @@ figtitle: Model depicting effects of Wnt-stabilized Beta-catenin through Tcf pro
   in mESCs
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3428775
 filename: cshperspect-WNT-007971_F3.jpg
 figlink: /pmc/articles/PMC3428775/figure/A007971F3/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.811478
 figid_alias: PMC3428775__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3428775__F3
 ndex: ''
 seo: CreativeWork
@@ -80,10 +80,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SOX2
   - POU5F1
   - POU5F1P3
   - POU5F1P4
+  - SOX2
   - TCF3
   - TCF7L1
   - NANOG

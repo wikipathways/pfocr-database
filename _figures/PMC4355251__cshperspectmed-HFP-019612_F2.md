@@ -5,6 +5,10 @@ figtitle: PRR and signaling pathways that lead to differentiation of antifungal 
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4355251
 filename: cshperspectmed-HFP-019612_F2.jpg
 figlink: /pmc/articles/PMC4355251/figure/A019612F2/
@@ -56,9 +60,6 @@ keywords: .na.character
 automl_pathway: 0.8722978
 figid_alias: PMC4355251__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC4355251__F2
 ndex: 0a360f6e-dea0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -113,8 +114,8 @@ schema-jsonld:
   - Btg3
   - Clec4e
   - Tlr4
-  - Tlr2
   - Tlr1
+  - Tlr2
   - Tlr3
   - Tlr9
   - Tlr7
@@ -129,8 +130,8 @@ schema-jsonld:
   - Myd88
   - Bcl10
   - Nlrp3
-  - Spdef
   - Rel
+  - Spdef
   - Irf1
   - Il6
   - Tnf
@@ -149,8 +150,8 @@ schema-jsonld:
   - BTG3
   - CLEC4E
   - TLR4
-  - TLR2
   - TLR1
+  - TLR2
   - CLEC7A
   - CLEC6A
   - CLEC4D
@@ -188,6 +189,28 @@ schema-jsonld:
   - IGKV1-5
   - TH
   - NELFCD
+  - olfcg6
+  - tlr1
+  - tlr2
+  - tlr3
+  - tlr9
+  - tlr7
+  - tirap
+  - malb
+  - rab1ab
+  - syk
+  - myd88
+  - bcl10
+  - nlrp3
+  - rel
+  - irf1a
+  - irf1b
+  - il6
+  - tnfrsfa
+  - tnfb
+  - il10
+  - il16
+  - th
   - Mannose
   - mannose
 ---

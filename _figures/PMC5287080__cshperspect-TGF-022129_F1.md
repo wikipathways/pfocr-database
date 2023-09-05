@@ -4,6 +4,9 @@ figtitle: Transforming growth factor B (TGFB)-induced activation of the extracel
   signal-regulated kinase (Erk) mitogen-activated protein kinase (MAPK) pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5287080
 filename: cshperspect-TGF-022129_F1.jpg
 figlink: /pmc/articles/PMC5287080/figure/A022129F1/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9648319
 figid_alias: PMC5287080__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC5287080__F1
 ndex: c144d709-dec1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,6 +63,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - dpp
+  - gbb
+  - put
+  - mav
+  - pit
+  - ras
+  - Ras64B
+  - Ras85D
+  - Sara
+  - Sos
+  - drk
+  - Smox
+  - Raf
+  - Med
+  - Dsor1
+  - rl
   - TGFB1
   - TGFB2
   - TGFB3
@@ -93,22 +109,6 @@ schema-jsonld:
   - MAPK1
   - ITK
   - SLC22A3
-  - dpp
-  - gbb
-  - put
-  - mav
-  - pit
-  - ras
-  - Ras64B
-  - Ras85D
-  - Sara
-  - Sos
-  - drk
-  - Smox
-  - Raf
-  - Med
-  - Dsor1
-  - rl
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome

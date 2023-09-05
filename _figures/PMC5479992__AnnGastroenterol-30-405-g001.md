@@ -7,6 +7,10 @@ organisms:
 - Helicobacter pylori
 - Citrullus lanatus subsp. vulgaris
 - NA
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Danio rerio
 pmcid: PMC5479992
 filename: AnnGastroenterol-30-405-g001.jpg
 figlink: /pmc/articles/PMC5479992/figure/F1/
@@ -33,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9679326
 figid_alias: PMC5479992__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC5479992__F1
 ndex: 85eec762-deb0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -66,10 +67,8 @@ schema-jsonld:
   - HJV
   - HFE
   - TFR2
-  - APRT
-  - MFAP1
-  - IMMT
   - HAMP
+  - IMMT
   - SMAD1
   - SMAD4
   - SMAD5
@@ -83,6 +82,11 @@ schema-jsonld:
   - Hjv
   - Hfe
   - Tfr2
-  - Tmprss5
   - Hamp
+  - slc11a2
+  - fes
+  - hjv
+  - tfr2
+  - hamp
+  - mpp7a
 ---

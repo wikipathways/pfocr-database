@@ -3,6 +3,9 @@ figid: PMC2639036__carcinbgn250f01_ht
 figtitle: Single-strand break repair pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2639036
 filename: carcinbgn250f01_ht.jpg
 figlink: /pmc/articles/PMC2639036/figure/fig1/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.6707217
 figid_alias: PMC2639036__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2639036__F1
 ndex: c7dad0ee-df2d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,10 +52,10 @@ schema-jsonld:
   keywords:
   - ber
   - mtSSB
-  - as
   - Ogg1
-  - pg
+  - as
   - por
+  - pg
   - drp
   - Drp1
   - Parp

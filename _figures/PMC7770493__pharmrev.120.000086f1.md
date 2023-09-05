@@ -3,6 +3,8 @@ figid: PMC7770493__pharmrev.120.000086f1
 figtitle: Plasma membrane and primary cilium cAMP signalosomes
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7770493
 filename: pharmrev.120.000086f1.jpg
 figlink: pmc/articles/PMC7770493/figure/F1/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9391506
 figid_alias: PMC7770493__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7770493__F1
 ndex: ''
 seo: CreativeWork
@@ -73,6 +73,7 @@ schema-jsonld:
   - RAPGEF4
   - PCM1
   - MBD1
+  - AKAP1
   - NEK10
   - PRRT2
   - PRKCA

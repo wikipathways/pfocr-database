@@ -4,6 +4,9 @@ figtitle: 'Microbiomics in Collusion with the Nervous System in Carcinogenesis: 
   Pathogenesis and Treatment'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8538279
 filename: microorganisms-09-02129-g005.jpg
 figlink: /pmc/articles/PMC8538279/figure/microorganisms-09-02129-f005/
@@ -29,9 +32,6 @@ keywords: microbiota | gut–brain axis | metabolites | neurogenesis | neurotran
 automl_pathway: 0.9751494
 figid_alias: PMC8538279__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC8538279__F5
 ndex: ''
 seo: CreativeWork

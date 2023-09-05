@@ -3,10 +3,13 @@ figid: PMC4733034__elife-10859-fig2-figsupp2
 figtitle: Assay for defining the immunostimulatory potential of different RNAs
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4733034
 filename: elife-10859-fig2-figsupp2.jpg
 figlink: /pmc/articles/PMC4733034/figure/fig2s2/
-number: SF2_2
+number: F2
 caption: '(A) Endogenous RLRs in HEK 293T ISRE-FF/RFP cells (stably express firefly
   luciferase (FF) and RFP under control of an interferon stimulated response element
   (ISRE) promoter) induce a downstream signaling cascade upon binding to transfected
@@ -23,12 +26,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9243724
-figid_alias: PMC4733034__SF2_2
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
-redirect_from: /figures/PMC4733034__SF2_2
+figid_alias: PMC4733034__F2
+figtype: Figure
+redirect_from: /figures/PMC4733034__F2
 ndex: d4f597b1-dea0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:

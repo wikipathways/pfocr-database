@@ -4,6 +4,8 @@ figtitle: Nuclear factor of activated T cell (NFAT)c1-centered osteoclastogenic 
   network
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6314075
 filename: cshperspectmed-BOB-031245_F2.jpg
 figlink: pmc/articles/PMC6314075/figure/PIMBOBA031245F2/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8485814
 figid_alias: PMC6314075__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6314075__F2
 ndex: ''
 seo: CreativeWork
@@ -56,8 +56,8 @@ schema-jsonld:
   - SEMA6D
   - TNFSF11
   - TREM2
-  - SIRPB1
   - OSCAR
+  - SIRPB1
   - NRP1
   - NELL1
   - TNFRSF11A
@@ -67,8 +67,8 @@ schema-jsonld:
   - FCRLB
   - TYROBP
   - SYK
-  - BTK
   - TEC
+  - BTK
   - LCP2
   - PLCG1
   - PLCG2

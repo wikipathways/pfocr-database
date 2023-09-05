@@ -3,6 +3,8 @@ figid: PMC2882123__cshperspect-NFK-000232_F6
 figtitle: Toll pathway in adult Drosophila melanogaster
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2882123
 filename: cshperspect-NFK-000232_F6.jpg
 figlink: /pmc/articles/PMC2882123/figure/A000232F6/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.8879623
 figid_alias: PMC2882123__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2882123__F6
 ndex: ''
 seo: CreativeWork

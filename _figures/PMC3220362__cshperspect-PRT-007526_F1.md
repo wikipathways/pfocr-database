@@ -3,6 +3,9 @@ figid: PMC3220362__cshperspect-PRT-007526_F1
 figtitle: ER quality control system
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3220362
 filename: cshperspect-PRT-007526_F1.jpg
 figlink: /pmc/articles/PMC3220362/figure/A007526F1/
@@ -52,8 +55,6 @@ keywords: .na.character
 automl_pathway: 0.9537184
 figid_alias: PMC3220362__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3220362__F1
 ndex: 7b2a4fe4-deec-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -107,14 +108,70 @@ schema-jsonld:
   - Eig71Ee
   - l(2)46Da
   - anon-48Ae
-  - crt
-  - Calr
   - Cnx14D
   - Cnx99A
+  - crt
+  - Calr
   - era
   - sel
   - sei
   - E3
+  - BAG6
+  - GET3
+  - CANX
+  - CALCR
+  - CALR
+  - SLC6A8
+  - ESR1
+  - ERAL1
+  - COMMD3
+  - PDIA3
+  - EDEM1
+  - LMAN2L
+  - PSMA1
+  - PSMA2
+  - PSMA3
+  - PSMA4
+  - PSMA5
+  - PSMA6
+  - PSMA7
+  - PSMA8
+  - PSMB1
+  - PSMB10
+  - PSMB2
+  - PSMB3
+  - PSMB4
+  - PSMB5
+  - PSMB6
+  - PSMB7
+  - PSMB8
+  - PSMB9
+  - PSMC1
+  - PSMC2
+  - PSMC3
+  - PSMC4
+  - PSMC5
+  - PSMC6
+  - PSMD1
+  - PSMD10
+  - PSMD11
+  - PSMD12
+  - PSMD13
+  - PSMD14
+  - PSMD2
+  - PSMD3
+  - PSMD4
+  - PSMD5
+  - PSMD6
+  - PSMD7
+  - PSMD8
+  - PSMD9
+  - PSME1
+  - PSME2
+  - PSME3
+  - PSMF1
+  - SEM1
+  - USP5
   - disulfide
   - Mannose
 ---

@@ -4,6 +4,9 @@ figtitle: Interaction Networks in Yeast Define and Enumerate the Signaling Steps
   the Vertebrate Aryl Hydrocarbon Receptor
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC368161
 filename: pbio.0020065.g007.jpg
 figlink: /pmc/articles/PMC368161/figure/pbio-0020065-g007/
@@ -35,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.5933792
 figid_alias: PMC368161__F7
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC368161__F7
 ndex: a68a3ed3-de96-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -84,8 +84,8 @@ schema-jsonld:
   - EIF2B5
   - ACOT12
   - FLVCR1
-  - GAN
   - SLC25A6
+  - GAN
   - CLC
   - SUPT3H
   - SPTLC3

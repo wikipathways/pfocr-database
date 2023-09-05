@@ -3,6 +3,9 @@ figid: PMC7045390__mSphere.00913-19-f0006
 figtitle: Correlation analysis of the hypoxic transcriptome and metabolome data
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC7045390
 filename: mSphere.00913-19-f0006.jpg
 figlink: pmc/articles/PMC7045390/figure/fig6/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8626198
 figid_alias: PMC7045390__F6
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC7045390__F6
 ndex: ''
 seo: CreativeWork
@@ -107,28 +107,28 @@ schema-jsonld:
   - PSD1
   - GNA1
   - QRI1
-  - CHS2
   - CHS1
+  - CHS2
   - CHS3
   - LAC1
   - GFA1
   - CYS3
-  - TRP4
-  - TRP5
-  - TRP2
   - TRP3
+  - TRP5
+  - TRP4
+  - TRP2
   - ARO7
-  - LEU1
-  - LEU2
   - LEU4
+  - LEU2
+  - LEU1
   - ERG13
   - ERG10
   - ERG9
-  - ERG24
   - ERG26
-  - ILV5
-  - ILV2
+  - ERG24
   - ILV3
+  - ILV2
+  - ILV5
   - BAT2
   - AAT1
   - ACO1
@@ -142,16 +142,16 @@ schema-jsonld:
   - ARO9
   - ARO8
   - ASN1
-  - MET2
   - MET6
+  - MET2
   - CIT1
-  - THR4
   - THR1
+  - THR4
   - MDH1
   - ILV1
   - CHA1
-  - IDH2
   - IDH1
+  - IDH2
   - HOM2
   - HOM3
   - MET17
@@ -162,18 +162,18 @@ schema-jsonld:
   - DIF1
   - SOR1
   - SDH4
-  - KGD2
   - KGD1
-  - GDH3
+  - KGD2
   - GDH2
+  - GDH3
   - LSC1
   - LSC2
   - GLN1
   - GLT1
   - PYC2
-  - LYS1
   - LYS4
   - LYS21
+  - LYS1
   - LYS9
   - ARG1
   - ARG3
@@ -216,18 +216,18 @@ schema-jsonld:
   - PAEP
   - PREP
   - PTPN22
-  - TRPC4
+  - TRP-TGG3-1
+  - TRPC3
   - TRPC5
+  - TRPC4
   - DCT
   - RANBP2
   - TRP-AGG2-6
-  - TRP-TGG3-1
-  - TRPC3
-  - CD5
-  - DLEU1
   - CD8A
   - CD8B
   - DLEU2
+  - DLEU1
+  - CD5
   - FDFT1
   - PRRC2A
   - GPT
@@ -248,16 +248,14 @@ schema-jsonld:
   - SDHA
   - SDHB
   - SDHD
-  - DLST
   - OGDH
+  - DLST
   - GLUD2
   - GPD2
   - SLC1A2
   - TINAGL1
   - LMNA
   - ZMPSTE24
-  - ABL2
-  - RERE
   - CYS4
   - Histidine
   - Glucose

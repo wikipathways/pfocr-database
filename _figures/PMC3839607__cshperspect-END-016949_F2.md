@@ -3,6 +3,9 @@ figid: PMC3839607__cshperspect-END-016949_F2
 figtitle: Involvement of mutant p53 in lamellipodium dynamics and cell migration
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3839607
 filename: cshperspect-END-016949_F2.jpg
 figlink: /pmc/articles/PMC3839607/figure/A016949F2/
@@ -31,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9043594
 figid_alias: PMC3839607__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3839607__F2
 ndex: 55cbb48d-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -71,4 +72,83 @@ schema-jsonld:
   - betaTub60D
   - hth
   - Egfr
+  - OPN1LW
+  - CRCP
+  - RAB11FIP1
+  - AGFG1
+  - RAB10
+  - RAB11A
+  - RAB11B
+  - RAB12
+  - RAB13
+  - RAB14
+  - RAB15
+  - RAB17
+  - RAB18
+  - RAB19
+  - RAB1A
+  - RAB1B
+  - RAB1C
+  - RAB20
+  - RAB21
+  - RAB22A
+  - RAB23
+  - RAB24
+  - RAB25
+  - RAB26
+  - RAB27A
+  - RAB27B
+  - RAB28
+  - RAB2A
+  - RAB2B
+  - RAB30
+  - RAB31
+  - RAB32
+  - RAB33A
+  - RAB33B
+  - RAB34
+  - RAB35
+  - RAB36
+  - RAB37
+  - RAB38
+  - RAB39A
+  - RAB39B
+  - RAB3A
+  - RAB3B
+  - RAB3C
+  - RAB3D
+  - RAB40A
+  - RAB40AL
+  - RAB40B
+  - RAB40C
+  - RAB41
+  - RAB42
+  - RAB43
+  - RAB44
+  - RAB4A
+  - RAB4B
+  - RAB5A
+  - RAB5B
+  - RAB5C
+  - RAB6A
+  - RAB6B
+  - RAB6C
+  - RAB7A
+  - RAB7B
+  - RAB29
+  - RAB8A
+  - RAB8B
+  - RAB9A
+  - RAB9B
+  - RABL2A
+  - RABL2B
+  - RABL3
+  - IFT22
+  - RPE65
+  - UVRAG
+  - TP63
+  - CKAP4
+  - TP53
+  - TP73
+  - EGFR
 ---

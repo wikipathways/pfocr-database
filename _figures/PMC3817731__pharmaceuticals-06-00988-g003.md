@@ -4,6 +4,8 @@ figtitle: Activation of the EGFR pathway and the consequent engagement of the Ra
   and PI3K/Akt pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3817731
 filename: pharmaceuticals-06-00988-g003.jpg
 figlink: /pmc/articles/PMC3817731/figure/pharmaceuticals-06-00988-f003/
@@ -22,9 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9627646
 figid_alias: PMC3817731__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3817731__F3
 ndex: d97eb3fc-dece-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -40,16 +39,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Egfr
-  - ras
-  - Ras64B
-  - Ras85D
-  - Sos
-  - drk
-  - Raf
-  - MKP-4
-  - p38b
-  - rl
   - EGF
   - EGFR
   - KRAS

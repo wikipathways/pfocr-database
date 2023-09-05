@@ -4,6 +4,8 @@ figtitle: 'Blood Ketones: Measurement, Interpretation, Limitations, and Utility 
   the Management of Diabetic Ketoacidosis'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5734222
 filename: RevDiabeticStud-13-217-001.jpg
 figlink: /pmc/articles/PMC5734222/figure/F1/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.8515333
 figid_alias: PMC5734222__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5734222__F1
 ndex: ''
 seo: CreativeWork
@@ -47,6 +47,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Coa
+  - CycE
+  - cyc
+  - AP-2alpha
+  - alpha-Spec
+  - bam
+  - alphaTry
   - Acetoacetyl CoA
   - acetate
   - Acetoacetate

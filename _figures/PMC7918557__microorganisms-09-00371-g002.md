@@ -4,6 +4,8 @@ figtitle: Proposed pathway for conversion from CA to DCA via 7Alpha-dehydroxylat
 organisms:
 - Clostridioides difficile
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7918557
 filename: microorganisms-09-00371-g002.jpg
 figlink: pmc/articles/PMC7918557/figure/microorganisms-09-00371-f002/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9749052
 figid_alias: PMC7918557__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7918557__F2
 ndex: ''
 seo: CreativeWork

@@ -15,10 +15,13 @@ organisms:
 - Heterocephalus glaber
 - Homo sapiens
 - Somniosus microcephalus
+organisms_ner:
+- Caenorhabditis elegans
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8612763
 filename: elife-64860-fig6-figsupp2.jpg
 figlink: /pmc/articles/PMC8612763/figure/fig6s2/
-number: F6
+number: SF6_2
 caption: Genes and metabolites from the lysine biosynthetic pathway that are found
   to be negatively associated with RLS are colored in red. Genes and metabolites that
   are known to be involved in tryptophan metabolism are highlighted with orange boxes,
@@ -34,12 +37,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: aging | natural lifespan variation | longevity | gene-environment interaction
   | multi-omics | yeast | S. cerevisiae | S. paradoxus
 automl_pathway: 0.9382787
-figid_alias: PMC8612763__F6
-figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Caenorhabditis elegans
-redirect_from: /figures/PMC8612763__F6
+figid_alias: PMC8612763__SF6_2
+figtype: Supplemental figure
+redirect_from: /figures/PMC8612763__SF6_2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -56,6 +56,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - lys-4
+  - lys-2
+  - lys-1
   - LYS20
   - LYS21
   - LYS4
@@ -63,7 +66,4 @@ schema-jsonld:
   - ARO8
   - LYS2
   - LYS1
-  - lys-4
-  - lys-2
-  - lys-1
 ---

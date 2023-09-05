@@ -17,6 +17,12 @@ organisms:
 - Sar
 - teleost fish
 - NA
+organisms_ner:
+- Rattus norvegicus
+- Macaca mulatta
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC8452524
 filename: gr2a_lrg.jpg
 figlink: ''
@@ -111,11 +117,6 @@ keywords: SARS-CoV-2 | COVID-19 | miRNAs | Gene regulators | Cytokine storm | mi
 automl_pathway: 0.8522118
 figid_alias: PMC8452524__F2a
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Macaca mulatta
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8452524__F2a
 ndex: ''
 seo: CreativeWork
@@ -160,13 +161,13 @@ schema-jsonld:
   - Tbk1
   - Irf3
   - Pla2g4a
-  - Ptges
   - Cox11
+  - Ptges
   - Ace2
   - Tlr3
   - Tlr7
-  - Furin
   - Tmprss2
+  - Furin
   - Tlr8
   - Myd88
   - Irf7
@@ -182,8 +183,8 @@ schema-jsonld:
   - Adam17
   - Il6
   - Nlrp3
-  - Nos2
   - Ptgs2
+  - Nos2
   - Lox
   - Tmprss5
   - Ccne1
@@ -194,8 +195,8 @@ schema-jsonld:
   - ACE2
   - TLR3
   - TLR7
-  - FURIN
   - TMPRSS2
+  - FURIN
   - TLR8
   - MYD88
   - IRF7
@@ -205,8 +206,8 @@ schema-jsonld:
   - ADAM17
   - IL6ST
   - NLRP3
-  - NOS2
   - COX2
+  - NOS2
   - LOX
   - TNF
   - MIR8057
@@ -216,16 +217,16 @@ schema-jsonld:
   - TICAM1
   - PLA2G4A
   - KAT5
-  - PTGES
   - COX11P1
+  - PTGES
   - MIR6731
   - MIR23B
   - MIR98
   - MIR96
+  - IFIH1
   - PLAAT4
   - RIGI
   - ROBO3
-  - IFIH1
   - MIR6751
   - NFKB1
   - MIR342
@@ -257,8 +258,8 @@ schema-jsonld:
   - MIR524
   - MIR20A
   - IL6
-  - ISYNA1
   - PTGS2
+  - ISYNA1
   - MMP1
   - MMP2
   - MMP3
@@ -308,4 +309,28 @@ schema-jsonld:
   - Agt
   - H2-Aa
   - Ptgir
+  - ticam1
+  - tbk1
+  - irf3
+  - pla2g4aa
+  - cox11
+  - ace2
+  - tlr3
+  - tlr7
+  - tmprss2
+  - furina
+  - myd88
+  - irf7
+  - mavs
+  - mapk14a
+  - angpt1
+  - jun
+  - stat3
+  - mapk3
+  - adam17b
+  - il6
+  - nlrp3
+  - loxa
+  - gpib
+  - tnfb
 ---

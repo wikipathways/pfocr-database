@@ -5,6 +5,8 @@ figtitle: Molecular Mechanisms of Auxin and Cytokinin Interaction in the Regulat
   integrative factors in auxin and cytokinin signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC3146736
 filename: mplantssr007f02_4c.jpg
 figlink: /pmc/articles/PMC3146736/figure/fig2/
@@ -41,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.7914392
 figid_alias: PMC3146736__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3146736__F2
 ndex: ''
 seo: CreativeWork
@@ -96,6 +96,6 @@ schema-jsonld:
   - WOX5
   - NPH4
   - ARF19
-  - LBD16
   - LBD29
+  - LBD16
 ---

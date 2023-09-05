@@ -3,6 +3,9 @@ figid: PMC7915726__pharmaceuticals-14-00130-g005
 figtitle: MERTK in Yes-associated protein (YAP)-mediated EGFR-TKI resistance
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7915726
 filename: pharmaceuticals-14-00130-g005.jpg
 figlink: pmc/articles/PMC7915726/figure/pharmaceuticals-14-00130-f005/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.937083
 figid_alias: PMC7915726__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7915726__F5
 ndex: ''
 seo: CreativeWork
@@ -48,6 +49,30 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - hpo
+  - hp
+  - 'On'
+  - 'Off'
+  - Egfr
+  - Pdk1
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ras
+  - Ras64B
+  - Ras85D
+  - Mst57Dc
+  - Mst57Db
+  - Mst57Da
+  - mst
+  - Raf
+  - Akt
+  - mats
+  - 14-3-3zeta
+  - 14-3-3epsilon
+  - Nplp1
+  - sd
   - EGFR
   - EGF
   - PDK1
@@ -72,12 +97,12 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
+  - AKT1
+  - AKT2
+  - AKT3
   - MOB1A
   - MOB1B
   - YWHAQ
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - ITK
   - SLC22A3
   - TEAD1

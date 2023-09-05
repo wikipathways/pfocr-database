@@ -4,6 +4,10 @@ figtitle: Genetic pathways involved in the regulation of the Mesp2 pathway
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3312677
 filename: cshperspect-MDV-008201_F8.jpg
 figlink: /pmc/articles/PMC3312677/figure/A008201F8/
@@ -30,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.8219877
 figid_alias: PMC3312677__F8
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC3312677__F8
 ndex: c6aa5191-dee1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -86,4 +87,17 @@ schema-jsonld:
   - SGCG
   - UNCX
   - IGHD6-13
+  - Ephrin
+  - Doc1
+  - Su(H)
+  - gro
+  - so
+  - .na.character
+  - 'On'
+  - 'Off'
+  - cad
+  - cort
+  - cora
+  - Crz
+  - mam
 ---

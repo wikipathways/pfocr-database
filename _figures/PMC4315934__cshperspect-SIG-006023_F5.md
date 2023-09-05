@@ -3,6 +3,9 @@ figid: PMC4315934__cshperspect-SIG-006023_F5
 figtitle: Smooth muscle contraction
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4315934
 filename: cshperspect-SIG-006023_F5.jpg
 figlink: /pmc/articles/PMC4315934/figure/A006023F5/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9191664
 figid_alias: PMC4315934__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4315934__F5
 ndex: 3255f9b1-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -69,4 +70,63 @@ schema-jsonld:
   - Mlc1
   - Mlc2
   - Strn-Mlck
+  - ATP8A2
+  - NPPA
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - MTG1
+  - ROCK1
+  - ROCK2
+  - PRKG1
+  - PPP1R14A
+  - CALM1
+  - CALM2
+  - CALM3
+  - KRIT1
+  - CAMKMT
+  - MLC1
+  - MYLK
+  - MYLK2
+  - MYLK3
 ---

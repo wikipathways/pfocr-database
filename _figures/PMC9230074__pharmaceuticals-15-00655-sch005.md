@@ -6,10 +6,12 @@ figtitle: Development of Photoremovable Linkers as a Novel Strategy to Improve t
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
 pmcid: PMC9230074
 filename: pharmaceuticals-15-00655-sch005.jpg
 figlink: /pmc/articles/PMC9230074/figure/pharmaceuticals-15-00655-sch005/
-number: SF5
+number: S5
 caption: Photocleavage of Taxol-TNB-fluorescein (38) via self-immolation pathway.
 papertitle: Development of Photoremovable Linkers as a Novel Strategy to Improve the
   Pharmacokinetics of Drug Conjugates and Their Potential Application in Antibody–Drug
@@ -22,11 +24,9 @@ journal_nlm_ta: Pharmaceuticals (Basel)
 publisher_name: MDPI
 keywords: photoremovable linker | drug conjugates | antibody–drug conjugates
 automl_pathway: 0.6227921
-figid_alias: PMC9230074__SF5
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC9230074__SF5
+figid_alias: PMC9230074__S5
+figtype: Scheme
+redirect_from: /figures/PMC9230074__S5
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

@@ -3,6 +3,9 @@ figid: PMC7760252__pharmaceuticals-13-00418-g003
 figtitle: CDK4/6 and MAPK inhibitors
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7760252
 filename: pharmaceuticals-13-00418-g003.jpg
 figlink: pmc/articles/PMC7760252/figure/pharmaceuticals-13-00418-f003/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9555662
 figid_alias: PMC7760252__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7760252__F3
 ndex: ''
 seo: CreativeWork
@@ -57,12 +57,12 @@ schema-jsonld:
   - ras
   - Ras64B
   - Ras85D
-  - CycD
   - cyc
   - CycE
   - Cyt-c-d
   - Cyt-c-p
   - cype
+  - CycD
   - Cdk4
   - Ask1
   - Raf
@@ -106,8 +106,8 @@ schema-jsonld:
   - E2F8
   - MAP2K1
   - MAP2K2
-  - MAP2K6
   - MAP2K3
+  - MAP2K6
   - WARS1
   - MAPK3
   - MAPK1

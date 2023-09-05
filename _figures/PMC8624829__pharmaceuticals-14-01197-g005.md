@@ -5,6 +5,9 @@ figtitle: Cucumis sativus L. Seeds Ameliorate Muscular Spasm-Induced Gastrointes
   Pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8624829
 filename: pharmaceuticals-14-01197-g005.jpg
 figlink: /pmc/articles/PMC8624829/figure/pharmaceuticals-14-01197-f005/
@@ -25,9 +28,6 @@ keywords: asthma | antidiarrheal | bronchodilator | Cucumis sativus | cucumber |
 automl_pathway: 0.9331481
 figid_alias: PMC8624829__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8624829__F5
 ndex: ''
 seo: CreativeWork
@@ -128,6 +128,7 @@ schema-jsonld:
   - Pkc53E
   - pr
   - Proc
+  - Nplp1
   - CrebB
   - CrebA
   - MKP-4

@@ -4,6 +4,8 @@ figtitle: Design, Synthesis, and Biological Evaluation of a Novel VEGFR-2 Inhibi
   Based on a 1,2,5-Oxadiazole-2-Oxide Scaffold with MAPK Signaling Pathway Inhibition
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8880564
 filename: pharmaceuticals-15-00246-g001.jpg
 figlink: /pmc/articles/PMC8880564/figure/pharmaceuticals-15-00246-f001/
@@ -22,8 +24,6 @@ keywords: pyrazolo[3,4-d]pyrimidines | furoxan | VEGFR-2 | DAF-FM DA | MAPK | me
 automl_pathway: 0.6299121
 figid_alias: PMC8880564__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8880564__F1
 ndex: ''
 seo: CreativeWork

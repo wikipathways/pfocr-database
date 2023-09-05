@@ -10,10 +10,14 @@ organisms:
 - Saccharomyces cerevisiae
 - Canis lupus familiaris
 - Severe acute respiratory syndrome coronavirus 2
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9514850
 filename: elife-75521-fig9-figsupp1.jpg
 figlink: /pmc/articles/PMC9514850/figure/fig9s1/
-number: F9
+number: SF9_1
 caption: Visualisation of the alteration in the reactions in pyruvate metabolism,
   glycolysis/gluconeogenesis metabolic pathway and glycosphingolipid biosynthesis-lacto
   and neolacto series pathway, transport reactions and enzyme activities. The red
@@ -29,12 +33,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: DMD | dystrophin | myoblast | transcriptomics | mdx | Mouse | Human
 automl_pathway: 0.8805316
-figid_alias: PMC9514850__F9
-figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-redirect_from: /figures/PMC9514850__F9
+figid_alias: PMC9514850__SF9_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC9514850__SF9_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -126,4 +127,46 @@ schema-jsonld:
   - HTT
   - SLC6A4
   - PAGE2
+  - Desat2
+  - Fadd
+  - Fad2
+  - Desat1
+  - del
+  - tx
+  - om
+  - CycE
+  - lot
+  - ase
+  - red
+  - trc
+  - Act5C
+  - .na.character
+  - Act42A
+  - Actbeta
+  - RpS6
+  - ww
+  - be
+  - Au
+  - pon
+  - pont
+  - mu
+  - Ca-alpha1T
+  - ChAT
+  - sv
+  - Ama
+  - pot
+  - mul
+  - mu1
+  - AP-1mu
+  - wa
+  - mi
+  - how
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Acf
+  - Fs(2)Kom
+  - ca
+  - htt
 ---

@@ -24,6 +24,9 @@ organisms:
 - Oryctolagus cuniculus
 - NA
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6071482
 filename: cshperspect-TMR-032649_F1.jpg
 figlink: pmc/articles/PMC6071482/figure/A032649F1/
@@ -59,8 +62,6 @@ keywords: .na.character
 automl_pathway: 0.931945
 figid_alias: PMC6071482__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6071482__F1
 ndex: ''
 seo: CreativeWork
@@ -95,6 +96,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - EEF1A1
+  - EEF1A2
+  - HBS1L
+  - EEF1B2
+  - EEF1B2P2
+  - EEF1G
+  - EEF1D
+  - SAMD9
+  - TRNA
+  - eEF1alpha1
+  - eEF1alpha2
+  - ea
+  - eEF1beta
+  - trnA
+  - tRNA:Asp-GTC-1-9
+  - bond
   - Aminoacyl
   - Deacyl
   - Hypusine

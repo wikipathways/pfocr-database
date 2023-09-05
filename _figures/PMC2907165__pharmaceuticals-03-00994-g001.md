@@ -12,6 +12,11 @@ organisms:
 - Diaporthe sclerotioides
 - Antarctothoa delta
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Oryctolagus cuniculus
+- Danio rerio
 pmcid: PMC2907165
 filename: pharmaceuticals-03-00994-g001.jpg
 figlink: /pmc/articles/PMC2907165/figure/pharmaceuticals-03-00994-f001/
@@ -43,10 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9412221
 figid_alias: PMC2907165__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC2907165__F1
 ndex: 0cccf33f-df05-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,21 +78,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Ifna
   - Ifnb1
+  - Ifna
   - Ifnar1
   - Ifnar2
   - Jak1
   - Tyk2
   - Irs1
-  - pk
   - Irs2
   - Vav1
   - Akt1
   - Rac1
   - Irf9
-  - Crkl
   - Stat5a
+  - Crkl
   - Mtor
   - Crk
   - Grap2
@@ -102,8 +102,8 @@ schema-jsonld:
   - Stat2
   - Gast
   - Gnas
-  - IFNA1
   - IFNB1
+  - IFNA1
   - IFNAR1
   - IFNAR2
   - JAK1
@@ -141,4 +141,18 @@ schema-jsonld:
   - GALNS
   - PAGR1
   - RHOG
+  - jak1
+  - tyk2
+  - irs1
+  - stat1b
+  - stat4
+  - irs2b
+  - rac1a
+  - irf9
+  - stat5a
+  - crkl
+  - mtor
+  - mapk14a
+  - stat1a
+  - stat2
 ---

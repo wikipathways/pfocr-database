@@ -4,6 +4,8 @@ figtitle: Diagrammatic summary of dinoflagellate orthologues in the direct rever
   of DNA damage pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6680887
 filename: microorganisms-07-00191-g002.jpg
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f002/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.918271
 figid_alias: PMC6680887__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC6680887__F2
 ndex: ''
 seo: CreativeWork
@@ -43,10 +43,10 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - ome
+  - AlkB
   - Cys
   - mmy
   - Csp
-  - AlkB
   - 'Nme  Ome '
   - 'N'
   - Cys

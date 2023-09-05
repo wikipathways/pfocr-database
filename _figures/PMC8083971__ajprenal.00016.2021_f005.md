@@ -4,6 +4,9 @@ figtitle: 'Regulated cell death in cisplatin-induced AKI: relevance of myo-inosi
   metabolism'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8083971
 filename: ajprenal.00016.2021_f005.jpg
 figlink: /pmc/articles/PMC8083971/figure/F0005/
@@ -32,8 +35,6 @@ keywords: acute kidney injury | cisplatin | myo-inositol | regulated cell death
 automl_pathway: 0.8885741
 figid_alias: PMC8083971__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8083971__F5
 ndex: ''
 seo: CreativeWork
@@ -67,4 +68,21 @@ schema-jsonld:
   - Gdh
   - Gpdh1
   - Gld
+  - HK1
+  - GCK
+  - HK2
+  - HK3
+  - ATP8A2
+  - WDTC1
+  - HMGN2P12
+  - MIOX
+  - GLUD1
+  - UGDH
+  - H6PD
+  - CRYL1
+  - SLC2A13
+  - SLC5A3
+  - NR1H2
+  - NR1H3
+  - DECR1
 ---

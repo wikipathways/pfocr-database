@@ -5,10 +5,14 @@ figtitle: Model summarizing regulation of glycolysis and its contribution to pho
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC5499945
 filename: elife-25946-fig4-figsupp1.jpg
 figlink: /pmc/articles/PMC5499945/figure/fig4s1/
-number: SF4_1
+number: F4
 caption: 'Aerobic glycolysis could serve as a metabolic adaptation to promote anabolism
   and visual cycle in the photoreceptors. Lactate represents carbon that is unavailable
   for oxidation and ATP generation. We favor a model where allosteric and FGF-mediated
@@ -37,11 +41,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9553662
-figid_alias: PMC5499945__SF4_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC5499945__SF4_1
+figid_alias: PMC5499945__F4
+figtype: Figure
+redirect_from: /figures/PMC5499945__F4
 ndex: 3bb41d76-de9e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -81,6 +83,44 @@ schema-jsonld:
   - Gnat2
   - Pkm
   - Ldha
+  - RPE
+  - FGF1
+  - FGF2
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FGF10
+  - FGF11
+  - FGF12
+  - FGF13
+  - FGF14
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - ATP8A2
+  - DECR1
+  - FGFR1
+  - FGFR2
+  - FGFR3
+  - FGFR4
+  - FGFRL1
+  - PKM
+  - PKLR
+  - PFKFB3
+  - PEE1
+  - LDHA
+  - rpe
+  - ldhA
+  - rna
   - Fatty Acid
   - Glucose
   - Pentose Phosphate

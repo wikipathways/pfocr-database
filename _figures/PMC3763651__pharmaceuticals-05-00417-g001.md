@@ -8,6 +8,11 @@ organisms:
 - Human immunodeficiency virus 1
 - Human immunodeficiency virus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3763651
 filename: pharmaceuticals-05-00417-g001.jpg
 figlink: /pmc/articles/PMC3763651/figure/pharmaceuticals-05-00417-f001/
@@ -29,10 +34,6 @@ keywords: .na.character
 automl_pathway: 0.7615099
 figid_alias: PMC3763651__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Rattus norvegicus
-- Homo sapiens
 redirect_from: /figures/PMC3763651__F1
 ndex: d53b1feb-de90-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -210,6 +211,57 @@ schema-jsonld:
   - RELB
   - REL
   - NFKB2
+  - gas
+  - Galphas
+  - gd
+  - Galphai
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - sic
+  - Rap1
+  - Src42A
+  - Csk
+  - Src64B
+  - Raf
+  - Ras64B
+  - Ras85D
+  - beta-Spec
+  - betaTub56D
+  - betaTry
+  - anon-70Da
+  - norpA
+  - sl
+  - Plc21C
+  - dnc
+  - Akt
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - Dsor1
+  - Mtk
+  - CrebB
+  - CrebA
+  - PyK
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Rho1
+  - Jra
+  - bsk
+  - Erk7
+  - rl
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - Pld
+  - Dif
+  - dl
+  - Rel
   - Cancer
   - Cardiomyopathy
   - Lung cancer

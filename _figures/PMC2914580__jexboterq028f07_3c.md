@@ -5,6 +5,9 @@ figtitle: A hypothetical ananplerotic pathway for glycolate/glyoxylate in relati
 organisms:
 - Homo sapiens
 - Oryza sativa
+organisms_ner:
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC2914580
 filename: jexboterq028f07_3c.jpg
 figlink: /pmc/articles/PMC2914580/figure/fig7/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.978513
 figid_alias: PMC2914580__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2914580__F7
 ndex: ''
 seo: CreativeWork
@@ -69,6 +70,14 @@ schema-jsonld:
   - HPR
   - PAQR7
   - SLC25A16
+  - PI
+  - PEP
+  - PAS2
+  - ICL
+  - MDH
+  - MLS
+  - GR
+  - AGT
   - Gly
   - Glyoxylate
   - glyoxylate

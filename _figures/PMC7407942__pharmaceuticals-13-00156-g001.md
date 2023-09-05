@@ -3,6 +3,9 @@ figid: PMC7407942__pharmaceuticals-13-00156-g001
 figtitle: Schematic process of the autophagic pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7407942
 filename: pharmaceuticals-13-00156-g001.jpg
 figlink: pmc/articles/PMC7407942/figure/pharmaceuticals-13-00156-f001/
@@ -39,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.9371405
 figid_alias: PMC7407942__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7407942__F1
 ndex: ''
 seo: CreativeWork
@@ -75,6 +76,67 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - egr
+  - Egfr
+  - Pvr
+  - Raf
+  - ras
+  - Ras64B
+  - Ras85D
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pten
+  - Tak1
+  - MKP-4
+  - p38b
+  - rl
+  - Akt
+  - Erk7
+  - Lkb1
+  - SNF4Agamma
+  - AMPKalpha
+  - IKKbeta
+  - gig
+  - Tsc1
+  - Rheb
+  - Mitf
+  - p53
+  - betaTub60D
+  - hth
+  - foxo
+  - Dif
+  - dl
+  - Rel
+  - sima
+  - Atg17
+  - Crtc
+  - Atg1
+  - Atg10
+  - BNIP3
+  - Atg6
+  - squ
+  - Atg12
+  - Atg8a
+  - Atg5
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Atg7
+  - Atg4a
+  - Atg4b
+  - Uvrag
+  - Atg14
+  - ref(2)P
+  - DCTN4-p62
+  - Tfb1
+  - Nup62
+  - Taf6
+  - how
+  - Vps11
+  - dor
   - TNF
   - EGFR
   - PDGFRB
@@ -82,14 +144,13 @@ schema-jsonld:
   - KDR
   - FLT1
   - FLT4
-  - KRAS
-  - HRAS
-  - NRAS
   - ZHX2
   - ARAF
   - BRAF
   - RAF1
-  - PTEN
+  - KRAS
+  - HRAS
+  - NRAS
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -100,6 +161,7 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - PTEN
   - MAP3K7
   - NR2C2
   - MAPK1
@@ -111,6 +173,9 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
+  - AKT1
+  - AKT2
+  - AKT3
   - EPHB2
   - STK11
   - PRKAA1
@@ -146,18 +211,17 @@ schema-jsonld:
   - ULK1
   - ULK2
   - ATG10
-  - BNIP3
   - BECN1
   - ATG12
   - BNIP3L
   - MAP1LC3A
   - ATG5
   - SESN3
+  - ATG7
   - ATG4A
   - ATG4B
   - ATG4C
   - ATG4D
-  - ATG7
   - UVRAG
   - ATG14
   - GTF2H1

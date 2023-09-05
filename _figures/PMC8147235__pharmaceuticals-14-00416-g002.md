@@ -5,6 +5,11 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Rattus norvegicus
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8147235
 filename: pharmaceuticals-14-00416-g002.jpg
 figlink: /pmc/articles/PMC8147235/figure/pharmaceuticals-14-00416-f002/
@@ -38,10 +43,6 @@ keywords: brain | sepsis-associated encephalopathy | neuroinflammation | microgl
 automl_pathway: 0.8791113
 figid_alias: PMC8147235__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8147235__F2
 ndex: ''
 seo: CreativeWork
@@ -90,6 +91,14 @@ schema-jsonld:
   - Grm8
   - Il13
   - Il18
+  - Il23a
+  - D7Zem4
+  - Rtl1
+  - .na.character
+  - Afg3l2
+  - P2rx7
+  - Tpst2
+  - Grin1
   - TLR1
   - TLR2
   - TLR3
@@ -139,12 +148,30 @@ schema-jsonld:
   - GRIN3B
   - IL13
   - IL18
-  - Il23a
-  - D7Zem4
-  - Rtl1
-  - .na.character
-  - Afg3l2
-  - P2rx7
-  - Tpst2
-  - Grin1
+  - 18w
+  - tok
+  - tlr-2
+  - Dif
+  - dl
+  - Rel
+  - mar
+  - egr
+  - Low
+  - Glut1
+  - par
+  - para
+  - par-6
+  - Inos
+  - Nos
+  - Tor
+  - sima
+  - ATPsynbeta
+  - Atpalpha
+  - ac
+  - ase
+  - AstC
+  - amon
+  - mGluR
+  - Nmdar2
+  - Nmdar1
 ---

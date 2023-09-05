@@ -3,6 +3,9 @@ figid: PMC8068157__microorganisms-09-00778-g001
 figtitle: Regulation of programmed cell death ligand 1 (PD-L1) gene expression
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC8068157
 filename: microorganisms-09-00778-g001.jpg
 figlink: pmc/articles/PMC8068157/figure/microorganisms-09-00778-f001/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9729838
 figid_alias: PMC8068157__F1
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
 redirect_from: /figures/PMC8068157__F1
 ndex: ''
 seo: CreativeWork
@@ -57,4 +58,33 @@ schema-jsonld:
   - lmp-1
   - pdl-1
   - hif-1
+  - CD8A
+  - CD8B
+  - TNF
+  - IL4
+  - IL2
+  - PDCD1
+  - RPL17
+  - RPL17-C18orf32
+  - PDLIM7
+  - CD274
+  - MYC
+  - FOS
+  - FOSB
+  - JUN
+  - JUNB
+  - JUND
+  - HIF1A
+  - SETD2
+  - ARNT
+  - NFKB1
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT3
+  - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
+  - TRIM63
 ---

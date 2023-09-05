@@ -38,6 +38,8 @@ organisms:
 - Canis lupus familiaris
 - Homo sapiens
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8228290
 filename: microorganisms-09-01242-g006.jpg
 figlink: /pmc/articles/PMC8228290/figure/microorganisms-09-01242-f006/
@@ -60,8 +62,6 @@ keywords: Dermacentor variabilis | ecdysteroid | Rickettsia sp. | Francisella sp
 automl_pathway: 0.9422144
 figid_alias: PMC8228290__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8228290__F6
 ndex: ''
 seo: CreativeWork

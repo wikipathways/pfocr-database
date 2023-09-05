@@ -8,6 +8,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Alocasia macrorrhizos
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
 pmcid: PMC509316
 filename: pbio.0020276.g002.jpg
 figlink: /pmc/articles/PMC509316/figure/pbio-0020276-g002/
@@ -31,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8993417
 figid_alias: PMC509316__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Mus musculus
 redirect_from: /figures/PMC509316__F2
 ndex: cddb756d-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -97,4 +98,30 @@ schema-jsonld:
   - Ptpn13
   - Ripk1
   - Rpain
+  - TLR4
+  - TNF
+  - TUBE1
+  - IRAK1
+  - CASP1
+  - CASP2
+  - CASP4
+  - CASP5
+  - CASP6
+  - CASP8
+  - CASP9
+  - CASP10
+  - CASP12
+  - CASP14
+  - CASP3
+  - CASP7
+  - AGFG1
+  - RIPK1
+  - DCAF1
+  - RPAIN
+  - CHUK
+  - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
+  - REL
 ---

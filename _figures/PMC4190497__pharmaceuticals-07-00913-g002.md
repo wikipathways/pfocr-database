@@ -16,6 +16,10 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
 pmcid: PMC4190497
 filename: pharmaceuticals-07-00913-g002.jpg
 figlink: /pmc/articles/PMC4190497/figure/pharmaceuticals-07-00913-f002/
@@ -39,9 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9380231
 figid_alias: PMC4190497__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Mus musculus
 redirect_from: /figures/PMC4190497__F2
 ndex: b2c5218a-deb2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -62,10 +63,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - adp
+  - ATPsynbeta
   - Atpalpha
   - blw
-  - ATPsynbeta
+  - adp
   - Lkb1
   - SNF4Agamma
   - AMPKalpha
@@ -74,8 +75,31 @@ schema-jsonld:
   - srl
   - Wdtc1
   - Mdga2
-  - Klkb1
   - Stk11
+  - Klkb1
   - Ppargc1a
+  - ATP8A2
+  - WDTC1
+  - STK11
+  - KLKB1
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - SIRT1
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - PPARGC1A
   - Ser
 ---

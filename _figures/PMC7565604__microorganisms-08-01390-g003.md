@@ -3,6 +3,9 @@ figid: PMC7565604__microorganisms-08-01390-g003
 figtitle: Proposed biosynthesis pathway for the BE-18257s and the pentaminomycins
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7565604
 filename: microorganisms-08-01390-g003.jpg
 figlink: pmc/articles/PMC7565604/figure/microorganisms-08-01390-f003/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.6083915
 figid_alias: PMC7565604__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7565604__F3
 ndex: ''
 seo: CreativeWork
@@ -49,8 +50,17 @@ schema-jsonld:
   - ase
   - ca
   - Pcp
-  - Pc
   - Hn
+  - DOCK3
+  - PEBP1
+  - PKD1
+  - MED1
+  - PPBP
+  - ARSL
+  - BMP1
+  - PRCP
+  - PGPEP1
+  - PCOLCE
   - O
   - BE-18257s
   - pentaminomycins

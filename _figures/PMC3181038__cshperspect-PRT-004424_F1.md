@@ -4,6 +4,9 @@ figtitle: 'Signaling the unfolded protein response: Three proximal sensors IRE1,
   and ATF6 regulate the UPR through their respective signaling cascades'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3181038
 filename: cshperspect-PRT-004424_F1.jpg
 figlink: /pmc/articles/PMC3181038/figure/A004424F1/
@@ -35,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.8987905
 figid_alias: PMC3181038__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3181038__F1
 ndex: ''
 seo: CreativeWork

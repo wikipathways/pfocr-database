@@ -3,10 +3,12 @@ figid: PMC4578390__Beilstein_J_Org_Chem-11-1265-g004
 figtitle: A proposed reaction pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4578390
 filename: Beilstein_J_Org_Chem-11-1265-g004.jpg
 figlink: /pmc/articles/PMC4578390/figure/C3/
-number: S3
+number: SF3
 caption: A proposed reaction pathway.
 papertitle: One-pot odourless synthesis of thioesters via in situ generation of thiobenzoic
   acids using benzoic anhydrides and thiourea.
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.5110573
-figid_alias: PMC4578390__S3
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC4578390__S3
+figid_alias: PMC4578390__SF3
+figtype: Supplemental figure
+redirect_from: /figures/PMC4578390__SF3
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

@@ -5,6 +5,8 @@ figtitle: 'Monitoring vascular normalization: new opportunities for mitochondria
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8018703
 filename: oncoscience-08-01-g001.jpg
 figlink: pmc/articles/PMC8018703/figure/F1/
@@ -43,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9398782
 figid_alias: PMC8018703__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC8018703__F1
 ndex: ''
 seo: CreativeWork
@@ -81,6 +81,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Idh
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - svp
+  - Sgs3
+  - ATPsynbeta
+  - Atpalpha
+  - adp
   - Citrate
   - Isocitrate
   - NADP

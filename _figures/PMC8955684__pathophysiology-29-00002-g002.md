@@ -4,6 +4,9 @@ figtitle: Angiopoietin-Like Protein 4 and Insulin-Like Growth Factor-1 Expressio
   in Invasive Breast Carcinoma in Young Women
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8955684
 filename: pathophysiology-29-00002-g002.jpg
 figlink: /pmc/articles/PMC8955684/figure/pathophysiology-29-00002-f002/
@@ -22,8 +25,6 @@ keywords: angiopoietin-like protein | insulin-like growth factor-1 | breast canc
 automl_pathway: 0.9010266
 figid_alias: PMC8955684__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8955684__F2
 ndex: ''
 seo: CreativeWork
@@ -38,8 +39,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IGF1
   - IMPACT
+  - IGF1
   - ITK
   - SLC22A3
   - STAT3
@@ -77,4 +78,28 @@ schema-jsonld:
   - EPHB2
   - MAPK1
   - MAPK3
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - 'On'
+  - hop
+  - bsk
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Mtor
+  - Tor
+  - Debcl
+  - cass
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
 ---

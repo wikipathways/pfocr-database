@@ -4,6 +4,8 @@ figtitle: Comparative metabolomics provides novel insights into the basis of pet
   color differences in celery (Apium graveolens L.)
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC9002244
 filename: JZhejiangUnivSciB-23-4-300-g007.jpg
 figlink: /pmc/articles/PMC9002244/figure/JZhejiangUnivSciB-23-4-300-g007/
@@ -29,8 +31,6 @@ keywords: Celery | Metabolite | Anthocyanin | Chlorophyll | Petiole color
 automl_pathway: 0.8844104
 figid_alias: PMC9002244__F7
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC9002244__F7
 ndex: ''
 seo: CreativeWork

@@ -4,6 +4,8 @@ figtitle: 'Microbial Production Potential of Pantoea ananatis: From Amino Acids 
   Secondary Metabolites'
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9231021
 filename: microorganisms-10-01133-g003.jpg
 figlink: /pmc/articles/PMC9231021/figure/microorganisms-10-01133-f003/
@@ -24,8 +26,6 @@ keywords: Pantoea ananatis | microbial production | L-glutamate | L-cysteine | i
 automl_pathway: 0.9366827
 figid_alias: PMC9231021__F3
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC9231021__F3
 ndex: ''
 seo: CreativeWork
@@ -47,14 +47,14 @@ schema-jsonld:
   - cysD
   - cysN
   - cysC
-  - gor
   - cysH
+  - gor
   - grxA
-  - trxA
   - trxB
+  - trxA
   - cysG
-  - cysI
   - cysJ
+  - cysI
   - cysK
   - cysM
   - serB

@@ -3,6 +3,8 @@ figid: PMC2639048__carcinbgn267f02_ht
 figtitle: Metabolic pathway for PhIP activation and induced mutations
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2639048
 filename: carcinbgn267f02_ht.jpg
 figlink: /pmc/articles/PMC2639048/figure/fig2/
@@ -19,8 +21,6 @@ keywords: .na.character
 automl_pathway: 0.9448079
 figid_alias: PMC2639048__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2639048__F2
 ndex: 9948449d-def7-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -6,6 +6,10 @@ organisms:
 - Rattus norvegicus
 - Escherichia coli
 - Corynebacterium phage gamma
+organisms_ner:
+- Rattus norvegicus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4527365
 filename: bmi-suppl.3-2015-001f2.jpg
 figlink: /pmc/articles/PMC4527365/figure/f2-bmi-suppl.3-2015-001/
@@ -49,9 +53,6 @@ keywords: .na.character
 automl_pathway: 0.7476767
 figid_alias: PMC4527365__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
 redirect_from: /figures/PMC4527365__F2
 ndex: 517af881-de98-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -135,9 +136,9 @@ schema-jsonld:
   - TYK2
   - CSF1R
   - AKT1
+  - PTK2B
   - AKT2
   - AKT3
-  - PTK2B
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -167,6 +168,35 @@ schema-jsonld:
   - RAF1
   - ATP8A2
   - WDTC1
+  - scf
+  - blo
+  - sl
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - hop
+  - bsk
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - drk
+  - Sos
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - CycE
+  - cyc
   - Cancer
   - Cardiomyopathy
   - Lung cancer

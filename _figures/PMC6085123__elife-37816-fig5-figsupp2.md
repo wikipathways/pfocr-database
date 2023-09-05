@@ -25,10 +25,17 @@ organisms:
 - Homo sapiens
 - Bos taurus
 - Dicentrarchus labrax
+organisms_ner:
+- Mus musculus
+- Bos taurus
+- Homo sapiens
+- Rattus norvegicus
+- Dicentrarchus labrax
+- Danio rerio
 pmcid: PMC6085123
 filename: elife-37816-fig5-figsupp2.jpg
 figlink: /pmc/articles/PMC6085123/figure/fig5s2/
-number: SF5_2
+number: F5
 caption: For key, see symbols in main text .
 papertitle: Antibiotic-induced acceleration of type 1 diabetes alters maturation of
   innate intestinal immunity.
@@ -40,15 +47,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9276548
-figid_alias: PMC6085123__SF5_2
-figtype: Supplemental figure
-organisms_ner:
-- Bos taurus
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Dicentrarchus labrax
-redirect_from: /figures/PMC6085123__SF5_2
+figid_alias: PMC6085123__F5
+figtype: Figure
+redirect_from: /figures/PMC6085123__F5
 ndex: 39c47486-df08-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -62,26 +63,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CARD9
-  - TXNIP
-  - AIM2
-  - PYCARD
-  - STS
-  - CASP8
-  - CASP1
-  - IFNAA
-  - IL18
-  - STAT1
-  - IL16
-  - IFNB1
-  - CCL2
-  - IRAK4
-  - TYK2
-  - JAK1
-  - TLR4
-  - IFNAB
-  - Spg7
   - Nampt
+  - Spg7
   - Card9
   - Arhgdig
   - Arhgef28
@@ -97,25 +80,41 @@ schema-jsonld:
   - Casp8
   - Nfkb1
   - Casp1
-  - Ifna
+  - Ifnab
   - Il18
   - Stat1
-  - Il16
-  - Ifnb1
   - Mcpt1
   - Ccl2
+  - Ifnb1
   - Irak4
-  - Tyk2
   - Jak1
-  - Ifnar1
+  - Tyk2
   - Tlr4
-  - Ifnab
+  - Ifnar1
   - Pirb
   - Cyba
-  - App
-  - H2-Ab1
-  - SPG7
+  - Ifna
+  - Il16
+  - CARD9
+  - TXNIP
+  - AIM2
+  - PYCARD
+  - STS
+  - CASP8
+  - CASP1
+  - IFNAB
+  - IL18
+  - STAT1
+  - CCL2
+  - IFNB1
+  - IRAK4
+  - JAK1
+  - TYK2
+  - TLR4
+  - IFNAA
+  - IL16
   - NAMPT
+  - SPG7
   - DPEP1
   - RIPK2
   - ARHGEF28
@@ -139,6 +138,11 @@ schema-jsonld:
   - RELB
   - REL
   - NFKB2
+  - IFNA8
+  - IFNAR1
+  - IFNAR2
+  - IRF6
+  - CYBA
   - IFN1@
   - IFNA1
   - IFNA2
@@ -147,24 +151,25 @@ schema-jsonld:
   - IFNA5
   - IFNA6
   - IFNA7
-  - IFNA8
   - IFNA10
   - IFNA13
   - IFNA14
   - IFNA16
   - IFNA21
-  - IFNAR1
-  - IFNAR2
-  - IRF6
-  - CYBA
-  - APP
-  - SUCLA2
   - Rela
   - card9
-  - il16
   - irak4
-  - tyk2
   - jak1
+  - tyk2
+  - il16
+  - txnipa
+  - ikbkg
+  - pycard
+  - casp8
+  - caspa
+  - stat1a
+  - stat1b
+  - stat4
   - O Visfatin
   - Calcium
   - MDP

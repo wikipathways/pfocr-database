@@ -3,6 +3,9 @@ figid: PMC9030951__pharmaceuticals-15-00401-g001
 figtitle: The Homeostatic Unfolded Protein Response in Diabetic Nephropathy
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9030951
 filename: pharmaceuticals-15-00401-g001.jpg
 figlink: /pmc/articles/PMC9030951/figure/pharmaceuticals-15-00401-f001/
@@ -73,9 +76,6 @@ keywords: unfolded protein response | ER stress | diabetic nephropathy | insulin
 automl_pathway: 0.829178
 figid_alias: PMC9030951__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9030951__F1
 ndex: ''
 seo: CreativeWork
@@ -172,7 +172,7 @@ schema-jsonld:
   - Atf6
   - S1P
   - S2P
-  - Nox
+  - NX
   - na
   - Debcl
   - APC
@@ -223,7 +223,6 @@ schema-jsonld:
   - BBC3
   - MBTPS1
   - MBTPS2
-  - PMAIP1
   - BCL2L11
   - BCL2
 ---

@@ -3,6 +3,9 @@ figid: PMC8862784__ajpregu.00211.2021_f002
 figtitle: 'ACE2: a key modulator of the renin-angiotensin system and pregnancy'
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC8862784
 filename: ajpregu.00211.2021_f002.jpg
 figlink: /pmc/articles/PMC8862784/figure/F0002/
@@ -36,9 +39,6 @@ keywords: angiotensin-converting enzyme 2 | COVID-19 | fetal growth restriction 
 automl_pathway: 0.927251
 figid_alias: PMC8862784__F2
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC8862784__F2
 ndex: ''
 seo: CreativeWork
@@ -93,6 +93,7 @@ schema-jsonld:
   - TGFB3
   - CCL2
   - IL10
+  - DECR1
   - CYBA
   - CYBB
   - DUOX1
@@ -105,7 +106,6 @@ schema-jsonld:
   - NOX4
   - NOX5
   - RAC1
-  - DECR1
   - SOD1
   - SOD2
   - SOD3

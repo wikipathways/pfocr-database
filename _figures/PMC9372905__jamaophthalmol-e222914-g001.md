@@ -6,6 +6,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Drosophila melanogaster
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC9372905
 filename: jamaophthalmol-e222914-g001.jpg
 figlink: /pmc/articles/PMC9372905/figure/ebr220011f1/
@@ -39,10 +44,6 @@ keywords: ''
 automl_pathway: 0.9480007
 figid_alias: PMC9372905__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Drosophila melanogaster
 redirect_from: /figures/PMC9372905__F1
 ndex: ''
 seo: CreativeWork
@@ -106,4 +107,12 @@ schema-jsonld:
   - arm
   - pan
   - fz
+  - ndp
+  - fzd4
+  - lrp5
+  - tspan12
+  - gsk3ba
+  - apc
+  - ctnnb1
+  - elk4
 ---

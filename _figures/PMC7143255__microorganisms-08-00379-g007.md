@@ -14,6 +14,8 @@ organisms:
 - Fusobacterium varium
 - Clostridium aminobutyricum
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7143255
 filename: microorganisms-08-00379-g007.jpg
 figlink: pmc/articles/PMC7143255/figure/microorganisms-08-00379-f007/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8865973
 figid_alias: PMC7143255__F7
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7143255__F7
 ndex: ''
 seo: CreativeWork

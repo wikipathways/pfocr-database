@@ -3,6 +3,9 @@ figid: PMC2773625__cshperspect-GRA-000836_F1
 figtitle: Overview of the ventral signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2773625
 filename: cshperspect-GRA-000836_F1.jpg
 figlink: /pmc/articles/PMC2773625/figure/A000836F1/
@@ -35,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.6110583
 figid_alias: PMC2773625__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2773625__F1
 ndex: ''
 seo: CreativeWork
@@ -89,4 +90,9 @@ schema-jsonld:
   - ndl
   - ND1
   - Spn27A
+  - PVR
+  - TLR4
+  - PLK2
+  - IVNS1ABP
+  - AVPR2
 ---

@@ -24,6 +24,9 @@ organisms:
 - Chilomastix caulleryi
 - Homo sapiens
 - metagenome
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7762791
 filename: mSystems.00774-20-f0004.jpg
 figlink: pmc/articles/PMC7762791/figure/fig4/
@@ -47,8 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9277805
 figid_alias: PMC7762791__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7762791__F4
 ndex: ''
 seo: CreativeWork
@@ -69,6 +70,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ATP8A2
+  - WDTC1
+  - GFER
+  - SRC
+  - ABCB6
+  - DNAH8
+  - ARSI
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - hpo
+  - hop
+  - SRPK
+  - Vha14-1
+  - E(spl)malpha-BFM
   - NADH
   - NAD(P)H
   - (S)-NADHX

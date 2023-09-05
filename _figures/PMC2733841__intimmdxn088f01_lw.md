@@ -3,6 +3,9 @@ figid: PMC2733841__intimmdxn088f01_lw
 figtitle: The proposed pathway of regulatory controls (see list of abbreviations)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2733841
 filename: intimmdxn088f01_lw.jpg
 figlink: /pmc/articles/PMC2733841/figure/fig1/
@@ -20,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8303138
 figid_alias: PMC2733841__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2733841__F1
 ndex: ''
 seo: CreativeWork
@@ -49,4 +50,12 @@ schema-jsonld:
   - Ets98B
   - ats
   - 'On'
+  - ABCC6
+  - FOXC1
+  - PAK3
+  - ETS1
+  - ETS2
+  - ETV3
+  - COL4A5
+  - SLC2A10
 ---

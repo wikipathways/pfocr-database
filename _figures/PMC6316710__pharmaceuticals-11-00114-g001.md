@@ -3,6 +3,8 @@ figid: PMC6316710__pharmaceuticals-11-00114-g001
 figtitle: NCOA4-mediated ferritinophagy pathway is regulated by intracellular iron
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6316710
 filename: pharmaceuticals-11-00114-g001.jpg
 figlink: /pmc/articles/PMC6316710/figure/pharmaceuticals-11-00114-f001/
@@ -45,8 +47,6 @@ keywords: .na.character
 automl_pathway: 0.6445458
 figid_alias: PMC6316710__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6316710__F1
 ndex: 8cccc779-df36-11ea-99da-0ac135e8bacf
 seo: CreativeWork

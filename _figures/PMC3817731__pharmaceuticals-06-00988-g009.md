@@ -5,10 +5,13 @@ figtitle: Schematic of the nucleotide excision repair pathway showing a subset o
   resistance to oxaliplatin
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3817731
 filename: pharmaceuticals-06-00988-g009.jpg
 figlink: /pmc/articles/PMC3817731/figure/pharmaceuticals-06-00988-f009/
-number: S4
+number: SF4
 caption: Schematic of the nucleotide excision repair pathway showing a subset of the
   proteins involved, especially those that have been implicated in response or resistance
   to oxaliplatin.
@@ -22,12 +25,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.5297446
-figid_alias: PMC3817731__S4
-figtype: Scheme
-organisms_ner:
-- Homo sapiens
-- Danio rerio
-redirect_from: /figures/PMC3817731__S4
+figid_alias: PMC3817731__SF4
+figtype: Supplemental figure
+redirect_from: /figures/PMC3817731__SF4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -50,11 +50,15 @@ schema-jsonld:
   - GTF2H3
   - GTF2H4
   - GTF2H5
-  - ERCC1
   - ERCC4
+  - ERCC1
   - ERCC5
-  - he1.3
-  - ercc2
-  - ercc1
-  - ercc5
+  - hay
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Xpd
+  - Ercc1
+  - mus201
 ---

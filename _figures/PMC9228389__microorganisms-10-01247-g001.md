@@ -4,6 +4,9 @@ figtitle: 'Resistance Is Not Futile: The Role of Quorum Sensing Plasticity in Ps
   aeruginosa Infections and Its Link to Intrinsic Mechanisms of Antibiotic Resistance'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9228389
 filename: microorganisms-10-01247-g001.jpg
 figlink: /pmc/articles/PMC9228389/figure/microorganisms-10-01247-f001/
@@ -40,8 +43,6 @@ keywords: antibiotic resistance | virulence | quorum sensing
 automl_pathway: 0.9304348
 figid_alias: PMC9228389__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9228389__F1
 ndex: ''
 seo: CreativeWork
@@ -86,4 +87,14 @@ schema-jsonld:
   - Acam
   - levy
   - COX6AL2
+  - DNAI7
+  - LAS1L
+  - LIMASI
+  - RHD
+  - KLK3
+  - PLAG1
+  - PROS1
+  - NPEPPS
+  - PSAT1
+  - SEMA6A
 ---

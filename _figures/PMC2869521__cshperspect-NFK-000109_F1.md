@@ -3,6 +3,9 @@ figid: PMC2869521__cshperspect-NFK-000109_F1
 figtitle: Role of BCR signaling to NFKB in ABC DLBCL
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2869521
 filename: cshperspect-NFK-000109_F1.jpg
 figlink: /pmc/articles/PMC2869521/figure/A000109F1/
@@ -52,9 +55,6 @@ keywords: .na.character
 automl_pathway: 0.9201992
 figid_alias: PMC2869521__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC2869521__F1
 ndex: 8717a04a-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,10 +3,12 @@ figid: PMC8104964__elife-65856-fig1-figsupp4
 figtitle: TLR4 signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8104964
 filename: elife-65856-fig1-figsupp4.jpg
 figlink: /pmc/articles/PMC8104964/figure/fig1s4/
-number: F1
+number: SF1_4
 caption: LPS binding to TLR4 at the cell surface initially activates the MYD88-dependent
   signaling pathway, which results in activation of NF-κB and production of pro-inflammatory
   cytokines such as TNF-α. Endocytosis of the LPS-TLR4 complex leads to activation
@@ -24,11 +26,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: CRISPR | dendritic cells | bacteroides thetaiotaomicron | functional genomics
   | inter-individual variation | Human | Other
 automl_pathway: 0.9339235
-figid_alias: PMC8104964__F1
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC8104964__F1
+figid_alias: PMC8104964__SF1_4
+figtype: Supplemental figure
+redirect_from: /figures/PMC8104964__SF1_4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -56,12 +56,12 @@ schema-jsonld:
   - RPSA
   - LY96
   - TLR4
-  - SEMA6A
   - FOS
   - FOSB
   - JUN
   - JUNB
   - JUND
+  - SEMA6A
   - TBK1
   - TIRAP
   - MYD88
@@ -73,11 +73,11 @@ schema-jsonld:
   - NFKB2
   - TRAF3
   - TNF
-  - TRAM1
   - TICAM2
   - TMED7-TICAM2
-  - TRIM69
+  - TRAM1
   - TICAM1
+  - TRIM69
   - IRF3
   - IRF7
   - IFNB1

@@ -4,10 +4,13 @@ figtitle: Recent advances in the asymmetric phosphoric acid-catalyzed synthesis 
   axially chiral compounds
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8609246
 filename: Beilstein_J_Org_Chem-17-2729-g030.jpg
 figlink: /pmc/articles/PMC8609246/figure/C25/
-number: SF25
+number: S25
 caption: Synthesis of axially chiral arylquinazolinones and its reaction pathway [].
 papertitle: Recent advances in the asymmetric phosphoric acid-catalyzed synthesis
   of axially chiral compounds.
@@ -20,11 +23,9 @@ publisher_name: Beilstein-Institut
 keywords: allenes | atropisomerism | axial chirality | chiral phosphoric acid | heterobiaryls
   | spiranes
 automl_pathway: 0.5562931
-figid_alias: PMC8609246__SF25
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC8609246__SF25
+figid_alias: PMC8609246__S25
+figtype: Scheme
+redirect_from: /figures/PMC8609246__S25
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -47,13 +48,20 @@ schema-jsonld:
   - lush
   - Ir76a
   - ee
+  - cpa
   - mol
   - moi
   - mor
-  - cpa
   - Ir76b
   - hop
   - Stip1
   - Prosalpha7
   - Nph
+  - AR
+  - CPA1
+  - DUOXA1
+  - ST13
+  - STIP1
+  - HOPX
+  - CYP2A7
 ---

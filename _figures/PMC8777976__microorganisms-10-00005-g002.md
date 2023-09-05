@@ -5,6 +5,9 @@ figtitle: What Flips the Switch? Signals and Stress Regulating Extraintestinal P
 organisms:
 - Escherichia coli
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8777976
 filename: microorganisms-10-00005-g002.jpg
 figlink: /pmc/articles/PMC8777976/figure/microorganisms-10-00005-f002/
@@ -54,8 +57,6 @@ keywords: Escherichia coli | stress response | type 1 fimbriae | adhesion
 automl_pathway: 0.8733895
 figid_alias: PMC8777976__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8777976__F2
 ndex: ''
 seo: CreativeWork
@@ -103,6 +104,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CPSF4
+  - KATNB1
+  - F11R
+  - TSTD1
+  - GAD1
+  - GAD2
+  - IL1RN
+  - LNPEP
+  - RPSA
+  - LRP1
+  - PTPRA
+  - MVP
+  - CRP
+  - CSRP1
+  - PPIAP10
+  - CTNNBL1
+  - APRT
+  - MFAP1
   - katG
   - oxyR
   - katE
@@ -111,8 +130,8 @@ schema-jsonld:
   - soxS
   - iraP
   - rpoS
-  - sodB
   - sodA
+  - sodB
   - lrp
   - ilvH
   - cpxR

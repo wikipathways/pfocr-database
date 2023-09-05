@@ -3,6 +3,8 @@ figid: PMC2869521__cshperspect-NFK-000109_F3
 figtitle: Constitutive NFKB pathway activation in multiple myeloma
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2869521
 filename: cshperspect-NFK-000109_F3.jpg
 figlink: /pmc/articles/PMC2869521/figure/A000109F3/
@@ -40,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.8123336
 figid_alias: PMC2869521__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2869521__F3
 ndex: 16c3b8d5-df29-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -78,17 +78,17 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TNFRSF13B
-  - LTBR
   - CD40
-  - TRAF3
+  - LTBR
   - TRAF2
   - TANK
+  - TRAF3
+  - BIRC2
   - ALPI
   - ALPP
   - CD47
   - IAPP
   - MAGT1
-  - BIRC2
   - MAP3K14
   - MAP4K4
   - IKBKG

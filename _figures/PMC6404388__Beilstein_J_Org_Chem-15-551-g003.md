@@ -3,6 +3,8 @@ figid: PMC6404388__Beilstein_J_Org_Chem-15-551-g003
 figtitle: Two level 4 pathways that were recently realized in vitro
 organisms:
 - Escherichia coli
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6404388
 filename: Beilstein_J_Org_Chem-15-551-g003.jpg
 figlink: /pmc/articles/PMC6404388/figure/F2/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9377887
 figid_alias: PMC6404388__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6404388__F2
 ndex: ''
 seo: CreativeWork
@@ -42,6 +42,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ATP8A2
+  - WDTC1
+  - APRT
+  - MFAP1
+  - DECR1
+  - RPRD1B
   - Crotonyl-CoA
   - Formate
   - ATP

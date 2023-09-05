@@ -4,6 +4,10 @@ figtitle: 'Host’s Immunity and Candida Species Associated with Denture Stomati
   A Narrative Review'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC9323190
 filename: microorganisms-10-01437-g004.jpg
 figlink: /pmc/articles/PMC9323190/figure/microorganisms-10-01437-f004/
@@ -26,8 +30,6 @@ keywords: Candida spp. | dental plaque biofilm | denture-related Candida stomati
 automl_pathway: 0.7785708
 figid_alias: PMC9323190__F4
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC9323190__F4
 ndex: ''
 seo: CreativeWork
@@ -46,7 +48,50 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - cal
+  - Cam
+  - Low
+  - TH1
+  - Def
+  - kay
+  - JIL-1
+  - egr
+  - Amph
   - CAL
   - CA1
-  - TH1
+  - FBLIM1
+  - GOPC
+  - FAM20C
+  - NELFCD
+  - IL22
+  - CAMP
+  - ADSL
+  - FOS
+  - IL18
+  - IL1A
+  - IL1B
+  - CSF3
+  - TNF
+  - CXCL8
+  - IL37
+  - IL23A
+  - CXCL10
+  - CXCL11
+  - CXCL12
+  - CXCL13
+  - CXCL14
+  - CXCL9
+  - PF4
+  - CXCL1
+  - CXCL2
+  - CXCL3
+  - CXCL5
+  - CXCL6
+  - PPBP
+  - IL17A
+  - BPIFA4P
 ---

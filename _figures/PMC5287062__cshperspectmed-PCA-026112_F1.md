@@ -3,6 +3,9 @@ figid: PMC5287062__cshperspectmed-PCA-026112_F1
 figtitle: Cellular senescence
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5287062
 filename: cshperspectmed-PCA-026112_F1.jpg
 figlink: /pmc/articles/PMC5287062/figure/A026112F1/
@@ -29,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.921629
 figid_alias: PMC5287062__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5287062__F1
 ndex: 4dd41b77-df08-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -61,8 +61,8 @@ schema-jsonld:
   - Ras64B
   - Ras85D
   - Raf
-  - Pten
   - mid
+  - Pten
   - Nf1
   - tefu
   - Zdhhc8

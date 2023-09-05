@@ -4,6 +4,9 @@ figtitle: Biosynthesis pathways of acetyl-CoA and NAD cofactors, and their invol
   in chromatin-related processes
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5088527
 filename: cshperspect-EPI-019463_F2.jpg
 figlink: /pmc/articles/PMC5088527/figure/A019463F2/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8942335
 figid_alias: PMC5088527__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5088527__F2
 ndex: c7e1188b-df10-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,8 +56,8 @@ schema-jsonld:
   keywords:
   - CycE
   - cyc
-  - Sirt1
   - AcCoAS
+  - Sirt1
   - ATPCL
   - Coa
   - hat
@@ -68,9 +68,9 @@ schema-jsonld:
   - Parp
   - VIT
   - NAMPT
-  - SIRT1
   - ACSS2
   - ACSS1
+  - SIRT1
   - ACLY
   - STAC3
   - TMPRSS11D

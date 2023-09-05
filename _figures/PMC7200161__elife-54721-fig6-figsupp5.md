@@ -7,10 +7,15 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Armoracia rusticana
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC7200161
 filename: elife-54721-fig6-figsupp5.jpg
 figlink: pmc/articles/PMC7200161/figure/fig6s5/
-number: SF6_5
+number: F6
 caption: (1)  (2) ;  (3) ; ;  (4) ; ;  (5)  (6) ;  (7) Implied by this work (molecular
   mechanism unknown) (8) .
 papertitle: Control of brown adipose tissue adaptation to nutrient stress by the activin
@@ -23,13 +28,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9485436
-figid_alias: PMC7200161__SF6_5
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-redirect_from: /figures/PMC7200161__SF6_5
+figid_alias: PMC7200161__F6
+figtype: Figure
+redirect_from: /figures/PMC7200161__F6
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -57,4 +58,8 @@ schema-jsonld:
   - CEBPA
   - KLF15
   - PNPLA2
+  - Smox
+  - gr
+  - bmm
+  - aa
 ---

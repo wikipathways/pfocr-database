@@ -4,6 +4,8 @@ figtitle: Involvement of Oxidative Stress and the JNK Pathway in Glucose Toxicit
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC1783693
 filename: RevDiabeticStud-01-165-003.jpg
 figlink: /pmc/articles/PMC1783693/figure/F3/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8827739
 figid_alias: PMC1783693__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC1783693__F3
 ndex: ''
 seo: CreativeWork

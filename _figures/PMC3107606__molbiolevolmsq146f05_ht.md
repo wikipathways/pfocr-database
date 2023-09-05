@@ -6,6 +6,10 @@ organisms:
 - Drosophila melanogaster
 - Drosophila simulans
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Drosophila simulans
 pmcid: PMC3107606
 filename: molbiolevolmsq146f05_ht.jpg
 figlink: /pmc/articles/PMC3107606/figure/fig5/
@@ -26,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9559054
 figid_alias: PMC3107606__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3107606__F5
 ndex: ''
 seo: CreativeWork
@@ -87,4 +89,22 @@ schema-jsonld:
   - DptB
   - yellow-h
   - Tak1
+  - TLR4
+  - GTF2IRD1
+  - TUBE1
+  - IRAK1
+  - TNF
+  - ADSL
+  - DPT
+  - LOC6725683
+  - LOC6729781
+  - LOC6737167
+  - LOC6735112
+  - LOC6738586
+  - LOC6732838
+  - LOC6727877
+  - LOC6724795
+  - LOC6732606
+  - LOC6734529
+  - LOC6730204
 ---

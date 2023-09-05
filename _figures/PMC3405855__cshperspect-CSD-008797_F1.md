@@ -11,6 +11,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - unidentified
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
+- Xenopus laevis
 pmcid: PMC3405855
 filename: cshperspect-CSD-008797_F1.jpg
 figlink: /pmc/articles/PMC3405855/figure/A008797F1/
@@ -34,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.7126893
 figid_alias: PMC3405855__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3405855__F1
 ndex: 2db7285d-dee0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -59,9 +62,9 @@ schema-jsonld:
   keywords:
   - Diap2
   - Diap1
-  - hid
   - grim
   - rpr
+  - hid
   - Dark
   - Argk1
   - Dronc
@@ -69,8 +72,68 @@ schema-jsonld:
   - RpLP0
   - MED6
   - Decay
+  - Drice
   - Dcp-1
   - Cp1
   - DCP1
-  - Drice
+  - Akp3
+  - Iap1-3
+  - Cd47
+  - Magt1
+  - Soat1
+  - Diaph1
+  - Tnfrsf10b
+  - Apaf1
+  - Axl
+  - Rnf111
+  - Casp9
+  - Cdk5r1
+  - Il12a
+  - Upk3b
+  - Gchfr
+  - Casp3
+  - Dxcp1
+  - ALPI
+  - ALPP
+  - CD47
+  - IAPP
+  - MAGT1
+  - GJB2
+  - CASP1
+  - CASP2
+  - CASP4
+  - CASP5
+  - CASP6
+  - CASP8
+  - CASP9
+  - CASP10
+  - CASP12
+  - CASP14
+  - CASP3
+  - CASP7
+  - TNFRSF10B
+  - APAF1
+  - AXL
+  - RNF111
+  - FCN2
+  - GCHFR
+  - IL12A
+  - CDK5R1
+  - UPK3B
+  - ACE
+  - DCP1B
+  - diaph1.L
+  - diaph1.S
+  - tnfrsf10b.S
+  - tnfrsf10b.L
+  - apaf1.L
+  - casp9.S
+  - gchfr.L
+  - cdca5.L
+  - cdca5.S
+  - gchfr.S
+  - casp3.2.L
+  - dcp1a.S
+  - dcp1b.L
+  - dcp1b.S
 ---

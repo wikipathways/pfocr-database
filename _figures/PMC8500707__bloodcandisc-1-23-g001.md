@@ -3,6 +3,9 @@ figid: PMC8500707__bloodcandisc-1-23-g001
 figtitle: Genomic Landscape of HIV-Associated Plasmablastic Lymphoma
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8500707
 filename: bloodcandisc-1-23-g001.jpg
 figlink: /pmc/articles/PMC8500707/figure/fig1/
@@ -27,8 +30,6 @@ keywords: ''
 automl_pathway: 0.962606
 figid_alias: PMC8500707__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8500707__F1
 ndex: ''
 seo: CreativeWork
@@ -51,11 +52,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Stat92E
+  - hop
+  - bsk
+  - Myc
+  - Lg
+  - MKP-4
+  - p38b
+  - rl
+  - ras
+  - Ras64B
+  - Ras85D
+  - .na.character
+  - pbl
+  - Tie
+  - InR
   - CD44
-  - JAK1
-  - JAK2
-  - JAK3
-  - TYK2
   - SOAT1
   - STAT1
   - STAT2
@@ -64,6 +76,10 @@ schema-jsonld:
   - STAT6
   - STAT5A
   - STAT5B
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
   - MYC
   - NOTCH1
   - MAPK1
@@ -88,7 +104,6 @@ schema-jsonld:
   - H1-7
   - H1-8
   - H1-10
-  - .na.character
   - H2AB1
   - H2AJ
   - H2AZ2

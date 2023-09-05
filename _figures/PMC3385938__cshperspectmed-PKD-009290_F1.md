@@ -4,6 +4,9 @@ figtitle: The plasma proteins that regulate ionic gradients following neurotrans
   release or during the time course of an action potential spike
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3385938
 filename: cshperspectmed-PKD-009290_F1.jpg
 figlink: /pmc/articles/PMC3385938/figure/A009290F1/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9133309
 figid_alias: PMC3385938__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3385938__F1
 ndex: 492431de-de9a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -85,11 +86,34 @@ schema-jsonld:
   - GluRIIA
   - mGluR
   - adp
-  - RyR
   - Itpr
+  - RyR
   - CBP
   - nej
   - eIF4E1
   - SERCA
+  - LONP1
+  - BRD2
+  - CA5A
+  - CAV2
+  - CAV1
+  - CAV3
+  - TLX2
+  - DNAH8
+  - ATP8A2
+  - WDTC1
+  - ITPR1
+  - ITPR3
+  - RYR1
+  - RYR2
+  - RYR3
+  - CREBBP
+  - EIF4E
+  - OPN1LW
+  - PAG1
+  - PCBP4
+  - ATP2A1
+  - ATP2A2
+  - ATP2A3
   - Glu
 ---

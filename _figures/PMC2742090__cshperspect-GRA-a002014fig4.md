@@ -4,6 +4,8 @@ figtitle: Negative feedback loops in the SHH signaling pathway driven by SHH-bin
   proteins
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2742090
 filename: cshperspect-GRA-a002014fig4.jpg
 figlink: /pmc/articles/PMC2742090/figure/A002014F4/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.8777828
 figid_alias: PMC2742090__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2742090__F4
 ndex: ''
 seo: CreativeWork

@@ -5,10 +5,13 @@ organisms:
 - Homo sapiens
 - Armoracia rusticana
 - Vibrio cholerae
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9005190
 filename: elife-74101-fig3-figsupp1.jpg
 figlink: /pmc/articles/PMC9005190/figure/fig3s1/
-number: F3
+number: SF3_1
 caption: Emax values derived from concentration-response curves generated on 100 receptors
   using the 15 ebBRET-based assay are represented as radial graphs. A score of 0 indicates
   no coupling to a given pathway, whereas a score of 1 indicates a coupling. Receptors
@@ -28,11 +31,9 @@ keywords: g protein-coupled receptor | enhanced bystander bioluminescence resona
   energy transfer | effector membrane translocation assay | biosensor | G protein
   activation | high-throughput assay | Human
 automl_pathway: 0.5867319
-figid_alias: PMC9005190__F3
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC9005190__F3
+figid_alias: PMC9005190__SF3_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC9005190__SF3_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -91,4 +92,62 @@ schema-jsonld:
   - KCNJ5
   - CIR1
   - VIM2P
+  - ag
+  - ww
+  - cha
+  - ChAT
+  - dep
+  - DptA
+  - dve
+  - gru
+  - gg
+  - Ggamma1
+  - Ggamma30A
+  - sif
+  - SIFa
+  - crb
+  - Fs(3)Far
+  - Cam
+  - na
+  - sht
+  - Mhc
+  - clt
+  - wal
+  - hyd
+  - shi
+  - spi
+  - por
+  - mar
+  - Fas2
+  - FASN1
+  - Fas3
+  - fand
+  - tei
+  - rg
+  - FASN2
+  - FASN3
+  - pr
+  - ca
+  - gm
+  - skd
+  - par
+  - para
+  - par-6
+  - E(spl)malpha-BFM
+  - da
+  - nAChRalpha2
+  - Galt
+  - beta4GalT7
+  - phm
+  - bw
+  - chr
+  - Chro
+  - RabX1
+  - Cpr
+  - COM
+  - comt
+  - compressed
+  - lncRNA:flam
+  - Cir
+  - ci
 ---

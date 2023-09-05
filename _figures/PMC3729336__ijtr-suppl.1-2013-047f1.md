@@ -8,6 +8,13 @@ organisms:
 - Homo sapiens
 - Oryctolagus cuniculus
 - Enterovirus C
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Cavia porcellus
+- Oryctolagus cuniculus
+- Drosophila melanogaster
 pmcid: PMC3729336
 filename: ijtr-suppl.1-2013-047f1.jpg
 figlink: /pmc/articles/PMC3729336/figure/f1-ijtr-suppl.1-2013-047/
@@ -38,12 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9224739
 figid_alias: PMC3729336__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Cavia porcellus
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC3729336__F1
 ndex: ''
 seo: CreativeWork
@@ -79,10 +80,9 @@ schema-jsonld:
   - Nek1
   - Katnb1
   - Tstd1
-  - Kyat1
   - H2-Aa
-  - .na.character
   - Kmo
+  - .na.character
   - Haao
   - IDO2
   - IDO1
@@ -92,8 +92,15 @@ schema-jsonld:
   - KATNB1
   - F11R
   - TSTD1
-  - KYAT1
   - KMO
   - HAAO
   - Th
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Gcn5
+  - aa
+  - cn
+  - Low
 ---

@@ -3,6 +3,8 @@ figid: PMC5495050__cshperspectmed-CCH-026674_F3
 figtitle: BRD4 pathway in acute myeloid leukemia (AML) cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5495050
 filename: cshperspectmed-CCH-026674_F3.jpg
 figlink: /pmc/articles/PMC5495050/figure/A026674F3/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.7967747
 figid_alias: PMC5495050__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5495050__F3
 ndex: bc730945-df29-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,8 +52,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CHD8
-  - NSD3
   - DNER
+  - NSD3
   - BRD4
   - EP300
   - TEF

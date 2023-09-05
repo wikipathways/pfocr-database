@@ -3,6 +3,9 @@ figid: PMC5597136__bioengineering-03-00012-g004
 figtitle: Known and recovered GRN for cell cycle pathway in yeast Saccharomyces cerevisiae
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC5597136
 filename: bioengineering-03-00012-g004.jpg
 figlink: /pmc/articles/PMC5597136/figure/bioengineering-03-00012-f004/
@@ -29,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9346157
 figid_alias: PMC5597136__F4
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC5597136__F4
 ndex: ''
 seo: CreativeWork

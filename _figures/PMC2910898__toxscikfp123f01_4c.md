@@ -4,6 +4,8 @@ figtitle: During normoxia, HIF-1A is rapidly degraded by the ubiquitin-proteasom
   pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2910898
 filename: toxscikfp123f01_4c.jpg
 figlink: /pmc/articles/PMC2910898/figure/fig1/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9594027
 figid_alias: PMC2910898__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2910898__F1
 ndex: 38617403-dee1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,10 +55,10 @@ schema-jsonld:
   - HIF1A
   - ARNT
   - MIA3
-  - LDHA
   - EPO
   - TIMP1
   - EPX
+  - LDHA
   - VEGFA
   - VEGFB
   - VEGFC

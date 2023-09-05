@@ -3,6 +3,9 @@ figid: PMC3367558__cshperspect-WNT-008045_F2
 figtitle: Wnt signaling at vertebrate neuromuscular junctions
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3367558
 filename: cshperspect-WNT-008045_F2.jpg
 figlink: /pmc/articles/PMC3367558/figure/A008045F2/
@@ -27,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.97509
 figid_alias: PMC3367558__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC3367558__F2
 ndex: 41c1b663-dec1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -94,9 +94,9 @@ schema-jsonld:
   - LRP1
   - PTPRA
   - MVP
+  - wnt11
   - wnt3
   - wnt3a
-  - wnt11
   - rac1a
   - apc
   - rapsn

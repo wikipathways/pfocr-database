@@ -4,10 +4,12 @@ figtitle: Proposal of the fragmentation pathway of the Cu(II) complex with compo
   7
 organisms:
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7934800
 filename: Beilstein_J_Org_Chem-17-558-g011.jpg
 figlink: pmc/articles/PMC7934800/figure/C3/
-number: S3
+number: SF3
 caption: The proposal of the fragmentation pathway of the Cu(II) complex with compound
   7.
 papertitle: 'Amino- and polyaminophthalazin-1(2H)-ones: synthesis, coordination properties,
@@ -20,11 +22,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8696028
-figid_alias: PMC7934800__S3
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC7934800__S3
+figid_alias: PMC7934800__SF3
+figtype: Supplemental figure
+redirect_from: /figures/PMC7934800__SF3
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -39,6 +39,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - da
+  - nAChRalpha2
+  - cu
+  - ct
   - Cu
   - MeO
   - H2C

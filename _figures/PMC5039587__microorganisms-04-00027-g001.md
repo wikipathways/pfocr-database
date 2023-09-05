@@ -4,6 +4,8 @@ figtitle: Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal ep
   (PIE) cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5039587
 filename: microorganisms-04-00027-g001.jpg
 figlink: /pmc/articles/PMC5039587/figure/microorganisms-04-00027-f001/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9497305
 figid_alias: PMC5039587__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5039587__F1
 ndex: db725bf8-def5-11ea-99da-0ac135e8bacf
 seo: CreativeWork

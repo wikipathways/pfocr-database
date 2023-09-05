@@ -3,6 +3,8 @@ figid: PMC4979518__cddiscovery201516-f6a
 figtitle: mTORC2 controls cancer cell survival by modulating gluconeogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979518
 filename: cddiscovery201516-f6a.jpg
 figlink: /pmc/articles/PMC149053/figure/fig7/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9065909
 figid_alias: PMC4979518__F6a
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979518__F6a
 ndex: 2b647026-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -115,8 +115,6 @@ schema-jsonld:
   - CDK2
   - CHUK
   - SGK1
-  - HCC
-  - HYCC1
   - RHEB
   - RHEBP1
   - XRCC1

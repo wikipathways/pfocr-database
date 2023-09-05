@@ -3,6 +3,9 @@ figid: PMC7565899__mSphere.00973-20-f0007
 figtitle: MAPK signaling cross talk in response to antifungal drugs in C
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC7565899
 filename: mSphere.00973-20-f0007.jpg
 figlink: pmc/articles/PMC7565899/figure/fig7/
@@ -35,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9458335
 figid_alias: PMC7565899__F7
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC7565899__F7
 ndex: ''
 seo: CreativeWork
@@ -77,8 +78,24 @@ schema-jsonld:
   - BCK1
   - PBS2
   - MKK2
-  - WSC2
   - SLG1
+  - WSC2
   - SPT2
   - SHO1
+  - BUB1B
+  - MAP2K2
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - CSE1L
+  - CTNND1
+  - BCAR1
+  - TMX2-CTNND1
+  - MAPKAP1
 ---

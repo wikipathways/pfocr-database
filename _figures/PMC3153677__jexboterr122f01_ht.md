@@ -5,6 +5,8 @@ figtitle: Proposed biosynthetic pathways of L-ascorbic acid in animals (reaction
   are shown
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3153677
 filename: jexboterr122f01_ht.jpg
 figlink: /pmc/articles/PMC3153677/figure/fig1/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9248472
 figid_alias: PMC3153677__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3153677__F1
 ndex: ''
 seo: CreativeWork

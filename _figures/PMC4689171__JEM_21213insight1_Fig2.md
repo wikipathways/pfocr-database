@@ -4,6 +4,9 @@ figtitle: IRAK4 inhibition to shut down TLR signaling in autoimmunity and MyD88-
   lymphomas
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4689171
 filename: JEM_21213insight1_Fig2.jpg
 figlink: /pmc/articles/PMC4689171/figure/fig2/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9499151
 figid_alias: PMC4689171__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC4689171__F2
 ndex: c50ac5fb-def6-11ea-99da-0ac135e8bacf
 seo: CreativeWork

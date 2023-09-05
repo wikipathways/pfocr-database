@@ -20,10 +20,14 @@ organisms:
 - synthetic construct
 - Bos taurus
 - Homo sapiens
+organisms_ner:
+- Clostridioides difficile
+- Bacillus subtilis subsp. subtilis str. 168
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6478431
 filename: elife-45210-fig2-figsupp1.jpg
 figlink: /pmc/articles/PMC6478431/figure/fig2s1/
-number: SF2_1
+number: F2
 caption: (A) Schematic representation of the expected metabolic activities of the
   pyrimidine and thiazole pathways for TPP biosynthesis in rich (LB, left) and minimal
   (GMM, right) media. Solid green lines indicate pathways with flux, whereas dashed
@@ -43,13 +47,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9089671
-figid_alias: PMC6478431__SF2_1
-figtype: Supplemental figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-- Clostridioides difficile
-- Bacillus subtilis subsp. subtilis str. 168
-redirect_from: /figures/PMC6478431__SF2_1
+figid_alias: PMC6478431__F2
+figtype: Figure
+redirect_from: /figures/PMC6478431__F2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -71,12 +71,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - thiD
+  - thiE
+  - thiS
   - aer
   - gmm
   - deoA
-  - thiS
-  - thiD
-  - thiE
   - Thiazole
   - Cysteine
   - HMP-PP

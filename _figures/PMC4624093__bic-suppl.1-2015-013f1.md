@@ -3,6 +3,9 @@ figid: PMC4624093__bic-suppl.1-2015-013f1
 figtitle: Biomarkers of Angiogenesis in Colorectal Cancer
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4624093
 filename: bic-suppl.1-2015-013f1.jpg
 figlink: /pmc/articles/PMC4624093/figure/f1-bic-suppl.1-2015-013/
@@ -23,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.722525
 figid_alias: PMC4624093__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4624093__F1
 ndex: 29314a18-de99-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,8 +55,8 @@ schema-jsonld:
   - btl
   - htl
   - Np
-  - Erk7
   - rl
+  - Erk7
   - Pi3K21B
   - Pi3K59F
   - Pi3K68D
@@ -64,11 +64,11 @@ schema-jsonld:
   - Src42A
   - Csk
   - Src64B
+  - Fak
   - Smox
   - Mad
   - MKP-4
   - p38b
-  - Fak
   - norpA
   - sl
   - Plc21C
@@ -78,13 +78,13 @@ schema-jsonld:
   - VEGFC
   - PIGF
   - PGF
-  - VEGFB
   - PDGFA
   - PDGFB
   - PDGFC
   - PDGFD
-  - VEGFA
+  - VEGFB
   - VEGFD
+  - VEGFA
   - FGF1
   - FGF2
   - FGF3
@@ -112,18 +112,18 @@ schema-jsonld:
   - CCDC26
   - PDGFRB
   - PDGFRA
-  - KDR
   - FGFR1
   - FGFR2
   - FGFR3
   - FGFR4
   - FGFRL1
-  - TEK
-  - FLT4
   - FLT1
-  - EPHB2
-  - MAPK1
+  - KDR
+  - FLT4
+  - TEK
   - MAPK3
+  - MAPK1
+  - EPHB2
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -138,6 +138,7 @@ schema-jsonld:
   - FGR
   - FYN
   - YES1
+  - PTK2
   - SMAD1
   - SMAD4
   - SMAD5
@@ -153,7 +154,6 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
-  - PTK2
   - HSPG2
   - PLCE1
   - PLCZ1

@@ -10,6 +10,11 @@ organisms:
 - Mus musculus
 - Escherichia coli BL21
 - murine stem cell retroviral vector
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC8664259
 filename: sciadv.abi5751-f7.jpg
 figlink: /pmc/articles/PMC8664259/figure/F7/
@@ -33,10 +38,6 @@ keywords: ''
 automl_pathway: 0.8717841
 figid_alias: PMC8664259__F7
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC8664259__F7
 ndex: ''
 seo: CreativeWork
@@ -57,15 +58,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Brd4
-  - Taf7
-  - Taf1
-  - Nes
-  - Gtf2h3
-  - Mela
-  - Gm42368
-  - Tef
-  - te
   - CTD
   - BRD4
   - TAF7
@@ -80,6 +72,33 @@ schema-jsonld:
   - GTF2H5
   - ERVW-4
   - TEF
-  - ARN2
-  - POL2
+  - Brd4
+  - Taf7
+  - Taf1
+  - Nes
+  - Gtf2h3
+  - Mela
+  - Gm42368
+  - Tef
+  - te
+  - Polr2A
+  - fs(1)h
+  - Taf11
+  - nes
+  - hay
+  - Polr2C
+  - Polr2B
+  - Polr2I
+  - Polr2F
+  - Prim1
+  - PolA1
+  - PolA2
+  - sv
+  - Prim2
+  - svr
+  - Cdk9
+  - brd4
+  - taf7
+  - taf1
+  - tefa
 ---

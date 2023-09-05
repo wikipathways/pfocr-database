@@ -3,6 +3,9 @@ figid: PMC2675653__carcinbgp058f01_lw
 figtitle: CART analysis of NER pathway and esophageal cancer risk
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2675653
 filename: carcinbgp058f01_lw.jpg
 figlink: /pmc/articles/PMC2675653/figure/fig1/
@@ -25,10 +28,6 @@ keywords: .na.character
 automl_pathway: 0.5111392
 figid_alias: PMC2675653__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
-- Danio rerio
 redirect_from: /figures/PMC2675653__F1
 ndex: ''
 seo: CreativeWork
@@ -57,12 +56,6 @@ schema-jsonld:
   - ALYREF
   - ERCC1
   - OR10J5
-  - Xpac
-  - ww
-  - mus201
-  - ref(2)P
-  - rfr
-  - Ercc1
   - xpa
   - ercc6
   - ercc1

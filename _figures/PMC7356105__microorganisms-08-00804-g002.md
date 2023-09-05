@@ -5,6 +5,8 @@ figtitle: Illustration depicts the localization of the gene products by cellular
   effect of vitamin E formulation treatment on heat killed C
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7356105
 filename: microorganisms-08-00804-g002.jpg
 figlink: pmc/articles/PMC7356105/figure/microorganisms-08-00804-f002/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.7979636
 figid_alias: PMC7356105__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7356105__F2
 ndex: ''
 seo: CreativeWork
@@ -56,8 +56,8 @@ schema-jsonld:
   - NGF
   - TGFA
   - CD40LG
-  - TNFSF13B
   - LTA
+  - TNFSF13B
   - IL1R1
   - TLR1
   - TLR2

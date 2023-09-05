@@ -6,6 +6,10 @@ organisms:
 - Mus musculus
 - Danio rerio
 - Paracentrotus lividus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC5495058
 filename: cshperspect-CIL-028225_F2.jpg
 figlink: /pmc/articles/PMC5495058/figure/A028225F2/
@@ -38,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.5791821
 figid_alias: PMC5495058__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5495058__F2
 ndex: 767da899-dea8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -111,4 +113,26 @@ schema-jsonld:
   - CATSPERB
   - CATSPERD
   - CATSPERG
+  - sea
+  - Seao
+  - Gc
+  - Tcf23
+  - Adcy10
+  - Wdtc1
+  - Mdga2
+  - Nt5c2
+  - Twist1
+  - Catsper1
+  - ca
+  - na
+  - out
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - aph-1
+  - Alp1
+  - Acph-1
+  - Pkg21D
+  - fliF
+  - dnc
 ---

@@ -3,6 +3,9 @@ figid: PMC8540846__pharmaceuticals-14-01008-g001
 figtitle: Molecular Targets and Promising Therapeutics of Triple-Negative Breast Cancer
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8540846
 filename: pharmaceuticals-14-01008-g001.jpg
 figlink: /pmc/articles/PMC8540846/figure/pharmaceuticals-14-01008-f001/
@@ -41,8 +44,6 @@ keywords: triple-negative breast cancer | heterogeneity | molecular target | new
 automl_pathway: 0.9547716
 figid_alias: PMC8540846__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8540846__F1
 ndex: ''
 seo: CreativeWork
@@ -174,8 +175,8 @@ schema-jsonld:
   - VEGFB
   - VEGFC
   - VEGFD
-  - EGFR
   - IGF1R
+  - EGFR
   - KRAS
   - HRAS
   - NRAS
@@ -195,4 +196,28 @@ schema-jsonld:
   - AZIN2
   - GADL1
   - AR
+  - Tcr
+  - Parp
+  - Akt
+  - Pten
+  - Mtor
+  - Tor
+  - Brca2
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Egfr
+  - Fs(3)Dam
+  - salt
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - .na.character
+  - ar
 ---

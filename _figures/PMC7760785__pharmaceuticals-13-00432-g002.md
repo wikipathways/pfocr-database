@@ -11,6 +11,11 @@ organisms:
 - Hepatitis B virus
 - Adenoviridae
 - Homo sapiens
+organisms_ner:
+- Rattus norvegicus
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7760785
 filename: pharmaceuticals-13-00432-g002.jpg
 figlink: pmc/articles/PMC7760785/figure/pharmaceuticals-13-00432-f002/
@@ -52,11 +57,6 @@ keywords: .na.character
 automl_pathway: 0.9511451
 figid_alias: PMC7760785__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Mus musculus
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC7760785__F2
 ndex: ''
 seo: CreativeWork
@@ -99,8 +99,8 @@ schema-jsonld:
   - Wnt2
   - Wnt3
   - Igf1
-  - Egf
   - Vegfa
+  - Egf
   - Tnf
   - Pik3cg
   - Apc
@@ -115,10 +115,9 @@ schema-jsonld:
   - Mapk8
   - Tp53
   - Akt1
-  - Prkaa2
   - Atg7
+  - Prkaa2
   - Ulk1
-  - Map2k1
   - Tsc2
   - Tsc1
   - Jun
@@ -131,6 +130,19 @@ schema-jsonld:
   - Bcl2
   - Becn1
   - Bnip3
+  - Pik3r1
+  - ras
+  - Hras
+  - Kras
+  - Rem1
+  - Crk
+  - Grap2
+  - Syp
+  - Ahsa1
+  - Pdpk1
+  - Zhx2
+  - Trp53
+  - Rptor
   - WNT1
   - WNT2
   - WNT2B
@@ -253,12 +265,12 @@ schema-jsonld:
   - BRAF
   - RAF1
   - GSK3B
+  - NFKBIA
   - NFKB1
   - RELA
   - RELB
   - REL
   - NFKB2
-  - NFKBIA
   - MAPK8
   - MAPK9
   - MAPK10
@@ -268,6 +280,7 @@ schema-jsonld:
   - AKT1
   - AKT2
   - AKT3
+  - ATG7
   - PRKAA1
   - PRKAA2
   - PRKAB1
@@ -275,10 +288,7 @@ schema-jsonld:
   - PRKAG1
   - PRKAG2
   - PRKAG3
-  - ATG7
   - ULK1
-  - MAP2K1
-  - MAP2K2
   - TSC2
   - TSC1
   - CCL26
@@ -299,25 +309,61 @@ schema-jsonld:
   - BECN1
   - BNIP3
   - HSPA9
-  - Pik3r1
-  - ras
-  - Hras
-  - Kras
-  - Rem1
-  - Crk
-  - Grap2
-  - Syp
-  - Ahsa1
-  - Pdpk1
-  - Zhx2
-  - Trp53
-  - Map2k2
-  - Rptor
-  - PIP2
-  - MEC3
-  - MEK1
-  - LCB1
-  - LCB2
+  - Wnt5
+  - Wnt4
+  - wg
+  - fz
+  - Pvf1
+  - Pvf2
+  - Pvf3
+  - Pvr
+  - Egfr
+  - egr
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Apc2
+  - Axn
+  - Fs(3)Apc
+  - Ras64B
+  - Ras85D
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - Lkb1
+  - aurA
+  - Raf
+  - sgg
+  - gskt
+  - Dif
+  - dl
+  - Rel
+  - bsk
+  - p53
+  - betaTub60D
+  - hth
+  - Akt
+  - SNF4Agamma
+  - AMPKalpha
+  - Atg1
+  - gig
+  - Jra
+  - rl
+  - CG4025
+  - Crtc
+  - raptor
+  - Tor
+  - Debcl
+  - Atg6
+  - neb
   - Glucose
   - glucose
 ---

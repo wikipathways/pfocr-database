@@ -3,6 +3,9 @@ figid: PMC2504344__jexbotern157f02_ht
 figtitle: The central metabolic pathway of Synechocystis sp
 organisms:
 - Synechocystis sp. PCC 6803
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
 pmcid: PMC2504344
 filename: jexbotern157f02_ht.jpg
 figlink: /pmc/articles/PMC2504344/figure/fig2/
@@ -23,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9620865
 figid_alias: PMC2504344__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2504344__F2
 ndex: ''
 seo: CreativeWork
@@ -41,6 +42,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GluClalpha
+  - betaGlu
+  - G6P
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - CycE
+  - cyc
+  - fbp
+  - Aldh-III
+  - Pep
+  - bgcn
+  - GLC
+  - FBP
+  - PEP
+  - PAS2
   - Fumarate
   - Isocitrate
   - Pentose phosphate

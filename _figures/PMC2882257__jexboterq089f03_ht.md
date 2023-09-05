@@ -23,6 +23,9 @@ organisms:
 - Serendipita vermifera
 - Pseudomonas syringae
 - Leptospira kmetyi
+organisms_ner:
+- Solanum lycopersicum
+- Zea mays
 pmcid: PMC2882257
 filename: jexboterq089f03_ht.jpg
 figlink: /pmc/articles/PMC2882257/figure/fig3/
@@ -50,9 +53,6 @@ keywords: .na.character
 automl_pathway: 0.9283642
 figid_alias: PMC2882257__F3
 figtype: Figure
-organisms_ner:
-- Solanum lycopersicum
-- Zea mays
 redirect_from: /figures/PMC2882257__F3
 ndex: ''
 seo: CreativeWork

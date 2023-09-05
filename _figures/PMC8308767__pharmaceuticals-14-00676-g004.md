@@ -4,6 +4,8 @@ figtitle: 'Phytomedicines Targeting Cancer Stem Cells: Therapeutic Opportunities
   Prospects for Pharmaceutical Development'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8308767
 filename: pharmaceuticals-14-00676-g004.jpg
 figlink: /pmc/articles/PMC8308767/figure/pharmaceuticals-14-00676-f004/
@@ -27,8 +29,6 @@ keywords: phytomedicines | phytochemicals | stem cells | signaling pathway | epi
 automl_pathway: 0.9504643
 figid_alias: PMC8308767__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8308767__F4
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,8 @@ figid: PMC3367549__cshperspect-MDV-008151_F3
 figtitle: Sonic hedgehog (SHH) signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3367549
 filename: cshperspect-MDV-008151_F3.jpg
 figlink: /pmc/articles/PMC3367549/figure/A008151F3/
@@ -37,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.90849
 figid_alias: PMC3367549__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3367549__F3
 ndex: 3f3f1204-df10-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -80,7 +80,6 @@ schema-jsonld:
   - GLI3
   - PTCH1
   - GAS1
-  - RAB23
   - PRKAR1A
   - PRKAR1B
   - PRKAR2A
@@ -88,6 +87,7 @@ schema-jsonld:
   - PRKACA
   - PRKACB
   - PRKACG
+  - RAB23
   - BOC
   - CDON
   - KIF7

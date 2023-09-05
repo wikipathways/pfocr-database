@@ -3,6 +3,8 @@ figid: PMC2861803__fig2a_REVWeinshenker
 figtitle: Disulfiram inhibition of the norepinephrine (NE) biosynthetic pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2861803
 filename: fig2a_REVWeinshenker.jpg
 figlink: /pmc/articles/PMC2861803/figure/f30090175/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9489237
 figid_alias: PMC2861803__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2861803__F3
 ndex: bce386fb-dea1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -46,6 +46,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Ne
+  - Adh
+  - Ddc
+  - Aldh
+  - Aldh-III
+  - Tbh
   - Acetaldehyde
   - Acetate
   - Ethanol

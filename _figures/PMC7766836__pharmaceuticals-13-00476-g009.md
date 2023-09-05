@@ -3,6 +3,8 @@ figid: PMC7766836__pharmaceuticals-13-00476-g009
 figtitle: Inhibition of Bcl-2 protein in MDA-MB-231 cells by C
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7766836
 filename: pharmaceuticals-13-00476-g009.jpg
 figlink: pmc/articles/PMC7766836/figure/pharmaceuticals-13-00476-f009/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9650207
 figid_alias: PMC7766836__F9
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7766836__F9
 ndex: ''
 seo: CreativeWork

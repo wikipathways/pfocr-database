@@ -4,6 +4,8 @@ figtitle: Scheme for PHB synthesis pathway including responsible enzymes based o
   RAST server annotations of B
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7926669
 filename: microorganisms-09-00462-g006.jpg
 figlink: pmc/articles/PMC7926669/figure/microorganisms-09-00462-f006/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8263677
 figid_alias: PMC7926669__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7926669__F6
 ndex: ''
 seo: CreativeWork

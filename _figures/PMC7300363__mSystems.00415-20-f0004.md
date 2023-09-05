@@ -22,6 +22,9 @@ organisms:
 - Homo sapiens
 - Amomum maximum
 - Tharsalea heteronea
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7300363
 filename: mSystems.00415-20-f0004.jpg
 figlink: pmc/articles/PMC7300363/figure/fig4/
@@ -51,8 +54,6 @@ keywords: .na.character
 automl_pathway: 0.9296187
 figid_alias: PMC7300363__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7300363__F4
 ndex: ''
 seo: CreativeWork
@@ -79,6 +80,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - FGD1
+  - WDTC1
+  - SARDH
+  - SDHB
+  - SORD
+  - SDS
+  - ETFDH
+  - dh
+  - EcR
+  - adp
+  - LKRSDH
+  - SdhB
+  - SdhA
+  - Sodh-2
+  - SdhC
+  - Etf-QO
   - Sugars
   - Glycerol
   - Lactones

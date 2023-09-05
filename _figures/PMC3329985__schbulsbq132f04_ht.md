@@ -4,6 +4,8 @@ figtitle: Top Networks Associated With MK-801 Treatment Identified by Ingenuity 
   Analysis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3329985
 filename: schbulsbq132f04_ht.jpg
 figlink: /pmc/articles/PMC3329985/figure/fig4/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.7642141
 figid_alias: PMC3329985__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3329985__F4
 ndex: add773d0-df2a-11ea-99da-0ac135e8bacf
 seo: CreativeWork

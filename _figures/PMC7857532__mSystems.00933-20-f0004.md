@@ -3,6 +3,8 @@ figid: PMC7857532__mSystems.00933-20-f0004
 figtitle: STRING output and targeted pathway analyses
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7857532
 filename: mSystems.00933-20-f0004.jpg
 figlink: pmc/articles/PMC7857532/figure/fig4/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.5235897
 figid_alias: PMC7857532__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7857532__F4
 ndex: ''
 seo: CreativeWork

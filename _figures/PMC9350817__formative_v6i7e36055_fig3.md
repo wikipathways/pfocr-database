@@ -4,6 +4,9 @@ figtitle: 'An Urban Population Health Observatory for Disease Causal Pathway Ana
   and Decision Support: Underlying Explainable Artificial Intelligence Model'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9350817
 filename: formative_v6i7e36055_fig3.jpg
 figlink: /pmc/articles/PMC9350817/figure/figure3/
@@ -29,8 +32,6 @@ keywords: health surveillance system | explainable AI | decision support | machi
 automl_pathway: 0.7950243
 figid_alias: PMC9350817__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9350817__F3
 ndex: ''
 seo: CreativeWork
@@ -61,4 +62,11 @@ schema-jsonld:
   - SA
   - sa
   - sens
+  - COPE
+  - AMACR
+  - HAS1
+  - ANXA13
+  - GJB2
+  - UBA2
+  - H1-0
 ---

@@ -6,6 +6,11 @@ organisms:
 - Xenopus laevis
 - Homo sapiens
 - Magnolia officinalis
+organisms_ner:
+- Homo sapiens
+- Danio rerio
+- Xenopus laevis
+- Drosophila melanogaster
 pmcid: PMC4218690
 filename: cin-suppl.5-2014-001f1.jpg
 figlink: /pmc/articles/PMC4218690/figure/f1-cin-suppl.5-2014-001/
@@ -33,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.8477215
 figid_alias: PMC4218690__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4218690__F1
 ndex: 55cf2fb7-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -91,6 +94,44 @@ schema-jsonld:
   - TP53
   - TP63
   - TP73
+  - cdk1
+  - myca
+  - mycbp2
+  - baxa
+  - rab1ab
+  - mdm2
+  - tp53
+  - notch1.S
+  - notch1.L
+  - cdk1.L
+  - myc.S
+  - myc.L
+  - bax.S
+  - coa8.L
+  - ras
+  - mdm2.S
+  - znrd2.S
+  - znrd2.L
+  - tp53.L
+  - tp53.S
+  - .na.character
+  - Oct-TyrR
+  - Cdk1
+  - Myc
+  - Jag
+  - spn-E
+  - E(spl)m8-HLH
+  - 'Off'
+  - 'On'
+  - Akt
+  - Ras64B
+  - Ras85D
+  - DCTN6-p27
+  - dap
+  - CG9588
+  - p53
+  - betaTub60D
+  - hth
   - Honokiol
   - Cancer
 ---

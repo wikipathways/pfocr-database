@@ -4,6 +4,8 @@ figtitle: Bone morphogenetic protein (BMP) pathway and potential strategies for 
   modulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5880173
 filename: cshperspect-TGF-022327_F1.jpg
 figlink: pmc/articles/PMC5880173/figure/A022327F1/
@@ -41,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.7192767
 figid_alias: PMC5880173__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5880173__F1
 ndex: ''
 seo: CreativeWork
@@ -91,9 +91,6 @@ schema-jsonld:
   - MAPK11
   - MAPK12
   - MAPK13
-  - MAPK8
-  - MAPK9
-  - MAPK10
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -104,6 +101,9 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - MAPK8
+  - MAPK9
+  - MAPK10
   - AKT1
   - AKT2
   - AKT3
@@ -129,9 +129,9 @@ schema-jsonld:
   - ACVR1
   - BMPR1A
   - BMPR2
-  - SMAD9
   - SMAD5
   - SMAD1
   - GARS1
+  - SMAD9
   - SMAD4
 ---

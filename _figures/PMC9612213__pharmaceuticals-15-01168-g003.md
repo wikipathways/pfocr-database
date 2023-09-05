@@ -3,6 +3,8 @@ figid: PMC9612213__pharmaceuticals-15-01168-g003
 figtitle: Molecular Mechanisms of Inflammasome in Ischemic Stroke Pathogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9612213
 filename: pharmaceuticals-15-01168-g003.jpg
 figlink: /pmc/articles/PMC9612213/figure/pharmaceuticals-15-01168-f003/
@@ -25,8 +27,6 @@ keywords: ischemic stroke | neuroinflammation | NLRP3 inflammasome | NLRP1 infla
 automl_pathway: 0.9550458
 figid_alias: PMC9612213__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9612213__F3
 ndex: ''
 seo: CreativeWork

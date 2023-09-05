@@ -3,6 +3,8 @@ figid: PMC3245482__jexboterr302f01_3c
 figtitle: Carotenoid biosynthetic pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3245482
 filename: jexboterr302f01_3c.jpg
 figlink: /pmc/articles/PMC3245482/figure/fig1/
@@ -20,9 +22,6 @@ keywords: .na.character
 automl_pathway: 0.7922664
 figid_alias: PMC3245482__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3245482__F1
 ndex: ''
 seo: CreativeWork
@@ -47,9 +46,6 @@ schema-jsonld:
   - step
   - form3
   - Ccs
-  - IPP
-  - PTPN5
-  - CCS
   - Violaxanthin
   - Capsanthin
   - Antheraxanthin

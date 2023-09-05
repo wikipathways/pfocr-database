@@ -4,6 +4,10 @@ figtitle: Diagrammatic summary of the dinoflagellate orthologues predicted in th
   nucleotide excision repair pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC6680887
 filename: microorganisms-07-00191-g004.jpg
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f004/
@@ -23,9 +27,6 @@ keywords: .na.character
 automl_pathway: 0.8356381
 figid_alias: PMC6680887__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6680887__F4
 ndex: 8e5fc966-df19-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -44,6 +45,56 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GCGR
+  - TRBV20OR9-2
+  - TRA
+  - TRB
+  - TRD
+  - TRG
+  - ERVW-4
+  - POLR1A
+  - POLR1B
+  - POLR1C
+  - POLR1D
+  - DDB2
+  - XPC
+  - CETN2
+  - ERCC8
+  - CSH1
+  - HSPA9
+  - CSH2
+  - ERCC6
+  - ERCC3
+  - ERCC5
+  - ERCC2
+  - GTF2H1
+  - GTF2H2
+  - GTF2H3
+  - GTF2H4
+  - GTF2H5
+  - ERCC4
+  - ERCC1
+  - RPA1
+  - RPA2
+  - RPA3
+  - POLK
+  - TENT4A
+  - POLL
+  - POLE
+  - RFC1
+  - SLC19A1
+  - RFC2
+  - RFC3
+  - RFC4
+  - RFC5
+  - PCNA
+  - RASA1
+  - RGS6
+  - UBE2K
+  - XRCC1
+  - LIG3
+  - LRIG3
+  - XPA
   - Tcr
   - Polr2A
   - Prim1
@@ -58,14 +109,9 @@ schema-jsonld:
   - hay
   - mus201
   - Xpd
-  - Xpac
-  - RPA3
-  - RPA2
-  - RPA1
   - Ercc1
   - polo
   - PolE1
-  - PCNA
   - Rf-c
   - CG8142
   - RfC4
@@ -75,55 +121,25 @@ schema-jsonld:
   - Gapdh1
   - RasGAP1
   - ArfGAP1
-  - DNAlig3
-  - XRCC1
   - lig
-  - Pa
-  - GCGR
-  - TRBV20OR9-2
-  - TRA
-  - TRB
-  - TRD
-  - TRG
-  - POLR1A
-  - POLR1B
-  - POLR1C
-  - POLR1D
-  - ERVW-4
-  - DDB2
-  - XPC
-  - CETN2
-  - ERCC8
-  - CSH1
-  - HSPA9
-  - CSH2
-  - ERCC6
-  - ERCC3
-  - ERCC5
-  - ERCC2
-  - ERCC4
-  - XPA
-  - ERCC1
-  - POLK
-  - TENT4A
-  - POLL
-  - POLE
-  - RFC1
-  - SLC19A1
-  - RFC2
-  - RFC3
-  - RFC4
-  - RFC5
-  - RASA1
-  - RGS6
-  - LIG3
-  - LRIG3
-  - UBE2K
-  - GTF2H1
-  - GTF2H2
-  - GTF2H3
-  - GTF2H4
-  - GTF2H5
+  - DNAlig3
+  - Xpac
+  - ddb2
+  - xpc
+  - cetn2
+  - cetn4
+  - ercc8
+  - ercc6
+  - ercc2
+  - ercc1
+  - rpa2
+  - polk
+  - pole
+  - pcna
+  - gap43
+  - xrcc1
+  - lig3
+  - xpa
   - CSA
   - XPD
 ---

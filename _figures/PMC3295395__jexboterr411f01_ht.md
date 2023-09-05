@@ -3,6 +3,8 @@ figid: PMC3295395__jexboterr411f01_ht
 figtitle: Schematic representation of the biosynthetic pathway of RFOs
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3295395
 filename: jexboterr411f01_ht.jpg
 figlink: /pmc/articles/PMC3295395/figure/fig1/
@@ -19,8 +21,6 @@ keywords: .na.character
 automl_pathway: 0.8905486
 figid_alias: PMC3295395__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3295395__F1
 ndex: ''
 seo: CreativeWork

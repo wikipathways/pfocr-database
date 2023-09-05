@@ -3,6 +3,8 @@ figid: PMC5067143__DialoguesClinNeurosci-18-253-g002
 figtitle: (Opposite and overleaf) Visualizing drug action
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5067143
 filename: DialoguesClinNeurosci-18-253-g002.jpg
 figlink: /pmc/articles/PMC5067143/figure/DialoguesClinNeurosci-18-253-g002/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8373299
 figid_alias: PMC5067143__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5067143__F2
 ndex: 1cf1c277-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -66,8 +66,8 @@ schema-jsonld:
   - EGF
   - PGF
   - EGFR
-  - SOAT1
   - STAT1
+  - SOAT1
   - STAT2
   - STAT3
   - STAT4

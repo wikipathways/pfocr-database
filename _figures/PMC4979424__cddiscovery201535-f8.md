@@ -3,6 +3,8 @@ figid: PMC4979424__cddiscovery201535-f8
 figtitle: Proposed model of VacA effects on Cx43 and autophagy, followed by apoptosis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979424
 filename: cddiscovery201535-f8.jpg
 figlink: /pmc/articles/PMC4979424/figure/fig8/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.976032
 figid_alias: PMC4979424__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979424__F8
 ndex: ''
 seo: CreativeWork

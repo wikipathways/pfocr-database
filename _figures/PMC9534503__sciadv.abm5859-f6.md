@@ -19,6 +19,15 @@ organisms:
 - Mus musculus
 - Gallus gallus
 - Toxoplasma gondii
+organisms_ner:
+- Sus scrofa
+- Homo sapiens
+- Canis lupus familiaris
+- Mus musculus
+- Mustela putorius furo
+- Equus caballus
+- Gallus gallus
+- Danio rerio
 pmcid: PMC9534503
 filename: sciadv.abm5859-f6.jpg
 figlink: /pmc/articles/PMC9534503/figure/F6/
@@ -56,14 +65,6 @@ keywords: ''
 automl_pathway: 0.8813269
 figid_alias: PMC9534503__F6
 figtype: Figure
-organisms_ner:
-- Sus scrofa
-- Homo sapiens
-- Canis lupus familiaris
-- Mus musculus
-- Mustela putorius furo
-- Equus caballus
-- Gallus gallus
 redirect_from: /figures/PMC9534503__F6
 ndex: ''
 seo: CreativeWork
@@ -194,4 +195,33 @@ schema-jsonld:
   - Ctss
   - fc
   - FAM26E
+  - slc39a4
+  - spns1
+  - rbm34
+  - akt1s1
+  - fance
+  - mybl2b
+  - dck
+  - zgc:110540
+  - calhm5.1
+  - mcm4
+  - melk
+  - mcm10
+  - tpx2
+  - ephb2b
+  - ect2
+  - kpna2
+  - sav1
+  - iqcc
+  - bpgm
+  - vat1
+  - b2m
+  - b2ml
+  - pamr1b
+  - nt5c2a
+  - nt5c2l1
+  - nt5dc2
+  - vps39
+  - zcchc8
+  - ctssl
 ---

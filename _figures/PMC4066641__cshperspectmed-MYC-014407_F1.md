@@ -4,6 +4,9 @@ figtitle: Apoptotic signaling pathways in normal and malignant cells
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC4066641
 filename: cshperspectmed-MYC-014407_F1.jpg
 figlink: /pmc/articles/PMC4066641/figure/A014407F1/
@@ -38,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.610228
 figid_alias: PMC4066641__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC4066641__F1
 ndex: 95a2ebf2-df33-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -74,70 +74,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MYC
-  - IGF1
-  - ANGPT1
-  - ANGPT2
-  - ANGPT4
-  - AREG
-  - BDNF
-  - CSF1
-  - EFNA1
-  - EFNA2
-  - EFNA3
-  - EFNA4
-  - EFNA5
-  - EGF
-  - EREG
-  - FGF1
-  - FGF10
-  - FGF16
-  - FGF17
-  - FGF18
-  - FGF19
-  - FGF2
-  - FGF20
-  - FGF21
-  - FGF22
-  - FGF23
-  - FGF3
-  - FGF4
-  - FGF5
-  - FGF6
-  - FGF7
-  - FGF8
-  - FGF9
-  - FLT3LG
-  - HGF
-  - IGF2
-  - INS
-  - KITLG
-  - NGF
-  - NTF3
-  - NTF4
-  - PDGFA
-  - PDGFB
-  - PDGFC
-  - PDGFD
-  - PGF
-  - TGFA
-  - VEGFA
-  - VEGFB
-  - VEGFC
-  - VEGFD
-  - BCL2
-  - NFKB1
-  - RELA
-  - RELB
-  - REL
-  - NFKB2
-  - TP53
-  - TP63
-  - TP73
   - Myc
   - Nol3
   - Egf
   - Bcl2
   - Nfkb1
   - Trp53
+  - mid
+  - Egfr
+  - Debcl
+  - Dif
+  - dl
+  - Rel
+  - p53
+  - betaTub60D
+  - hth
 ---

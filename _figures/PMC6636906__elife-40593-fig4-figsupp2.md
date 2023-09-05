@@ -14,10 +14,12 @@ organisms:
 - Homo sapiens
 - Drosophila melanogaster
 - Pseudomonas aeruginosa
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6636906
 filename: elife-40593-fig4-figsupp2.jpg
 figlink: /pmc/articles/PMC6636906/figure/fig4s2/
-number: SF4_2
+number: F4
 caption: A schematic diagram of enzymes (Drosophila homologs) and biochemical reactions
   in the metabolic pathway of serine, glycine, and threonine was adopted and modified
   from KEGG pathway database (http://www.genome.jp/kegg/pathway.html). SHMT, serine
@@ -32,11 +34,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7414364
-figid_alias: PMC6636906__SF4_2
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC6636906__SF4_2
+figid_alias: PMC6636906__F4
+figtype: Figure
+redirect_from: /figures/PMC6636906__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -58,8 +58,8 @@ schema-jsonld:
   - CG5955
   - Shmt
   - Agxt
-  - Ald1
   - aay
+  - Ald1
   - CG10184
   - serine
   - pyruvate

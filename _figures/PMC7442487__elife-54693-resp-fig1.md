@@ -4,6 +4,9 @@ figtitle: Pathway affected by RG7112 was known while the mode of action was unkn
   for o-Vanillin
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7442487
 filename: elife-54693-resp-fig1.jpg
 figlink: pmc/articles/PMC7442487/figure/sa2fig1/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.912191
 figid_alias: PMC7442487__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7442487__F1
 ndex: ''
 seo: CreativeWork
@@ -72,6 +73,20 @@ schema-jsonld:
   - dap
   - rb
   - E2f1
+  - CDKN2A
+  - H3P10
+  - RB1
+  - TP53
+  - TP63
+  - TP73
+  - MDM2
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
+  - E2F1
+  - UBE2L3
+  - ASPRV1
   - RG7112
   - O-vanillin
 ---

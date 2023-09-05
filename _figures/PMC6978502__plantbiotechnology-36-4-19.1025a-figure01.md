@@ -5,6 +5,10 @@ figtitle: Identification of novel MYB transcription factors involved in the isof
   and hairy root transformation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC6978502
 filename: plantbiotechnology-36-4-19.1025a-figure01.jpg
 figlink: /pmc/articles/PMC6978502/figure/figure1/
@@ -23,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9225086
 figid_alias: PMC6978502__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC6978502__F1
 ndex: ''
 seo: CreativeWork
@@ -51,6 +53,50 @@ schema-jsonld:
   - vvl
   - Ugalt
   - Uggt
+  - C4H
+  - TT4
+  - CHI
+  - TT5
+  - F3H
+  - DFR
+  - PAM
+  - LRIT1
+  - SHCBP1
+  - LYST
+  - GJB2
+  - SLC35A2
+  - UGT1A
+  - UGT1A1
+  - UGT1A2P
+  - UGT1A3
+  - UGT1A4
+  - UGT1A5
+  - UGT1A6
+  - UGT1A7
+  - UGT1A8
+  - UGT1A9
+  - UGT1A10
+  - UGT1A11P
+  - UGT1A12P
+  - UGT1A13P
+  - UGT2A1
+  - UGT2A2
+  - UGT2A3
+  - UGT2B4
+  - UGT2B7
+  - UGT2B10
+  - UGT2B11
+  - UGT2B15
+  - UGT2B17
+  - UGT2B24P
+  - UGT2B25P
+  - UGT2B26P
+  - UGT2B27P
+  - UGT2B28
+  - UGT2B29P
+  - UGT3A1
+  - UGT3A2
+  - UGT8
   - Phenylalanine
   - 4-Coumaroyl-CoA
   - Malonyl

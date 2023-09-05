@@ -4,6 +4,9 @@ figtitle: ' De-novo fatty acid synthesis in oleaginous microorganisms (adapted f
   [,,,,,]), and enzymes involved in lipid accumulation'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7143722
 filename: microorganisms-08-00434-g003.jpg
 figlink: pmc/articles/PMC7143722/figure/microorganisms-08-00434-f003/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9421533
 figid_alias: PMC7143722__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7143722__F3
 ndex: ''
 seo: CreativeWork
@@ -66,13 +66,6 @@ schema-jsonld:
   - ACC
   - tacc
   - acclinal-wing
-  - Acp26Ab
-  - Acp26Aa
-  - CG18284
-  - Acp36DE
-  - SP
-  - Acp95EF
-  - Acph-1
   - Fas2
   - FASN1
   - Fas3
@@ -81,6 +74,13 @@ schema-jsonld:
   - rg
   - FASN2
   - FASN3
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
   - te
   - wisp
   - PAPLA1
@@ -121,10 +121,10 @@ schema-jsonld:
   - BMS1
   - ACACB
   - LPA
-  - NDUFAB1
-  - CPAT1
   - FAS
   - FASN
+  - NDUFAB1
+  - CPAT1
   - REG3A
   - ASAP2
   - MRPS30

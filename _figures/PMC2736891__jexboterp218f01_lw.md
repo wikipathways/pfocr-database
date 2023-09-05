@@ -32,6 +32,9 @@ organisms:
 - Corynephage beta
 - NA
 - Homo sapiens
+organisms_ner:
+- Solanum lycopersicum
+- Arabidopsis thaliana
 pmcid: PMC2736891
 filename: jexboterp218f01_lw.jpg
 figlink: /pmc/articles/PMC2736891/figure/fig1/
@@ -53,9 +56,6 @@ keywords: .na.character
 automl_pathway: 0.8720425
 figid_alias: PMC2736891__F1
 figtype: Figure
-organisms_ner:
-- Solanum lycopersicum
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2736891__F1
 ndex: ''
 seo: CreativeWork

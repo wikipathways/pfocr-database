@@ -8,6 +8,9 @@ organisms:
 - Homo sapiens
 - Simian endogenous retrovirus
 - Pollachius virens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3181740
 filename: DialoguesClinNeurosci-7-191-g001.jpg
 figlink: /pmc/articles/PMC3181740/figure/DialoguesClinNeurosci-7-191-g001/
@@ -52,8 +55,6 @@ keywords: .na.character
 automl_pathway: 0.9535102
 figid_alias: PMC3181740__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3181740__F1
 ndex: 2a00a7c0-deee-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -134,6 +135,32 @@ schema-jsonld:
   - EPHB2
   - MAPK1
   - MAPK3
+  - 5-HT1B
+  - 5-HT1A
+  - 5-HT2A
+  - Ne
+  - Nmdar1
+  - trk
+  - gr
+  - Akt
+  - sgg
+  - cass
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Debcl
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - CrebB
+  - CrebA
+  - Dsor1
+  - Mtk
+  - S6kII
+  - Erk7
+  - rl
   - Cortisol
   - O5-HT
   - Glutamate

@@ -4,10 +4,12 @@ figtitle: Synthesis and Anti-Hepatoma Activities of U12 Derivatives Arresting G0
   Phase and Inducing Apoptosis by PI3K/AKT/mTOR Pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8781819
 filename: pharmaceuticals-15-00107-sch001.jpg
 figlink: /pmc/articles/PMC8781819/figure/pharmaceuticals-15-00107-sch001/
-number: SF1
+number: S1
 caption: 'Synthesis of U12 derivatives. Reagents and conditions: (1) Ac2O, 4-DMAP,
   Py, r.t., 10 h; (2) SOCl2, 40 °C, 1 h; (3) Br2, Py, SOCl2, 70 °C, 6 h; (4) CH2Cl2,
   MeOH, 4 °C; (5) NaI, Bu4N+I−, acetone, r.t., 6 h; (6) HOBt, EDC·HCl, DMF, 4 °C,
@@ -22,11 +24,9 @@ journal_nlm_ta: Pharmaceuticals (Basel)
 publisher_name: MDPI
 keywords: U12 derivatives | U12a | anti-hepatoma activity
 automl_pathway: 0.8573487
-figid_alias: PMC8781819__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC8781819__SF1
+figid_alias: PMC8781819__S1
+figtype: Scheme
+redirect_from: /figures/PMC8781819__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

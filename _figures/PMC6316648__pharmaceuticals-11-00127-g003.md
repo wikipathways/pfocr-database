@@ -3,6 +3,8 @@ figid: PMC6316648__pharmaceuticals-11-00127-g003
 figtitle: Major mechanisms for hepcidin regulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6316648
 filename: pharmaceuticals-11-00127-g003.jpg
 figlink: /pmc/articles/PMC6316648/figure/pharmaceuticals-11-00127-f003/
@@ -41,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9611003
 figid_alias: PMC6316648__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6316648__F3
 ndex: e0135b3d-ded0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -79,19 +79,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BMP6
   - ERFE
-  - BMP2
+  - BMP6
   - TF
+  - BMP2
   - IL6
   - HJV
   - JAK1
-  - JAK2
   - TFR2
   - STAT3
-  - SMAD4
   - SMAD1
   - GARS1
+  - SMAD4
   - SMAD5
   - SMAD6
   - SMAD7
@@ -123,5 +122,6 @@ schema-jsonld:
   - GDF6
   - GDF7
   - TMPRSS6
+  - JAK2
   - Fe3+
 ---

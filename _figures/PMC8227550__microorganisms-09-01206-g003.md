@@ -27,6 +27,10 @@ organisms:
 - synthetic RNA
 - NA
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8227550
 filename: microorganisms-09-01206-g003.jpg
 figlink: /pmc/articles/PMC8227550/figure/microorganisms-09-01206-f003/
@@ -49,9 +53,6 @@ keywords: DDX3 | mRNA metabolism | type-I interferon | viral replication | antiv
 automl_pathway: 0.9578125
 figid_alias: PMC8227550__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8227550__F3
 ndex: ''
 seo: CreativeWork
@@ -122,4 +123,13 @@ schema-jsonld:
   - REL
   - NFKB2
   - IFNA1
+  - nlrp3
+  - il13
+  - ddx3xa
+  - tia1
+  - tia1l
+  - tbk1
+  - irf3
+  - mavs
+  - irf7
 ---

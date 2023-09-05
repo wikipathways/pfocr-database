@@ -3,6 +3,9 @@ figid: PMC3552512__cshperspect-TRA-012336_F3
 figtitle: Oncogenic signals regulate each stage of translation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3552512
 filename: cshperspect-TRA-012336_F3.jpg
 figlink: /pmc/articles/PMC3552512/figure/A012336F3/
@@ -38,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9585009
 figid_alias: PMC3552512__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3552512__F3
 ndex: a24b07de-dee3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -159,9 +159,9 @@ schema-jsonld:
   - MKNK1
   - ATP7A
   - EEF2
-  - UBTF
   - POLI
   - TRIM24
+  - UBTF
   - tyrosine
   - Rapamycin
   - Cancer

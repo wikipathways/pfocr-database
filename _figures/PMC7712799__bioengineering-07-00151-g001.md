@@ -16,6 +16,10 @@ organisms:
 - Escherichia phage T7
 - Homo sapiens
 - Drosophila melanogaster
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC7712799
 filename: bioengineering-07-00151-g001.jpg
 figlink: pmc/articles/PMC7712799/figure/bioengineering-07-00151-f001/
@@ -46,11 +50,6 @@ keywords: .na.character
 automl_pathway: 0.5966274
 figid_alias: PMC7712799__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Arabidopsis thaliana
-- Escherichia coli str. K-12 substr. MG1655
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC7712799__F1
 ndex: ''
 seo: CreativeWork
@@ -112,22 +111,25 @@ schema-jsonld:
   - HTH
   - AT4G33070
   - CDI
-  - intS
-  - lacI
-  - atoB
-  - argS
-  - cca
-  - tpiA
-  - galK
-  - dinG
-  - rpoS
-  - ADY2
-  - ERG13
-  - RFX1
-  - PEX2
-  - PDC1
-  - ILV2
-  - GAL80
+  - PIF1
+  - DCD
+  - F9
+  - AK3
+  - C1QA
+  - C1QB
+  - C1QC
+  - C1R
+  - C1S
+  - TFPI
+  - HAPLN1
+  - SLC6A8
+  - FBN2
+  - RASA1
+  - RGS6
+  - GLA
+  - RNF2
+  - MTG1
+  - NT5C2
   - Mevalonate
   - Acetyl
   - H

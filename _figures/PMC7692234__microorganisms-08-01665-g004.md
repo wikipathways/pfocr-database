@@ -4,6 +4,10 @@ figtitle: Hypothetical host-cell signaling pathways linking Cryptosporidium parv
   infection and tumorigenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC7692234
 filename: microorganisms-08-01665-g004.jpg
 figlink: pmc/articles/PMC7692234/figure/microorganisms-08-01665-f004/
@@ -30,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.6525141
 figid_alias: PMC7692234__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7692234__F4
 ndex: ''
 seo: CreativeWork
@@ -57,23 +58,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Arp2
-  - Arp3
-  - WASp
-  - CkIalpha
-  - Axn
-  - sgg
-  - Apc
-  - Apc2
-  - Fs(3)Apc
-  - arm
-  - CycE
-  - cyc
+  - ACTR3
+  - APOBEC3A
   - ACTR2
   - ANGPTL2
   - AICDA
-  - ACTR3
-  - APOBEC3A
   - WASL
   - CSNK1A1
   - AXIN1
@@ -83,4 +72,20 @@ schema-jsonld:
   - IQGAP1
   - ATP5F1A
   - CTNNB1
+  - Arp3
+  - Arp2
+  - WASp
+  - CkIalpha
+  - sgg
+  - Axn
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - arm
+  - CycE
+  - cyc
+  - csnk1a1
+  - apc
+  - iqgap1
+  - ctnnb1
 ---

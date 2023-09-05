@@ -25,6 +25,8 @@ organisms:
 - Ipomoea tricolor
 - NA
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC3193017
 filename: jexboterr216f06_ht.jpg
 figlink: /pmc/articles/PMC3193017/figure/fig6/
@@ -48,8 +50,6 @@ keywords: .na.character
 automl_pathway: 0.8966132
 figid_alias: PMC3193017__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3193017__F6
 ndex: ''
 seo: CreativeWork

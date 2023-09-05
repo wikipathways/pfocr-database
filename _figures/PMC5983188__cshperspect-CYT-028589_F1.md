@@ -4,6 +4,8 @@ figtitle: Cytokine/long noncoding RNA (lncRNA) interplay in controlling immune c
   development and function
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5983188
 filename: cshperspect-CYT-028589_F1.jpg
 figlink: pmc/articles/PMC5983188/figure/A028589F1/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9735574
 figid_alias: PMC5983188__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5983188__F1
 ndex: ''
 seo: CreativeWork
@@ -72,8 +72,8 @@ schema-jsonld:
   - TLR9
   - TLR10
   - NRIR
-  - TNF
   - IRF6
+  - TNF
   - BST2
   - CCL5
   - IL6
@@ -94,11 +94,11 @@ schema-jsonld:
   - CD8B
   - MAFTRR
   - NELFCD
-  - IL4
   - IL5
-  - IL13
+  - IL4
   - TH2-LCR
   - TH2LCRR
+  - IL13
   - RMRP
   - IL17A
   - IL22

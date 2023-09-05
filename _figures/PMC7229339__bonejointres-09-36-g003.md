@@ -8,6 +8,9 @@ organisms:
 - Homo sapiens
 - Bos taurus
 - Gallus gallus
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7229339
 filename: bonejointres-09-36-g003.jpg
 figlink: pmc/articles/PMC7229339/figure/fig3-2046-3758.91.BJR-2019-0055.R2/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8462466
 figid_alias: PMC7229339__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7229339__F3
 ndex: ''
 seo: CreativeWork
@@ -49,6 +50,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - MUC5AC
+  - SERPINA3
+  - ACTG1
+  - ACTG2
+  - FHL5
+  - ACOT7
+  - ACTBL2
+  - POTEKP
+  - POTEM
+  - GPI
+  - GNPDA1
+  - DEPP1
+  - GOPC
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - act
+  - Act5C
+  - .na.character
+  - Act42A
+  - Actbeta
+  - anchor
+  - Pgi
+  - fig
   - O-glycan
   - heparin
   - O

@@ -3,6 +3,8 @@ figid: PMC7143981__microorganisms-08-00454-g006
 figtitle: The proposed route for formate assimilation in D
 organisms:
 - Desulfurococcus amylolyticus
+organisms_ner:
+- NA
 pmcid: PMC7143981
 filename: microorganisms-08-00454-g006.jpg
 figlink: pmc/articles/PMC7143981/figure/microorganisms-08-00454-f006/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8876746
 figid_alias: PMC7143981__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7143981__F6
 ndex: ''
 seo: CreativeWork

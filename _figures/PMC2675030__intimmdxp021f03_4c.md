@@ -3,6 +3,9 @@ figid: PMC2675030__intimmdxp021f03_4c
 figtitle: Steps in the generation of Th17 cells
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC2675030
 filename: intimmdxp021f03_4c.jpg
 figlink: /pmc/articles/PMC2675030/figure/fig3/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.7886198
 figid_alias: PMC2675030__F3
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC2675030__F3
 ndex: e3438bbd-deab-11ea-99da-0ac135e8bacf
 seo: CreativeWork

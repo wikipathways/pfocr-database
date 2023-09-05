@@ -4,6 +4,8 @@ figtitle: Zinc and Zinc Transporter Regulation in Pancreatic Islets and the Pote
   Role of Zinc in Islet Transplantation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3143541
 filename: RevDiabeticStud-07-263-003.jpg
 figlink: /pmc/articles/PMC3143541/figure/F1/
@@ -31,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8714449
 figid_alias: PMC3143541__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC3143541__F1
 ndex: ''
 seo: CreativeWork
@@ -58,34 +57,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MT1A
-  - MT1B
-  - MT1CP
-  - MT1DP
-  - MT1E
-  - MT1F
-  - MT1G
-  - MT1H
-  - MT1HL1
-  - MT1IP
-  - MT1JP
-  - MT1L
-  - MT1M
-  - MT1P1
-  - MT1P3
-  - MT1X
-  - MT2A
-  - MT3
-  - MT4
-  - SOD1
-  - SOD2
-  - SOD3
-  - PDX1
-  - PDHX
-  - MAFA
-  - KLRG1
-  - pdx1
-  - mafa
-  - mafaa
+  - Sh
+  - CycE
+  - cyc
+  - so
+  - Sod2
+  - Sod1
   - xanthine
 ---

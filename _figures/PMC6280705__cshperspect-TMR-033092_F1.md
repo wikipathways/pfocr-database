@@ -4,6 +4,9 @@ figtitle: General eukaryotic translation initiation pathway
 organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6280705
 filename: cshperspect-TMR-033092_F1.jpg
 figlink: pmc/articles/PMC6280705/figure/A033092F1/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9100704
 figid_alias: PMC6280705__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6280705__F1
 ndex: ''
 seo: CreativeWork
@@ -56,9 +57,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - SPTBN1
   - PDHA1
   - DHTKD1
-  - SPTBN1
   - APEX1
   - CCDC88A
   - PABPC1
@@ -84,6 +85,36 @@ schema-jsonld:
   - EIF5
   - EIF2A
   - EIF5B
+  - Thor
+  - eIF2alpha
+  - eRF3
+  - kra
+  - E3
+  - RpLP0
+  - pAbp
+  - eIF4E1
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E6
+  - eIF4EHP
+  - eIF2beta
+  - pic
+  - eIF3g1
+  - eIF3b
+  - eIF3c
+  - eIF3a
+  - eIF3h
+  - E(spl)mgamma-HLH
+  - tc
+  - ATPsynbeta
+  - Atpalpha
+  - eIF2Bbeta
+  - eIF2Balpha
+  - eIF5
+  - eIF2A
+  - eIF5B
   - PIC
   - Met
   - ADP4

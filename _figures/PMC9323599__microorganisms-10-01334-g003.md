@@ -7,6 +7,10 @@ organisms:
 - Ictalurus punctatus
 - catfish
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Ictalurus punctatus
+- Danio rerio
 pmcid: PMC9323599
 filename: microorganisms-10-01334-g003.jpg
 figlink: /pmc/articles/PMC9323599/figure/microorganisms-10-01334-f003/
@@ -30,9 +34,6 @@ keywords: Edwardsiella ictaluri | type III secretion system effectors | EseN | E
 automl_pathway: 0.8183536
 figid_alias: PMC9323599__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Ictalurus punctatus
 redirect_from: /figures/PMC9323599__F3
 ndex: ''
 seo: CreativeWork
@@ -95,10 +96,6 @@ schema-jsonld:
   - TBK1
   - MAP3K8
   - MAP2K4
-  - JAK1
-  - JAK2
-  - JAK3
-  - TYK2
   - SOAT1
   - STAT1
   - STAT2
@@ -107,6 +104,10 @@ schema-jsonld:
   - STAT6
   - STAT5A
   - STAT5B
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
   - MAPK1
   - MAPK3
   - MAPK11
@@ -153,4 +154,15 @@ schema-jsonld:
   - tnfrsf11a
   - ifn
   - stac
+  - kita
+  - ngfra
+  - rac1a
+  - notch1a
+  - tirap
+  - tram1
+  - ticam1
+  - stat1b
+  - stat4
+  - tnfb
+  - ifnphi1
 ---

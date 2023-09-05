@@ -3,6 +3,8 @@ figid: PMC7160677__mSphere.00016-20-f0006
 figtitle: Scheme of AA on the metabolism pathways of C
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7160677
 filename: mSphere.00016-20-f0006.jpg
 figlink: pmc/articles/PMC7160677/figure/fig6/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9423122
 figid_alias: PMC7160677__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7160677__F6
 ndex: ''
 seo: CreativeWork

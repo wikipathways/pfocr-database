@@ -5,6 +5,9 @@ figtitle: Immunosuppressive Mechanisms in Brucellosis in Light of Chronic Bacter
 organisms:
 - Brucella abortus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9324529
 filename: microorganisms-10-01260-g001.jpg
 figlink: /pmc/articles/PMC9324529/figure/microorganisms-10-01260-f001/
@@ -40,8 +43,6 @@ keywords: Brucella | chronic infection | persistence | immunosuppression | intra
 automl_pathway: 0.7765361
 figid_alias: PMC9324529__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9324529__F1
 ndex: ''
 seo: CreativeWork
@@ -89,4 +90,18 @@ schema-jsonld:
   - SYNJ2BP
   - CD86
   - CD80
+  - pck
+  - tlr-2
+  - wit
+  - Egfr
+  - Erk7
+  - rl
+  - Low
+  - Toll-4
+  - Dif
+  - dl
+  - Rel
+  - mod
+  - mod(mdg4)
+  - rsd
 ---

@@ -4,6 +4,9 @@ figtitle: 'PI3K/AKT/mTOR signaling pathway and examples of drugs targeting each 
   its components.Note: RSK, 90 kDa ribosomal protein S6 kinase'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4762492
 filename: tog-suppl.1-2015-033f1.jpg
 figlink: /pmc/articles/PMC4762492/figure/f1-tog-suppl.1-2015-033/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9800116
 figid_alias: PMC4762492__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4762492__F1
 ndex: 732c6ab1-debc-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,11 +58,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - gfr
+  - nac
   - Egfr
   - btl
   - htl
-  - gfr
-  - nac
   - Pten
   - Akt
   - ras
@@ -94,14 +94,14 @@ schema-jsonld:
   - S6kII
   - RpS6
   - Thor
+  - ERBB2
+  - RAPGEF5
   - EGFR
   - FGFR1
   - FGFR2
   - FGFR3
   - FGFR4
   - FGFRL1
-  - ERBB2
-  - RAPGEF5
   - INPP4B
   - PTEN
   - AKT1

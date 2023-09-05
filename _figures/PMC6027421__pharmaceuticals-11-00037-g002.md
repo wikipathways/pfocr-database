@@ -7,6 +7,10 @@ organisms:
 - Homo sapiens
 - Escherichia coli
 - teleost fish
+organisms_ner:
+- Homo sapiens
+- Bos taurus
+- Danio rerio
 pmcid: PMC6027421
 filename: pharmaceuticals-11-00037-g002.jpg
 figlink: /pmc/articles/PMC6027421/figure/pharmaceuticals-11-00037-f002/
@@ -30,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9455617
 figid_alias: PMC6027421__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Bos taurus
 redirect_from: /figures/PMC6027421__F2
 ndex: ''
 seo: CreativeWork
@@ -62,6 +63,12 @@ schema-jsonld:
   - CYP11A1
   - CYB5A
   - CYP21A1P
+  - hsd3b
+  - cyp21a2
+  - cyp19a1a
+  - cyp17a1
+  - cyp11a1.1
+  - cyb5a
   - Cholesterol
   - 17OH
   - 11-Deoxycortisol

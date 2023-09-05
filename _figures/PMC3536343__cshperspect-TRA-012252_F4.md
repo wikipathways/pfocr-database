@@ -3,6 +3,9 @@ figid: PMC3536343__cshperspect-TRA-012252_F4
 figtitle: MAPK signaling to the translational machinery
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3536343
 filename: cshperspect-TRA-012252_F4.jpg
 figlink: /pmc/articles/PMC3536343/figure/A012252F4/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9564605
 figid_alias: PMC3536343__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3536343__F4
 ndex: bd43088f-dee7-11ea-99da-0ac135e8bacf
 seo: CreativeWork

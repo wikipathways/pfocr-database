@@ -10,6 +10,8 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Drosophila melanogaster
+organisms_ner:
+- NA
 pmcid: PMC6161291
 filename: pharmaceuticals-11-00087-g003.jpg
 figlink: /pmc/articles/PMC6161291/figure/pharmaceuticals-11-00087-f003/
@@ -37,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9241056
 figid_alias: PMC6161291__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6161291__F3
 ndex: ''
 seo: CreativeWork

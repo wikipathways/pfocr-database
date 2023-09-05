@@ -7,6 +7,10 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Diaporthe sclerotioides
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
 pmcid: PMC6316356
 filename: pharmaceuticals-11-00115-g002.jpg
 figlink: /pmc/articles/PMC6316356/figure/pharmaceuticals-11-00115-f002/
@@ -30,10 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9556038
 figid_alias: PMC6316356__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC6316356__F2
 ndex: 7acc9c76-dee8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

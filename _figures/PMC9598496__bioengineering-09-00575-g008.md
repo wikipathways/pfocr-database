@@ -4,6 +4,9 @@ figtitle: Physiological Functions of AbrB on Sporulation, Biofilm Formation and 
   Source Utilization in Clostridium tyrobutyricum
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9598496
 filename: bioengineering-09-00575-g008.jpg
 figlink: /pmc/articles/PMC9598496/figure/bioengineering-09-00575-f008/
@@ -32,8 +35,6 @@ keywords: Clostridium tyrobutyricum | AbrB | sporulation | biofilm | carbon cata
 automl_pathway: 0.939752
 figid_alias: PMC9598496__F8
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9598496__F8
 ndex: ''
 seo: CreativeWork
@@ -77,4 +78,21 @@ schema-jsonld:
   - Tk
   - fand
   - na
+  - MATK
+  - MCOLN1
+  - BGN
+  - GPI
+  - PGPEP1
+  - IDH1
+  - IDH2
+  - TNK2
+  - MPI
+  - SLPI
+  - IMMT
+  - XYLB
+  - NDUFAB1
+  - CPAT1
+  - FANCB
+  - TK1
+  - TK2
 ---

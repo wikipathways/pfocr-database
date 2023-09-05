@@ -3,6 +3,8 @@ figid: PMC3281591__cshperspectmed-PKD-009332_F4
 figtitle: Mitochondrial-dependent apoptosis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3281591
 filename: cshperspectmed-PKD-009332_F4.jpg
 figlink: /pmc/articles/PMC3281591/figure/A009332F4/
@@ -47,8 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9419939
 figid_alias: PMC3281591__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3281591__F4
 ndex: 7ff7f06f-df04-11ea-99da-0ac135e8bacf
 seo: CreativeWork

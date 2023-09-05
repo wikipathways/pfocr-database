@@ -19,6 +19,11 @@ organisms:
 - Sar
 - Haemophilus influenzae
 - Mustela putorius furo
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC8313238
 filename: physrev.00046.2020_f004.jpg
 figlink: /pmc/articles/PMC8313238/figure/F0004/
@@ -48,10 +53,6 @@ keywords: CD38 | COVID-19 | NAD+ metabolome | SARS-CoV-2
 automl_pathway: 0.9566313
 figid_alias: PMC8313238__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC8313238__F4
 ndex: ''
 seo: CreativeWork
@@ -110,4 +111,25 @@ schema-jsonld:
   - MFAP1
   - NT5E
   - Tmprss5
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - chp
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - na
+  - CAP
+  - SMC3
+  - Cpn
+  - Capa
+  - capt
+  - bel
+  - SERCA
+  - Cadps
+  - sah
+  - de
+  - Amph
 ---

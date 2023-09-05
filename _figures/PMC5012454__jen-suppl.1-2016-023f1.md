@@ -3,6 +3,9 @@ figid: PMC5012454__jen-suppl.1-2016-023f1
 figtitle: Physiological effects of ROS on synaptic plasticity
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5012454
 filename: jen-suppl.1-2016-023f1.jpg
 figlink: /pmc/articles/PMC5012454/figure/f1-jen-suppl.1-2016-023/
@@ -44,8 +47,6 @@ keywords: .na.character
 automl_pathway: 0.9554374
 figid_alias: PMC5012454__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5012454__F1
 ndex: 75c241ed-deea-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -85,6 +86,63 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - DECR1
+  - PRKG1
+  - NOS1
+  - RYR1
+  - RYR2
+  - RYR3
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - CAMK2G
+  - ATP8A2
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - Nmdar1
+  - E(spl)mgamma-HLH
+  - na
+  - Pkg21D
+  - for
+  - Nos
+  - nos
+  - RyR
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - Erk7
+  - rl
+  - CaMKII
+  - term
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - ATPsynbeta
+  - Atpalpha
+  - CrebB
+  - CrebA
+  - ber
   - Dopamine
   - AMPA
   - Glutamate

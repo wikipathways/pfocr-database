@@ -5,6 +5,11 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC3348497
 filename: geronagls102f01_3c.jpg
 figlink: /pmc/articles/PMC3348497/figure/fig1/
@@ -31,10 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9587623
 figid_alias: PMC3348497__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC3348497__F1
 ndex: 00407c8f-dee3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -65,11 +66,11 @@ schema-jsonld:
   - pl
   - Irs1
   - Akt1
-  - Zhx2
   - ras
   - Hras
   - Kras
   - Rem1
+  - Zhx2
   - Pik3r1
   - Mdk
   - Nos3
@@ -81,13 +82,13 @@ schema-jsonld:
   - RAC2
   - RAC3
   - RHOG
+  - KRAS
+  - HRAS
+  - NRAS
   - ZHX2
   - ARAF
   - BRAF
   - RAF1
-  - KRAS
-  - HRAS
-  - NRAS
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -106,6 +107,20 @@ schema-jsonld:
   - AKT2
   - AKT3
   - Pik3cg
+  - pi
+  - Rac1
+  - Rac2
+  - Akt
+  - Mtl
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Dsor1
+  - Mtk
   - Cancer
   - Cardiomyopathy
   - Lung cancer

@@ -9,6 +9,9 @@ organisms:
 - Homo sapiens
 - unidentified
 - Antarctothoa delta
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC8328273
 filename: ENEURO.0157-21.2021_f011.jpg
 figlink: /pmc/articles/PMC8328273/figure/F11/
@@ -45,8 +48,6 @@ keywords: bladder overactivity | bursting | detrusor-sphincter dyssynergia | dop
 automl_pathway: 0.9384976
 figid_alias: PMC8328273__F11
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC8328273__F11
 ndex: ''
 seo: CreativeWork
@@ -84,4 +85,12 @@ schema-jsonld:
   - da
   - mn
   - Dr1
+  - how
+  - nAChRalpha2
+  - Dr
+  - gus
+  - NC2beta
+  - Dop1R1
+  - Dop1R2
+  - drg
 ---

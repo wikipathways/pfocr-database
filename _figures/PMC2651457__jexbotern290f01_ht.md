@@ -3,6 +3,9 @@ figid: PMC2651457__jexbotern290f01_ht
 figtitle: The monolignol biosynthesis pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
 pmcid: PMC2651457
 filename: jexbotern290f01_ht.jpg
 figlink: /pmc/articles/PMC2651457/figure/fig1/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.7935909
 figid_alias: PMC2651457__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2651457__F1
 ndex: ''
 seo: CreativeWork
@@ -62,6 +63,11 @@ schema-jsonld:
   - Drep4
   - Ca-alpha1D
   - shg
+  - C4H
+  - MEO
+  - HCT
+  - CCOAMT
+  - ATCAD4
   - Ferulic acid
   - Coniferyl alcohol
   - 5-hydroxyferulic acid

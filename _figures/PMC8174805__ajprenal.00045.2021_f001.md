@@ -3,6 +3,9 @@ figid: PMC8174805__ajprenal.00045.2021_f001
 figtitle: Disparate roles of retinoid acid signaling molecules in kidney disease
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8174805
 filename: ajprenal.00045.2021_f001.jpg
 figlink: /pmc/articles/PMC8174805/figure/F0001/
@@ -39,8 +42,6 @@ keywords: glomerular disease | podocytes | retinoic acid | retinoic acid recepto
 automl_pathway: 0.9543642
 figid_alias: PMC8174805__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8174805__F1
 ndex: ''
 seo: CreativeWork
@@ -101,4 +102,10 @@ schema-jsonld:
   - RXRA
   - RXRB
   - RXRG
+  - Adh
+  - ra
+  - Rbp
+  - Rbp9
+  - Tbp
+  - br
 ---

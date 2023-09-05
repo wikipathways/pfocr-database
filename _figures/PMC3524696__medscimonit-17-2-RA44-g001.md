@@ -10,6 +10,15 @@ organisms:
 - Cavia porcellus
 - Homo sapiens
 - Gallus gallus
+organisms_ner:
+- Sus scrofa
+- Rattus norvegicus
+- Mus musculus
+- Canis lupus familiaris
+- Cavia porcellus
+- Oryctolagus cuniculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3524696
 filename: medscimonit-17-2-RA44-g001.jpg
 figlink: /pmc/articles/PMC3524696/figure/f1-medscimonit-17-2-ra44/
@@ -45,14 +54,6 @@ keywords: .na.character
 automl_pathway: 0.8650374
 figid_alias: PMC3524696__F1
 figtype: Figure
-organisms_ner:
-- Sus scrofa
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
-- Canis lupus familiaris
-- Cavia porcellus
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC3524696__F1
 ndex: 7265ac74-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -97,6 +98,31 @@ schema-jsonld:
   - PRKD1
   - PRKCI
   - PRKCB
+  - Tas2r134
+  - Rxfp2
+  - Pdk1
+  - Pdk2
+  - Akt1
+  - Gucy1b1
+  - Gucy1b2
+  - Gucy1a1
+  - Ephb1
+  - Gsk3b
+  - Prkcg
+  - Tph1
+  - Gpbar1
+  - Pdpk1
+  - Nos1
+  - Srgn
+  - Ephb2
+  - Mapk1
+  - ADRB3
+  - CCR5
+  - KISS1R
+  - Nos2
+  - Prkca
+  - NOS1
+  - TPH1
   - FZD4
   - NMUR1
   - LPAR3
@@ -132,7 +158,6 @@ schema-jsonld:
   - PDK4
   - AKT2
   - AKT3
-  - NOS1
   - NOS2
   - SGCB
   - GUCY1A2
@@ -152,30 +177,26 @@ schema-jsonld:
   - PRKCQ
   - PRKCZ
   - PRKD3
-  - Tas2r134
-  - Rxfp2
-  - Pdk1
-  - Pdk2
-  - Akt1
-  - Gucy1b1
-  - Gucy1b2
-  - Gucy1a1
-  - Ephb1
-  - Gsk3b
-  - Prkcg
-  - Tph1
-  - Gpbar1
-  - Pdpk1
-  - Nos1
-  - Srgn
-  - Ephb2
-  - Mapk1
-  - ADRB3
-  - CCR5
-  - KISS1R
-  - Nos2
-  - Prkca
-  - TPH1
+  - Oamb
+  - Pdk
+  - Akt
+  - Nos
+  - nos
+  - Gycalpha99B
+  - Pkg21D
+  - ATPsynbeta
+  - Atpalpha
+  - for
+  - Erk7
+  - rl
+  - sgg
+  - Axn
+  - gskt
+  - Pkc53E
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Hn
   - Adenosine
   - NO L-arginine
   - MPTP

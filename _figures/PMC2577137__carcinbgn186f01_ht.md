@@ -6,6 +6,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Equus caballus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Equus caballus
+- Drosophila melanogaster
 pmcid: PMC2577137
 filename: carcinbgn186f01_ht.jpg
 figlink: /pmc/articles/PMC2577137/figure/fig1/
@@ -31,10 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9478646
 figid_alias: PMC2577137__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Equus caballus
 redirect_from: /figures/PMC2577137__F1
 ndex: c68c5cee-def6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -139,5 +140,30 @@ schema-jsonld:
   - HNF4A
   - FOXO1
   - MTOR
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - fs(1)h
+  - Lgr1
+  - dsh
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - Axn
+  - Pdk
+  - Pdk1
+  - CrebB
+  - CrebA
+  - Akt
+  - pan
+  - foxo
+  - Tor
   - Cancer
 ---

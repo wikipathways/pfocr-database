@@ -3,6 +3,9 @@ figid: PMC2734294__toxscikfm301f03_4c
 figtitle: Several molecular features in the cell body of an oxidatively stressed neuron
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2734294
 filename: toxscikfm301f03_4c.jpg
 figlink: /pmc/articles/PMC2734294/figure/fig3/
@@ -53,9 +56,6 @@ keywords: .na.character
 automl_pathway: 0.9159239
 figid_alias: PMC2734294__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2734294__F3
 ndex: bc0b61ba-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -106,13 +106,14 @@ schema-jsonld:
   keywords:
   - Keap1
   - cnc
-  - E(spl)malpha-BFM
   - Ama
+  - E(spl)malpha-BFM
   - mama
   - waw
   - trx
   - Trxr-1
   - Trx-2
+  - Ho
   - GstS1
   - GstE12
   - GstD1
@@ -123,16 +124,16 @@ schema-jsonld:
   - GstD6
   - GstD7
   - GstD8
-  - Ho
   - RER
   - IK
   - KEAP1
   - GABPA
   - NFE2L2
   - ELANE
-  - NQO1
   - TXN
   - VAC14
+  - NQO1
+  - HMOX1
   - SLCO6A1
   - GSTK1
   - GSTA1
@@ -152,6 +153,5 @@ schema-jsonld:
   - GSTT2
   - GSTZ1
   - GSTT2B
-  - HMOX1
   - Acrolein
 ---

@@ -3,6 +3,9 @@ figid: PMC6789489__pharmaceuticals-12-00130-g001
 figtitle: Action of methylxanthine (MTXs) in glioblastoma (GBM)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6789489
 filename: pharmaceuticals-12-00130-g001.jpg
 figlink: /pmc/articles/PMC6789489/figure/pharmaceuticals-12-00130-f001/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9069616
 figid_alias: PMC6789489__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6789489__F1
 ndex: 4028ea71-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,9 +56,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PTK2
-  - ROCK1
-  - ROCK2
+  - dnc
+  - Decay
+  - Hn
+  - Nplp1
+  - Mtor
+  - Tor
+  - Erk7
+  - rl
+  - Rbf
+  - HDAC6
+  - HDAC4
+  - HDAC1
+  - HDAC3
+  - CycE
+  - cyc
+  - Fak
+  - Rok
+  - MKP-4
+  - p38b
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Stat92E
+  - Dif
+  - dl
+  - Rel
+  - CTSA
+  - CTSB
+  - CTSC
+  - CTSD
+  - CTSE
+  - CTSF
+  - CTSG
+  - CTSH
+  - CTSK
+  - CTSL
+  - CTSO
+  - CTSS
+  - CTSV
+  - CTSW
+  - CTSZ
   - ALDH7A1
   - PDE2A
   - PDE9A
@@ -79,64 +120,17 @@ schema-jsonld:
   - PDE7B
   - PDE8A
   - PDE8B
-  - CTSA
-  - CTSB
-  - CTSC
-  - CTSD
-  - CTSE
-  - CTSF
-  - CTSG
-  - CTSH
-  - CTSK
-  - CTSL
-  - CTSO
-  - CTSS
-  - CTSV
-  - CTSW
-  - CTSZ
+  - MTOR
+  - STAT3
+  - EPHB2
   - MAPK1
   - MAPK3
-  - MAPK11
-  - MAPK12
-  - MAPK13
-  - MAPK14
-  - MAPK8
-  - MAPK9
-  - MAPK10
-  - PIK3CA
-  - PIK3CB
-  - PIK3CD
-  - PIK3CG
-  - PIK3R3
-  - PIK3R4
-  - PIK3R5
-  - PIK3R6
-  - PIK3R1
-  - PIK3R2
-  - AKT1
-  - AKT2
-  - AKT3
-  - MTOR
-  - SOAT1
-  - STAT1
-  - STAT2
-  - STAT3
-  - STAT4
-  - STAT6
-  - STAT5A
-  - STAT5B
-  - EPHB2
-  - NFKB1
   - RB1
   - HDAC2
   - HDAC9
-  - HDAC1
-  - HDAC3
   - HDAC8
-  - HDAC4
   - HDAC5
   - HDAC7
-  - HDAC6
   - HDAC10
   - SIRT1
   - SIRT2
@@ -193,7 +187,37 @@ schema-jsonld:
   - H3-4
   - H3-5
   - H4C7
-  - GFAP
+  - PTK2
+  - ROCK1
+  - ROCK2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - AKT1
+  - AKT2
+  - AKT3
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
+  - NFKB1
   - S100A1
   - S100B
   - S100G
@@ -216,6 +240,7 @@ schema-jsonld:
   - S100A8
   - S100A9
   - TCHHL1
+  - GFAP
   - CH
   - Caffeine
   - Theobromine

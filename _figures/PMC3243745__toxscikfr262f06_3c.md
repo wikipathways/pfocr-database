@@ -7,6 +7,12 @@ organisms:
 - Rattus norvegicus
 - Candida dubliniensis
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC3243745
 filename: toxscikfr262f06_3c.jpg
 figlink: /pmc/articles/PMC3243745/figure/fig6/
@@ -30,10 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8855489
 figid_alias: PMC3243745__F6
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC3243745__F6
 ndex: 0d1ff7b3-df14-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -64,11 +66,11 @@ schema-jsonld:
   - Fndc5
   - Gypa
   - fa
+  - Lipc
   - Lpl
   - Lp1
   - Hapln1
   - Zbtb17
-  - Lipc
   - Tag
   - Erc1
   - Lpin2
@@ -76,10 +78,10 @@ schema-jsonld:
   - Pgp
   - Abcb1a
   - Pgpep1
-  - Pla2g2a
-  - Pla2g5
   - Ppia
   - Gm15621
+  - Pla2g2a
+  - Pla2g5
   - Chdh
   - pid
   - pad
@@ -114,11 +116,11 @@ schema-jsonld:
   - PREP
   - PTPN22
   - GYPA
+  - LIPC
   - LPL
   - LCP1
   - RPLP1
   - SLC7A7
-  - LIPC
   - TMED7
   - LINC01194
   - ERC1
@@ -130,6 +132,8 @@ schema-jsonld:
   - ABCB1
   - PGPEP1
   - GYPC
+  - PPP1CA
+  - PPIA
   - PLA2G1B
   - PLA2G2A
   - PLA2G6
@@ -146,8 +150,6 @@ schema-jsonld:
   - PLA2G4A
   - PLA2G4C
   - PLA2G4D
-  - PPP1CA
-  - PPIA
   - CHDH
   - MTA2
   - PADI4
@@ -173,6 +175,51 @@ schema-jsonld:
   - Gypc
   - Ppp1ca
   - Pc
+  - G6P
+  - Gapdh2
+  - Gpdh1
+  - Gapdh1
+  - Pglym78
+  - Pep
+  - bgcn
+  - Aldh-III
+  - RpLP1
+  - Pa
+  - cl
+  - pg
+  - Pp1alpha-96A
+  - Pp1-87B
+  - CG42237
+  - pads
+  - eas
+  - Bx
+  - ab
+  - pnt
+  - Rst(2)At
+  - pcx
+  - Pak
+  - PEK
+  - tal-AA
+  - Lpin
+  - Khc
+  - pkma
+  - aldob
+  - aldocb
+  - gapdh
+  - gapdhs
+  - lipca
+  - lpla
+  - lpin2
+  - dgat2
+  - pgp
+  - ppiaa
+  - chdh
+  - aida
+  - pak1
+  - eif2ak3
+  - gpd2
+  - gpat2
+  - chka
   - CDP-Ethanolamine
   - Aldehyde
   - Choline

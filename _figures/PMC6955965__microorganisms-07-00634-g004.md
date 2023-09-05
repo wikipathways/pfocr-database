@@ -3,6 +3,8 @@ figid: PMC6955965__microorganisms-07-00634-g004
 figtitle: Metabolic pathway analysis of VBNC E
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6955965
 filename: microorganisms-07-00634-g004.jpg
 figlink: /pmc/articles/PMC6955965/figure/microorganisms-07-00634-f004/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9366119
 figid_alias: PMC6955965__F4
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC6955965__F4
 ndex: ''
 seo: CreativeWork
@@ -39,8 +39,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - rna
-  - rpoA
   - rpoB
+  - rpoA
   - ftsY
   - hemF
   - secY

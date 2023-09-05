@@ -4,6 +4,9 @@ figtitle: Biosynthetic pathway of mycolic acids in Mtb and site of action of ant
   drugs
 organisms:
 - Mycobacterium tuberculosis
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4200213
 filename: cshperspectmed-TUB-021105_F4.jpg
 figlink: /pmc/articles/PMC4200213/figure/A021105F4/
@@ -39,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.8840388
 figid_alias: PMC4200213__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4200213__F4
 ndex: ''
 seo: CreativeWork
@@ -74,6 +75,37 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Fas1
+  - thl
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
+  - Fas2
+  - betaTub60D
+  - ETH
+  - Calr
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - double
+  - bond
+  - Or85c
+  - Or85b
+  - Sh
+  - TCHH
+  - DECR1
+  - NDUFAB1
+  - CPAT1
+  - INHA
+  - TAC1
+  - TAC3
+  - TAC4
+  - KIT
   - dimethyl coumarins
   - Pyridomycin
   - Mycolic acids

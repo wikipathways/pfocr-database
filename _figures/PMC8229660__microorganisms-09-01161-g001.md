@@ -4,6 +4,9 @@ figtitle: Cell Wall Proteome Profiling of a Candida albicans Fluconazole-Resista
   Strain from a Lebanese Hospital Patient Using Tandem Mass Spectrometry—A Pilot Study
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC8229660
 filename: microorganisms-09-01161-g001.jpg
 figlink: /pmc/articles/PMC8229660/figure/microorganisms-09-01161-f001/
@@ -30,8 +33,6 @@ keywords: Candida albicans | mass spectrometry | fluconazole | azole resistance 
 automl_pathway: 0.8227773
 figid_alias: PMC8229660__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC8229660__F1
 ndex: ''
 seo: CreativeWork
@@ -89,4 +90,32 @@ schema-jsonld:
   - PAN1
   - DSE4
   - END3
+  - IMMT
+  - IDI1
+  - PPP1R1A
+  - APEX2
+  - SULT1A2
+  - ENO1
+  - ENO2
+  - ENO3
+  - ENO4
+  - RO60
+  - HSP90AA1
+  - HSP90B1
+  - TRAP1
+  - HSP90AB1
+  - SOD1
+  - AQP9
+  - ELOVL1
+  - UTS2R
+  - CNTN3
+  - ARFGEF1
+  - MYCBP2
+  - PLEKHB1
+  - CDR1
+  - RABAC1
+  - CDKN2A
+  - S100A4
+  - SAI1
+  - NLRP2
 ---

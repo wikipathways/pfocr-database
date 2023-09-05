@@ -3,6 +3,8 @@ figid: PMC4880054__cddiscovery20161-f6
 figtitle: Proposed model of Cdk2 phosphorylation of Bcl-xL in cisplatin-induced apoptosis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4880054
 filename: cddiscovery20161-f6.jpg
 figlink: /pmc/articles/PMC4880054/figure/fig6/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9575137
 figid_alias: PMC4880054__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4880054__F6
 ndex: b4275e8d-debf-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,8 @@ figid: PMC3367549__cshperspect-MDV-008151_F2
 figtitle: Canonical (left) and noncanonical (right) WNT signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3367549
 filename: cshperspect-MDV-008151_F2.jpg
 figlink: /pmc/articles/PMC3367549/figure/A008151F2/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9444817
 figid_alias: PMC3367549__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3367549__F2
 ndex: 758abe7c-dec2-11ea-99da-0ac135e8bacf
 seo: CreativeWork

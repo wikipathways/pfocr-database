@@ -4,10 +4,12 @@ figtitle: Design and Synthesis of New Pyrimidine-Quinolone Hybrids as Novel hLDH
   Inhibitors
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC9322123
 filename: pharmaceuticals-15-00792-sch001.jpg
 figlink: /pmc/articles/PMC9322123/figure/pharmaceuticals-15-00792-sch001/
-number: SF1
+number: S1
 caption: Linear synthetic pathway to obtain pyrimidine-quinolone hybrid 15.
 papertitle: Design and Synthesis of New Pyrimidine-Quinolone Hybrids as Novel hLDHA
   Inhibitors.
@@ -20,11 +22,9 @@ publisher_name: MDPI
 keywords: hLDHA inhibitors | quinolones | pyrimidines | fragment-based drug design
   | docking
 automl_pathway: 0.8952434
-figid_alias: PMC9322123__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC9322123__SF1
+figid_alias: PMC9322123__S1
+figtype: Scheme
+redirect_from: /figures/PMC9322123__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

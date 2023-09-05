@@ -4,6 +4,8 @@ figtitle: Cooperation of Kras-mutant tumor cells with pancreatic stellate cells 
   tumor microenvironment (TME) immunomodulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6120695
 filename: cshperspectmed-RAC-031849_F3.jpg
 figlink: pmc/articles/PMC6120695/figure/A031849F3/
@@ -36,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.7482292
 figid_alias: PMC6120695__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6120695__F3
 ndex: ''
 seo: CreativeWork
@@ -94,9 +93,4 @@ schema-jsonld:
   - CXCL12
   - CD8A
   - CD8B
-  - kras
-  - il6
-  - stat3
-  - il10
-  - cxcl12a
 ---

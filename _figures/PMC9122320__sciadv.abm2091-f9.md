@@ -3,6 +3,8 @@ figid: PMC9122320__sciadv.abm2091-f9
 figtitle: Touch-induced gene expression pathways
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC9122320
 filename: sciadv.abm2091-f9.jpg
 figlink: /pmc/articles/PMC9122320/figure/F9/
@@ -41,8 +43,6 @@ keywords: ''
 automl_pathway: 0.9101751
 figid_alias: PMC9122320__F9
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC9122320__F9
 ndex: ''
 seo: CreativeWork

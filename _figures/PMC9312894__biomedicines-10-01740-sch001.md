@@ -18,10 +18,13 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Oenothera biennis
+organisms_ner:
+- Mus musculus
+- Homo sapiens
 pmcid: PMC9312894
 filename: biomedicines-10-01740-sch001.jpg
 figlink: /pmc/articles/PMC9312894/figure/biomedicines-10-01740-sch001/
-number: SF1
+number: S1
 caption: Synthetic pathway for salicylanilide derivatives.
 papertitle: 'Novel Chloro-Substituted Salicylanilide Derivatives and Their β-Cyclodextrin
   Complexes: Synthesis, Characterization, and Antibacterial Activity.'
@@ -33,11 +36,9 @@ journal_nlm_ta: Biomedicines
 publisher_name: MDPI
 keywords: salicylanilide derivatives | inclusion complexes | antibacterial activity
 automl_pathway: 0.6441895
-figid_alias: PMC9312894__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC9312894__SF1
+figid_alias: PMC9312894__S1
+figtype: Scheme
+redirect_from: /figures/PMC9312894__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -62,4 +63,14 @@ schema-jsonld:
   - Es3
   - H3b
   - Hdac4
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - ME2
+  - CELSR1
+  - PCDHB11
+  - PCDHB17P
+  - HDAC2
+  - DLL4
+  - HDAC4
 ---

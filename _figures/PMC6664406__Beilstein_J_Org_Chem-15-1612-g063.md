@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g063
 figtitle: Mechanistic pathway catalyzed by Cu–Pybox complex
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g063.jpg
 figlink: /pmc/articles/PMC6664406/figure/C55/
-number: S55
+number: SF55
 caption: Mechanistic pathway catalyzed by Cu–Pybox complex.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7274453
-figid_alias: PMC6664406__S55
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6664406__S55
+figid_alias: PMC6664406__SF55
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF55
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

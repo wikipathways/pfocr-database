@@ -3,6 +3,8 @@ figid: PMC5210134__rcsann.2015.0008-01
 figtitle: The role of WNT signalling in urothelial cell carcinoma
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5210134
 filename: rcsann.2015.0008-01.jpg
 figlink: /pmc/articles/PMC5210134/figure/F1/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.8542458
 figid_alias: PMC5210134__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5210134__F1
 ndex: ''
 seo: CreativeWork

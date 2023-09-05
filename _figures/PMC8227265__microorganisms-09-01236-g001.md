@@ -5,6 +5,9 @@ figtitle: Enhancing Sesquiterpenoid Production from Methane via Synergy of the M
   Bacteria
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8227265
 filename: microorganisms-09-01236-g001.jpg
 figlink: /pmc/articles/PMC8227265/figure/microorganisms-09-01236-f001/
@@ -42,9 +45,6 @@ keywords: sesquiterpenoids | Methylotuvimicrobium alcaliphilum 20Z | methyleryth
 automl_pathway: 0.9608417
 figid_alias: PMC8227265__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8227265__F1
 ndex: ''
 seo: CreativeWork

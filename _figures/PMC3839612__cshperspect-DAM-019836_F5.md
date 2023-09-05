@@ -4,6 +4,9 @@ figtitle: A detailed model of the Rad5-mediate template switch pathway, assuming
   filling dependent on a subset of HR functions after the replication fork has passed
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC3839612
 filename: cshperspect-DAM-019836_F5.jpg
 figlink: /pmc/articles/PMC3839612/figure/A019836F5/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.7484544
 figid_alias: PMC3839612__F5
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC3839612__F5
 ndex: ''
 seo: CreativeWork
@@ -63,9 +63,9 @@ schema-jsonld:
   - RAD5
   - MMS21
   - UBC9
-  - TOP3
-  - RMI1
   - SGS1
+  - RMI1
+  - TOP3
   - PCNA
   - SHPRH
   - NSMCE2

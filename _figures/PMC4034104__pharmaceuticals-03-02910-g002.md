@@ -12,6 +12,8 @@ organisms:
 - Candida dubliniensis
 - Cannabis sativa
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC4034104
 filename: pharmaceuticals-03-02910-g002.jpg
 figlink: /pmc/articles/PMC4034104/figure/pharmaceuticals-03-02910-f002/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9274681
 figid_alias: PMC4034104__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC4034104__F2
 ndex: a8b62452-deb4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -45,10 +45,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - oh
-  - H2
-  - Hspg2
-  - Mgll
   - 2-Arachidonoylglycerol
   - Arachidonic acid
   - Diacylglycerol

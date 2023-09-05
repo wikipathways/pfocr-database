@@ -4,6 +4,8 @@ figtitle: Parkinson's disease (PD)-related gene pathway in response to MG132, me
   (MeHg), and cadmium (Cd) in MEF cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2840217
 filename: toxscikfq003f09_3c.jpg
 figlink: /pmc/articles/PMC2840217/figure/fig9/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8477064
 figid_alias: PMC2840217__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2840217__F9
 ndex: d1947485-de92-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,8 +55,8 @@ schema-jsonld:
   - USP21
   - USP25
   - USP26
-  - USP29
   - USP7
+  - USP29
   - USP38
   - USP2
   - PRKAR1A

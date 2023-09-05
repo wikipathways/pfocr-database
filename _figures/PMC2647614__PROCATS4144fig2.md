@@ -3,6 +3,8 @@ figid: PMC2647614__PROCATS4144fig2
 figtitle: Novel Insights into Lung Transplant Rejection by Microarray Analysis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2647614
 filename: PROCATS4144fig2.jpg
 figlink: /pmc/articles/PMC2647614/figure/fig2/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8901932
 figid_alias: PMC2647614__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2647614__F2
 ndex: 3b53500a-deaf-11ea-99da-0ac135e8bacf
 seo: CreativeWork

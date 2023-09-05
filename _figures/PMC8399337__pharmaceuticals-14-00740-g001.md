@@ -5,6 +5,10 @@ figtitle: 'Epithelial to Mesenchymal Transition in Patients with Pancreatic Duct
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8399337
 filename: pharmaceuticals-14-00740-g001.jpg
 figlink: /pmc/articles/PMC8399337/figure/pharmaceuticals-14-00740-f001/
@@ -40,9 +44,6 @@ keywords: PDAC | EMT | metastasis | biomarker
 automl_pathway: 0.9287288
 figid_alias: PMC8399337__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8399337__F1
 ndex: ''
 seo: CreativeWork
@@ -76,8 +77,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Il6
   - Il1b
+  - Il6
   - Tgfb1
   - Ltbp1
   - Smad2
@@ -92,14 +93,14 @@ schema-jsonld:
   - Pik3r1
   - Akt1
   - Nfkb1
-  - Axin1
   - Gsk3b
+  - Axin1
   - Ctnnb1
   - Zeb1
   - Snai1
   - Twist1
-  - IL6
   - IL1B
+  - IL6
   - JAK1
   - JAK2
   - JAK3
@@ -162,15 +163,15 @@ schema-jsonld:
   - WNT16
   - WNT5A
   - WNT5B
+  - GSK3B
   - AXIN1
   - AXIN2
-  - GSK3B
   - CTNNB1
-  - HNF4A
   - LEF1
   - TCF7
   - TCF7L1
   - TCF7L2
+  - HNF4A
   - NOTCH1
   - NOTCH2
   - NOTCH3
@@ -182,4 +183,22 @@ schema-jsonld:
   - ZEB1
   - SNAI1
   - TWIST1
+  - kita
+  - ngfra
+  - il1b
+  - il6
+  - stat1b
+  - stat4
+  - smad2
+  - smad4a
+  - smad4b
+  - smad3a
+  - pak2a
+  - itpka
+  - egfra
+  - rab1ab
+  - gsk3ba
+  - ctnnb1
+  - elk4
+  - zeb1b
 ---

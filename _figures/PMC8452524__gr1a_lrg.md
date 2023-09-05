@@ -17,6 +17,12 @@ organisms:
 - Sar
 - teleost fish
 - NA
+organisms_ner:
+- Rattus norvegicus
+- Macaca mulatta
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8452524
 filename: gr1a_lrg.jpg
 figlink: ''
@@ -134,11 +140,6 @@ keywords: SARS-CoV-2 | COVID-19 | miRNAs | Gene regulators | Cytokine storm | mi
 automl_pathway: 0.9149827
 figid_alias: PMC8452524__F1a
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Macaca mulatta
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8452524__F1a
 ndex: ''
 seo: CreativeWork
@@ -209,8 +210,8 @@ schema-jsonld:
   - Irf3
   - Tlr3
   - Tlr7
-  - Furin
   - Tmprss2
+  - Furin
   - Tlr8
   - Myd88
   - Irak4
@@ -226,19 +227,19 @@ schema-jsonld:
   - Ang
   - Agt
   - Ifnb1
-  - Prkcg
   - Mapk8
+  - Prkcg
   - Mapk14
   - Nox4
   - Akt1
-  - Mapk3
   - Stat3
+  - Mapk3
   - Jun
   - Adam17
   - Il6
   - Nlrp3
-  - Nos2
   - Ptgs2
+  - Nos2
   - Socs3
   - Lox
   - Pla2g4a
@@ -251,8 +252,8 @@ schema-jsonld:
   - IRF3
   - TLR3
   - TLR7
-  - FURIN
   - TMPRSS2
+  - FURIN
   - TLR8
   - MYD88
   - IRAK4
@@ -268,8 +269,8 @@ schema-jsonld:
   - ADAM17
   - IL6ST
   - NLRP3
-  - NOS2
   - COX2
+  - NOS2
   - SOCS3
   - LOX
   - TNF
@@ -302,8 +303,11 @@ schema-jsonld:
   - TM7SF2
   - ANGPT2
   - VPS51
-  - IFNB1
   - IFNA1
+  - IFNB1
+  - MAPK8
+  - MAPK9
+  - MAPK10
   - PRRT2
   - PRKCA
   - PRKCB
@@ -315,9 +319,6 @@ schema-jsonld:
   - PRKCQ
   - PRKCZ
   - PRKD3
-  - MAPK8
-  - MAPK9
-  - MAPK10
   - CRK
   - MAPK14
   - MAPK1
@@ -331,19 +332,19 @@ schema-jsonld:
   - AKT1
   - AKT2
   - AKT3
+  - MAPK3
   - JAK1
   - JAK2
   - JAK3
   - TYK2
-  - MAPK3
   - FOS
   - FOSB
   - JUNB
   - JUND
   - RPS19BP1
   - IL6
-  - ISYNA1
   - PTGS2
+  - ISYNA1
   - PLA2G4A
   - KAT5
   - APRT
@@ -371,4 +372,35 @@ schema-jsonld:
   - MMP26
   - MMP27
   - MMP28
+  - ace2
+  - tbk1
+  - ticam1
+  - traf3
+  - irf3
+  - tlr3
+  - tlr7
+  - tmprss2
+  - furina
+  - myd88
+  - irak4
+  - irak1
+  - traf6
+  - irf7
+  - mavs
+  - angpt1
+  - angpt2b
+  - mapk8b
+  - mapk14a
+  - nox4
+  - stat3
+  - mapk3
+  - jun
+  - adam17b
+  - il6
+  - nlrp3
+  - socs3a
+  - gpib
+  - loxa
+  - pla2g4aa
+  - tnfb
 ---

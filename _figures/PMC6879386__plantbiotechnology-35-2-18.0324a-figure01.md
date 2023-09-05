@@ -4,6 +4,8 @@ figtitle: Identification and characterization of a novel sesquiterpene synthase,
   synthase, from Artemisia maritima
 organisms:
 - Artemisia maritima
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6879386
 filename: plantbiotechnology-35-2-18.0324a-figure01.jpg
 figlink: /pmc/articles/PMC6879386/figure/figure1/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.844503
 figid_alias: PMC6879386__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6879386__F1
 ndex: ''
 seo: CreativeWork
@@ -37,6 +37,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CTSL
+  - NLN
+  - ALDH1A1
+  - ADH1A
+  - PPOX
+  - MSX2
   - Dihydroartemisinic Dihydroartemisinic
   - aldehyde
   - Amorpha-4,11-diene

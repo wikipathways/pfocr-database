@@ -4,6 +4,9 @@ figtitle: The estrogen biosynthesis pathway
 organisms:
 - Homo sapiens
 - Nicotiana tabacum
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2981456
 filename: carcinbgq156f01_lw.jpg
 figlink: /pmc/articles/PMC2981456/figure/fig1/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9170867
 figid_alias: PMC2981456__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2981456__F1
 ndex: ''
 seo: CreativeWork
@@ -49,6 +50,14 @@ schema-jsonld:
   - CYP19A1
   - CYP1B1
   - COMT
+  - cyp17a1
+  - hsd3b1
+  - hsd3b2
+  - hsd17b1
+  - cyp19a1a
+  - cyp19a1b
+  - cyp1b1
+  - comta
   - 4-hydroxyestradiol
   - 4-methoxyestradiol
   - Androstenedione

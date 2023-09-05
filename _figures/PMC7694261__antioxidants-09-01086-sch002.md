@@ -4,10 +4,12 @@ figtitle: ' The positions where the Δyap1, Δzwf1, and Δglr1 mutants affect gl
   synthesis and metabolism'
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7694261
 filename: antioxidants-09-01086-sch002.jpg
 figlink: pmc/articles/PMC7694261/figure/antioxidants-09-01086-sch002/
-number: S2
+number: SF2
 caption: (A) The positions where the Δyap1, Δzwf1, and Δglr1 mutants affect glutathione
   synthesis and metabolism. (B) The effect due to lack of thioredoxin in the Δtrx2
   mutant in compromising the reduction by thioredoxin-dependent mechanisms of protein
@@ -24,11 +26,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.964991
-figid_alias: PMC7694261__S2
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC7694261__S2
+figid_alias: PMC7694261__SF2
+figtype: Supplemental figure
+redirect_from: /figures/PMC7694261__SF2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

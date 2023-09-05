@@ -3,6 +3,9 @@ figid: PMC3475405__cshperspectmed-ALZ-011452_F3
 figtitle: Blood–brain barrier (BBB) transport in homeostasis of brain AB
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3475405
 filename: cshperspectmed-ALZ-011452_F3.jpg
 figlink: /pmc/articles/PMC3475405/figure/A011452F3/
@@ -37,9 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9284314
 figid_alias: PMC3475405__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3475405__F3
 ndex: 266676eb-defe-11ea-99da-0ac135e8bacf
 seo: CreativeWork

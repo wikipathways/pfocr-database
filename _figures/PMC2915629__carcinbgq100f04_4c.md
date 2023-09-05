@@ -3,6 +3,8 @@ figid: PMC2915629__carcinbgq100f04_4c
 figtitle: Identification of RON-targeting genes
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2915629
 filename: carcinbgq100f04_4c.jpg
 figlink: /pmc/articles/PMC2915629/figure/fig4/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8019121
 figid_alias: PMC2915629__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2915629__F4
 ndex: bb3a971d-df23-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,8 @@ figid: PMC3833493__gahmj.2012.1.2.008.g003
 figtitle: Markers of Coenzyme Q10 synthesis and Function
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3833493
 filename: gahmj.2012.1.2.008.g003.jpg
 figlink: /pmc/articles/PMC3833493/figure/F3/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9335701
 figid_alias: PMC3833493__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3833493__F3
 ndex: ''
 seo: CreativeWork
@@ -50,6 +50,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - coq
+  - Hmgcr
+  - Dsp1
+  - Coa
   - Carbohydrates
   - Cholesterol
   - Coenzyme

@@ -4,6 +4,10 @@ figtitle: Pumping the breaks on B cell development
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4749929
 filename: JEM_2132insight1_Fig2.jpg
 figlink: /pmc/articles/PMC4749929/figure/fig2/
@@ -21,9 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9509872
 figid_alias: PMC4749929__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC4749929__F2
 ndex: ''
 seo: CreativeWork
@@ -61,4 +62,10 @@ schema-jsonld:
   - SPIC
   - SPI1
   - IRF4
+  - syk
+  - blnk
+  - atm
+  - nfkb2
+  - spic
+  - spi1b
 ---

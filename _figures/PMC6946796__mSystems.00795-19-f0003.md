@@ -5,6 +5,8 @@ organisms:
 - metagenome
 - metagenomes
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6946796
 filename: mSystems.00795-19-f0003.jpg
 figlink: pmc/articles/PMC6946796/figure/fig3/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.6940727
 figid_alias: PMC6946796__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6946796__F3
 ndex: ''
 seo: CreativeWork
@@ -55,6 +55,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - so
+  - Cpr
+  - mid
+  - CycE
+  - cyc
+  - im
   - Acetate
   - Fe
   - Hydrogen

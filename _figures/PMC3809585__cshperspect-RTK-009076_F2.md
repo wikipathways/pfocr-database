@@ -3,6 +3,9 @@ figid: PMC3809585__cshperspect-RTK-009076_F2
 figtitle: TAM receptor signaling pathways
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3809585
 filename: cshperspect-RTK-009076_F2.jpg
 figlink: /pmc/articles/PMC3809585/figure/A009076F2/
@@ -41,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9462073
 figid_alias: PMC3809585__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3809585__F2
 ndex: 49fa51ca-de90-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -104,16 +105,16 @@ schema-jsonld:
   - PRKCZ
   - PRKD3
   - GRB2
-  - BCAR1
   - CRK
+  - BCAR1
   - RAC1
   - RAC2
   - RAC3
   - RHOG
   - IFNAR1
   - IFNAR2
-  - SOAT1
   - STAT1
+  - SOAT1
   - STAT2
   - STAT3
   - STAT4
@@ -133,5 +134,33 @@ schema-jsonld:
   - TLR10
   - SLC26A8
   - SLC16A10
+  - PolG1
+  - pyd
+  - l(1)G0020
+  - Taf4
+  - Pi3K92E
+  - Rpn2
+  - Sap-r
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - Akt
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - drk
+  - dock
+  - Ced-12
+  - Crk
+  - .na.character
+  - p130CAS
+  - Rac1
+  - Rac2
+  - Mtl
+  - Stat92E
+  - 18w
+  - tok
+  - tlr-2
   - Cancer
 ---

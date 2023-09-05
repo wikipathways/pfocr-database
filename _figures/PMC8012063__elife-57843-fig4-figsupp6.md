@@ -24,10 +24,14 @@ organisms:
 - Caenorhabditis elegans
 - Homo sapiens
 - Fundulus heteroclitus
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
 pmcid: PMC8012063
 filename: elife-57843-fig4-figsupp6.jpg
 figlink: pmc/articles/PMC8012063/figure/fig4s6/
-number: SF4_6
+number: F4
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
@@ -41,12 +45,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9084439
-figid_alias: PMC8012063__SF4_6
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-- Mus musculus
-redirect_from: /figures/PMC8012063__SF4_6
+figid_alias: PMC8012063__F4
+figtype: Figure
+redirect_from: /figures/PMC8012063__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -66,8 +67,8 @@ schema-jsonld:
   - Atpalpha
   - na
   - ups
-  - Pa
   - S6kII
+  - Pa
   - Amph
   - stnA
   - Pka-C1
@@ -96,6 +97,28 @@ schema-jsonld:
   - Htra1
   - Crtap
   - Nbl1
+  - ATP8A2
+  - HMBS
+  - AMPH
+  - APRT
+  - MFAP1
+  - IGKV2D-29
+  - SLC22A4
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - TH
+  - MMP3
+  - EPHA8
+  - SULT1E1
+  - HTRA1
+  - CUX1
+  - CYTIP
+  - CRTAP
   - ATP
   - AMP
   - L-DOPA

@@ -5,6 +5,9 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
 pmcid: PMC3181925
 filename: DialoguesClinNeurosci-11-319-g001.jpg
 figlink: /pmc/articles/PMC3181925/figure/DialoguesClinNeurosci-11-319-g001/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9445795
 figid_alias: PMC3181925__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3181925__F1
 ndex: 3ff2f969-debb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -62,6 +63,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Il4
+  - Ido1
+  - Nek1
+  - Katnb1
+  - Tstd1
+  - Grin1
+  - IL4
+  - IDO1
+  - KATNB1
+  - F11R
+  - TSTD1
   - Serotonin
   - Tryptophan
   - Quinolinic acid

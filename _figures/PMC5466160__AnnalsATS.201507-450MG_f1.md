@@ -3,6 +3,9 @@ figid: PMC5466160__AnnalsATS.201507-450MG_f1
 figtitle: Autophagy pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC5466160
 filename: AnnalsATS.201507-450MG_f1.jpg
 figlink: /pmc/articles/PMC5466160/figure/fig1/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.8478113
 figid_alias: PMC5466160__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5466160__F1
 ndex: 496772c6-de8e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -88,11 +89,16 @@ schema-jsonld:
   - BECN1
   - ULK1
   - ATG4B
-  - ATG7
   - ATG3
+  - ATG7
+  - ATG12
   - ATG10
   - GABARAPL2
   - GABARAPL1
-  - ATG12
   - ATG5
+  - ATG9
+  - ATG11
+  - VPS30
+  - ATG8
+  - ATG16
 ---

@@ -6,6 +6,10 @@ organisms:
 - Drosophila melanogaster
 - Caenorhabditis elegans
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC3179337
 filename: cshperspect-GRM-005553_F3.jpg
 figlink: /pmc/articles/PMC3179337/figure/A005553F3/
@@ -48,9 +52,6 @@ keywords: .na.character
 automl_pathway: 0.9252342
 figid_alias: PMC3179337__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Caenorhabditis elegans
 redirect_from: /figures/PMC3179337__F3
 ndex: dff205c7-dea2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -125,4 +126,29 @@ schema-jsonld:
   - efn-2
   - vav-1
   - vab-1
+  - PDE3A
+  - MSMB
+  - MST1
+  - TMPRSS13
+  - LMLN
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - RASA1
+  - RGS6
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - VAV1
+  - EPHA1
 ---

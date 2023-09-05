@@ -3,6 +3,9 @@ figid: PMC4930925__cshperspect-STH-023895_F3
 figtitle: Engineered gene circuits
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4930925
 filename: cshperspect-STH-023895_F3.jpg
 figlink: /pmc/articles/PMC4930925/figure/A023895F3/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.79133
 figid_alias: PMC4930925__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4930925__F3
 ndex: ''
 seo: CreativeWork
@@ -89,6 +89,7 @@ schema-jsonld:
   - APP
   - AAAS
   - AAA1
+  - GPR65
   - FZD4
   - NMUR1
   - LPAR3
@@ -119,7 +120,6 @@ schema-jsonld:
   - GPRC5B
   - GPRC5C
   - GPRC5D
-  - GPR65
   - HBA-LCR
   - HPSE
   - MIR141

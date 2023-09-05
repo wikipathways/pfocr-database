@@ -12,6 +12,10 @@ organisms:
 - Cryptococcus neoformans var. grubii H99
 - Homo sapiens
 - Escherichia coli
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
+- Caenorhabditis elegans
 pmcid: PMC6952202
 filename: mSphere.00818-19-f0006.jpg
 figlink: pmc/articles/PMC6952202/figure/fig6/
@@ -36,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.8983667
 figid_alias: PMC6952202__F6
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC6952202__F6
 ndex: ''
 seo: CreativeWork
@@ -73,5 +75,35 @@ schema-jsonld:
   - HSP82
   - RIM1
   - RIM101
+  - CSE1L
+  - CTNND1
+  - BCAR1
+  - TMX2-CTNND1
+  - MT1A
+  - MT1B
+  - MT1E
+  - MT1F
+  - MT1G
+  - MT1H
+  - MT1JP
+  - MT1M
+  - MT1L
+  - MT1X
+  - MTNR1A
+  - ALG1
+  - MT1IP
+  - MTG1
+  - MAP2K1
+  - MAP2K2
+  - HSP90AA1
+  - HSP90B1
+  - TRAP1
+  - HSP90AB1
+  - RIMS1
+  - ATP6V1B2
+  - rom-2
+  - rho-1
+  - pkc-1
+  - hsp-90
   - GDP
 ---

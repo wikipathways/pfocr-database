@@ -3,6 +3,9 @@ figid: PMC7580956__mSphere.00675-20-f0004
 figtitle: Carbon metabolism in the plastids of E
 organisms:
 - Euglena longa
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7580956
 filename: mSphere.00675-20-f0004.jpg
 figlink: pmc/articles/PMC7580956/figure/fig4/
@@ -45,8 +48,6 @@ keywords: .na.character
 automl_pathway: 0.8233143
 figid_alias: PMC7580956__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7580956__F4
 ndex: ''
 seo: CreativeWork
@@ -87,6 +88,91 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - trx
+  - Trxr-1
+  - Trx-2
+  - fd
+  - anon-16Fb
+  - fo
+  - en
+  - nr
+  - Su(fu)
+  - adp
+  - su(f)
+  - ATPsynbeta
+  - Atpalpha
+  - Rbp9
+  - fbp
+  - Aldh-III
+  - pat
+  - ptc
+  - Tpt
+  - Tpi
+  - Gapdh2
+  - Gpdh1
+  - Gapdh1
+  - Had1
+  - Adh
+  - dwg
+  - Sobp
+  - Pgk
+  - ar
+  - Rpe
+  - tt
+  - CycE
+  - cyc
+  - Mdr65
+  - Dark
+  - cb
+  - CdGAPr
+  - RasGAP1
+  - ArfGAP1
+  - TXN
+  - VAC14
+  - ITGA5
+  - ITGB1
+  - DECR1
+  - SUFU
+  - WDTC1
+  - ATP8A2
+  - FES
+  - TNFSF14
+  - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - ALDOA
+  - ALDOB
+  - ALDOC
+  - SHH
+  - PDSS1
+  - LMBR1
+  - TPI1
+  - GAPDH
+  - GAPDHP44
+  - HADH
+  - AVP
+  - ADH1A
+  - ADH1B
+  - ADH1C
+  - ADH4
+  - ADH5
+  - ADH6
+  - ADH7
+  - ADHFE1
+  - SHBG
+  - CCHCR1
+  - AR
+  - RPIA
+  - RPE
+  - PLK3
+  - PGP
+  - ABCB1
+  - PGPEP1
+  - RASA1
+  - RGS6
   - Fd
   - NADP
   - NADPH

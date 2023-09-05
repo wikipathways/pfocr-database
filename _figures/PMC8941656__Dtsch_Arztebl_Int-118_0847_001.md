@@ -3,6 +3,8 @@ figid: PMC8941656__Dtsch_Arztebl_Int-118_0847_001
 figtitle: Evaluation of Iron Deficiency and Iron Overload
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8941656
 filename: Dtsch_Arztebl_Int-118_0847_001.jpg
 figlink: /pmc/articles/PMC8941656/figure/F1/
@@ -33,8 +35,6 @@ keywords: ''
 automl_pathway: 0.9282076
 figid_alias: PMC8941656__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8941656__F1
 ndex: ''
 seo: CreativeWork
@@ -91,7 +91,7 @@ schema-jsonld:
   - SMAD9
   - SMAD2
   - SMAD3
-  - HFE
   - TFR2
+  - HFE
   - HJV
 ---

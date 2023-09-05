@@ -3,6 +3,8 @@ figid: PMC8954062__microorganisms-10-00554-g002
 figtitle: Production of Vitamin K by Wild-Type and Engineered Microorganisms
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8954062
 filename: microorganisms-10-00554-g002.jpg
 figlink: /pmc/articles/PMC8954062/figure/microorganisms-10-00554-f002/
@@ -58,8 +60,6 @@ keywords: vitamin K | production | microorganisms | fermentation | metabolic eng
 automl_pathway: 0.899754
 figid_alias: PMC8954062__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8954062__F2
 ndex: ''
 seo: CreativeWork
@@ -134,8 +134,8 @@ schema-jsonld:
   - aroK
   - aroC
   - fbaB
-  - ubiE
   - rraA
+  - ubiE
   - thiL
   - thiI
   - proA

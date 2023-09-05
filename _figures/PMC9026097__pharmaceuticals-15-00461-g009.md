@@ -4,6 +4,8 @@ figtitle: Transcriptomic Analysis of Fumarate Compounds Identifies Unique Effect
   of Isosorbide Di-(Methyl Fumarate) on NRF2, NF-kappaB and IRF1 Pathway Genes
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9026097
 filename: pharmaceuticals-15-00461-g009.jpg
 figlink: /pmc/articles/PMC9026097/figure/pharmaceuticals-15-00461-f009/
@@ -38,8 +40,6 @@ keywords: astrocyte | dimethyl fumarate | diroximel fumarate | glial cells | Int
 automl_pathway: 0.9588422
 figid_alias: PMC9026097__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9026097__F9
 ndex: ''
 seo: CreativeWork
@@ -71,6 +71,7 @@ schema-jsonld:
   keywords:
   - GABPA
   - NFE2L2
+  - RPL22
   - MAF
   - MAFA
   - MAFB
@@ -84,9 +85,9 @@ schema-jsonld:
   - IRF1
   - IL6
   - CASP4
-  - FAM20C
   - NOS1
   - NOS2
   - NOS3
+  - FAM20C
   - LINC00689
 ---

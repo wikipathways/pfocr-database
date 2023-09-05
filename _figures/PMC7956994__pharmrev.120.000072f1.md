@@ -3,6 +3,8 @@ figid: PMC7956994__pharmrev.120.000072f1
 figtitle: Complement system with focus on most relevant targets for therapeutic inhibition
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7956994
 filename: pharmrev.120.000072f1.jpg
 figlink: pmc/articles/PMC7956994/figure/F1/
@@ -66,8 +68,6 @@ keywords: .na.character
 automl_pathway: 0.9020092
 figid_alias: PMC7956994__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7956994__F1
 ndex: ''
 seo: CreativeWork
@@ -132,9 +132,9 @@ schema-jsonld:
   - CRP
   - CSRP1
   - PPIAP10
-  - CD40LG
   - PTX3
   - PITX3
+  - CD40LG
   - FH
   - C3
   - MBL2

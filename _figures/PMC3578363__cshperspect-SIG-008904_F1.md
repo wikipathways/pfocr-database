@@ -3,6 +3,9 @@ figid: PMC3578363__cshperspect-SIG-008904_F1
 figtitle: G1 cell cycle control by the pRB pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3578363
 filename: cshperspect-SIG-008904_F1.jpg
 figlink: /pmc/articles/PMC3578363/figure/A008904F1/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8698782
 figid_alias: PMC3578363__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC3578363__F1
 ndex: 05acf2b5-df1c-11ea-99da-0ac135e8bacf
 seo: CreativeWork

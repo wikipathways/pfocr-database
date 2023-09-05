@@ -4,6 +4,8 @@ figtitle: TGFB canonical signal transduction pathway and transcriptional respons
   mediating TGFB growth inhibitory effects
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2981460
 filename: carcinbgq155f01_4c.jpg
 figlink: /pmc/articles/PMC2981460/figure/fig1/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9276692
 figid_alias: PMC2981460__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2981460__F1
 ndex: d625cde7-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,15 +63,15 @@ schema-jsonld:
   - SMAD2
   - SMAD3
   - SMAD4
-  - CDKN1A
-  - TCEAL1
-  - NSG1
-  - H3P16
   - CDKN2B
   - MRPL28
   - SUB1
   - NXT1
   - H3P9
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
   - MYC
   - CDC25A
 ---

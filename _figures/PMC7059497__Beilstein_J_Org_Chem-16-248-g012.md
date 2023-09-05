@@ -3,6 +3,8 @@ figid: PMC7059497__Beilstein_J_Org_Chem-16-248-g012
 figtitle: Mechanistic pathway for the synthesis of coumarin derivatives via C–H cyclization
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7059497
 filename: Beilstein_J_Org_Chem-16-248-g012.jpg
 figlink: pmc/articles/PMC7059497/figure/F11/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.8686666
 figid_alias: PMC7059497__F11
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7059497__F11
 ndex: ''
 seo: CreativeWork

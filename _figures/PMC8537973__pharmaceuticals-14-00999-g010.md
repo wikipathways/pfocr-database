@@ -11,6 +11,12 @@ organisms:
 - Homo sapiens
 - Canis lupus familiaris
 - Schaalia meyeri
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Canis lupus familiaris
+- Danio rerio
 pmcid: PMC8537973
 filename: pharmaceuticals-14-00999-g010.jpg
 figlink: /pmc/articles/PMC8537973/figure/pharmaceuticals-14-00999-f010/
@@ -36,11 +42,6 @@ keywords: red ginseng | ginsenoside Rg5 | gene expression | IPA pathways | netwo
 automl_pathway: 0.9255329
 figid_alias: PMC8537973__F10
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Canis lupus familiaris
 redirect_from: /figures/PMC8537973__F10
 ndex: ''
 seo: CreativeWork
@@ -92,8 +93,8 @@ schema-jsonld:
   - Sod2
   - Sdhc
   - Igf1
-  - Scn8a
   - Med14
+  - Scn8a
   - Ccnd1
   - Pdia3
   - Myl6
@@ -147,6 +148,7 @@ schema-jsonld:
   - SDHC
   - LOC642502
   - IGF1
+  - MED14
   - COL9A1
   - COL9A2
   - COL9A3
@@ -169,7 +171,6 @@ schema-jsonld:
   - MED12
   - MED12L
   - MED13L
-  - MED14
   - MED15
   - MED16
   - MED17
@@ -200,4 +201,39 @@ schema-jsonld:
   - HT
   - Ndufa10l1
   - Th
+  - atf4a
+  - mmp2
+  - jun
+  - nfkb2
+  - tbl1xr1b
+  - tbl1xr1a
+  - sp1
+  - jak3
+  - nrf1
+  - setd7
+  - gnb3b
+  - igf1rb
+  - med13b
+  - med13a
+  - prkag2b
+  - pik3c2b
+  - pik3r2
+  - hrasa
+  - akt2
+  - dlg4
+  - dlg4b
+  - gna12a
+  - pdgfc
+  - ndufa10
+  - sod2
+  - sdhc
+  - igf1
+  - med14
+  - ccnd1
+  - pdia3
+  - myl6
+  - fosab
+  - rhoaa
+  - rhoab
+  - eng
 ---

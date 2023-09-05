@@ -4,6 +4,8 @@ figtitle: PI3K-AKT (phosphatidylinositol-4,5-bisphosphate 3-kinase-AKT) signalin
   pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f4.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig4/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9003409
 figid_alias: PMC4979452__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F4
 ndex: 648a9302-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -132,8 +132,8 @@ schema-jsonld:
   - PTCHD3
   - GSK3A
   - GSK3B
-  - EIF4EBP1
   - DLX4
+  - EIF4EBP1
   - YWHAG
   - PTCH1
   - EEF2

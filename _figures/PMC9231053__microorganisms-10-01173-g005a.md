@@ -5,6 +5,9 @@ figtitle: Estimation of Carbon Metabolism in Saccharomyces cerevisiae Acclimatiz
 organisms:
 - Saccharomyces cerevisiae
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9231053
 filename: microorganisms-10-01173-g005a.jpg
 figlink: .na.character
@@ -33,8 +36,6 @@ keywords: Saccharomyces cerevisiae | glycerol acclimatization | carbon metabolis
 automl_pathway: 0.8430679
 figid_alias: PMC9231053__F5a
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9231053__F5a
 ndex: ''
 seo: CreativeWork
@@ -81,4 +82,17 @@ schema-jsonld:
   - ADH6
   - ADH7
   - ADHFE1
+  - gp
+  - Pa
+  - Tom
+  - alphaTub67C
+  - nes
+  - ke
+  - Tpi
+  - an
+  - Mps1
+  - Ald1
+  - Ald2
+  - Gpt
+  - Adh
 ---

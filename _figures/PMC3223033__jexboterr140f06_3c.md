@@ -4,6 +4,9 @@ figtitle: Schematic illustration of the main metabolic pathways based on the pro
   identified in the citrus pulp chromoplasts
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3223033
 filename: jexboterr140f06_3c.jpg
 figlink: /pmc/articles/PMC3223033/figure/fig6/
@@ -39,9 +42,6 @@ keywords: .na.character
 automl_pathway: 0.9415632
 figid_alias: PMC3223033__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC3223033__F6
 ndex: ''
 seo: CreativeWork

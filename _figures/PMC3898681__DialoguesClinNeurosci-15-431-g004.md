@@ -4,6 +4,8 @@ figtitle: Working model of chronic morphine-induced adaptations in ventral tegme
   area (VTA) dopamine neurons
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3898681
 filename: DialoguesClinNeurosci-15-431-g004.jpg
 figlink: /pmc/articles/PMC3898681/figure/DialoguesClinNeurosci-15-431-g004/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9527992
 figid_alias: PMC3898681__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3898681__F4
 ndex: a0c8c26b-dee5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -66,18 +66,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BDNF
-  - BDNF-AS
-  - IRS2
-  - MAPKAP1
-  - MTOR
-  - RICTOR
-  - MLST8
-  - AKT1
-  - AKT2
-  - AKT3
-  - RPTOR
-  - NTRK2
-  - RPS6KB1
-  - RPS6KB2
+  - da
+  - nAChRalpha2
+  - GABA-B-R1
+  - Rdl
+  - Gabat
+  - Akt
+  - Crtc
+  - S6k
 ---

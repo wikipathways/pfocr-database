@@ -4,6 +4,9 @@ figtitle: 'CD38 in the age of COVID-19: a medical perspective'
 organisms:
 - Severe acute respiratory syndrome coronavirus 2
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8313238
 filename: physrev.00046.2020_f005.jpg
 figlink: /pmc/articles/PMC8313238/figure/F0005/
@@ -42,8 +45,6 @@ keywords: CD38 | COVID-19 | NAD+ metabolome | SARS-CoV-2
 automl_pathway: 0.9313698
 figid_alias: PMC8313238__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8313238__F5
 ndex: ''
 seo: CreativeWork
@@ -105,4 +106,16 @@ schema-jsonld:
   - RYR3
   - TRPM2
   - CLU
+  - tmprss2
+  - tlr7
+  - myd88
+  - gja1b
+  - il6
+  - cxcl8a
+  - il1b
+  - nlrp3
+  - tnfrsfa
+  - tnfb
+  - ccl38a.5
+  - trpm2
 ---

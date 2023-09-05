@@ -4,6 +4,8 @@ figtitle: Transforming growth factor B (TGFB) and bone morphogenetic protein (BM
   signaling in bone homeostasis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5666637
 filename: cshperspect-TGF-022269_F5.jpg
 figlink: /pmc/articles/PMC5666637/figure/A022269F5/
@@ -36,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.919091
 figid_alias: PMC5666637__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5666637__F5
 ndex: ec795ec2-de92-11ea-99da-0ac135e8bacf
 seo: CreativeWork

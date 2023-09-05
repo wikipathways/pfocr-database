@@ -3,6 +3,8 @@ figid: PMC5630004__cshperspect-TGF-022301_F2
 figtitle: Drug targets on the TGFB signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5630004
 filename: cshperspect-TGF-022301_F2.jpg
 figlink: /pmc/articles/PMC5630004/figure/A022301F2/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9584624
 figid_alias: PMC5630004__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5630004__F2
 ndex: ''
 seo: CreativeWork

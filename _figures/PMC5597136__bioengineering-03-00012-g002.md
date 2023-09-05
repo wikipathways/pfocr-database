@@ -3,6 +3,8 @@ figid: PMC5597136__bioengineering-03-00012-g002
 figtitle: Known and recovered GRN for SOS pathway in E
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC5597136
 filename: bioengineering-03-00012-g002.jpg
 figlink: /pmc/articles/PMC5597136/figure/bioengineering-03-00012-f002/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.7499489
 figid_alias: PMC5597136__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC5597136__F2
 ndex: ''
 seo: CreativeWork

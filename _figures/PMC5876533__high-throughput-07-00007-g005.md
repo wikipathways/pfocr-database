@@ -10,6 +10,8 @@ organisms:
 - Homo sapiens
 - Corynebacterium glutamicum
 - environmental samples
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5876533
 filename: high-throughput-07-00007-g005.jpg
 figlink: /pmc/articles/PMC5876533/figure/high-throughput-07-00007-f005/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8298865
 figid_alias: PMC5876533__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5876533__F5
 ndex: ''
 seo: CreativeWork
@@ -59,6 +59,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Coa
+  - l(1)TK127
+  - Rel
+  - op
+  - CycE
+  - cyc
   - D-Fructose-6P
   - Sucrose
   - 3-ketosucrose

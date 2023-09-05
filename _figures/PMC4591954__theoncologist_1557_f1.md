@@ -3,6 +3,8 @@ figid: PMC4591954__theoncologist_1557_f1
 figtitle: Therapeutic targeting of the canonical WNT pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4591954
 filename: theoncologist_1557_f1.jpg
 figlink: /pmc/articles/PMC4591954/figure/F1/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9723808
 figid_alias: PMC4591954__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4591954__F1
 ndex: 30bb63ad-dec2-11ea-99da-0ac135e8bacf
 seo: CreativeWork

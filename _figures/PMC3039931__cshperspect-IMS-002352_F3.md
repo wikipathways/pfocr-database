@@ -4,6 +4,8 @@ figtitle: Inhibitory pathways in innate cells utilizing ITIM or “inhibitory”
   signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3039931
 filename: cshperspect-IMS-002352_F3.jpg
 figlink: /pmc/articles/PMC3039931/figure/A002352F3/
@@ -47,9 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9166459
 figid_alias: PMC3039931__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC3039931__F3
 ndex: 438139f3-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -143,29 +142,5 @@ schema-jsonld:
   - NFAT5
   - CCL25
   - TEC
-  - Low
-  - Shark
-  - csw
-  - Fak
-  - rho
-  - Bx
-  - Rho1
-  - Lcp65Ab1
-  - RhoBTB
-  - ras
-  - Ras64B
-  - Ras85D
-  - inaC
-  - Pkc98E
-  - aPKC
-  - Pkc53E
-  - Act5C
-  - Act42A
-  - Act57B
-  - Act79B
-  - Act88F
-  - Act87E
-  - NFAT
-  - Btk
   - Cancer
 ---

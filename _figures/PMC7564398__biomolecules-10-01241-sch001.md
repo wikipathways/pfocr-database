@@ -8,10 +8,16 @@ organisms:
 - Armoracia rusticana
 - Cannabis sativa
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Danio rerio
+- Drosophila melanogaster
 pmcid: PMC7564398
 filename: biomolecules-10-01241-sch001.jpg
 figlink: pmc/articles/PMC7564398/figure/biomolecules-10-01241-sch001/
-number: S1
+number: SF1
 caption: Effects of a high-fat diet (HFD) and chronic cannabidiol (CBD) administration
   on the sphingolipid metabolic pathway in rat myocytes. ↑, increase; ↓, decrease;
   red arrows indicate the effects of high-fat feeding; green arrows indicate the effects
@@ -31,13 +37,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9445949
-figid_alias: PMC7564398__S1
-figtype: Scheme
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-redirect_from: /figures/PMC7564398__S1
+figid_alias: PMC7564398__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC7564398__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -78,6 +80,23 @@ schema-jsonld:
   - Des
   - Ugcg
   - Smpd2
+  - gsk3ba
+  - gsk3ab
+  - sptlc1
+  - sphk2
+  - asah1a
+  - desma
+  - notch1a
+  - ugcg
+  - smpd2a
+  - sgg
+  - Akt
+  - Sk2
+  - de
+  - Ten-a
+  - ifc
+  - schlank
+  - nSMase
   - serine
   - palmitoyl
   - ketosphinganine

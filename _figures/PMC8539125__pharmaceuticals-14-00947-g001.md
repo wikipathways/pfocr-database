@@ -4,6 +4,8 @@ figtitle: Amantadine in the Treatment of Sexual Inactivity in Schizophrenia Pati
   Taking Atypical Antipsychotics—The Pilot Case Series Study
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8539125
 filename: pharmaceuticals-14-00947-g001.jpg
 figlink: /pmc/articles/PMC8539125/figure/pharmaceuticals-14-00947-f001/
@@ -31,8 +33,6 @@ keywords: amantadine | sexual disfunctions | sex drive | libido | schizophrenia 
 automl_pathway: 0.939496
 figid_alias: PMC8539125__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8539125__F1
 ndex: ''
 seo: CreativeWork

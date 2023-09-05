@@ -7,6 +7,11 @@ organisms:
 - Homo sapiens
 - Armoracia rusticana
 - Adeno-associated virus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC8906734
 filename: sciadv.abi4797-f1.jpg
 figlink: /pmc/articles/PMC8906734/figure/F1/
@@ -42,10 +47,6 @@ keywords: ''
 automl_pathway: 0.7255356
 figid_alias: PMC8906734__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC8906734__F1
 ndex: ''
 seo: CreativeWork
@@ -79,8 +80,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - fc
   - Fkbp5
+  - fc
   - Abl2
   - Rere
   - Albfm1
@@ -128,4 +129,48 @@ schema-jsonld:
   - Trna
   - Prkaa2
   - Tmprss5
+  - ko
+  - Sh
+  - arg
+  - aos
+  - Cys
+  - mmy
+  - Csp
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Coa
+  - TotM
+  - PGRP-LC
+  - rn
+  - TotB
+  - TotA
+  - TotZ
+  - TotX
+  - TotF
+  - TotC
+  - orn
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - put
+  - wg
+  - MTA1-like
+  - MtnA
+  - Pos
+  - Mitf
+  - trnA
+  - tRNA:Asp-GTC-1-9
+  - S6k
+  - Crtc
+  - Nuc
+  - gig
+  - Lkb1
+  - SNF4Agamma
+  - AMPKalpha
+  - Amph
+  - ATPsynbeta
+  - Atpalpha
 ---

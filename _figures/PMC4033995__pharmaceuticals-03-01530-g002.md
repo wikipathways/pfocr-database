@@ -6,6 +6,10 @@ organisms:
 - Rattus norvegicus
 - Cavia porcellus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC4033995
 filename: pharmaceuticals-03-01530-g002.jpg
 figlink: /pmc/articles/PMC4033995/figure/pharmaceuticals-03-01530-f002/
@@ -23,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.7806513
 figid_alias: PMC4033995__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4033995__F2
 ndex: ''
 seo: CreativeWork
@@ -39,6 +41,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GPR162
+  - COX1
+  - PTGS1
+  - PTGS2
+  - ALOX15
+  - SPACA9
+  - SPG21
+  - Gpr162
+  - Ptgs1
+  - Ptgs2
+  - Alox15
+  - Spg21
+  - Spaca9
+  - Pen
+  - alphaTub85E
+  - Prosalpha2
+  - nAChRalpha2
+  - COX2
+  - pain
+  - chb
   - Arachidonic acid
   - Histamine
   - Prostaglandins

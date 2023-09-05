@@ -4,6 +4,8 @@ figtitle: Adenosine A1 Receptor Agonist (R-PIA) before Pilocarpine Modulates Pro
   and Anti-Apoptotic Factors in an Animal Model of Epilepsy
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8074097
 filename: pharmaceuticals-14-00376-g006.jpg
 figlink: /pmc/articles/PMC8074097/figure/pharmaceuticals-14-00376-f006/
@@ -46,8 +48,6 @@ keywords: epilepsy | pilocarpine | adenosine | A1-receptor | neuroprotection | c
 automl_pathway: 0.943256
 figid_alias: PMC8074097__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8074097__F6
 ndex: ''
 seo: CreativeWork
@@ -89,8 +89,8 @@ schema-jsonld:
   keywords:
   - IL16
   - RPIA
-  - BAX
   - BAK1
+  - BAX
   - APAF1
   - CTSA
   - CTSB
@@ -126,8 +126,8 @@ schema-jsonld:
   - CASP14
   - CASP3
   - CASP7
-  - FASLG
   - TNFSF10
+  - FASLG
   - BID
   - TNFRSF1A
   - TNFRSF1B

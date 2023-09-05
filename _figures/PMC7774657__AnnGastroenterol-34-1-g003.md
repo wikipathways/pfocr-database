@@ -4,6 +4,8 @@ figtitle: 'Aspirin’s role in colorectal cancer prevention Cyclooxygenase (COX)
   pathway (Left panel): Inhibition of COX-1 in platelets and COX-2 in epithelial cells'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7774657
 filename: AnnGastroenterol-34-1-g003.jpg
 figlink: pmc/articles/PMC7774657/figure/F1/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.8868321
 figid_alias: PMC7774657__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7774657__F1
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC5008074__cshperspect-TGF-022061_F3
 figtitle: MicroRNA (miRNA) biogenesis pathway and its regulation by Smad proteins
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5008074
 filename: cshperspect-TGF-022061_F3.jpg
 figlink: /pmc/articles/PMC5008074/figure/A022061F3/
@@ -42,9 +45,6 @@ keywords: .na.character
 automl_pathway: 0.7460952
 figid_alias: PMC5008074__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5008074__F3
 ndex: 4097ddca-df30-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -84,16 +84,16 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - Polr2A
+  - Polr2C
+  - Polr2B
+  - Polr2I
+  - Polr2F
   - Prim1
   - PolA1
   - PolA2
   - sv
   - Prim2
   - svr
-  - Polr2C
-  - Polr2B
-  - Polr2I
-  - Polr2F
   - tf
   - sbe
   - drosha

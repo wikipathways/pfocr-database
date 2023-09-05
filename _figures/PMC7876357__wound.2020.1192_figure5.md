@@ -4,6 +4,9 @@ figtitle: 'Hyaluronan, Transforming Growth Factor B, and Extra Domain A-Fibronec
   A Fibrotic Triad'
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7876357
 filename: wound.2020.1192_figure5.jpg
 figlink: /pmc/articles/PMC7876357/figure/f5/
@@ -38,8 +41,6 @@ keywords: hyaluronic acid | TGF-β | ED-fibronectin | TLR4 | inflammation | fibr
 automl_pathway: 0.8953055
 figid_alias: PMC7876357__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7876357__F5
 ndex: ''
 seo: CreativeWork
@@ -97,8 +98,8 @@ schema-jsonld:
   - PCBP4
   - EP300
   - SMAD4
-  - SMAD3
   - USF2
+  - SMAD3
   - TCFL5
   - TP53
   - TP63
@@ -110,12 +111,12 @@ schema-jsonld:
   - FOSB
   - JUNB
   - JUND
+  - MTG1
   - RHO
   - RHOD
   - RHOA
   - RHOB
   - RHOC
-  - MTG1
   - ROCK1
   - ROCK2
   - PPM1A
@@ -126,4 +127,48 @@ schema-jsonld:
   - REL
   - NFKB2
   - BAMBI
+  - Toll-4
+  - scb
+  - dpp
+  - gbb
+  - put
+  - mav
+  - dl
+  - wash
+  - Dif
+  - Rel
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - Egfr
+  - Src42A
+  - Csk
+  - Src64B
+  - nej
+  - CBP
+  - eIF4E1
+  - osa
+  - Med
+  - cha
+  - ChAT
+  - p53
+  - hth
+  - tefu
+  - Smox
+  - Jra
+  - AP-1gamma
+  - kay
+  - rho
+  - Bx
+  - Rho1
+  - Lcp65Ab1
+  - Rok
+  - Myd88
+  - Tak1
+  - rl
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
 ---

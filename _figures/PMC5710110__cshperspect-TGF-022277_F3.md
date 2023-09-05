@@ -4,6 +4,8 @@ figtitle: Transforming growth factor B (TGFB)-induced transcriptional program an
   its alterations in cancer
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5710110
 filename: cshperspect-TGF-022277_F3.jpg
 figlink: /pmc/articles/PMC5710110/figure/A022277F3/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.6807386
 figid_alias: PMC5710110__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5710110__F3
 ndex: 84064ff0-df2d-11ea-99da-0ac135e8bacf
 seo: CreativeWork

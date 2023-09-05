@@ -3,6 +3,9 @@ figid: PMC5490411__pharmaceuticals-10-00054-g003
 figtitle: Schematic overview of TGFB signalling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC5490411
 filename: pharmaceuticals-10-00054-g003.jpg
 figlink: /pmc/articles/PMC5490411/figure/pharmaceuticals-10-00054-f003/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.961171
 figid_alias: PMC5490411__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5490411__F3
 ndex: 59df1ec6-dedb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,42 +57,23 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TGFB1
-  - TGFB2
-  - TGFB3
-  - BMP1
-  - BMP2
-  - BMP3
-  - BMP4
-  - BMP5
-  - BMP6
-  - BMP7
-  - BMP8A
-  - BMP8B
-  - BMP10
-  - BMP15
-  - GDF1
-  - GDF2
-  - GDF3
-  - GDF5
-  - GDF6
-  - GDF7
-  - MAPK1
-  - MAPK3
-  - MAPK11
-  - MAPK12
-  - MAPK13
-  - MAPK14
-  - MAPK8
-  - MAPK9
-  - MAPK10
-  - SMAD4
-  - SMAD1
-  - SMAD5
-  - SMAD6
-  - SMAD7
-  - SMAD9
-  - SMAD2
-  - SMAD3
-  - TF
+  - dpp
+  - gbb
+  - wit
+  - put
+  - mav
+  - MKP-4
+  - p38b
+  - rl
+  - Med
+  - Smox
+  - Mad
+  - Dad
+  - tf
+  - kita
+  - ngfra
+  - smad4a
+  - smad4b
+  - smad6a
+  - smad7
 ---

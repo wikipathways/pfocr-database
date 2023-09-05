@@ -4,6 +4,8 @@ figtitle: Cross talk between the transforming growth factor B (TGFB) family and 
   signaling at multiple points
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5204325
 filename: cshperspect-TGF-022137_F1.jpg
 figlink: /pmc/articles/PMC5204325/figure/A022137F1/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9713778
 figid_alias: PMC5204325__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5204325__F1
 ndex: fbb1536f-dec4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -81,9 +81,6 @@ schema-jsonld:
   - WNT16
   - WNT5A
   - WNT5B
-  - TGFB1
-  - TGFB2
-  - TGFB3
   - BMP1
   - BMP2
   - BMP3
@@ -101,23 +98,26 @@ schema-jsonld:
   - GDF5
   - GDF6
   - GDF7
+  - TGFB1
+  - TGFB2
+  - TGFB3
   - RPSA
   - LRP1
   - PTPRA
   - MVP
-  - AXIN1
-  - AXIN2
   - CSNK1A1
   - KRT1
   - CSNK1A1L
+  - AXIN1
+  - AXIN2
   - GSK3A
   - GSK3B
   - SMAD3
   - APC
   - PROC
   - SMAD7
-  - SMURF1
   - SMURF2
+  - SMURF1
   - CTNNB1
   - SMAD4
   - HNF4A

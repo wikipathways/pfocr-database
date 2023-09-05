@@ -3,6 +3,8 @@ figid: PMC3721286__cshperspect-RTK-009043_F3
 figtitle: Simplified scheme presenting multiple feedback loops in the EGFR pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3721286
 filename: cshperspect-RTK-009043_F3.jpg
 figlink: /pmc/articles/PMC3721286/figure/A009043F3/
@@ -36,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9628921
 figid_alias: PMC3721286__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3721286__F3
 ndex: b9633481-ded8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

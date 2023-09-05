@@ -3,6 +3,8 @@ figid: PMC6163557__microorganisms-06-00078-g004
 figtitle: Feedback Inhibition on Glycan Activation Pathways
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC6163557
 filename: microorganisms-06-00078-g004.jpg
 figlink: /pmc/articles/PMC6163557/figure/microorganisms-06-00078-f004/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9069234
 figid_alias: PMC6163557__F4
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6163557__F4
 ndex: ''
 seo: CreativeWork
@@ -53,6 +53,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GLC
   - VCL1
   - MAN6
   - MAN1
@@ -61,7 +62,6 @@ schema-jsonld:
   - GA1
   - GAI
   - FUC1
-  - GLC
   - Glc-6-P
   - GlcN-6-P
   - GDP

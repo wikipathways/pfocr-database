@@ -3,6 +3,8 @@ figid: PMC7765855__microorganisms-08-02034-g005
 figtitle: Origin of SEK90
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7765855
 filename: microorganisms-08-02034-g005.jpg
 figlink: pmc/articles/PMC7765855/figure/microorganisms-08-02034-f005/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.8806439
 figid_alias: PMC7765855__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7765855__F5
 ndex: ''
 seo: CreativeWork

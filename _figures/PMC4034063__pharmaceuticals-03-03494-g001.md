@@ -3,6 +3,9 @@ figid: PMC4034063__pharmaceuticals-03-03494-g001
 figtitle: Core hypothalamic energy homeostatic circuit and the dopamine reward pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4034063
 filename: pharmaceuticals-03-03494-g001.jpg
 figlink: /pmc/articles/PMC4034063/figure/pharmaceuticals-03-03494-f001/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9102702
 figid_alias: PMC4034063__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4034063__F1
 ndex: f64e203e-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -49,6 +50,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Nuc
+  - ACC
+  - tacc
+  - acclinal-wing
+  - Arc1
+  - Dark
+  - .na.character
+  - mch
+  - vta
+  - da
+  - nAChRalpha2
+  - ft
+  - kug
+  - faf
   - NUCB1
   - ACACA
   - BMS1

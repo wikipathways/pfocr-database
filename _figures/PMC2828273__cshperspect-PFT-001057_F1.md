@@ -3,6 +3,9 @@ figid: PMC2828273__cshperspect-PFT-001057_F1
 figtitle: Interconnections between p53 and IGF-1/AKT/mTOR pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2828273
 filename: cshperspect-PFT-001057_F1.jpg
 figlink: /pmc/articles/PMC2828273/figure/A001057F1/
@@ -29,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.918919
 figid_alias: PMC2828273__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2828273__F1
 ndex: 60b0d8e0-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -60,7 +60,6 @@ schema-jsonld:
   - betaTub60D
   - hth
   - Lkb1
-  - pk
   - alc
   - Pten
   - I-t

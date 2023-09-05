@@ -64,6 +64,11 @@ organisms:
 - Rhodothermus clarus
 - Homo sapiens
 - NA
+organisms_ner:
+- Schizosaccharomyces pombe
+- Neurospora crassa OR74A
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8401276
 filename: microorganisms-09-01557-g005.jpg
 figlink: /pmc/articles/PMC8401276/figure/microorganisms-09-01557-f005/
@@ -105,10 +110,6 @@ keywords: arbuscular mycorrhizal fungi | nutrient signaling pathways | cAMP/PKA 
 automl_pathway: 0.9441304
 figid_alias: PMC8401276__F5
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Schizosaccharomyces pombe
-- Neurospora crassa OR74A
 redirect_from: /figures/PMC8401276__F5
 ndex: ''
 seo: CreativeWork
@@ -147,13 +148,37 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PHO84
+  - ipk1
+  - kes1
+  - ino80
+  - vip1
+  - asp1
+  - adk1
+  - pho2
+  - pho4
+  - nuc1
+  - pnu1
+  - pho-2
+  - pho-4
+  - am
+  - nuc-1
+  - IPPK
+  - INO80
+  - PPIAP11
+  - IKBKG
+  - LMAN2L
+  - PPIP5K1
+  - PPIAP14
+  - PTS
+  - RBBP8
+  - RIMS1
+  - PPARD
   - PHO89
+  - PHO84
   - PIP2
   - ARG82
   - IPK1
   - KES1
-  - INO80
   - PHO90
   - PHO87
   - VIP1
@@ -170,18 +195,4 @@ schema-jsonld:
   - PHO91
   - SPL2
   - NUC1
-  - ipk1
-  - kes1
-  - ino80
-  - vip1
-  - asp1
-  - adk1
-  - pho2
-  - pho4
-  - nuc1
-  - pnu1
-  - pho-2
-  - pho-4
-  - am
-  - nuc-1
 ---

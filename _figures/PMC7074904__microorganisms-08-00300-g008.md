@@ -26,6 +26,9 @@ organisms:
 - Moritella marina
 - Shewanella pneumatophori
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7074904
 filename: microorganisms-08-00300-g008.jpg
 figlink: pmc/articles/PMC7074904/figure/microorganisms-08-00300-f008/
@@ -52,8 +55,6 @@ keywords: .na.character
 automl_pathway: 0.9648877
 figid_alias: PMC7074904__F8
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7074904__F8
 ndex: ''
 seo: CreativeWork
@@ -76,6 +77,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - DECR1
+  - H6PD
+  - MAEA
+  - IMMT
+  - FAS
+  - FASN
+  - KLK15
+  - Zw
+  - emp
+  - Fas2
+  - FASN1
+  - Fas3
+  - fand
+  - tei
+  - rg
+  - FASN2
+  - FASN3
+  - Aco
+  - Acox57D-d
+  - Kr
   - Glucose
   - NADPH
   - NADP

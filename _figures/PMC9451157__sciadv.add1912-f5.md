@@ -4,6 +4,9 @@ figtitle: Pathway and mechanism analysis of F1-mediated chemoenzymatic synthesis
   benzimidazole
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9451157
 filename: sciadv.add1912-f5.jpg
 figlink: /pmc/articles/PMC9451157/figure/F5/
@@ -22,9 +25,6 @@ keywords: ''
 automl_pathway: 0.6471202
 figid_alias: PMC9451157__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9451157__F5
 ndex: ''
 seo: CreativeWork

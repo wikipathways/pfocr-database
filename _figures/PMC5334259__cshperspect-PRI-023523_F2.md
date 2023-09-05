@@ -3,6 +3,9 @@ figid: PMC5334259__cshperspect-PRI-023523_F2
 figtitle: Cellular unfolded protein response mechanisms
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC5334259
 filename: cshperspect-PRI-023523_F2.jpg
 figlink: /pmc/articles/PMC5334259/figure/A023523F2/
@@ -36,9 +39,6 @@ keywords: .na.character
 automl_pathway: 0.94402
 figid_alias: PMC5334259__F2
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
-- Homo sapiens
 redirect_from: /figures/PMC5334259__F2
 ndex: ''
 seo: CreativeWork

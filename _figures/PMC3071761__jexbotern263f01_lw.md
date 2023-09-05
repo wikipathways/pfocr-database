@@ -4,6 +4,9 @@ figtitle: Proposed biosynthetic pathway to selected diarylheptanoids in the turm
   rhizome
 organisms:
 - Curcuma longa
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3071761
 filename: jexbotern263f01_lw.jpg
 figlink: /pmc/articles/PMC3071761/figure/fig1/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.6995991
 figid_alias: PMC3071761__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3071761__F1
 ndex: ''
 seo: CreativeWork
@@ -51,6 +52,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ome
+  - pal
+  - Pal2
+  - ATPCL
+  - cst
+  - om
+  - PAM
+  - LRIT1
+  - SHCBP1
+  - ACLY
+  - GAL3ST1
+  - SLC35A1
+  - CASZ1
+  - CST12P
   - 3-hydroxy-bisdemethoxycurcumin
   - bisdemethoxycurcumin
   - 3-hydroxy-demethoxycurcumin

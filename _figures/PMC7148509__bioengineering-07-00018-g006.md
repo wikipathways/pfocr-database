@@ -5,6 +5,8 @@ figtitle: Schematic model for MMP24 expression promoted by extracellular matrix 
 organisms:
 - Homo sapiens
 - Colocasia esculenta
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7148509
 filename: bioengineering-07-00018-g006.jpg
 figlink: pmc/articles/PMC7148509/figure/bioengineering-07-00018-f006/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9495568
 figid_alias: PMC7148509__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7148509__F6
 ndex: ''
 seo: CreativeWork
@@ -55,18 +55,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ACTA1
-  - ACTA2
-  - ACTB
-  - ACTC1
-  - ACTG1
-  - ACTG2
-  - ROCK1
-  - ROCK2
-  - MMP24
-  - YAP1
-  - TEAD1
-  - TEAD2
-  - TEAD3
-  - TEAD4
+  - scb
+  - Act5C
+  - rhea
+  - sqh
+  - zip
+  - RhoBTB
+  - Rok
+  - yki
+  - sd
 ---

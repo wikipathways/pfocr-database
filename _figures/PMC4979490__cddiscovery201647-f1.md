@@ -4,6 +4,8 @@ figtitle: TCR activation and IL-2 signaling results in c-Myc expression, which c
   the metabolic switch from oxidative phosphorylation to aerobic glycolysis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4979490
 filename: cddiscovery201647-f1.jpg
 figlink: /pmc/articles/PMC4979490/figure/fig1/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9465439
 figid_alias: PMC4979490__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4979490__F1
 ndex: ''
 seo: CreativeWork

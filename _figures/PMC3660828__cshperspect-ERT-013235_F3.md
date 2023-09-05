@@ -4,6 +4,9 @@ figtitle: Components involved in translocation of phospholipids to and within mi
   of yeast
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC3660828
 filename: cshperspect-ERT-013235_F3.jpg
 figlink: /pmc/articles/PMC3660828/figure/A013235F3/
@@ -36,9 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9141018
 figid_alias: PMC3660828__F3
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC3660828__F3
 ndex: 0a3639ad-dea4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -73,22 +73,22 @@ schema-jsonld:
   - TAZ1
   - CLD1
   - CAD1
-  - PHB2
   - PHB1
+  - PHB2
   - GEP4
   - PGS1
   - MDM35
   - CDS1
   - PSD1
-  - UPS2
   - UPS1
+  - UPS2
   - YME1
   - ATP23
   - GEM1
   - OPI3
   - CHO2
-  - MDM12
   - MDM34
+  - MDM12
   - MMM1
   - MDM10
   - TAFAZZIN

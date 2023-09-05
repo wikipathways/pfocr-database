@@ -28,6 +28,12 @@ organisms:
 - gut metagenome
 - Bacteriophage sp.
 - Toxoplasma gondii
+organisms_ner:
+- Rattus norvegicus
+- Homo sapiens
+- Mus musculus
+- Mesocricetus auratus
+- Danio rerio
 pmcid: PMC8399382
 filename: pharmaceuticals-14-00708-g001.jpg
 figlink: /pmc/articles/PMC8399382/figure/pharmaceuticals-14-00708-f001/
@@ -52,11 +58,6 @@ keywords: microbiota | autophagy | mucosa | inflammation | butyrate | indole | G
 automl_pathway: 0.9467208
 figid_alias: PMC8399382__F1
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Mus musculus
-- Mesocricetus auratus
 redirect_from: /figures/PMC8399382__F1
 ndex: ''
 seo: CreativeWork
@@ -93,4 +94,9 @@ schema-jsonld:
   - ATG5
   - Irgm1
   - Map1lc3a
+  - nod2
+  - atg16l1
+  - b3gnt5a
+  - atg12
+  - atg5
 ---

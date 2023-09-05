@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g022
 figtitle: Plausible radical pathway for the synthesis of imidazo[1,5-a]pyridines
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g022.jpg
 figlink: /pmc/articles/PMC6664406/figure/C14/
-number: S14
+number: SF14
 caption: Plausible radical pathway for the synthesis of imidazo[1,5-a]pyridines.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7415692
-figid_alias: PMC6664406__S14
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6664406__S14
+figid_alias: PMC6664406__SF14
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF14
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

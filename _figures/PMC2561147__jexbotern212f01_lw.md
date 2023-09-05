@@ -3,6 +3,8 @@ figid: PMC2561147__jexbotern212f01_lw
 figtitle: Carotenoid biosynthetic pathway in maize
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC2561147
 filename: jexbotern212f01_lw.jpg
 figlink: /pmc/articles/PMC2561147/figure/fig1/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9196467
 figid_alias: PMC2561147__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2561147__F1
 ndex: ''
 seo: CreativeWork

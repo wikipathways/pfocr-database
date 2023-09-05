@@ -3,6 +3,8 @@ figid: PMC4943391__theoncologist_15509_f2
 figtitle: Melanocyte differentiation pathway dependent on MSHA and ACTH
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4943391
 filename: theoncologist_15509_f2.jpg
 figlink: /pmc/articles/PMC4943391/figure/F2/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9097474
 figid_alias: PMC4943391__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4943391__F2
 ndex: 1007474f-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC5710031__RomJOphthalmol-61-152-g002
 figtitle: The CDP-choline pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5710031
 filename: RomJOphthalmol-61-152-g002.jpg
 figlink: /pmc/articles/PMC5710031/figure/F2/
@@ -20,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9097828
 figid_alias: PMC5710031__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5710031__F2
 ndex: ''
 seo: CreativeWork
@@ -44,10 +45,28 @@ schema-jsonld:
   - ck
   - Pc
   - ctp
-  - adp
   - ATPsynbeta
   - Atpalpha
+  - adp
   - cmp
+  - CHPT1
+  - DHDDS
+  - CCT
+  - FLVCR2
+  - CCT2
+  - CCT3
+  - CCT4
+  - CCT5
+  - CCT6A
+  - CCT6B
+  - CCT7
+  - CCT8
+  - TCP1
+  - PC
+  - SLC25A1
+  - ATP8A2
+  - WDTC1
+  - MATN1
   - Choline
   - Cytidine
   - CDP-choline

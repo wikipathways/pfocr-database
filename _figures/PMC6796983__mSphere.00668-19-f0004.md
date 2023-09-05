@@ -6,6 +6,8 @@ organisms:
 - Sphingomonas elodea ATCC 31461
 - Sphingomonas elodea
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC6796983
 filename: mSphere.00668-19-f0004.jpg
 figlink: /pmc/articles/PMC6796983/figure/fig4/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9037613
 figid_alias: PMC6796983__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6796983__F4
 ndex: ''
 seo: CreativeWork

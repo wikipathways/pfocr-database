@@ -4,10 +4,12 @@ figtitle: Schematic illustration of GSK3B/eIF2BE and mTORC1 signaling in AKT-ind
   CNS axon regeneration
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4805534
 filename: elife-11903-fig7-figsupp2.jpg
 figlink: /pmc/articles/PMC4805534/figure/fig7s2/
-number: SF7_2
+number: F7
 caption: 'DOI: http://dx.doi.org/10.7554/eLife.11903.021'
 papertitle: GSK3β regulates AKT-induced central nervous system axon regeneration via
   an eIF2Bε-dependent, mTORC1-independent pathway.
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9616451
-figid_alias: PMC4805534__SF7_2
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC4805534__SF7_2
+figid_alias: PMC4805534__F7
+figtype: Figure
+redirect_from: /figures/PMC4805534__F7
 ndex: de554a4d-dec0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:

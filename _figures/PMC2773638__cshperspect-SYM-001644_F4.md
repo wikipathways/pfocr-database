@@ -4,6 +4,9 @@ figtitle: Coordination of extracellular and intracellular signaling regulates cy
   dynamics and axon formation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2773638
 filename: cshperspect-SYM-001644_F4.jpg
 figlink: /pmc/articles/PMC2773638/figure/A001644F4/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8261799
 figid_alias: PMC2773638__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2773638__F4
 ndex: 62f93cd1-dea6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -88,11 +88,11 @@ schema-jsonld:
   - Arp2
   - sgg
   - gskt
-  - ab
-  - Appl
   - sad
   - Smox
   - nAChRalpha2
+  - ab
+  - Appl
   - tsr
   - tau
   - Apc

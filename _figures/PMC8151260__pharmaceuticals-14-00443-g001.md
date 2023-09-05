@@ -5,6 +5,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Human T-cell leukemia virus type I
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC8151260
 filename: pharmaceuticals-14-00443-g001.jpg
 figlink: /pmc/articles/PMC8151260/figure/pharmaceuticals-14-00443-f001/
@@ -33,9 +37,6 @@ keywords: interleukin-7 | cytokine receptor | JAK kinases | signaling | lymphocy
 automl_pathway: 0.9553719
 figid_alias: PMC8151260__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8151260__F1
 ndex: ''
 seo: CreativeWork
@@ -60,20 +61,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Dnm2
-  - Il7r
-  - Jak1
-  - Il7
-  - Stat5a
-  - Jak3
-  - Ptprc
-  - Pim1
-  - Myc
-  - Nol3
-  - Osm
-  - Cish
-  - Bcl2
-  - Ptpn2
   - DNM2
   - IL7R
   - JAK1
@@ -83,12 +70,42 @@ schema-jsonld:
   - STAT5B
   - JAK3
   - PTPRC
+  - CISH
   - PIM1
   - LONP1
+  - BCL2
   - MYC
   - OSM
   - CCM2
-  - CISH
-  - BCL2
   - PTPN2
+  - Dnm2
+  - Il7r
+  - Jak1
+  - Il7
+  - Stat5a
+  - Jak3
+  - Ptprc
+  - Cish
+  - Pim1
+  - Bcl2
+  - Myc
+  - Nol3
+  - Osm
+  - Ptpn2
+  - dnm2b
+  - dnm2a
+  - il7r
+  - jak1
+  - il7
+  - stat5a
+  - jak3
+  - cish
+  - pim1
+  - pim2
+  - bcl2a
+  - myca
+  - mycbp2
+  - osm
+  - ptpn2a
+  - ptpn2b
 ---

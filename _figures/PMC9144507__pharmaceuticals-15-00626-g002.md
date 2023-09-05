@@ -14,6 +14,10 @@ organisms:
 - Rattus norvegicus
 - unidentified
 - H11N5 subtype
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC9144507
 filename: pharmaceuticals-15-00626-g002.jpg
 figlink: /pmc/articles/PMC9144507/figure/pharmaceuticals-15-00626-f002/
@@ -42,9 +46,6 @@ keywords: metformin | diabetes | cancer metabolism | AMPK | PI3K | therapeutics 
 automl_pathway: 0.9670686
 figid_alias: PMC9144507__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC9144507__F2
 ndex: ''
 seo: CreativeWork
@@ -70,11 +71,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CCL21
   - PLXNA2
+  - CCL21
+  - ATP8A2
   - APRT
   - MFAP1
-  - ATP8A2
   - TP53
   - TP63
   - TP73
@@ -113,4 +114,25 @@ schema-jsonld:
   - Igf1
   - Pik3cg
   - Igf1r
+  - slc
+  - ATPsynbeta
+  - Atpalpha
+  - Amph
+  - p53
+  - betaTub60D
+  - hth
+  - CycE
+  - cyc
+  - rag
+  - RagA-B
+  - rags
+  - SNF4Agamma
+  - AMPKalpha
+  - Akt
+  - gig
+  - Tor
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
 ---

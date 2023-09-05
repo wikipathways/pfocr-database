@@ -4,6 +4,8 @@ figtitle: Microbial Production of Bioactive Retinoic Acid Using Metabolically En
   Escherichia coli
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8305374
 filename: microorganisms-09-01520-g001.jpg
 figlink: /pmc/articles/PMC8305374/figure/microorganisms-09-01520-f001/
@@ -27,8 +29,6 @@ keywords: retinoid | retinoic acid | metabolic engineering | retinaldehyde dehyd
 automl_pathway: 0.9454545
 figid_alias: PMC8305374__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8305374__F1
 ndex: ''
 seo: CreativeWork

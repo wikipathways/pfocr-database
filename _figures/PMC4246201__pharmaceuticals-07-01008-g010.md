@@ -9,6 +9,14 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Raphanus sativus
+organisms_ner:
+- Bos taurus
+- Homo sapiens
+- Equus caballus
+- Mus musculus
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Arabidopsis thaliana
 pmcid: PMC4246201
 filename: pharmaceuticals-07-01008-g010.jpg
 figlink: /pmc/articles/PMC4246201/figure/pharmaceuticals-07-01008-f010/
@@ -38,10 +46,6 @@ keywords: .na.character
 automl_pathway: 0.952011
 figid_alias: PMC4246201__F10
 figtype: Figure
-organisms_ner:
-- Bos taurus
-- Homo sapiens
-- Equus caballus
 redirect_from: /figures/PMC4246201__F10
 ndex: ''
 seo: CreativeWork
@@ -88,5 +92,36 @@ schema-jsonld:
   - PTGS2
   - ISYNA1
   - NFKB2
+  - Ikbkb
+  - Ikbkg
+  - Gpx3
+  - Gpx4
+  - Gpx4-ps2
+  - Cdc37
+  - Lsp1
+  - Nfkb1
+  - Pold2
+  - Cd40
+  - Dctn2
+  - Rela
+  - Gorasp1
+  - Vcam1
+  - Ptgs2
+  - Nos2
+  - IKKbeta
+  - nmo
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - dl
+  - wash
+  - Dif
+  - Rel
+  - Inos
+  - Nos
+  - gpx-3
+  - gpx-4
+  - cox2
   - Butyrate
 ---

@@ -3,6 +3,8 @@ figid: PMC2877891__jexboterq066f04_3c
 figtitle: Methionine metabolic pathway during Chinese fir seed filling
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC2877891
 filename: jexboterq066f04_3c.jpg
 figlink: /pmc/articles/PMC2877891/figure/fig4/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9094445
 figid_alias: PMC2877891__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2877891__F4
 ndex: ''
 seo: CreativeWork

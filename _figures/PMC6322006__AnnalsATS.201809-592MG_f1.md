@@ -3,6 +3,8 @@ figid: PMC6322006__AnnalsATS.201809-592MG_f1
 figtitle: Schematic of sphingolipid metabolism
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC6322006
 filename: AnnalsATS.201809-592MG_f1.jpg
 figlink: /pmc/articles/PMC6322006/figure/fig1/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9495926
 figid_alias: PMC6322006__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6322006__F1
 ndex: ''
 seo: CreativeWork
@@ -64,8 +64,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - SPT
-  - SPP
   - SPHK2
+  - SPP
   - SPHK1
   - S1P
   - SPL

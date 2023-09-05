@@ -3,6 +3,9 @@ figid: PMC8706120__microorganisms-09-02538-g003
 figtitle: Roles of the Virome in Cancer
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8706120
 filename: microorganisms-09-02538-g003.jpg
 figlink: /pmc/articles/PMC8706120/figure/microorganisms-09-02538-f003/
@@ -36,10 +39,6 @@ keywords: virome | microbiota | cancer | bacteriophages | fecal microbiota trans
 automl_pathway: 0.9395564
 figid_alias: PMC8706120__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Caenorhabditis elegans
-- Homo sapiens
 redirect_from: /figures/PMC8706120__F3
 ndex: ''
 seo: CreativeWork
@@ -81,23 +80,19 @@ schema-jsonld:
   - Pi3K68D
   - Pi3K92E
   - Pdk1
-  - lic
+  - MKP-4
   - p38b
+  - rl
+  - lic
   - Nurf-38
   - Ebp
   - AIMP2
   - p38a
   - Hrb87F
   - p38c
-  - MKP-4
-  - rl
   - Raf
   - Akt
   - Dsor1
-  - mlk-1
-  - pdk-1
-  - mek-1
-  - mek-2
   - KRAS
   - HRAS
   - NRAS
@@ -117,20 +112,20 @@ schema-jsonld:
   - PIK3R2
   - PDK1
   - PDPK1
-  - MAP2K6
-  - CRK
-  - MAPK14
   - MAPK1
-  - GRAP2
-  - AHSA1
-  - POLDIP2
+  - MAPK3
   - MAPK11
   - MAPK12
   - MAPK13
-  - MAPK3
+  - MAPK14
   - MAPK8
   - MAPK9
   - MAPK10
+  - CRK
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAP2K6
   - ZHX2
   - ARAF
   - BRAF

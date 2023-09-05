@@ -4,6 +4,9 @@ figtitle: Diagrammatic sketch shows the hypothetical mechanism of HOTAIR in dige
   tract cancers
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC4524753
 filename: theoncologist_14475_f2.jpg
 figlink: /pmc/articles/PMC4524753/figure/F2/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9468445
 figid_alias: PMC4524753__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC4524753__F2
 ndex: 690dd39b-defc-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -48,6 +48,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - her2
+  - wif1
+  - suz12b
+  - suz12a
+  - ezh2
+  - eed
+  - ctnnb1
+  - me3
   - HOTAIR
   - ERBB2
   - WIF1
@@ -77,12 +85,4 @@ schema-jsonld:
   - CTNNB1
   - ME3
   - PCDHGA5
-  - her2
-  - wif1
-  - ezh2
-  - eed
-  - suz12b
-  - suz12a
-  - ctnnb1
-  - me3
 ---

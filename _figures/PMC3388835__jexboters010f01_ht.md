@@ -4,6 +4,9 @@ figtitle: Metabolic diagram of the oxylipin pathway in plants including the 9-LO
   and 13-LOX branches
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
 pmcid: PMC3388835
 filename: jexboters010f01_ht.jpg
 figlink: /pmc/articles/PMC3388835/figure/fig1/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8918304
 figid_alias: PMC3388835__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3388835__F1
 ndex: ''
 seo: CreativeWork

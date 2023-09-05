@@ -9,10 +9,14 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8321552
 filename: elife-70429-fig2-figsupp4.jpg
 figlink: /pmc/articles/PMC8321552/figure/fig2s4/
-number: F2
+number: SF2_4
 caption: 'KEGG analysis of analog #4 differentially regulated genes was found to be
   enriched for the cell cycle pathway, adjp equal to 2.27×10−6.'
 papertitle: A subset of CB002 xanthine analogs bypass p53-signaling to restore a p53
@@ -25,12 +29,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: p53 | cancer | therapy | xanthines | CB002 | noxa | Human
 automl_pathway: 0.7795877
-figid_alias: PMC8321552__F2
-figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-redirect_from: /figures/PMC8321552__F2
+figid_alias: PMC8321552__SF2_4
+figtype: Supplemental figure
+redirect_from: /figures/PMC8321552__SF2_4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -51,13 +52,10 @@ schema-jsonld:
   - Kitl
   - Mar1
   - D7Zem1
-  - l9Rl5
-  - Fabp4
-  - Cdkn2b
-  - Sub1
-  - Mrpl28
-  - Serpina1e
-  - Serpinb5
+  - Cdkn2c
+  - Stmn1
+  - Lamtor1
+  - Atraid
   - Tmem115
   - l9Rl6
   - Cdkn2a
@@ -65,15 +63,18 @@ schema-jsonld:
   - Rbm14
   - Serpina1c
   - Serpinb6a
-  - Cdkn2c
-  - Stmn1
-  - Lamtor1
-  - Atraid
-  - Vps35
+  - l9Rl5
+  - Fabp4
+  - Cdkn2b
+  - Sub1
+  - Mrpl28
+  - Serpina1e
+  - Serpinb5
   - Mcm2
   - Mchm2
-  - Or4
+  - Vps35
   - Or2c1
+  - Or4
   - Smad4
   - tp
   - Cdkn2d
@@ -138,16 +139,6 @@ schema-jsonld:
   - GNAT2
   - GNAT3
   - GNAZ
-  - CDKN2B
-  - MRPL28
-  - SUB1
-  - NXT1
-  - H3P9
-  - SERPINB5
-  - TMEM115
-  - CDKN2A
-  - H3P10
-  - SERPINB6
   - CDKN2C
   - UBE2I
   - MAFK
@@ -158,6 +149,16 @@ schema-jsonld:
   - TPPP2
   - H3P12
   - SERPINB8
+  - TMEM115
+  - CDKN2A
+  - H3P10
+  - SERPINB6
+  - CDKN2B
+  - MRPL28
+  - SUB1
+  - NXT1
+  - H3P9
+  - SERPINB5
   - OR2A1
   - OR2A12
   - OR2A14
@@ -226,9 +227,12 @@ schema-jsonld:
   - OR2W3
   - OR2Y1
   - OR2Z1
-  - VPS35
   - MCM2
   - MCM7
+  - VPS35
+  - OR3A1
+  - OR3A2
+  - OR3A3
   - OR4A15
   - OR4A16
   - OR4A47
@@ -284,9 +288,6 @@ schema-jsonld:
   - OR4S2
   - OR4X1
   - OR4X2
-  - OR3A1
-  - OR3A2
-  - OR3A3
   - SMAD2
   - SMAD3
   - SMAD4
@@ -364,4 +365,59 @@ schema-jsonld:
   - YTHDC2
   - CYP21A2
   - ELL
+  - CycE
+  - cyc
+  - MKP-4
+  - p38b
+  - rl
+  - 'On'
+  - Dp1
+  - Dp
+  - Aplip1
+  - scf
+  - CycD
+  - Start1
+  - cac
+  - MED21
+  - Zdhhc8
+  - Arpc5
+  - Su(osk)P16
+  - dap
+  - Nxt1
+  - Orc5
+  - Orc1
+  - Orc6
+  - Orc3
+  - Orc4
+  - Orc2
+  - fs(1)h
+  - Men
+  - ord
+  - Med
+  - caz
+  - l(1)20Ca
+  - che
+  - Ace
+  - Sce
+  - Abl
+  - Abi
+  - Tu
+  - CycH
+  - Arl1
+  - Arf1
+  - Arl2
+  - p53
+  - betaTub60D
+  - hth
+  - whe
+  - BubR1
+  - anon-70Dc
+  - Mad1
+  - 14-3-3zeta
+  - 14-3-3epsilon
+  - stg1
+  - vtd
+  - ebo
+  - CAH1
+  - CG11700
 ---

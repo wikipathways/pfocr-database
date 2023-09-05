@@ -4,6 +4,8 @@ figtitle: N-methylanthranilate (NMA) biosynthesis (A) embedded into aromatic ami
   acid metabolism of engineered C
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7356990
 filename: microorganisms-08-00866-g001.jpg
 figlink: pmc/articles/PMC7356990/figure/microorganisms-08-00866-f001/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9467492
 figid_alias: PMC7356990__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC7356990__F1
 ndex: ''
 seo: CreativeWork

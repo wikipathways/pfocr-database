@@ -17,6 +17,8 @@ organisms:
 - Clostridium sp. BOH3
 - Enterococcus mundtii QU 25
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC5597168
 filename: bioengineering-03-00010-g002.jpg
 figlink: /pmc/articles/PMC5597168/figure/bioengineering-03-00010-f002/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9645199
 figid_alias: PMC5597168__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5597168__F2
 ndex: ''
 seo: CreativeWork

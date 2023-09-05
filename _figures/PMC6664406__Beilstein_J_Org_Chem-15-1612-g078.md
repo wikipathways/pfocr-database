@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g078
 figtitle: Mechanistic pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g078.jpg
 figlink: /pmc/articles/PMC6664406/figure/C70/
-number: S70
+number: SF70
 caption: Mechanistic pathway.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7340757
-figid_alias: PMC6664406__S70
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6664406__S70
+figid_alias: PMC6664406__SF70
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF70
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

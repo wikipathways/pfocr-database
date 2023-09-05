@@ -9,6 +9,13 @@ organisms:
 - Camelus dromedarius
 - Homo sapiens
 - Escherichia coli LF82
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Bos taurus
+- Camelus dromedarius
+- Danio rerio
 pmcid: PMC8468947
 filename: pharmaceuticals-14-00868-g001.jpg
 figlink: /pmc/articles/PMC8468947/figure/pharmaceuticals-14-00868-f001/
@@ -32,12 +39,6 @@ keywords: lactoferrin | pain | opioids | NO | NFκB
 automl_pathway: 0.9634991
 figid_alias: PMC8468947__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Bos taurus
-- Camelus dromedarius
 redirect_from: /figures/PMC8468947__F1
 ndex: ''
 seo: CreativeWork
@@ -123,4 +124,14 @@ schema-jsonld:
   - IL18
   - Rela
   - Ptpra
+  - myd88
+  - irak1
+  - irak4
+  - traf6
+  - mapk14a
+  - blf
+  - cby1
+  - tnfa
+  - tnfb
+  - il6
 ---

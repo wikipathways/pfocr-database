@@ -4,6 +4,8 @@ figtitle: 'STING in Non-Alcoholic Fatty Liver Diseases: Potential Therapeutic Ta
   in Inflammation-Carcinogenesis Pathway'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9611148
 filename: pharmaceuticals-15-01241-g003.jpg
 figlink: /pmc/articles/PMC9611148/figure/pharmaceuticals-15-01241-f003/
@@ -29,8 +31,6 @@ keywords: non-alcoholic fatty liver disease | STING | inflammation | inhibitors 
 automl_pathway: 0.9503703
 figid_alias: PMC9611148__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9611148__F3
 ndex: ''
 seo: CreativeWork

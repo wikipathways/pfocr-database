@@ -3,6 +3,10 @@ figid: PMC6789597__pharmaceuticals-12-00101-g002
 figtitle: Zika virus life cycle
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC6789597
 filename: pharmaceuticals-12-00101-g002.jpg
 figlink: /pmc/articles/PMC6789597/figure/pharmaceuticals-12-00101-f002/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.6985716
 figid_alias: PMC6789597__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6789597__F2
 ndex: ''
 seo: CreativeWork
@@ -57,10 +58,10 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TG
-  - AXL
   - ARHGEF5
   - TIMELESS
   - HAVCR1
+  - AXL
   - CTAA1
   - LNPEP
   - SERPINB6
@@ -70,12 +71,25 @@ schema-jsonld:
   - BRD4
   - CAP2
   - VTRNA1-1
+  - tim
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - CAP
+  - SMC3
+  - Cpn
+  - Capa
+  - capt
+  - bel
+  - SERCA
+  - Cadps
   - kita
   - ngfra
-  - axl
-  - foxa2
   - havcr1
   - timd4
+  - axl
+  - foxa2
   - Tyr03
   - Virus infection
 ---

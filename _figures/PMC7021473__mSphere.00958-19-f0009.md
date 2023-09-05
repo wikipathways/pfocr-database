@@ -5,6 +5,9 @@ figtitle: Differentially expressed genes (DEGs) involved in major metabolic path
 organisms:
 - Nosema bombycis
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7021473
 filename: mSphere.00958-19-f0009.jpg
 figlink: pmc/articles/PMC7021473/figure/fig9/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9403517
 figid_alias: PMC7021473__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7021473__F9
 ndex: ''
 seo: CreativeWork
@@ -58,7 +59,6 @@ schema-jsonld:
   - PFKM
   - PFKP
   - FBXO3
-  - MATN1
   - GIP
   - GNAI2
   - C1QTNF1
@@ -79,6 +79,41 @@ schema-jsonld:
   - MFAP1
   - TXK
   - TRA-TGC7-1
+  - G6P
+  - Pfk
+  - CG15812
+  - ft
+  - Ald1
+  - Mp
+  - Gip
+  - CkIalpha
+  - msf
+  - ctp
+  - fliF
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - LanB2
+  - anon-70Db
+  - Lon
+  - schlank
+  - ck
+  - gnd
+  - Amph
+  - Imp
+  - sona
+  - blanks
+  - tRNA:Asn-GTT-1-4
+  - tRNA:Asn-GTT-1-5
+  - tRNA:Asn-GTT-1-1
+  - tRNA:Asn-GTT-1-9
+  - tRNA:Asn-GTT-1-7
+  - tRNA:Asn-GTT-1-6
+  - tRNA:Asn-GTT-1-10
+  - tRNA:Asn-GTT-1-8
+  - tRNA:Asn-GTT-1-3
+  - tRNA:Asn-GTT-1-2
+  - aa
   - Sugars
   - nucleosides
   - L-glutamate

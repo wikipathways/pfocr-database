@@ -3,6 +3,9 @@ figid: PMC4315934__cshperspect-SIG-006023_F4
 figtitle: Cardiac muscle contraction and changes with exercise
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4315934
 filename: cshperspect-SIG-006023_F4.jpg
 figlink: /pmc/articles/PMC4315934/figure/A006023F4/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9500857
 figid_alias: PMC4315934__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4315934__F4
 ndex: 96dd9539-def1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -67,7 +67,6 @@ schema-jsonld:
   - Pvf2
   - Pvf3
   - Pvr
-  - pk
   - Akt
   - NFAT
   - pnr
@@ -100,10 +99,10 @@ schema-jsonld:
   - VEGFC
   - VEGFD
   - PGF
+  - IGF1
   - HGF
   - IL6
   - SOS1
-  - IGF1
   - AKT1
   - AKT2
   - AKT3

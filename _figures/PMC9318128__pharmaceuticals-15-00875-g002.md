@@ -4,6 +4,9 @@ figtitle: Na+/H+ Exchanger 1, a Potential Therapeutic Drug Target for Cardiac Hy
   and Heart Failure
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9318128
 filename: pharmaceuticals-15-00875-g002.jpg
 figlink: /pmc/articles/PMC9318128/figure/pharmaceuticals-15-00875-f002/
@@ -42,8 +45,6 @@ keywords: Na+/H+ exchanger 1 | cardiac hypertrophy | heart failure | ischemia-re
 automl_pathway: 0.9482712
 figid_alias: PMC9318128__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9318128__F2
 ndex: ''
 seo: CreativeWork
@@ -104,4 +105,83 @@ schema-jsonld:
   - RyR
   - ca
   - sr
+  - EDN1
+  - EDNRA
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - CAMK2G
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - CALM1
+  - CALM2
+  - CALM3
+  - KRIT1
+  - CAMKMT
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - BRD2
+  - NFATC1
+  - NFATC2
+  - NFATC3
+  - NFATC4
+  - NFAT5
+  - SLC9A1
+  - HDAC9
+  - HDAC2
+  - HDAC8
+  - HDAC5
+  - HDAC7
+  - HDAC10
+  - SIRT1
+  - SIRT2
+  - SIRT3
+  - SIRT4
+  - SIRT5
+  - SIRT6
+  - SIRT7
+  - HDAC11
+  - MEF2A
+  - MYEF2
+  - MEF2C
+  - MEF2D
+  - MEF2B
+  - RPS6KA1
+  - RPS6KA2
+  - RPS6KA3
+  - RPS6KA4
+  - RPS6KA5
+  - RPS6KA6
+  - TLX2
+  - PLN
+  - PLB1
+  - ATP2A1
+  - ATP2A2
+  - ATP2A3
+  - RYR1
+  - RYR2
+  - RYR3
 ---

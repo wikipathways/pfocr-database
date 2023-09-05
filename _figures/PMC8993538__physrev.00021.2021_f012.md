@@ -3,6 +3,8 @@ figid: PMC8993538__physrev.00021.2021_f012
 figtitle: 'Optophysiology: Illuminating cell physiology with optogenetics'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8993538
 filename: physrev.00021.2021_f012.jpg
 figlink: /pmc/articles/PMC8993538/figure/F0012/
@@ -37,9 +39,6 @@ keywords: cellular physiology | nanophotonics | optogenetics | signal transducti
 automl_pathway: 0.9525699
 figid_alias: PMC8993538__F12
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC8993538__F12
 ndex: ''
 seo: CreativeWork
@@ -127,26 +126,4 @@ schema-jsonld:
   - TYK2
   - STAT3
   - YAP1
-  - dap
-  - mv
-  - Erk7
-  - rl
-  - ras
-  - Ras64B
-  - Ras85D
-  - Raf
-  - Dsor1
-  - Mtk
-  - gl
-  - Mmp1
-  - min
-  - mnb
-  - .na.character
-  - Akt
-  - SCAR
-  - Egfr
-  - rhea
-  - pk
-  - hop
-  - bsk
 ---

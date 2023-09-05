@@ -4,6 +4,8 @@ figtitle: Type I interferon (IFN) gene induction by IFN regulatory factors (IRFs
   on innate recognition of cytosolic nucleic acids
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6211389
 filename: cshperspect-CYT-028423_F3.jpg
 figlink: pmc/articles/PMC6211389/figure/A028423F3/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9739846
 figid_alias: PMC6211389__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6211389__F3
 ndex: ''
 seo: CreativeWork
@@ -66,14 +66,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - RIGI
   - IFIH1
+  - RIGI
   - HFM1
   - MAVS
-  - ZBP1
   - CGAS
-  - IFI16
+  - ZBP1
   - DDX41
+  - IFI16
   - IKBKE
   - TBK1
   - IRF3

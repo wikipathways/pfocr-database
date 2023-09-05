@@ -3,6 +3,9 @@ figid: PMC6169812__cshperspect-JCT-029322_F1
 figtitle: New interactors of endothelial adherens junctions (AJs)
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6169812
 filename: cshperspect-JCT-029322_F1.jpg
 figlink: pmc/articles/PMC6169812/figure/A029322F1/
@@ -31,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9002025
 figid_alias: PMC6169812__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6169812__F1
 ndex: ''
 seo: CreativeWork
@@ -113,5 +114,19 @@ schema-jsonld:
   - RHOA
   - RHOB
   - RHOC
+  - cdh5
+  - triob
+  - trioa
+  - ctnnb1
+  - eps8a
+  - heg1
+  - rab11a
+  - rasip1
+  - gdf5
+  - ccm2
+  - terf2ip
+  - src
+  - rho
+  - rnd2
   - Ga13-GTP
 ---

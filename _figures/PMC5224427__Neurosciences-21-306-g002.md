@@ -3,6 +3,9 @@ figid: PMC5224427__Neurosciences-21-306-g002
 figtitle: Mechanisms of regulated neurotrophin secretion
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5224427
 filename: Neurosciences-21-306-g002.jpg
 figlink: /pmc/articles/PMC5224427/figure/F2/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8397916
 figid_alias: PMC5224427__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5224427__F2
 ndex: 98dfd1d5-dea0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -88,5 +89,44 @@ schema-jsonld:
   - for
   - Itpr
   - RyR
+  - NTRK1
+  - TPM3
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - CAMK2G
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - CAT
+  - CRAT
+  - GLYAT
+  - PRKG1
+  - ITPR1
+  - ITPR3
+  - RYR1
+  - RYR2
+  - RYR3
   - AMPA NMDA
 ---

@@ -4,6 +4,10 @@ figtitle: Hh signalling—a simplified model
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC2691147
 filename: carcinbgp048f01_4c.jpg
 figlink: /pmc/articles/PMC2691147/figure/fig1/
@@ -28,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9515142
 figid_alias: PMC2691147__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC2691147__F1
 ndex: 086ca07f-dea8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -71,4 +72,9 @@ schema-jsonld:
   - Ptch1
   - Smo
   - Smox
+  - gli
+  - sufu
+  - ptch1
+  - ptch2
+  - smo
 ---

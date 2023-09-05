@@ -7,6 +7,10 @@ organisms:
 - Bovine viral diarrhea virus 1
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC9610703
 filename: pharmaceuticals-15-01269-g005.jpg
 figlink: /pmc/articles/PMC9610703/figure/pharmaceuticals-15-01269-f005/
@@ -47,9 +51,6 @@ keywords: microRNA | lncRNA | biological network | signal transduction | clinica
 automl_pathway: 0.877471
 figid_alias: PMC9610703__F5
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC9610703__F5
 ndex: ''
 seo: CreativeWork
@@ -270,4 +271,31 @@ schema-jsonld:
   - ACTC1
   - ACTG1
   - ACTG2
+  - fgf10a
+  - mapk3
+  - gsk3ba
+  - gab1
+  - grb2b
+  - raf1a
+  - frs2b
+  - terf2ip
+  - irs1
+  - irs2b
+  - mir9-6
+  - dre-mir-96
+  - igf1
+  - ddx3xb
+  - mir145
+  - mir144
+  - dre-mir-222
+  - foxo1a
+  - nfe2l2a
+  - baxa
+  - mir34a
+  - il13
+  - dre-mir-26b
+  - bcl2a
+  - il6
+  - sirt1
+  - keap1a
 ---

@@ -24,10 +24,24 @@ organisms:
 - Caenorhabditis elegans
 - Homo sapiens
 - Fundulus heteroclitus
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Canis lupus familiaris
+- Felis catus
+- Cavia porcellus
+- Equus caballus
+- Heterocephalus glaber
+- Fukomys damarensis
+- Fundulus heteroclitus
+- Caenorhabditis elegans
+- Danio rerio
 pmcid: PMC8012063
 filename: elife-57843-fig4-figsupp7.jpg
 figlink: pmc/articles/PMC8012063/figure/fig4s7/
-number: SF4_7
+number: F4
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
@@ -41,22 +55,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.874425
-figid_alias: PMC8012063__SF4_7
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Drosophila melanogaster
-- Homo sapiens
-- Rattus norvegicus
-- Canis lupus familiaris
-- Felis catus
-- Cavia porcellus
-- Equus caballus
-- Heterocephalus glaber
-- Fukomys damarensis
-- Fundulus heteroclitus
-- Caenorhabditis elegans
-redirect_from: /figures/PMC8012063__SF4_7
+figid_alias: PMC8012063__F4
+figtype: Figure
+redirect_from: /figures/PMC8012063__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -72,56 +73,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Bpi
-  - App
-  - Bace1
-  - Gapdh
-  - cx
-  - Psenen
-  - Ncstn
-  - Ide
-  - Ddr1
-  - Mme
-  - Tns2
-  - ap
-  - Lpl
-  - Apoe
-  - Lrp1
-  - Mvp
-  - Txlng
-  - H2-Ab1
-  - Bad
-  - Casp9
-  - Casp3
-  - Fadd
-  - Bid
-  - Apaf1
-  - Calm1
-  - Tmem50a
-  - Snca
-  - Gpbar1
-  - Hspg2
-  - Nlrp1a
-  - Ryr1
-  - Grin1
-  - Casp12
-  - Itpr1
-  - Ern1
-  - Eif2ak3
-  - Lamp1
-  - Atf6
-  - Nos1
-  - Cdk5r1
-  - Il12a
-  - Upk3b
-  - Gchfr
-  - Sbp
-  - tp
-  - Tnc
-  - Tnf
-  - Gsk3b
-  - Il1
-  - Casp7
   - app
   - Appl
   - ApepP
@@ -129,19 +80,23 @@ schema-jsonld:
   - Bace
   - Gapdh2
   - Gapdh1
+  - cx
   - pen-2
   - Pen
   - aph-1
   - Alp1
   - ATPsynbeta
   - Atpalpha
+  - Ide
   - Nep1
+  - ap
   - arr
   - ab
   - cass
   - Cyt-c-d
   - Cyt-c-p
   - Decay
+  - Fadd
   - Dark
   - Cam
   - CaMKII
@@ -164,6 +119,7 @@ schema-jsonld:
   - Ire1
   - PEK
   - rl
+  - Atf6
   - Nos
   - nos
   - ynd
@@ -180,14 +136,59 @@ schema-jsonld:
   - gskt
   - JIL-1
   - 'On'
-  - BPI
+  - App
+  - Bpi
+  - Bace1
+  - Gapdh
+  - Psenen
+  - Ncstn
+  - Ddr1
+  - Mme
+  - Tns2
+  - Lpl
+  - Apoe
+  - Lrp1
+  - Mvp
+  - Txlng
+  - H2-Ab1
+  - Bad
+  - Casp9
+  - Casp3
+  - Bid
+  - Apaf1
+  - Calm1
+  - Tmem50a
+  - Snca
+  - Gpbar1
+  - Hspg2
+  - Nlrp1a
+  - Ryr1
+  - Grin1
+  - Casp12
+  - Itpr1
+  - Ern1
+  - Eif2ak3
+  - Lamp1
+  - Nos1
+  - Cdk5r1
+  - Il12a
+  - Upk3b
+  - Gchfr
+  - Sbp
+  - tp
+  - Tnc
+  - Tnf
+  - Gsk3b
+  - Il1
+  - Casp7
   - APP
+  - BPI
   - BACE1
   - GAPDH
   - IL17C
   - PSENEN
-  - NCSTN
   - APH1A
+  - NCSTN
   - ATP8A2
   - EIF4A3
   - FALEC
@@ -346,6 +347,17 @@ schema-jsonld:
   - gsk3ba
   - casp7
   - atf-6
+  - gapdh
+  - psenen
+  - psen1
+  - cby1
+  - casp3a
+  - bida
+  - atp2a1
+  - nos1
+  - cdk5r1b
+  - tnfrsfa
+  - tnfb
   - BPI
   - Fe
   - PEN2 PSEN

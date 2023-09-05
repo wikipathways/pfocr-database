@@ -4,6 +4,9 @@ figtitle: Fibroblast Growth Factor (FGF) Receptor Complex and Its Schematic Sign
   Pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC2963056
 filename: schbulsbp033f02_ht.jpg
 figlink: /pmc/articles/PMC2963056/figure/fig2/
@@ -23,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9465796
 figid_alias: PMC2963056__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2963056__F2
 ndex: 76c68bfd-debd-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -42,6 +43,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - bnl
+  - btl
+  - htl
+  - Erk7
+  - rl
+  - Stat92E
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - kita
+  - ngfra
+  - pak2a
+  - itpka
+  - mapk3
+  - stat1a
+  - stat1b
+  - stat4
   - sulfate
   - Tyrosine
   - tyrosine

@@ -3,10 +3,12 @@ figid: PMC7418101__Beilstein_J_Org_Chem-16-1901-g012
 figtitle: Synthetic pathway to receptors CZ016 and MC001–MC014
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7418101
 filename: Beilstein_J_Org_Chem-16-1901-g012.jpg
 figlink: pmc/articles/PMC7418101/figure/C1/
-number: S1
+number: SF1
 caption: The synthetic pathway to receptors CZ016 and MC001–MC014. The reaction yield
   for 2–3a/3b is given as a sum for two compounds, as they were inseparable by purification.
 papertitle: Design, synthesis and application of carbazole macrocycles in anion sensors.
@@ -18,12 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8979336
-figid_alias: PMC7418101__S1
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-redirect_from: /figures/PMC7418101__S1
+figid_alias: PMC7418101__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC7418101__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -42,24 +41,15 @@ schema-jsonld:
   - pd
   - EloA
   - br
+  - ac
   - cui
-  - ar
   - aa
+  - ar
   - cdi
   - RyR
   - dcm
   - Hn
   - Or65c
-  - ELOA
-  - CUL1
-  - CUL2
-  - CUL3
-  - CUL4A
-  - CUL4B
-  - CUL5
-  - CUL7
-  - AR
-  - F3
   - Ac20
   - CH
   - 'NO'

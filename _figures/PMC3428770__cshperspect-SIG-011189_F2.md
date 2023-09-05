@@ -4,6 +4,8 @@ figtitle: Signalling events activating PKB/Akt and cellular functions regulated 
   PKB/Akt
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3428770
 filename: cshperspect-SIG-011189_F2.jpg
 figlink: /pmc/articles/PMC3428770/figure/A011189F2/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9453326
 figid_alias: PMC3428770__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3428770__F2
 ndex: 09c985e9-deff-11ea-99da-0ac135e8bacf
 seo: CreativeWork

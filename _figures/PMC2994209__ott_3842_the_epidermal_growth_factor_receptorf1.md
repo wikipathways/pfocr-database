@@ -4,6 +4,10 @@ figtitle: HER receptors and their ligands
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2994209
 filename: ott_3842_the_epidermal_growth_factor_receptorf1.jpg
 figlink: /pmc/articles/PMC2994209/figure/f1-ott_3842_the_epidermal_growth_factor_receptor/
@@ -39,9 +43,6 @@ keywords: .na.character
 automl_pathway: 0.8567704
 figid_alias: PMC2994209__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC2994209__F1
 ndex: fae4f57b-deb4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -78,10 +79,10 @@ schema-jsonld:
   keywords:
   - Egf
   - Tgfa
+  - Nrg3
   - Nrg1
   - Nrg4
   - Nrg2
-  - Nrg3
   - Hbegf
   - Areg
   - Ereg
@@ -99,10 +100,10 @@ schema-jsonld:
   - Mdk
   - EGF
   - TGFA
+  - NRG3
   - NRG1
   - NRG4
   - NRG2
-  - NRG3
   - HBEGF
   - AREG
   - EREG
@@ -168,6 +169,21 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
+  - egf
+  - celsr1a
+  - tgfa
+  - nrg1
+  - hbegfb
+  - areg
+  - egfra
+  - her2
+  - her3
+  - her4.1
+  - pak2a
+  - itpka
+  - rab1ab
+  - stat1b
+  - stat4
   - Tyrosine
   - Cancer
   - Cardiomyopathy

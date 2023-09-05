@@ -13,6 +13,9 @@ organisms:
 - metagenomes
 - Sinorhizobium meliloti
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8125072
 filename: mSystems.00161-21-f005.jpg
 figlink: /pmc/articles/PMC8125072/figure/fig5/
@@ -38,8 +41,6 @@ keywords: carbon metabolism | metagenomics | metatranscriptomics | microbial eco
 automl_pathway: 0.8785452
 figid_alias: PMC8125072__F5
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8125072__F5
 ndex: ''
 seo: CreativeWork
@@ -60,6 +61,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GNAS
+  - GNAL
+  - XK
+  - NLRP1
+  - GNPTAB
+  - AMT
+  - CRP
+  - CSRP1
+  - PPIAP10
+  - WNT2
   - glnA
   - glnL
   - glnB

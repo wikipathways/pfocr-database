@@ -6,10 +6,14 @@ organisms:
 - Rhodotorula toruloides
 - Agrobacterium tumefaciens
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Agrobacterium tumefaciens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC5922974
 filename: elife-32110-fig6-figsupp1.jpg
 figlink: /pmc/articles/PMC5922974/figure/fig6s1/
-number: SF6_1
+number: F6
 caption: 'Model pathway illustrating genes involved in glycolysis, triacylglyceride
   (TAG) synthesis, and cytosolic NAD+/NADH balance during TAG synthesis. Genes for
   which mutants had altered lipid accumulation (enrichment scores in clusters LA1,
@@ -31,13 +35,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8810952
-figid_alias: PMC5922974__SF6_1
-figtype: Supplemental figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
-- Agrobacterium tumefaciens
-redirect_from: /figures/PMC5922974__SF6_1
+figid_alias: PMC5922974__F6
+figtype: Figure
+redirect_from: /figures/PMC5922974__F6
 ndex: 3b623034-df11-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -61,61 +61,61 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GND1
-  - FBP1
-  - PFK1
-  - FBA1
-  - LRO1
-  - TPI1
-  - TDH1
-  - NDE1
-  - ZWF1
-  - GPM1
-  - CTP1
-  - ACC1
-  - PDA1
-  - PDB1
-  - LAT1
-  - LPD1
-  - ENO1
-  - OAC1
-  - CDC19
-  - MPC1
-  - GPI13
-  - MPC2
-  - PYC1
-  - PCK1
-  - PDC1
-  - PGK1
   - HAS1
   - MIA2
-  - BGN
-  - GPI
-  - PGPEP1
   - PFKM
+  - FBP1
   - TMED7
   - LINC01194
-  - DGAT1
+  - TPI1
   - SLC5A5
+  - TIE1
+  - NDE1
   - IMPA1
+  - PGK1
+  - FAS
+  - FASN
   - DECR1
   - ACACA
-  - BCL2A1
+  - BMS1
+  - ACACB
+  - PDA1
+  - PDB1
   - SLC7A5
   - LAT
   - ACLY
+  - ENO1
   - PAEP
   - PREP
   - PTPN22
+  - MPC1
+  - MPC2
   - PYDC1
-  - TIE1
-  - FAS
-  - FASN
-  - BMS1
-  - ACACB
-  - pgi
+  - PCK1
+  - BGN
+  - GPI
+  - PGPEP1
+  - DGAT1
+  - BCL2A1
   - zwf
   - gpmI
+  - pgi
+  - PFK1
+  - FBA1
+  - LRO1
+  - TDH1
+  - GND1
+  - CTP1
+  - LAT1
+  - LPD1
+  - OAC1
+  - CDC19
+  - GPI13
+  - PYC1
+  - PDC1
+  - ZWF1
+  - GPM1
+  - ACC1
   - S
   - Fructose-6-P
   - PGIT

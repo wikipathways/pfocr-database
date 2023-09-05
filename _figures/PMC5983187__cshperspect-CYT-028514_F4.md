@@ -3,6 +3,8 @@ figid: PMC5983187__cshperspect-CYT-028514_F4
 figtitle: Intracellular signaling pathways arising from B common (Bc) receptor activation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5983187
 filename: cshperspect-CYT-028514_F4.jpg
 figlink: pmc/articles/PMC5983187/figure/A028514F4/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9500116
 figid_alias: PMC5983187__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5983187__F4
 ndex: ''
 seo: CreativeWork

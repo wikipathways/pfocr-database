@@ -4,6 +4,9 @@ figtitle: BM-MSC modulates inflammation response through mTORC1-p70S6K/mTORC2-Ak
   Signal Pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5327616
 filename: cddiscovery201697-f9.jpg
 figlink: /pmc/articles/PMC5327616/figure/fig9/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.971308
 figid_alias: PMC5327616__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC5327616__F9
 ndex: 18a4c16c-dec7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -85,14 +85,14 @@ schema-jsonld:
   - RPS6KB2
   - IL6
   - NFKB1
-  - RELA
-  - SYT1
-  - GORASP1
-  - WNK1
   - CD40
   - ARHGEF7
   - ASCC1
   - H3P40
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
   - IL1B
   - IL10RA
   - Toll-4
@@ -113,9 +113,9 @@ schema-jsonld:
   - Dif
   - dl
   - Rel
-  - wash
   - Hrb27C
   - betaTub60D
   - Rpt5
   - DCTN2-p50
+  - wash
 ---

@@ -10,10 +10,14 @@ organisms:
 - Homo sapiens
 - Bos taurus
 - vectors
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6850780
 filename: elife-47209-fig8-figsupp1.jpg
 figlink: /pmc/articles/PMC6850780/figure/fig8s1/
-number: SF8_1
+number: F8
 caption: DA neurons and the involvement of EVs and Sig1R-ARF6 signaling pathway. As
   shown previously (), cocaine stimulates the synthesis of 2-AG via promotion of the
   activation of α1-noradrenergic receptors following inhibition of the norepinephrine
@@ -40,15 +44,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9519854
-figid_alias: PMC6850780__SF8_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Cavia porcellus
-- Bos taurus
-redirect_from: /figures/PMC6850780__SF8_1
+figid_alias: PMC6850780__F8
+figtype: Figure
+redirect_from: /figures/PMC6850780__F8
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -78,22 +76,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Cnr1
   - Elk3
   - Slc6a2
   - Ephb1
+  - Cnr1
   - Plcb1
   - Mylk
   - Mylk3
   - Arf6
   - da
   - Sigmar1
-  - Coc
   - Grm1
-  - CNR1
+  - Coc
   - ELK3
   - EPHB1
   - SLC6A2
+  - CNR1
   - PLCB1
   - PLCB2
   - PLCB3
@@ -105,8 +103,19 @@ schema-jsonld:
   - MTG1
   - SIGMAR1
   - GRM1
-  - Mylk2
-  - Pck1
+  - net
+  - Neto
+  - NetA
+  - NetB
+  - Ne
+  - GABA-B-R1
+  - Rdl
+  - Gabat
+  - norpA
+  - Strn-Mlck
+  - nAChRalpha2
+  - Hn
+  - coc
   - cocaine
   - GDP
   - COOH Cocaine

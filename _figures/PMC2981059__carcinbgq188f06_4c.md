@@ -3,6 +3,9 @@ figid: PMC2981059__carcinbgq188f06_4c
 figtitle: HER/HER2-PI3K-Akt-NFKB-elicited pathway in prostate cancer cells
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2981059
 filename: carcinbgq188f06_4c.jpg
 figlink: /pmc/articles/PMC2981059/figure/fig6/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9422654
 figid_alias: PMC2981059__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2981059__F6
 ndex: 4d358076-deb5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -115,6 +116,25 @@ schema-jsonld:
   - ARHGEF7
   - ASCC1
   - H3P40
+  - her
+  - Hesr
+  - Egfr
+  - ar
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pten
+  - Akt
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - Rel
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - aa
   - LY294002
   - PGE2
 ---

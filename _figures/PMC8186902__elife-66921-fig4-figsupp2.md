@@ -8,10 +8,15 @@ organisms:
 - Nicotiana tabacum
 - Canis lupus familiaris
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Canis lupus familiaris
+- Drosophila melanogaster
 pmcid: PMC8186902
 filename: elife-66921-fig4-figsupp2.jpg
 figlink: /pmc/articles/PMC8186902/figure/fig4s2/
-number: F4
+number: SF4_2
 caption: HIF-1 signaling pathway with overlay data from differential expression and
   reporter metabolites analysis.
 papertitle: Integrative transcriptomic analysis of tissue-specific metabolic crosstalk
@@ -25,13 +30,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: Systems biology | network analysis | whole-body modelling | myocardial infarction
   | multi-tissue | metabolically active tissues | Mouse
 automl_pathway: 0.8900642
-figid_alias: PMC8186902__F4
-figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Canis lupus familiaris
-redirect_from: /figures/PMC8186902__F4
+figid_alias: PMC8186902__SF4_2
+figtype: Supplemental figure
+redirect_from: /figures/PMC8186902__SF4_2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -75,8 +76,8 @@ schema-jsonld:
   - Hk
   - Terc
   - Pfkl
-  - Aldoa
   - Gapdh
+  - Aldoa
   - Hand2
   - Fxyd5
   - Spp1
@@ -150,9 +151,63 @@ schema-jsonld:
   - PDPK1
   - TERC
   - PFKL
-  - ALDOA
   - GAPDH
   - GAPDHP44
+  - ALDOA
   - FXYD5
   - BOC
+  - tgo
+  - sima
+  - COM
+  - comt
+  - compressed
+  - lncRNA:flam
+  - Toll-4
+  - Go
+  - Dsor1
+  - Mtk
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Tor
+  - Egfr
+  - Erk7
+  - rl
+  - N-b
+  - lok
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - sl
+  - aop
+  - bat
+  - lolal
+  - na
+  - ATPsynbeta
+  - Atpalpha
+  - Timp
+  - Nos
+  - nos
+  - Anp
+  - Chc
+  - cia
+  - ci
+  - rpk
+  - Gapdh2
+  - Gpdh1
+  - Gapdh1
+  - Ald1
+  - He
+  - fl
+  - fi
+  - CkIIbeta
+  - Andorra
+  - Acam
+  - der
+  - Ric
+  - bol
+  - boi
 ---

@@ -4,6 +4,8 @@ figtitle: Aromatic amino acid decarboxylase is involved in volatile phenylacetal
   production in loquat (Eriobotrya japonica) flowers
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6543696
 filename: plantbiotechnology-34-4-17.0926a-figure01.jpg
 figlink: /pmc/articles/PMC6543696/figure/figure1/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8561373
 figid_alias: PMC6543696__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6543696__F1
 ndex: ''
 seo: CreativeWork

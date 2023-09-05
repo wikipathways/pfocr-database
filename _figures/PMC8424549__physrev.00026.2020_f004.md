@@ -3,6 +3,8 @@ figid: PMC8424549__physrev.00026.2020_f004
 figtitle: Regulation and metabolic functions of mTORC1 and mTORC2
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8424549
 filename: physrev.00026.2020_f004.jpg
 figlink: /pmc/articles/PMC8424549/figure/F0004/
@@ -26,8 +28,6 @@ keywords: cancer metabolism | glycolysis | lipid metabolism | metabolic reprogra
 automl_pathway: 0.944024
 figid_alias: PMC8424549__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8424549__F4
 ndex: ''
 seo: CreativeWork

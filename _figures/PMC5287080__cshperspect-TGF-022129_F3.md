@@ -3,6 +3,9 @@ figid: PMC5287080__cshperspect-TGF-022129_F3
 figtitle: Transforming growth factor B (TGFB)-induced activation of the PI3K-Akt pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5287080
 filename: cshperspect-TGF-022129_F3.jpg
 figlink: /pmc/articles/PMC5287080/figure/A022129F3/
@@ -31,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9571834
 figid_alias: PMC5287080__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC5287080__F3
 ndex: b65f88e0-dee6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -99,7 +99,6 @@ schema-jsonld:
   - gbb
   - put
   - mav
-  - pk
   - Akt
   - Med
   - Crtc

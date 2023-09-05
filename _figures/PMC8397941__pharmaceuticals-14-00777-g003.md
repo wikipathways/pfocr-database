@@ -4,6 +4,8 @@ figtitle: Mechanistic Insight into the Effects of Curcumin on Neuroinflammation-
   Chronic Pain
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8397941
 filename: pharmaceuticals-14-00777-g003.jpg
 figlink: /pmc/articles/PMC8397941/figure/pharmaceuticals-14-00777-f003/
@@ -37,8 +39,6 @@ keywords: chronic pain | curcumin | neuroinflammation | microglia | astrocyte
 automl_pathway: 0.9686364
 figid_alias: PMC8397941__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8397941__F3
 ndex: ''
 seo: CreativeWork
@@ -107,14 +107,14 @@ schema-jsonld:
   - ERVK-24
   - ERVK-19
   - IKBKG
-  - IKBKB
   - CHUK
+  - IKBKB
   - NFKB1
   - NFKBIA
   - TNFRSF1A
+  - PPARA
   - IL4
   - IL10
-  - PPARA
   - SOAT1
   - STAT1
   - STAT2

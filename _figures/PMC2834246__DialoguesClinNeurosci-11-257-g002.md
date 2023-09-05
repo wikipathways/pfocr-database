@@ -6,6 +6,11 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Saccharomyces cerevisiae
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2834246
 filename: DialoguesClinNeurosci-11-257-g002.jpg
 figlink: /pmc/articles/PMC2834246/figure/DialoguesClinNeurosci-11-257-g002/
@@ -48,10 +53,6 @@ keywords: .na.character
 automl_pathway: 0.954122
 figid_alias: PMC2834246__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
 redirect_from: /figures/PMC2834246__F2
 ndex: 3101709e-deeb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -92,7 +93,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EPHB2
+  - Ephb2
+  - Mapk1
+  - Dnmt1
+  - Rps6ka1
+  - Rps6ka5
+  - Hdac5
+  - Hdac6
+  - Camk1
+  - H2-M3
+  - Ppp1r1b
+  - Ppp1cc
+  - Npy4r
+  - Hdac1
+  - Hdac1-ps
+  - Crebbp
+  - Pag1
+  - Cytip
+  - Creb1
+  - Npy
+  - Bdnf
+  - Cdk5
+  - Tacr1
+  - Fosb
+  - Fos
+  - Ephb1
   - MAPK1
   - MAPK3
   - MAPK11
@@ -102,6 +127,7 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
+  - EPHB2
   - DNMT1
   - DNMT3A
   - DNMT3B
@@ -167,38 +193,22 @@ schema-jsonld:
   - CREM
   - ATF1
   - ATF2
-  - CDK5
+  - NPY
   - BDNF
   - BDNF-AS
-  - NPY
+  - CDK5
   - TACR1
   - FOSB
   - FOS
-  - Ephb2
-  - Mapk1
-  - Dnmt1
-  - Rps6ka1
-  - Rps6ka5
-  - Hdac5
-  - Hdac6
-  - Camk1
-  - H2-M3
-  - Ppp1r1b
-  - Ppp1cc
-  - Npy4r
-  - Hdac1
-  - Hdac1-ps
-  - Crebbp
-  - Pag1
-  - Cytip
-  - Creb1
-  - Cdk5
-  - Bdnf
-  - Npy
-  - Tacr1
-  - Fosb
-  - Fos
-  - Ephb1
+  - hdac5
+  - hnmt
+  - parapinopsina
+  - hdac1
+  - npy
+  - bdnf
+  - cdk5
+  - fosb
+  - fosab
   - amphetamine
   - Cocaine
 ---

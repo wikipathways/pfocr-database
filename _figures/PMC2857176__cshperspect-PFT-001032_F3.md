@@ -5,6 +5,8 @@ figtitle: Map of selected p53 pathway-associated genes that harbor known or pote
   boxes)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2857176
 filename: cshperspect-PFT-001032_F3.jpg
 figlink: /pmc/articles/PMC2857176/figure/A001032F3/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8898837
 figid_alias: PMC2857176__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2857176__F3
 ndex: 2048e720-df14-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,9 +77,9 @@ schema-jsonld:
   - MDM4
   - CDK2
   - AKT1
+  - PTK2B
   - AKT2
   - AKT3
-  - PTK2B
   - CDK4
   - PIK3CA
   - PIK3CB

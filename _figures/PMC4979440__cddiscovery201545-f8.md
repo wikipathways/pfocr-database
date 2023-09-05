@@ -12,6 +12,15 @@ organisms:
 - Homo sapiens
 - Gallus gallus
 - Armoracia rusticana
+organisms_ner:
+- Homo sapiens
+- Capra hircus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Mus musculus
+- Gallus gallus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC4979440
 filename: cddiscovery201545-f8.jpg
 figlink: /pmc/articles/PMC4979440/figure/fig8/
@@ -34,12 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9662303
 figid_alias: PMC4979440__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Capra hircus
-- Oryctolagus cuniculus
-- Rattus norvegicus
-- Gallus gallus
 redirect_from: /figures/PMC4979440__F8
 ndex: eb10ecc2-ded0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -93,27 +96,73 @@ schema-jsonld:
   - COX2
   - PTGS2
   - MTCO2P12
-  - CXCL8
-  - TIMP1
-  - IL1B
   - ADGRL2
   - CCDC80
   - DCLK2
   - ERVW-5
+  - TIMP1
+  - CXCL8
   - TNF
+  - IL1B
   - Mapk3
   - Mapk14
   - Pla2g4a
   - Nfkb1
   - Cyp2e1
   - Ptgs2
-  - Timp1
-  - Il1b
   - Ccdc80
   - Dclk2
+  - Timp1
   - Tnf
+  - Il1b
+  - Mdk
+  - Nup43
+  - Cdk20
+  - Trp53
+  - Gtf2h2
+  - Eif3g
+  - Ifi44
+  - Crk
+  - Grap2
+  - Syp
+  - Ahsa1
+  - Kat5
+  - H2-Aa
   - GLUL
-  - IL8L2
   - CL2
+  - IL8L2
   - LITAF
+  - Dsor1
+  - Mtk
+  - Taf9
+  - Arpc1
+  - Ssl1
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - MKP-4
+  - rl
+  - aa
+  - Dif
+  - dl
+  - Rel
+  - Timp
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - egr
+  - pak2a
+  - itpka
+  - mapk14a
+  - pla2g4aa
+  - mapk3
+  - ccdc80
+  - cxcl8a
+  - tnfb
+  - il1b
 ---

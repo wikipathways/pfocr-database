@@ -3,6 +3,8 @@ figid: PMC2828280__cshperspect-JCT-002915_F2
 figtitle: Canonical Wnt pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2828280
 filename: cshperspect-JCT-002915_F2.jpg
 figlink: /pmc/articles/PMC2828280/figure/A002915F2/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9639386
 figid_alias: PMC2828280__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2828280__F2
 ndex: b8610dfe-ded5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -81,12 +81,12 @@ schema-jsonld:
   - LAP3
   - CENPJ
   - PDON2
-  - LRP6
-  - LRP5
   - RPSA
   - LRP1
   - PTPRA
   - MVP
+  - LRP6
+  - LRP5
   - FZD1
   - FZD10
   - FZD2

@@ -3,6 +3,8 @@ figid: PMC4979452__cddiscovery201650-f6
 figtitle: Protein kinase A (PKA) signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f6.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig6/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8793685
 figid_alias: PMC4979452__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F6
 ndex: ca616bef-df19-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -113,8 +113,8 @@ schema-jsonld:
   - PRKAG2
   - PRKAG3
   - DDC
-  - BDKRB1
   - BDKRB2
+  - BDKRB1
   - MDM2
   - CD80
   - NMBR

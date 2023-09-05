@@ -5,6 +5,9 @@ figtitle: Deletion of glycogen synthase in a ΔfumABC strain restores carbon flu
 organisms:
 - Salmonella enterica
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6908425
 filename: mSphere.00796-19-f0004.jpg
 figlink: /pmc/articles/PMC6908425/figure/fig4/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.7579347
 figid_alias: PMC6908425__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6908425__F4
 ndex: ''
 seo: CreativeWork
@@ -117,6 +118,54 @@ schema-jsonld:
   - INPP5K
   - FUT3
   - REL
+  - aceF
+  - aceE
+  - lpd
+  - pgm
+  - zwf
+  - otsB
+  - treA
+  - malZ
+  - glcB
+  - glk
+  - treF
+  - otsA
+  - pgi
+  - pgl
+  - mdh
+  - acnB
+  - acnA
+  - patZ
+  - fbp
+  - glpX
+  - gnd
+  - fumC
+  - fumA
+  - fumB
+  - malP
+  - glgX
+  - fbaA
+  - fbaB
+  - rpiA
+  - rpe
+  - tpiA
+  - sdhD
+  - sdhC
+  - sucA
+  - sucB
+  - gapA
+  - sucC
+  - sucD
+  - tktA
+  - pgk
+  - talA
+  - alaT
+  - talB
+  - gpmA
+  - tktB
+  - eno
+  - folD
+  - ppsA
   - MalO
   - OAc
   - ADPG

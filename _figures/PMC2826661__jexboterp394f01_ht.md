@@ -5,6 +5,10 @@ figtitle: Biosynthetic pathway for anthocyanins, caffeoylquinates, and other maj
 organisms:
 - Solanum tuberosum
 - Homo sapiens
+organisms_ner:
+- Solanum tuberosum
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2826661
 filename: jexboterp394f01_ht.jpg
 figlink: /pmc/articles/PMC2826661/figure/fig1/
@@ -38,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.7607567
 figid_alias: PMC2826661__F1
 figtype: Figure
-organisms_ner:
-- Solanum tuberosum
 redirect_from: /figures/PMC2826661__F1
 ndex: cd50db5a-df2a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -75,6 +77,44 @@ schema-jsonld:
   - DFR
   - FLS
   - F3H
+  - PDP1
+  - DLAT
+  - DLD
+  - PDHA1
+  - PDHA2
+  - PDHB
+  - PDHX
+  - AVP
+  - ADH1A
+  - ADH1B
+  - ADH1C
+  - ADH4
+  - ADH5
+  - ADH6
+  - ADH7
+  - ADHFE1
+  - PAM
+  - LRIT1
+  - SHCBP1
+  - LYST
+  - BRD2
+  - CGA
+  - FSHB
+  - cm
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - Adh
+  - pal
+  - Pal2
+  - Chi
+  - chic
+  - fs(1)h
+  - Lgr1
+  - ppk
+  - vvl
+  - as
   - Dihydroquercetin
   - Arogenate
   - Cyanidin

@@ -3,6 +3,10 @@ figid: PMC4978554__theoncologist_15523_f1
 figtitle: CTLA-4 pathway inhibition
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC4978554
 filename: theoncologist_15523_f1.jpg
 figlink: /pmc/articles/PMC4978554/figure/F1/
@@ -29,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9055049
 figid_alias: PMC4978554__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4978554__F1
 ndex: ''
 seo: CreativeWork
@@ -62,9 +64,19 @@ schema-jsonld:
   - TRB
   - TRD
   - TRG
-  - CD86
   - CD80
+  - CD86
   - HLA-C
   - APC
   - PROC
+  - Tcr
+  - Mhc
+  - zip
+  - Apc
+  - Apc2
+  - Axn
+  - Fs(3)Apc
+  - cd28
+  - cd80/86
+  - apc
 ---

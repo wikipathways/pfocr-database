@@ -3,6 +3,9 @@ figid: PMC6315738__pharmaceuticals-11-00128-g001
 figtitle: Intestinal uptake of non-heme iron and its regulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6315738
 filename: pharmaceuticals-11-00128-g001.jpg
 figlink: /pmc/articles/PMC6315738/figure/pharmaceuticals-11-00128-f001/
@@ -50,9 +53,6 @@ keywords: .na.character
 automl_pathway: 0.9126568
 figid_alias: PMC6315738__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6315738__F1
 ndex: 07f44b7f-df11-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -99,10 +99,28 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - FBLIM1
+  - GOPC
+  - CA1
+  - ACO1
+  - DMRT1
+  - SLC11A2
+  - CHMP2B
+  - SLC40A1
+  - IREB2
+  - FES
+  - CYBRD1
+  - SMG1
+  - LIX1
+  - HMGA2
+  - EPAS1
+  - HEPH
+  - PCBP1
+  - cal
+  - Cam
   - Irp-1B
   - Irp-1A
   - Mvl
-  - heph
   - Rbp9
   - hoip
   - cno
@@ -111,25 +129,7 @@ schema-jsonld:
   - Liprin-alpha
   - lft
   - ft
-  - cal
-  - Cam
-  - ACO1
-  - DMRT1
-  - SLC11A2
-  - CHMP2B
-  - HEPH
-  - SLC40A1
-  - IREB2
-  - FES
-  - SMG1
-  - CYBRD1
-  - LIX1
-  - HMGA2
-  - PCBP1
-  - EPAS1
-  - FBLIM1
-  - GOPC
-  - CA1
+  - heph
   - 4Fe-4S
   - Fe
   - Fe3+

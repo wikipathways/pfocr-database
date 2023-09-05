@@ -27,6 +27,10 @@ organisms:
 - uncultured actinomycete
 - catfish
 - Acromyrmex octospinosus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3869250
 filename: Beilstein_J_Org_Chem-09-2556-g004.jpg
 figlink: /pmc/articles/PMC3869250/figure/F3/
@@ -47,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.7318305
 figid_alias: PMC3869250__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC3869250__F3
 ndex: eadcaeec-df20-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -76,5 +78,36 @@ schema-jsonld:
   - Oog1
   - T2
   - oh
+  - HOXA7
+  - GPR162
+  - ADRA1D
+  - NDUFAB1
+  - CPAT1
+  - C1QA
+  - C1QB
+  - C1QC
+  - C1R
+  - C1S
+  - Antp
+  - Pen
+  - alphaTub85E
+  - Prosalpha2
+  - nAChRalpha2
+  - pyr
+  - Col4a1
+  - Ca-alpha1D
+  - alphaTub84B
+  - nAChRalpha1
+  - wb
+  - Prosalpha1
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
+  - Kr
+  - Hn
   - Thr
 ---

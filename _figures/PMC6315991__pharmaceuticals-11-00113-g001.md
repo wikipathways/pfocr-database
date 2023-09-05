@@ -3,6 +3,8 @@ figid: PMC6315991__pharmaceuticals-11-00113-g001
 figtitle: Links between Lipid and Iron Metabolic Pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6315991
 filename: pharmaceuticals-11-00113-g001.jpg
 figlink: /pmc/articles/PMC6315991/figure/pharmaceuticals-11-00113-f001/
@@ -49,9 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9256853
 figid_alias: PMC6315991__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6315991__F1
 ndex: 95bd15a2-df0c-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -97,66 +96,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CkIIbeta
-  - Andorra
-  - Anp
-  - Acam
-  - alpha-Cat
-  - Acat2
-  - CG8112
-  - Ebp
-  - CDase
-  - schlank
-  - step
-  - lds
-  - CG32052
-  - Dgat2
-  - Gat
-  - mdy
-  - Coa
-  - Hmgcr
-  - norpA
-  - sl
-  - Plc21C
-  - Dsp1
-  - Mgat1
-  - Mgat4a
-  - Mgat4b
-  - Mgat2
-  - Mgat3
-  - wisp
-  - PAPLA1
-  - Pli
-  - Pdf
-  - skd
-  - hrg
-  - Pld
-  - Agpat1
-  - Agpat2
-  - Agpat4
-  - Agpat3
-  - Pla
-  - LPCAT
-  - atx
-  - ATPCL
-  - Gpdh1
-  - CycE
-  - cyc
-  - Tpi
-  - mAcon1
-  - Irp-1B
-  - Irp-1A
-  - Rbp9
-  - Acsl
-  - Loxl2
-  - Loxl1
-  - Mvl
-  - heph
-  - PHGPx
-  - peo
-  - AttA
-  - tbi
-  - Eph
   - ACAT1
   - CES1
   - SOAT1
@@ -167,12 +106,12 @@ schema-jsonld:
   - SH3D19
   - NSDHL
   - TM7SF2
-  - CYP51A1
   - PTPN5
+  - CYP51A1
   - HAMP
-  - DGAT1
-  - ACY1
   - HMGCR
+  - ACY1
+  - DGAT1
   - HSPG2
   - PLCE1
   - PLCZ1
@@ -218,20 +157,17 @@ schema-jsonld:
   - ACLY
   - GPAM
   - TPI1
-  - ACO1
+  - RP1
+  - STK19
+  - MAPRE2
+  - TMEM184B-AS1
   - FES
-  - ACSL1
-  - ACSL3
-  - ACSL4
-  - ACSL5
-  - ACSL6
-  - LCAT
   - AFF1
   - LOX
+  - EPHA1
   - DMRT1
   - SLC11A2
   - CHMP2B
-  - HEPH
   - GPX1
   - GPX2
   - GPX3
@@ -249,11 +185,14 @@ schema-jsonld:
   - SLC39A8
   - SLC39A14
   - CYBRD1
-  - RP1
-  - STK19
-  - MAPRE2
-  - TMEM184B-AS1
-  - EPHA1
+  - ACO1
+  - ACSL1
+  - ACSL3
+  - ACSL4
+  - ACSL5
+  - ACSL6
+  - LCAT
+  - HEPH
   - sphingolipid
   - iron
   - Fatty Acid

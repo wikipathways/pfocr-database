@@ -3,6 +3,8 @@ figid: PMC6880815__Beilstein_J_Org_Chem-15-2631-g004
 figtitle: Putative biosynthetic pathway to the nanangenines
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6880815
 filename: Beilstein_J_Org_Chem-15-2631-g004.jpg
 figlink: /pmc/articles/PMC6880815/figure/F3/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.6658657
 figid_alias: PMC6880815__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6880815__F3
 ndex: ''
 seo: CreativeWork

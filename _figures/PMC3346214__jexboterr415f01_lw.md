@@ -3,6 +3,8 @@ figid: PMC3346214__jexboterr415f01_lw
 figtitle: A general schematic diagram of the flavonoid biosynthetic pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3346214
 filename: jexboterr415f01_lw.jpg
 figlink: /pmc/articles/PMC3346214/figure/fig1/
@@ -24,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8387836
 figid_alias: PMC3346214__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3346214__F1
 ndex: ''
 seo: CreativeWork
@@ -53,13 +52,6 @@ schema-jsonld:
   - Lar
   - larv
   - condensed
-  - TT4
-  - CHI
-  - TT5
-  - F3H
-  - FLS1
-  - FLS3
-  - DFR
   - Dihydroquercetin
   - 4-coumaroyl CoA
   - Flavan-3-ol

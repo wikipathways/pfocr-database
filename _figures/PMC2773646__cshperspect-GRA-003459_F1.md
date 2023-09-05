@@ -3,6 +3,9 @@ figid: PMC2773646__cshperspect-GRA-003459_F1
 figtitle: Nodal signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2773646
 filename: cshperspect-GRA-003459_F1.jpg
 figlink: /pmc/articles/PMC2773646/figure/A003459F1/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9198936
 figid_alias: PMC2773646__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2773646__F1
 ndex: 17372f13-df0e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -59,8 +60,8 @@ schema-jsonld:
   - GDE1
   - INHBA
   - INHBB
-  - DACT2
   - DACT1
+  - DACT2
   - RAP2A
   - SMAD2
   - SMAD4
@@ -71,4 +72,12 @@ schema-jsonld:
   - TP53
   - TP63
   - TP73
+  - dact2
+  - smad2
+  - smad4a
+  - smad4b
+  - ppm1bb
+  - ranbp3a
+  - foxh1
+  - tp53
 ---

@@ -5,6 +5,9 @@ figtitle: Schematic drawing showing that MSC-exo eye drops alleviate GVHD-associ
   of IL-6R/Stat3 pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8754411
 filename: sciadv.abj9617-f8.jpg
 figlink: /pmc/articles/PMC8754411/figure/F8/
@@ -25,9 +28,6 @@ keywords: ''
 automl_pathway: 0.8680256
 figid_alias: PMC8754411__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC8754411__F8
 ndex: ''
 seo: CreativeWork
@@ -55,9 +55,9 @@ schema-jsonld:
   - STAT3
   - IL13
   - IL6
-  - MRC1
   - ARG1
   - TINAGL1
+  - MRC1
   - cd63
   - cd9a
   - ighv1-1

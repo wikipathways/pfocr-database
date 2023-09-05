@@ -4,6 +4,8 @@ figtitle: Upregulation of genes in the SNARE interactions in vesicular transport
   during treatment with compound 9029936
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC6739497
 filename: mSphere.00620-19-f0005.jpg
 figlink: /pmc/articles/PMC6739497/figure/fig5/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9174398
 figid_alias: PMC6739497__F5
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC6739497__F5
 ndex: ''
 seo: CreativeWork

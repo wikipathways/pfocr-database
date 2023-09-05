@@ -6,6 +6,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Caenorhabditis elegans
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC3309874
 filename: geronaglr200f01_3c.jpg
 figlink: /pmc/articles/PMC3309874/figure/fig1/
@@ -33,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9628104
 figid_alias: PMC3309874__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC3309874__F1
 ndex: 2ea7c352-ded8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -90,5 +91,8 @@ schema-jsonld:
   - Akt1
   - Igf1r
   - Insr
+  - ins
+  - igf1
+  - irs1
   - Cancer
 ---

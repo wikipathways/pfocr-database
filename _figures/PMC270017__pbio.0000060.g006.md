@@ -3,6 +3,8 @@ figid: PMC270017__pbio.0000060.g006
 figtitle: Identification of Drosophila MicroRNA Targets
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC270017
 filename: pbio.0000060.g006.jpg
 figlink: /pmc/articles/PMC270017/figure/pbio.0000060-g006/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.755289
 figid_alias: PMC270017__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC270017__F6
 ndex: ''
 seo: CreativeWork

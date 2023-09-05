@@ -5,10 +5,12 @@ figtitle: PD-L1-Targeted Co-Delivery of Two Chemotherapeutics for Efficient Supp
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
 pmcid: PMC9318418
 filename: pharmaceutics-14-01488-sch001.jpg
 figlink: /pmc/articles/PMC9318418/figure/pharmaceutics-14-01488-sch001/
-number: SF1
+number: S1
 caption: Schematic representation of mechanisms of action of ABZ and OTS co-delivered
   by lipid-coated calcium phosphate (LCP) nanoparticles via dual-targeting PD-L1 and
   FA receptor. (A) Endosomal/lysosomal escape of OTS-ABZ-LCP nanoparticles with acid-triggered
@@ -27,11 +29,9 @@ keywords: lipid-coated calcium phosphate nanoparticles | antiworm albendazole | 
   inhibitor OTS964 | combination cancer therapy | dual targeting delivery | programmed
   death ligand-1 targeting
 automl_pathway: 0.9392291
-figid_alias: PMC9318418__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC9318418__SF1
+figid_alias: PMC9318418__S1
+figtype: Scheme
+redirect_from: /figures/PMC9318418__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

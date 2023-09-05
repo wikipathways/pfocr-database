@@ -5,6 +5,9 @@ figtitle: Summary of the bone morphogenetic protein (BMP) and growth and differe
   disorders
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC5666637
 filename: cshperspect-TGF-022269_F3.jpg
 figlink: /pmc/articles/PMC5666637/figure/A022269F3/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9475813
 figid_alias: PMC5666637__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5666637__F3
 ndex: 13982716-dea5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -75,6 +76,7 @@ schema-jsonld:
   - GDF5
   - BMP2
   - BMPR1B
+  - ADA2
   - BMP1
   - BMP3
   - BMP5
@@ -90,7 +92,6 @@ schema-jsonld:
   - GDF6
   - GDF7
   - PAEP
-  - ADA2
   - WNT1
   - WNT2
   - WNT2B
@@ -124,17 +125,30 @@ schema-jsonld:
   - ACVR1
   - CEP43
   - CHTOP
-  - SMAD1
-  - SMAD4
   - SMAD5
+  - SMAD1
+  - GARS1
+  - SMAD9
+  - SMAD4
   - SMAD6
   - SMAD7
-  - SMAD9
   - SMAD2
   - SMAD3
-  - GARS1
   - SOST
   - RUNX2
   - LRP6
   - LRP5
+  - bmp4
+  - gdf5
+  - bmp2a
+  - bmp2b
+  - acvr1l
+  - bmpr1ba
+  - smad5
+  - smad1
+  - sost
+  - smad4a
+  - smad4b
+  - lrp6
+  - lrp5
 ---

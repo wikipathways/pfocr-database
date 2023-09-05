@@ -4,6 +4,9 @@ figtitle: Demosponge EST Sequencing Reveals a Complex Genetic Toolkit of the Sim
   Metazoans
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2981516
 filename: molbiolevolmsq174f06_3c.jpg
 figlink: /pmc/articles/PMC2981516/figure/fig6/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.841461
 figid_alias: PMC2981516__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2981516__F6
 ndex: ''
 seo: CreativeWork
@@ -58,20 +58,20 @@ schema-jsonld:
   keywords:
   - Me
   - Su(Tpl)
+  - an
   - mle
   - Hem
   - Atpalpha
-  - an
   - 'On'
   - drg
-  - wp
   - se
+  - wp
   - sl
   - St2
   - tn
   - ELL
-  - CTNNBL1
   - AN
+  - CTNNBL1
   - ST2
   - SULT2A1
   - IL1RL1

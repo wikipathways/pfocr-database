@@ -4,6 +4,9 @@ figtitle: A pathway for Parkinson’s
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC3179340
 filename: cshperspect-PRT-007500_F3.jpg
 figlink: /pmc/articles/PMC3179340/figure/A007500F3/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.7032173
 figid_alias: PMC3179340__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC3179340__F3
 ndex: ''
 seo: CreativeWork
@@ -56,15 +56,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Nlrp1a
-  - Lrrk2
-  - Park7
+  - nac
+  - Nacalpha
+  - sie
+  - sosie
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - pnt
+  - Lrrk
+  - park
+  - mid
+  - DJ-1alpha
+  - dj-1beta
   - Pink1
-  - Uchl1
-  - XK
-  - NLRP1
-  - LRRK2
-  - PARK7
-  - PINK1
-  - UCHL1
+  - Uch
+  - lrrk2
+  - park7
+  - pink1
+  - uchl1
 ---

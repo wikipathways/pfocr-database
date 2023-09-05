@@ -3,6 +3,9 @@ figid: PMC7081367__Dtsch_Arztebl_Int-117_0119_003
 figtitle: Disorders Caused by Genetic Mosaicism
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7081367
 filename: Dtsch_Arztebl_Int-117_0119_003.jpg
 figlink: pmc/articles/PMC7081367/figure/F3/
@@ -44,8 +47,6 @@ keywords: .na.character
 automl_pathway: 0.9382147
 figid_alias: PMC7081367__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7081367__F3
 ndex: ''
 seo: CreativeWork
@@ -163,10 +164,26 @@ schema-jsonld:
   - TESC
   - TSC2
   - MTOR
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - EPHB2
   - MAPK1
   - MAPK3
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Pten
+  - Nf1
+  - Tsc
+  - Tsc1
+  - Mtor
+  - Tor
+  - Erk7
+  - rl
+  - CycE
+  - cyc
 ---

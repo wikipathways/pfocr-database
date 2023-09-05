@@ -6,6 +6,12 @@ organisms:
 - Mus musculus
 - Drosophila melanogaster
 - Gallus gallus
+organisms_ner:
+- Drosophila melanogaster
+- Gallus gallus
+- Mus musculus
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC4448604
 filename: cshperspect-CSZ-019224_F2.jpg
 figlink: /pmc/articles/PMC4448604/figure/A019224F2/
@@ -40,11 +46,6 @@ keywords: .na.character
 automl_pathway: 0.8929748
 figid_alias: PMC4448604__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Gallus gallus
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC4448604__F2
 ndex: 70342d5f-dea1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -122,13 +123,13 @@ schema-jsonld:
   - mop
   - Hipk
   - Tgi
-  - tsh
-  - Lgr1
   - hth
   - sd
   - CG2662
   - Mnt
   - ash2
+  - tsh
+  - Lgr1
   - FI
   - DYRK1A
   - APP
@@ -201,4 +202,12 @@ schema-jsonld:
   - NLN
   - AMPD1
   - MXD1
+  - CRB
+  - CRU2
+  - FT
+  - TAO1
+  - PAR1
+  - PARP2
+  - ACT12
+  - HTH
 ---

@@ -8,6 +8,10 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Adenoviridae
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9319738
 filename: pharmaceuticals-15-00842-g005.jpg
 figlink: /pmc/articles/PMC9319738/figure/pharmaceuticals-15-00842-f005/
@@ -36,8 +40,6 @@ keywords: edaravone | TDP-43 | transcriptome | amyotrophic lateral sclerosis | N
 automl_pathway: 0.7877352
 figid_alias: PMC9319738__F5
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC9319738__F5
 ndex: ''
 seo: CreativeWork
@@ -66,13 +68,60 @@ schema-jsonld:
   - Dnah8
   - Bglap2
   - Nobox
-  - Poc1a
   - Re
   - te
+  - Poc1a
   - st
   - Synpo2l
   - .na.character
   - Bas
   - Pain1
   - Tcf23
+  - ERVK-8
+  - ERVK-10
+  - ERVK-9
+  - ERVK-21
+  - ERVK-18
+  - ERVK-25
+  - ERVK-24
+  - ERVK-19
+  - DNAH8
+  - NOBOX
+  - PRPF6
+  - COL14A1
+  - TCFL5
+  - BED
+  - MYP1
+  - THOP1
+  - LINC00273
+  - TOP1
+  - TOP1MT
+  - TOP3A
+  - TOP3B
+  - TOP2A
+  - TOP2B
+  - BAS
+  - TCF23
+  - sens
+  - Vha14-1
+  - un
+  - Tom
+  - alphaTub67C
+  - und
+  - en
+  - den
+  - ke
+  - cha
+  - ChAT
+  - phu
+  - Ubqn
+  - Egfr
+  - bra
+  - byn
+  - bas
+  - para
+  - pyd3
+  - bo
+  - out
+  - Ne
 ---

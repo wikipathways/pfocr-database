@@ -29,6 +29,9 @@ organisms:
 - Erythrina poeppigiana
 - Homo sapiens
 - Epirrhoe alternata
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7901476
 filename: mSystems.00786-20-f006.jpg
 figlink: pmc/articles/PMC7901476/figure/fig6/
@@ -63,8 +66,6 @@ keywords: .na.character
 automl_pathway: 0.9279211
 figid_alias: PMC7901476__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7901476__F6
 ndex: ''
 seo: CreativeWork
@@ -96,6 +97,27 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ATP8A2
+  - WDTC1
+  - PTS
+  - PAEP
+  - PREP
+  - PTPN22
+  - ERVK-9
+  - ERVK-11
+  - ERVK-19
+  - PDSS1
+  - ATPsynbeta
+  - Atpalpha
+  - ninaE
+  - adp
+  - pts
+  - PheRS-m
+  - Pep
+  - bgcn
+  - Coa
+  - mn
+  - Psn
   - ATP
   - ubiquinol
   - trehalose

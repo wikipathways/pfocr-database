@@ -3,6 +3,9 @@ figid: PMC3385961__cshperspect-WNT-007922_F1
 figtitle: Evolution of Wnt pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3385961
 filename: cshperspect-WNT-007922_F1.jpg
 figlink: /pmc/articles/PMC3385961/figure/A007922F1/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9688587
 figid_alias: PMC3385961__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC3385961__F1
 ndex: 09e637a3-dec4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -102,20 +102,20 @@ schema-jsonld:
   - DVL2
   - DVL3
   - IFT81
-  - CHKA
   - GSK3B
+  - CHKA
   - APC
   - PROC
-  - RHO
-  - RHOD
-  - RHOA
-  - RHOB
-  - RHOC
   - AKT1
   - RAC1
   - RAC2
   - RAC3
   - RHOG
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
   - CTNNB1
   - MAPK8
   - MAPK9
@@ -127,8 +127,8 @@ schema-jsonld:
   - HNF4A
   - cby1
   - ryk
-  - cki
   - gsk3ba
+  - cki
   - apc
   - rho
   - rnd2

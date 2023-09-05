@@ -4,6 +4,8 @@ figtitle: Antiviral innate immunity, interactions with viral suppressors and bac
   PTI (1)
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC8067988
 filename: microorganisms-09-00775-g003.jpg
 figlink: pmc/articles/PMC8067988/figure/microorganisms-09-00775-f003/
@@ -52,8 +54,6 @@ keywords: .na.character
 automl_pathway: 0.9461151
 figid_alias: PMC8067988__F3
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC8067988__F3
 ndex: ''
 seo: CreativeWork
@@ -103,8 +103,8 @@ schema-jsonld:
   keywords:
   - FLS2
   - NIK1
-  - BAK1
   - REP
+  - APK
   - C2
   - CNGC4
 ---

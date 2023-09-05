@@ -10,6 +10,8 @@ organisms:
 - Mus musculus
 - Bos taurus
 - Escherichia coli
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC434151
 filename: pbio.0020203.g006.jpg
 figlink: /pmc/articles/PMC434151/figure/pbio-0020203-g006/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.7533525
 figid_alias: PMC434151__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC434151__F6
 ndex: ''
 seo: CreativeWork
@@ -76,9 +76,9 @@ schema-jsonld:
   keywords:
   - sick
   - Dredd
+  - Rel
   - dnr1
   - Nmdar1
-  - Rel
   - DptA
   - DptB
 ---

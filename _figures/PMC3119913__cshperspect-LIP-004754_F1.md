@@ -3,6 +3,8 @@ figid: PMC3119913__cshperspect-LIP-004754_F1
 figtitle: The SREBP pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3119913
 filename: cshperspect-LIP-004754_F1.jpg
 figlink: /pmc/articles/PMC3119913/figure/A004754F1/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.8728675
 figid_alias: PMC3119913__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3119913__F1
 ndex: ''
 seo: CreativeWork

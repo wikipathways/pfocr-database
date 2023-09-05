@@ -5,6 +5,9 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Streptomyces hygroscopicus
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3281571
 filename: cshperspect-SIG-011593_F1.jpg
 figlink: /pmc/articles/PMC3281571/figure/A011593F1/
@@ -21,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9351552
 figid_alias: PMC3281571__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3281571__F1
 ndex: 7c32d59c-df08-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -49,8 +50,8 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
-  - WDTC1
   - ATP8A2
+  - WDTC1
   - AKT1
   - AKT2
   - AKT3
@@ -81,5 +82,34 @@ schema-jsonld:
   - EIF4E
   - EIF4E2
   - EIF4E3
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - Akt
+  - Lkb1
+  - SNF4Agamma
+  - AMPKalpha
+  - gig
+  - Tsc1
+  - Fkbp12
+  - Rheb
+  - Mtor
+  - Tor
+  - raptor
+  - PRAS40
+  - Crtc
+  - Thor
+  - S6k
+  - eIF4E1
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E6
+  - eIF4EHP
   - Rapamycin
 ---

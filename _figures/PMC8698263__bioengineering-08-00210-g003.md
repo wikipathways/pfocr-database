@@ -5,6 +5,9 @@ figtitle: Tryptophan Production Maximization in a Fed-Batch Bioreactor with Modi
   Cell Kinetic Model
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8698263
 filename: bioengineering-08-00210-g003.jpg
 figlink: /pmc/articles/PMC8698263/figure/bioengineering-08-00210-f003/
@@ -35,9 +38,6 @@ keywords: glycolysis | tryptophan synthesis | modified E. coli | fed-batch biore
 automl_pathway: 0.9314033
 figid_alias: PMC8698263__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8698263__F3
 ndex: ''
 seo: CreativeWork
@@ -80,11 +80,11 @@ schema-jsonld:
   - pph
   - sti
   - Fum1
+  - Lac
+  - lacquered
   - mal
   - bs
   - Mrtf
-  - Lac
-  - lacquered
   - ac
   - CycE
   - cyc
@@ -101,10 +101,10 @@ schema-jsonld:
   - ENO1
   - CIT
   - DHDDS
+  - LCT
   - MAL
   - MRTFA
   - TIRAP
-  - LCT
   - ADCY1
   - ADCY2
   - ADCY3

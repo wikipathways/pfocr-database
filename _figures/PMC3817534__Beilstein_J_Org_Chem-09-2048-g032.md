@@ -24,10 +24,12 @@ organisms:
 - H1N1 subtype
 - Homo sapiens
 - Lycogala epidendrum
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3817534
 filename: Beilstein_J_Org_Chem-09-2048-g032.jpg
 figlink: /pmc/articles/PMC3817534/figure/C21/
-number: S21
+number: SF21
 caption: Postulated biosynthetic pathway for the formation of 156 (adopted from George)
   [].
 papertitle: The chemistry of isoindole natural products.
@@ -39,11 +41,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.75497
-figid_alias: PMC3817534__S21
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC3817534__S21
+figid_alias: PMC3817534__SF21
+figtype: Supplemental figure
+redirect_from: /figures/PMC3817534__SF21
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -58,6 +58,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Me
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - Hn
+  - ome
+  - homer
   - farnesyl pyrophosphate
   - DMAPP
   - orsellinic acid

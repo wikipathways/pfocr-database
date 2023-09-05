@@ -4,6 +4,8 @@ figtitle: Molecular cloning of flavonoid biosynthetic genes and biochemical char
   of anthocyanin O-methyltransferase of Nemophila menziesii Hook. and Arn
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC6543731
 filename: plantbiotechnology-35-1-18.0104a-figure01.jpg
 figlink: /pmc/articles/PMC6543731/figure/figure1/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9424802
 figid_alias: PMC6543731__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6543731__F1
 ndex: 0f8f8c62-def9-11ea-99da-0ac135e8bacf
 seo: CreativeWork

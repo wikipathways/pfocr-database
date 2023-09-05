@@ -3,6 +3,8 @@ figid: PMC3721271__cshperspectmed-MYC-014217_F4
 figtitle: MYC is shown to stimulate genes involved in lipid synthesis
 organisms:
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3721271
 filename: cshperspectmed-MYC-014217_F4.jpg
 figlink: /pmc/articles/PMC3721271/figure/A014217F4/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9519772
 figid_alias: PMC3721271__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3721271__F4
 ndex: ''
 seo: CreativeWork
@@ -42,6 +42,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Myc
+  - Polr2A
+  - Prim1
+  - PolA1
+  - PolA2
+  - sv
+  - Prim2
+  - svr
+  - Max
+  - mof
   - Glucose
   - Glutamine
   - Glycerol

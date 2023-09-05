@@ -4,6 +4,9 @@ figtitle: 'STING in Non-Alcoholic Fatty Liver Diseases: Potential Therapeutic Ta
   in Inflammation-Carcinogenesis Pathway'
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC9611148
 filename: pharmaceuticals-15-01241-g002.jpg
 figlink: /pmc/articles/PMC9611148/figure/pharmaceuticals-15-01241-f002/
@@ -29,9 +32,6 @@ keywords: non-alcoholic fatty liver disease | STING | inflammation | inhibitors 
 automl_pathway: 0.916097
 figid_alias: PMC9611148__F2
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC9611148__F2
 ndex: ''
 seo: CreativeWork
@@ -58,9 +58,9 @@ schema-jsonld:
   - elf2a
   - eif2a
   - irf3
+  - il6
   - ifnphi1
   - tnfb
-  - il6
   - b3gnt5a
   - tbk1
   - CGAS
@@ -70,9 +70,9 @@ schema-jsonld:
   - EIF2A
   - EIF2S1
   - IRF3
+  - IL6
   - IFNA1
   - TNF
-  - IL6
   - CARD16
   - STING1
   - MAP1LC3A

@@ -4,6 +4,9 @@ figtitle: Interaction networks of As sensitivity in yeast
 organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC2742584
 filename: toxscikfp162f07_3c.jpg
 figlink: /pmc/articles/PMC2742584/figure/fig7/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8899632
 figid_alias: PMC2742584__F7
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC2742584__F7
 ndex: 1348f5c1-df14-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -64,6 +64,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - MUPP
+  - SULT1A1
+  - MOSPD3
+  - SULT1A2
+  - CD4
+  - RBPJ
+  - RPA4
+  - RP34
+  - RHO
+  - RFC3
+  - PSMD9
+  - RFC5
+  - RFC2
+  - MRE11
+  - RAP1A
+  - RABGEF1
+  - TERF2IP
+  - RAP1B
+  - RFC4
+  - WDHD1
+  - RAD50
+  - ATAD5
+  - ATM
+  - ITGAM
+  - ITGB2
   - MET17
   - ADE3
   - MET4
@@ -81,18 +106,11 @@ schema-jsonld:
   - GCN4
   - CYS3
   - CBF1
-  - RPA34
   - MET2
   - STR3
-  - RFC3
   - RPN4
-  - RFC5
-  - RFC2
-  - MRE11
   - RAP1
-  - RFC4
   - CTF4
-  - RAD50
   - ELG1
   - TEL1
   - XRS2
@@ -100,21 +118,4 @@ schema-jsonld:
   - RAD27
   - MAC1
   - RAD55
-  - MUPP
-  - SULT1A1
-  - MOSPD3
-  - SULT1A2
-  - CD4
-  - RBPJ
-  - POLR1G
-  - PSMD9
-  - RAP1A
-  - RABGEF1
-  - TERF2IP
-  - RAP1B
-  - WDHD1
-  - ATAD5
-  - ATM
-  - ITGAM
-  - ITGB2
 ---

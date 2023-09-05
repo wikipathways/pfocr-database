@@ -3,6 +3,9 @@ figid: PMC7926472__microorganisms-09-00458-g001
 figtitle: ' A general map of core metabolism'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7926472
 filename: microorganisms-09-00458-g001.jpg
 figlink: pmc/articles/PMC7926472/figure/microorganisms-09-00458-f001/
@@ -27,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9351304
 figid_alias: PMC7926472__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7926472__F1
 ndex: ''
 seo: CreativeWork

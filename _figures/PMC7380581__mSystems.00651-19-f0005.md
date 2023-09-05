@@ -22,6 +22,12 @@ organisms:
 - transposons
 - Ficus racemosa
 - integrons
+organisms_ner:
+- Geoglobus ahangari
+- Archaeoglobus fulgidus DSM 4304
+- Geoglobus acetivorans
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7380581
 filename: mSystems.00651-19-f0005.jpg
 figlink: pmc/articles/PMC7380581/figure/fig5/
@@ -47,10 +53,6 @@ keywords: .na.character
 automl_pathway: 0.9690393
 figid_alias: PMC7380581__F5
 figtype: Figure
-organisms_ner:
-- Geoglobus ahangari
-- Archaeoglobus fulgidus DSM 4304
-- Geoglobus acetivorans
 redirect_from: /figures/PMC7380581__F5
 ndex: ''
 seo: CreativeWork
@@ -77,6 +79,70 @@ schema-jsonld:
   - mch
   - mer
   - sat
+  - ca
+  - CSN4
+  - mo
+  - fo
+  - ss
+  - fwd
+  - feo
+  - fd
+  - anon-16Fb
+  - red
+  - trc
+  - Mcr
+  - Src42A
+  - Stat92E
+  - Src64B
+  - hh
+  - dsr
+  - mtd
+  - VhaAC39-1
+  - Aldh
+  - Aldh-III
+  - MTA1-like
+  - MtnA
+  - Mer
+  - Aps
+  - Orc1
+  - fru
+  - ATPsynbeta
+  - Atpalpha
+  - Vha14-1
+  - cd
+  - por
+  - did
+  - poly
+  - FGFR1
+  - TNFRSF11A
+  - IK
+  - DYRK3
+  - PMCH
+  - HAS1
+  - NR3C2
+  - PIGP
+  - MT1E
+  - ALDH1A1
+  - ALDH1A2
+  - ALDH1A3
+  - ALDH2
+  - ALDH3A1
+  - ALDH3A2
+  - ALDH3B1
+  - ALDH5A1
+  - ALDH7A1
+  - ALDH9A1
+  - LRP1
+  - PMAIP1
+  - GPER1
+  - MERTK
+  - KLK3
+  - SH2B2
+  - SAT1
+  - ATP8A2
+  - DNAH8
+  - POR
+  - VDAC2
   - Methane
   - Sulfate
   - Ca

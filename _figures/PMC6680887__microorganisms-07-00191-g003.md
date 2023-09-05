@@ -3,6 +3,8 @@ figid: PMC6680887__microorganisms-07-00191-g003
 figtitle: Dinoflagellate orthologues predicted in the base excision repair pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6680887
 filename: microorganisms-07-00191-g003.jpg
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f003/
@@ -22,9 +24,6 @@ keywords: .na.character
 automl_pathway: 0.8992398
 figid_alias: PMC6680887__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6680887__F3
 ndex: ''
 seo: CreativeWork
@@ -43,8 +42,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - OGG1
-  - UNG
   - TDG
+  - UNG
   - MUTYH
   - MYH1
   - MYH10
@@ -62,8 +61,8 @@ schema-jsonld:
   - MYH8
   - MYH9
   - NTHL1
-  - MPG
   - MBD4
+  - MPG
   - APEX1
   - APEX2
   - UTRN
@@ -76,9 +75,5 @@ schema-jsonld:
   - XRCC1
   - LIG1
   - LRIG1
-  - APE1
-  - APE2
-  - POL
-  - ATXRCC1
   - MPG
 ---

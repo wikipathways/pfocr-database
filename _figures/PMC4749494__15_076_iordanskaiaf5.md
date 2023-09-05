@@ -5,6 +5,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Simian rotavirus A strain RRV
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
+- Drosophila melanogaster
 pmcid: PMC4749494
 filename: 15_076_iordanskaiaf5.jpg
 figlink: /pmc/articles/PMC4749494/figure/f5-15_076_iordanskaia/
@@ -26,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9461344
 figid_alias: PMC4749494__F5
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC4749494__F5
 ndex: 897bfb64-defc-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -92,4 +94,25 @@ schema-jsonld:
   - TIMP4
   - MMP7
   - SERPINE1
+  - nots
+  - cypa
+  - il6
+  - tgfbr1a
+  - mapk3
+  - tgfbr2b
+  - smad4a
+  - smad4b
+  - timp4.3
+  - timp4.1
+  - serpine1
+  - lap
+  - Lap-A
+  - rl
+  - dpp
+  - gbb
+  - put
+  - mav
+  - Med
+  - Sara
+  - Timp
 ---

@@ -3,6 +3,9 @@ figid: PMC7498680__mSystems.00277-20-f0008
 figtitle: Metabolic overview of the Acetobacterium genus
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7498680
 filename: mSystems.00277-20-f0008.jpg
 figlink: pmc/articles/PMC7498680/figure/fig5/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9128281
 figid_alias: PMC7498680__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7498680__F5
 ndex: ''
 seo: CreativeWork
@@ -58,8 +59,20 @@ schema-jsonld:
   - Atpalpha
   - pts
   - PheRS-m
-  - Vha14-1
   - SRPK
+  - ADH5
+  - ALDH1L1
+  - STX8
+  - F11
+  - PTCRA
+  - TNK2
+  - TRIM31
+  - WDTC1
+  - ATP8A2
+  - PTS
+  - PSMB8
+  - DCD
+  - ABCB6
   - caffeate
   - 2,3-butanediol
   - Caffeate

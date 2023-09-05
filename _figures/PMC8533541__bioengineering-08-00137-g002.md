@@ -8,6 +8,12 @@ organisms:
 - Bos taurus
 - Paraechinus aethiopicus
 - Homo sapiens
+organisms_ner:
+- Bos taurus
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8533541
 filename: bioengineering-08-00137-g002.jpg
 figlink: /pmc/articles/PMC8533541/figure/bioengineering-08-00137-f002/
@@ -28,11 +34,6 @@ keywords: liposome | exosome | extracellular vesicle | scaffold | drug delivery 
 automl_pathway: 0.9694869
 figid_alias: PMC8533541__F2
 figtype: Figure
-organisms_ner:
-- Bos taurus
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC8533541__F2
 ndex: ''
 seo: CreativeWork
@@ -56,8 +57,8 @@ schema-jsonld:
   - SMAD5
   - GLI1
   - CDKN1A
-  - CDK1
   - CDK2
+  - CDK1
   - AKT1
   - BCL2
   - BAX
@@ -65,8 +66,8 @@ schema-jsonld:
   - Smad4
   - Bmpr1a
   - Smad1
-  - Smad9
   - Smad5
+  - Smad9
   - Smo
   - Gabrg2
   - Axin1
@@ -75,13 +76,17 @@ schema-jsonld:
   - Nsg1
   - Tpt1
   - Tceal1
-  - Cdk1
   - Cdk2
+  - Cdk1
   - Akt1
   - Bcl2
   - Bax
   - Nkx3-1
   - Casp3
+  - Gli1
+  - Ccne1
+  - Kras
+  - Ldha
   - SMAD6
   - SMAD7
   - SMAD9
@@ -115,8 +120,15 @@ schema-jsonld:
   - H3P16
   - AKT2
   - AKT3
-  - Gli1
-  - Ccne1
-  - Kras
-  - Ldha
+  - smad4a
+  - smad4b
+  - bmpr1aa
+  - smad1
+  - smad5
+  - gli
+  - cdkn1a
+  - cdk2
+  - cdk1
+  - chmp2a
+  - baxa
 ---

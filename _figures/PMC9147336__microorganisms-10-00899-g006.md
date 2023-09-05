@@ -4,6 +4,9 @@ figtitle: 'Rhizosphere Signaling: Insights into Plant–Rhizomicrobiome Interact
   for Sustainable Agronomy'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9147336
 filename: microorganisms-10-00899-g006.jpg
 figlink: /pmc/articles/PMC9147336/figure/microorganisms-10-00899-f006/
@@ -29,8 +32,6 @@ keywords: rhizosphere | microbial metabolites | plant–microbe signaling | quor
 automl_pathway: 0.8906264
 figid_alias: PMC9147336__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9147336__F6
 ndex: ''
 seo: CreativeWork
@@ -59,4 +60,12 @@ schema-jsonld:
   - Etr1
   - br
   - pr
+  - SARDH
+  - SRL
+  - NR1I2
+  - PRS
+  - CELF3
+  - MECR
+  - NPR1
+  - SIDT1
 ---

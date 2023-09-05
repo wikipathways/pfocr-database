@@ -3,6 +3,9 @@ figid: PMC8163614__ajpregu.00287.2020_f001
 figtitle: B2-Adrenergic receptor agonism as a therapeutic strategy for kidney disease
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8163614
 filename: ajpregu.00287.2020_f001.jpg
 figlink: /pmc/articles/PMC8163614/figure/F0001/
@@ -31,9 +34,6 @@ keywords: adrenergic | β2AR | electrolyte | fluid | kidney
 automl_pathway: 0.5115576
 figid_alias: PMC8163614__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8163614__F1
 ndex: ''
 seo: CreativeWork
@@ -65,12 +65,12 @@ schema-jsonld:
   - nan
   - Oct-TyrR
   - Gycalpha99B
-  - Pkg21D
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
   - Drp1
+  - Pkg21D
   - srl
   - pgc
   - Adar
@@ -78,21 +78,21 @@ schema-jsonld:
   - for
   - gfr
   - nac
-  - Akt
   - Pi3K21B
   - Pi3K59F
   - Pi3K68D
   - Pi3K92E
+  - Akt
   - Marf
   - pan
   - Panx
-  - CrebB
-  - CrebA
   - Pka-C1
   - Pka-R2
   - Pka-C3
   - Pka-R1
   - Pka-C2
+  - CrebB
+  - CrebA
   - fzo
   - MICE
   - AR
@@ -113,9 +113,6 @@ schema-jsonld:
   - HAVCR1
   - RAPGEF5
   - ADRB2
-  - AKT1
-  - AKT2
-  - AKT3
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -126,8 +123,18 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
   - MFN2
   - ADA2
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
   - CREB1
   - CREB3
   - CREB5
@@ -138,12 +145,5 @@ schema-jsonld:
   - CREM
   - ATF1
   - ATF2
-  - PRKAR1A
-  - PRKAR1B
-  - PRKAR2A
-  - PRKAR2B
-  - PRKACA
-  - PRKACB
-  - PRKACG
   - MFN1
 ---

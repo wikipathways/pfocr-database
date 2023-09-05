@@ -13,10 +13,14 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Escherichia coli
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6961979
 filename: elife-51605-fig4-figsupp2.jpg
 figlink: pmc/articles/PMC6961979/figure/fig4s2/
-number: SF4_2
+number: F4
 caption: Glycosylase UDG removes U and generates an AP site on U/G mismatch (only
   top strand is shown). For the APE1 pathway, APE1 hydrolyzes the deoxyribose-phosphate
   backbone and generates a 5’-deoxyribophosphate (5’dRP) and a 3’-hydroxyl (3’OH).
@@ -34,12 +38,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7188438
-figid_alias: PMC6961979__SF4_2
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-redirect_from: /figures/PMC6961979__SF4_2
+figid_alias: PMC6961979__F4
+figtype: Figure
+redirect_from: /figures/PMC6961979__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -76,6 +77,18 @@ schema-jsonld:
   - DENR
   - NEIL2
   - PNKP
+  - hts
+  - Arfrp1
+  - Arp6
+  - Su(z)2
+  - Arp1
+  - drp
+  - Drp1
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - as
   - 3hydronyl
   - deoxyribosephosphate
   - polyunsaturated

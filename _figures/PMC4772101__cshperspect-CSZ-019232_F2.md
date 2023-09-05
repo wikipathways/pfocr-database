@@ -3,6 +3,9 @@ figid: PMC4772101__cshperspect-CSZ-019232_F2
 figtitle: Mechanical signaling and tissue growth
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4772101
 filename: cshperspect-CSZ-019232_F2.jpg
 figlink: /pmc/articles/PMC4772101/figure/A019232F2/
@@ -38,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.893937
 figid_alias: PMC4772101__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4772101__F2
 ndex: e27d086c-dea0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -82,8 +82,8 @@ schema-jsonld:
   - shg
   - scb
   - arm
-  - rhea
   - Actn
+  - rhea
   - Fak
   - bsk
   - lic

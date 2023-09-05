@@ -4,6 +4,8 @@ figtitle: Pharamcologic activators and enhancers of the Wnt/Beta-catenin signali
   pathway and known interactions with pathway components (see  for references)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3536347
 filename: cshperspect-WNT-008086_F2.jpg
 figlink: /pmc/articles/PMC3536347/figure/A008086F2/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9425554
 figid_alias: PMC3536347__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3536347__F2
 ndex: 24e0fe73-dec5-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,8 @@ figid: PMC5811808__wellcomeopenres-3-16084-g0000
 figtitle: Tracing of metabolic pathways
 organisms:
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5811808
 filename: wellcomeopenres-3-16084-g0000.jpg
 figlink: /pmc/articles/PMC5811808/figure/f1/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.7385337
 figid_alias: PMC5811808__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5811808__F1
 ndex: ''
 seo: CreativeWork
@@ -53,6 +53,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - La
+  - ca
+  - du
   - Glucose
   - phosphate
   - Lactate

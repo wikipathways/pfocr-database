@@ -4,6 +4,8 @@ figtitle: Sterol-Derived Hormone(s) Controls Entry into Diapause in Caenorhabdit
   elegans by Consecutive Activation of DAF-12 and DAF-16
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
 pmcid: PMC517820
 filename: pbio.0020280.g008.jpg
 figlink: /pmc/articles/PMC517820/figure/pbio-0020280-g008/
@@ -28,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8884555
 figid_alias: PMC517820__F8
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
-- Homo sapiens
 redirect_from: /figures/PMC517820__F8
 ndex: 018fc6c1-df0d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,25 +54,11 @@ schema-jsonld:
   - daf-22
   - daf-6
   - daf-7
-  - daf-3
   - daf-5
+  - daf-3
   - daf-2
   - daf-16
   - daf-12
-  - TGFB1
-  - TGFB2
-  - TGFB3
-  - SKI
-  - SMAD1
-  - SMAD4
-  - SMAD5
-  - SMAD6
-  - SMAD7
-  - SMAD9
-  - SMAD2
-  - SMAD3
-  - IGF1
-  - FOXO1
   - Cholesterol
   - Pheromone
   - sterols

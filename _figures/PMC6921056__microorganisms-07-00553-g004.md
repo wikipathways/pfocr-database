@@ -3,6 +3,8 @@ figid: PMC6921056__microorganisms-07-00553-g004
 figtitle: Proposed model scheme
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6921056
 filename: microorganisms-07-00553-g004.jpg
 figlink: pmc/articles/PMC6921056/figure/microorganisms-07-00553-f004/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.5353817
 figid_alias: PMC6921056__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC6921056__F4
 ndex: ''
 seo: CreativeWork
@@ -55,7 +55,6 @@ schema-jsonld:
   - Tcp
   - gdl
   - Arp1
-  - pd
   - GLY
   - TCP
   - ECH

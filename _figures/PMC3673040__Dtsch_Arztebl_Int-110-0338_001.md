@@ -4,6 +4,9 @@ figtitle: Leptin is generated in adipose tissue and transported via the bloodstr
   to the hypothalamus
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3673040
 filename: Dtsch_Arztebl_Int-110-0338_001.jpg
 figlink: /pmc/articles/PMC3673040/figure/F1/
@@ -35,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.6679184
 figid_alias: PMC3673040__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3673040__F1
 ndex: ''
 seo: CreativeWork
@@ -76,5 +77,11 @@ schema-jsonld:
   - STAMBP
   - PCSK1
   - CARTPT
+  - agrp
+  - npy
+  - mc4r
+  - bdnf
+  - pomca
+  - pcsk1
   - Obesity
 ---

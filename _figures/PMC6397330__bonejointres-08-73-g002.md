@@ -7,6 +7,12 @@ organisms:
 - Homo sapiens
 - Bos taurus
 - clinical samples
+organisms_ner:
+- Rattus norvegicus
+- Bos taurus
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6397330
 filename: bonejointres-08-73-g002.jpg
 figlink: /pmc/articles/PMC6397330/figure/fig2-2046-3758.82.BJR-2018-0074.R1/
@@ -25,11 +31,6 @@ keywords: .na.character
 automl_pathway: 0.6665222
 figid_alias: PMC6397330__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Bos taurus
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC6397330__F2
 ndex: ''
 seo: CreativeWork
@@ -48,33 +49,25 @@ schema-jsonld:
   keywords:
   - H19
   - Mir141
+  - Mir136
   - Mir34a
-  - Ptk2
   - Notch1
   - Nomo1
-  - Mir136
+  - Ptk2
   - H1-9
   - MIR141
   - SPP1
+  - MIR136
   - MIR34A
   - LOC515570
-  - MIR136
   - Nckap1
   - H19h
-  - Ear4
+  - Apc
   - Spp1
   - Gopc
-  - Apc
   - It
+  - Ear4
   - H1-9P
-  - PTK2
-  - NOTCH1
-  - NOTCH2
-  - NOTCH3
-  - NOTCH4
-  - NOMO1
-  - DEPP1
-  - GOPC
   - CD59
   - PAK1
   - PAK2
@@ -82,4 +75,25 @@ schema-jsonld:
   - PAK4
   - PAK5
   - PAK6
+  - NOTCH1
+  - NOTCH2
+  - NOTCH3
+  - NOTCH4
+  - NOMO1
+  - DEPP1
+  - GOPC
+  - PTK2
+  - min
+  - mnb
+  - .na.character
+  - Pak
+  - mbt
+  - fig
+  - I-t
+  - mir-2a-2
+  - mir-2a-1
+  - mir-2b-2
+  - mir-2b-1
+  - mir-2c
+  - Fak
 ---

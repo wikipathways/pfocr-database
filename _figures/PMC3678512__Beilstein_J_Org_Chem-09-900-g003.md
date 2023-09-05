@@ -3,10 +3,12 @@ figid: PMC3678512__Beilstein_J_Org_Chem-09-900-g003
 figtitle: Synthesis of ML236 (8)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3678512
 filename: Beilstein_J_Org_Chem-09-900-g003.jpg
 figlink: /pmc/articles/PMC3678512/figure/C2/
-number: S2
+number: SF2
 caption: Synthesis of ML236 (8).
 papertitle: Synthesis and physicochemical characterization of novel phenotypic probes
   targeting the nuclear factor-kappa B signaling pathway.
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7899852
-figid_alias: PMC3678512__S2
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC3678512__S2
+figid_alias: PMC3678512__SF2
+figtype: Supplemental figure
+redirect_from: /figures/PMC3678512__SF2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

@@ -7,6 +7,12 @@ organisms:
 - Homo sapiens
 - Drosophila melanogaster
 - Sorbus aucuparia
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
+- Rattus norvegicus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7672342
 filename: turkjmedsci-50-1665-fig003.jpg
 figlink: /pmc/articles/PMC7672342/figure/F3/
@@ -23,11 +29,6 @@ keywords: Tuberous sclerosis | mTOR | autism | epilepsy | rapamycin
 automl_pathway: 0.8718455
 figid_alias: PMC7672342__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
-- Drosophila melanogaster
 redirect_from: /figures/PMC7672342__F3
 ndex: ''
 seo: CreativeWork
@@ -42,6 +43,28 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Tsc1
+  - Tsc2
+  - Tbc1d7
+  - Slc12a3
+  - Tsc22d1
+  - Rheb
+  - Mlst8
+  - Rptor
+  - Mtor
+  - Deptor
+  - Akt1s1
+  - Foxd3
+  - gig
+  - TBC1d7
+  - Tsc
+  - ATPsynbeta
+  - Atpalpha
+  - raptor
+  - Crtc
+  - Tor
+  - PRAS40
+  - Pck1
   - TSC1
   - CCL26
   - TSC2
@@ -59,26 +82,12 @@ schema-jsonld:
   - AKT1S1
   - HMGA2
   - FOXD3
-  - Tsc1
-  - Tsc2
-  - Tbc1d7
-  - Slc12a3
-  - Pck1
-  - Rheb
-  - Mlst8
-  - Mtor
-  - Deptor
-  - Akt1s1
-  - Foxd3
-  - Tsc22d1
-  - Rptor
-  - gig
-  - TBC1d7
-  - Tsc
-  - ATPsynbeta
-  - Atpalpha
-  - raptor
-  - Crtc
-  - Tor
-  - PRAS40
+  - tsc1b
+  - tsc2
+  - tbc1d7
+  - rheb
+  - rhebl1
+  - mlst8
+  - mtor
+  - deptor
 ---

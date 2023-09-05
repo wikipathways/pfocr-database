@@ -4,6 +4,9 @@ figtitle: Biosynthetic pathway for hyaluronic acid (HA) production in Ogataea (H
   polymorpha
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7913781
 filename: microorganisms-09-00312-g001.jpg
 figlink: pmc/articles/PMC7913781/figure/microorganisms-09-00312-f001/
@@ -47,8 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9708771
 figid_alias: PMC7913781__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7913781__F1
 ndex: ''
 seo: CreativeWork
@@ -112,10 +113,32 @@ schema-jsonld:
   - Dp
   - Ald1
   - Aldh-III
-  - ca
   - ha
   - CycE
   - cyc
+  - ATP8A2
+  - XK
+  - WDTC1
+  - BGN
+  - GPI
+  - PGPEP1
+  - ACOX1
+  - PFKL
+  - PFKM
+  - PFKP
+  - CAT
+  - CRAT
+  - GLYAT
+  - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - RASA1
+  - RGS6
+  - TKFC
+  - FBXO3
   - Glucose
   - ATP
   - ADP

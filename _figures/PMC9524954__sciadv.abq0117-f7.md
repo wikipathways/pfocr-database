@@ -7,6 +7,10 @@ organisms:
 - Saccharomyces cerevisiae
 - Drosophila melanogaster
 - Papaya ringspot virus
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Mus musculus
 pmcid: PMC9524954
 filename: sciadv.abq0117-f7.jpg
 figlink: /pmc/articles/PMC9524954/figure/F7/
@@ -24,10 +28,6 @@ keywords: ''
 automl_pathway: 0.9503281
 figid_alias: PMC9524954__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC9524954__F7
 ndex: ''
 seo: CreativeWork
@@ -52,9 +52,6 @@ schema-jsonld:
   - cyc
   - sea
   - Mpc1
-  - Gnat2
-  - Gpt2
-  - Slc25a1
   - GOT2
   - GLUD1
   - UGDH
@@ -62,4 +59,7 @@ schema-jsonld:
   - CRYL1
   - GPT2
   - SLC25A1
+  - Gnat2
+  - Gpt2
+  - Slc25a1
 ---

@@ -23,10 +23,12 @@ organisms:
 - H1N1 subtype
 - Homo sapiens
 - Lycogala epidendrum
+organisms_ner:
+- NA
 pmcid: PMC3817534
 filename: Beilstein_J_Org_Chem-09-2048-g022.jpg
 figlink: /pmc/articles/PMC3817534/figure/C11/
-number: S11
+number: SF11
 caption: Proposed biosynthetic pathway to chilenine (93).
 papertitle: The chemistry of isoindole natural products.
 reftext: Klaus Speck, et al. Beilstein J Org Chem. 2013;9:2048-2078.
@@ -37,11 +39,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9073311
-figid_alias: PMC3817534__S11
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC3817534__S11
+figid_alias: PMC3817534__SF11
+figtype: Supplemental figure
+redirect_from: /figures/PMC3817534__SF11
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

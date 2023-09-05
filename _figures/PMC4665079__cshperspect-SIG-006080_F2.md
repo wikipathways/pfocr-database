@@ -3,6 +3,8 @@ figid: PMC4665079__cshperspect-SIG-006080_F2
 figtitle: Mitochondrial apoptotic pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4665079
 filename: cshperspect-SIG-006080_F2.jpg
 figlink: /pmc/articles/PMC4665079/figure/A006080F2/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.7315416
 figid_alias: PMC4665079__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4665079__F2
 ndex: cdef0bc6-df29-11ea-99da-0ac135e8bacf
 seo: CreativeWork

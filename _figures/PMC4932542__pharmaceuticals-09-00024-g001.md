@@ -8,6 +8,10 @@ organisms:
 - Human immunodeficiency virus
 - Mouse mammary tumor virus
 - Homo sapiens
+organisms_ner:
+- Rattus norvegicus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4932542
 filename: pharmaceuticals-09-00024-g001.jpg
 figlink: /pmc/articles/PMC4932542/figure/pharmaceuticals-09-00024-f001/
@@ -42,10 +46,6 @@ keywords: .na.character
 automl_pathway: 0.9191607
 figid_alias: PMC4932542__F1
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC4932542__F1
 ndex: ''
 seo: CreativeWork
@@ -86,6 +86,10 @@ schema-jsonld:
   - IGF1
   - IDH1
   - IDH2
+  - mt
+  - igf1
+  - idh1
+  - idh2
   - glucose
   - glutamine
   - metformin

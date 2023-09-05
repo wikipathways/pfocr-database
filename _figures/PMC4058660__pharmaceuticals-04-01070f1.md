@@ -3,6 +3,9 @@ figid: PMC4058660__pharmaceuticals-04-01070f1
 figtitle: PI3K signaling in normal neural function and LTP induction
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4058660
 filename: pharmaceuticals-04-01070f1.jpg
 figlink: /pmc/articles/PMC4058660/figure/f1-pharmaceuticals-04-01070/
@@ -20,9 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8462295
 figid_alias: PMC4058660__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4058660__F1
 ndex: 32b27652-df22-11ea-99da-0ac135e8bacf
 seo: CreativeWork

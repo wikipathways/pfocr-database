@@ -3,6 +3,8 @@ figid: PMC4712979__cin-suppl.5-2015-021f2
 figtitle: Schematics of the multiscale model used by Li et al
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4712979
 filename: cin-suppl.5-2015-021f2.jpg
 figlink: /pmc/articles/PMC4712979/figure/f2-cin-suppl.5-2015-021/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.783732
 figid_alias: PMC4712979__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4712979__F2
 ndex: ''
 seo: CreativeWork

@@ -12,6 +12,10 @@ organisms:
 - uncultured actinomycete
 - NA
 - Homo sapiens
+organisms_ner:
+- Streptomyces albus
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6902898
 filename: Beilstein_J_Org_Chem-15-2889-g012.jpg
 figlink: /pmc/articles/PMC6902898/figure/F11/
@@ -40,9 +44,6 @@ keywords: .na.character
 automl_pathway: 0.8058385
 figid_alias: PMC6902898__F11
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-- Streptomyces albus
 redirect_from: /figures/PMC6902898__F11
 ndex: ''
 seo: CreativeWork
@@ -68,15 +69,27 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - atoB
-  - ispH
   - idi
   - dxs
-  - ispE
   - ispD
   - ispF
   - dxr
   - ispG
+  - HMGA1
+  - PMVK
+  - MVD
+  - NBEAL2
+  - FDPS
+  - FES
+  - CRPPA
+  - CTSL
+  - NLN
+  - MSX2
+  - PADI4
+  - DHX40
+  - atoB
+  - ispH
+  - ispE
   - dppA
   - ispB
   - Ac

@@ -4,10 +4,13 @@ figtitle: Nanosized Codelivery System Based on Intracellular Stimuli-Triggered D
   Release for Multilevel Chemotherapy Amplification in Drug-Resistant Breast Cancer
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8878749
 filename: pharmaceutics-14-00422-sch002.jpg
 figlink: /pmc/articles/PMC8878749/figure/pharmaceutics-14-00422-sch002/
-number: SF2
+number: S2
 caption: Schematic diagram of self-assembled PTX/PTS/HQ PNPs to conquer MDR tumors.
   (A) The formation process of PTX/PTS/HQ PNPs. (B) The in vivo transport pathway
   and anticancer mechanism of PTX/PTS/HQ PNPs in an MDR tumor-bearing mouse model.
@@ -23,12 +26,9 @@ publisher_name: MDPI
 keywords: MDR cancer therapy | codelivery system | hybrid polymeric nanoparticles
   | stimuli-responsiveness | chemotherapy amplification
 automl_pathway: 0.9556877
-figid_alias: PMC8878749__SF2
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-redirect_from: /figures/PMC8878749__SF2
+figid_alias: PMC8878749__S2
+figtype: Scheme
+redirect_from: /figures/PMC8878749__S2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

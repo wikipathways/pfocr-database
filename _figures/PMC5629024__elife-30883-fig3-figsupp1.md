@@ -10,10 +10,15 @@ organisms:
 - Mus musculus
 - Bos taurus
 - Diaporthe sclerotioides
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Bos taurus
+- Danio rerio
 pmcid: PMC5629024
 filename: elife-30883-fig3-figsupp1.jpg
 figlink: /pmc/articles/PMC5629024/figure/fig3s1/
-number: SF3_1
+number: F3
 caption: Interactions among the genes were assessed and visualized by Ingenuity Pathway
   Analysis (IPA) database. Darker colors represent higher expression in (A) Myd88−/−
   (blue) or in (B) WT (red) CD4+ T cells sorted from the pool of splenocytes obtained
@@ -30,13 +35,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7081965
-figid_alias: PMC5629024__SF3_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Bos taurus
-redirect_from: /figures/PMC5629024__SF3_1
+figid_alias: PMC5629024__F3
+figtype: Figure
+redirect_from: /figures/PMC5629024__F3
 ndex: 20c61d17-df30-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -134,6 +135,30 @@ schema-jsonld:
   - TOP3A
   - TOP3B
   - TOP2B
+  - bach2b
+  - tspan4b
+  - plag1
+  - usp44
+  - txnrd3
+  - micall2b
+  - mical2b
+  - mical2a
+  - ccr10
+  - prdm1a
+  - dact2
+  - tshr
+  - krt18a.1
+  - ctnnb1
+  - nrip1a
+  - appa
+  - map2k2a
+  - angptl7
+  - ccr2
+  - top2a
+  - phlda1
+  - ntn4
+  - alcama
+  - ahnak
   - beta-estradiol
   - tretinoin
 ---

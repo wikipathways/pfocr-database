@@ -3,6 +3,8 @@ figid: PMC4659440__tog-suppl.1-2015-013f5
 figtitle: c-Met as a Target for Personalized Therapy
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4659440
 filename: tog-suppl.1-2015-013f5.jpg
 figlink: /pmc/articles/PMC4659440/figure/f5-tog-suppl.1-2015-013/
@@ -25,9 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9670447
 figid_alias: PMC4659440__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC4659440__F5
 ndex: 4dec8b3e-dec6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -82,21 +81,6 @@ schema-jsonld:
   - MAP2K1
   - MAP2K2
   - MTOR
-  - Egfr
-  - Pvr
-  - ras
-  - Ras64B
-  - Ras85D
-  - Pi3K21B
-  - Pi3K59F
-  - Pi3K68D
-  - Pi3K92E
-  - Raf
-  - Akt
-  - Dsor1
-  - Mtk
-  - Mtor
-  - Tor
   - pazopanib
   - Cancer
   - Cardiomyopathy

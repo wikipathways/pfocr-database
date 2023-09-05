@@ -4,6 +4,8 @@ figtitle: Pharmacologic inhibitors of the Wnt/Beta-catenin signaling pathway and
   interactions with pathway components (see  for references)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3536347
 filename: cshperspect-WNT-008086_F1.jpg
 figlink: /pmc/articles/PMC3536347/figure/A008086F1/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9469305
 figid_alias: PMC3536347__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3536347__F1
 ndex: b64c2a50-deab-11ea-99da-0ac135e8bacf
 seo: CreativeWork

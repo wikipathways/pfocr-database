@@ -4,6 +4,9 @@ figtitle: Changes of the Proteome and Acetylome during Transition into the Stati
   Phase in the Organohalide-Respiring Dehalococcoides mccartyi Strain CBDB1
 organisms:
 - Dehalococcoides mccartyi
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7918482
 filename: microorganisms-09-00365-g002.jpg
 figlink: pmc/articles/PMC7918482/figure/microorganisms-09-00365-f002/
@@ -32,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.958585
 figid_alias: PMC7918482__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7918482__F2
 ndex: ''
 seo: CreativeWork
@@ -59,6 +60,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ctp
+  - Eh
+  - ATPsynbeta
+  - Atpalpha
+  - Ald1
+  - AcCoAS
+  - Acsl
+  - SLC25A1
+  - MTG1
+  - ATP8A2
+  - PLA2G15
+  - ACSS2
+  - ACCS
   - Myo-inositol
   - Glucose
   - 1-phosphate

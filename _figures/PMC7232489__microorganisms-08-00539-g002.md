@@ -4,6 +4,9 @@ figtitle: Bifurcated pathway to synthesize hexanoic acid in M
 organisms:
 - Megasphaera elsdenii
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7232489
 filename: microorganisms-08-00539-g002.jpg
 figlink: pmc/articles/PMC7232489/figure/microorganisms-08-00539-f002/
@@ -25,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9082478
 figid_alias: PMC7232489__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7232489__F2
 ndex: ''
 seo: CreativeWork
@@ -45,8 +46,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ATP8A2
   - WDTC1
+  - ATP8A2
   - MDH2
   - BRCA2
   - FANCD2
@@ -69,6 +70,37 @@ schema-jsonld:
   - CAT
   - CRAT
   - GLYAT
+  - adp
+  - ATPsynbeta
+  - Atpalpha
+  - pck
+  - Coa
+  - fd
+  - anon-16Fb
+  - Mdh1
+  - Mdh2
+  - Men-b
+  - Men
+  - pi
+  - Desat2
+  - Fadd
+  - Fad2
+  - Desat1
+  - Fancd2
+  - thl
+  - TH1
+  - thi
+  - thiv
+  - Acat2
+  - crt
+  - Calr
+  - mle
+  - Hem
+  - bcd
+  - Cat
+  - Ca-alpha1T
+  - ChAT
+  - sv
   - Glucose
   - ATP
   - ADP

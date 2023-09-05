@@ -3,6 +3,9 @@ figid: PMC3536343__cshperspect-TRA-012252_F2
 figtitle: MTORC2 signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC3536343
 filename: cshperspect-TRA-012252_F2.jpg
 figlink: /pmc/articles/PMC3536343/figure/A012252F2/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8014809
 figid_alias: PMC3536343__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3536343__F2
 ndex: fc929420-df25-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -57,25 +58,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - MAPKAP1
-  - MTOR
-  - RICTOR
-  - MLST8
-  - SGK1
-  - DEPTOR
-  - AKT1
-  - AKT2
-  - AKT3
-  - PRRT2
-  - PRKCA
-  - PRKCB
-  - PRKCD
-  - PRKCE
-  - PRKCG
-  - PRKCH
-  - PRKCI
-  - PRKCQ
-  - PRKCZ
-  - PRKD3
+  - tRNA:Ser-GCT-1-1
+  - tRNA:Ser-GCT-2-1
+  - tRNA:Ser-GCT-2-5
+  - tRNA:Ser-GCT-2-3
+  - tRNA:Ser-GCT-2-4
+  - tRNA:Ser-GCT-2-2
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Akt
+  - Mtor
+  - Tor
+  - rictor
+  - Lst8
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - pak2a
+  - itpka
+  - sgk1
+  - deptor
+  - mtor
+  - rictorb
+  - mlst8
   - Cancer
 ---

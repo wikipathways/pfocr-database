@@ -5,6 +5,9 @@ figtitle: Genome-Scale Metabolic Model Reconstruction and in Silico Investigatio
 organisms:
 - Methylosinus trichosporium OB3b
 - Methylosinus trichosporium
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7144005
 filename: microorganisms-08-00437-g005a.jpg
 figlink: .na.character
@@ -36,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9594504
 figid_alias: PMC7144005__F5a
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7144005__F5a
 ndex: ''
 seo: CreativeWork
@@ -67,6 +68,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - crn
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - emc
+  - CycE
+  - cyc
+  - mal
+  - bs
+  - Mrtf
+  - Fum1
+  - Pep
+  - bgcn
+  - PHB1
+  - DECR1
+  - CORIN
+  - CRNKL1
+  - ATP8A2
+  - WDTC1
+  - MAL
+  - MRTFA
+  - TIRAP
+  - PAEP
+  - PREP
+  - PTPN22
   - PHB
   - H4Folate
   - 25-ethvimalonyi-CoA

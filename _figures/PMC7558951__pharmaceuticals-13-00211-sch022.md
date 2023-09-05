@@ -3,10 +3,12 @@ figid: PMC7558951__pharmaceuticals-13-00211-sch022
 figtitle: Synthetic pathway to obtain the key selenosugar intermediate 131a
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7558951
 filename: pharmaceuticals-13-00211-sch022.jpg
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch022/
-number: S22
+number: SF22
 caption: Synthetic pathway to obtain the key selenosugar intermediate 131a.
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
   and Derivatives.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.6750178
-figid_alias: PMC7558951__S22
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7558951__S22
+figid_alias: PMC7558951__SF22
+figtype: Supplemental figure
+redirect_from: /figures/PMC7558951__SF22
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -36,10 +36,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - se
-  - homer
-  - snRNA:U2:34ABb
-  - snRNA:U2:34ABa
   - Ph3PCHCO2Et
   - CF3CH2OH
   - toluene

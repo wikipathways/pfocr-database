@@ -4,6 +4,8 @@ figtitle: 'Probiotics Regulating Inflammation via NLRP3 Inflammasome Modulation:
   Potential Therapeutic Approach for COVID-19'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8624812
 filename: microorganisms-09-02376-g003.jpg
 figlink: /pmc/articles/PMC8624812/figure/microorganisms-09-02376-f003/
@@ -45,9 +47,6 @@ keywords: probiotics | inflammasomes | NLRP3 activation | mammalians | SARS-CoV-
 automl_pathway: 0.9482863
 figid_alias: PMC8624812__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC8624812__F3
 ndex: ''
 seo: CreativeWork
@@ -86,8 +85,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IL18
   - IL1B
+  - IL18
   - GSDMD
   - IL13
   - NLRP3
@@ -98,11 +97,4 @@ schema-jsonld:
   - TMPRSS2
   - LINC00689
   - NFKB1
-  - il1b
-  - il13
-  - nlrp3
-  - ace2
-  - nek7
-  - pycard
-  - tmprss2
 ---

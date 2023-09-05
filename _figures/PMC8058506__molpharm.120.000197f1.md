@@ -4,6 +4,9 @@ figtitle: Phosphoproteomic Analysis as an Approach for Understanding Molecular M
   of cAMP-Dependent Actions
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8058506
 filename: molpharm.120.000197f1.jpg
 figlink: /pmc/articles/PMC8058506/figure/F1/
@@ -36,8 +39,6 @@ keywords: ''
 automl_pathway: 0.9623364
 figid_alias: PMC8058506__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8058506__F1
 ndex: ''
 seo: CreativeWork
@@ -83,4 +84,36 @@ schema-jsonld:
   - pat
   - ptc
   - Amph
+  - CGA
+  - LHB
+  - SERPINB3
+  - HSD3B1
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - GUCA2A
+  - STAR
+  - GUCY2C
+  - CD163L1
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - CES1
+  - EPHX2
+  - LIPE
+  - CYP17A1
+  - HSD17B1
+  - APRT
+  - MFAP1
 ---

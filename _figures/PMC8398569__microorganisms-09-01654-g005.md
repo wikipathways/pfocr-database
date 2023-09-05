@@ -4,6 +4,9 @@ figtitle: Taxogenomic and Metabolic Insights into Marinobacterium ramblicola sp.
   a New Slightly Halophilic Bacterium Isolated from Rambla Salada, Murcia
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8398569
 filename: microorganisms-09-01654-g005.jpg
 figlink: /pmc/articles/PMC8398569/figure/microorganisms-09-01654-f005/
@@ -27,8 +30,6 @@ keywords: Marinobacterium | hypersaline soil | taxogenomics | metabolism | sligh
 automl_pathway: 0.8750356
 figid_alias: PMC8398569__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8398569__F5
 ndex: ''
 seo: CreativeWork
@@ -61,10 +62,18 @@ schema-jsonld:
   - Nach
   - BC1
   - hd
+  - adp
   - ATPsynbeta
   - Atpalpha
-  - adp
   - E(spl)mgamma-HLH
   - cnn
   - SRPK
+  - ADRA1D
+  - KLK3
+  - SH2B2
+  - WDTC1
+  - ATP8A2
+  - NONO
+  - ARID4B
+  - ABCB6
 ---

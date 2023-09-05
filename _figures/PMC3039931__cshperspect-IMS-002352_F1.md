@@ -4,6 +4,9 @@ figtitle: Cytoplasmic tyrosine kinases in the activating signaling pathways util
   ITAM-containing adapters
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3039931
 filename: cshperspect-IMS-002352_F1.jpg
 figlink: /pmc/articles/PMC3039931/figure/A002352F1/
@@ -60,9 +63,6 @@ keywords: .na.character
 automl_pathway: 0.8667578
 figid_alias: PMC3039931__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3039931__F1
 ndex: 2e38e802-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -120,8 +120,6 @@ schema-jsonld:
   - Fs(3)Far
   - scb
   - pira
-  - op
-  - oo
   - Shark
   - plo
   - Fak
@@ -129,11 +127,11 @@ schema-jsonld:
   - Ras64B
   - Ras85D
   - ra
+  - RhoBTB
   - rho
   - Bx
   - Rho1
   - Lcp65Ab1
-  - RhoBTB
   - vap
   - RasGAP1
   - Dif
@@ -152,8 +150,8 @@ schema-jsonld:
   - Act87E
   - NFAT
   - Btk
-  - FCRLB
   - TYROBP
+  - FCRLB
   - FEA
   - CLEC6A
   - CLEC5A

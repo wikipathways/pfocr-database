@@ -4,6 +4,10 @@ figtitle: Beta-Catenin-Dependent Wnt Signaling
 organisms:
 - Homo sapiens
 - Caenorhabditis elegans
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3405868
 filename: cshperspect-WNT-007948_F4.jpg
 figlink: /pmc/articles/PMC3405868/figure/A007948F4/
@@ -36,9 +40,6 @@ keywords: .na.character
 automl_pathway: 0.8970338
 figid_alias: PMC3405868__F4
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
-- Homo sapiens
 redirect_from: /figures/PMC3405868__F4
 ndex: 4943205b-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -124,4 +125,30 @@ schema-jsonld:
   - BVES
   - PYDC1
   - ERVW-4
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - fz
+  - dsh
+  - wrm1
+  - MKP-4
+  - p38b
+  - rl
+  - Sys1
+  - Pop1
+  - Polr2A
+  - Polr2C
+  - Polr2B
+  - Polr2I
+  - Polr2F
+  - Prim1
+  - PolA1
+  - PolA2
+  - sv
+  - Prim2
+  - svr
+  - Low
+  - ff
+  - 'On'
 ---

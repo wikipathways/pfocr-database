@@ -15,6 +15,11 @@ organisms:
 - Cricetus cricetus
 - Homo sapiens
 - Macaca fascicularis
+organisms_ner:
+- Sus scrofa
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9553117
 filename: pharmrev.120.000236f7.jpg
 figlink: /pmc/articles/PMC9553117/figure/F7/
@@ -47,8 +52,6 @@ keywords: ''
 automl_pathway: 0.9378781
 figid_alias: PMC9553117__F7
 figtype: Figure
-organisms_ner:
-- Sus scrofa
 redirect_from: /figures/PMC9553117__F7
 ndex: ''
 seo: CreativeWork
@@ -82,4 +85,49 @@ schema-jsonld:
   - ANGPT2
   - SLC9A3
   - HCO3
+  - H20
+  - Agt
+  - Hspg2
+  - Slc9a3
+  - Wdtc1
+  - Mdga2
+  - Decr1
+  - Ssbp3
+  - VPS51
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - WDTC1
+  - DECR1
+  - ATP8A2
+  - ATP1A1
+  - ATP1A2
+  - ATP1A3
+  - ATP1A4
+  - ATP1B1
+  - ATP1B2
+  - ATP1B3
+  - ATP1B4
+  - norpA
+  - sl
+  - Plc21C
+  - Nhe3
+  - adp
+  - na
+  - Pkg21D
+  - ATPsynbeta
+  - Atpalpha
 ---

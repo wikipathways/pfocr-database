@@ -12,6 +12,8 @@ organisms:
 - Oryza sativa
 - Matthiola incana
 - Agriosomyces longus
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7883540
 filename: mSystems.01025-20-f0004.jpg
 figlink: pmc/articles/PMC7883540/figure/fig4/
@@ -40,8 +42,6 @@ keywords: .na.character
 automl_pathway: 0.9129023
 figid_alias: PMC7883540__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7883540__F4
 ndex: ''
 seo: CreativeWork
@@ -68,6 +68,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Cys
+  - mmy
+  - Csp
+  - Sulf1
+  - su(f)
+  - ox
+  - EcR
+  - SmE
+  - red
+  - trc
   - Threonine
   - Thr
   - Cys

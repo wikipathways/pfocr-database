@@ -21,6 +21,8 @@ organisms:
 - NA
 - NA
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC6920976
 filename: microorganisms-07-00501-g002.jpg
 figlink: /pmc/articles/PMC6920976/figure/microorganisms-07-00501-f002/
@@ -44,8 +46,6 @@ keywords: .na.character
 automl_pathway: 0.9448499
 figid_alias: PMC6920976__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6920976__F2
 ndex: ''
 seo: CreativeWork

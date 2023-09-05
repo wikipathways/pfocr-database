@@ -5,6 +5,10 @@ figtitle: 'Creating vessel elements in vitro: Towards a comprehensive understand
 organisms:
 - Arabidopsis thaliana
 - Tracheophyta
+organisms_ner:
+- Arabidopsis thaliana
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6566013
 filename: plantbiotechnology-36-1-18.1119b-figure02.jpg
 figlink: /pmc/articles/PMC6566013/figure/figure2/
@@ -22,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8843511
 figid_alias: PMC6566013__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6566013__F2
 ndex: ''
 seo: CreativeWork
@@ -41,19 +43,33 @@ schema-jsonld:
   - MYB46
   - MYB83
   - HB-8
-  - XCP1
   - MP
   - HP6
-  - WOX4
   - BES1
+  - WOX4
   - BHLH32
   - LHW
   - BIN2
-  - CLE41
-  - PXY
   - LOG3
   - LOG4
   - PIN1
+  - PXY
+  - CLE41
+  - XCP1
+  - vnd
+  - scw
+  - Pcd
+  - Mpp6
+  - Mp
+  - dod
+  - DNAH5
+  - PCBD1
+  - DNAI1
+  - DNAAF3
+  - MPHOSPH6
+  - PALS2
+  - PDZD2
+  - RETN
   - ZIP
   - Brassinosteroid
   - HD

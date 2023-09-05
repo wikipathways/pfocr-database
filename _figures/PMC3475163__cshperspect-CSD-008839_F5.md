@@ -4,6 +4,8 @@ figtitle: Possible states of impairment in the autophagy pathway in different ne
   diseases and possible links to neuronal cell death
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3475163
 filename: cshperspect-CSD-008839_F5.jpg
 figlink: /pmc/articles/PMC3475163/figure/A008839F5/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.7211005
 figid_alias: PMC3475163__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3475163__F5
 ndex: ''
 seo: CreativeWork
@@ -56,12 +56,12 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - Mmp1
-  - E(spl)malpha-BFM
-  - Cma
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
+  - Cma
+  - E(spl)malpha-BFM
   - ad
   - hd
   - pd

@@ -5,6 +5,10 @@ figtitle: 'Top overlapped pathways for non-users (top) and users (bottom) of ora
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC4263464
 filename: cin-suppl.4-2014-073f1.jpg
 figlink: /pmc/articles/PMC4263464/figure/f1-cin-suppl.4-2014-073/
@@ -23,9 +27,6 @@ keywords: .na.character
 automl_pathway: 0.8740391
 figid_alias: PMC4263464__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC4263464__F1
 ndex: 197645c6-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -46,10 +47,10 @@ schema-jsonld:
   - NCOA1
   - ARPC4
   - ARPC4-TTLL3
-  - ESR1
   - ESR2
-  - MYLK
+  - ESR1
   - DIAPH1
+  - MYLK
   - CREBBP
   - CDK2
   - PPP1R12B
@@ -93,25 +94,25 @@ schema-jsonld:
   - SRSF9
   - YIPF2
   - RHOA
-  - ARHGEF1
   - NCOA3
+  - ARHGEF1
   - ID1
   - BCL2L1
   - GRIP1
   - LGALS12
   - GRB2
-  - IRS1
   - SOCS1
+  - IRS1
   - SHC1
   - SHC2
   - SHC3
   - SHC4
-  - PPIAP22
   - PPIA
+  - PPIAP22
   - SOCS3
-  - IL6ST
   - IL1A
   - IL1B
+  - IL6ST
   - JUN
   - JUNB
   - JUND
@@ -130,9 +131,9 @@ schema-jsonld:
   - MAP2K7
   - CSNK2A3
   - JAK2
-  - CEBPB
   - CSNK2A1
   - CSNK2A2
+  - CEBPB
   - PTPN6
   - PTGDR
   - MAP2K6
@@ -140,7 +141,6 @@ schema-jsonld:
   - PPIAP21
   - PRKCD
   - PRKCA
-  - PIK3CA
   - NFKB1
   - NFKB2
   - PRKCH
@@ -160,10 +160,10 @@ schema-jsonld:
   - IKBKB
   - Ncoa1
   - Arpc4
-  - Esr1
   - Esr2
-  - Mylk
+  - Esr1
   - Diaph1
+  - Mylk
   - Crebbp
   - Cdk2
   - Ppp1r12b
@@ -200,22 +200,22 @@ schema-jsonld:
   - Srsf9
   - Yipf2
   - Rhoa
-  - Arhgef1
   - Ncoa3
+  - Arhgef1
   - Id1
   - Idh1
   - Bcl2l1
   - Grip1
   - Lgals12
   - Grb2
-  - Irs1
   - Socs1
+  - Irs1
   - Shc1
   - Ppia
   - Gm15621
   - Socs3
-  - Il6st
   - Il1
+  - Il6st
   - Jun
   - Crkl
   - Egfr
@@ -229,15 +229,14 @@ schema-jsonld:
   - Bcl2
   - Map2k7
   - Jak2
-  - Cebpb
   - Csnk2a1
+  - Cebpb
   - Ptpn6
   - Arsb
   - Map2k6
   - Cflar
   - Prkcd
   - Prkca
-  - Pik3ca
   - Nfkb1
   - Prkch
   - Daxx
@@ -249,5 +248,82 @@ schema-jsonld:
   - Raf1
   - Ear1
   - Ikbkb
+  - arpc4
+  - esr1
+  - akap12b
+  - mylka
+  - crebbp
+  - crebbpa
+  - cdk2
+  - arpc1b
+  - rock1
+  - pelp1
+  - cdk5
+  - smurf2
+  - trim25
+  - ftr34
+  - ccnb2
+  - mkrn2
+  - actr2a
+  - actr2b
+  - mapk1
+  - cdk6
+  - cdk4
+  - arhgap6
+  - arhgap36
+  - il6
+  - cfl1
+  - cfl1l
+  - gsna
+  - scinla
+  - erbb3a
+  - erbb3b
+  - cdk1
+  - tp53
+  - erbb2
+  - yipf2
+  - rhoaa
+  - rhoab
+  - ncoa3
+  - arhgef1a
+  - id1
+  - bcl2l1
+  - grip1
+  - grb2b
+  - socs1a
+  - irs1
+  - ppiaa
+  - socs3a
+  - il6st
+  - jun
+  - crkl
+  - egfra
+  - elk1
+  - kita
+  - ngfra
+  - ptprt
+  - myca
+  - mycbp2
+  - syk
+  - bcl2a
+  - map2k7
+  - jak2b
+  - csnk2a1
+  - cebpb
+  - ptpn6
+  - map2k6
+  - cflara
+  - ppiab
+  - prkcda
+  - prkcdb
+  - prkcaa
+  - nfkb1
+  - prkchb
+  - daxx
+  - map2k4a
+  - src
+  - cdk8
+  - raf1a
+  - ikbkb
   - Cancer
 ---

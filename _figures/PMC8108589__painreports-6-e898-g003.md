@@ -7,6 +7,11 @@ organisms:
 - Homo sapiens
 - Schisandra chinensis
 - Chamaeleo chamaeleon
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Danio rerio
 pmcid: PMC8108589
 filename: painreports-6-e898-g003.jpg
 figlink: pmc/articles/PMC8108589/figure/F3/
@@ -42,10 +47,6 @@ keywords: .na.character
 automl_pathway: 0.9713984
 figid_alias: PMC8108589__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
 redirect_from: /figures/PMC8108589__F3
 ndex: ''
 seo: CreativeWork
@@ -138,4 +139,18 @@ schema-jsonld:
   - Traf2
   - Akt1
   - Il6
+  - tnfa
+  - tnfb
+  - il16
+  - ngfb
+  - lrp1ab
+  - il1rl1
+  - ntrk1
+  - mapk8b
+  - mapk14a
+  - mapk3
+  - tradd
+  - traf1
+  - fadd
+  - il6
 ---

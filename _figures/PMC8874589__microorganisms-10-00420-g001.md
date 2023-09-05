@@ -6,6 +6,9 @@ figtitle: Induction of Broad Beta-lactam Resistance in Achromobacter ruhlandii b
 organisms:
 - Achromobacter ruhlandii
 - Homo sapiens
+organisms_ner:
+- Achromobacter ruhlandii
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8874589
 filename: microorganisms-10-00420-g001.jpg
 figlink: /pmc/articles/PMC8874589/figure/microorganisms-10-00420-f001/
@@ -38,8 +41,6 @@ keywords: cell wall recycling | derepression of β-lactamase | chronic infection
 automl_pathway: 0.899124
 figid_alias: PMC8874589__F1
 figtype: Figure
-organisms_ner:
-- Achromobacter ruhlandii
 redirect_from: /figures/PMC8874589__F1
 ndex: ''
 seo: CreativeWork
@@ -73,4 +74,6 @@ schema-jsonld:
   - ampD
   - mpl
   - ampC
+  - ampG
+  - udp
 ---

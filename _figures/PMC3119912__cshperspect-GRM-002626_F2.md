@@ -5,6 +5,10 @@ organisms:
 - Mus musculus
 - Drosophila melanogaster
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
 pmcid: PMC3119912
 filename: cshperspect-GRM-002626_F2.jpg
 figlink: /pmc/articles/PMC3119912/figure/A002626F2/
@@ -29,10 +33,6 @@ keywords: .na.character
 automl_pathway: 0.7946405
 figid_alias: PMC3119912__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3119912__F2
 ndex: 66c621b5-df2b-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,22 +56,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Crebbp
-  - Pag1
-  - Cytip
-  - Ep300
-  - Tbp
-  - Crem
-  - Creb1
-  - Piwil1
-  - act
-  - Fhl5
-  - Acot7
-  - Gtf2a1l
-  - Hsdr1
-  - Afm
-  - CBP
   - nej
+  - CBP
   - eIF4E1
   - osa
   - caz
@@ -83,6 +69,7 @@ schema-jsonld:
   - Taf11
   - nht
   - Taf13
+  - Tbp
   - Taf2
   - Taf4
   - Taf6
@@ -96,11 +83,24 @@ schema-jsonld:
   - CrebB
   - CrebA
   - Crtc
+  - act
   - Act5C
   - .na.character
   - Act42A
   - Actbeta
   - tbi
+  - Crebbp
+  - Pag1
+  - Cytip
+  - Ep300
+  - Crem
+  - Creb1
+  - Piwil1
+  - Fhl5
+  - Acot7
+  - Gtf2a1l
+  - Hsdr1
+  - Afm
   - CREBBP
   - EIF4E
   - OPN1LW

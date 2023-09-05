@@ -3,6 +3,8 @@ figid: PMC2930807__carcinbgq148f04_ht
 figtitle: Gene pathway analysis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2930807
 filename: carcinbgq148f04_ht.jpg
 figlink: /pmc/articles/PMC2930807/figure/fig4/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.863728
 figid_alias: PMC2930807__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2930807__F4
 ndex: 7378b895-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork

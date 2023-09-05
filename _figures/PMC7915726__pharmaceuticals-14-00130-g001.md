@@ -4,6 +4,8 @@ figtitle: The Mer receptor tyrosine kinase (MERTK)-mediated signaling pathway in
   growth factor tyrosine kinase inhibitors (EGFR-TKI) resistance
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7915726
 filename: pharmaceuticals-14-00130-g001.jpg
 figlink: pmc/articles/PMC7915726/figure/pharmaceuticals-14-00130-f001/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9469329
 figid_alias: PMC7915726__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7915726__F1
 ndex: ''
 seo: CreativeWork
@@ -54,11 +54,11 @@ schema-jsonld:
   - HGF
   - IL6
   - SOS1
-  - TULP1
-  - PROS1
   - GAST
   - GALNS
   - PAGR1
+  - PROS1
+  - TULP1
   - EGF
   - ERBB3
   - ERBB2
@@ -82,12 +82,12 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
+  - AKT1
+  - AKT2
+  - AKT3
   - SNAI2
   - STAT5A
   - STAT5B
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - STAT6
   - MTOR
   - EPHB2

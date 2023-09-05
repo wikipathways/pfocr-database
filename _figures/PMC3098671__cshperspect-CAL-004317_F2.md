@@ -3,6 +3,9 @@ figid: PMC3098671__cshperspect-CAL-004317_F2
 figtitle: Endoplasmic-Reticulum Calcium Depletion and Disease
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3098671
 filename: cshperspect-CAL-004317_F2.jpg
 figlink: /pmc/articles/PMC3098671/figure/A004317F2/
@@ -52,9 +55,6 @@ keywords: .na.character
 automl_pathway: 0.8071149
 figid_alias: PMC3098671__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3098671__F2
 ndex: 81ab4652-df29-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -112,13 +112,13 @@ schema-jsonld:
   - bsk
   - eIF2alpha
   - eIF2A
-  - bip
   - Hsc70-3
   - Hsp70Ab
+  - bip
   - Debcl
-  - BC1
   - bc2
   - bc10
+  - BC1
   - Hrb27C
   - betaTub60D
   - Rpt5
@@ -152,8 +152,8 @@ schema-jsonld:
   - CASP7
   - EIF2A
   - EIF2S1
-  - GDF10
   - HSPA5
+  - GDF10
   - ATF4
   - BCL2
   - CHMP2A
@@ -163,9 +163,9 @@ schema-jsonld:
   - ARHGEF7
   - ASCC1
   - H3P40
+  - DDIT3
   - CHP1
   - CHORDC1
-  - DDIT3
   - DECR1
   - SEC61A1
 ---

@@ -3,6 +3,9 @@ figid: PMC6120701__cshperspect-CYT-028449_F3
 figtitle: Interleukin (IL)-2 signaling pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6120701
 filename: cshperspect-CYT-028449_F3.jpg
 figlink: pmc/articles/PMC6120701/figure/A028449F3/
@@ -23,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9640428
 figid_alias: PMC6120701__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6120701__F3
 ndex: ''
 seo: CreativeWork
@@ -76,11 +77,23 @@ schema-jsonld:
   - PIK3R2
   - STAT5A
   - STAT5B
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - RPS6KB1
   - RPS6KB2
   - TF
+  - ras
+  - Ras64B
+  - Ras85D
+  - Sos
+  - Akt
+  - Shc
+  - drk
+  - Raf
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Nplp1
+  - S6k
+  - tf
   - Rapamycin
 ---

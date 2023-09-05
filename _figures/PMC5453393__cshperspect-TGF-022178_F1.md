@@ -4,6 +4,8 @@ figtitle: Generic transforming growth factor B (TGFB) family signaling pathway t
   Smads compared with the Caenorhabditis elegans dauer pathway and the C
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
 pmcid: PMC5453393
 filename: cshperspect-TGF-022178_F1.jpg
 figlink: /pmc/articles/PMC5453393/figure/A022178F1/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.933722
 figid_alias: PMC5453393__F1
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
 redirect_from: /figures/PMC5453393__F1
 ndex: ''
 seo: CreativeWork

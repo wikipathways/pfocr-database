@@ -4,6 +4,9 @@ figtitle: G-Protein Coupled Receptor Signaling and Mammalian Target of Rapamycin
   1 Regulation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9092479
 filename: molpharm.121.000302f2.jpg
 figlink: /pmc/articles/PMC9092479/figure/F2/
@@ -33,8 +36,6 @@ keywords: ''
 automl_pathway: 0.9239394
 figid_alias: PMC9092479__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9092479__F2
 ndex: ''
 seo: CreativeWork
@@ -61,10 +62,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - RagC-D
   - rag
   - RagA-B
   - rags
-  - RagC-D
   - Crtc
   - VhaSFD
   - Vha55
@@ -82,4 +83,24 @@ schema-jsonld:
   - Gapdh1
   - RasGAP1
   - ArfGAP1
+  - RRAGD
+  - RRAGC
+  - RRAGB
+  - RRAGA
+  - MTG1
+  - MTOR
+  - RPTOR
+  - DNAH8
+  - SLC12A3
+  - TSC1
+  - TESC
+  - TSC2
+  - RHEB
+  - RHEBP1
+  - ARF1
+  - ARF1P1
+  - ARHGEF2
+  - SLC2A4RG
+  - RASA1
+  - RGS6
 ---

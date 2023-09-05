@@ -5,6 +5,9 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Streptomyces hygroscopicus
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3281571
 filename: cshperspect-SIG-011593_F2.jpg
 figlink: /pmc/articles/PMC3281571/figure/A011593F2/
@@ -21,9 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9080107
 figid_alias: PMC3281571__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC3281571__F2
 ndex: 396ab042-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -71,12 +71,12 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
-  - XYLT2
-  - SOS1
-  - SOS2
   - KRAS
   - HRAS
   - NRAS
+  - XYLT2
+  - SOS1
+  - SOS2
   - SLC1A5
   - PTEN
   - RAC1
@@ -89,14 +89,14 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
-  - RPS6KA1
   - MAPK3
   - MAP2K7
   - MAP2K1
   - MAP2K2
+  - RPS6KA1
   - SLC3A2
-  - WDTC1
   - ATP8A2
+  - WDTC1
   - PDK1
   - PDPK1
   - AKT1
@@ -106,8 +106,8 @@ schema-jsonld:
   - GSK3A
   - GSK3B
   - YWHAQ
-  - RICTOR
   - DEPTOR
+  - RICTOR
   - PRR5
   - DNAH8
   - STK11
@@ -141,8 +141,8 @@ schema-jsonld:
   - RRAGB
   - PML
   - BNIP3
-  - RRAGC
   - RRAGD
+  - RRAGC
   - FKBP1A
   - FKBP1AP1
   - FKBP1AP2
@@ -186,14 +186,111 @@ schema-jsonld:
   - PPARGC1A
   - YY1
   - GRB2
-  - MEC3
-  - VPS34
-  - RIM11
-  - LCB1
-  - LCB2
-  - SRV2
-  - POL12
-  - POL3
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - Mtor
+  - Tor
+  - Tie
+  - Ras85D
+  - InR
+  - egr
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ras
+  - Ras64B
+  - Sos
+  - Pten
+  - Rac1
+  - Rac2
+  - Rho1
+  - dsh
+  - Raf
+  - rl
+  - Dsor1
+  - Mtk
+  - ATPsynbeta
+  - Atpalpha
+  - adp
+  - Pdk1
+  - Akt
+  - sgg
+  - 14-3-3zeta
+  - 14-3-3epsilon
+  - rictor
+  - Vha14-1
+  - Lkb1
+  - IKKbeta
+  - Pld
+  - p53
+  - betaTub60D
+  - hth
+  - SNF4Agamma
+  - AMPKalpha
+  - gig
+  - Pa
+  - Tsc1
+  - RagA-B
+  - RagC-D
+  - Fkbp12
+  - Rheb
+  - levy
+  - COX6AL2
+  - raptor
+  - PRAS40
+  - Crtc
+  - pico
+  - Atg1
+  - Atg13
+  - Atg17
+  - SREBP
+  - Thor
+  - S6k
+  - eIF4E1
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E6
+  - eIF4EHP
+  - eIF4B
+  - CAP
+  - SMC3
+  - Cpn
+  - Capa
+  - capt
+  - bel
+  - SERCA
+  - Cadps
+  - CG9932
+  - eIF4A
+  - CG7483
+  - eEF2
+  - CG4849
+  - wrd
+  - wdb
+  - mts
+  - tws
+  - Pp2A-29B
+  - Tif-IA
+  - Polr2A
+  - Prim1
+  - PolA1
+  - PolA2
+  - sv
+  - Prim2
+  - svr
+  - Dif
+  - dl
+  - Rel
+  - Maf1
+  - tj
+  - srl
+  - pho
+  - drk
   - Glucose
   - Glutamine
   - Leucine

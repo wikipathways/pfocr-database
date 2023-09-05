@@ -3,6 +3,10 @@ figid: PMC2857169__cshperspect-NFK-000182_F5
 figtitle: NFKB in conventional T-cell activation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Homo sapiens
 pmcid: PMC2857169
 filename: cshperspect-NFK-000182_F5.jpg
 figlink: /pmc/articles/PMC2857169/figure/A000182F5/
@@ -28,10 +32,6 @@ keywords: .na.character
 automl_pathway: 0.6111578
 figid_alias: PMC2857169__F5
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2857169__F5
 ndex: 680414bd-df35-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,15 +55,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - il21
-  - il6
-  - apc
-  - il13
-  - il4
-  - th2
-  - ighv1-1
-  - cd4-1
-  - acvr1l
   - dpp
   - gbb
   - put
@@ -80,6 +71,15 @@ schema-jsonld:
   - Dif
   - dl
   - Rel
+  - il21
+  - il6
+  - apc
+  - il13
+  - il4
+  - th2
+  - ighv1-1
+  - cd4-1
+  - acvr1l
   - IL17A
   - IL22
   - IL21

@@ -4,6 +4,8 @@ figtitle: Generalized MEV and MEP pathways leading to downstream isoprenoid prod
 organisms:
 - Rickettsia parkeri
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC6854040
 filename: mSphere.00536-19-f0001.jpg
 figlink: /pmc/articles/PMC6854040/figure/fig1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9443204
 figid_alias: PMC6854040__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6854040__F1
 ndex: ''
 seo: CreativeWork

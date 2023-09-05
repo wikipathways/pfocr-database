@@ -3,6 +3,8 @@ figid: PMC6439804__jamafacialplastsurg-21-110-g001
 figtitle: Hedgehog-Induced Osteogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6439804
 filename: jamafacialplastsurg-21-110-g001.jpg
 figlink: /pmc/articles/PMC6439804/figure/qoi180034f1/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.936384
 figid_alias: PMC6439804__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6439804__F1
 ndex: ''
 seo: CreativeWork

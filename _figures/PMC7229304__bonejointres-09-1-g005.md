@@ -3,6 +3,9 @@ figid: PMC7229304__bonejointres-09-1-g005
 figtitle: Applications of mechanotransduction
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7229304
 filename: bonejointres-09-1-g005.jpg
 figlink: pmc/articles/PMC7229304/figure/fig5-2046-3758.91.BJR-2019-0043.R2/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9788865
 figid_alias: PMC7229304__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7229304__F5
 ndex: ''
 seo: CreativeWork
@@ -75,6 +76,30 @@ schema-jsonld:
   - Akt
   - Ilp6
   - COX2
+  - PTK2
+  - RHOA
+  - DHH
+  - IHH
+  - SHH
+  - CAMK4
+  - CAMK2G
+  - CAMK1
+  - CAMK1D
+  - CAMK1G
+  - CAMK2A
+  - CAMK2B
+  - CAMK2D
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - RUNX2
+  - AKT1
+  - AKT2
+  - AKT3
+  - MID1
+  - SP7
+  - FGF8
+  - PTGS2
   - Ca 2+
   - Paxillin
   - O

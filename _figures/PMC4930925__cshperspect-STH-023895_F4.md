@@ -3,6 +3,8 @@ figid: PMC4930925__cshperspect-STH-023895_F4
 figtitle: Gene circuits for biomedical applications
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4930925
 filename: cshperspect-STH-023895_F4.jpg
 figlink: /pmc/articles/PMC4930925/figure/A023895F4/
@@ -49,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9306425
 figid_alias: PMC4930925__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4930925__F4
 ndex: b2eb182f-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork

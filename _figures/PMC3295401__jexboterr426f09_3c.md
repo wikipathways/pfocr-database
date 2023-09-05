@@ -4,6 +4,8 @@ figtitle: The signalling induced by salt stress and biotic stress (as induced by
   Harpin elicitor) in grapevine
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3295401
 filename: jexboterr426f09_3c.jpg
 figlink: /pmc/articles/PMC3295401/figure/fig9/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9466347
 figid_alias: PMC3295401__F9
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3295401__F9
 ndex: d04b5b73-de9e-11ea-99da-0ac135e8bacf
 seo: CreativeWork

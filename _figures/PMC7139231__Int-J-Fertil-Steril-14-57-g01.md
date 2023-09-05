@@ -5,6 +5,9 @@ figtitle: Concept model of micronutrients administration in support to DNA methy
 organisms:
 - Homo sapiens
 - Rattus norvegicus
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7139231
 filename: Int-J-Fertil-Steril-14-57-g01.jpg
 figlink: pmc/articles/PMC7139231/figure/F1/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8906804
 figid_alias: PMC7139231__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7139231__F1
 ndex: ''
 seo: CreativeWork
@@ -53,6 +54,33 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - VIT
+  - EEF1B2P2
+  - BHLHE22
+  - NEUROD1
+  - TUBB4B
+  - BRCA2
+  - FANCD2
+  - PSEN1
+  - NDUFB3
+  - TNFAIP1
+  - TRA-TGC7-1
+  - rb
+  - betaTub60D
+  - Prosbeta3
+  - Prosbeta2
+  - betaTub85D
+  - nAChRbeta2
+  - Desat2
+  - Fadd
+  - Fad2
+  - Desat1
+  - Fancd2
+  - CycE
+  - cyc
+  - b6
+  - Prosbeta6
+  - Sh
   - S-Adenosyl-Methionine
   - Vit
   - FAD

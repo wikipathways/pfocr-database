@@ -19,6 +19,11 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC6723309
 filename: microorganisms-07-00216-g001.jpg
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f001/
@@ -52,10 +57,6 @@ keywords: .na.character
 automl_pathway: 0.8780799
 figid_alias: PMC6723309__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC6723309__F1
 ndex: 7b03919a-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -86,38 +87,17 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Smpd1
-  - Tnf
-  - Tlr4
-  - Tnfrsf1a
-  - Tnfrsf1b
-  - Cxcr1
-  - Cxcr2
-  - Pxn
-  - Cgas
-  - Crk
-  - Grap2
-  - Syp
-  - Mapk14
-  - Ahsa1
-  - Sting1
-  - Nfkbib
-  - Irf3
-  - Egfr
-  - Nfkb1
-  - Cxcl15
-  - Map2k6
-  - Kcna2
-  - Mapkapk2
-  - Map2k2
   - SMPD1
   - TNF
   - IRF6
+  - CXCL8
   - TNFRSF1A
-  - CXCR1
   - CXCR2
+  - CXCR1
   - CGAS
   - TLR4
+  - MAP2K6
+  - STING1
   - CRK
   - MAPK14
   - MAPK1
@@ -128,7 +108,8 @@ schema-jsonld:
   - MAPK11
   - MAPK12
   - MAPK13
-  - STING1
+  - KCNA2
+  - MAPKAPK2
   - IRF3
   - EGFR
   - NFKB1
@@ -136,10 +117,54 @@ schema-jsonld:
   - RELB
   - REL
   - NFKB2
-  - CXCL8
-  - MAP2K6
-  - KCNA2
-  - MAPKAPK2
+  - Tnf
+  - Tnfrsf1a
+  - Cxcr2
+  - Cxcr1
+  - Cgas
+  - Tlr4
+  - Map2k6
+  - Mapk14
+  - Irf3
+  - Egfr
+  - Nfkb1
   - Rela
+  - Smpd1
+  - Cxcl15
+  - Tnfrsf1b
+  - Pxn
+  - Sting1
+  - Nfkbib
+  - Crk
+  - Grap2
+  - Syp
+  - Ahsa1
+  - Kcna2
+  - Mapkapk2
+  - Map2k2
+  - CG3376
+  - CG15533
+  - CG15534
+  - CG32052
+  - scb
+  - egr
+  - ca
+  - cer
+  - Pax
+  - tj
+  - Toll-4
+  - Sting
+  - aub
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - MAPk-Ak2
+  - Dif
+  - dl
+  - Rel
   - LPS
 ---

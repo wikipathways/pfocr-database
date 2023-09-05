@@ -4,6 +4,8 @@ figtitle: Proteomic analysis of mitochondrial biogenesis in cardiomyocytes diffe
   from human induced pluripotent stem cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8238141
 filename: ajpregu.00207.2020_f007.jpg
 figlink: /pmc/articles/PMC8238141/figure/F0007/
@@ -35,8 +37,6 @@ keywords: cardiac differentiation | human induced pluripotent stem cells | mitoc
 automl_pathway: 0.6494379
 figid_alias: PMC8238141__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8238141__F7
 ndex: ''
 seo: CreativeWork
@@ -65,7 +65,7 @@ schema-jsonld:
   - LONP1
   - RB1
   - RBM45
-  - KDM5A
   - RICTOR
+  - KDM5A
   - ARID4B
 ---

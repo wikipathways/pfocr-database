@@ -5,6 +5,9 @@ figtitle: 'Schema summarizing synergistic effects of suberoylanilide hydroxamic 
   on Carlisi et al., '
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7466132
 filename: pharmaceuticals-13-00194-g003.jpg
 figlink: pmc/articles/PMC7466132/figure/pharmaceuticals-13-00194-f003/
@@ -32,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9528529
 figid_alias: PMC7466132__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7466132__F3
 ndex: ''
 seo: CreativeWork
@@ -71,6 +72,28 @@ schema-jsonld:
   - pn
   - Keap1
   - cnc
+  - NFKB1
+  - HDAC9
+  - HDAC2
+  - HDAC8
+  - HDAC5
+  - HDAC7
+  - HDAC10
+  - SIRT1
+  - SIRT2
+  - SIRT3
+  - SIRT4
+  - SIRT5
+  - SIRT6
+  - SIRT7
+  - HDAC11
+  - DNMT1
+  - AKT1
+  - AKT2
+  - AKT3
+  - MTOR
+  - GABPA
+  - NFE2L2
   - SAHA
   - GSH
 ---

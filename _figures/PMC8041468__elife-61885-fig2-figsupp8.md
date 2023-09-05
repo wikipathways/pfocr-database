@@ -3,10 +3,12 @@ figid: PMC8041468__elife-61885-fig2-figsupp8
 figtitle: Transcriptional regulation in antibiotic resistance pathway, related to
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8041468
 filename: elife-61885-fig2-figsupp8.jpg
 figlink: pmc/articles/PMC8041468/figure/fig2s8/
-number: SF2_8
+number: F2
 caption: The remaining network illustrates the regulatory relationship between TFs
   and their target genes in antibiotic resistance pathway. Circles indicate TF proteins,
   and squares indicate target genes. Red arrows show the binding sites located in
@@ -22,11 +24,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.876945
-figid_alias: PMC8041468__SF2_8
-figtype: Supplemental figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-redirect_from: /figures/PMC8041468__SF2_8
+figid_alias: PMC8041468__F2
+figtype: Figure
+redirect_from: /figures/PMC8041468__F2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

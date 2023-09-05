@@ -6,6 +6,8 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Malus domestica
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6765153
 filename: jclintranslres-5-033-g002.jpg
 figlink: /pmc/articles/PMC6765153/figure/F2/
@@ -29,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.6645064
 figid_alias: PMC6765153__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC6765153__F2
 ndex: 7a75714b-df31-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,25 +51,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TP53
-  - TP63
-  - TP73
-  - TGFB1
-  - TGFB2
-  - TGFB3
-  - HMGB1
-  - GP6
-  - NFATC1
-  - NFATC2
-  - NFATC3
-  - NFATC4
-  - NFAT5
-  - IL6
-  - Trp53
-  - Tgfb1
-  - Ltbp1
-  - Hmgb1
-  - Gp6
-  - Il6
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - p53
+  - betaTub60D
+  - hth
+  - dpp
+  - gbb
+  - put
+  - mav
+  - Dsp1
+  - NFAT
+  - lin
+  - drl
   - Rheumatoid Arthritis
 ---

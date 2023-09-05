@@ -4,6 +4,8 @@ figtitle: A diagram of tetrahydrofolate (THF)-dependent methionine transmethylat
   and glutathione synthesis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3865377
 filename: gahmj.2013.088.g001.jpg
 figlink: /pmc/articles/PMC3865377/figure/F1/
@@ -41,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.8803252
 figid_alias: PMC3865377__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3865377__F1
 ndex: ''
 seo: CreativeWork

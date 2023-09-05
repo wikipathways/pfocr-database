@@ -13,6 +13,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Methanocaldococcus jannaschii
+organisms_ner:
+- Homo sapiens
+- Caenorhabditis elegans
+- Saccharomyces cerevisiae S288C
 pmcid: PMC4292169
 filename: cshperspect-RCM-016634_F1.jpg
 figlink: /pmc/articles/PMC4292169/figure/A016634F1/
@@ -41,11 +45,6 @@ keywords: .na.character
 automl_pathway: 0.837244
 figid_alias: PMC4292169__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
-- Caenorhabditis elegans
-- Drosophila melanogaster
 redirect_from: /figures/PMC4292169__F1
 ndex: ''
 seo: CreativeWork
@@ -73,17 +72,12 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - SPO11
-  - SAE2
   - MRE11
-  - EXO1
   - RBBP8
   - UBA2
+  - EXO1
   - spo-11
   - mre-11
   - exo-1
-  - mei-W68
-  - dsb
-  - Uba2
-  - mre11
-  - Imp
+  - SAE2
 ---

@@ -9,6 +9,13 @@ organisms:
 - Cricetulus griseus
 - Homo sapiens
 - Bos taurus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Bos taurus
+- Cricetulus griseus
+- Drosophila melanogaster
 pmcid: PMC9322956
 filename: pharmaceuticals-15-00866-g001.jpg
 figlink: /pmc/articles/PMC9322956/figure/pharmaceuticals-15-00866-f001/
@@ -28,12 +35,6 @@ keywords: PTP1B inhibitors | computer-assisted drug design | molecular docking |
 automl_pathway: 0.971598
 figid_alias: PMC9322956__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Bos taurus
-- Cricetulus griseus
 redirect_from: /figures/PMC9322956__F1
 ndex: ''
 seo: CreativeWork
@@ -109,4 +110,25 @@ schema-jsonld:
   - FYN
   - YES1
   - Pik3cg
+  - Ptp61F
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - amon
+  - Akt
+  - pt
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Shc
+  - drk
+  - Sos
+  - Ras64B
+  - Ras85D
+  - vap
+  - Src42A
+  - Csk
+  - Src64B
 ---

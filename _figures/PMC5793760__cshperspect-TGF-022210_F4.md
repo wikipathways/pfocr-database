@@ -3,6 +3,9 @@ figid: PMC5793760__cshperspect-TGF-022210_F4
 figtitle: TGFB signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC5793760
 filename: cshperspect-TGF-022210_F4.jpg
 figlink: pmc/articles/PMC5793760/figure/A022210F4/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9328298
 figid_alias: PMC5793760__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5793760__F4
 ndex: ''
 seo: CreativeWork
@@ -88,8 +89,8 @@ schema-jsonld:
   - ACVRL1
   - ALK
   - SLPI
-  - BMPR1B
   - BMPR1A
+  - BMPR1B
   - TGFBR2
   - BMPR2
   - ACVR2B
@@ -100,4 +101,9 @@ schema-jsonld:
   - GARS1
   - SMAD4
   - SKIL
+  - ALK2
+  - ALK1
+  - MAD2
+  - MAD3
+  - MAD1
 ---

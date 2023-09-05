@@ -3,6 +3,8 @@ figid: PMC7284861__microorganisms-08-00732-g002
 figtitle: Biosynthetic pathway of L-histidine
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7284861
 filename: microorganisms-08-00732-g002.jpg
 figlink: pmc/articles/PMC7284861/figure/microorganisms-08-00732-f002/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9329582
 figid_alias: PMC7284861__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC7284861__F2
 ndex: ''
 seo: CreativeWork

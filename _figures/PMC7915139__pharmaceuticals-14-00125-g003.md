@@ -4,6 +4,8 @@ figtitle: Conceptual diagram of the effects of methyl jasmonate (MeJA) and methy
   (MBCD) on pigments and terpenes biosynthesis in C
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC7915139
 filename: pharmaceuticals-14-00125-g003.jpg
 figlink: pmc/articles/PMC7915139/figure/pharmaceuticals-14-00125-f003/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9669633
 figid_alias: PMC7915139__F3
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC7915139__F3
 ndex: ''
 seo: CreativeWork
@@ -61,11 +61,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CHIA
   - CHL
   - CH1
   - CHI
   - TT5
-  - CHIA
   - HCHIB
   - Ergosterol
   - MBCD  MeJA

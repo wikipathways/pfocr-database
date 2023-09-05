@@ -3,10 +3,12 @@ figid: PMC8041468__elife-61885-fig2-figsupp7
 figtitle: Transcriptional regulation in antibiotic resistance pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8041468
 filename: elife-61885-fig2-figsupp7.jpg
 figlink: pmc/articles/PMC8041468/figure/fig2s7/
-number: SF2_7
+number: F2
 caption: (A) Network illustrates part of the regulatory relationship between TFs and
   their target genes in antibiotic resistance pathway. The other part is shown in
   . Circles indicate TF proteins, and squares indicate target genes. Red arrows show
@@ -41,11 +43,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.6680161
-figid_alias: PMC8041468__SF2_7
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC8041468__SF2_7
+figid_alias: PMC8041468__F2
+figtype: Figure
+redirect_from: /figures/PMC8041468__F2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -83,8 +83,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Tailor
-  - Pa
-  - ab
-  - Appl
+  - OPRD1
+  - ADHFE1
+  - APP
+  - SUCLA2
+  - KLK4
 ---

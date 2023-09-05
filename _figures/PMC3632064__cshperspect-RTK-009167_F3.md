@@ -3,6 +3,8 @@ figid: PMC3632064__cshperspect-RTK-009167_F3
 figtitle: Motor axons release Agrin and ACh
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3632064
 filename: cshperspect-RTK-009167_F3.jpg
 figlink: /pmc/articles/PMC3632064/figure/A009167F3/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.6901382
 figid_alias: PMC3632064__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3632064__F3
 ndex: ''
 seo: CreativeWork
@@ -51,7 +51,7 @@ schema-jsonld:
   - CORIN
   - MUSK
   - RAPSN
-  - CRK
   - CRKL
+  - CRK
   - DOK7
 ---

@@ -4,6 +4,9 @@ figtitle: 'Clinical Escherichia coli: From Biofilm Formation to New Antibiofilm 
 organisms:
 - Escherichia coli
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9229135
 filename: microorganisms-10-01103-g002.jpg
 figlink: /pmc/articles/PMC9229135/figure/microorganisms-10-01103-f002/
@@ -28,9 +31,6 @@ keywords: Escherichia coli | biofilms | resistance | clinical importance | non-t
 automl_pathway: 0.9386937
 figid_alias: PMC9229135__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-- Homo sapiens
 redirect_from: /figures/PMC9229135__F2
 ndex: ''
 seo: CreativeWork
@@ -52,37 +52,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - motB
-  - motA
-  - flgN
-  - fliS
-  - fliJ
-  - flhA
-  - flgM
-  - flhB
-  - fliH
-  - fliL
-  - fliI
-  - fliO
-  - fliQ
-  - fliP
-  - fliR
-  - flhC
-  - flgF
-  - flgK
-  - fliD
-  - crp
-  - fliE
-  - flgB
-  - flgC
-  - fliF
-  - fliG
-  - fliK
-  - fliA
   - KNTC1
   - FREM1
-  - FIGN
   - FLII
+  - FIGN
   - FLI1
   - CFLAR
   - FIRRM
@@ -102,4 +75,31 @@ schema-jsonld:
   - VPREB1
   - KCMF1
   - MS
+  - motB
+  - motA
+  - fliS
+  - flgN
+  - fliJ
+  - flhA
+  - flgM
+  - flhB
+  - fliH
+  - fliL
+  - fliI
+  - fliO
+  - fliQ
+  - fliR
+  - fliP
+  - flhC
+  - flgF
+  - flgK
+  - fliD
+  - crp
+  - fliE
+  - flgB
+  - flgC
+  - fliF
+  - fliG
+  - fliK
+  - fliA
 ---

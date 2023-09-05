@@ -8,10 +8,14 @@ organisms:
 - Homo sapiens
 - Escherichia coli
 - Armoracia rusticana
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC7346192
 filename: antioxidants-09-00503-sch001.jpg
 figlink: pmc/articles/PMC7346192/figure/antioxidants-09-00503-sch001/
-number: S1
+number: SF1
 caption: 'Proposed mechanism underlying the differential effects of N-containing zoledronate
   and non-N-containing MPMBP, on the inflammatory responses. The hypothesis is based
   on the experimental findings in the present study and published reports. We hypothesized
@@ -33,13 +37,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9246367
-figid_alias: PMC7346192__S1
-figtype: Scheme
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-redirect_from: /figures/PMC7346192__S1
+figid_alias: PMC7346192__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC7346192__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -64,12 +64,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Tlr4
-  - Tlr2
-  - Nfkb1
-  - Nfkbib
-  - Ptgs2
-  - Nos2
   - IRF6
   - TLR2
   - TLR4
@@ -78,6 +72,20 @@ schema-jsonld:
   - PTGS2
   - NOS2
   - ISYNA1
+  - Tlr4
+  - Tlr2
+  - Nfkb1
+  - Nfkbib
+  - Ptgs2
+  - Nos2
+  - tlr-2
+  - Toll-4
+  - Dif
+  - dl
+  - Rel
+  - Inos
+  - Nos
+  - COX2
   - zoledronate
   - PGE
 ---

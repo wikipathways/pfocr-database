@@ -5,6 +5,8 @@ figtitle: Toll-like receptor 4 (TLR4) signaling pathway in porcine intestinal ep
   plantarum N14 and Lactobacillus delbrueckii TUA4408L
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5039587
 filename: microorganisms-04-00027-g002.jpg
 figlink: /pmc/articles/PMC5039587/figure/microorganisms-04-00027-f002/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9580659
 figid_alias: PMC5039587__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5039587__F2
 ndex: 921a7a70-dee4-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -67,6 +67,13 @@ organisms:
 - Oryctolagus cuniculus
 - metagenome
 - NA
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC9495336
 filename: bioengineering-09-00472-g003.jpg
 figlink: /pmc/articles/PMC9495336/figure/bioengineering-09-00472-f003/
@@ -99,13 +106,6 @@ keywords: fucoidan | antimicrobial | antiviral | anticancer | antioxidant | rege
 automl_pathway: 0.566494
 figid_alias: PMC9495336__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-- Oryctolagus cuniculus
-- Drosophila melanogaster
-- Danio rerio
 redirect_from: /figures/PMC9495336__F3
 ndex: ''
 seo: CreativeWork
@@ -134,15 +134,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GABPA
-  - NFE2L2
+  - KEAP1
+  - SLC7A11
   - GTF2H1
   - SQSTM1
   - KHDRBS1
   - NUP62
   - DCTN4
-  - KEAP1
-  - SLC7A11
+  - GABPA
+  - NFE2L2
+  - PPARGC1A
   - PRKAA1
   - PRKAA2
   - PRKAB1
@@ -151,32 +152,31 @@ schema-jsonld:
   - PRKAG2
   - PRKAG3
   - SIRT1
-  - PPARGC1A
-  - Nfe2l2
+  - Keap1
+  - Slc7a11
   - Gtf2h1
   - Nup62
   - Sqstm1
   - Khdrbs1
   - Dctn4
-  - Keap1
-  - Slc7a11
-  - Sirt1
+  - Nfe2l2
   - Ppargc1a
+  - Sirt1
   - Prkaa2
-  - cnc
   - ref(2)P
   - DCTN4-p62
   - Tfb1
   - Taf6
   - how
+  - cnc
+  - srl
   - SNF4Agamma
   - AMPKalpha
-  - srl
-  - nfe2l2a
-  - khdrbs1a
-  - sqstm1
   - keap1a
   - slc7a11
-  - sirt1
+  - khdrbs1a
+  - sqstm1
+  - nfe2l2a
   - ppargc1a
+  - sirt1
 ---

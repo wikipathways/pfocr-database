@@ -9,6 +9,10 @@ organisms:
 - Streptococcus sp. group A
 - Homo sapiens
 - Oryctolagus cuniculus
+organisms_ner:
+- Homo sapiens
+- Oryctolagus cuniculus
+- Danio rerio
 pmcid: PMC7568652
 filename: mSphere.00803-20-f0003.jpg
 figlink: pmc/articles/PMC7568652/figure/fig3/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9492517
 figid_alias: PMC7568652__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC7568652__F3
 ndex: ''
 seo: CreativeWork
@@ -69,6 +70,8 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
+  - MAP3K7
+  - NR2C2
   - TRAF3IP2
   - MAPK3
   - MAPK1
@@ -114,4 +117,14 @@ schema-jsonld:
   - JUN
   - JUNB
   - JUND
+  - cd40
+  - traf1
+  - traf6
+  - traf5
+  - tank
+  - traf3
+  - mapk8b
+  - traf3ip2b
+  - mapk3
+  - atf1
 ---

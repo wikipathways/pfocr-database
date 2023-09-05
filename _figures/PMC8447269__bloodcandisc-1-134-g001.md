@@ -4,6 +4,9 @@ figtitle: 'Hedgehog Pathway Inhibitors: A New Therapeutic Class for the Treatmen
   of Acute Myeloid Leukemia'
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8447269
 filename: bloodcandisc-1-134-g001.jpg
 figlink: /pmc/articles/PMC8447269/figure/fig1/
@@ -30,8 +33,6 @@ keywords: ''
 automl_pathway: 0.9255061
 figid_alias: PMC8447269__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8447269__F1
 ndex: ''
 seo: CreativeWork
@@ -76,4 +77,15 @@ schema-jsonld:
   - PRKACG
   - GSK3A
   - GSK3B
+  - smo
+  - ihhb
+  - ihha
+  - gli
+  - shha
+  - dhh
+  - ptch1
+  - ptch2
+  - sufu
+  - gsk3ba
+  - gsk3ab
 ---

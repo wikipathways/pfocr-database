@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g049
 figtitle: Probable pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g049.jpg
 figlink: /pmc/articles/PMC6664406/figure/C41/
-number: S41
+number: SF41
 caption: Probable pathway.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.5752674
-figid_alias: PMC6664406__S41
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC6664406__S41
+figid_alias: PMC6664406__SF41
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF41
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

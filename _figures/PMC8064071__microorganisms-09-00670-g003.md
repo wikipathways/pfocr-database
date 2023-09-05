@@ -4,6 +4,9 @@ figtitle: Scheme of the central carbon metabolism and carotenogenesis in C
 organisms:
 - Corynebacterium glutamicum
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8064071
 filename: microorganisms-09-00670-g003.jpg
 figlink: pmc/articles/PMC8064071/figure/microorganisms-09-00670-f003/
@@ -63,8 +66,6 @@ keywords: .na.character
 automl_pathway: 0.9658234
 figid_alias: PMC8064071__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8064071__F3
 ndex: ''
 seo: CreativeWork
@@ -166,6 +167,36 @@ schema-jsonld:
   - MATN1
   - GNPTAB
   - IPP
+  - ptsG
+  - pgi
+  - pfkA
+  - pck
+  - ackA
+  - eno
+  - pgk
+  - pgm
+  - fbp
+  - fbaA
+  - cof
+  - pta
+  - dxs
+  - zwf
+  - pgl
+  - dxr
+  - gnd
+  - malE
+  - mdh
+  - rpe
+  - tktA
+  - ispE
+  - acnA
+  - aceA
+  - ispF
+  - icd
+  - ispG
+  - ispH
+  - idi
+  - rpoE
   - Pyruvate
   - DHAP
   - Acetate

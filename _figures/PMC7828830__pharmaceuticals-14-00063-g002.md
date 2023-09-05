@@ -3,6 +3,8 @@ figid: PMC7828830__pharmaceuticals-14-00063-g002
 figtitle: Proposed biosynthetic pathway of mycosporine-like amino acids
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7828830
 filename: pharmaceuticals-14-00063-g002.jpg
 figlink: pmc/articles/PMC7828830/figure/pharmaceuticals-14-00063-f002/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9141513
 figid_alias: PMC7828830__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7828830__F2
 ndex: ''
 seo: CreativeWork

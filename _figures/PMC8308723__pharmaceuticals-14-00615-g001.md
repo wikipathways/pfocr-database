@@ -4,6 +4,8 @@ figtitle: 'Signaling Pathway and Transcriptional Regulation in Osteoblasts durin
   Bone Healing: Direct Involvement of Hydroxyapatite as a Biomaterial'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8308723
 filename: pharmaceuticals-14-00615-g001.jpg
 figlink: /pmc/articles/PMC8308723/figure/pharmaceuticals-14-00615-f001/
@@ -24,8 +26,6 @@ keywords: neglected diseases | osteoblast transcription factors | osteoblast sig
 automl_pathway: 0.9611302
 figid_alias: PMC8308723__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8308723__F1
 ndex: ''
 seo: CreativeWork

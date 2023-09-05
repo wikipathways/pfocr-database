@@ -5,6 +5,8 @@ figtitle: Transforming growth factor B (TGFB)-induced activation of c-Jun amino 
   IKB kinase (IKK) pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5287080
 filename: cshperspect-TGF-022129_F2.jpg
 figlink: /pmc/articles/PMC5287080/figure/A022129F2/
@@ -37,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9648077
 figid_alias: PMC5287080__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5287080__F2
 ndex: 58c1e886-ded3-11ea-99da-0ac135e8bacf
 seo: CreativeWork

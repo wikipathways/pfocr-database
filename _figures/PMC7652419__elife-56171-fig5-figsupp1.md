@@ -5,10 +5,12 @@ figtitle: 13C labeling of various metabolites from [1,6-13C2]glucose in a three-
   subsequently enters the TCA cycle
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7652419
 filename: elife-56171-fig5-figsupp1.jpg
 figlink: pmc/articles/PMC7652419/figure/fig5s1/
-number: SF5_1
+number: F5
 caption: 'Metabolism of [1,6-13C2]glucose in glutamatergic and GABAergic neurons produces
   GluC4, which is then decarboxylated to GABAC2 by GAD enzyme in GABAergic neurons.
   The glutamate–glutamine and GABA-glutamine cycle operating between neurons and astrocytes
@@ -34,11 +36,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9673219
-figid_alias: PMC7652419__SF5_1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7652419__SF5_1
+figid_alias: PMC7652419__F5
+figtype: Figure
+redirect_from: /figures/PMC7652419__F5
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

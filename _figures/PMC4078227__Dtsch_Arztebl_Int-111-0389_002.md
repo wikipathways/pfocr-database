@@ -3,6 +3,9 @@ figid: PMC4078227__Dtsch_Arztebl_Int-111-0389_002
 figtitle: Hedgehog signal pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4078227
 filename: Dtsch_Arztebl_Int-111-0389_002.jpg
 figlink: /pmc/articles/PMC4078227/figure/F2/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.8953119
 figid_alias: PMC4078227__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4078227__F2
 ndex: ''
 seo: CreativeWork
@@ -49,10 +50,19 @@ schema-jsonld:
   - SHH
   - SMO
   - SMOX
-  - GLI1
   - SUFU
-  - GLI2
+  - GLI1
   - GLI3
+  - GLI2
+  - shha
+  - smo
+  - ptch1
+  - ptch2
+  - sufu
+  - gli
+  - gli1
+  - gli3
+  - gli2a
   - Cyclopamine
   - sonidegib
 ---

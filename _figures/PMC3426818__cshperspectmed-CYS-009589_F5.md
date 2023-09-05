@@ -4,6 +4,9 @@ figtitle: MUC5B gene expression is transcriptionally regulated by various mediat
   and pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC3426818
 filename: cshperspectmed-CYS-009589_F5.jpg
 figlink: /pmc/articles/PMC3426818/figure/A009589F5/
@@ -30,10 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9575589
 figid_alias: PMC3426818__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3426818__F5
 ndex: 9a34f1b7-ded6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -98,30 +97,6 @@ schema-jsonld:
   - PSG1
   - DAND5
   - MUC5B
-  - ras
-  - Ras64B
-  - Ras85D
-  - Mekk1
-  - pk
-  - rl
-  - lic
-  - p38b
-  - Nurf-38
-  - Ebp
-  - p38a
-  - Hrb87F
-  - p38c
-  - Dif
-  - dl
-  - Rel
-  - Mkk4
-  - hep
-  - Akt
-  - bsk
-  - Sp1
-  - grass
-  - Spn42Dd
-  - Nplp1
   - HA1
   - MEKK1
   - MKK3

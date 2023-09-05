@@ -4,6 +4,8 @@ figtitle: Oral Epithelial Cells Distinguish between Candida Species with High or
   Pathogenic Potential through MicroRNA Regulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8125073
 filename: mSystems.00163-21-f005.jpg
 figlink: /pmc/articles/PMC8125073/figure/fig5/
@@ -26,8 +28,6 @@ keywords: Candida | oral epithelial cell | host-pathogen interaction | miRNA reg
 automl_pathway: 0.8616953
 figid_alias: PMC8125073__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8125073__F5
 ndex: ''
 seo: CreativeWork
@@ -70,9 +70,11 @@ schema-jsonld:
   - COPS5
   - JUN
   - NCOA1
+  - VIM
+  - GPI
+  - GNPDA1
   - SLC2A1
   - SERPINE1
-  - VIM
   - MMP1
   - MMP2
   - MMP3
@@ -96,8 +98,6 @@ schema-jsonld:
   - MMP26
   - MMP27
   - MMP28
-  - GPI
-  - GNPDA1
   - EIF4E
   - EIF4E2
   - EIF4E3
@@ -106,9 +106,9 @@ schema-jsonld:
   - OPN1LW
   - PAG1
   - PCBP4
-  - EP300
   - ARNT
   - MIA3
+  - EP300
   - APEX1
   - TEAD1
   - TFPI2
@@ -162,9 +162,9 @@ schema-jsonld:
   - PRKCQ
   - PRKCZ
   - PRKD3
-  - ADRA1B
   - NOS2
   - NANOS2
+  - ADRA1B
   - KDR
   - FLT1
   - FLT4
@@ -187,6 +187,6 @@ schema-jsonld:
   - KDM1A
   - CP
   - WARS1
-  - TGFA
   - IGF2
+  - TGFA
 ---

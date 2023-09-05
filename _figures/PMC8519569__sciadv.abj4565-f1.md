@@ -3,6 +3,9 @@ figid: PMC8519569__sciadv.abj4565-f1
 figtitle: Proposed PIM biosynthetic pathway in mycobacteria
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8519569
 filename: sciadv.abj4565-f1.jpg
 figlink: /pmc/articles/PMC8519569/figure/F1/
@@ -35,8 +38,6 @@ keywords: ''
 automl_pathway: 0.6501182
 figid_alias: PMC8519569__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8519569__F1
 ndex: ''
 seo: CreativeWork
@@ -79,7 +80,20 @@ schema-jsonld:
   - wb
   - Prosalpha1
   - CG9933
-  - oc
   - CCHa2
+  - oc
   - pim
+  - ADHFE1
+  - IGKV2D-19
+  - PIM1
+  - LONP1
+  - PIM2
+  - C1QA
+  - C1QB
+  - C1QC
+  - C1R
+  - C1S
+  - ADRA1D
+  - IGKV3-31
+  - PIM3
 ---

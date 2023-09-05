@@ -3,6 +3,8 @@ figid: PMC4204446__jcad_7_7_suppl1-g009a
 figtitle: Updates on Psoriasis and Cutaneous Oncology
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4204446
 filename: jcad_7_7_suppl1-g009a.jpg
 figlink: /pmc/articles/PMC149053/figure/fig7/
@@ -21,9 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9447318
 figid_alias: PMC4204446__F9a
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4204446__F9a
 ndex: ''
 seo: CreativeWork
@@ -48,9 +47,4 @@ schema-jsonld:
   - hh
   - fo
   - Dr
-  - PTCH1
-  - SUFU
-  - SMO
-  - SMOX
-  - INTU
 ---

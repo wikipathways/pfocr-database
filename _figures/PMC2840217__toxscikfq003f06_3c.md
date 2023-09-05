@@ -4,6 +4,9 @@ figtitle: Antioxidant and phase II detoxifying enzyme genes in response to MG132
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2840217
 filename: toxscikfq003f06_3c.jpg
 figlink: /pmc/articles/PMC2840217/figure/fig6/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8025729
 figid_alias: PMC2840217__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2840217__F6
 ndex: 3a933ef4-deb0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -110,9 +110,9 @@ schema-jsonld:
   - AttD
   - DPCoAC
   - att-ORFB
-  - ee
   - fol
   - foi
+  - ee
   - E(spl)malpha-BFM
   - a6
   - nAChRalpha6

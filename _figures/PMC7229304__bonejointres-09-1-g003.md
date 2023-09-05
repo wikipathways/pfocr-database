@@ -3,6 +3,9 @@ figid: PMC7229304__bonejointres-09-1-g003
 figtitle: Biochemical coupling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7229304
 filename: bonejointres-09-1-g003.jpg
 figlink: pmc/articles/PMC7229304/figure/fig3-2046-3758.91.BJR-2019-0043.R2/
@@ -36,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9731249
 figid_alias: PMC7229304__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7229304__F3
 ndex: ''
 seo: CreativeWork
@@ -88,8 +89,95 @@ schema-jsonld:
   - Pka-C2
   - Erk7
   - rl
+  - MKP-4
+  - p38b
   - Akt
   - kay
+  - ITGA1
+  - ITGA10
+  - ITGA11
+  - ITGA2
+  - ITGA2B
+  - ITGA3
+  - ITGA4
+  - ITGA5
+  - ITGA6
+  - ITGA7
+  - ITGA8
+  - ITGA9
+  - ITGAD
+  - ITGAE
+  - ITGAL
+  - ITGAM
+  - ITGAV
+  - ITGAX
+  - ITGB1
+  - ITGB2
+  - ITGB3
+  - ITGB4
+  - ITGB5
+  - ITGB6
+  - ITGB7
+  - ITGB8
+  - ITGBL1
+  - GJA1
+  - CTNNB1
+  - PTK2
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT3
+  - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
+  - WNT1
+  - WNT2
+  - WNT2B
+  - WNT3
+  - WNT3A
+  - WNT4
+  - WNT6
+  - WNT7A
+  - WNT7B
+  - WNT8A
+  - WNT8B
+  - WNT9A
+  - WNT9B
+  - WNT10A
+  - WNT10B
+  - WNT11
+  - WNT16
+  - WNT5A
+  - WNT5B
+  - ATP8A2
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - AKT1
+  - AKT2
+  - AKT3
+  - FOS
+  - RUNX2
+  - MID1
+  - SP7
+  - BTF3P11
+  - TNFRSF11B
+  - SPP1
   - PGE2
   - Ca
   - Ca 2+

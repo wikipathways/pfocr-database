@@ -3,10 +3,13 @@ figid: PMC7558951__pharmaceuticals-13-00211-sch023
 figtitle: Synthetic pathway to obtain the 5′-homo-4′selenonucleosides 136 and 139
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7558951
 filename: pharmaceuticals-13-00211-sch023.jpg
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch023/
-number: S23
+number: F23
 caption: Synthetic pathway to obtain the 5′-homo-4′selenonucleosides 136 and 139.
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
   and Derivatives.'
@@ -18,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.6148156
-figid_alias: PMC7558951__S23
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7558951__S23
+figid_alias: PMC7558951__F23
+figtype: Figure
+redirect_from: /figures/PMC7558951__F23
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -38,17 +39,21 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - se
-  - en
   - et
+  - en
   - cl
-  - Edg84A
-  - Chc
-  - cp
-  - cpa
-  - cb
-  - cpb
-  - snRNA:U2:34ABa
   - ci
+  - snRNA:U2:34ABa
+  - HADHA
+  - PLAT
+  - C1QA
+  - C1QB
+  - C1QC
+  - C1R
+  - C1S
+  - CYCSP39
+  - HADHB
+  - F3
   - EtO2C
   - Se
   - Et

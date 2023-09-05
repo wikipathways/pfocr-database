@@ -4,6 +4,10 @@ figtitle: The L-arginine biosynthetic pathway and its association to proline and
   biosynthesis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC2671631
 filename: jexboterp072f01_lw.jpg
 figlink: /pmc/articles/PMC2671631/figure/fig1/
@@ -33,10 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9486693
 figid_alias: PMC2671631__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Arabidopsis thaliana
-- Homo sapiens
 redirect_from: /figures/PMC2671631__F1
 ndex: ''
 seo: CreativeWork

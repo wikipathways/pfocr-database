@@ -4,6 +4,9 @@ figtitle: Alteration in Ubiquitin-Proteasome System (UPS) in response to MG132 (
   methylmercury (MeHg, B), and cadmium (Cd, C) in MEF cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2840217
 filename: toxscikfq003f08_3c.jpg
 figlink: /pmc/articles/PMC2840217/figure/fig8/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.6881783
 figid_alias: PMC2840217__F8
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2840217__F8
 ndex: ''
 seo: CreativeWork

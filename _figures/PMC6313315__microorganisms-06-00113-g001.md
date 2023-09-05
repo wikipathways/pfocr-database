@@ -3,6 +3,9 @@ figid: PMC6313315__microorganisms-06-00113-g001
 figtitle: The urea and tricarboxylic acid (TCA)-cycles
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6313315
 filename: microorganisms-06-00113-g001.jpg
 figlink: /pmc/articles/PMC6313315/figure/microorganisms-06-00113-f001/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9019405
 figid_alias: PMC6313315__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6313315__F1
 ndex: ''
 seo: CreativeWork
@@ -70,46 +70,46 @@ schema-jsonld:
   - Anp
   - Acam
   - Amph
-  - CG8728
-  - fru
   - ATPsynbeta
   - Atpalpha
-  - mge
   - CycE
   - cyc
+  - ar
   - arg
   - aos
+  - CG31368
   - Desat2
   - Fadd
   - Fad2
   - Desat1
   - Fancd2
-  - Con
-  - ec
-  - red
-  - trc
-  - adp
-  - ar
-  - CG31368
   - Ret
   - reticulated
   - reti
   - rets
+  - ec
+  - adp
+  - CG8728
+  - fru
+  - mge
+  - Con
+  - red
+  - trc
   - APRT
   - MFAP1
-  - PMPCA
   - ATP8A2
+  - AR
   - ABL2
   - RERE
+  - DMBT1
   - BRCA2
   - FANCD2
   - PSEN1
+  - RET
+  - WDTC1
+  - PMPCA
   - IK
   - DYRK3
-  - WDTC1
-  - AR
-  - DMBT1
-  - RET
   - Almine
   - Phophonol
   - AMP

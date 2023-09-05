@@ -4,6 +4,9 @@ figtitle: Genome Sequence of Eubacterium limosum B2 and Evolution for Growth on 
   Mineral Medium with Methanol and CO2 as Sole Carbon Sources
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9503626
 filename: microorganisms-10-01790-g011.jpg
 figlink: /pmc/articles/PMC9503626/figure/microorganisms-10-01790-f011/
@@ -29,8 +32,6 @@ keywords: Eubacterium limosum | acetogen | adaptive laboratory evolution | genom
 automl_pathway: 0.9193955
 figid_alias: PMC9503626__F11
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9503626__F11
 ndex: ''
 seo: CreativeWork
@@ -64,4 +65,11 @@ schema-jsonld:
   - Idh
   - Idh3b
   - Mt2
+  - PC
+  - BGN
+  - GPI
+  - PGPEP1
+  - IDH1
+  - IDH2
+  - MT2A
 ---

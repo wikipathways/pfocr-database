@@ -4,6 +4,9 @@ figtitle: 'Scorpion and spider venoms in cancer treatment: state of the art, cha
   and perspectives'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6410669
 filename: jclintranslres-3-233-g002.jpg
 figlink: /pmc/articles/PMC6410669/figure/jctres.03.201702.g002/
@@ -64,9 +67,6 @@ keywords: .na.character
 automl_pathway: 0.9188677
 figid_alias: PMC6410669__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6410669__F2
 ndex: 37f46bfc-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -126,8 +126,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - dap
   - DCTN6-p27
+  - dap
   - CG9588
   - Pten
   - CycE
@@ -137,8 +137,8 @@ schema-jsonld:
   - E2f2
   - E2f1
   - Akt
-  - Cdk4
   - CycD
+  - Cdk4
   - Mtor
   - Tor
   - prd
@@ -165,6 +165,9 @@ schema-jsonld:
   - FASN2
   - FASN3
   - Fas1
+  - rb
+  - betaTub60D
+  - Prosbeta3
   - Tie
   - Ras85D
   - InR
@@ -176,16 +179,16 @@ schema-jsonld:
   - Pi3K59F
   - Pi3K68D
   - Pi3K92E
-  - CDKN1A
-  - TCEAL1
-  - NSG1
-  - H3P16
   - IFI27
   - PSMD9
   - ZNRD2
   - DCTN6
   - TMED7
   - H3P23
+  - CDKN1A
+  - TCEAL1
+  - NSG1
+  - H3P16
   - PTEN
   - CCNE1
   - CCNE2
@@ -202,11 +205,11 @@ schema-jsonld:
   - AKT1
   - AKT2
   - AKT3
-  - CDK6
-  - CDK4
   - CCND1
   - CCND2
   - CCND3
+  - CDK6
+  - CDK4
   - MTOR
   - CCN6
   - PRD
@@ -236,6 +239,8 @@ schema-jsonld:
   - FAS
   - FASN
   - FASLG
+  - EEF1B2P2
+  - BHLHE22
   - FZD4
   - NMUR1
   - LPAR3

@@ -6,6 +6,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Phleum pratense
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8150754
 filename: pharmaceuticals-14-00455-g002.jpg
 figlink: /pmc/articles/PMC8150754/figure/pharmaceuticals-14-00455-f002/
@@ -34,9 +38,6 @@ keywords: triple-negative breast cancer (TNBC) | targeted therapy | immunotherap
 automl_pathway: 0.9400209
 figid_alias: PMC8150754__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8150754__F2
 ndex: ''
 seo: CreativeWork
@@ -65,9 +66,6 @@ schema-jsonld:
   keywords:
   - Cd28
   - Trav6-3
-  - ap
-  - ao
-  - Gnao1
   - Ctla4
   - Cd274
   - Rapgef5
@@ -78,9 +76,9 @@ schema-jsonld:
   - Pdk1
   - Pdpk1
   - Akt1
+  - Mtor
   - tor
   - Rorc
-  - Mtor
   - Ar
   - Parp1
   - Tpm2
@@ -101,7 +99,6 @@ schema-jsonld:
   - TRB
   - TRD
   - TRG
-  - LYPLA2P1
   - CTLA4
   - CD8A
   - CD8B
@@ -133,8 +130,8 @@ schema-jsonld:
   - AKT1
   - AKT2
   - AKT3
-  - RORC
   - MTOR
+  - RORC
   - AR
   - PLCG1
   - PLCG2
@@ -232,4 +229,50 @@ schema-jsonld:
   - MMP27
   - MMP28
   - MYC
+  - Mhc
+  - zip
+  - Tcr
+  - ato
+  - gfr
+  - nac
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - sima
+  - Pvf1
+  - Pvf2
+  - Pvf3
+  - Pvr
+  - Akt
+  - Tor
+  - Egfr
+  - ar
+  - sl
+  - Parp
+  - ca
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - MKP-4
+  - p38b
+  - rl
+  - arr
+  - arm
+  - pan
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - fzr
+  - Axn
+  - Apc2
+  - Fs(3)Apc
+  - CkIalpha
+  - gish
+  - CycE
+  - cyc
+  - Mmp1
+  - 'On'
 ---

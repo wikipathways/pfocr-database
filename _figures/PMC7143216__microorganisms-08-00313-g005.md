@@ -43,6 +43,8 @@ organisms:
 - Eucalyptus intertexta
 - Ithyoclinostomum yamagutii
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7143216
 filename: microorganisms-08-00313-g005.jpg
 figlink: pmc/articles/PMC7143216/figure/microorganisms-08-00313-f005/
@@ -80,8 +82,6 @@ keywords: .na.character
 automl_pathway: 0.8896882
 figid_alias: PMC7143216__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7143216__F5
 ndex: ''
 seo: CreativeWork

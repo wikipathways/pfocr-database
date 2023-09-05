@@ -3,6 +3,8 @@ figid: PMC3334516__carcinbgs114f04_4c
 figtitle: TGFB signaling pathway members and potential pathway member LRG1
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3334516
 filename: carcinbgs114f04_4c.jpg
 figlink: /pmc/articles/PMC3334516/figure/fig4/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9705307
 figid_alias: PMC3334516__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3334516__F4
 ndex: fc27a9f6-dec6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -53,14 +53,14 @@ schema-jsonld:
   - TGFB1
   - TGFB2
   - TGFB3
+  - SMAD3
+  - SMAD2
   - SMAD1
   - SMAD4
   - SMAD5
   - SMAD6
   - SMAD7
   - SMAD9
-  - SMAD2
-  - SMAD3
   - KRAS
   - HRAS
   - NRAS
@@ -70,9 +70,9 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
+  - RHOA
   - RHO
   - RHOD
-  - RHOA
   - RHOB
   - RHOC
   - MIR335

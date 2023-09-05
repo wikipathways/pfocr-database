@@ -5,6 +5,9 @@ figtitle: Proteins modified by lysine methylation from the PhosphoSitePlus datab
   pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5088510
 filename: cshperspectmed-CCH-026435_F3.jpg
 figlink: /pmc/articles/PMC5088510/figure/A026435F3/
@@ -24,9 +27,6 @@ keywords: .na.character
 automl_pathway: 0.933176
 figid_alias: PMC5088510__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5088510__F3
 ndex: 29a944b7-df09-11ea-99da-0ac135e8bacf
 seo: CreativeWork

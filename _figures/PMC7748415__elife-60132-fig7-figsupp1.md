@@ -11,10 +11,12 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Matthiola incana
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7748415
 filename: elife-60132-fig7-figsupp1.jpg
 figlink: pmc/articles/PMC7748415/figure/fig7s1/
-number: SF7_1
+number: F7
 caption: A schematic illustration visualizing how our finding of the calcium-Calpain-A-Importin
   α3 pathway extends the current feedback cycle of TDP-43 aggregation and NCT defects
   during ALS pathogenesis.
@@ -28,11 +30,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9634252
-figid_alias: PMC7748415__SF7_1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7748415__SF7_1
+figid_alias: PMC7748415__F7
+figtype: Figure
+redirect_from: /figures/PMC7748415__F7
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

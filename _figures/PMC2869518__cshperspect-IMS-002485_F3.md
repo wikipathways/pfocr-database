@@ -3,6 +3,9 @@ figid: PMC2869518__cshperspect-IMS-002485_F3
 figtitle: Proximal signaling events in the TCR-coupled signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2869518
 filename: cshperspect-IMS-002485_F3.jpg
 figlink: /pmc/articles/PMC2869518/figure/A002485F3/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9239634
 figid_alias: PMC2869518__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2869518__F3
 ndex: f07cb3a0-df0b-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,9 +58,9 @@ schema-jsonld:
   - drk
   - Sos
   - ca
+  - Vav
   - dock
   - Nckx30C
-  - Vav
   - inaC
   - Pkc98E
   - aPKC
@@ -110,10 +110,10 @@ schema-jsonld:
   - RASGRP2
   - RASGRP3
   - RASGRP4
-  - NCK1
   - VAV1
   - VAV2
   - VAV3
+  - NCK1
   - PRRT2
   - PRKCA
   - PRKCB

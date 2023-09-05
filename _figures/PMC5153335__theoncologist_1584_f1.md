@@ -3,6 +3,8 @@ figid: PMC5153335__theoncologist_1584_f1
 figtitle: KRAS pathway biology
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5153335
 filename: theoncologist_1584_f1.jpg
 figlink: /pmc/articles/PMC5153335/figure/F1/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.903
 figid_alias: PMC5153335__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5153335__F1
 ndex: a3bf4ca8-dea3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -76,8 +76,8 @@ schema-jsonld:
   - TRAP1
   - HSP90AB1
   - HSP90B2P
-  - RCE1
   - ICMT
+  - RCE1
   - Lonafarnib
   - Tipifarnib
   - Ridaforolimus

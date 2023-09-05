@@ -34,6 +34,19 @@ organisms:
 - NA
 - NA
 - NA
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Macaca mulatta
+- Mustela putorius furo
+- Canis lupus familiaris
+- Felis catus
+- Mesocricetus auratus
+- Macaca fascicularis
+- Sus scrofa
+- Pteropus vampyrus
+- Equus caballus
+- Drosophila melanogaster
 pmcid: PMC9228579
 filename: microorganisms-10-01162-g003.jpg
 figlink: /pmc/articles/PMC9228579/figure/microorganisms-10-01162-f003/
@@ -64,18 +77,6 @@ keywords: henipavirus infections | encephalitis | chiroptera | innate immunity |
 automl_pathway: 0.9460431
 figid_alias: PMC9228579__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Macaca mulatta
-- Mustela putorius furo
-- Canis lupus familiaris
-- Felis catus
-- Mesocricetus auratus
-- Macaca fascicularis
-- Sus scrofa
-- Pteropus vampyrus
-- Equus caballus
 redirect_from: /figures/PMC9228579__F3
 ndex: ''
 seo: CreativeWork
@@ -109,10 +110,10 @@ schema-jsonld:
   - JAK1
   - JAK2
   - JAK3
-  - STAT4
+  - STAT3
   - STAT5A
   - STAT5B
-  - STAT3
+  - STAT4
   - IRF9
   - GAST
   - GALNS
@@ -142,30 +143,51 @@ schema-jsonld:
   - TRG
   - HLA-C
   - EFNB2
-  - NEUROD1
-  - TUBB4B
   - EEF1B2P2
   - BHLHE22
+  - NEUROD1
+  - TUBB4B
   - ELK3
   - EPHB1
   - SLC6A2
   - Tyk2
   - Stat1
   - Stat2
-  - Stat4
-  - Stat5a
   - Stat3
+  - Stat5a
+  - Stat4
   - Irf9
   - Gast
   - Gnas
   - Trav6-3
   - H2
-  - Hbb-b2
-  - Neurod1
   - Cacnb3
   - Gabrb3
   - Bhlhe22
+  - Hbb-b2
+  - Neurod1
   - Elk3
   - Slc6a2
   - Ephb1
+  - hop
+  - bsk
+  - gas
+  - Galphas
+  - gd
+  - Stat92E
+  - Tcr
+  - Myo61F
+  - Mhc
+  - zip
+  - rb
+  - betaTub60D
+  - Prosbeta3
+  - Ephrin
+  - Prosbeta2
+  - betaTub85D
+  - nAChRbeta2
+  - net
+  - Neto
+  - NetA
+  - NetB
 ---

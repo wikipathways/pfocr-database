@@ -57,6 +57,14 @@ organisms:
 - human gut metagenome
 - Bos taurus
 - Gallus gallus
+organisms_ner:
+- Gallus gallus
+- Macaca mulatta
+- Homo sapiens
+- Mus musculus
+- Bos taurus
+- Cavia porcellus
+- Danio rerio
 pmcid: PMC9611604
 filename: microorganisms-10-01969-g007.jpg
 figlink: /pmc/articles/PMC9611604/figure/microorganisms-10-01969-f007/
@@ -84,14 +92,6 @@ keywords: quorum sensing | intestinal bacteria | health
 automl_pathway: 0.815165
 figid_alias: PMC9611604__F7
 figtype: Figure
-organisms_ner:
-- Gallus gallus
-- Macaca mulatta
-- Mus musculus
-- Homo sapiens
-- Bos taurus
-- Cavia porcellus
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC9611604__F7
 ndex: ''
 seo: CreativeWork
@@ -122,21 +122,10 @@ schema-jsonld:
   - ARNT
   - IFNG
   - IFNA3
-  - LITAF
   - IL22
+  - LITAF
   - AHR
   - TNF
-  - Ahr
-  - Nfkb1
-  - Esr1
-  - Eral1
-  - Ctnnb1
-  - Cyp1a1
-  - Arnt
-  - Ifng
-  - Tnf
-  - Lta
-  - Il22
   - NFKB1
   - RELA
   - RELB
@@ -146,7 +135,24 @@ schema-jsonld:
   - ERAL1
   - MIA3
   - LTA
-  - ahr
-  - era
-  - arnT
+  - Ahr
+  - Nfkb1
+  - Esr1
+  - Eral1
+  - Ctnnb1
+  - Cyp1a1
+  - Arnt
+  - Ifng
+  - Il22
+  - Lta
+  - Tnf
+  - esr1
+  - ctnnb1
+  - cyp1a
+  - arnt
+  - arnt2
+  - ifng1
+  - il22
+  - tnfb
+  - tnfa
 ---

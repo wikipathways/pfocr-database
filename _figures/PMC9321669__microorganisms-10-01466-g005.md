@@ -4,6 +4,9 @@ figtitle: 'Dissimilative Pathway of Komagataella phaffii (Pichia pastoris): Form
   Toxicity and Energy Metabolism'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9321669
 filename: microorganisms-10-01466-g005.jpg
 figlink: /pmc/articles/PMC9321669/figure/microorganisms-10-01466-f005/
@@ -30,9 +33,6 @@ keywords: Komagataella phaffii | Pichia pastoris | methanol | formaldehyde dehyd
 automl_pathway: 0.8918157
 figid_alias: PMC9321669__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9321669__F5
 ndex: ''
 seo: CreativeWork

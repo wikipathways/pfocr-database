@@ -4,6 +4,10 @@ figtitle: Proposed model for the effect of HPTE in the granulosa cell
 organisms:
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC2696328
 filename: toxscikfp089f05_ht.jpg
 figlink: /pmc/articles/PMC2696328/figure/fig5/
@@ -32,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9249273
 figid_alias: PMC2696328__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC2696328__F5
 ndex: d590c79a-dedf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -165,4 +166,35 @@ schema-jsonld:
   - Sf1
   - Nr5a1
   - Cyp19a1
+  - pt
+  - pe
+  - Actbeta
+  - dpp
+  - gbb
+  - put
+  - mav
+  - Wnt5
+  - Wnt4
+  - wg
+  - fs(1)h
+  - Lgr1
+  - br
+  - fz
+  - Galphas
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Smox
+  - Mad
+  - te
+  - sgg
+  - Akt
+  - arm
+  - Pka-C1
+  - Pka-R2
+  - Pka-C3
+  - Pka-R1
+  - Pka-C2
+  - vs
 ---

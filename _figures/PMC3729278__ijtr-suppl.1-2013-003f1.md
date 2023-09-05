@@ -7,6 +7,8 @@ organisms:
 - Oryza sativa
 - Zea mays
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC3729278
 filename: ijtr-suppl.1-2013-003f1.jpg
 figlink: /pmc/articles/PMC3729278/figure/f1-ijtr-suppl.1-2013-003/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9211338
 figid_alias: PMC3729278__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3729278__F1
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,8 @@ figid: PMC8238150__ajpregu.00259.2020_f001
 figtitle: '(Pro)renin receptor in the kidney: function and significance'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8238150
 filename: ajpregu.00259.2020_f001.jpg
 figlink: /pmc/articles/PMC8238150/figure/F0001/
@@ -36,8 +38,6 @@ keywords: blood pressure | kidney | prorenin receptor | sodium balance | water b
 automl_pathway: 0.9132425
 figid_alias: PMC8238150__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8238150__F1
 ndex: ''
 seo: CreativeWork
@@ -77,9 +77,9 @@ schema-jsonld:
   - NLRP3
   - AGT
   - AGXT
-  - MAPK3
   - EPHB2
   - MAPK1
+  - MAPK3
   - FZD1
   - FZD10
   - FZD2

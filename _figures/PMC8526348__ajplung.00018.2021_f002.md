@@ -4,6 +4,8 @@ figtitle: 'Toxic effects of cell-free hemoglobin on the microvascular endotheliu
   implications for pulmonary and nonpulmonary organ dysfunction'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8526348
 filename: ajplung.00018.2021_f002.jpg
 figlink: /pmc/articles/PMC8526348/figure/F0002/
@@ -50,8 +52,6 @@ keywords: endothelium | heme | hemoglobin | inflammation | lung injury | microva
 automl_pathway: 0.9191156
 figid_alias: PMC8526348__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8526348__F2
 ndex: ''
 seo: CreativeWork
@@ -116,8 +116,8 @@ schema-jsonld:
   - IPO5
   - VWF
   - TLR4
-  - VCAM1
   - ICAM1
+  - VCAM1
   - SELE
   - ELF3
   - CXCL8
@@ -148,13 +148,13 @@ schema-jsonld:
   - FGR
   - FYN
   - YES1
+  - ROCK1
+  - ROCK2
   - RHO
   - RHOD
   - RHOA
   - RHOB
   - RHOC
-  - ROCK1
-  - ROCK2
   - MMP1
   - MMP2
   - MMP3

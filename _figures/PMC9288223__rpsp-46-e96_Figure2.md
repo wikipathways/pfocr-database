@@ -4,6 +4,9 @@ figtitle: HEARTS clinical pathway for standardized hypertension treatment and CV
   risk management
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9288223
 filename: rpsp-46-e96_Figure2.jpg
 figlink: /pmc/articles/PMC9288223/figure/fig02/
@@ -25,8 +28,6 @@ keywords: Hypertension | cardiovascular diseases | primary health care | public 
 automl_pathway: 0.8086459
 figid_alias: PMC9288223__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9288223__F2
 ndex: ''
 seo: CreativeWork
@@ -56,9 +57,18 @@ schema-jsonld:
   - cal
   - Cam
   - 'On'
+  - cv-d
   - app
   - Appl
   - ApepP
   - APP-BP1
-  - cv-d
+  - NEUROG1
+  - PNMT
+  - MECP2
+  - ENOSF1
+  - FBLIM1
+  - GOPC
+  - CA1
+  - APP
+  - UBA2
 ---

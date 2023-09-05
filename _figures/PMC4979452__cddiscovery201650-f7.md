@@ -3,6 +3,8 @@ figid: PMC4979452__cddiscovery201650-f7
 figtitle: Cell adhesion
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f7.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig7/
@@ -43,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9197294
 figid_alias: PMC4979452__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F7
 ndex: f2f5d46c-df0c-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -125,8 +125,8 @@ schema-jsonld:
   - COL5A1
   - COL5A2
   - COL5A3
-  - HADHA
   - PLAT
+  - HADHA
   - MUPP
   - PMP2
   - TPSP1

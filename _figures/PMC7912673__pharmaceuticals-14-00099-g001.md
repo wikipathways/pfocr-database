@@ -3,6 +3,9 @@ figid: PMC7912673__pharmaceuticals-14-00099-g001
 figtitle: 'Panel (A): Mechanisms of drug inhibition on cellular pathways'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7912673
 filename: pharmaceuticals-14-00099-g001.jpg
 figlink: pmc/articles/PMC7912673/figure/pharmaceuticals-14-00099-f001/
@@ -35,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.8841149
 figid_alias: PMC7912673__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7912673__F1
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC5189614__theoncologist_15519_f1
 figtitle: Cellular control of hyperglycemia
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5189614
 filename: theoncologist_15519_f1.jpg
 figlink: /pmc/articles/PMC5189614/figure/F1/
@@ -27,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8653776
 figid_alias: PMC5189614__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5189614__F1
 ndex: 99a1658f-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -62,10 +63,10 @@ schema-jsonld:
   - SHC2
   - SHC3
   - SHC4
+  - GRB2
   - XYLT2
   - SOS1
   - SOS2
-  - GRB2
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -93,6 +94,32 @@ schema-jsonld:
   - EPHB2
   - MAPK1
   - MAPK3
+  - Egfr
+  - IRSp53
+  - IleRS
+  - chico
+  - Shc
+  - drk
+  - Sos
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ras
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Akt
+  - Dsor1
+  - Mtk
+  - Mtor
+  - Tor
+  - Erk7
+  - rl
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
   - rociletinib
   - afuresertib
   - temsirolimus

@@ -4,6 +4,8 @@ figtitle: Regulation of cellular senescence by transforming growth factor B (TGF
   signaling
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5378054
 filename: cshperspect-TGF-022145_F4.jpg
 figlink: /pmc/articles/PMC5378054/figure/A022145F4/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8763563
 figid_alias: PMC5378054__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5378054__F4
 ndex: 8e9f5707-dedc-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -47,13 +47,13 @@ schema-jsonld:
   - TGFB1
   - TGFB2
   - TGFB3
-  - SP1
-  - PSG1
-  - DAND5
   - FOXO1
   - FOXO3
   - FOXO4
   - FOXO6
+  - SP1
+  - PSG1
+  - DAND5
   - CEBPB
   - MYC
   - ZBTB17

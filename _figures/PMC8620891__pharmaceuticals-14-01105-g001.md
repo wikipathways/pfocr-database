@@ -4,6 +4,9 @@ figtitle: Potential Advantage of Targeting Both PD-L1/PD-L2/PD-1 and IL-10–IL-
   Pathways in Acute Myeloid Leukemia
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8620891
 filename: pharmaceuticals-14-01105-g001.jpg
 figlink: /pmc/articles/PMC8620891/figure/pharmaceuticals-14-01105-f001/
@@ -21,8 +24,6 @@ keywords: PD-1 | PD-L1 | IL-10 | acute myeloid leukemia | cancer
 automl_pathway: 0.9528522
 figid_alias: PMC8620891__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8620891__F1
 ndex: ''
 seo: CreativeWork
@@ -42,4 +43,18 @@ schema-jsonld:
   - cd
   - Tcr
   - Myo61F
+  - CD274
+  - PDCD1LG2
+  - HLA-C
+  - PDCD1
+  - RPL17
+  - RPL17-C18orf32
+  - CD8A
+  - CD8B
+  - TRBV20OR9-2
+  - TRA
+  - TRB
+  - TRD
+  - TRG
+  - APCS
 ---

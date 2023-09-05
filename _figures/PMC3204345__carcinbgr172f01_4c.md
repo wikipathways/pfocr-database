@@ -3,6 +3,8 @@ figid: PMC3204345__carcinbgr172f01_4c
 figtitle: Multiple Smad phosphoisoforms exist
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3204345
 filename: carcinbgr172f01_4c.jpg
 figlink: /pmc/articles/PMC3204345/figure/fig1/
@@ -36,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.6987401
 figid_alias: PMC3204345__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3204345__F1
 ndex: e0d25c40-df33-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -92,28 +91,4 @@ schema-jsonld:
   - sbe
   - nAChRalpha6
   - Ube3a
-  - TGFBR1
-  - KRAS
-  - HRAS
-  - NRAS
-  - SMAD2
-  - SMN1
-  - ADA2
-  - MAPK8
-  - MAPK9
-  - MAPK10
-  - CDK4
-  - MAPK1
-  - MAPK3
-  - MAPK11
-  - MAPK12
-  - MAPK13
-  - MAPK14
-  - SMAD1
-  - SMAD4
-  - SMAD5
-  - SMAD6
-  - SMAD7
-  - SMAD9
-  - SMAD3
 ---

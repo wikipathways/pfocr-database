@@ -5,6 +5,9 @@ figtitle: Cellular context of TLR5 engagement by UPEC FliC in the bladder leadin
 organisms:
 - Escherichia coli
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6881718
 filename: mSphere.00545-19-f0006.jpg
 figlink: /pmc/articles/PMC6881718/figure/fig6/
@@ -31,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9242596
 figid_alias: PMC6881718__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6881718__F6
 ndex: 5c94bd65-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,10 +56,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TLR1
-  - AKT1
-  - AKT2
-  - AKT3
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -69,28 +66,33 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - AKT1
+  - AKT2
+  - AKT3
+  - TLR1
   - TNF
+  - IL10
   - TLR2
   - RAC1
   - RNASE1
-  - IL10
+  - TLR6
   - IL18
   - TOLLIP
   - MYD88
   - TIRAP
-  - TLR6
-  - CASP8
-  - FADD
   - IL6
-  - IKBKG
+  - FADD
+  - CASP8
   - CHUK
-  - NFKB1
+  - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
   - IL12A
   - IL12B
   - LBP
   - EHHADH
   - RPSA
-  - IKBKB
   - NFKBIA
   - CD14
   - NDUFA2
@@ -98,11 +100,13 @@ schema-jsonld:
   - TAB1
   - CDH13
   - SCYL1
-  - CCL3
+  - TNPO1
+  - RPTOR
+  - MAPKAP1
   - CIAO2B
+  - TAB2
   - LY96
   - IRAK4
-  - TAB2
   - TLR4
   - MAP3K7
   - NR2C2
@@ -129,6 +133,8 @@ schema-jsonld:
   - JUN
   - JUNB
   - JUND
+  - MAP2K3
+  - MAP2K6
   - CRK
   - AIMP2
   - GRAP2
@@ -142,15 +148,28 @@ schema-jsonld:
   - MAP2K4
   - MAP2K7
   - CD40
-  - IRF5
   - CD80
+  - IRF5
   - CD86
+  - TLR7
   - IRF7
   - CTSK
   - TLR9
   - SPP1
-  - IFN1@
   - IFNA1
+  - TLR3
+  - TRAF3
+  - IRF3
+  - IFNB1
+  - TRIM69
+  - TICAM1
+  - CXCL10
+  - IFNAR2
+  - STAT1
+  - CXCL9
+  - NFKB1
+  - CCL3
+  - IFN1@
   - IFNA2
   - IFNA17
   - IFNA4
@@ -163,25 +182,51 @@ schema-jsonld:
   - IFNA14
   - IFNA16
   - IFNA21
-  - IKBKE
-  - TRAF3
-  - TBK1
-  - TRIM69
-  - TICAM1
-  - TLR3
-  - IRF3
-  - CXCL10
-  - CXCL9
   - CXCL11
-  - IFNAR2
-  - STAT1
-  - TNPO1
-  - RPTOR
-  - MAPKAP1
-  - MAP2K3
-  - MAP2K6
-  - TLR7
-  - IFNB1
+  - tlr1
+  - tnfa
+  - tnfb
+  - il10
+  - tlr2
+  - rac1a
+  - tollip
+  - myd88
+  - tirap
+  - il6
+  - fadd
+  - casp8
+  - tab1
+  - mipa
+  - tab2
+  - irak4
+  - traf6
+  - irak1
+  - map2k1
+  - tram1
+  - map2k6
+  - mapk14a
+  - ripk1l
+  - tlr5b
+  - map2k4a
+  - map2k7
+  - mapk8b
+  - cd40
+  - irf5
+  - tlr7
+  - irf7
+  - ctsk
+  - tlr9
+  - ifnphi1
+  - tlr3
+  - tbk1
+  - traf3
+  - irf3
+  - ticam1
+  - kita
+  - ngfra
+  - stat1a
+  - stat1b
+  - stat4
   - TRAM
   - Paracrine
   - 1-TAC

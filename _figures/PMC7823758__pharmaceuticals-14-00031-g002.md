@@ -5,6 +5,9 @@ figtitle: Experimental workflow of the N-terminomics/TAILS protocol using dimeth
   vehicle control
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7823758
 filename: pharmaceuticals-14-00031-g002.jpg
 figlink: pmc/articles/PMC7823758/figure/pharmaceuticals-14-00031-f002/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.675827
 figid_alias: PMC7823758__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7823758__F2
 ndex: ''
 seo: CreativeWork
@@ -65,5 +66,16 @@ schema-jsonld:
   - Andorra
   - Anp
   - Acam
+  - ERVK-8
+  - ERVK-10
+  - ERVK-9
+  - ERVK-21
+  - ERVK-18
+  - ERVK-25
+  - ERVK-24
+  - ERVK-19
+  - TNFSF14
+  - FBN1
+  - MS
   - Lysines
 ---

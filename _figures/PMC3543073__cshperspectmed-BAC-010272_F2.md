@@ -3,6 +3,8 @@ figid: PMC3543073__cshperspectmed-BAC-010272_F2
 figtitle: Three examples of chromatin-modifying complexes and their mode of action
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3543073
 filename: cshperspectmed-BAC-010272_F2.jpg
 figlink: /pmc/articles/PMC3543073/figure/A010272F2/
@@ -52,8 +54,6 @@ keywords: .na.character
 automl_pathway: 0.85406
 figid_alias: PMC3543073__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3543073__F2
 ndex: 80feb438-deee-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -106,10 +106,10 @@ schema-jsonld:
   - MAPK10
   - MTA1
   - JUN
-  - MBD3
-  - DPEP3
   - MBD2
   - DPEP2
+  - MBD3
+  - DPEP3
   - XIST
   - XIC
   - EED

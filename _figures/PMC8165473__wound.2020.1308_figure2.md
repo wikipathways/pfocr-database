@@ -4,6 +4,9 @@ figtitle: 'Anti-inflammatory and Proangiogenic Properties of High-Density Lipopr
   An Emerging Role in Diabetic Wound Healing'
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8165473
 filename: wound.2020.1308_figure2.jpg
 figlink: /pmc/articles/PMC8165473/figure/f2/
@@ -32,8 +35,6 @@ keywords: high-density lipoproteins | diabetes | anti-inflammatory | angiogenesi
 automl_pathway: 0.934541
 figid_alias: PMC8165473__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8165473__F2
 ndex: ''
 seo: CreativeWork
@@ -107,4 +108,27 @@ schema-jsonld:
   - SCARB1
   - CCL2
   - CXCL1
+  - Hdl
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Cam
+  - CaMKII
+  - Dif
+  - dl
+  - Rel
+  - wash
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - egr
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - cx
+  - Cli
+  - eya
 ---

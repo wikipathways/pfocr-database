@@ -3,6 +3,9 @@ figid: PMC4002851__13_165_crosswhitef1
 figtitle: Summary of molecular mechanisms involved in pulmonary remodeling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4002851
 filename: 13_165_crosswhitef1.jpg
 figlink: /pmc/articles/PMC4002851/figure/f1-13_165_crosswhite/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.974394
 figid_alias: PMC4002851__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4002851__F1
 ndex: 3ac3c08e-deb7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -107,6 +108,69 @@ schema-jsonld:
   - CaMKII
   - Jra
   - kay
+  - TGFB1
+  - TGFB2
+  - TGFB3
+  - EDN1
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - PGF
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - KRAS
+  - HRAS
+  - NRAS
+  - PLCG1
+  - PLCG2
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - RYR1
+  - RYR2
+  - RYR3
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - MYLK
+  - MYLK2
+  - MYLK3
+  - CCDC51
+  - ATP8A2
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - CALM1
+  - CALM2
+  - CALM3
+  - KRIT1
+  - CAMKMT
+  - JUN
+  - FOS
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome

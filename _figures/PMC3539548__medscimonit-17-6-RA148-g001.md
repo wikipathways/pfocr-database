@@ -4,6 +4,9 @@ figtitle: Host cell machinery gets activated during influenza infection and lead
   to trigger Signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3539548
 filename: medscimonit-17-6-RA148-g001.jpg
 figlink: /pmc/articles/PMC3539548/figure/f1-medscimonit-17-6-ra148/
@@ -29,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.964634
 figid_alias: PMC3539548__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3539548__F1
 ndex: 7b8ac93b-ded3-11ea-99da-0ac135e8bacf
 seo: CreativeWork

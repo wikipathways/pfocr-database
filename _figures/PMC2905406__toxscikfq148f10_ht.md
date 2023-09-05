@@ -4,6 +4,10 @@ figtitle: Illustration of GDNF signaling disruption by coated silver nanoparticl
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2905406
 filename: toxscikfq148f10_ht.jpg
 figlink: /pmc/articles/PMC2905406/figure/fig10/
@@ -31,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.875026
 figid_alias: PMC2905406__F10
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC2905406__F10
 ndex: ''
 seo: CreativeWork
@@ -58,22 +59,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GDNF
-  - GFRA1
-  - RET
-  - FYN
-  - AKT1
-  - AKT2
-  - AKT3
-  - PI3
-  - MYCN
   - ag
   - Gdnf
   - Gfra1
   - Ret
   - Fyn
-  - Akt1
   - Serpina1c
+  - Akt1
   - Mycn
+  - GDNF
+  - GFRA1
+  - RET
+  - FYN
+  - PI3
+  - AKT1
+  - AKT2
+  - AKT3
+  - MYCN
+  - reticulated
+  - reti
+  - rets
+  - Akt
   - Cancer
 ---

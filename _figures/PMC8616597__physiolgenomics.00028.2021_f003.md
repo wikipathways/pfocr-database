@@ -4,6 +4,8 @@ figtitle: Transcriptome analysis reveals disruption of circadian rhythms in late
   dairy cows may increase risk for fatty liver and reduced mammary remodeling
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8616597
 filename: physiolgenomics.00028.2021_f003.jpg
 figlink: /pmc/articles/PMC8616597/figure/F0003/
@@ -29,8 +31,6 @@ keywords: circadian disruption | liver | mammary | pregnancy | transcriptome
 automl_pathway: 0.9131229
 figid_alias: PMC8616597__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8616597__F3
 ndex: ''
 seo: CreativeWork

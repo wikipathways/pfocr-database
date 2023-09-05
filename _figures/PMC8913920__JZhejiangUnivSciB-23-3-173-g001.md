@@ -3,6 +3,8 @@ figid: PMC8913920__JZhejiangUnivSciB-23-3-173-g001
 figtitle: Emerging role of protein modification in inflammatory bowel disease
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8913920
 filename: JZhejiangUnivSciB-23-3-173-g001.jpg
 figlink: /pmc/articles/PMC8913920/figure/JZhejiangUnivSciB-23-3-173-g001/
@@ -30,9 +32,6 @@ keywords: Inflammatory bowel disease (IBD) | Protein modification | Neddylation 
 automl_pathway: 0.9523149
 figid_alias: PMC8913920__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8913920__F1
 ndex: ''
 seo: CreativeWork
@@ -68,9 +67,4 @@ schema-jsonld:
   - sima
   - et
   - E3
-  - NFKB1
-  - IL31RA
-  - NEDD8
-  - SENP8
-  - SETD2
 ---

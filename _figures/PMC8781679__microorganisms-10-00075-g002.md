@@ -4,6 +4,9 @@ figtitle: An Updated Review on the Modulation of Carbon Partitioning and Allocat
   in Arbuscular Mycorrhizal Plants
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8781679
 filename: microorganisms-10-00075-g002.jpg
 figlink: /pmc/articles/PMC8781679/figure/microorganisms-10-00075-f002/
@@ -38,9 +41,6 @@ keywords: arbuscular mycorrhiza | sucrose metabolism and translocation | lipid m
 automl_pathway: 0.9375732
 figid_alias: PMC8781679__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8781679__F2
 ndex: ''
 seo: CreativeWork
@@ -90,8 +90,8 @@ schema-jsonld:
   - Mst87F
   - Mst98Cb
   - Mst98Ca
-  - et
   - Ms
+  - et
   - Fas2
   - FASN1
   - Fas3

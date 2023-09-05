@@ -3,6 +3,8 @@ figid: PMC3086918__Fig1_VPHuggins
 figtitle: 'Mind the dbGAP: The Application of Data Mining to Identify Biological Mechanisms'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3086918
 filename: Fig1_VPHuggins.jpg
 figlink: /pmc/articles/PMC3086918/figure/f1-0110095/
@@ -46,8 +48,6 @@ keywords: .na.character
 automl_pathway: 0.868829
 figid_alias: PMC3086918__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3086918__F1
 ndex: ''
 seo: CreativeWork

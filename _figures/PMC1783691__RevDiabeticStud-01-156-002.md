@@ -4,6 +4,9 @@ figtitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabe
   Mellitus
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC1783691
 filename: RevDiabeticStud-01-156-002.jpg
 figlink: /pmc/articles/PMC1783691/figure/F2/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9259192
 figid_alias: PMC1783691__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC1783691__F2
 ndex: 37f4dca0-de9c-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -70,5 +71,25 @@ schema-jsonld:
   - gbb
   - put
   - mav
+  - PDCD1
+  - RPL17
+  - RPL17-C18orf32
+  - CTLA4
+  - RORC
+  - PDCD1LG2
+  - CD274
+  - HLA-C
+  - TRBV20OR9-2
+  - TRA
+  - TRB
+  - TRD
+  - TRG
+  - APC
+  - PROC
+  - CD28
+  - TGFB1
+  - TGFB2
+  - TGFB3
+  - IL10
   - Tryptophan
 ---

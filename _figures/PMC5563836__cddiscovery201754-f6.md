@@ -8,6 +8,9 @@ organisms:
 - Capra hircus
 - Homo sapiens
 - Armoracia rusticana
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC5563836
 filename: cddiscovery201754-f6.jpg
 figlink: /pmc/articles/PMC5563836/figure/fig6/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.79305
 figid_alias: PMC5563836__F6
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC5563836__F6
 ndex: ''
 seo: CreativeWork
@@ -50,8 +51,11 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - Hmgb1
-  - pl
-  - pk
   - Akt1
+  - pk
+  - pl
   - Il6
+  - Dsp1
+  - Akt
+  - pi
 ---

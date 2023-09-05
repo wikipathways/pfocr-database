@@ -5,6 +5,8 @@ figtitle: Metabolic reconstruction for some of the most important functions in t
   in  and ), dashed lines were used for incomplete pathways
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7761526
 filename: microorganisms-08-01880-g007.jpg
 figlink: pmc/articles/PMC7761526/figure/microorganisms-08-01880-f007/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9520139
 figid_alias: PMC7761526__F7
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7761526__F7
 ndex: ''
 seo: CreativeWork

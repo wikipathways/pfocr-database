@@ -14,6 +14,10 @@ organisms:
 - Homo sapiens
 - Oryctolagus cuniculus
 - prion
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Mus musculus
 pmcid: PMC3385960
 filename: cshperspect-TRA-013706_F1.jpg
 figlink: /pmc/articles/PMC3385960/figure/A013706F1/
@@ -47,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9239649
 figid_alias: PMC3385960__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3385960__F1
 ndex: ''
 seo: CreativeWork
@@ -88,4 +90,23 @@ schema-jsonld:
   - trnA
   - tRNA:Asp-GTC-1-9
   - bond
+  - EEF1A1
+  - EEF1A2
+  - HBS1L
+  - TIMP1
+  - EEF1B2
+  - EEF1B2P2
+  - EEF1G
+  - EEF1D
+  - EEF2
+  - YBX1
+  - TRNA
+  - Eif1a
+  - Ybx1
+  - Timp1
+  - Eef1b2
+  - Eef2
+  - Npr3
+  - Pstpip1
+  - TrnA
 ---

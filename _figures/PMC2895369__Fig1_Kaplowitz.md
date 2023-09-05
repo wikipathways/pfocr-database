@@ -3,6 +3,9 @@ figid: PMC2895369__Fig1_Kaplowitz
 figtitle: High-flux and low-flux systems of electron transfer pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2895369
 filename: Fig1_Kaplowitz.jpg
 figlink: /pmc/articles/PMC2895369/figure/f1-0100098/
@@ -47,9 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9544901
 figid_alias: PMC2895369__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2895369__F1
 ndex: ''
 seo: CreativeWork

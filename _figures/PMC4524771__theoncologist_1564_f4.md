@@ -3,6 +3,8 @@ figid: PMC4524771__theoncologist_1564_f4
 figtitle: Proposed anticancer mechanisms of itraconazole
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4524771
 filename: theoncologist_1564_f4.jpg
 figlink: /pmc/articles/PMC4524771/figure/F4/
@@ -27,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8503258
 figid_alias: PMC4524771__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4524771__F4
 ndex: ''
 seo: CreativeWork
@@ -58,14 +57,6 @@ schema-jsonld:
   - sm
   - Mtor
   - Tor
-  - IRF6
-  - SMO
-  - SMOX
-  - MTOR
-  - KDR
-  - DHH
-  - IHH
-  - SHH
   - Cholesterol
   - Itraconazole
 ---

@@ -4,6 +4,9 @@ figtitle: MSCs reduce a central profibrotic factor, TGFB1, using STC1 in bleomyc
   pulmonary fibrosis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4696838
 filename: ccrpm-suppl.1-2015-091f2.jpg
 figlink: /pmc/articles/PMC4696838/figure/f2-ccrpm-suppl.1-2015-091/
@@ -29,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9192669
 figid_alias: PMC4696838__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC4696838__F2
 ndex: ''
 seo: CreativeWork
@@ -53,10 +53,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - PI3
   - AKT1
   - AKT2
   - AKT3
+  - PI3
   - MTOR
   - GDF10
   - HSPA5

@@ -7,6 +7,9 @@ organisms:
 - Oryza sativa
 - Triticum aestivum
 - Homo sapiens
+organisms_ner:
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC516799
 filename: pbio.0020311.g003.jpg
 figlink: /pmc/articles/PMC516799/figure/pbio-0020311-g003/
@@ -36,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9394832
 figid_alias: PMC516799__F3
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC516799__F3
 ndex: 75d26bfd-deb6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -73,5 +74,20 @@ schema-jsonld:
   - ERF1
   - ERF-1
   - CNGC4
+  - CALCR
+  - SLC31A1
+  - CCDC174
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - ZFP36L1
+  - ETF1
+  - TFAP2C
   - Ethylene
 ---

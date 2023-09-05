@@ -3,6 +3,9 @@ figid: PMC3504431__cshperspect-CSD-008771_F1
 figtitle: MTOR pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3504431
 filename: cshperspect-CSD-008771_F1.jpg
 figlink: /pmc/articles/PMC3504431/figure/A008771F1/
@@ -41,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9253045
 figid_alias: PMC3504431__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3504431__F1
 ndex: 51aa0ad8-defa-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -79,6 +80,42 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pdk1
+  - rag
+  - RagA-B
+  - rags
+  - Erk7
+  - rl
+  - gig
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - sgg
+  - Tsc1
+  - SNF4Agamma
+  - AMPKalpha
+  - Rheb
+  - Crtc
+  - Mtor
+  - Tor
+  - rictor
+  - raptor
+  - PRAS40
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - S6k
+  - Atg1
+  - Thor
+  - pico
+  - Tpi
   - MAPKAP1
   - MTOR
   - RICTOR

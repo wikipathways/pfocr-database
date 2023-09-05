@@ -3,6 +3,9 @@ figid: PMC3783046__cshperspect-END-016816_F1
 figtitle: Organization of the endosomal pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3783046
 filename: cshperspect-END-016816_F1.jpg
 figlink: /pmc/articles/PMC3783046/figure/A016816F1/
@@ -36,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9537777
 figid_alias: PMC3783046__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3783046__F1
 ndex: ''
 seo: CreativeWork
@@ -76,5 +77,13 @@ schema-jsonld:
   - pls
   - Pis
   - Rab7
+  - PI3
+  - RAB5A
+  - CTSC
+  - CDIPT
+  - RAB7A
+  - RAB7B
+  - TG
+  - SERPINA4
   - Cholesterol
 ---

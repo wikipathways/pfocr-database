@@ -3,6 +3,8 @@ figid: PMC6028070__cshperspect-CYT-028571_F1
 figtitle: Cytokine signaling and their major negative regulators
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6028070
 filename: cshperspect-CYT-028571_F1.jpg
 figlink: pmc/articles/PMC6028070/figure/A028571F1/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9582163
 figid_alias: PMC6028070__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6028070__F1
 ndex: ''
 seo: CreativeWork
@@ -91,8 +91,8 @@ schema-jsonld:
   - FGFRL1
   - TRAF2
   - TANK
-  - FADD
   - TNFRSF1A
+  - FADD
   - KRAS
   - HRAS
   - NRAS

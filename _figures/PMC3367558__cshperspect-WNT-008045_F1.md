@@ -3,6 +3,9 @@ figid: PMC3367558__cshperspect-WNT-008045_F1
 figtitle: Wnt signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3367558
 filename: cshperspect-WNT-008045_F1.jpg
 figlink: /pmc/articles/PMC3367558/figure/A008045F1/
@@ -45,9 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9508614
 figid_alias: PMC3367558__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC3367558__F1
 ndex: 0a1ccc19-def3-11ea-99da-0ac135e8bacf
 seo: CreativeWork

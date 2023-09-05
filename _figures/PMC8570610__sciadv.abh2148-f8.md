@@ -3,6 +3,9 @@ figid: PMC8570610__sciadv.abh2148-f8
 figtitle: Diagram of PD-1 expression on BTICs and signaling through NFKB
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8570610
 filename: sciadv.abh2148-f8.jpg
 figlink: /pmc/articles/PMC8570610/figure/F8/
@@ -26,8 +29,6 @@ keywords: ''
 automl_pathway: 0.7621895
 figid_alias: PMC8570610__F8
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8570610__F8
 ndex: ''
 seo: CreativeWork
@@ -59,4 +60,19 @@ schema-jsonld:
   - mid
   - IKKbeta
   - Drice
+  - PDCD1
+  - RPL17
+  - RPL17-C18orf32
+  - CD274
+  - PTPN11
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - NFKB1
+  - RELB
+  - REL
+  - NFKB2
+  - CHUK
+  - IKBKB
 ---

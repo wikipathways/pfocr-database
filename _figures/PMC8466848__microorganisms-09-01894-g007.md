@@ -5,6 +5,8 @@ figtitle: RTG Signaling Sustains Mitochondrial Respiratory Capacity in HOG1-Depe
 organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8466848
 filename: microorganisms-09-01894-g007.jpg
 figlink: /pmc/articles/PMC8466848/figure/microorganisms-09-01894-f007/
@@ -28,8 +30,6 @@ keywords: RTG signaling | HOG1 | osmoadaptation | mitochondria | respiratory cap
 automl_pathway: 0.9505016
 figid_alias: PMC8466848__F7
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC8466848__F7
 ndex: ''
 seo: CreativeWork
@@ -51,8 +51,8 @@ schema-jsonld:
   keywords:
   - HOG1
   - RTG2
-  - RTG1
   - RTG3
+  - RTG1
   - CIT2
   - FPS1
 ---

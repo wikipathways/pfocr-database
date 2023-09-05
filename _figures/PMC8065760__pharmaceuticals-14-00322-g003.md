@@ -4,6 +4,10 @@ figtitle: Involvement of the significantly dysregulated microRNAs in renal cance
   signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Homo sapiens
 pmcid: PMC8065760
 filename: pharmaceuticals-14-00322-g003.jpg
 figlink: pmc/articles/PMC8065760/figure/pharmaceuticals-14-00322-f003/
@@ -31,10 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9573803
 figid_alias: PMC8065760__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC8065760__F3
 ndex: ''
 seo: CreativeWork
@@ -118,12 +118,12 @@ schema-jsonld:
   - MIR203A
   - MIR126
   - MIR34A
+  - MIR378A
   - VEGFA
   - VEGFB
   - VEGFC
   - VEGFD
   - PGF
-  - MIR378A
   - EGF
   - MIR100
   - TGFB1

@@ -3,6 +3,9 @@ figid: PMC2895370__Fig1_VPColburn
 figtitle: 'TLR4 signaling: The MyD88-dependent pathway through PDCD4'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2895370
 filename: Fig1_VPColburn.jpg
 figlink: /pmc/articles/PMC2895370/figure/f1-0100076/
@@ -25,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9388604
 figid_alias: PMC2895370__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC2895370__F1
 ndex: ''
 seo: CreativeWork

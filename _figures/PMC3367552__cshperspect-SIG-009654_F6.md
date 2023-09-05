@@ -4,6 +4,9 @@ figtitle: Interaction map showing potential links between the Par proteins and c
   of the Hippo pathway
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC3367552
 filename: cshperspect-SIG-009654_F6.jpg
 figlink: /pmc/articles/PMC3367552/figure/A009654F6/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9518197
 figid_alias: PMC3367552__F6
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3367552__F6
 ndex: e43ba462-def1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -50,28 +50,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - shg
-  - crb
-  - ex
-  - arm
-  - sdt
-  - alpha-Cat
-  - yki
-  - kibra
-  - 14-3-3zeta
-  - 14-3-3epsilon
+  - cdh-1
+  - pals-1
+  - par-5
   - par-6
-  - aPKC
-  - sav
-  - baz
-  - rho
-  - Bx
-  - Rho1
-  - Lcp65Ab1
-  - hpo
-  - hp
-  - wts
-  - Rok
+  - par-3
   - CDH1
   - FZR1
   - CTNNB1

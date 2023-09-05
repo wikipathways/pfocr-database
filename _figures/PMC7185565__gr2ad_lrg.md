@@ -3,6 +3,9 @@ figid: PMC7185565__gr2ad_lrg
 figtitle: Emerging Themes in PDZ Domain Signaling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7185565
 filename: gr2ad_lrg.jpg
 figlink: .na.character
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9502269
 figid_alias: PMC7185565__F2a
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7185565__F2a
 ndex: ''
 seo: CreativeWork
@@ -60,12 +60,12 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CASK
-  - Nrx-IV
-  - Nrx-1
   - Nlg2
   - Nlg3
   - Nlg1
   - Nlg4
+  - Nrx-IV
+  - Nrx-1
   - 5-HT1B
   - 5-HT1A
   - 5-HT2A
@@ -81,9 +81,9 @@ schema-jsonld:
   - Grip128
   - Prosap
   - ng2
-  - baz
-  - aPKC
   - par-6
+  - aPKC
+  - baz
   - tj
   - Patj
   - Magi
@@ -140,8 +140,8 @@ schema-jsonld:
   - CSPG4
   - GPX4
   - SMCP
-  - F2RL2
   - PWAR6
+  - F2RL2
   - F11R
   - PATJ
   - MPDZ

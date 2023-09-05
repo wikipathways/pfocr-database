@@ -4,6 +4,9 @@ figtitle: Targeting spike protein-induced TLR/NET axis by COVID-19 therapeutic N
   ameliorates pulmonary embolism and fibrosis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9443660
 filename: gr5a_lrg.jpg
 figlink: .na.character
@@ -31,9 +34,6 @@ keywords: '5-caffeoylquinic acid (PubChem CID: 5280633) | 3-caffeoylquinic acid 
 automl_pathway: 0.9396741
 figid_alias: PMC9443660__F5a
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9443660__F5a
 ndex: ''
 seo: CreativeWork

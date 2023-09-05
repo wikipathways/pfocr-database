@@ -3,6 +3,8 @@ figid: PMC7818013__JZhejiangUnivSciB-22-1-38-g003
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7818013
 filename: JZhejiangUnivSciB-22-1-38-g003.jpg
 figlink: pmc/articles/PMC7818013/figure/JZhejiangUnivSciB-22-1-38-f003/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9457192
 figid_alias: PMC7818013__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7818013__F3
 ndex: ''
 seo: CreativeWork
@@ -53,6 +53,7 @@ schema-jsonld:
   - RNF8
   - RNF168
   - UIMC1
+  - TP53BP1
   - ABRAXAS1
   - PAXIP1
   - RIF1

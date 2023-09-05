@@ -6,6 +6,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Meleagris gallopavo
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Meleagris gallopavo
+- Danio rerio
 pmcid: PMC3560666
 filename: medscimonit-18-1-BR33-g007.jpg
 figlink: /pmc/articles/PMC3560666/figure/f7-medscimonit-18-1-br33/
@@ -26,10 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8555007
 figid_alias: PMC3560666__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Meleagris gallopavo
 redirect_from: /figures/PMC3560666__F7
 ndex: 0f3dd772-df20-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -104,4 +105,23 @@ schema-jsonld:
   - Bcl2l1
   - Csk
   - IL1RN
+  - kita
+  - ngfra
+  - ell
+  - ela2
+  - birc2
+  - mpx
+  - ptprc
+  - tpo
+  - thpo
+  - cblc
+  - mmachc
+  - anxa1a
+  - anpepb.1
+  - il1b
+  - cd226
+  - birc6
+  - prok2
+  - bcl2l1
+  - csk
 ---

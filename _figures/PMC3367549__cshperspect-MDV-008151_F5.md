@@ -3,6 +3,9 @@ figid: PMC3367549__cshperspect-MDV-008151_F5
 figtitle: Notch pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3367549
 filename: cshperspect-MDV-008151_F5.jpg
 figlink: /pmc/articles/PMC3367549/figure/A008151F5/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8700704
 figid_alias: PMC3367549__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3367549__F5
 ndex: 1c496430-deb5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,9 +57,9 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - dsl
-  - eIF3j
   - Tace
   - Lst
+  - eIF3j
   - .na.character
   - Cor
   - cort
@@ -69,4 +70,20 @@ schema-jsonld:
   - E(spl)m8-HLH
   - Coa
   - mam
+  - ASCL1
+  - ADAM17
+  - PHGDH
+  - SEPTIN7
+  - CSHL1
+  - RBPJ
+  - SMPX
+  - RRBP1
+  - HES1
+  - HES2
+  - HES3
+  - HES4
+  - HES5
+  - HES6
+  - HES7
+  - SGCG
 ---

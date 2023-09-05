@@ -7,6 +7,11 @@ organisms:
 - Aepyceros melampus
 - Homo sapiens
 - Rattus norvegicus
+organisms_ner:
+- Rattus norvegicus
+- Bos taurus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7047255
 filename: biores.2020.0005_figure7.jpg
 figlink: pmc/articles/PMC7047255/figure/f7/
@@ -43,10 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9001281
 figid_alias: PMC7047255__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Bos taurus
 redirect_from: /figures/PMC7047255__F7
 ndex: ''
 seo: CreativeWork
@@ -80,6 +81,51 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Wnt2
+  - Ptch1
+  - Smo
+  - Bmpr2
+  - Axin1
+  - Ctnnb1
+  - Gsk3b
+  - Smad5
+  - Smad1
+  - Smad9
+  - Gli3
+  - Smad4
+  - Gli1
+  - Hip1
+  - Msx2
+  - Runx2
+  - Runx1
+  - Sp7
+  - COX1
+  - Pdlim3
+  - Ccn2
+  - Bglap
+  - Spp1
+  - Sgpp1
+  - Ibsp
+  - Ahsg
+  - Msc
+  - PTCH1
+  - SMO
+  - BMPR2
+  - CTNNB1
+  - GSK3B
+  - SMAD5
+  - SMAD1
+  - GLI3
+  - SMAD4
+  - GLI1
+  - HIP1
+  - MSX2
+  - RUNX2
+  - SP7
+  - CCN2
+  - BGLAP
+  - SPP1
+  - MSC
   - BMP1
   - BMP2
   - BMP3
@@ -116,35 +162,20 @@ schema-jsonld:
   - WNT16
   - WNT5A
   - WNT5B
-  - PTCH1
-  - SMO
   - SMOX
-  - BMPR2
-  - AXIN1
-  - AXIN2
   - ADAR
   - DVL1P1
-  - CTNNB1
-  - GSK3B
-  - SMAD1
-  - SMAD4
-  - SMAD5
+  - AXIN1
+  - AXIN2
+  - GARS1
+  - SMAD9
   - SMAD6
   - SMAD7
-  - SMAD9
   - SMAD2
   - SMAD3
-  - GARS1
-  - GLI3
-  - GLI1
-  - HIP1
   - SETD2
   - HNF4A
-  - MSX2
-  - RUNX2
   - RUNX1
-  - SP7
-  - COX1
   - ALPP
   - ATHS
   - SLPI
@@ -153,39 +184,30 @@ schema-jsonld:
   - PDLIM3
   - NAT10
   - ASRGL1
-  - CCN2
-  - BGLAP
-  - SPP1
   - CXXC1
   - SGPP1
   - IBSP
-  - MSC
   - SLC25A37
   - FBN1
-  - Wnt2
-  - Ptch1
-  - Smo
-  - Bmpr2
-  - Axin1
-  - Ctnnb1
-  - Gsk3b
-  - Smad9
-  - Smad5
-  - Smad1
-  - Gli3
-  - Smad4
-  - Gli1
-  - Hip1
-  - Msx2
-  - Runx2
-  - Runx1
-  - Sp7
-  - Pdlim3
-  - Ccn2
-  - Bglap
-  - Spp1
-  - Sgpp1
-  - Ibsp
-  - Ahsg
-  - Msc
+  - ptch1
+  - ptch2
+  - smo
+  - ctnnb1
+  - gsk3ba
+  - smad5
+  - smad1
+  - gli3
+  - smad4a
+  - smad4b
+  - gli1
+  - hip1
+  - elk4
+  - sp7
+  - alpl
+  - pdlim3b
+  - ccn2a
+  - ccn2b
+  - bglap
+  - spp1
+  - msc
 ---

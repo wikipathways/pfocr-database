@@ -34,6 +34,9 @@ organisms:
 - metagenome
 - Cerdocyon thous
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6872982
 filename: 41564_2017_Article_BFnmicrobiol2016195_Fig2_HTML.jpg
 figlink: /pmc/articles/PMC6872982/figure/Fig2/
@@ -63,8 +66,6 @@ keywords: .na.character
 automl_pathway: 0.7136459
 figid_alias: PMC6872982__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6872982__F2
 ndex: ''
 seo: CreativeWork
@@ -91,6 +92,29 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - SPTA1
+  - HPP1
+  - ABCB6
+  - S100A8
+  - S100A9
+  - LBR
+  - TRAP
+  - ACP5
+  - CD40LG
+  - TRAF2
+  - TRRAP
+  - TDRD7
+  - SCYL1
+  - so
+  - dsr
+  - CycE
+  - cyc
+  - SRPK
+  - form3
+  - fs(1)N
+  - Mi-2
+  - im
+  - om
   - Acetate
   - Glutamine
   - Pyruvate

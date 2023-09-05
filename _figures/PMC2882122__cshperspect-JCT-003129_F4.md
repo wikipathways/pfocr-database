@@ -4,6 +4,9 @@ figtitle: Selection of expression patterns and activities of members of the cadh
   superfamily in cancer
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2882122
 filename: cshperspect-JCT-003129_F4.jpg
 figlink: /pmc/articles/PMC2882122/figure/A003129F4/
@@ -55,9 +58,6 @@ keywords: .na.character
 automl_pathway: 0.9281531
 figid_alias: PMC2882122__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC2882122__F4
 ndex: fd7774df-df0b-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -114,9 +114,9 @@ schema-jsonld:
   - FAT4
   - GPI
   - GNPDA1
+  - CDH10
   - CDH1
   - FZR1
-  - CDH10
   - PCDH11Y
   - PCDH11X
   - SAV1
@@ -171,9 +171,9 @@ schema-jsonld:
   - FGFR3
   - FGFR4
   - FGFRL1
-  - CPA1
-  - CHPT1
-  - DHDDS
+  - LYPLA2P1
+  - ENPEP
+  - ATM
   - TEAD1
   - TEAD2
   - TEAD3
@@ -220,16 +220,17 @@ schema-jsonld:
   - Plc21C
   - btl
   - htl
-  - cpa
-  - Cpt
-  - CG7149
-  - CPT2
+  - apt
+  - ap
+  - Apart
+  - en
+  - Sap-r
   - sd
-  - pan
   - Tcp
+  - pan
   - EndoA
-  - ar
   - aa
+  - ar
   - Dsor1
   - hep
   - CBP

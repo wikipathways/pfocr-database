@@ -3,6 +3,9 @@ figid: PMC2645299__PROCATS5115fig2
 figtitle: Calcium Signaling in Airway Smooth Muscle
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2645299
 filename: PROCATS5115fig2.jpg
 figlink: /pmc/articles/PMC2645299/figure/fig2/
@@ -36,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9645529
 figid_alias: PMC2645299__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2645299__F2
 ndex: ecb68b14-debe-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,4 +78,19 @@ schema-jsonld:
   - RyR
   - sr
   - SERCA
+  - FGFR3
+  - GJA1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - CD38
+  - CRYGD
+  - FKBP1B
+  - RYR1
+  - RYR2
+  - RYR3
+  - ATP2A1
+  - ATP2A2
+  - ATP2A3
 ---

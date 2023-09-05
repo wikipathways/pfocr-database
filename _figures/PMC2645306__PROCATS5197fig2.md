@@ -3,6 +3,9 @@ figid: PMC2645306__PROCATS5197fig2
 figtitle: Migration of Airway Smooth Muscle Cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2645306
 filename: PROCATS5197fig2.jpg
 figlink: /pmc/articles/PMC2645306/figure/fig2/
@@ -38,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9438261
 figid_alias: PMC2645306__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2645306__F2
 ndex: 01ca38d5-df02-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -100,11 +100,11 @@ schema-jsonld:
   - lic
   - Dsor1
   - Mtk
+  - MKP-4
   - p38b
+  - rl
   - p38a
   - p38c
-  - MKP-4
-  - rl
   - Nurf-38
   - Ebp
   - AIMP2
@@ -119,10 +119,10 @@ schema-jsonld:
   - WASp
   - Hsp27
   - tsr
-  - zip
   - sqh
   - Mhc
   - Mlc2
+  - zip
   - Arp2
   - Act5C
   - Act42A

@@ -3,6 +3,9 @@ figid: PMC4979485__cddiscovery201659-f1
 figtitle: LINP1 regulation and role in the NHEJ DNA-repair pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4979485
 filename: cddiscovery201659-f1.jpg
 figlink: /pmc/articles/PMC4979485/figure/fig1/
@@ -25,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9485185
 figid_alias: PMC4979485__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4979485__F1
 ndex: adc6ebaa-ded0-11ea-99da-0ac135e8bacf
 seo: CreativeWork

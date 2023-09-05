@@ -3,6 +3,10 @@ figid: PMC3245473__jexboterr284f01_ht
 figtitle: Carotenoid biosynthetic pathway in higher plants
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC3245473
 filename: jexboterr284f01_ht.jpg
 figlink: /pmc/articles/PMC3245473/figure/fig1/
@@ -30,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.8455915
 figid_alias: PMC3245473__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
-- Drosophila melanogaster
 redirect_from: /figures/PMC3245473__F1
 ndex: ''
 seo: CreativeWork
@@ -57,15 +58,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CLA1
-  - DXR
-  - PSY
-  - PDS3
-  - Z-ISO
-  - ZDS
-  - CRTISO
-  - AT1G09330
-  - ABA1
   - Gapdh2
   - CdGAPr
   - Gapdh1
@@ -85,6 +77,23 @@ schema-jsonld:
   - bch
   - psq
   - Gfat1
+  - CLA1
+  - DXR
+  - PSY
+  - PDS3
+  - Z-ISO
+  - ZDS
+  - CRTISO
+  - AT1G09330
+  - ABA1
+  - RASA1
+  - RGS6
+  - IDS
+  - IPP
+  - SLC26A4
+  - PTGDS
+  - CHN2
+  - NKX2-1
   - Violaxanthin
   - 9-cis-neoxanthin
   - DMAPP

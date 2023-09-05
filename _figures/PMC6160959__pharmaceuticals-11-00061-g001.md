@@ -3,6 +3,8 @@ figid: PMC6160959__pharmaceuticals-11-00061-g001
 figtitle: Genetic, phenotypic and functional overlap across autoimmune disorders
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6160959
 filename: pharmaceuticals-11-00061-g001.jpg
 figlink: /pmc/articles/PMC6160959/figure/pharmaceuticals-11-00061-f001/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.6576117
 figid_alias: PMC6160959__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC6160959__F1
 ndex: ''
 seo: CreativeWork

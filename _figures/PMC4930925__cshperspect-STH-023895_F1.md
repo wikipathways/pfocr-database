@@ -3,6 +3,8 @@ figid: PMC4930925__cshperspect-STH-023895_F1
 figtitle: Transcriptional gene switches
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4930925
 filename: cshperspect-STH-023895_F1.jpg
 figlink: /pmc/articles/PMC4930925/figure/A023895F1/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8622605
 figid_alias: PMC4930925__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4930925__F1
 ndex: ''
 seo: CreativeWork

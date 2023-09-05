@@ -3,10 +3,12 @@ figid: PMC7558951__pharmaceuticals-13-00211-sch024
 figtitle: Synthetic pathway to obtain selenouridine-containing oligonucleotides
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7558951
 filename: pharmaceuticals-13-00211-sch024.jpg
 figlink: pmc/articles/PMC7558951/figure/pharmaceuticals-13-00211-sch024/
-number: S24
+number: SF24
 caption: Synthetic pathway to obtain selenouridine-containing oligonucleotides.
 papertitle: 'Sweet Selenium: Synthesis and Properties of Selenium-Containing Sugars
   and Derivatives.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9009138
-figid_alias: PMC7558951__S24
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7558951__S24
+figid_alias: PMC7558951__SF24
+figtype: Supplemental figure
+redirect_from: /figures/PMC7558951__SF24
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

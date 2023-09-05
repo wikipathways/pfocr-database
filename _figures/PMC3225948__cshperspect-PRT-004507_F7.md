@@ -4,6 +4,10 @@ figtitle: Three arms of the unfolded protein response stress-responsive signalin
   pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Caenorhabditis elegans
 pmcid: PMC3225948
 filename: cshperspect-PRT-004507_F7.jpg
 figlink: /pmc/articles/PMC3225948/figure/A004507F7/
@@ -32,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9639329
 figid_alias: PMC3225948__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3225948__F7
 ndex: d51bcab7-ded5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -75,4 +77,22 @@ schema-jsonld:
   - EIF2S3
   - EIF2S2
   - MBTPS2
+  - Xbp1
+  - PPP1R15
+  - Ero1L
+  - Atf6
+  - crc
+  - bip
+  - Hsc70-3
+  - Ire1
+  - PEK
+  - rl
+  - eIF2alpha
+  - eIF2beta
+  - S2P
+  - xbp-1
+  - ero-1
+  - atf-6
+  - atf-4
+  - ire-1
 ---

@@ -6,6 +6,10 @@ organisms:
 - Mycobacterium avium
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9419985
 filename: wound.2021.0065_figure2.jpg
 figlink: /pmc/articles/PMC9419985/figure/f2/
@@ -39,9 +43,6 @@ keywords: hematopoietic stem cell | myelopoiesis | myeloid progenitor | bone mar
 automl_pathway: 0.9086046
 figid_alias: PMC9419985__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC9419985__F2
 ndex: ''
 seo: CreativeWork
@@ -139,4 +140,27 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - Toll-4
+  - MKP-4
+  - p38b
+  - rl
+  - JIL-1
+  - Dif
+  - dl
+  - Rel
+  - hop
+  - bsk
+  - tf
+  - drk
+  - Ras64B
+  - Ras85D
+  - Erk7
+  - Src42A
+  - Csk
+  - Src64B
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
 ---

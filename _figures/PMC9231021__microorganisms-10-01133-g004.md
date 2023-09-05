@@ -4,6 +4,9 @@ figtitle: 'Microbial Production Potential of Pantoea ananatis: From Amino Acids 
   Secondary Metabolites'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9231021
 filename: microorganisms-10-01133-g004.jpg
 figlink: /pmc/articles/PMC9231021/figure/microorganisms-10-01133-f004/
@@ -24,8 +27,6 @@ keywords: Pantoea ananatis | microbial production | L-glutamate | L-cysteine | i
 automl_pathway: 0.9330097
 figid_alias: PMC9231021__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9231021__F4
 ndex: ''
 seo: CreativeWork
@@ -43,8 +44,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - gcd
-  - 'Off'
   - 'On'
+  - 'Off'
   - CycE
   - cyc
   - pi
@@ -52,4 +53,11 @@ schema-jsonld:
   - Idi
   - Mvd
   - gpp
+  - GCDH
+  - GUCY2EP
+  - MVK
+  - PMVK
+  - MVD
+  - LINS1
+  - MSX2
 ---

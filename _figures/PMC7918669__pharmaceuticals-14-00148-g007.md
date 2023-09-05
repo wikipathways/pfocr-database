@@ -3,6 +3,9 @@ figid: PMC7918669__pharmaceuticals-14-00148-g007
 figtitle: 5-HT2C receptor signaling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7918669
 filename: pharmaceuticals-14-00148-g007.jpg
 figlink: pmc/articles/PMC7918669/figure/pharmaceuticals-14-00148-f007/
@@ -38,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9128047
 figid_alias: PMC7918669__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7918669__F7
 ndex: ''
 seo: CreativeWork
@@ -101,6 +102,64 @@ schema-jsonld:
   - sl
   - Plc21C
   - snRNA:U12
+  - HTR2C
+  - COX1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - GPLD1
+  - PLD1
+  - PLD2
+  - PLD3
+  - PLD4
+  - PLD5
+  - PLD6
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - ITPR1
+  - ITPR3
+  - PSD
+  - PISD
+  - FBXL15
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - AKT1
+  - AKT2
+  - AKT3
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - RNU12-2P
+  - SNORD13P1
+  - SNORD13P2
+  - SNORD13P3
+  - SNORD13
   - PLA
   - QArachidonic acid
 ---

@@ -23,6 +23,15 @@ organisms:
 - Mus musculus
 - Saccharomyces cerevisiae
 - unidentified shuttle vector
+organisms_ner:
+- Mycobacterium tuberculosis H37Rv
+- Mycobacteroides abscessus
+- Mycobacterium avium subsp. hominissuis
+- Mycolicibacterium smegmatis
+- Neisseria gonorrhoeae
+- Actinobacillus pleuropneumoniae
+- Mus musculus
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7285101
 filename: microorganisms-08-00698-g008.jpg
 figlink: pmc/articles/PMC7285101/figure/microorganisms-08-00698-f008/
@@ -44,13 +53,6 @@ keywords: .na.character
 automl_pathway: 0.5256966
 figid_alias: PMC7285101__F8
 figtype: Figure
-organisms_ner:
-- Mycobacterium tuberculosis H37Rv
-- Mycobacteroides abscessus
-- Mycobacterium avium subsp. hominissuis
-- Mycolicibacterium smegmatis
-- Neisseria gonorrhoeae
-- Actinobacillus pleuropneumoniae
 redirect_from: /figures/PMC7285101__F8
 ndex: ''
 seo: CreativeWork
@@ -82,6 +84,15 @@ schema-jsonld:
   - nirD
   - nirB
   - mraY
+  - Cavin4
+  - Trim54
+  - Pou4f3
+  - Minar1
+  - Hps3
+  - Myc
+  - ddlB
+  - panE
+  - narK
   - UDP
   - MurNAc
   - UDP-MurNAc-L-Ala

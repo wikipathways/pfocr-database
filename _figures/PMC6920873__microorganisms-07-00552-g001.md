@@ -3,6 +3,8 @@ figid: PMC6920873__microorganisms-07-00552-g001
 figtitle: The fatty acid ethyl ester (FAEE) biosynthesis in bacteria
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6920873
 filename: microorganisms-07-00552-g001.jpg
 figlink: /pmc/articles/PMC6920873/figure/microorganisms-07-00552-f001/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9563143
 figid_alias: PMC6920873__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC6920873__F1
 ndex: ''
 seo: CreativeWork

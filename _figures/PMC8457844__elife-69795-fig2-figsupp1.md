@@ -4,10 +4,13 @@ figtitle: Classically known renin angiotensin pathway and the inhibitors identif
   from our high throughput screen
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8457844
 filename: elife-69795-fig2-figsupp1.jpg
 figlink: /pmc/articles/PMC8457844/figure/fig2s1/
-number: F2
+number: SF2_1
 caption: Olmesartan, captopril, and aliskiren are antihypertensive medications working
   on the Renin-Angiotensin Signaling (RAAS) pathway by blocking the binding of angiotensin
   II to the receptor, inhibiting the conversion of angiotensin I to angiotensin II,
@@ -28,11 +31,9 @@ keywords: phenotypic screening | glucocerebrosidase (GBA) | parkin, pink1, a-syn
   dj-1 | nitroreductase (NTR)-metronidazole (MTZ) | time to Levodopa (L-dopa) | electronic
   health records (EHR) | D. melanogaster | Human | Zebrafish
 automl_pathway: 0.9491847
-figid_alias: PMC8457844__F2
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC8457844__F2
+figid_alias: PMC8457844__SF2_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC8457844__SF2_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -56,4 +57,11 @@ schema-jsonld:
   - ACE
   - AGTR1
   - AGTR2
+  - ace
+  - fgf8a
+  - aplnra
+  - zbtb11
+  - agtr2
+  - kita
+  - ngfra
 ---

@@ -4,6 +4,8 @@ figtitle: Branched pathway as related to bacterial growth rate
 organisms:
 - Megasphaera elsdenii
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7694653
 filename: microorganisms-08-01742-g003.jpg
 figlink: pmc/articles/PMC7694653/figure/microorganisms-08-01742-f003/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.7671686
 figid_alias: PMC7694653__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7694653__F3
 ndex: ''
 seo: CreativeWork

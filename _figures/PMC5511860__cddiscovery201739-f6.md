@@ -6,6 +6,11 @@ organisms:
 - Mus musculus
 - Bos taurus
 - clinical samples
+organisms_ner:
+- Homo sapiens
+- Bos taurus
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC5511860
 filename: cddiscovery201739-f6.jpg
 figlink: /pmc/articles/PMC5511860/figure/fig6/
@@ -26,10 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9232352
 figid_alias: PMC5511860__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Bos taurus
-- Mus musculus
 redirect_from: /figures/PMC5511860__F6
 ndex: dbb06223-df0d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -84,4 +85,15 @@ schema-jsonld:
   - Cd44
   - Itk
   - Slc22a3
+  - Mad
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Smox
+  - rb
+  - CG11700
+  - AP-2alpha
+  - TfAP-2
 ---

@@ -4,6 +4,9 @@ figtitle: 'Oncogene Overdose: Too Much of a Bad Thing for Oncogene-Addicted Canc
   Cells'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4681422
 filename: bic-suppl.2-2015-025f1.jpg
 figlink: /pmc/articles/PMC4681422/figure/f1-bic-suppl.2-2015-025/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.79827
 figid_alias: PMC4681422__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4681422__F1
 ndex: aba91445-df25-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,6 +64,43 @@ schema-jsonld:
   - bsk
   - Stat92E
   - Akt
+  - MTG1
+  - KRAS
+  - HRAS
+  - NRAS
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - NPM1
+  - ALK
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
+  - SOAT1
+  - STAT1
+  - STAT2
+  - STAT3
+  - STAT4
+  - STAT6
+  - STAT5A
+  - STAT5B
+  - AKT1
+  - AKT2
+  - AKT3
   - Selumetinib
   - Trametinib
   - Dabrafenib

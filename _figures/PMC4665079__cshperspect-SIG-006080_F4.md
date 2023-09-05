@@ -3,6 +3,8 @@ figid: PMC4665079__cshperspect-SIG-006080_F4
 figtitle: Death receptor signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4665079
 filename: cshperspect-SIG-006080_F4.jpg
 figlink: /pmc/articles/PMC4665079/figure/A006080F4/
@@ -41,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9606661
 figid_alias: PMC4665079__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4665079__F4
 ndex: 42c867a2-dedd-11ea-99da-0ac135e8bacf
 seo: CreativeWork

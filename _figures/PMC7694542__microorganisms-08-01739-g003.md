@@ -15,6 +15,11 @@ organisms:
 - Myxococcus hansupus
 - Corallococcus exiguus
 - Cyanagraea praedator
+organisms_ner:
+- Corallococcus exiguus
+- Myxococcus xanthus DK 1622
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7694542
 filename: microorganisms-08-01739-g003.jpg
 figlink: pmc/articles/PMC7694542/figure/microorganisms-08-01739-f003/
@@ -55,10 +60,6 @@ keywords: .na.character
 automl_pathway: 0.8644862
 figid_alias: PMC7694542__F3
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-- Corallococcus exiguus
-- Myxococcus xanthus DK 1622
 redirect_from: /figures/PMC7694542__F3
 ndex: ''
 seo: CreativeWork
@@ -99,14 +100,55 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - carA
-  - ptsG
-  - mrp
-  - ftsH
-  - hemL
-  - csgA
-  - fruA
-  - luxS
   - mrpC
+  - ftsH
+  - crt
+  - Calr
+  - CysRS
+  - cha
+  - ChAT
+  - Actbeta
+  - espc
+  - MRP
+  - Mhc
+  - RNaseMRP:RNA
+  - sas
+  - NANS
+  - Ebp
+  - Hsf
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Dredd
+  - btl
+  - ali
+  - alpha-Est7
+  - ARR3
+  - CALCR
+  - CALR
+  - SLC6A8
+  - CARF
+  - CDKN2AIP
+  - PEDS1
+  - CARS1
+  - TCFL5
+  - ACTB
+  - POTEF
+  - ACTA1
+  - ACTC1
+  - ABCC1
+  - MARCKSL1
+  - WLS
+  - TSPAN31
+  - EBP
+  - GLB1
+  - SH3D19
+  - YME1L1
+  - XS
+  - NLRP3
+  - IGKV2D-19
+  - CA2
   - c-di-GMP
   - Al-I
   - Al-II

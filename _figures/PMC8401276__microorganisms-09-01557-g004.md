@@ -64,6 +64,11 @@ organisms:
 - Rhodothermus clarus
 - Homo sapiens
 - NA
+organisms_ner:
+- Schizosaccharomyces pombe
+- Zymoseptoria tritici IPO323
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8401276
 filename: microorganisms-09-01557-g004.jpg
 figlink: /pmc/articles/PMC8401276/figure/microorganisms-09-01557-f004/
@@ -102,11 +107,6 @@ keywords: arbuscular mycorrhizal fungi | nutrient signaling pathways | cAMP/PKA 
 automl_pathway: 0.9349574
 figid_alias: PMC8401276__F4
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Schizosaccharomyces pombe
-- Zymoseptoria tritici IPO323
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8401276__F4
 ndex: ''
 seo: CreativeWork
@@ -142,59 +142,84 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TPD3
+  - ure2
+  - gtr1
+  - gtr2
+  - prp10
+  - tip41
+  - tor1
+  - tor2
+  - tco89
+  - maf1
+  - bit61
+  - fhl1
+  - MEP
+  - SIT4
+  - TOR1
+  - TOR2
+  - CTSL
+  - NLN
+  - NPEPPS
+  - CAV1
+  - PPP4C
+  - SLC6A1
+  - ABL2
+  - RERE
+  - RRAGC
+  - SF3B1
+  - NM
+  - ERVW-4
+  - TIPRL
+  - RBBP8
+  - RIMS1
+  - RPTOR
+  - MLST8
+  - MAF1
+  - FKBP1A
+  - FKBP1AP1
+  - FKBP1AP2
+  - FKBP1AP3
+  - FKBP1AP4
+  - CRTC2
+  - RICTOR
+  - CRHR1
+  - FHL1
+  - CFH
+  - CFHR1
+  - HPLH1
   - RTS1
   - CDC55
+  - TPD3
+  - PPH3
   - PPH22
   - PPH21
-  - PPH3
   - URE2
-  - GLN3
   - GAT1
   - GPT2
+  - GLN3
   - SSY1
   - GTR1
   - PPG1
-  - SIT4
   - GTR2
   - MEH1
-  - SAP155
   - SAP4
+  - SAP155
   - SLM4
   - MSN2
   - GIS1
   - TIP41
   - TAP42
-  - RRD1
   - RRD2
+  - RRD1
   - RIM15
-  - TOR2
-  - TOR1
-  - LST8
   - KOG1
+  - LST8
   - TCO89
   - SCH9
-  - MAF1
   - TSC11
   - AVO1
   - AVO2
   - BIT61
   - CRF1
   - YNR048W
-  - FHL1
-  - ure2
-  - gtr1
-  - gtr2
-  - prp10
-  - tip41
-  - tor2
-  - tor1
-  - tco89
-  - maf1
-  - bit61
-  - fhl1
-  - MEP
-  - carA
-  - rna
-  - torI
 ---

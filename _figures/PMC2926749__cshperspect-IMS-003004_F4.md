@@ -3,6 +3,9 @@ figid: PMC2926749__cshperspect-IMS-003004_F4
 figtitle: Proposed model for MALT1 function in NFKB activation
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC2926749
 filename: cshperspect-IMS-003004_F4.jpg
 figlink: /pmc/articles/PMC2926749/figure/A003004F4/
@@ -31,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9539304
 figid_alias: PMC2926749__F4
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC2926749__F4
 ndex: ''
 seo: CreativeWork

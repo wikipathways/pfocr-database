@@ -16,7 +16,7 @@ btn-class: "btn-wikipathways btn-pill"
 <p>Browse the subset of pathway figures below that have been manually translated into WikiPathways models.</p>
 <hr/><br/>
 {% assign sorted_figures = site.figures | sort: "year" | reverse %}
-<ul>
+<ul> 
   {% for pw in sorted_figures %}
     {% if pw.wpid and pw.wpid != '' %}
       <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms | join: "," }})</em></a>

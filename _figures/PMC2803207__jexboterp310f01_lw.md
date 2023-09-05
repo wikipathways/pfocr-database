@@ -4,6 +4,9 @@ figtitle: Simplified representation of the D-mannose/L-galactose L-ascorbic acid
   pathway in higher plants
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
+- Saccharomyces cerevisiae S288C
 pmcid: PMC2803207
 filename: jexboterp310f01_lw.jpg
 figlink: /pmc/articles/PMC2803207/figure/fig1/
@@ -27,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.939932
 figid_alias: PMC2803207__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC2803207__F1
 ndex: ''
 seo: CreativeWork

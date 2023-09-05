@@ -4,6 +4,8 @@ figtitle: 'Finding Homes for Orphan Cytochrome P450s: CYP4V2 and CYP4F22 in Dise
   States'
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3109859
 filename: Fig6_REVRettie.jpg
 figlink: /pmc/articles/PMC3109859/figure/f6-0110124/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9286134
 figid_alias: PMC3109859__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3109859__F6
 ndex: ''
 seo: CreativeWork

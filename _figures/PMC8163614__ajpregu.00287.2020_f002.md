@@ -3,6 +3,9 @@ figid: PMC8163614__ajpregu.00287.2020_f002
 figtitle: B2-Adrenergic receptor agonism as a therapeutic strategy for kidney disease
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8163614
 filename: ajpregu.00287.2020_f002.jpg
 figlink: /pmc/articles/PMC8163614/figure/F0002/
@@ -26,9 +29,6 @@ keywords: adrenergic | β2AR | electrolyte | fluid | kidney
 automl_pathway: 0.9051819
 figid_alias: PMC8163614__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8163614__F2
 ndex: ''
 seo: CreativeWork
@@ -62,11 +62,11 @@ schema-jsonld:
   - Neto
   - NetA
   - NetB
-  - na
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
+  - na
   - mn
   - AR
   - PRRT2
@@ -83,10 +83,10 @@ schema-jsonld:
   - TBK1
   - DNAH8
   - BRD2
+  - ADRB2
   - ELK3
   - EPHB1
   - SLC6A2
-  - ADRB2
   - HDAC8
   - WNK4
   - SLC12A3

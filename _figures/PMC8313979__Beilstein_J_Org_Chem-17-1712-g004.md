@@ -4,6 +4,8 @@ figtitle: Systems-based framework to computationally describe putative transcrip
   factors and signaling pathways regulating glycan biosynthesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8313979
 filename: Beilstein_J_Org_Chem-17-1712-g004.jpg
 figlink: /pmc/articles/PMC8313979/figure/F3/
@@ -27,8 +29,6 @@ keywords: ChIP-Seq | glycoinformatics | glycosylation | TCGA transcription facto
 automl_pathway: 0.8039812
 figid_alias: PMC8313979__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8313979__F3
 ndex: ''
 seo: CreativeWork

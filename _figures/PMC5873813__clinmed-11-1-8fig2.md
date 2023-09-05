@@ -4,6 +4,8 @@ figtitle: Broad overview of the genetic architecture of inflammatory bowel disea
   giving examples of confirmed and candidate genes implicated in each pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5873813
 filename: clinmed-11-1-8fig2.jpg
 figlink: /pmc/articles/PMC5873813/figure/figure2/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.6505652
 figid_alias: PMC5873813__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5873813__F2
 ndex: 324757a7-df2d-11ea-99da-0ac135e8bacf
 seo: CreativeWork

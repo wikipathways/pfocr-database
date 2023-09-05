@@ -3,6 +3,8 @@ figid: PMC1828287__RevDiabeticStud-03-161-001
 figtitle: Diabetes and Alzheimer's Disease - Is There a Connection?
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC1828287
 filename: RevDiabeticStud-03-161-001.jpg
 figlink: /pmc/articles/PMC1828287/figure/F1/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8779622
 figid_alias: PMC1828287__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC1828287__F1
 ndex: 4404ddb9-df18-11ea-99da-0ac135e8bacf
 seo: CreativeWork

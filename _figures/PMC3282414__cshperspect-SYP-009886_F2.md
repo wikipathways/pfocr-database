@@ -4,6 +4,9 @@ figtitle: Synaptic Dysfunction in Neurodevelopmental Disorders Associated with A
   and Intellectual Disabilities
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3282414
 filename: cshperspect-SYP-009886_F2.jpg
 figlink: /pmc/articles/PMC3282414/figure/A009886F2/
@@ -31,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.895359
 figid_alias: PMC3282414__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3282414__F2
 ndex: 99c4b89c-de8e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -83,15 +84,40 @@ schema-jsonld:
   - MTOR
   - PRB1
   - SHANK2
-  - TSC1
-  - CCL26
-  - TSC2
   - SLC12A3
+  - TSC1
   - TESC
+  - TSC2
+  - CCL26
   - EIF4E
   - EML1
   - ARC
   - NOL3
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Nf1
+  - Prosap
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Pten
+  - Pdk1
+  - Akt
+  - Mtor
+  - Tor
+  - as
+  - Tsc
+  - Tsc1
+  - gig
+  - eIF4E1
+  - TyrRS
+  - 'On'
+  - Arc1
+  - Dark
+  - .na.character
   - Glutamate
   - Cancer
 ---

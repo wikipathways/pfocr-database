@@ -3,6 +3,8 @@ figid: PMC4665079__cshperspect-SIG-006080_F6
 figtitle: Autophagic signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4665079
 filename: cshperspect-SIG-006080_F6.jpg
 figlink: /pmc/articles/PMC4665079/figure/A006080F6/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9234266
 figid_alias: PMC4665079__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4665079__F6
 ndex: ed502167-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -71,10 +71,10 @@ schema-jsonld:
   - ATG16L1
   - ULK1
   - BECN1
-  - PIK3R4
   - PIK3C3
-  - RB1CC1
+  - PIK3R4
   - ATG13
+  - RB1CC1
   - ATG3
   - PRKAA1
   - PRKAA2
@@ -88,6 +88,6 @@ schema-jsonld:
   - SNAP29
   - DYNLL1
   - VAMP8
-  - LAMP1
   - LAMP2
+  - LAMP1
 ---

@@ -9,6 +9,10 @@ organisms:
 - Mus musculus
 - Schistosoma mansoni
 - Escherichia coli O111B4
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC8234963
 filename: pharmaceuticals-14-00588-g006.jpg
 figlink: /pmc/articles/PMC8234963/figure/pharmaceuticals-14-00588-f006/
@@ -28,9 +32,6 @@ keywords: piplartine | macrophage | inflammation | NLRP3 inflammasome | sepsis
 automl_pathway: 0.9596668
 figid_alias: PMC8234963__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8234963__F6
 ndex: ''
 seo: CreativeWork
@@ -64,13 +65,13 @@ schema-jsonld:
   - PYCARD
   - NLRP3
   - ATP8A2
-  - IL6
+  - TNF
   - COX2
   - PTGS2
   - MTCO2P12
+  - IL6
   - NOS2
   - ISYNA1
-  - TNF
   - P2RX7
   - IL18
   - Tlr4
@@ -84,9 +85,19 @@ schema-jsonld:
   - Nfkb1
   - Pycard
   - Nlrp3
-  - Il6
-  - Ptgs2
-  - Nos2
   - Tnf
+  - Ptgs2
+  - Il6
+  - Nos2
   - Il18
+  - mapk3
+  - tram1
+  - mapk8b
+  - tirap
+  - myd88
+  - pycard
+  - nlrp3
+  - tnfrsfa
+  - tnfb
+  - il6
 ---

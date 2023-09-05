@@ -3,6 +3,8 @@ figid: PMC7557662__plantbiotechnology-37-3-20.0413a-figure01
 figtitle: Figure 1. Biosynthetic pathway leading to antraquinone glucosides
 organisms:
 - Rheum palmatum
+organisms_ner:
+- NA
 pmcid: PMC7557662
 filename: plantbiotechnology-37-3-20.0413a-figure01.jpg
 figlink: pmc/articles/PMC7557662/figure/figure1/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9508575
 figid_alias: PMC7557662__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7557662__F1
 ndex: ''
 seo: CreativeWork

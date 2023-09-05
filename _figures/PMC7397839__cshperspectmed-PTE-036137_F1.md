@@ -3,6 +3,9 @@ figid: PMC7397839__cshperspectmed-PTE-036137_F1
 figtitle: Metabolic Role of PTEN in Insulin Signaling and Resistance
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7397839
 filename: cshperspectmed-PTE-036137_F1.jpg
 figlink: /pmc/articles/PMC7397839/figure/PIMPTEA036137F1/
@@ -29,9 +32,6 @@ keywords: ''
 automl_pathway: 0.963615
 figid_alias: PMC7397839__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7397839__F1
 ndex: ''
 seo: CreativeWork
@@ -75,8 +75,8 @@ schema-jsonld:
   - Pi3K68D
   - Pi3K92E
   - drk
-  - Shc
   - Sos
+  - Shc
   - ras
   - Ras64B
   - Ras85D
@@ -108,13 +108,13 @@ schema-jsonld:
   - PIK3R1
   - PIK3R2
   - GRB2
+  - XYLT2
+  - SOS1
+  - SOS2
   - SHC1
   - SHC2
   - SHC3
   - SHC4
-  - XYLT2
-  - SOS1
-  - SOS2
   - KRAS
   - HRAS
   - NRAS

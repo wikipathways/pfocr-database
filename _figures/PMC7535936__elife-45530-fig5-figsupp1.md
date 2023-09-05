@@ -43,10 +43,15 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - other sequences
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Danio rerio
+- Xenopus laevis
 pmcid: PMC7535936
 filename: elife-45530-fig5-figsupp1.jpg
 figlink: pmc/articles/PMC7535936/figure/fig5s1/
-number: SF5_1
+number: F5
 caption: (A) Nodal binds to its cell surface receptor in the presence of the co-receptor
   EGF-CFC, activating the resulting complex. After phosphorylation, the Smad2/Smad4
   complex translocates to the nucleus. Upon binding of the transcription factor FoxH1,
@@ -65,13 +70,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9496636
-figid_alias: PMC7535936__SF5_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Danio rerio
-redirect_from: /figures/PMC7535936__SF5_1
+figid_alias: PMC7535936__F5
+figtype: Figure
+redirect_from: /figures/PMC7535936__F5
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -119,4 +120,19 @@ schema-jsonld:
   - actr2a
   - actr2b
   - acvr1ba
+  - lefty.L
+  - nodal1.L
+  - nodal.L
+  - nodal1.S
+  - gdf3.S
+  - gdf1.S
+  - smad2.L
+  - smad2.S
+  - smad4.L
+  - smad4.S
+  - foxh1.L
+  - acvr2a.L
+  - acvr2a.S
+  - acvr1b.S
+  - acvr1b.L
 ---

@@ -4,6 +4,8 @@ figtitle: Activity-dependent gene expression in neurons
 organisms:
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2790391
 filename: cercorbhm206f01_ht.jpg
 figlink: /pmc/articles/PMC2790391/figure/fig1/
@@ -30,9 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9109054
 figid_alias: PMC2790391__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC2790391__F1
 ndex: b30b3fed-df09-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,8 +76,4 @@ schema-jsonld:
   - ATF1
   - ATF2
   - FOS
-  - Bdnf
-  - Ntrk2
-  - Creb1
-  - Fos
 ---

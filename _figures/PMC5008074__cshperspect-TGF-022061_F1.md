@@ -3,6 +3,8 @@ figid: PMC5008074__cshperspect-TGF-022061_F1
 figtitle: Transforming growth factor B (TGFB) receptors and signal transducers
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5008074
 filename: cshperspect-TGF-022061_F1.jpg
 figlink: /pmc/articles/PMC5008074/figure/A022061F1/
@@ -36,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.8928403
 figid_alias: PMC5008074__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5008074__F1
 ndex: 9cc34e60-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,14 +76,4 @@ schema-jsonld:
   - drosha
   - CR
   - tf
-  - SMAD1
-  - SMAD4
-  - SMAD5
-  - SMAD6
-  - SMAD7
-  - SMAD9
-  - SMAD2
-  - SMAD3
-  - DROSHA
-  - TF
 ---

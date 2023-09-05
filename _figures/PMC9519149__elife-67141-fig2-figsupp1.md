@@ -6,10 +6,15 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Danio rerio
 pmcid: PMC9519149
 filename: elife-67141-fig2-figsupp1.jpg
 figlink: /pmc/articles/PMC9519149/figure/fig2s1/
-number: F2
+number: SF2_1
 caption: Related to .
 papertitle: 7-Dehydrocholesterol-derived oxysterols cause neurogenic defects in Smith-Lemli-Opitz
   syndrome.
@@ -22,13 +27,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: smith-lemli-opitz syndrome | 7-dehydrocholesterol | oxysterol | neurogenesis
   | glucocorticoid receptor | cortical development | Human | Mouse
 automl_pathway: 0.6285388
-figid_alias: PMC9519149__F2
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-redirect_from: /figures/PMC9519149__F2
+figid_alias: PMC9519149__SF2_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC9519149__SF2_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -58,4 +59,8 @@ schema-jsonld:
   - Dhcr7
   - Hars2
   - Hmox2-ps1
+  - dhcr24
+  - sc5d
+  - ebp
+  - dhcr7
 ---

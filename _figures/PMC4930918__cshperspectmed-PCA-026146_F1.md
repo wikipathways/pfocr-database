@@ -3,6 +3,8 @@ figid: PMC4930918__cshperspectmed-PCA-026146_F1
 figtitle: p53 integrates metabolic stress signals to direct cell metabolism
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4930918
 filename: cshperspectmed-PCA-026146_F1.jpg
 figlink: /pmc/articles/PMC4930918/figure/A026146F1/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9745075
 figid_alias: PMC4930918__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4930918__F1
 ndex: 4965f592-debf-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC3809585__cshperspect-RTK-009076_F3
 figtitle: TAM-regulated cycle of inflammation in dendritic cells
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3809585
 filename: cshperspect-RTK-009076_F3.jpg
 figlink: /pmc/articles/PMC3809585/figure/A009076F3/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.6304036
 figid_alias: PMC3809585__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3809585__F3
 ndex: 200cdacf-df37-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -82,10 +83,10 @@ schema-jsonld:
   - TICAM1
   - TRAF3
   - TRAF6
-  - CDK9
   - TAB1
   - TAB2
   - TAB3
+  - CDK9
   - EPHB2
   - MAPK1
   - MAPK3
@@ -106,4 +107,16 @@ schema-jsonld:
   - JUND
   - AXL
   - GAS6
+  - kita
+  - ngfra
+  - stat1b
+  - stat4
+  - tlr3
+  - ticam1
+  - traf3
+  - traf6
+  - mapk14a
+  - axl
+  - foxa2
+  - gas6
 ---

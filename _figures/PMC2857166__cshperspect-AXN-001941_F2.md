@@ -4,6 +4,8 @@ figtitle: Regulation of receptor activation and signaling by proteolytic process
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2857166
 filename: cshperspect-AXN-001941_F2.jpg
 figlink: /pmc/articles/PMC2857166/figure/A001941F2/
@@ -35,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9506227
 figid_alias: PMC2857166__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC2857166__F2
 ndex: ''
 seo: CreativeWork
@@ -67,34 +66,15 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Adam10
-  - Dcc
-  - Abcc6
-  - Sit1
-  - Loca1
-  - ADAM10
-  - DCC
-  - ROBO1
-  - ROBO2
-  - ROBO3
-  - SIT1
-  - EPHB1
-  - EPHB2
-  - EPHB3
-  - EPHB4
-  - EPHB6
-  - NTN1
-  - NTN3
-  - NTN4
-  - EPHA1
-  - EPHA2
-  - EPHA3
-  - EPHA4
-  - EPHA5
-  - EPHA6
-  - EPHA7
-  - EPHA8
-  - EPHA10
-  - GNPTAB
-  - TRA-TGC7-1
+  - kuz
+  - Kul
+  - fra
+  - robo3
+  - robo1
+  - robo2
+  - sit
+  - rasp
+  - NetA
+  - NetB
+  - as
 ---

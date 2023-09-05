@@ -4,6 +4,9 @@ figtitle: Activity-dependent gene expression in neurons is regulated by distinct
   signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3220353
 filename: cshperspect-CAL-004564_F2.jpg
 figlink: /pmc/articles/PMC3220353/figure/A004564F2/
@@ -42,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9377313
 figid_alias: PMC3220353__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3220353__F2
 ndex: 4e31c15b-df07-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -102,6 +103,45 @@ schema-jsonld:
   - mal
   - bs
   - S6kII
+  - KRAS
+  - HRAS
+  - NRAS
+  - CALM1
+  - CALM2
+  - CALM3
+  - KRIT1
+  - CAMKMT
+  - CAMKK2
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - CAMK1
+  - CAMK4
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - CREBBP
+  - EIF4E
+  - OPN1LW
+  - PAG1
+  - PCBP4
+  - EPHB2
+  - MAPK1
+  - MAPK3
+  - HNF4A
+  - SRF
+  - RPS6KA3
   - Cancer
   - Cardiomyopathy
   - Noonan syndrome

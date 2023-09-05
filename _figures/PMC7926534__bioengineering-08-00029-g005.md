@@ -19,6 +19,8 @@ organisms:
 - Homo sapiens
 - Oryctolagus cuniculus
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7926534
 filename: bioengineering-08-00029-g005.jpg
 figlink: pmc/articles/PMC7926534/figure/bioengineering-08-00029-f005/
@@ -38,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.7988309
 figid_alias: PMC7926534__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7926534__F5
 ndex: ''
 seo: CreativeWork
@@ -57,6 +57,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - PTPN5
+  - PHB1
+  - ERVK-9
+  - ERVK-11
+  - ERVK-19
   - Acetyl-CoA
   - B-ketoacyl-CoA
   - Acetoacetyl-CoA

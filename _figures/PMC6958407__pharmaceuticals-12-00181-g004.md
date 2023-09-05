@@ -3,6 +3,9 @@ figid: PMC6958407__pharmaceuticals-12-00181-g004
 figtitle: Proposed model for modulations of Hippo pathway by PDEF
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6958407
 filename: pharmaceuticals-12-00181-g004.jpg
 figlink: /pmc/articles/PMC6958407/figure/pharmaceuticals-12-00181-f004/
@@ -27,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9544309
 figid_alias: PMC6958407__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6958407__F4
 ndex: ''
 seo: CreativeWork
@@ -55,9 +55,9 @@ schema-jsonld:
   - MPST
   - TAM
   - MSTO1
-  - STK3
   - MST1
   - STK4
+  - STK3
   - SPDEF
   - LATS2
   - LATS1

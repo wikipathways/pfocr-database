@@ -4,6 +4,9 @@ figtitle: Patterning of the early Drosophila embryo
 organisms:
 - Drosophila melanogaster
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3405863
 filename: cshperspect-SIG-005975_F1.jpg
 figlink: /pmc/articles/PMC3405863/figure/A005975F1/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9251928
 figid_alias: PMC3405863__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3405863__F1
 ndex: ''
 seo: CreativeWork
@@ -92,9 +93,9 @@ schema-jsonld:
   - Raf
   - Dsor1
   - hep
+  - zen
   - dpp
   - DppIII
-  - zen
   - Alg3
   - MKP-4
   - p38b
@@ -106,10 +107,35 @@ schema-jsonld:
   - ap
   - Poxn
   - sna
-  - Tailor
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
+  - Tailor
   - twi
+  - RASA1
+  - RGS6
+  - DHH
+  - IHH
+  - SHH
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - DSPP
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
+  - SNAI1
 ---

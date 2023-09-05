@@ -3,6 +3,8 @@ figid: PMC6160959__pharmaceuticals-11-00061-g005
 figtitle: Orlistat from PxEA perspective
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6160959
 filename: pharmaceuticals-11-00061-g005.jpg
 figlink: /pmc/articles/PMC6160959/figure/pharmaceuticals-11-00061-f005/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.783429
 figid_alias: PMC6160959__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6160959__F5
 ndex: fc36dcfc-df21-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,16 +58,15 @@ schema-jsonld:
   - MAPK3
   - APOA1
   - YWHAZ
+  - IGHG1
   - KRAS
   - HRAS
   - NRAS
-  - IGHG1
-  - MAPK13
   - GRB2
   - ADAM10
-  - YWHAE
   - LPL
   - LCP1
+  - YWHAE
   - FASN
   - ARRB2
   - MGLL
@@ -79,5 +78,6 @@ schema-jsonld:
   - BEX3
   - MAGED1
   - NOTCH1
+  - MAPK13
   - Orlistat
 ---

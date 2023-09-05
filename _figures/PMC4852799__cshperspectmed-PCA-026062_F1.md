@@ -4,6 +4,9 @@ figtitle: Appropriate activation and feedback control of TP53 activity is critic
   to effective tumor suppression
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4852799
 filename: cshperspectmed-PCA-026062_F1.jpg
 figlink: /pmc/articles/PMC4852799/figure/A026062F1/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9357284
 figid_alias: PMC4852799__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4852799__F1
 ndex: fe069822-dea0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -74,18 +75,18 @@ schema-jsonld:
   - LAMTOR2
   - SF3B6
   - H3P8
-  - CHEK1
   - CHEK2
+  - CHEK1
   - CDKN2D
   - F9
   - REG1A
   - IL23A
   - H3P13
-  - ATM
   - ATR
   - ANTXR1
   - MMAB
   - SERPINA2
+  - ATM
   - RCHY1
   - MDM4
   - COP1
@@ -100,4 +101,11 @@ schema-jsonld:
   - ADCY8
   - ADCY9
   - ADCY10
+  - tp53
+  - mdm2
+  - rab1ab
+  - nsg2
+  - atr
+  - atm
+  - cop1
 ---

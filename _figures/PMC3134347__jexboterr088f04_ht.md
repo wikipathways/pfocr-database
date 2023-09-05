@@ -11,6 +11,11 @@ organisms:
 - Sorghum bicolor
 - Oryza sativa Japonica Group
 - Oryza sativa Indica Group
+organisms_ner:
+- Solanum lycopersicum
+- Oryza sativa Japonica Group
+- Zea mays
+- Arabidopsis thaliana
 pmcid: PMC3134347
 filename: jexboterr088f04_ht.jpg
 figlink: /pmc/articles/PMC3134347/figure/fig4/
@@ -32,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9331892
 figid_alias: PMC3134347__F4
 figtype: Figure
-organisms_ner:
-- Solanum lycopersicum
 redirect_from: /figures/PMC3134347__F4
 ndex: ''
 seo: CreativeWork
@@ -58,6 +61,28 @@ schema-jsonld:
   - SUS4
   - AGP-S2
   - GBSS1
+  - LOC4331775
+  - LOC4340386
+  - LOC4343910
+  - LOC4332788
+  - LOC4335790
+  - AGPS2
+  - LOC4334290
+  - LOC4340677
+  - LOC4340018
+  - LOC541615
+  - LOC542091
+  - LOC541902
+  - LOC732804
+  - LOC541854
+  - SUC2
+  - SUS2
+  - SUS3
+  - UGP1
+  - BT2
+  - BT1
+  - GPT1
+  - ILA
   - Fructose
   - Glucose
   - Sucrose

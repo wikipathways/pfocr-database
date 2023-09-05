@@ -3,6 +3,9 @@ figid: PMC8954136__microorganisms-10-00617-g001
 figtitle: Microbiota, IgA and Multiple Sclerosis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8954136
 filename: microorganisms-10-00617-g001.jpg
 figlink: /pmc/articles/PMC8954136/figure/microorganisms-10-00617-f001/
@@ -27,8 +30,6 @@ keywords: IgA | gut microbiota | multiple sclerosis | neuroinflammation | regula
 automl_pathway: 0.8218288
 figid_alias: PMC8954136__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8954136__F1
 ndex: ''
 seo: CreativeWork
@@ -64,4 +65,11 @@ schema-jsonld:
   - Rdl
   - Gabat
   - Dsk
+  - FGFR3
+  - GBA1
+  - GBA1LP
+  - GBA3
+  - HPSE
+  - CCK
+  - RIPK2
 ---

@@ -3,6 +3,8 @@ figid: PMC3119916__cshperspect-PRT-007559_F4
 figtitle: Mitochondrial proteins and the ubiquitin-proteasome system
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3119916
 filename: cshperspect-PRT-007559_F4.jpg
 figlink: /pmc/articles/PMC3119916/figure/A007559F4/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9369278
 figid_alias: PMC3119916__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3119916__F4
 ndex: ''
 seo: CreativeWork

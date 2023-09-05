@@ -3,6 +3,10 @@ figid: PMC3101847__cshperspect-PRT-004440_F1
 figtitle: Pathways that regulate aging
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC3101847
 filename: cshperspect-PRT-004440_F1.jpg
 figlink: /pmc/articles/PMC3101847/figure/A004440F1/
@@ -22,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9653661
 figid_alias: PMC3101847__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3101847__F1
 ndex: ba8fdc53-ded2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -57,6 +58,14 @@ schema-jsonld:
   - Thor
   - Sirt1
   - longevity
+  - daf-2
+  - age-1
+  - daf-18
+  - hsf-1
+  - daf-16
+  - skn-1
+  - smk-1
+  - pha-4
   - IGF1
   - PRKAA1
   - PRKAA2

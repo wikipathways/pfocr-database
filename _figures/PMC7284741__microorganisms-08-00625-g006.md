@@ -3,6 +3,8 @@ figid: PMC7284741__microorganisms-08-00625-g006
 figtitle: Proposed metabolic degradation pathway of azoxystrobin in strain SH14
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7284741
 filename: microorganisms-08-00625-g006.jpg
 figlink: pmc/articles/PMC7284741/figure/microorganisms-08-00625-f006/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.5072303
 figid_alias: PMC7284741__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7284741__F6
 ndex: ''
 seo: CreativeWork

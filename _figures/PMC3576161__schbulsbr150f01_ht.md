@@ -3,6 +3,9 @@ figid: PMC3576161__schbulsbr150f01_ht
 figtitle: Folate metabolic pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3576161
 filename: schbulsbr150f01_ht.jpg
 figlink: /pmc/articles/PMC3576161/figure/fig1/
@@ -21,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9414974
 figid_alias: PMC3576161__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3576161__F1
 ndex: afbded50-dee8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -115,6 +116,17 @@ schema-jsonld:
   - TRMT61B
   - TRMT9B
   - ACSM3
+  - Rf-c
+  - CG8142
+  - RfC4
+  - Gnf1
+  - CG8517
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - comt
+  - sah
   - folate
   - Met
 ---

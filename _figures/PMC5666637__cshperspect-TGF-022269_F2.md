@@ -4,6 +4,8 @@ figtitle: Summary of the transforming growth factor B (TGFB) signaling pathway a
   mutations causing connective tissue disorders
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5666637
 filename: cshperspect-TGF-022269_F2.jpg
 figlink: /pmc/articles/PMC5666637/figure/A022269F2/
@@ -43,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.8960102
 figid_alias: PMC5666637__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5666637__F2
 ndex: a38e4053-df14-11ea-99da-0ac135e8bacf
 seo: CreativeWork

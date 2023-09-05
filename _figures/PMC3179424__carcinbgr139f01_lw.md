@@ -3,6 +3,8 @@ figid: PMC3179424__carcinbgr139f01_lw
 figtitle: Sex steroid hormone biosynthesis and metabolism pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3179424
 filename: carcinbgr139f01_lw.jpg
 figlink: /pmc/articles/PMC3179424/figure/fig1/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.7615303
 figid_alias: PMC3179424__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3179424__F1
 ndex: ''
 seo: CreativeWork

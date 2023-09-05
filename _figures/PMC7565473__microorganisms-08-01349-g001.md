@@ -5,6 +5,8 @@ figtitle: 'Scheme of the proposed pathway of aromatic amino acids metabolism: Th
   in this work'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7565473
 filename: microorganisms-08-01349-g001.jpg
 figlink: pmc/articles/PMC7565473/figure/microorganisms-08-01349-f001/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9241979
 figid_alias: PMC7565473__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7565473__F1
 ndex: ''
 seo: CreativeWork

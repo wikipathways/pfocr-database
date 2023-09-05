@@ -4,6 +4,8 @@ figtitle: 'Exploring Toxins for Hunting SARS-CoV-2 Main Protease Inhibitors: Mol
   Docking, Molecular Dynamics, Pharmacokinetic Properties, and Reactome Study'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8875976
 filename: pharmaceuticals-15-00153-g012.jpg
 figlink: /pmc/articles/PMC8875976/figure/pharmaceuticals-15-00153-f012/
@@ -24,8 +26,6 @@ keywords: toxins | SARS-CoV-2 Mpro | in silico screening | molecular docking cal
 automl_pathway: 0.9568299
 figid_alias: PMC8875976__F12
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8875976__F12
 ndex: ''
 seo: CreativeWork

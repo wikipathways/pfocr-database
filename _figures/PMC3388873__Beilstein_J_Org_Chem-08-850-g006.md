@@ -5,10 +5,12 @@ figtitle: Optimal conditions to obtain trans -8 and 10 and the control experimen
   for the tricyclisation of 3
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3388873
 filename: Beilstein_J_Org_Chem-08-850-g006.jpg
 figlink: /pmc/articles/PMC3388873/figure/C4/
-number: S4
+number: SF4
 caption: (a) Optimal conditions to obtain trans -8 and 10 and the control experiments
   carried out to probe the mechanism of the process; (b) proposed mechanistic pathway
   for the tricyclisation of 3.
@@ -22,11 +24,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8355088
-figid_alias: PMC3388873__S4
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC3388873__S4
+figid_alias: PMC3388873__SF4
+figtype: Supplemental figure
+redirect_from: /figures/PMC3388873__SF4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -46,9 +46,9 @@ schema-jsonld:
   - Ca-alpha1T
   - ChAT
   - sv
+  - sn
   - tio
   - neb
-  - sn
   - levy
   - COX6AL2
   - Hn

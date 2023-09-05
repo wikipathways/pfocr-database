@@ -3,6 +3,8 @@ figid: PMC9137930__bioengineering-09-00197-g004
 figtitle: Flavonoids-Based Delivery Systems towards Cancer Therapies
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9137930
 filename: bioengineering-09-00197-g004.jpg
 figlink: /pmc/articles/PMC9137930/figure/bioengineering-09-00197-f004/
@@ -20,8 +22,6 @@ keywords: anticancer activity | cervical cancer | delivery systems | flavonoids 
 automl_pathway: 0.9372361
 figid_alias: PMC9137930__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9137930__F4
 ndex: ''
 seo: CreativeWork

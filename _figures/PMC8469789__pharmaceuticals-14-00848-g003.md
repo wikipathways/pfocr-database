@@ -6,6 +6,11 @@ organisms:
 - Mus musculus
 - Lareunionomyces loeiensis
 - Cyprinus carpio
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Cyprinus carpio
+- Danio rerio
 pmcid: PMC8469789
 filename: pharmaceuticals-14-00848-g003.jpg
 figlink: /pmc/articles/PMC8469789/figure/pharmaceuticals-14-00848-f003/
@@ -31,10 +36,6 @@ keywords: cancer | ubiquitin | deubiquitination | deubiquitinating enzymes (DUBs
 automl_pathway: 0.8803307
 figid_alias: PMC8469789__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Cyprinus carpio
 redirect_from: /figures/PMC8469789__F3
 ndex: ''
 seo: CreativeWork
@@ -57,6 +58,27 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Usp1
+  - Usp2
+  - Pcna
+  - Fancd2
+  - Trp53
+  - Fas
+  - Fasn
+  - Usp7
+  - Usp13
+  - Usp14
+  - Cdkn1a
+  - Nsg1
+  - Tpt1
+  - Tceal1
+  - Pik3c3
+  - Usp9x
+  - Usp24
+  - Usp10
+  - Mcl1
+  - Gpr162
+  - Flt3
   - USP1
   - USP2
   - USP3
@@ -173,30 +195,18 @@ schema-jsonld:
   - MCL1
   - GPR162
   - FLT3
-  - Usp1
-  - Usp2
-  - Pcna
-  - Fancd2
-  - Trp53
-  - Fas
-  - Fasn
-  - Usp7
-  - Usp13
-  - Usp14
-  - Cdkn1a
-  - Nsg1
-  - Tpt1
-  - Tceal1
-  - Pik3c3
-  - Usp9x
-  - Usp24
-  - Usp10
-  - Mcl1
-  - Gpr162
-  - Flt3
   - pcna
   - fancd2
   - fas
   - pik3c3
   - flt3
+  - usp1
+  - tp53
+  - pho
+  - usp7
+  - usp13
+  - usp14
+  - cdkn1a
+  - usp24
+  - usp10
 ---

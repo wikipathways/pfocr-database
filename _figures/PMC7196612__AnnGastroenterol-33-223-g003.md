@@ -3,6 +3,8 @@ figid: PMC7196612__AnnGastroenterol-33-223-g003
 figtitle: Virulence factors of Fusobacterium (F.) nucleatum
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7196612
 filename: AnnGastroenterol-33-223-g003.jpg
 figlink: pmc/articles/PMC7196612/figure/F2/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9052624
 figid_alias: PMC7196612__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7196612__F2
 ndex: ''
 seo: CreativeWork

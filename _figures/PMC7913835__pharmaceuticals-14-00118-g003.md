@@ -5,6 +5,8 @@ figtitle: Protein–protein interaction network between gene products with high-
   methylated sites in CLZ-treated patients
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7913835
 filename: pharmaceuticals-14-00118-g003.jpg
 figlink: pmc/articles/PMC7913835/figure/pharmaceuticals-14-00118-f003/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.7956293
 figid_alias: PMC7913835__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7913835__F3
 ndex: ''
 seo: CreativeWork

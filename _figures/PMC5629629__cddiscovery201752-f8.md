@@ -9,6 +9,12 @@ organisms:
 - Mus musculus
 - Triticum aestivum
 - Hepatitis B virus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Bos taurus
+- Capra hircus
+- Drosophila melanogaster
 pmcid: PMC5629629
 filename: cddiscovery201752-f8.jpg
 figlink: /pmc/articles/PMC5629629/figure/fig8/
@@ -30,11 +36,6 @@ keywords: .na.character
 automl_pathway: 0.940627
 figid_alias: PMC5629629__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Bos taurus
-- Capra hircus
 redirect_from: /figures/PMC5629629__F8
 ndex: 5cf1f356-def7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -71,4 +72,9 @@ schema-jsonld:
   - Ctsb
   - Mtor
   - Atg4b
+  - CtsB
+  - MKP-4
+  - p38b
+  - rl
+  - Tor
 ---

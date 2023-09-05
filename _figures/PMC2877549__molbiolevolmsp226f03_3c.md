@@ -4,6 +4,8 @@ figtitle: A Genome-Sequence Survey for Ascogregarina taiwanensis Supports Evolut
   Affiliation but Metabolic Diversity between a Gregarine and Cryptosporidium
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2877549
 filename: molbiolevolmsp226f03_3c.jpg
 figlink: /pmc/articles/PMC2877549/figure/fig3/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.7409169
 figid_alias: PMC2877549__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2877549__F3
 ndex: ''
 seo: CreativeWork
@@ -45,6 +45,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Vha14-1
+  - CycE
+  - cyc
+  - Rbp9
+  - de
+  - Tim17b2
   - Pyrimidine
   - acyl-CoA
   - Ethanol

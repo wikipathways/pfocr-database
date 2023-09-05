@@ -4,6 +4,9 @@ figtitle: Artonin F Induces the Ubiquitin-Proteasomal Degradation of c-Met and D
   Akt-mTOR Signaling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9145792
 filename: pharmaceuticals-15-00633-g009.jpg
 figlink: /pmc/articles/PMC9145792/figure/pharmaceuticals-15-00633-f009/
@@ -26,9 +29,6 @@ keywords: artonin F | apoptosis | lung cancer | c-Met | PI3K | Akt | mTOR | prot
 automl_pathway: 0.9687108
 figid_alias: PMC9145792__F9
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9145792__F9
 ndex: ''
 seo: CreativeWork

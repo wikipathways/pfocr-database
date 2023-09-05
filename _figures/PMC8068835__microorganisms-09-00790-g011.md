@@ -14,6 +14,9 @@ organisms:
 - Leishmania panamensis
 - Homo sapiens
 - Agriosomyces longus
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8068835
 filename: microorganisms-09-00790-g011.jpg
 figlink: pmc/articles/PMC8068835/figure/microorganisms-09-00790-f011/
@@ -50,8 +53,6 @@ keywords: .na.character
 automl_pathway: 0.9684368
 figid_alias: PMC8068835__F11
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8068835__F11
 ndex: ''
 seo: CreativeWork
@@ -110,9 +111,9 @@ schema-jsonld:
   - PLD6
   - ACSM3
   - SLC25A1
-  - AMD1
   - ODC1
   - SLC25A21
+  - AMD1
   - WDTC1
   - TSPAN31
   - NANS
@@ -128,6 +129,33 @@ schema-jsonld:
   - TSHZ2
   - GNAS
   - GNAL
+  - cmp
+  - Pc
+  - pe
+  - beat-Ia
+  - Pcyt1
+  - Pld
+  - Pa
+  - sah
+  - ctp
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - ck
+  - SamDC
+  - CycE
+  - cyc
+  - adp
+  - sas
+  - Ahcy
+  - SpdS
+  - Cbs
+  - cbs
+  - caboose
+  - sps
+  - gs
+  - Sb
   - CMP
   - CDP-choline
   - Polyamine

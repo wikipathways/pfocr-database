@@ -4,6 +4,8 @@ figtitle: Crosstalk of the Wnt/Beta-Catenin Signaling Pathway in the Induction o
   Apoptosis on Cancer Cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8465904
 filename: pharmaceuticals-14-00871-g004.jpg
 figlink: /pmc/articles/PMC8465904/figure/pharmaceuticals-14-00871-f004/
@@ -39,8 +41,6 @@ keywords: crosstalk | β-catenin | apoptosis | signaling | cancer cells
 automl_pathway: 0.9521783
 figid_alias: PMC8465904__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8465904__F4
 ndex: ''
 seo: CreativeWork
@@ -102,16 +102,16 @@ schema-jsonld:
   - AXIN1
   - AXIN2
   - CHKA
-  - GSK3B
   - APC
   - PROC
+  - GSK3B
   - CTNNB1
+  - EP300
   - CREBBP
   - EIF4E
   - OPN1LW
   - PAG1
   - PCBP4
-  - EP300
   - HNF4A
   - MYC
   - TP53
@@ -120,9 +120,9 @@ schema-jsonld:
   - FAS
   - FASN
   - TNFSF10
+  - TNFRSF10B
   - HLA-DRB4
   - TNFRSF10A
-  - TNFRSF10B
   - BBC3
   - PMAIP1
   - BAX

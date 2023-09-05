@@ -7,6 +7,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Nicotiana tabacum
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3816662
 filename: pharmaceuticals-05-01236-g001.jpg
 figlink: /pmc/articles/PMC3816662/figure/pharmaceuticals-05-01236-f001/
@@ -23,9 +27,6 @@ keywords: .na.character
 automl_pathway: 0.962949
 figid_alias: PMC3816662__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC3816662__F1
 ndex: 8912e311-ded8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -55,8 +56,8 @@ schema-jsonld:
   - Pdk1
   - Pdpk1
   - Mtor
-  - Polr3e
   - Mapkap1
+  - Polr3e
   - Bad
   - Tsc2
   - Mdm2
@@ -128,9 +129,9 @@ schema-jsonld:
   - PDK1
   - PDPK1
   - MTOR
+  - MAPKAP1
   - EFS
   - POLR3E
-  - MAPKAP1
   - BAD
   - FOXO1
   - FOXO3
@@ -164,5 +165,46 @@ schema-jsonld:
   - EIF4E
   - EIF4E2
   - EIF4E3
+  - Oamb
+  - Ras64B
+  - Ras85D
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - l(1)G0020
+  - Taf4
+  - Pi3K92E
+  - Rpn2
+  - Sap-r
+  - rictor
+  - Akt
+  - Tor
+  - Sin1
+  - Polr3E
+  - cass
+  - foxo
+  - gig
+  - sgg
+  - p53
+  - betaTub60D
+  - hth
+  - DCTN6-p27
+  - dap
+  - CG9588
+  - Crtc
+  - Debcl
+  - PRAS40
+  - raptor
+  - CycE
+  - cyc
+  - Thor
+  - S6k
+  - eIF4E1
+  - eIF4E7
+  - eIF4E4
+  - eIF4E5
+  - eIF4E3
+  - eIF4E6
+  - eIF4EHP
   - Cancer
 ---

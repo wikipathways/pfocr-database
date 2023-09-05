@@ -3,6 +3,8 @@ figid: PMC7770493__pharmrev.120.000086f2
 figtitle: Mitochondrial cAMP signalosomes
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7770493
 filename: pharmrev.120.000086f2.jpg
 figlink: pmc/articles/PMC7770493/figure/F2/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9407051
 figid_alias: PMC7770493__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7770493__F2
 ndex: ''
 seo: CreativeWork
@@ -64,6 +64,7 @@ schema-jsonld:
   - PRKACA
   - PRKACB
   - PRKACG
+  - AKAP1
   - PALM2AKAP2
   - MTSS1
   - STAR
@@ -91,7 +92,6 @@ schema-jsonld:
   - PDE4A
   - MTX2
   - RAB32
-  - AKAP1
   - Cholesterol
   - MTX2
 ---

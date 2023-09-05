@@ -4,6 +4,8 @@ figtitle: Mass spectrometry-based protein‒protein interaction techniques and t
   applications in studies of DNA damage repair
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7818012
 filename: JZhejiangUnivSciB-22-1-1-g002.jpg
 figlink: pmc/articles/PMC7818012/figure/JZhejiangUnivSciB-22-1-1-f002/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.77366
 figid_alias: PMC7818012__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7818012__F2
 ndex: ''
 seo: CreativeWork
@@ -97,12 +97,13 @@ schema-jsonld:
   - POLR1B
   - TP53BP1
   - DDB1
+  - XAB2
   - MNAT1
   - XRCC6
   - ERCC3
   - MSH4
-  - H2AX
   - MRE11
+  - H2AX
   - HMCES
   - NUDT16L1
   - RAD51
@@ -129,16 +130,16 @@ schema-jsonld:
   - ARTN
   - RAD50
   - DNA2
-  - MAD2L2
   - MDC1
+  - MAD2L2
   - PCNA
   - POLD1
   - UBE2H
   - MLH1
   - EXO1
   - RBBP8
-  - BRCA2
   - BARD1
+  - BRCA2
   - UBE2N
   - MLH3
   - MSH6
@@ -168,5 +169,6 @@ schema-jsonld:
   - RFC3
   - BLM
   - POLE3
+  - ADM2
   - NBN
 ---

@@ -13,6 +13,11 @@ organisms:
 - Escherichia coli
 - gut metagenome
 - Ocimum basilicum
+organisms_ner:
+- Rattus norvegicus
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC8782664
 filename: ajpregu.00087.2021_f001.jpg
 figlink: /pmc/articles/PMC8782664/figure/F0001/
@@ -59,10 +64,6 @@ keywords: fetal programming | lipopolysaccharide | long-term outcome | maternal 
 automl_pathway: 0.9099363
 figid_alias: PMC8782664__F1
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8782664__F1
 ndex: ''
 seo: CreativeWork
@@ -109,16 +110,16 @@ schema-jsonld:
   - Tlr4
   - Nfkb1
   - Traf6
+  - Mapk14
   - Ephb1
   - Mapk8
-  - Mapk14
   - Rnf138
   - Irf3
   - Traf3
   - Tlr3
   - Tlr7
-  - Tlr9
   - Tlr8
+  - Tlr9
   - Ace2
   - Mavs
   - Rig1
@@ -137,14 +138,9 @@ schema-jsonld:
   - IKBKG
   - IKBKE
   - TBK1
-  - EPHB2
-  - MAPK1
-  - MAPK3
-  - MAPK8
-  - MAPK9
-  - MAPK10
   - CRK
   - MAPK14
+  - MAPK1
   - AIMP2
   - GRAP2
   - AHSA1
@@ -152,6 +148,11 @@ schema-jsonld:
   - MAPK11
   - MAPK12
   - MAPK13
+  - EPHB2
+  - MAPK3
+  - MAPK8
+  - MAPK9
+  - MAPK10
   - TRIM69
   - TICAM1
   - FOS
@@ -166,8 +167,8 @@ schema-jsonld:
   - TLR3
   - IFNA1
   - TLR7
-  - TLR9
   - TLR8
+  - TLR9
   - ACE2
   - MAVS
   - PLAAT4
@@ -176,12 +177,12 @@ schema-jsonld:
   - IFIH1
   - Tmed7
   - Ticam2
-  - Ephb2
-  - Mapk1
   - Crk
   - Grap2
   - Syp
   - Ahsa1
+  - Ephb2
+  - Mapk1
   - Trim69
   - Ticam1
   - Jun
@@ -189,4 +190,18 @@ schema-jsonld:
   - Cdca8
   - Robo3
   - Ifih1
+  - myd88
+  - tram1
+  - traf6
+  - mapk14a
+  - mapk8b
+  - ticam1
+  - irf3
+  - traf3
+  - tlr3
+  - ifnphi1
+  - tlr7
+  - tlr9
+  - ace2
+  - mavs
 ---

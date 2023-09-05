@@ -8,6 +8,8 @@ organisms:
 - Matthiola incana
 - Homo sapiens
 - Cauliflower mosaic virus
+organisms_ner:
+- NA
 pmcid: PMC2713768
 filename: mplantssp037f02_lw.jpg
 figlink: /pmc/articles/PMC2713768/figure/fig2/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.7898962
 figid_alias: PMC2713768__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2713768__F2
 ndex: ''
 seo: CreativeWork

@@ -5,6 +5,9 @@ figtitle: Roles of cis- and trans-Changes in the Regulatory Evolution of Genes i
 organisms:
 - Saccharomyces cerevisiae
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC2515871
 filename: molbiolevolmsn138f02_ht.jpg
 figlink: /pmc/articles/PMC2515871/figure/fig2/
@@ -23,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8701091
 figid_alias: PMC2515871__F2
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC2515871__F2
 ndex: ''
 seo: CreativeWork
@@ -41,28 +41,28 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SIP1
-  - GAL83
-  - SIP2
-  - SNF4
-  - SNF1
-  - CAT8
-  - SIP4
-  - MDH2
-  - FBP1
-  - MLS1
-  - PCK1
-  - ICL1
-  - ACS1
-  - JEN1
-  - SFC1
-  - IDP2
-  - ADH2
   - GEMIN2
   - SCAF11
   - NHERF2
   - ZEB2
-  - ACSL1
+  - MDH2
+  - FBP1
+  - PCK1
   - ADH1B
   - ADH4
+  - ACSL1
+  - SIP2
+  - GAL83
+  - SIP1
+  - SNF4
+  - SNF1
+  - CAT8
+  - SIP4
+  - MLS1
+  - ICL1
+  - JEN1
+  - ADH2
+  - ACS1
+  - SFC1
+  - IDP2
 ---

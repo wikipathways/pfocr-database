@@ -3,6 +3,9 @@ figid: PMC5983164__cshperspectmed-RAC-031450_F2
 figtitle: RAS effector pathways
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5983164
 filename: cshperspectmed-RAC-031450_F2.jpg
 figlink: pmc/articles/PMC5983164/figure/A031450F2/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9475625
 figid_alias: PMC5983164__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5983164__F2
 ndex: ''
 seo: CreativeWork
@@ -158,6 +159,9 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
+  - AKT1
+  - AKT2
+  - AKT3
   - PDK1
   - PDPK1
   - RPS6KB1
@@ -182,5 +186,29 @@ schema-jsonld:
   - RICTOR
   - MLST8
   - BCL2
+  - Oamb
+  - Tie
+  - Ras85D
+  - InR
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - ras
+  - Ras64B
+  - Pten
+  - Raf
+  - Akt
+  - Pdk1
+  - S6k
+  - Dsor1
+  - sgg
+  - gig
+  - Tsc1
+  - CycE
+  - cyc
+  - foxo
+  - rl
+  - cass
+  - Debcl
   - Glucose
 ---

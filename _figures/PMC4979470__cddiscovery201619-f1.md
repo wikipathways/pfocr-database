@@ -4,6 +4,8 @@ figtitle: The NLRP3 inflammasome signaling pathway
 organisms:
 - prion
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979470
 filename: cddiscovery201619-f1.jpg
 figlink: /pmc/articles/PMC4979470/figure/fig1/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9536246
 figid_alias: PMC4979470__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979470__F1
 ndex: ''
 seo: CreativeWork

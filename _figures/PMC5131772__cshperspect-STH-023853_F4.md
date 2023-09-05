@@ -3,6 +3,8 @@ figid: PMC5131772__cshperspect-STH-023853_F4
 figtitle: Glycoprotein production in cell-free systems
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC5131772
 filename: cshperspect-STH-023853_F4.jpg
 figlink: /pmc/articles/PMC5131772/figure/A023853F4/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.6976142
 figid_alias: PMC5131772__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5131772__F4
 ndex: ''
 seo: CreativeWork

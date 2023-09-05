@@ -3,6 +3,10 @@ figid: PMC7527140__mSystems.00765-20-f0002
 figtitle: Deduced sterol biosynthesis pathways in Symbiodiniaceae
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC7527140
 filename: mSystems.00765-20-f0002.jpg
 figlink: pmc/articles/PMC7527140/figure/fig2/
@@ -34,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.7895118
 figid_alias: PMC7527140__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
-- Homo sapiens
 redirect_from: /figures/PMC7527140__F2
 ndex: ''
 seo: CreativeWork
@@ -65,25 +66,42 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - sas
+  - NANS
+  - Hmgcr
+  - 'On'
+  - Ebp
+  - cas
+  - caz
+  - Cse1
+  - cass
+  - cash
+  - Las
   - CLA1
   - SMT1
   - CYP51G1
-  - EBP
   - HYD1
+  - EBP
   - CaS
   - LAS
   - DWF5
+  - IPP
   - CTSL
   - NLN
-  - IPP
   - TSPAN31
-  - NANS
   - HMGA1
   - CYP51A1
+  - MSX1
+  - KCNH6
   - GLB1
   - SH3D19
-  - KCNH6
-  - MSX1
   - DHCR7
   - CSE1L
   - CTNND1

@@ -3,6 +3,9 @@ figid: PMC3384069__carcinbgr305f01_4c
 figtitle: Wnt/Beta-catenin signaling pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3384069
 filename: carcinbgr305f01_4c.jpg
 figlink: /pmc/articles/PMC3384069/figure/fig1/
@@ -19,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.9647734
 figid_alias: PMC3384069__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3384069__F1
 ndex: 45d76b72-ded4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -136,6 +137,23 @@ schema-jsonld:
   - USP5
   - HNF4A
   - CTNNB1
+  - 'On'
+  - 'Off'
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - fz
+  - arm
+  - sgg
+  - Axn
+  - gskt
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - pan
+  - rp
+  - Rpn6
   - Lupeol
   - Curcumin
   - Retinoids

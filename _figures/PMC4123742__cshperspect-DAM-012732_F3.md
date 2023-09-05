@@ -17,6 +17,14 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - synthetic construct
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Gallus gallus
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Xenopus laevis
+- Danio rerio
 pmcid: PMC4123742
 filename: cshperspect-DAM-012732_F3.jpg
 figlink: /pmc/articles/PMC4123742/figure/A012732F3/
@@ -41,12 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9506294
 figid_alias: PMC4123742__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Gallus gallus
-- Drosophila melanogaster
-- Arabidopsis thaliana
 redirect_from: /figures/PMC4123742__F3
 ndex: ea49cb12-dedb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -130,4 +132,23 @@ schema-jsonld:
   - ArfGAP1
   - ICL
   - POL
+  - hspa9.S
+  - hspa9.L
+  - ercc6.L
+  - ercc4.L
+  - ercc1.L
+  - ercc5.L
+  - xpa.L
+  - rev1.S
+  - polk.L
+  - xpc
+  - polr2d
+  - ercc8
+  - ercc6
+  - ercc1
+  - xpa
+  - rev1
+  - poln
+  - polk
+  - gap43
 ---

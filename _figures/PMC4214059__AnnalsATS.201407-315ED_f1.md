@@ -4,6 +4,8 @@ figtitle: A causal model specifying how genetic variation increases the suscepti
   to clinical disease through smoking and alternate pathways ()
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4214059
 filename: AnnalsATS.201407-315ED_f1.jpg
 figlink: /pmc/articles/PMC4214059/figure/fig1/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8816318
 figid_alias: PMC4214059__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4214059__F1
 ndex: ''
 seo: CreativeWork
@@ -58,7 +58,7 @@ schema-jsonld:
   - TUBB3
   - AP4B1
   - BHLHE23
-  - CHRNA3
   - CHRNB4
+  - CHRNA3
   - CHRNA5
 ---

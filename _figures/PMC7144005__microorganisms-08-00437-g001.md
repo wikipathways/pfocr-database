@@ -4,6 +4,8 @@ figtitle: Modes of electron transfer to pMMO in iMsOB3b model developed in this 
 organisms:
 - Methylosinus trichosporium OB3b
 - Methylosinus trichosporium
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7144005
 filename: microorganisms-08-00437-g001.jpg
 figlink: pmc/articles/PMC7144005/figure/microorganisms-08-00437-f001/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9355234
 figid_alias: PMC7144005__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7144005__F1
 ndex: ''
 seo: CreativeWork
@@ -53,6 +53,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Mdh1
+  - Mdh2
+  - Men-b
+  - Men
+  - Cyt-c-d
+  - Cyt-c-p
+  - ich
+  - CSN4
   - CH
   - NADH11
   - H4MTP

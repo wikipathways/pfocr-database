@@ -33,6 +33,8 @@ organisms:
 - Homo sapiens
 - uncultured Gammaproteobacteria bacterium
 - Sinsheimervirus phiX174
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7912173
 filename: microorganisms-09-00249-g001.jpg
 figlink: pmc/articles/PMC7912173/figure/microorganisms-09-00249-f001/
@@ -61,8 +63,6 @@ keywords: .na.character
 automl_pathway: 0.9296109
 figid_alias: PMC7912173__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7912173__F1
 ndex: ''
 seo: CreativeWork
@@ -88,6 +88,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Aldh-III
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - l(1)16Fq
+  - crb
+  - Fs(3)Far
+  - pyr
+  - Abd-B
   - Sugar
   - hexoses
   - pentoses

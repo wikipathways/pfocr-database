@@ -3,6 +3,8 @@ figid: PMC7463541__pharmaceuticals-13-00174-g001
 figtitle: Biosynthetic pathway of major phytocannabinoids
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7463541
 filename: pharmaceuticals-13-00174-g001.jpg
 figlink: pmc/articles/PMC7463541/figure/pharmaceuticals-13-00174-f001/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.9357219
 figid_alias: PMC7463541__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7463541__F1
 ndex: ''
 seo: CreativeWork

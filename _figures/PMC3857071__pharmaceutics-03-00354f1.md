@@ -3,6 +3,8 @@ figid: PMC3857071__pharmaceutics-03-00354f1
 figtitle: Heme biosynthesis
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3857071
 filename: pharmaceutics-03-00354f1.jpg
 figlink: /pmc/articles/PMC3857071/figure/f1-pharmaceutics-03-00354/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9521888
 figid_alias: PMC3857071__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3857071__F1
 ndex: ''
 seo: CreativeWork

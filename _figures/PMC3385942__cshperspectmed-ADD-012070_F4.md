@@ -4,6 +4,9 @@ figtitle: Up-regulation of the cAMP pathway in LC as a mechanism of opiate toler
   and dependence
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3385942
 filename: cshperspectmed-ADD-012070_F4.jpg
 figlink: /pmc/articles/PMC3385942/figure/A012070F4/
@@ -48,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9318621
 figid_alias: PMC3385942__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3385942__F4
 ndex: b7b83f5b-df04-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -108,6 +109,39 @@ schema-jsonld:
   - sv
   - CrebB
   - CrebA
+  - OPRM1
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - BRD2
+  - TH
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - CAT
+  - CRAT
+  - GLYAT
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
   - Morphine
   - morphine
   - Naloxone

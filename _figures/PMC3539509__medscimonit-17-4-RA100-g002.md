@@ -20,6 +20,14 @@ organisms:
 - Myxine glutinosa
 - Homo sapiens
 - Borreliella burgdorferi
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Canis lupus familiaris
+- Ovis aries
+- Gallus gallus
+- Danio rerio
 pmcid: PMC3539509
 filename: medscimonit-17-4-RA100-g002.jpg
 figlink: /pmc/articles/PMC3539509/figure/f2-medscimonit-17-4-ra100/
@@ -43,13 +51,6 @@ keywords: .na.character
 automl_pathway: 0.7398502
 figid_alias: PMC3539509__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-- Canis lupus familiaris
-- Ovis aries
-- Gallus gallus
 redirect_from: /figures/PMC3539509__F2
 ndex: b82ca8ae-df30-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -95,10 +96,10 @@ schema-jsonld:
   - KRR1
   - TRAF6
   - TBK1
+  - IKBKE
   - CHUK
   - IKBKB
   - IKBKG
-  - IKBKE
   - IRF7
   - IRF3
   - SGSM3
@@ -131,4 +132,22 @@ schema-jsonld:
   - Irf3
   - Nfkb1
   - NFKB2
+  - tirap
+  - malb
+  - tram1
+  - myd88
+  - ticam1
+  - irak4
+  - tab2
+  - tab1
+  - traf3
+  - irak1
+  - ripk1l
+  - traf6
+  - tbk1
+  - irf7
+  - irf3
+  - pak2a
+  - itpka
+  - ifnphi1
 ---

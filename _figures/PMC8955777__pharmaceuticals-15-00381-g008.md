@@ -5,6 +5,8 @@ figtitle: Metformin Enhances TKI-Afatinib Cytotoxic Effect, Causing Downregulati
   in Lung Cancer Cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8955777
 filename: pharmaceuticals-15-00381-g008.jpg
 figlink: /pmc/articles/PMC8955777/figure/pharmaceuticals-15-00381-f008/
@@ -35,8 +37,6 @@ keywords: lung cancer | afatinib–metformin | EGFR | glycolysis | oxidative pho
 automl_pathway: 0.9485886
 figid_alias: PMC8955777__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8955777__F8
 ndex: ''
 seo: CreativeWork
@@ -79,8 +79,8 @@ schema-jsonld:
   - TSC1
   - CCL26
   - TSC2
-  - ERBB2
   - EGFR
+  - ERBB2
   - EGF
   - PIK3CA
   - PIK3CB

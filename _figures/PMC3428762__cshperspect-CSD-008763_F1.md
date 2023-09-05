@@ -9,6 +9,9 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Xenopus laevis
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3428762
 filename: cshperspect-CSD-008763_F1.jpg
 figlink: /pmc/articles/PMC3428762/figure/A008763F1/
@@ -30,10 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9569363
 figid_alias: PMC3428762__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
 redirect_from: /figures/PMC3428762__F1
 ndex: 4d7cc176-dee5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -127,11 +126,14 @@ schema-jsonld:
   - RPTOR
   - ULK1
   - ULK2
-  - Pik3cg
-  - Akt1
-  - Prkaa2
-  - Ulk1
-  - Ulk2
-  - Pik3r1
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - SNF4Agamma
+  - AMPKalpha
+  - Crtc
+  - Atg1
   - glucose
 ---

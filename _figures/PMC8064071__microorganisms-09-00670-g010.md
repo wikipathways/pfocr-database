@@ -4,6 +4,10 @@ figtitle: Scheme of C
 organisms:
 - Corynebacterium glutamicum
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8064071
 filename: microorganisms-09-00670-g010.jpg
 figlink: pmc/articles/PMC8064071/figure/microorganisms-09-00670-f010/
@@ -26,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8785886
 figid_alias: PMC8064071__F10
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC8064071__F10
 ndex: ''
 seo: CreativeWork
@@ -47,6 +49,87 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - PAEP
+  - PREP
+  - PTPN22
+  - BGN
+  - GPI
+  - PGPEP1
+  - TPI1
+  - FBP1
+  - FOLR1
+  - FOLR2
+  - ECB2
+  - FUBP1
+  - RAB14
+  - RASA1
+  - RGS6
+  - PHKA2
+  - ATP2B3
+  - ACHE
+  - DECR1
+  - PGLS
+  - MDH2
+  - RPIA
+  - TKT
+  - DDR2
+  - IPP
+  - TALDO1
+  - LRSAM1
+  - TAAR1
+  - Pep
+  - bgcn
+  - Aldh-III
+  - Pgi
+  - Tpi
+  - fbp
+  - pck
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - PyK
+  - cof
+  - Pgls
+  - Con
+  - gnd
+  - Mdh1
+  - Mdh2
+  - Men-b
+  - Men
+  - fd
+  - anon-16Fb
+  - Rpi
+  - rasp
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - pr
+  - Taldo
+  - tal-2A
+  - tal-AA
+  - tal-3A
+  - tal-1A
+  - alphaTub84B
+  - tai
+  - ptsG
+  - pgi
+  - tpiA
+  - ackA
+  - gapA
+  - zwf
+  - dxs
+  - aceE
+  - ompA
+  - mdh
+  - ispG
+  - ispH
+  - tktA
   - Pyruvate
   - DHAP
   - Acetate

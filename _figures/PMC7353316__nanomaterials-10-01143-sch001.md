@@ -3,10 +3,12 @@ figid: PMC7353316__nanomaterials-10-01143-sch001
 figtitle: Synthetic pathway for imidazolium/benzimidazolium salts 5–9
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7353316
 filename: nanomaterials-10-01143-sch001.jpg
 figlink: pmc/articles/PMC7353316/figure/nanomaterials-10-01143-sch001/
-number: S1
+number: SF1
 caption: Synthetic pathway for imidazolium/benzimidazolium salts 5–9.
 papertitle: 'New Amphiphilic Imidazolium/Benzimidazolium Calix[4]arene Derivatives:
   Synthesis, Aggregation Behavior and Decoration of DPPC Vesicles for Suzuki Coupling
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9564713
-figid_alias: PMC7353316__S1
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7353316__S1
+figid_alias: PMC7353316__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC7353316__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -38,8 +38,10 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - br
+  - Ki
+  - Tab2
+  - Abd-B
   - rt
-  - oo
   - mw
   - ci
   - PHOH

@@ -5,6 +5,10 @@ figtitle: Virilizing doses of testosterone decrease circulating insulin levels a
 organisms:
 - Homo sapiens
 - Sus scrofa
+organisms_ner:
+- Homo sapiens
+- Sus scrofa
+- Danio rerio
 pmcid: PMC8285596
 filename: ajpendo.00281.2020_f008.jpg
 figlink: /pmc/articles/PMC8285596/figure/F0008/
@@ -31,9 +35,6 @@ keywords: female | insulin signaling | liver | testosterone | white adipose tiss
 automl_pathway: 0.7971691
 figid_alias: PMC8285596__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Sus scrofa
 redirect_from: /figures/PMC8285596__F8
 ndex: ''
 seo: CreativeWork
@@ -71,10 +72,17 @@ schema-jsonld:
   - AKT2
   - FOXO1
   - PPARG
-  - IRS1
   - INSR
   - IGF1R
   - INSRR
+  - IRS1
   - ESR1
   - AR
+  - akt2
+  - foxo1a
+  - pparg
+  - irs1
+  - esr1
+  - akap12b
+  - ar
 ---

@@ -5,6 +5,8 @@ figtitle: The morphine biosynthetic pathway downstream of (S)-N-methylcoclaurine
   4'OMT, SalAT, T6ODM, COR (alleles Cor1-1 and Cor2-1), and CODM by RT-PCR
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3763633
 filename: pharmaceuticals-05-00133-g008.jpg
 figlink: /pmc/articles/PMC3763633/figure/pharmaceuticals-05-00133-f008/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8138062
 figid_alias: PMC3763633__F8
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3763633__F8
 ndex: ''
 seo: CreativeWork

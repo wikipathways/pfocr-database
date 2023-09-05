@@ -3,6 +3,9 @@ figid: PMC4861365__theoncologist_15438_f1
 figtitle: The Fanconi anemia/BRCA repair pathway
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4861365
 filename: theoncologist_15438_f1.jpg
 figlink: /pmc/articles/PMC4861365/figure/F1/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9124977
 figid_alias: PMC4861365__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4861365__F1
 ndex: ''
 seo: CreativeWork
@@ -53,11 +54,18 @@ schema-jsonld:
   - ANTXR1
   - MMAB
   - SERPINA2
-  - FANCD2
   - FANCI
+  - FANCD2
   - USP1
-  - BRCA2
   - BRCA1
+  - BRCA2
   - RAD51
+  - atrip
+  - atr
+  - fanci
+  - fancd2
+  - usp1
+  - brca2
+  - rad51
   - Fanconi anemia
 ---

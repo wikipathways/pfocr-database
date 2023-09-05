@@ -3,6 +3,10 @@ figid: PMC5711269__AnnalsATS.201702-136AW_f1
 figtitle: Reverse cholesterol transport pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Arabidopsis thaliana
 pmcid: PMC5711269
 filename: AnnalsATS.201702-136AW_f1.jpg
 figlink: /pmc/articles/PMC5711269/figure/fig1/
@@ -31,10 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9294673
 figid_alias: PMC5711269__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
-- Arabidopsis thaliana
 redirect_from: /figures/PMC5711269__F1
 ndex: 7f275fc9-decd-11ea-99da-0ac135e8bacf
 seo: CreativeWork

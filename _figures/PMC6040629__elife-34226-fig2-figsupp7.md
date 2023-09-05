@@ -4,10 +4,12 @@ figtitle: Pathway components necessary for the synthesis of the essential amino 
   were lost in animals
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6040629
 filename: elife-34226-fig2-figsupp7.jpg
 figlink: /pmc/articles/PMC6040629/figure/fig2s7/
-number: SF2_7
+number: F2
 caption: 'These include the pathways for leucine, valine, isoleucine, histidine, lysine,
   threonine, tryptophan, phenylalanine and methionine, which were all more complete
   in the Urchoanozoan than in the Urmetazoan. Green: pathway components present in
@@ -22,11 +24,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7444614
-figid_alias: PMC6040629__SF2_7
-figtype: Supplemental figure
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6040629__SF2_7
+figid_alias: PMC6040629__F2
+figtype: Figure
+redirect_from: /figures/PMC6040629__F2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

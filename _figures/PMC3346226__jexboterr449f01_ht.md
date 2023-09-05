@@ -10,6 +10,10 @@ organisms:
 - Fragaria x ananassa
 - Diospyros kaki
 - Vitis labrusca x Vitis vinifera
+organisms_ner:
+- Vitis vinifera
+- Arabidopsis thaliana
+- Drosophila melanogaster
 pmcid: PMC3346226
 filename: jexboterr449f01_ht.jpg
 figlink: /pmc/articles/PMC3346226/figure/fig1/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8560082
 figid_alias: PMC3346226__F1
 figtype: Figure
-organisms_ner:
-- Vitis vinifera
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3346226__F1
 ndex: f224eabb-df1e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -60,6 +61,22 @@ schema-jsonld:
   - FLS1
   - FLS3
   - GSTU24
+  - Chi
+  - chic
+  - ppk
+  - vvl
+  - Lar
+  - larv
+  - GstS1
+  - GstE12
+  - GstD1
+  - GstD2
+  - GstD3
+  - GstD4
+  - GstD5
+  - GstD6
+  - GstD7
+  - GstD8
   - Cyanidin
   - Delphinidin
   - Myricetin

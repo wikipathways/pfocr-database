@@ -4,6 +4,9 @@ figtitle: Proposed anticancer effects of statins (HMG-CoA reductase inhibitors) 
   the mevalonate pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4524771
 filename: theoncologist_1564_f2.jpg
 figlink: /pmc/articles/PMC4524771/figure/F2/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.6469804
 figid_alias: PMC4524771__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4524771__F2
 ndex: 232c076c-df35-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -51,6 +52,41 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ras
+  - Ras64B
+  - Ras85D
+  - Rst(2)At
+  - norpA
+  - sl
+  - Plc21C
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - C15
+  - Cli
+  - eya
+  - KRAS
+  - HRAS
+  - NRAS
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - DCLK1
+  - ADGRL1
+  - CLU
+  - AKR1C4
+  - GZMB
+  - POLR3K
   - 3-hydroxy 3-methylglutaryl-CoA
   - Acetoacetyl-CoA
   - Cholesterol

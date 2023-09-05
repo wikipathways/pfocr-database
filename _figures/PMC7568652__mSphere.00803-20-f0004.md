@@ -9,6 +9,10 @@ organisms:
 - Streptococcus sp. group A
 - Homo sapiens
 - Oryctolagus cuniculus
+organisms_ner:
+- Homo sapiens
+- Oryctolagus cuniculus
+- Drosophila melanogaster
 pmcid: PMC7568652
 filename: mSphere.00803-20-f0004.jpg
 figlink: pmc/articles/PMC7568652/figure/fig4/
@@ -27,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8243623
 figid_alias: PMC7568652__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC7568652__F4
 ndex: ''
 seo: CreativeWork
@@ -79,13 +80,30 @@ schema-jsonld:
   - MAPK1
   - MAPK3
   - MTOR
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
+  - AKT1
+  - AKT2
+  - AKT3
   - RPS6KA1
   - RPS6KA2
   - RPS6KA3
   - RPS6KA4
   - RPS6KA5
   - RPS6KA6
+  - drk
+  - ras
+  - Ras64B
+  - Ras85D
+  - shp
+  - hop
+  - bsk
+  - Raf
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Erk7
+  - rl
+  - Mtor
+  - Tor
+  - Akt
 ---

@@ -4,6 +4,8 @@ figtitle: The type III secretion system (T3SS) regulation and modes of action of
   inhibitors in Dickeya dadantii
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7764658
 filename: microorganisms-08-01956-g001.jpg
 figlink: pmc/articles/PMC7764658/figure/microorganisms-08-01956-f001/
@@ -37,8 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9567239
 figid_alias: PMC7764658__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC7764658__F1
 ndex: ''
 seo: CreativeWork

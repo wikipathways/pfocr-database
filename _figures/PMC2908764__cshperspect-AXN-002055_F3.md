@@ -4,6 +4,10 @@ figtitle: Molecular cues controlling the pathway choices at the Drosophila and v
   midline
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Homo sapiens
 pmcid: PMC2908764
 filename: cshperspect-AXN-002055_F3.jpg
 figlink: /pmc/articles/PMC2908764/figure/A002055F3/
@@ -37,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.6684489
 figid_alias: PMC2908764__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2908764__F3
 ndex: ''
 seo: CreativeWork
@@ -82,6 +83,8 @@ schema-jsonld:
   - 'Off'
   - 'On'
   - blo
+  - sema3b
+  - kita
   - ROBO1
   - ROBO2
   - ROBO3

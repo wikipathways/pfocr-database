@@ -6,6 +6,8 @@ organisms:
 - Saccharomyces cerevisiae
 - Simian retrovirus 2
 - Homo sapiens
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC406390
 filename: pbio.0020128.g006.jpg
 figlink: /pmc/articles/PMC406390/figure/pbio-0020128-g006/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8300335
 figid_alias: PMC406390__F6
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC406390__F6
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC4930918__cshperspectmed-PCA-026146_F2
 figtitle: p53 regulates carbohydrate metabolism during glucose starvation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4930918
 filename: cshperspectmed-PCA-026146_F2.jpg
 figlink: /pmc/articles/PMC4930918/figure/A026146F2/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9465518
 figid_alias: PMC4930918__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4930918__F2
 ndex: 3abd6de9-def8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

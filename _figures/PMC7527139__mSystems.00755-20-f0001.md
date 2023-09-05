@@ -12,6 +12,9 @@ organisms:
 - metagenome
 - Homo sapiens
 - mixed culture
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7527139
 filename: mSystems.00755-20-f0001.jpg
 figlink: pmc/articles/PMC7527139/figure/fig1/
@@ -51,9 +54,6 @@ keywords: .na.character
 automl_pathway: 0.7757471
 figid_alias: PMC7527139__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC7527139__F1
 ndex: ''
 seo: CreativeWork
@@ -101,10 +101,10 @@ schema-jsonld:
   - ADCY8
   - ADCY9
   - ADCY10
-  - AMY2B
   - F11
   - PTCRA
   - HGF
+  - AMY2B
   - PPT2
   - GJB6
   - ACE
@@ -137,12 +137,31 @@ schema-jsonld:
   - PNMA1
   - GSTZ1
   - ATP8A2
-  - glcD
-  - ppa
-  - pta
-  - actP
-  - ppc
-  - sucC
+  - ac
+  - Ppa
+  - He
+  - Ace
+  - Acer
+  - Ance
+  - ect
+  - Mccc1
+  - pyr
+  - Pep
+  - bgcn
+  - Lac
+  - lacquered
+  - sti
+  - Adh
+  - mal
+  - bs
+  - Mrtf
+  - Fum1
+  - ATPsynbeta
+  - Atpalpha
+  - G6P
+  - pie
+  - pi
+  - hi
   - co2-CODHA
   - ATP
   - CO

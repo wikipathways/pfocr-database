@@ -3,6 +3,10 @@ figid: PMC3578363__cshperspect-SIG-008904_F4
 figtitle: Targeting ubiquitin-dependent degradation of CDK inhibitors
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC3578363
 filename: cshperspect-SIG-008904_F4.jpg
 figlink: /pmc/articles/PMC3578363/figure/A008904F4/
@@ -23,10 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9527767
 figid_alias: PMC3578363__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC3578363__F4
 ndex: f99ad529-ded7-11ea-99da-0ac135e8bacf
 seo: CreativeWork

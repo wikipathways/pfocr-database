@@ -4,6 +4,8 @@ figtitle: Schematic view of Toll-like receptor (TLR)-mediated type I interferon 
   gene induction by IFN regulatory factors (IRFs)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6211389
 filename: cshperspect-CYT-028423_F2.jpg
 figlink: pmc/articles/PMC6211389/figure/A028423F2/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9746688
 figid_alias: PMC6211389__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6211389__F2
 ndex: ''
 seo: CreativeWork
@@ -82,8 +82,8 @@ schema-jsonld:
   - TRAM1
   - TICAM2
   - TMED7-TICAM2
-  - TLR7
   - TLR9
+  - TLR7
   - TLR3
   - TRAF3
   - CXCL8

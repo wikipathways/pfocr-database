@@ -27,6 +27,10 @@ organisms:
 - Plagiomnium cuspidatum
 - Pelophylax ridibundus
 - Homo sapiens
+organisms_ner:
+- Arabidopsis thaliana
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2905205
 filename: jexboterq177f02_3c.jpg
 figlink: /pmc/articles/PMC2905205/figure/fig2/
@@ -49,8 +53,6 @@ keywords: .na.character
 automl_pathway: 0.8737601
 figid_alias: PMC2905205__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2905205__F2
 ndex: ''
 seo: CreativeWork
@@ -76,6 +78,31 @@ schema-jsonld:
   - EIN2
   - EIN3
   - PLDALPHA1
+  - PLA2G15
+  - ACSS2
+  - ACCS
+  - KLK15
+  - CALCR
+  - SLC31A1
+  - CCDC174
+  - GPLD1
+  - PLD1
+  - PLD2
+  - PLD3
+  - PLD4
+  - PLD5
+  - PLD6
+  - IK
+  - DYRK3
+  - AcCoAS
+  - Acsl
+  - Aco
+  - Acox57D-d
+  - Pld
+  - Pa
+  - red
+  - trc
+  - .na.character
   - butanol
   - NO ETHYLENE
   - ethylene

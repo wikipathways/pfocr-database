@@ -3,6 +3,9 @@ figid: PMC8422427__physrev.00030.2020_f006
 figtitle: 'Obesity cardiomyopathy: evidence, mechanisms, and therapeutic implications'
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC8422427
 filename: physrev.00030.2020_f006.jpg
 figlink: /pmc/articles/PMC8422427/figure/F0006/
@@ -38,9 +41,6 @@ keywords: cardiovascular disease | glucotoxicity | heart | inflammation | lipoto
 automl_pathway: 0.9564412
 figid_alias: PMC8422427__F6
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC8422427__F6
 ndex: ''
 seo: CreativeWork

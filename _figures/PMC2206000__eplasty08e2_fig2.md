@@ -12,6 +12,14 @@ organisms:
 - Escherichia coli
 - Xenopus laevis
 - Human papillomavirus type 16
+organisms_ner:
+- Mus musculus
+- Sus scrofa
+- Cavia porcellus
+- Oryctolagus cuniculus
+- Homo sapiens
+- Xenopus laevis
+- Drosophila melanogaster
 pmcid: PMC2206000
 filename: eplasty08e2_fig2.jpg
 figlink: /pmc/articles/PMC2206000/figure/F2/
@@ -40,12 +48,6 @@ keywords: .na.character
 automl_pathway: 0.9445014
 figid_alias: PMC2206000__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Sus scrofa
-- Cavia porcellus
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC2206000__F2
 ndex: fb33fd82-ded5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -83,11 +85,13 @@ schema-jsonld:
   - Parp1
   - FASLG
   - FAS
-  - FASN
   - BAD
-  - PMAIP1
   - BAX
   - TP53
+  - Tp53
+  - TBCA
+  - FASN
+  - PMAIP1
   - TP63
   - TP73
   - PARP1
@@ -107,6 +111,32 @@ schema-jsonld:
   - TNKS
   - TNKS2
   - TIPARP
-  - Tp53
-  - TBCA
+  - faslg.L
+  - fas.L
+  - fas.S
+  - bax.S
+  - tp53.L
+  - tp53.S
+  - parp1.L
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Fas1
+  - FASN1
+  - Fas2
+  - Fas3
+  - fand
+  - tei
+  - rg
+  - FASN2
+  - FASN3
+  - cass
+  - ball
+  - ca
+  - p53
+  - betaTub60D
+  - hth
+  - key
+  - Parp
 ---

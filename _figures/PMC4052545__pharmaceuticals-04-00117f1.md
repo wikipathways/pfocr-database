@@ -3,6 +3,9 @@ figid: PMC4052545__pharmaceuticals-04-00117f1
 figtitle: S1P receptor signaling
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4052545
 filename: pharmaceuticals-04-00117f1.jpg
 figlink: /pmc/articles/PMC4052545/figure/f1-pharmaceuticals-04-00117/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9572917
 figid_alias: PMC4052545__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4052545__F1
 ndex: 5fcece8f-debf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -53,12 +54,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - norpA
-  - sl
-  - Plc21C
   - ras
   - Ras64B
   - Ras85D
+  - norpA
+  - sl
+  - Plc21C
   - Pi3K21B
   - Pi3K59F
   - Pi3K68D
@@ -83,6 +84,80 @@ schema-jsonld:
   - Dif
   - dl
   - Rel
+  - S1PR3
+  - S1PR1
+  - S1PR2
+  - GNAO1
+  - GNAI1
+  - GNAI2
+  - GNAI3
+  - GNAT1
+  - GNAT2
+  - GNAT3
+  - GNAZ
+  - GNA12
+  - GNA13
+  - ATF6B
+  - GNAQ
+  - GNA11
+  - GNA14
+  - GNA15
+  - KRAS
+  - HRAS
+  - NRAS
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
+  - PTEN
+  - ZHX2
+  - ARAF
+  - BRAF
+  - RAF1
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - ROCK1
+  - ROCK2
+  - AKT1
+  - RAC1
+  - RAC2
+  - RAC3
+  - RHOG
+  - NOS3
+  - ENO4
+  - NFKB1
   - Cancer
   - Lung cancer
 ---

@@ -3,6 +3,8 @@ figid: PMC2882123__cshperspect-NFK-000232_F7
 figtitle: Imd pathway in adult Drosophila melanogaster
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2882123
 filename: cshperspect-NFK-000232_F7.jpg
 figlink: /pmc/articles/PMC2882123/figure/A000232F7/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9489272
 figid_alias: PMC2882123__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2882123__F7
 ndex: 907455e7-deed-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -66,10 +66,10 @@ schema-jsonld:
   - IKKbeta
   - Tab2
   - bsk
+  - DptA
+  - DptB
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
-  - DptA
-  - DptB
 ---

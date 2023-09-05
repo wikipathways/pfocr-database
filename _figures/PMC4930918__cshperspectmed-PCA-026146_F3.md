@@ -3,6 +3,10 @@ figid: PMC4930918__cshperspectmed-PCA-026146_F3
 figtitle: p53 directs lipid and amino acid metabolism during stress
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4930918
 filename: cshperspectmed-PCA-026146_F3.jpg
 figlink: /pmc/articles/PMC4930918/figure/A026146F3/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9689831
 figid_alias: PMC4930918__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4930918__F3
 ndex: f9b7c5ee-dec7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -74,10 +75,10 @@ schema-jsonld:
   - hth
   - dap
   - SREBP
-  - ATPCL
   - ACC
   - tacc
   - acclinal-wing
+  - ATPCL
   - CG4860
   - CycE
   - cyc
@@ -104,14 +105,23 @@ schema-jsonld:
   - TCEAL1
   - NSG1
   - H3P16
-  - ACLY
   - ACACA
   - BMS1
   - ACACB
+  - ACLY
   - CPT1C
   - ACAD11
   - ATP8A2
   - WDTC1
+  - fas
+  - elf2a
+  - eif2a
+  - tp53
+  - cdkn1a
+  - acaca
+  - fasn
+  - aclya
+  - acad11
   - Fatty acids
   - Glucose
   - Oxaloacetate

@@ -3,6 +3,9 @@ figid: PMC7552614__bioengineering-07-00088-g010
 figtitle: Representation of the TGFB, BMP, and WNT signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7552614
 filename: bioengineering-07-00088-g010.jpg
 figlink: pmc/articles/PMC7552614/figure/bioengineering-07-00088-f010/
@@ -21,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.963595
 figid_alias: PMC7552614__F10
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7552614__F10
 ndex: ''
 seo: CreativeWork
@@ -38,6 +39,45 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - dpp
+  - gbb
+  - put
+  - mav
+  - .na.character
+  - wit
+  - ras
+  - Ras64B
+  - Ras85D
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Mad
+  - CG2662
+  - Mnt
+  - ash2
+  - Dsor1
+  - lic
+  - arm
+  - Mtor
+  - Tor
+  - Cdk5alpha
+  - RpLP0
+  - MED6
+  - MKP-4
+  - p38b
+  - rl
+  - sna
+  - slug
+  - twi
+  - Med
+  - Smox
+  - br
   - WNT1
   - WNT2
   - WNT2B
@@ -97,8 +137,8 @@ schema-jsonld:
   - AKT1
   - AKT2
   - AKT3
-  - MLX
   - MNT
+  - MLX
   - AMPD1
   - MXD1
   - MAP2K1

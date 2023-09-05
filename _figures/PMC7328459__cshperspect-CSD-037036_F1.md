@@ -4,6 +4,10 @@ figtitle: Dysregulation of Cell Death in Human Chronic Inflammation
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC7328459
 filename: cshperspect-CSD-037036_F1.jpg
 figlink: /pmc/articles/PMC7328459/figure/PIBCSDA037036F1/
@@ -40,9 +44,6 @@ keywords: ''
 automl_pathway: 0.950248
 figid_alias: PMC7328459__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC7328459__F1
 ndex: ''
 seo: CreativeWork
@@ -77,9 +78,41 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - C2
+  - BIRC3
+  - BIRC2
+  - TAB1
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - TRAF2
+  - TANK
+  - TRAF5
+  - TAB2
+  - RELA
+  - TNF
+  - TRADD
+  - RIPK1
+  - IKBKG
+  - RNF31
+  - SHARPIN
+  - IKBKB
+  - CHUK
+  - IKBKE
+  - TBK1
+  - OTULIN
+  - CYLD
+  - TNFAIP3
+  - IGKV1-27
+  - FADD
+  - RIPK3
+  - CSE1L
+  - CTNND1
+  - BCAR1
+  - TMX2-CTNND1
   - Birc3
   - Birc2
-  - C2
   - Tab1
   - Cdc37
   - Lsp1
@@ -87,8 +120,8 @@ schema-jsonld:
   - Pold2
   - Cd40
   - Dctn2
-  - Traf5
   - Traf2
+  - Traf5
   - Tab2
   - Rela
   - Tnf
@@ -106,36 +139,20 @@ schema-jsonld:
   - Ripk3
   - Bcar1
   - Cse1l
-  - BIRC2
-  - BIRC3
-  - TAB1
-  - CD40
-  - ARHGEF7
-  - ASCC1
-  - H3P40
-  - TRAF5
-  - TRAF2
-  - TANK
-  - TAB2
-  - RELA
-  - TNF
-  - TRADD
-  - RIPK1
-  - IKBKG
-  - RNF31
-  - SHARPIN
-  - CHUK
-  - IKBKB
-  - IKBKE
-  - TBK1
-  - OTULIN
-  - CYLD
-  - TNFAIP3
-  - IGKV1-27
-  - FADD
-  - RIPK3
-  - CSE1L
-  - CTNND1
-  - BCAR1
-  - TMX2-CTNND1
+  - tab1
+  - nfkb1
+  - traf5
+  - tab2
+  - rela
+  - tnfrsfa
+  - tnfb
+  - tradd
+  - ikbkg
+  - sharpin
+  - cylda
+  - fadd
+  - casp8
+  - ripk3
+  - cse1l
+  - sox32
 ---

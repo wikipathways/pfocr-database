@@ -7,6 +7,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Pseudomonas aeruginosa
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8469001
 filename: pharmaceuticals-14-00836-g006.jpg
 figlink: /pmc/articles/PMC8469001/figure/pharmaceuticals-14-00836-f006/
@@ -38,9 +42,6 @@ keywords: LRP1B | endocytic receptor | cancer | tumor suppressor | biomarker | p
 automl_pathway: 0.748596
 figid_alias: PMC8469001__F6
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8469001__F6
 ndex: ''
 seo: CreativeWork
@@ -78,4 +79,8 @@ schema-jsonld:
   - C1D
   - APP
   - LRP1B
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
 ---

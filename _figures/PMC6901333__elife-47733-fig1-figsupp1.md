@@ -14,10 +14,14 @@ organisms:
 - Homo sapiens
 - Caenorhabditis elegans
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6901333
 filename: elife-47733-fig1-figsupp1.jpg
 figlink: /pmc/articles/PMC6901333/figure/fig1s1/
-number: SF1_1
+number: F1
 caption: 'Loss-of-function mutation in the red-colored proteins and gain-of-function
   mutations in the green-colored proteins act as paqr-2 mutant suppressors. Note that
   there are likely two separate fluidity-promoting outputs of PAQR-2 signaling: one
@@ -37,14 +41,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.961912
-figid_alias: PMC6901333__SF1_1
-figtype: Supplemental figure
-organisms_ner:
-- Caenorhabditis elegans
-- Homo sapiens
-- Mus musculus
-- Cricetulus griseus
-redirect_from: /figures/PMC6901333__SF1_1
+figid_alias: PMC6901333__F1
+figtype: Figure
+redirect_from: /figures/PMC6901333__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -86,10 +85,7 @@ schema-jsonld:
   - CEPT1
   - HACD1
   - HMGB1
-  - Adipor2
-  - Mat1a
-  - Cept1
+  - Pcyt1
   - Hacd1
-  - Hmgb1
-  - Pcyt1a
+  - cn
 ---

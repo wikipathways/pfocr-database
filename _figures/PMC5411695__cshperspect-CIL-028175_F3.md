@@ -9,6 +9,13 @@ organisms:
 - Homo sapiens
 - Drosophila melanogaster
 - unidentified
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Homo sapiens
+- Gallus gallus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC5411695
 filename: cshperspect-CIL-028175_F3.jpg
 figlink: /pmc/articles/PMC5411695/figure/A028175F3/
@@ -45,13 +52,6 @@ keywords: .na.character
 automl_pathway: 0.9586857
 figid_alias: PMC5411695__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Gallus gallus
-- Drosophila melanogaster
-- Danio rerio
 redirect_from: /figures/PMC5411695__F3
 ndex: 88793187-decc-11ea-99da-0ac135e8bacf
 seo: CreativeWork

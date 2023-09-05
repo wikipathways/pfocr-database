@@ -18,6 +18,16 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - synthetic construct
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Gallus gallus
+- Drosophila melanogaster
+- Arabidopsis thaliana
+- Caenorhabditis elegans
+- Schizosaccharomyces pombe
+- Bombyx mori
+- Xenopus laevis
 pmcid: PMC4123742
 filename: cshperspect-DAM-012732_F1AB.jpg
 figlink: /pmc/articles/PMC149053/figure/fig7/
@@ -62,16 +72,6 @@ keywords: .na.character
 automl_pathway: 0.9329234
 figid_alias: PMC4123742__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Gallus gallus
-- Drosophila melanogaster
-- Arabidopsis thaliana
-- Caenorhabditis elegans
-- Schizosaccharomyces pombe
-- Saccharomyces cerevisiae S288C
-- Bombyx mori
 redirect_from: /figures/PMC4123742__F7
 ndex: c5b4c728-df09-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -114,6 +114,43 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Mlip
+  - Fancm
+  - Mre11a
+  - Rad50
+  - Faap24
+  - Nbn
+  - Nlrp2
+  - Atr
+  - Mmab
+  - Fanci
+  - Fan1
+  - Fscn1
+  - Il1a
+  - Fancd2
+  - Eme1
+  - Blm
+  - Vps50
+  - Mus81
+  - Slx4
+  - Fancl
+  - Ercc4
+  - Ercc1
+  - Fancb
+  - Faap20
+  - Rad51
+  - Xrcc2
+  - Rad51c
+  - Brca2
+  - Brip1
+  - fa
+  - Brca1
+  - Palb2
+  - Fus
+  - Chek1
+  - Rnf8
+  - Ube2n
+  - Trp53bp1
   - MLIP
   - AK6
   - FANCM
@@ -160,43 +197,6 @@ schema-jsonld:
   - H2AC20
   - TUBA3D
   - TP53BP1
-  - Mlip
-  - Fancm
-  - Mre11a
-  - Rad50
-  - Faap24
-  - Nbn
-  - Nlrp2
-  - Atr
-  - Mmab
-  - Fanci
-  - Fan1
-  - Fscn1
-  - Il1a
-  - Fancd2
-  - Eme1
-  - Blm
-  - Vps50
-  - Mus81
-  - Slx4
-  - Fancl
-  - Ercc4
-  - Ercc1
-  - Fancb
-  - Faap20
-  - Rad51
-  - Xrcc2
-  - Rad51c
-  - Brca2
-  - Brip1
-  - fa
-  - Brca1
-  - Palb2
-  - Fus
-  - Chek1
-  - Rnf8
-  - Ube2n
-  - Trp53bp1
   - OPN1MSW
   - H2AC31
   - mre11
@@ -236,11 +236,40 @@ schema-jsonld:
   - rhp51
   - chk1
   - ubc13
-  - SLX1
-  - CHK1
   - Mre11
   - Fa
   - Ubc13
+  - fancm.L
+  - mre11.L
+  - rad50.L
+  - faap24.L
+  - nbn.L
+  - atr.L
+  - antxr1.L
+  - antxr1.S
+  - fanci.L
+  - fan1.L
+  - fancd2.L
+  - eme1.L
+  - blm.S
+  - mus81.L
+  - slx4.L
+  - fancl.L
+  - ercc4.L
+  - ercc1.L
+  - slx1a.L
+  - brca2.L
+  - rad51.L
+  - rad51.S
+  - brip1.L
+  - brca1.L
+  - palb2.L
+  - chek1.S
+  - chek1.L
+  - rnf8.S
+  - rnf8.L
+  - h2ax.S
+  - tp53bp1.S
   - Breast cancer
   - Fanconi anemia
 ---

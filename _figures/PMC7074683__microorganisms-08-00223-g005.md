@@ -4,6 +4,8 @@ figtitle: Metabolic pathway of cypermethrin degradation of strain SG4
 organisms:
 - Bacillus thuringiensis
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7074683
 filename: microorganisms-08-00223-g005.jpg
 figlink: pmc/articles/PMC7074683/figure/microorganisms-08-00223-f005/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8514414
 figid_alias: PMC7074683__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7074683__F5
 ndex: ''
 seo: CreativeWork

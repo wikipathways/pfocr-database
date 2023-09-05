@@ -24,10 +24,24 @@ organisms:
 - Caenorhabditis elegans
 - Homo sapiens
 - Fundulus heteroclitus
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
+- Homo sapiens
+- Rattus norvegicus
+- Equus caballus
+- Canis lupus familiaris
+- Cavia porcellus
+- Felis catus
+- Fukomys damarensis
+- Heterocephalus glaber
+- Fundulus heteroclitus
+- Caenorhabditis elegans
+- Danio rerio
 pmcid: PMC8012063
 filename: elife-57843-fig4-figsupp5.jpg
 figlink: pmc/articles/PMC8012063/figure/fig4s5/
-number: SF4_5
+number: F4
 caption: The signal is mainly driven by the differential expression of the mitochondrial
   respiratory chain. Green/red color depicts the cross-tissue log2-fold-change (see
   legend for scale) with direction breeder/non-breeder.
@@ -41,22 +55,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9522325
-figid_alias: PMC8012063__SF4_5
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Drosophila melanogaster
-- Homo sapiens
-- Rattus norvegicus
-- Canis lupus familiaris
-- Cavia porcellus
-- Equus caballus
-- Fukomys damarensis
-- Heterocephalus glaber
-- Felis catus
-- Fundulus heteroclitus
-- Caenorhabditis elegans
-redirect_from: /figures/PMC8012063__SF4_5
+figid_alias: PMC8012063__F4
+figtype: Figure
+redirect_from: /figures/PMC8012063__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -84,7 +85,6 @@ schema-jsonld:
   - Hip1
   - Fabp4
   - Tfap2a
-  - Cp
   - Tbp
   - Ht
   - Spl
@@ -117,21 +117,19 @@ schema-jsonld:
   - CoRest
   - Sin3A
   - Polr2A
+  - Polr2C
+  - Polr2B
+  - Polr2I
+  - Polr2F
   - Prim1
   - PolA1
   - PolA2
   - sv
   - Prim2
   - svr
-  - Polr2C
-  - Polr2B
-  - Polr2I
-  - Polr2F
   - AP-2alpha
   - TfAP-2
   - AP-2sigma
-  - cb
-  - cp
   - .na.character
   - Sply
   - grass
@@ -186,7 +184,6 @@ schema-jsonld:
   - FABP4
   - GTF3A
   - TFAP2A
-  - CP
   - TBP
   - HT
   - SGPL1
@@ -273,6 +270,14 @@ schema-jsonld:
   - hip-1
   - taf-4
   - sod-2
+  - tnika
+  - msnb
+  - tfap2a
+  - atp1a1a.1
+  - ift57
+  - taf4a
+  - casp3a
+  - nkrf
   - ATP
   - Ca
   - MPTP

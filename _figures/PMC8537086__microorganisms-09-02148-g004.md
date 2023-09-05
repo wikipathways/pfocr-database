@@ -5,6 +5,8 @@ figtitle: Staphylococcus aureus Transcriptome Data and Metabolic Modelling Inves
   and the cdaA Operon for Metabolic Adaptation
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8537086
 filename: microorganisms-09-02148-g004.jpg
 figlink: /pmc/articles/PMC8537086/figure/microorganisms-09-02148-f004/
@@ -40,8 +42,6 @@ keywords: metabolism | flux balance analysis | phosphorylation | regulation | ri
 automl_pathway: 0.9116093
 figid_alias: PMC8537086__F4
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8537086__F4
 ndex: ''
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC4419338__JEM_2125insight4_Fig2
 figtitle: 'Going with the flow: How shear stress signals the emergence of adult hematopoiesis'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4419338
 filename: JEM_2125insight4_Fig2.jpg
 figlink: /pmc/articles/PMC4419338/figure/fig2/
@@ -22,9 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9567036
 figid_alias: PMC4419338__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4419338__F2
 ndex: 1c682efc-dee8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

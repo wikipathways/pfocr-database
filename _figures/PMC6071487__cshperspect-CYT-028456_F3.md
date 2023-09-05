@@ -3,6 +3,8 @@ figid: PMC6071487__cshperspect-CYT-028456_F3
 figtitle: Arid5a stabilizes interleukin 6 (IL-6) and Stat3 messenger RNAs (mRNAs)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6071487
 filename: cshperspect-CYT-028456_F3.jpg
 figlink: pmc/articles/PMC6071487/figure/A028456F3/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9313195
 figid_alias: PMC6071487__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6071487__F3
 ndex: ''
 seo: CreativeWork

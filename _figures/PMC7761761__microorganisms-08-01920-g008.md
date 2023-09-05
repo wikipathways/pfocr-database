@@ -4,6 +4,9 @@ figtitle: Putative metabolic pathway for the production of derivatives of nitrog
   azaphilone red pigments in the marine-derived Talaromyces sp
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7761761
 filename: microorganisms-08-01920-g008.jpg
 figlink: pmc/articles/PMC7761761/figure/microorganisms-08-01920-f008/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8385451
 figid_alias: PMC7761761__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC7761761__F8
 ndex: ''
 seo: CreativeWork
@@ -63,14 +63,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SAT1
-  - NDUFAB1
-  - CPAT1
-  - CA4
-  - H1-5
-  - BPIFA4P
-  - CSH1
-  - PPR1
   - Coa
   - pt
   - Orc1
@@ -86,6 +78,14 @@ schema-jsonld:
   - mid
   - Lrpprc2
   - Ppr-Y
+  - SAT1
+  - NDUFAB1
+  - CPAT1
+  - CA4
+  - H1-5
+  - BPIFA4P
+  - CSH1
+  - PPR1
   - 'N'
   - CSH11,3-oxo-octanoic acid
   - 3-oxo-decanoic acid

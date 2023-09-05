@@ -7,6 +7,8 @@ organisms:
 - Olea europaea
 - Beta vulgaris subsp. vulgaris
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC6879395
 filename: plantbiotechnology-35-2-18.0416a-figure01.jpg
 figlink: /pmc/articles/PMC6879395/figure/figure1/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8101082
 figid_alias: PMC6879395__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6879395__F1
 ndex: ''
 seo: CreativeWork

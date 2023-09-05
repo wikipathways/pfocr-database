@@ -4,6 +4,8 @@ figtitle: Schematic diagram of the shikimate and aromatic amino acid biosyntheti
   pathways in plants
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC5597090
 filename: bioengineering-02-00204-g002.jpg
 figlink: /pmc/articles/PMC5597090/figure/bioengineering-02-00204-f002/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9386585
 figid_alias: PMC5597090__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5597090__F2
 ndex: ''
 seo: CreativeWork

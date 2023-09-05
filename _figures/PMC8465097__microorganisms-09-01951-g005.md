@@ -4,6 +4,9 @@ figtitle: Differences in Acid Stress Response of Lacticaseibacillus paracasei Zh
   Cultured from Solid-State Fermentation and Liquid-State Fermentation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8465097
 filename: microorganisms-09-01951-g005.jpg
 figlink: /pmc/articles/PMC8465097/figure/microorganisms-09-01951-f005/
@@ -34,9 +37,6 @@ keywords: Lacticaseibacillus paracasei Zhang | acid stress tolerance | solid-sta
 automl_pathway: 0.8946749
 figid_alias: PMC8465097__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8465097__F5
 ndex: ''
 seo: CreativeWork
@@ -64,10 +64,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - GC
   - mali
-  - CR
   - Max
   - mof
+  - CR
   - chb
   - ch-b
   - cha
@@ -95,9 +96,9 @@ schema-jsonld:
   - mar
   - E(spl)malpha-BFM
   - Pgi
-  - Eno
   - Pep
   - bgcn
+  - Eno
   - gl
   - sno
   - LanB2
@@ -144,13 +145,13 @@ schema-jsonld:
   - GPI
   - PGPEP1
   - GALM
+  - PAEP
+  - PREP
+  - PTPN22
   - ENO1
   - ENO2
   - ENO3
   - ENO4
-  - PAEP
-  - PREP
-  - PTPN22
   - GNAO1
   - GNAI1
   - GNAI2

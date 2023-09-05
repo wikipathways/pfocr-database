@@ -17,6 +17,11 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Saimiriine gammaherpesvirus 2
+organisms_ner:
+- Mus musculus
+- Gallus gallus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC5732092
 filename: cshperspect-CYT-028522_F2.jpg
 figlink: pmc/articles/PMC5732092/figure/A028522F2/
@@ -45,11 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9004232
 figid_alias: PMC5732092__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Gallus gallus
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC5732092__F2
 ndex: ''
 seo: CreativeWork
@@ -75,8 +75,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Il17f
   - Il17a
+  - Il17f
   - Il17ra
   - Il17rc
   - Hsp90ab1
@@ -88,19 +88,20 @@ schema-jsonld:
   - Act1
   - Traf3ip2
   - Actvty1
-  - Traf6
   - Traf2
+  - Traf6
   - Traf5
   - Srsf1
   - Elavl1
   - Nfkb1
+  - Apk
   - IL17A
   - IL17F
   - IL17RA
   - IL17RC
   - HSP90AA1
-  - TRAF6
   - TRAF2
+  - TRAF6
   - TRAF5
   - C1QBP
   - CCL1

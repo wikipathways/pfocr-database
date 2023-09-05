@@ -4,6 +4,9 @@ figtitle: Modular Engineering of Saccharomyces cerevisiae for De Novo Biosynthes
   of Genistein
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9319343
 filename: microorganisms-10-01402-g001.jpg
 figlink: /pmc/articles/PMC9319343/figure/microorganisms-10-01402-f001/
@@ -34,8 +37,6 @@ keywords: genistein | modular engineering | Saccharomyces cerevisiae | metabolic
 automl_pathway: 0.9159606
 figid_alias: PMC9319343__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9319343__F1
 ndex: ''
 seo: CreativeWork
@@ -76,4 +77,13 @@ schema-jsonld:
   - tal-3A
   - tal-1A
   - ca
+  - POR
+  - GJB2
+  - LYST
+  - SPTA1
+  - HPP1
+  - PPY
+  - XPA
+  - TALDO1
+  - LRSAM1
 ---

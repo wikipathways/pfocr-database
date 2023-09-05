@@ -3,6 +3,8 @@ figid: PMC3941218__cshperspect-RTK-009191_F1
 figtitle: Insulin- and IGF-1-signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3941218
 filename: cshperspect-RTK-009191_F1.jpg
 figlink: /pmc/articles/PMC3941218/figure/A009191F1/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.915613
 figid_alias: PMC3941218__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3941218__F1
 ndex: 74253390-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -114,8 +114,8 @@ schema-jsonld:
   - MAP2K2
   - FOXD3
   - PPARGC1A
-  - CCL26
   - TSC2
+  - CCL26
   - GSK3A
   - GSK3B
   - AKT1S1

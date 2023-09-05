@@ -4,6 +4,8 @@ figtitle: Olfactory sensory neuron projections along the anterior–posterior ax
   the mouse olfactory system
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2908763
 filename: cshperspect-AXN-001776_F3.jpg
 figlink: /pmc/articles/PMC2908763/figure/A001776F3/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.7433412
 figid_alias: PMC2908763__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2908763__F3
 ndex: dbbee1c4-de93-11ea-99da-0ac135e8bacf
 seo: CreativeWork

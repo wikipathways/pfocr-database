@@ -28,6 +28,14 @@ organisms:
 - Homo sapiens
 - Leishmania donovani
 - NA
+organisms_ner:
+- Mus musculus
+- Canis lupus familiaris
+- Homo sapiens
+- Rattus norvegicus
+- Manis javanica
+- Mustela putorius furo
+- Danio rerio
 pmcid: PMC7905385
 filename: gr1b_lrg.jpg
 figlink: pmc/articles/PMC7905385/figure/fig1b/
@@ -92,13 +100,6 @@ keywords: .na.character
 automl_pathway: 0.7128643
 figid_alias: PMC7905385__F1b
 figtype: Figure
-organisms_ner:
-- Manis javanica
-- Mus musculus
-- Homo sapiens
-- Canis lupus familiaris
-- Rattus norvegicus
-- Mustela putorius furo
 redirect_from: /figures/PMC7905385__F1b
 ndex: ''
 seo: CreativeWork
@@ -161,18 +162,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TMPRSS2
-  - ACE2
-  - AAK1
-  - TLR3
-  - TLR7
-  - RIGI
-  - IL1B
-  - IL18
-  - IL6
-  - COX2
   - Tmprss2
-  - Ace2
+  - Ce2
   - Aak1
   - Tlr3
   - Tlr7
@@ -184,14 +175,14 @@ schema-jsonld:
   - Ticam1
   - Ticam2
   - Nfkb1
-  - Rigi
   - Ifih1
+  - Rigi
   - Il1b
   - Car1
   - Bcl2l10
-  - Ifna
   - Eya1
   - Cdca8
+  - Ifna
   - Il18
   - Il6
   - Tnf
@@ -204,13 +195,30 @@ schema-jsonld:
   - Sipd1
   - Pla2g2a
   - Pla2g5
+  - COX2
   - Ptgs2
   - H2-Aa
   - ap
   - S1pr1
   - Mbtps1
-  - XRCC6
+  - TMPRSS2
+  - AAK1
+  - TLR3
+  - TLR7
   - TLR9
+  - ALB
+  - RIGI
+  - IL1B
+  - CA1
+  - IFNA5
+  - IFNA6
+  - IL18
+  - IL6
+  - TNF
+  - CXCL8
+  - PTGS2
+  - XRCC6
+  - CES2
   - ERCC8
   - CSH1
   - HSPA9
@@ -218,20 +226,15 @@ schema-jsonld:
   - TICAM1
   - NFKB1
   - IFIH1
-  - CA1
   - BCL2L10
   - IFNA1
   - EYA1
   - CDCA8
-  - TNF
   - CXCL2
-  - CXCL8
   - IFN1@
   - IFNA2
   - IFNA17
   - IFNA4
-  - IFNA5
-  - IFNA6
   - IFNA7
   - IFNA8
   - IFNA10
@@ -262,10 +265,21 @@ schema-jsonld:
   - PLA2G4A
   - PLA2G4C
   - PLA2G4D
-  - PTGS2
   - MTCO2P12
   - MBTPS1
-  - ALB
+  - tmprss2
+  - aak1b
+  - tlr3
+  - tlr7
+  - tlr9
+  - ercc8
+  - ticam1
+  - rigi
+  - il1b
+  - il6
+  - tnfb
+  - cxcl8a
+  - mbtps1
   - CSA
   - MDA
   - PG

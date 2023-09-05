@@ -17,6 +17,10 @@ organisms:
 - Oryza sativa
 - Aedes aegypti
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7097628
 filename: 41579_2018_Article_BFnrmicro2017170_Fig3_HTML.jpg
 figlink: pmc/articles/PMC7097628/figure/Fig3/
@@ -71,9 +75,6 @@ keywords: .na.character
 automl_pathway: 0.8976009
 figid_alias: PMC7097628__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC7097628__F3
 ndex: ''
 seo: CreativeWork
@@ -232,4 +233,28 @@ schema-jsonld:
   - PRKAG3
   - PI4KA
   - OSBP
+  - be
+  - bip
+  - Hsc70-3
+  - aa
+  - PEK
+  - rl
+  - Ire1
+  - crc
+  - eIF2alpha
+  - eIF2A
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - cb
+  - SREBP
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - ca
+  - FASN1
+  - FASN2
+  - SNF4Agamma
+  - AMPKalpha
 ---

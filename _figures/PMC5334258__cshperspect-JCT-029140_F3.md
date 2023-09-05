@@ -4,6 +4,10 @@ figtitle: Trafficking pathways of E-cadherin
 organisms:
 - Homo sapiens
 - Drosophila melanogaster
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Caenorhabditis elegans
 pmcid: PMC5334258
 filename: cshperspect-JCT-029140_F3.jpg
 figlink: /pmc/articles/PMC5334258/figure/A029140F3/
@@ -26,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.913985
 figid_alias: PMC5334258__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5334258__F3
 ndex: 8c85a158-df10-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -67,8 +68,8 @@ schema-jsonld:
   - Snx1
   - Nost
   - Rab7
-  - scrib
   - Vps35
+  - scrib
   - CDH1
   - FZR1
   - CLTA
@@ -91,6 +92,14 @@ schema-jsonld:
   - NOSTRIN
   - RAB7A
   - RAB7B
-  - SCRIB
   - VPS35
+  - SCRIB
+  - cdh-1
+  - sec-6
+  - sec-5
+  - sec-15
+  - rab-5
+  - snx-1
+  - rab-7
+  - vps-35
 ---

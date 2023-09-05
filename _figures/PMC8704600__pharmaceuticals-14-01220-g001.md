@@ -7,6 +7,12 @@ organisms:
 - Homo sapiens
 - Oryctolagus cuniculus
 - Malus domestica
+organisms_ner:
+- Mus musculus
+- Oryctolagus cuniculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC8704600
 filename: pharmaceuticals-14-01220-g001.jpg
 figlink: /pmc/articles/PMC8704600/figure/pharmaceuticals-14-01220-f001/
@@ -28,11 +34,6 @@ keywords: statins | cancer | cancer prevention | anticancer therapy
 automl_pathway: 0.956862
 figid_alias: PMC8704600__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Oryctolagus cuniculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC8704600__F1
 ndex: ''
 seo: CreativeWork
@@ -71,9 +72,9 @@ schema-jsonld:
   - Bcl2
   - Bax
   - Nkx3-1
-  - Casp7
-  - Casp9
   - Casp3
+  - Casp9
+  - Casp7
   - RHO
   - EGFR
   - BCL-2
@@ -114,4 +115,25 @@ schema-jsonld:
   - AKT3
   - Ephb1
   - Pik3cg
+  - Ras64B
+  - Ras85D
+  - Raf
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - Coa
+  - rho
+  - Bx
+  - Rho1
+  - Lcp65Ab1
+  - Pvr
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Debcl
+  - Decay
+  - Dronc
 ---

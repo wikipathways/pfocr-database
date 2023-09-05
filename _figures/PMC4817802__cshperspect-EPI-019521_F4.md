@@ -3,6 +3,8 @@ figid: PMC4817802__cshperspect-EPI-019521_F4
 figtitle: Role of histone PTMs in DNA damage repair
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4817802
 filename: cshperspect-EPI-019521_F4.jpg
 figlink: /pmc/articles/PMC4817802/figure/A019521F4/
@@ -38,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.7674228
 figid_alias: PMC4817802__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4817802__F4
 ndex: 610b2002-df2e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -77,29 +77,29 @@ schema-jsonld:
   - H2BC21
   - KAT5
   - RNF2
-  - TRIM40
-  - TRIM61
-  - TRIM63
-  - RNF25
-  - RNF20
-  - UBOX5
-  - TRIM3
-  - TRIM54
   - TRIM39
   - TRIM60
-  - RNF24
   - RNF40
-  - RNF39
+  - RNF20
+  - RNF24
   - RNF31
-  - RNF38
+  - TRIM69
+  - RNF39
   - TRIM8
+  - TRIM3
+  - UBOX5
+  - RNF34
+  - RNF25
+  - TRIM55
+  - RNF26
+  - RNF38
+  - TRIM54
+  - RNF32
+  - TRIM63
   - TRIM34
   - TRIM6-TRIM34
-  - RNF34
-  - RNF32
-  - TRIM55
-  - TRIM69
-  - RNF26
+  - TRIM40
+  - TRIM61
   - ATM
   - ADAM11
   - CCL22

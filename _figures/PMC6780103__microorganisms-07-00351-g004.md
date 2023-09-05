@@ -40,6 +40,16 @@ organisms:
 - Gallus gallus
 - Staphylococcus aureus
 - Panthera leo
+organisms_ner:
+- Rattus norvegicus
+- Macaca mulatta
+- Cricetulus griseus
+- Homo sapiens
+- Mus musculus
+- Panthera leo
+- Gallus gallus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC6780103
 filename: microorganisms-07-00351-g004.jpg
 figlink: /pmc/articles/PMC6780103/figure/microorganisms-07-00351-f004/
@@ -69,14 +79,6 @@ keywords: .na.character
 automl_pathway: 0.9239823
 figid_alias: PMC6780103__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Rattus norvegicus
-- Macaca mulatta
-- Cricetulus griseus
-- Homo sapiens
-- Panthera leo
-- Gallus gallus
 redirect_from: /figures/PMC6780103__F4
 ndex: 41ce24dd-df09-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -111,30 +113,14 @@ schema-jsonld:
   - Src
   - Tlr9
   - Ptk2
-  - pk
   - Mapk3
   - Mapk1
-  - Crk
-  - Grap2
-  - Syp
-  - Mapk14
-  - Ahsa1
   - Akt1
   - Mapk8
   - Jun
-  - Rela
-  - Gorasp1
-  - Rel
-  - Cdc37
-  - Lsp1
-  - Nfkb1
-  - Pold2
-  - Cd40
-  - Dctn2
-  - Cxcl15
-  - Mcpt1
-  - Ccl2
   - Syt1
+  - Mapk14
+  - Ccl2
   - CD46
   - TLR1
   - TLR6
@@ -151,6 +137,22 @@ schema-jsonld:
   - PTK2
   - MAPK3
   - MAPK1
+  - AKT1
+  - AKT2
+  - AKT3
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - NFKBIA
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - REL
   - CRK
   - MAPK14
   - AIMP2
@@ -160,27 +162,64 @@ schema-jsonld:
   - MAPK11
   - MAPK12
   - MAPK13
-  - AKT1
-  - AKT2
-  - AKT3
-  - MAPK8
-  - MAPK9
-  - MAPK10
-  - RELA
-  - SYT1
-  - GORASP1
-  - WNK1
-  - REL
-  - CD40
-  - ARHGEF7
-  - ASCC1
-  - H3P40
-  - NFKBIA
+  - Rela
+  - Gorasp1
+  - Cdc37
+  - Lsp1
+  - Nfkb1
+  - Pold2
+  - Cd40
+  - Dctn2
+  - Rel
+  - Cxcl15
+  - Crk
+  - Grap2
+  - Syp
+  - Ahsa1
+  - Mcpt1
   - TLR1A
   - TLR1B
   - TLR2A
   - DCTN2
   - IL8L1
   - IL8L2
+  - tok
+  - tlr-2
+  - Src42A
+  - Csk
+  - Src64B
+  - Fak
+  - rl
+  - Akt
+  - bsk
+  - Jra
+  - tc
+  - dl
+  - wash
+  - Hrb27C
+  - betaTub60D
+  - Rpt5
+  - DCTN2-p50
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - tlr1
+  - tlr2
+  - myd88
+  - src
+  - tlr9
+  - ptk2ab
+  - mapk3
+  - mapk8b
+  - jun
+  - rela
+  - nfkb1
+  - rel
+  - cxcl8a
+  - mapk14a
   - Cancer
 ---

@@ -5,6 +5,9 @@ figtitle: Enhancing Saccharomyces cerevisiae Taxane Biosynthesis and Overcoming 
 organisms:
 - Saccharomyces cerevisiae
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8778766
 filename: microorganisms-10-00163-g001.jpg
 figlink: /pmc/articles/PMC8778766/figure/microorganisms-10-00163-f001/
@@ -32,8 +35,6 @@ keywords: Saccharomyces cerevisiae | Taxol | pseudohyphae | nutritional stress |
 automl_pathway: 0.9030335
 figid_alias: PMC8778766__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC8778766__F1
 ndex: ''
 seo: CreativeWork
@@ -57,6 +58,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - HMGB1
+  - HMGB1P5
+  - HMGB2
+  - IDI1
+  - IPP
+  - PLPP1
+  - VANGL2
+  - CTSC
+  - MSX2
+  - PTPN5
+  - POR
+  - PLXNA2
   - ERG10
   - ERG13
   - HMG1
@@ -64,7 +77,6 @@ schema-jsonld:
   - ERG12
   - ERG8
   - MVD1
-  - IDI1
   - LPP1
   - DPP1
   - BTS1

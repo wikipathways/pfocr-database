@@ -3,6 +3,9 @@ figid: PMC3543073__cshperspectmed-BAC-010272_F4
 figtitle: Bacterial nucleomodulins targeting chromatin
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3543073
 filename: cshperspectmed-BAC-010272_F4.jpg
 figlink: /pmc/articles/PMC3543073/figure/A010272F4/
@@ -36,9 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9519418
 figid_alias: PMC3543073__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3543073__F4
 ndex: 119651ef-def1-11ea-99da-0ac135e8bacf
 seo: CreativeWork

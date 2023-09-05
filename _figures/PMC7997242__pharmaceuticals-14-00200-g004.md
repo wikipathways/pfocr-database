@@ -3,6 +3,8 @@ figid: PMC7997242__pharmaceuticals-14-00200-g004
 figtitle: CD226 downregulation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7997242
 filename: pharmaceuticals-14-00200-g004.jpg
 figlink: pmc/articles/PMC7997242/figure/pharmaceuticals-14-00200-f004/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9506758
 figid_alias: PMC7997242__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7997242__F4
 ndex: ''
 seo: CreativeWork

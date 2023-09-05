@@ -5,6 +5,9 @@ figtitle: Two signaling pathways that respond to extracellular glucose in Saccha
 organisms:
 - Saccharomyces cerevisiae
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC7022881
 filename: microorganisms-08-00100-g001.jpg
 figlink: pmc/articles/PMC7022881/figure/microorganisms-08-00100-f001/
@@ -37,9 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9158133
 figid_alias: PMC7022881__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC7022881__F1
 ndex: ''
 seo: CreativeWork
@@ -69,31 +69,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - GPR1
-  - CDC25
-  - SNF3
-  - RGT2
-  - YCK2
-  - YCK1
-  - GPA2
-  - IRA2
-  - IRA1
-  - CYR1
-  - MTH1
-  - STD1
-  - PDE2
-  - PDE1
-  - TPK2
-  - TPK3
-  - TPK1
-  - BCY1
-  - RGT1
-  - GBP2
-  - HXK2
-  - HXT1
-  - HXT2
-  - HXT4
-  - HXT3
   - CMKLR2
   - CDC25C
   - RASGRF1
@@ -107,14 +82,37 @@ schema-jsonld:
   - TBL1XR1
   - NUDT1
   - ATP8A2
-  - APRT
-  - MFAP1
   - PDE1A
   - PDE1B
   - PDE1C
+  - TPK1
   - FBN1
+  - GBP2
   - GBP1
   - HK2
+  - GPR1
+  - CDC25
+  - SNF3
+  - RGT2
+  - YCK1
+  - YCK2
+  - GPA2
+  - IRA1
+  - IRA2
+  - CYR1
+  - MTH1
+  - STD1
+  - PDE2
+  - PDE1
+  - TPK2
+  - TPK3
+  - BCY1
+  - RGT1
+  - HXK2
+  - HXT1
+  - HXT4
+  - HXT2
+  - HXT3
   - Glucose
   - glucose
   - GDP

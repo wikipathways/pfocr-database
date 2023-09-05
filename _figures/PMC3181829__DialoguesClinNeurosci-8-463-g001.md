@@ -4,6 +4,9 @@ figtitle: Hypothalamic-pituitary-adrenal axis modulation of GABAergic neuroactiv
   steroids influences ethanol sensitivity and drinking behavior
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3181829
 filename: DialoguesClinNeurosci-8-463-g001.jpg
 figlink: /pmc/articles/PMC3181829/figure/DialoguesClinNeurosci-8-463-g001/
@@ -22,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.7855811
 figid_alias: PMC3181829__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3181829__F1
 ndex: ''
 seo: CreativeWork
@@ -51,6 +52,17 @@ schema-jsonld:
   - Andorra
   - Anp
   - Acam
+  - ARSH
+  - CYP11A1
+  - CYP17A1
+  - DHRS9
+  - DPYD
+  - DPYS
+  - CHST3
+  - CYP21A2
+  - CYP19A1
+  - CYP11B1
+  - CYP11B2
   - 5B-THDOC
   - 5a-THDOC
   - Pregnenolone sulfate

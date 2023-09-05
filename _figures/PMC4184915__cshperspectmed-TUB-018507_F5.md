@@ -3,6 +3,8 @@ figid: PMC4184915__cshperspectmed-TUB-018507_F5
 figtitle: Nutritional immunity to Mtb
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4184915
 filename: cshperspectmed-TUB-018507_F5.jpg
 figlink: /pmc/articles/PMC4184915/figure/A018507F5/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9011558
 figid_alias: PMC4184915__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4184915__F5
 ndex: ''
 seo: CreativeWork
@@ -53,6 +53,12 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ACOD1
+  - FH
+  - CLEC4D
+  - MT1JP
+  - NCAPG2
+  - IDO1
   - Propionyl-CoA
   - Anthranilate
   - 2-Methylcitrate

@@ -7,6 +7,12 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Bos taurus
+organisms_ner:
+- Rattus norvegicus
+- Bos taurus
+- Mus musculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4773033
 filename: cddiscovery201529-f2.jpg
 figlink: /pmc/articles/PMC4773033/figure/fig2/
@@ -33,11 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9486625
 figid_alias: PMC4773033__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Mus musculus
-- Bos taurus
-- Homo sapiens
 redirect_from: /figures/PMC4773033__F2
 ndex: 20251ec8-dee2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -85,8 +86,8 @@ schema-jsonld:
   - Bcar1
   - Slc38a2
   - Prkcg
-  - Pik3cg
   - Cat
+  - Pik3cg
   - Tgfb1
   - Grb2
   - Cacna1s
@@ -134,43 +135,13 @@ schema-jsonld:
   - Pth
   - Pth1r
   - Galr2
-  - Or51i2
-  - Or5t9
   - Or52s6
+  - Or51i2
   - Or51b17
-  - Or8c11
+  - Or5t9
   - Or6c69
+  - Or8c11
   - Or5aq7
-  - Tnc
-  - Pdgfrb
-  - Acvr1b
-  - Cacnb3
-  - Gabrb3
-  - Bhlhe22
-  - Calr
-  - Ntrk1
-  - Elf1
-  - Il2rb
-  - Ubash3b
-  - Shc1
-  - Plcb1
-  - pk
-  - Pik3r1
-  - cac
-  - Mip
-  - Trpv6
-  - Glyat
-  - Ltbp1
-  - Rps6ka1
-  - Rps6ka2
-  - P2rx1
-  - hl
-  - Gpx6
-  - M6pr
-  - fc
-  - Ri1
-  - Met
-  - Stk11
   - MZB1
   - ADCYAP1
   - IGF1
@@ -190,8 +161,8 @@ schema-jsonld:
   - IRS1
   - VAV2
   - SLC38A2
-  - PIK3CB
   - CAT
+  - PIK3CB
   - GRB2
   - CACNA1S
   - AKT1
@@ -226,6 +197,35 @@ schema-jsonld:
   - GRIN3B
   - PTH1R
   - GALR2
+  - Tnc
+  - Pdgfrb
+  - Acvr1b
+  - Cacnb3
+  - Gabrb3
+  - Bhlhe22
+  - Calr
+  - Ntrk1
+  - Elf1
+  - Il2rb
+  - Ubash3b
+  - Shc1
+  - Plcb1
+  - cac
+  - Mip
+  - Trpv6
+  - Glyat
+  - Pik3r1
+  - Ltbp1
+  - Rps6ka1
+  - Rps6ka2
+  - P2rx1
+  - hl
+  - Gpx6
+  - M6pr
+  - fc
+  - Ri1
+  - Met
+  - Stk11
   - INHBA
   - INHBB
   - PDGFRB
@@ -290,6 +290,8 @@ schema-jsonld:
   - PRKD3
   - DHH
   - IHH
+  - CRAT
+  - GLYAT
   - PIK3CA
   - PIK3CD
   - PIK3CG
@@ -299,8 +301,6 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
-  - CRAT
-  - GLYAT
   - TGFB1
   - TGFB2
   - TGFB3
@@ -377,6 +377,67 @@ schema-jsonld:
   - PAWR
   - F2RL3
   - PWAR4
+  - vipr2
+  - igf1
+  - wnt5b
+  - wnt7ba
+  - shha
+  - tnfb
+  - pdgfba
+  - fgf21
+  - wnt4
+  - itgb1a
+  - itgb1b.1
+  - itgb1b
+  - ngfb
+  - fgfr1a
+  - acvr1ba
+  - kita
+  - ngfra
+  - ptch1
+  - ptch2
+  - tnfrsfa
+  - fyna
+  - ntrk1
+  - sufu
+  - irs1
+  - vav2
+  - slc38a2
+  - cat
+  - grb2b
+  - cacna1sb
+  - pdk2b
+  - cacna1da
+  - cacna1db
+  - itk
+  - hrasa
+  - cxcr4b
+  - rap1aa
+  - raf1a
+  - hsp70.3
+  - hsp70.1
+  - shmt2
+  - braf
+  - si:dkey-222f8.3
+  - hspa1b
+  - psme3
+  - dusp5
+  - idh2
+  - gsta3
+  - jun
+  - gadd45ga
+  - odc1
+  - agxtb
+  - gstm.2
+  - coro1a
+  - psph
+  - gadd45ab
+  - srfa
+  - nr4a1
+  - pipox
+  - adora1b
+  - grin3ba
+  - pth1r
   - Cyclic AMP
   - Ryanodine
   - Cancer

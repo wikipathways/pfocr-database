@@ -3,6 +3,8 @@ figid: PMC6276890__carcinbgq028f01_4c
 figtitle: Canonical and non-canonical signaling pathways of the AhR
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6276890
 filename: carcinbgq028f01_4c.jpg
 figlink: /pmc/articles/PMC6276890/figure/fig1/
@@ -43,8 +45,6 @@ keywords: .na.character
 automl_pathway: 0.7974263
 figid_alias: PMC6276890__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6276890__F1
 ndex: 105c2a39-df29-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -84,21 +84,29 @@ schema-jsonld:
   keywords:
   - ARNT
   - MIA3
-  - AHR
   - TPT1
   - CDK5R1
   - PTGES3
   - TMED10
   - TMED10P1
   - H3P17
+  - AHR
   - AIP
   - HSP90AA1
   - HSP90B1
   - TRAP1
   - HSP90AB1
   - CYP1B1
-  - CYP1A1
   - CYP1A2
+  - CYP1A1
+  - GSTM2
+  - UGT1A
+  - UGT1A10
+  - UGT1A8
+  - UGT1A7
+  - UGT1A6
+  - UGT1A4
+  - UGT1A1
   - ALDH1A1
   - ALDH1A2
   - ALDH1A3
@@ -109,14 +117,6 @@ schema-jsonld:
   - ALDH5A1
   - ALDH7A1
   - ALDH9A1
-  - UGT1A
-  - UGT1A10
-  - UGT1A8
-  - UGT1A7
-  - UGT1A6
-  - UGT1A4
-  - UGT1A1
-  - GSTM2
   - NFKB1
   - RELA
   - RELB

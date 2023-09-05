@@ -20,6 +20,11 @@ organisms:
 - Mus musculus
 - Bos taurus
 - Babesia canis
+organisms_ner:
+- Mus musculus
+- Bos taurus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC8065698
 filename: microorganisms-09-00705-g002.jpg
 figlink: pmc/articles/PMC8065698/figure/microorganisms-09-00705-f002/
@@ -48,10 +53,6 @@ keywords: .na.character
 automl_pathway: 0.8720782
 figid_alias: PMC8065698__F2
 figtype: Figure
-organisms_ner:
-- Bos taurus
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC8065698__F2
 ndex: ''
 seo: CreativeWork
@@ -77,18 +78,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TLR2
-  - TLR4
-  - TICAM1
-  - MYD88
-  - TRAF2
-  - NOD1
-  - EIF2A
-  - NOD2
-  - RIPK2
-  - XBP1
-  - IL6
-  - TNF
   - Tlr2
   - Tlr4
   - Rnf138
@@ -107,14 +96,26 @@ schema-jsonld:
   - Eif2a
   - Eif2s1
   - Nod2
+  - Apk
   - Ripk2
   - Xbp1
   - Nfkbib
   - Mapk8
   - Il6
   - Nfkb1
-  - Jun
   - Tnf
+  - TLR2
+  - TLR4
+  - TICAM1
+  - MYD88
+  - TRAF2
+  - NOD1
+  - EIF2A
+  - NOD2
+  - RIPK2
+  - XBP1
+  - IL6
+  - TNF
   - TRIM69
   - EIF2AK3
   - ERN1
@@ -136,9 +137,18 @@ schema-jsonld:
   - MAPK9
   - MAPK10
   - NFKB1
-  - FOS
-  - FOSB
-  - JUN
-  - JUNB
-  - JUND
+  - tlr2
+  - ticam1
+  - myd88
+  - nod1
+  - elf2b
+  - elf2a
+  - eif2a
+  - nod2
+  - ripk2
+  - xbp1
+  - mapk8b
+  - il6
+  - tnfrsfa
+  - tnfb
 ---

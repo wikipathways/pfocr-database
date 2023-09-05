@@ -3,6 +3,9 @@ figid: PMC3839599__cshperspectmed-SKN-017772_F3
 figtitle: Molecular mechanisms of Notch-mediated epidermal homeostasis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3839599
 filename: cshperspectmed-SKN-017772_F3.jpg
 figlink: /pmc/articles/PMC3839599/figure/A017772F3/
@@ -30,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9255452
 figid_alias: PMC3839599__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3839599__F3
 ndex: a893c70d-de9d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -57,12 +58,26 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - AP-1gamma
+  - Jra
+  - kay
+  - spn-E
+  - E(spl)m8-HLH
+  - Hey
+  - p53
+  - betaTub60D
+  - hth
+  - .na.character
+  - ra
+  - dap
+  - ref(2)P
+  - wash
+  - SH3PX1
   - FOS
   - FOSB
   - JUN
   - JUNB
   - JUND
-  - HEY
   - RRBP1
   - HES1
   - HES2
@@ -71,6 +86,7 @@ schema-jsonld:
   - HES5
   - HES6
   - HES7
+  - HEY
   - TP53
   - TP63
   - TP73

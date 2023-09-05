@@ -3,6 +3,8 @@ figid: PMC9278857__sciadv.abo5738-f5
 figtitle: Incorporation of scopoletin into the lignin polymer
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC9278857
 filename: sciadv.abo5738-f5.jpg
 figlink: /pmc/articles/PMC9278857/figure/F5/
@@ -28,8 +30,6 @@ keywords: ''
 automl_pathway: 0.6799696
 figid_alias: PMC9278857__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9278857__F5
 ndex: ''
 seo: CreativeWork

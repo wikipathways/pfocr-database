@@ -31,6 +31,8 @@ organisms:
 - uncultured archaeon 15A
 - Homo sapiens
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7285479
 filename: microorganisms-08-00759-g004.jpg
 figlink: pmc/articles/PMC7285479/figure/microorganisms-08-00759-f004/
@@ -56,8 +58,6 @@ keywords: .na.character
 automl_pathway: 0.7654324
 figid_alias: PMC7285479__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7285479__F4
 ndex: ''
 seo: CreativeWork

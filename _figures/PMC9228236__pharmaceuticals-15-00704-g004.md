@@ -4,6 +4,9 @@ figtitle: Assessing Gene Expression Related to Cisplatin Resistance in Human Ora
   Squamous Cell Carcinoma Cell Lines
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9228236
 filename: pharmaceuticals-15-00704-g004.jpg
 figlink: /pmc/articles/PMC9228236/figure/pharmaceuticals-15-00704-f004/
@@ -26,9 +29,6 @@ keywords: oral squamous cell carcinoma | cisplatin | RNA-Seq | cell adhesion mol
 automl_pathway: 0.8863977
 figid_alias: PMC9228236__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9228236__F4
 ndex: ''
 seo: CreativeWork

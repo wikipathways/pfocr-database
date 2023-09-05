@@ -65,6 +65,7 @@ dis <- dplyr::filter(dis, figid %in% keep$figid)%>%
 ## Produce md and tsv
 ```{r md}
 
+i=1
 batch.figs = figs[1:nrow(figs),] 
 # batch.figs = filter(figs, figid %in% redo_figids6)
 
@@ -72,8 +73,9 @@ by(batch.figs, seq_len(nrow(batch.figs)), function(f){
   fls = as.list(f)
   fid = fls$figid
   ffp = file.path("..","_figures",paste(fid,"md",sep = "."))
-  print(ffp)
-
+  print(paste(i,ffp))
+  i <<- i+1
+  
   # build tables
   tbg = genes %>%
     dplyr::filter(figid == fls$figid) %>%

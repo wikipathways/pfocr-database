@@ -7,6 +7,10 @@ organisms:
 - Homo sapiens
 - Mycobacterium kansasii
 - Saraca indica
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC5030827
 filename: bic-suppl.2-2016-061f2.jpg
 figlink: /pmc/articles/PMC5030827/figure/f2-bic-suppl.2-2016-061/
@@ -33,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8658035
 figid_alias: PMC5030827__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5030827__F2
 ndex: ''
 seo: CreativeWork
@@ -59,6 +61,34 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Slc27a1
+  - Slc27a6
+  - Slc1a3
+  - Slc2a1
+  - Slc2a4
+  - Cpt1a
+  - Cpt1b
+  - SLC27A1
+  - SLC27A6
+  - SLC2A1
+  - SLC2A4
+  - HK1
+  - GCK
+  - HK2
+  - HK3
+  - CPT1B
+  - Fatp1
+  - Glut1
+  - Hex-A
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - whd
+  - Cpt
+  - CycE
+  - cyc
+  - key
   - Acyl-CoA
   - Fatty Acid
   - fatty acid

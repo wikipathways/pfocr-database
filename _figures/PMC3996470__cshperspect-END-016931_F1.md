@@ -3,6 +3,9 @@ figid: PMC3996470__cshperspect-END-016931_F1
 figtitle: Receptor-mediated endocytic pathway in nonpolarized mammalian cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC3996470
 filename: cshperspect-END-016931_F1.jpg
 figlink: /pmc/articles/PMC3996470/figure/A016931F1/
@@ -25,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9354365
 figid_alias: PMC3996470__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3996470__F1
 ndex: ''
 seo: CreativeWork

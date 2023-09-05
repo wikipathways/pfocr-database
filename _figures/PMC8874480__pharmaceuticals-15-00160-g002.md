@@ -3,6 +3,8 @@ figid: PMC8874480__pharmaceuticals-15-00160-g002
 figtitle: 'JAK2 in Myeloproliferative Neoplasms: Still a Protagonist'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC8874480
 filename: pharmaceuticals-15-00160-g002.jpg
 figlink: /pmc/articles/PMC8874480/figure/pharmaceuticals-15-00160-f002/
@@ -19,8 +21,6 @@ keywords: JAK2 | myeloproliferative neoplasms | JAK2 inhibitors | resistance
 automl_pathway: 0.9510235
 figid_alias: PMC8874480__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8874480__F2
 ndex: ''
 seo: CreativeWork

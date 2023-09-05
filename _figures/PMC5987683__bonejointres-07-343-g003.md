@@ -7,6 +7,12 @@ organisms:
 - Oryctolagus cuniculus
 - Gallus gallus
 - Citrus limon
+organisms_ner:
+- Mus musculus
+- Gallus gallus
+- Oryctolagus cuniculus
+- Homo sapiens
+- Danio rerio
 pmcid: PMC5987683
 filename: bonejointres-07-343-g003.jpg
 figlink: /pmc/articles/PMC5987683/figure/fig3-2046-3758.75.BJR-2017-0284.R1/
@@ -31,11 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8440571
 figid_alias: PMC5987683__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Gallus gallus
-- Oryctolagus cuniculus
 redirect_from: /figures/PMC5987683__F3
 ndex: f29d9a8e-df1a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,16 +59,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Nfkb1
-  - Lrpap1
-  - Rptor
+  - Ng
+  - Metap1d
   - Ngf
   - ras
   - Hras
   - Kras
   - Rem1
+  - Braf
+  - Braf-rs1
   - Egf
-  - Fos
   - Nras
   - Srf
   - Mos
@@ -76,36 +77,72 @@ schema-jsonld:
   - Nol3
   - Gna12
   - Rasa1
-  - Jun
-  - Jund
-  - Atf2
-  - Trp53
+  - Ptprr
+  - Ppm1a
   - Crtap
+  - Ik
   - Akt1
+  - Trp53
+  - Tnf
   - Traf2
+  - Ap3b1
+  - Enpep
   - Fas
   - Fasn
   - Tgfb1
   - Ltbp1
   - Tab1
-  - Mef2c
-  - Cd14
   - Tab2
-  - Hspb1
+  - Traf6
   - Ecsit
-  - Atf4
   - Nlk
   - Gpi1
-  - Ng
-  - Metap1d
-  - Braf
-  - Braf-rs1
-  - Ptprr
-  - Ppm1a
-  - Ik
-  - Tnf
-  - pk
-  - Traf6
+  - Nfkb1
+  - Lrpap1
+  - Rptor
+  - Fos
+  - Jun
+  - Jund
+  - Atf2
+  - Mef2c
+  - Cd14
+  - Hspb1
+  - Atf4
+  - NGF
+  - BRAF
+  - RPS6KA1
+  - EGF
+  - NRAS
+  - SRF
+  - MOS
+  - MYC
+  - GNA12
+  - PTPRR
+  - PPM1A
+  - CRTAP
+  - CUX1
+  - IK
+  - TP53
+  - TRAF2
+  - FAS
+  - TAB1
+  - TAB2
+  - TRAF6
+  - NLK
+  - NFKB1
+  - LRPAP1
+  - FOS
+  - RASA1
+  - JUN
+  - JUND
+  - ATF2
+  - MEF2C
+  - CD14
+  - PPY
+  - HSPB1
+  - ATF4
+  - TNF
+  - ECSIT
   - MAPK1
   - MAPK3
   - MAPK11
@@ -115,35 +152,30 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
-  - SGSM3
-  - NFKB1
-  - NFKB2
-  - LRPAP1
-  - NGF
+  - METAP1D
   - KRAS
   - HRAS
-  - NRAS
-  - EGF
-  - PDGFD
-  - FOS
-  - FOSB
-  - FOSL1
-  - FOSL2
+  - NTRK1
+  - NTRK2
+  - NTRK3
   - XYLT2
   - SOS1
   - SOS2
-  - SRF
-  - MOS
   - MOCOS
-  - MYC
-  - GNA12
-  - RASA1
-  - SYNGAP1
+  - RASA2
+  - RASA3
+  - DUSP5
+  - DUSP1
+  - DUSP2
+  - DUSP3
+  - DUSP4
+  - DUSP6
   - PPP3CA
   - PPP3CB
   - PPP3CC
   - PPP3R1
   - PPP3R2
+  - SGSM3
   - HSPA12A
   - HSPA12B
   - HSPA13
@@ -160,60 +192,68 @@ schema-jsonld:
   - HSPA9
   - HSPH1
   - HYOU1
-  - JUN
-  - JUNB
-  - JUND
-  - ATF2
-  - GDNF
-  - DUSP5
-  - DUSP1
-  - DUSP2
-  - DUSP3
-  - DUSP4
-  - DUSP6
-  - TP53
-  - CUX1
+  - ANKH
   - CYTIP
-  - CRTAP
   - AKT1
   - AKT2
   - AKT3
-  - TRAF2
   - TANK
   - CD300C
-  - FAS
+  - ENPEP
   - FASN
+  - ANP32A
   - TGFB1
   - TGFB2
   - TGFB3
-  - TAB1
-  - MEF2C
-  - CD14
+  - GPI
+  - NFKB2
+  - PDGFD
+  - FOSB
+  - FOSL1
+  - FOSL2
+  - SYNGAP1
+  - JUNB
+  - GDNF
   - NDUFA2
-  - TAB2
-  - HSPB1
-  - ECSIT
-  - ATF4
   - TAOK1
   - TAOK2
   - TAOK3
-  - NLK
-  - GPI
-  - METAP1D
-  - NTRK1
-  - NTRK2
-  - NTRK3
-  - BRAF
-  - RASA2
-  - RASA3
-  - PTPRR
-  - ANKH
-  - PPM1A
-  - IK
-  - TNF
-  - ANP32A
-  - TRAF6
-  - RPS6KA1
-  - PPY
+  - metap1d
+  - ngfb
+  - rab1ab
+  - braf
+  - si:dkey-222f8.3
+  - egf
+  - celsr1a
+  - ccbe1
+  - nras
+  - srfa
+  - mos
+  - mocos
+  - myca
+  - mycbp2
+  - gna12a
+  - ptprr
+  - ppm1bb
+  - ik
+  - tp53
+  - tnfrsfa
+  - tnfb
+  - fas
+  - tab1
+  - tab2
+  - traf6
+  - ecsit
+  - nlk1
+  - nfkb1
+  - fosab
+  - cfap298
+  - rasa1a
+  - jun
+  - jund
+  - atf2
+  - mef2ca
+  - hspb1
+  - atf4a
   - Cancer
 ---

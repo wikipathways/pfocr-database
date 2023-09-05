@@ -4,6 +4,9 @@ figtitle: Ancestral Ca2+ Signaling Machinery in Early Animal and Fungal Evolutio
 organisms:
 - Opisthokonta
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4037924
 filename: molbiolevolmsr149f01_3c.jpg
 figlink: /pmc/articles/PMC4037924/figure/fig1/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9301097
 figid_alias: PMC4037924__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4037924__F1
 ndex: e8199cf4-df03-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -113,4 +114,24 @@ schema-jsonld:
   - NM
   - LETM1
   - TLX2
+  - ca
+  - Orai
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - PMCA
+  - CngA
+  - CCHa1
+  - Mid1
+  - cav
+  - Stim
+  - tim
+  - sr
+  - SERCA
+  - Itpr
+  - RyR
+  - Letm1
+  - Calx
 ---

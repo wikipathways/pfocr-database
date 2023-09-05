@@ -4,10 +4,12 @@ figtitle: Signalling pathway impact analysis of gene expression data from H226 
   cells expressing C91A-mutant (mt BAP1) or wild-type BAP1 (wt BAP1)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5773178
 filename: elife-30224-fig2-figsupp9.jpg
 figlink: /pmc/articles/PMC5773178/figure/fig2s9/
-number: SF2_9
+number: F2
 caption: The proteins in the pathway are highlighted in green if the expression in
   mt BAP1 is significantly less than wt BAP1 and red if the expression in mt BAP1
   is significantly more than wt BAP1.
@@ -20,11 +22,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9038397
-figid_alias: PMC5773178__SF2_9
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC5773178__SF2_9
+figid_alias: PMC5773178__F2
+figtype: Figure
+redirect_from: /figures/PMC5773178__F2
 ndex: 63e065f9-df11-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -40,43 +40,50 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CASP1
-  - CASP2
-  - CASP4
-  - CASP5
   - CASP6
-  - CASP8
-  - CASP9
+  - RORC
+  - FYB1
+  - LAP
+  - ACP2
+  - TGFB1
+  - PICALM
+  - LAP3
+  - CENPJ
+  - PDON2
+  - FASLG
+  - TNFSF10
+  - FES
+  - FADD
   - CASP10
-  - CASP12
-  - CASP14
   - CASP3
-  - CASP7
+  - DFFA
+  - TRADD
+  - DFFB
+  - TNF
+  - CASP8
+  - TRAF2
+  - TANK
+  - BID
   - ALPI
   - ALPP
   - CD47
   - IAPP
   - MAGT1
-  - FASLG
-  - FES
-  - FADD
-  - TNFSF10
-  - DFFA
-  - TRADD
-  - DFFB
-  - TNF
-  - TRAF2
-  - TANK
-  - BID
   - MYD88
+  - IRAK1
   - CFLAR
   - FIRRM
-  - IRAK1
+  - CASP9
   - APAF1
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
   - TP53
   - TP63
   - TP73
-  - MRPL49
+  - NGF
   - NTRK1
   - PIK3CA
   - PIK3CB
@@ -90,6 +97,20 @@ schema-jsonld:
   - PIK3R2
   - IL3RA
   - BAD
+  - IL3
+  - SOD1
+  - ATM
+  - ADRB2
+  - NR1H4
+  - BFAR
+  - CASP12
+  - CASP1
+  - CASP2
+  - CASP4
+  - CASP5
+  - CASP14
+  - CASP7
+  - MRPL49
   - PRKAR1A
   - PRKAR1B
   - PRKAR2A
@@ -97,27 +118,6 @@ schema-jsonld:
   - PRKACA
   - PRKACB
   - PRKACG
-  - IL3
-  - SOD1
-  - ATM
-  - ADRB2
-  - NR1H4
-  - BFAR
-  - FYB1
-  - RORC
-  - LAP
-  - ACP2
-  - TGFB1
-  - PICALM
-  - LAP3
-  - CENPJ
-  - PDON2
-  - NFKB1
-  - RELA
-  - RELB
-  - REL
-  - NFKB2
-  - NGF
   - O
   - Ca2
 ---

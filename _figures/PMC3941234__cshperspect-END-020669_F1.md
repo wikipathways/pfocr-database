@@ -3,6 +3,9 @@ figid: PMC3941234__cshperspect-END-020669_F1
 figtitle: Endocytosis in neurons
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3941234
 filename: cshperspect-END-020669_F1.jpg
 figlink: /pmc/articles/PMC3941234/figure/A020669F1/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9431716
 figid_alias: PMC3941234__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3941234__F1
 ndex: 6852a606-de9d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -73,5 +74,186 @@ schema-jsonld:
   - trk
   - Rab11
   - Rab7
+  - NGF
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - PIK3R1
+  - PIK3R2
+  - NTRK1
+  - KRAS
+  - HRAS
+  - NRAS
+  - AKT1
+  - AKT2
+  - AKT3
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - CENPE
+  - KIF11
+  - KIF12
+  - KIF13A
+  - KIF13B
+  - KIF14
+  - KIF15
+  - KIF16B
+  - KIF17
+  - KIF18A
+  - KIF18B
+  - KIF19
+  - KIF1A
+  - KIF1B
+  - KIF1C
+  - KIF20A
+  - KIF20B
+  - KIF21A
+  - KIF21B
+  - KIF22
+  - KIF23
+  - KIF24
+  - KIF25
+  - KIF26A
+  - KIF26B
+  - KIF27
+  - KIF2A
+  - KIF2B
+  - KIF2C
+  - KIF3A
+  - KIF3B
+  - KIF3C
+  - KIF4A
+  - KIF4B
+  - KIF5A
+  - KIF5B
+  - KIF5C
+  - KIF6
+  - KIF7
+  - KIF9
+  - KIFC1
+  - KIFC2
+  - KIFC3
+  - STARD9
+  - DYNC1H1
+  - DYNC1I1
+  - DYNC1I2
+  - DYNC1LI1
+  - DYNC1LI2
+  - DYNLL1
+  - DYNLL2
+  - DYNLRB1
+  - DYNLRB2
+  - DYNLT1
+  - DYNLT3
+  - DYNC2H1
+  - DYNC2LI1
+  - DYNLT2B
+  - DYNC2I1
+  - DYNC2I2
+  - DNAI7
+  - DNAH1
+  - DNAH10
+  - DNAH12
+  - DNAH14
+  - DNAH2
+  - DNAH3
+  - DNAH6
+  - DNAH7
+  - DNAI3
+  - DNAI4
+  - DNAH11
+  - DNAH17
+  - DNAH5
+  - DNAH8
+  - DNAH9
+  - DNAI1
+  - DNAI2
+  - DNAL1
+  - DNAL4
+  - DYNLT2
+  - AGFG1
+  - RAB10
+  - RAB11A
+  - RAB11B
+  - RAB12
+  - RAB13
+  - RAB14
+  - RAB15
+  - RAB17
+  - RAB18
+  - RAB19
+  - RAB1A
+  - RAB1B
+  - RAB1C
+  - RAB20
+  - RAB21
+  - RAB22A
+  - RAB23
+  - RAB24
+  - RAB25
+  - RAB26
+  - RAB27A
+  - RAB27B
+  - RAB28
+  - RAB2A
+  - RAB2B
+  - RAB30
+  - RAB31
+  - RAB32
+  - RAB33A
+  - RAB33B
+  - RAB34
+  - RAB35
+  - RAB36
+  - RAB37
+  - RAB38
+  - RAB39A
+  - RAB39B
+  - RAB3A
+  - RAB3B
+  - RAB3C
+  - RAB3D
+  - RAB40A
+  - RAB40AL
+  - RAB40B
+  - RAB40C
+  - RAB41
+  - RAB42
+  - RAB43
+  - RAB44
+  - RAB4A
+  - RAB4B
+  - RAB5A
+  - RAB5B
+  - RAB5C
+  - RAB6A
+  - RAB6B
+  - RAB6C
+  - RAB7A
+  - RAB7B
+  - RAB29
+  - RAB8A
+  - RAB8B
+  - RAB9A
+  - RAB9B
+  - RABL2A
+  - RABL2B
+  - RABL3
+  - IFT22
+  - TPM3
+  - CLTA
+  - CLTB
+  - CLTC
   - Cancer
 ---

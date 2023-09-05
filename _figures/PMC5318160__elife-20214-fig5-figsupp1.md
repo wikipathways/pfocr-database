@@ -3,10 +3,12 @@ figid: PMC5318160__elife-20214-fig5-figsupp1
 figtitle: Glucocorticoid-driven network links many of the top-ranked PLSR genes
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5318160
 filename: elife-20214-fig5-figsupp1.jpg
 figlink: /pmc/articles/PMC5318160/figure/fig5s1/
-number: SF5_1
+number: F5
 caption: 'Twelve of the top-25 ranked genes in the PLSR onesample and PLSR two-sample
   differential models (indicated by a red asterisk) are linked in a network that is
   driven by glucocorticoid signaling. Glucocorticoid (GC) acting via glucocorticoid
@@ -40,11 +42,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9000668
-figid_alias: PMC5318160__SF5_1
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC5318160__SF5_1
+figid_alias: PMC5318160__F5
+figtype: Figure
+redirect_from: /figures/PMC5318160__F5
 ndex: b1953624-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:

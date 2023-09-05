@@ -4,6 +4,9 @@ figtitle: Glucose oxidation pathways in Ralstonia solanacearum strains highlight
   absence of key pathway genes
 organisms:
 - Ralstonia solanacearum
+organisms_ner:
+- Ralstonia solanacearum
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7065512
 filename: mSystems.00091-20-f0001.jpg
 figlink: pmc/articles/PMC7065512/figure/fig1/
@@ -44,8 +47,6 @@ keywords: .na.character
 automl_pathway: 0.9465554
 figid_alias: PMC7065512__F1
 figtype: Figure
-organisms_ner:
-- Ralstonia solanacearum
 redirect_from: /figures/PMC7065512__F1
 ndex: ''
 seo: CreativeWork
@@ -93,6 +94,18 @@ schema-jsonld:
   - tpiA
   - gpmA
   - eno
+  - glk
+  - gnd
+  - tktA
+  - eda
+  - fruA
+  - fbp
+  - fruB
+  - fruK
+  - fbaA
+  - pgk
+  - ytjC
+  - pykA
   - D-Glucose
   - Fructose
   - KDPG

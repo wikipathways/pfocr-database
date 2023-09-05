@@ -4,10 +4,13 @@ figtitle: Adenylosuccinate lyase (ADSL) in de novo purine synthesis (DNPS) and t
   purine nucleotide cycle
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8871376
 filename: elife-70518-fig1-figsupp1.jpg
 figlink: /pmc/articles/PMC8871376/figure/fig1s1/
-number: F1
+number: SF1_1
 caption: Schematic of the DNPS pathway, purine nucleotide cycle, purine salvage pathway,
   and tetrahydrofolate cycle. Enzymes are indicated in purple and metabolites in blue.
   ADSL is shown in orange and the small-molecule inhibitors used in red. Circles in
@@ -24,12 +27,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: ADSL | ADSLD | microcephaly | cilia | SAICAR | DNA damage | Human | Chicken
   | Zebrafish
 automl_pathway: 0.9300625
-figid_alias: PMC8871376__F1
-figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
-redirect_from: /figures/PMC8871376__F1
+figid_alias: PMC8871376__SF1_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC8871376__SF1_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -48,16 +48,45 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - de
+  - CycE
+  - cyc
+  - Amph
+  - adp
+  - Aprt
+  - Gart
+  - Pcp
+  - GlyRS
+  - Paics
+  - Pfas
+  - Prps
+  - nmo
+  - cni
+  - AdSL
+  - Ada
+  - AP-2alpha
+  - AdSS
+  - Imp
+  - CG11110
+  - CG17029
+  - CG17028
+  - CG17027
+  - CG9391
+  - CG9389
+  - ras
+  - bur
+  - CG11089
+  - fliF
   - APRT
   - MFAP1
   - WDTC1
-  - PFAS
-  - PAICS
-  - MSMB
   - GART
+  - GARS1
+  - PAICS
   - PPAT
   - COASY
-  - GARS1
+  - PFAS
+  - MSMB
   - ADK
   - NT5C1A
   - ADSL
@@ -82,33 +111,4 @@ schema-jsonld:
   - EMP2
   - GMPS
   - ATIC
-  - de
-  - CycE
-  - cyc
-  - Amph
-  - adp
-  - Aprt
-  - Pfas
-  - Paics
-  - Prps
-  - Gart
-  - Pcp
-  - GlyRS
-  - nmo
-  - cni
-  - AdSL
-  - Ada
-  - AP-2alpha
-  - AdSS
-  - Imp
-  - CG11110
-  - CG17029
-  - CG17028
-  - CG17027
-  - CG9391
-  - CG9389
-  - ras
-  - bur
-  - CG11089
-  - fliF
 ---

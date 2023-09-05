@@ -6,10 +6,12 @@ organisms:
 - Neurospora crassa
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- NA
 pmcid: PMC6861005
 filename: elife-48828-fig5-figsupp2.jpg
 figlink: /pmc/articles/PMC6861005/figure/fig5s2/
-number: SF5_2
+number: F5
 caption: (A) Relative abundances of intracellular metabolites in hTim8aMUT compared
   to control SH-SY5Y cells (n = 6) were mapped onto metabolic networks using VANTED
   analysis tool. Each pathway is color-coded as indicated and p-value significant
@@ -24,11 +26,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.5098273
-figid_alias: PMC6861005__SF5_2
-figtype: Supplemental figure
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6861005__SF5_2
+figid_alias: PMC6861005__F5
+figtype: Figure
+redirect_from: /figures/PMC6861005__F5
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

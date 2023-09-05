@@ -3,6 +3,9 @@ figid: PMC9231292__pharmaceuticals-15-00711-g002
 figtitle: High-Dose Vitamin C for Cancer Therapy
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9231292
 filename: pharmaceuticals-15-00711-g002.jpg
 figlink: /pmc/articles/PMC9231292/figure/pharmaceuticals-15-00711-f002/
@@ -48,8 +51,6 @@ keywords: high-dose | anti-cancer | vitamin-C | pharmacological | pharmacokineti
 automl_pathway: 0.956161
 figid_alias: PMC9231292__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9231292__F2
 ndex: ''
 seo: CreativeWork
@@ -108,4 +109,34 @@ schema-jsonld:
   - Gpdh1
   - Gapdh1
   - blw
+  - DECR1
+  - PLA2G15
+  - ACSS2
+  - ACCS
+  - ARSL
+  - STS
+  - PYCARD
+  - SLC2A1
+  - ATP8A2
+  - WDTC1
+  - PARP1
+  - COL11A2
+  - PARP2
+  - PARP3
+  - PARP4
+  - PARP6
+  - PARP8
+  - PARP9
+  - PARP10
+  - PARP11
+  - PARP12
+  - PARP14
+  - PARP15
+  - PARP16
+  - TNKS
+  - TNKS2
+  - TIPARP
+  - STAC3
+  - GAPDH
+  - GAPDHP44
 ---

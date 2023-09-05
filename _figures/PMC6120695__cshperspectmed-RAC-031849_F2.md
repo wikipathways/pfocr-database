@@ -4,6 +4,8 @@ figtitle: Secreted immunomodulatory factors transcriptionally induced by oncogen
   Kras signaling
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6120695
 filename: cshperspectmed-RAC-031849_F2.jpg
 figlink: pmc/articles/PMC6120695/figure/A031849F2/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.94695
 figid_alias: PMC6120695__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6120695__F2
 ndex: ''
 seo: CreativeWork

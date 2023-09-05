@@ -4,6 +4,10 @@ figtitle: Kidney immune activation against ischemia-reperfusion and transplant i
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC3784815
 filename: cshperspectmed-TRN-015479_F3.jpg
 figlink: /pmc/articles/PMC3784815/figure/A015479F3/
@@ -33,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.916769
 figid_alias: PMC3784815__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC3784815__F3
 ndex: 3ed5dabb-de94-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -64,9 +65,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - CCL2
   - CCL5
   - IL6
+  - CCL2
   - TGFB1
   - TGFB2
   - TGFB3
@@ -87,10 +88,10 @@ schema-jsonld:
   - TRD
   - TRG
   - NELFCD
-  - Mcpt1
-  - Ccl2
   - Ccl5
   - Il6
+  - Mcpt1
+  - Ccl2
   - Tgfb1
   - Ltbp1
   - Cxcl15
@@ -103,4 +104,22 @@ schema-jsonld:
   - Trav6-3
   - Hand1
   - Nelfcd
+  - dpp
+  - gbb
+  - put
+  - mav
+  - cs
+  - mtSSB
+  - Apc2
+  - Axn
+  - Fs(3)Apc
+  - Myo61F
+  - Mhc
+  - zip
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Tcr
+  - TH1
 ---

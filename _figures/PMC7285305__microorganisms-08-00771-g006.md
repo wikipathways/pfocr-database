@@ -4,6 +4,8 @@ figtitle: Representation of metabolic pathway performed on KEGG website
 organisms:
 - Willaertia magna
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7285305
 filename: microorganisms-08-00771-g006.jpg
 figlink: pmc/articles/PMC7285305/figure/microorganisms-08-00771-f006/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.6709865
 figid_alias: PMC7285305__F6
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7285305__F6
 ndex: ''
 seo: CreativeWork

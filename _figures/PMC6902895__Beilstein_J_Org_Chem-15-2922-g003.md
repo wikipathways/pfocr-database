@@ -3,6 +3,9 @@ figid: PMC6902895__Beilstein_J_Org_Chem-15-2922-g003
 figtitle: The biosynthetic pathway for argyrin production in Cystobacter sp
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6902895
 filename: Beilstein_J_Org_Chem-15-2922-g003.jpg
 figlink: /pmc/articles/PMC6902895/figure/F2/
@@ -25,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.5597705
 figid_alias: PMC6902895__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6902895__F2
 ndex: ''
 seo: CreativeWork

@@ -29,6 +29,9 @@ organisms:
 - Xenopus laevis
 - Tequintavirus T5
 - NA
+organisms_ner:
+- Streptococcus pyogenes
+- Homo sapiens
 pmcid: PMC6780701
 filename: microorganisms-07-00294-g001.jpg
 figlink: /pmc/articles/PMC6780701/figure/microorganisms-07-00294-f001/
@@ -47,9 +50,6 @@ keywords: .na.character
 automl_pathway: 0.5499251
 figid_alias: PMC6780701__F1
 figtype: Figure
-organisms_ner:
-- Streptococcus pyogenes
-- Mus musculus
 redirect_from: /figures/PMC6780701__F1
 ndex: ''
 seo: CreativeWork
@@ -70,11 +70,14 @@ schema-jsonld:
   - hasB
   - udp
   - hasA
-  - Och
-  - oh
-  - Wdtc1
-  - Mdga2
-  - Clcn1
+  - HK1
+  - GCK
+  - HK2
+  - HK3
+  - ATP8A2
+  - WDTC1
+  - AKR1B1
+  - FDXR
   - CH
   - OHI
   - OH

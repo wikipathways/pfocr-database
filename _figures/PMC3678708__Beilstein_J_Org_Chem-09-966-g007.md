@@ -3,10 +3,12 @@ figid: PMC3678708__Beilstein_J_Org_Chem-09-966-g007
 figtitle: General synthesis of model benzophenone probes
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3678708
 filename: Beilstein_J_Org_Chem-09-966-g007.jpg
 figlink: /pmc/articles/PMC3678708/figure/C1/
-number: S1
+number: SF1
 caption: General synthesis of model benzophenone probes.
 papertitle: Design and synthesis of tag-free photoprobes for the identification of
   the molecular target for CCG-1423, a novel inhibitor of the Rho/MKL1/SRF signaling
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.5949333
-figid_alias: PMC3678708__S1
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC3678708__S1
+figid_alias: PMC3678708__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC3678708__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

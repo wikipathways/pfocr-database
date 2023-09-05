@@ -9,6 +9,14 @@ organisms:
 - Homo sapiens
 - Rattus norvegicus
 - Raphanus sativus
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Sus scrofa
+- Oryctolagus cuniculus
+- Bos taurus
+- Equus caballus
+- Danio rerio
 pmcid: PMC3524689
 filename: medscimonit-17-1-SC1-g002.jpg
 figlink: /pmc/articles/PMC3524689/figure/f2-medscimonit-17-1-sc1/
@@ -30,13 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9579886
 figid_alias: PMC3524689__F2
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
-- Sus scrofa
-- Oryctolagus cuniculus
-- Bos taurus
-- Equus caballus
 redirect_from: /figures/PMC3524689__F2
 ndex: ''
 seo: CreativeWork
@@ -55,12 +56,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Tpo
-  - Mpl
-  - Lamtor3
-  - Mpi
-  - Rhoa
-  - Tgfb1
   - TPO
   - THPO
   - MPL
@@ -70,4 +65,17 @@ schema-jsonld:
   - SLPI
   - RHOA
   - TGFB1
+  - Tpo
+  - Mpl
+  - Lamtor3
+  - Mpi
+  - Rhoa
+  - Tgfb1
+  - tpo
+  - thpo
+  - mpl
+  - mpi
+  - rhoaa
+  - rhoab
+  - tgfb1a
 ---

@@ -4,6 +4,8 @@ figtitle: Simplified, schematic representation of cross-talk between general pho
   pathway and biosynthetic pathways of ascorbic acid (vitamin C)
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3254682
 filename: jexboterr306f04_3c.jpg
 figlink: /pmc/articles/PMC3254682/figure/fig4/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9331088
 figid_alias: PMC3254682__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3254682__F4
 ndex: ''
 seo: CreativeWork
@@ -40,6 +40,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - PDIA3
+  - PLCB4
+  - PLCB1
+  - INPP5A
+  - INPP5B
+  - FOXM1
+  - MIOX
   - L-Ascorbic Acid
   - D-Glucose
   - D-glucuronate

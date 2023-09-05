@@ -3,6 +3,9 @@ figid: PMC3405863__cshperspect-SIG-005975_F5
 figtitle: Segmentation clock oscillator
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC3405863
 filename: cshperspect-SIG-005975_F5.jpg
 figlink: /pmc/articles/PMC3405863/figure/A005975F5/
@@ -38,9 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9000617
 figid_alias: PMC3405863__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC3405863__F5
 ndex: 9f89e04f-dea3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -173,8 +173,8 @@ schema-jsonld:
   - GATD3
   - HES7
   - HES5
-  - HEY1
   - HEY
+  - HEY1
   - NKD1
   - NKD2
   - DKK1

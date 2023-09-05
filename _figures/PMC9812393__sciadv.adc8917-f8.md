@@ -12,6 +12,11 @@ organisms:
 - Escherichia coli OP50
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
+- Caenorhabditis elegans
 pmcid: PMC9812393
 filename: sciadv.adc8917-f8.jpg
 figlink: /pmc/articles/PMC9812393/figure/F8/
@@ -35,11 +40,6 @@ keywords: ''
 automl_pathway: 0.9577434
 figid_alias: PMC9812393__F8
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Drosophila melanogaster
-- Caenorhabditis elegans
 redirect_from: /figures/PMC9812393__F8
 ndex: ''
 seo: CreativeWork
@@ -63,10 +63,10 @@ schema-jsonld:
   - Fitm2
   - Tag
   - pc
+  - Pou2f3
   - Grin1
   - Il11ra1
   - Ndor1
-  - Pou2f3
   - Plin1
   - Syvn1
   - Eif4g2
@@ -77,9 +77,9 @@ schema-jsonld:
   - LINC01194
   - COL1A1
   - PC
+  - POU2F3
   - GRIN1
   - NDOR1
-  - POU2F3
   - PLIN1
   - ERVK-8
   - ERVK-10

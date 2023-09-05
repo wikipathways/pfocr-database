@@ -3,6 +3,9 @@ figid: PMC7397827__cshperspect-CSD-036376_F5
 figtitle: Killer Pseudokinase Mixed Lineage Kinase Domain-Like Protein (MLKL)
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Arabidopsis thaliana
 pmcid: PMC7397827
 filename: cshperspect-CSD-036376_F5.jpg
 figlink: /pmc/articles/PMC7397827/figure/PIBCSDA036376F5/
@@ -22,8 +25,6 @@ keywords: ''
 automl_pathway: 0.9249002
 figid_alias: PMC7397827__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7397827__F5
 ndex: ''
 seo: CreativeWork
@@ -61,4 +62,8 @@ schema-jsonld:
   - TRAP1
   - HSP90AB1
   - TCFL5
+  - TIR
+  - RIPK
+  - TRX1
+  - CYCA1;2
 ---

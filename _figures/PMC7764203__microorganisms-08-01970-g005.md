@@ -5,6 +5,9 @@ figtitle: Metabolic pathways involved in lactate-based or ethanol-based chain el
   from the genome annotation of strains BL-3, BL-4, and BL-6
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7764203
 filename: microorganisms-08-01970-g005.jpg
 figlink: pmc/articles/PMC7764203/figure/microorganisms-08-01970-f005/
@@ -36,9 +39,6 @@ keywords: .na.character
 automl_pathway: 0.9656311
 figid_alias: PMC7764203__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7764203__F5
 ndex: ''
 seo: CreativeWork
@@ -90,11 +90,11 @@ schema-jsonld:
   - red
   - trc
   - Ack
+  - CycE
+  - cyc
   - alpha-Cat
   - Acat2
   - CG8112
-  - CycE
-  - cyc
   - Had1
   - act
   - Act5C

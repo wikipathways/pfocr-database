@@ -11,6 +11,12 @@ organisms:
 - Homo sapiens
 - Canis lupus familiaris
 - Schaalia meyeri
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Canis lupus familiaris
+- Danio rerio
 pmcid: PMC8537973
 filename: pharmaceuticals-14-00999-g009.jpg
 figlink: /pmc/articles/PMC8537973/figure/pharmaceuticals-14-00999-f009/
@@ -36,11 +42,6 @@ keywords: red ginseng | ginsenoside Rg5 | gene expression | IPA pathways | netwo
 automl_pathway: 0.5741553
 figid_alias: PMC8537973__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-- Canis lupus familiaris
 redirect_from: /figures/PMC8537973__F9
 ndex: ''
 seo: CreativeWork
@@ -164,4 +165,45 @@ schema-jsonld:
   - Th
   - Eif4g2-ps1
   - LOC479795
+  - atf4a
+  - rpl28
+  - eif3ha
+  - mapk3
+  - akt1
+  - rpl39
+  - rpl26
+  - trib3
+  - eif2ak3
+  - ddit3
+  - rps26
+  - ppp1r15a
+  - igf1rb
+  - srebf1
+  - pik3r1
+  - pik3c2b
+  - pik3r2
+  - eif4e1b
+  - eif4ea
+  - hrasa
+  - akt2
+  - ago1
+  - rps5
+  - rps27l
+  - eif4a1a
+  - rpl38
+  - eif2s1b
+  - eif2ak2
+  - rpl13
+  - eif2b3
+  - ccnd1
+  - rpl17
+  - eif4g2b
+  - rpl3
+  - rpl6
+  - hspa5
+  - rpl9
+  - acta2
+  - rpl11
+  - actb1
+  - eif3c
 ---

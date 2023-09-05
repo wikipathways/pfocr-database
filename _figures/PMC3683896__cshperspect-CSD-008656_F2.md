@@ -4,6 +4,9 @@ figtitle: Extrinsic and intrinsic pathways of apoptosis
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
 pmcid: PMC3683896
 filename: cshperspect-CSD-008656_F2.jpg
 figlink: /pmc/articles/PMC3683896/figure/A008656F2/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9394779
 figid_alias: PMC3683896__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC3683896__F2
 ndex: e1490740-def3-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,6 +58,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Bid
+  - Fadd
+  - Casp9
+  - Apaf1
   - TNFRSF1A
   - TNFRSF1B
   - TNFRSF10A
@@ -80,8 +84,4 @@ schema-jsonld:
   - CASP3
   - CASP7
   - APAF1
-  - Bid
-  - Fadd
-  - Casp9
-  - Apaf1
 ---

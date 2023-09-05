@@ -4,6 +4,8 @@ figtitle: Antimicrobial Peptides and Biomarkers Induced by Ultraviolet Irradiati
   Have the Potential to Reduce Endodontic Inflammation and Facilitate Tissue Healing
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9503046
 filename: pharmaceutics-14-01979-g004a.jpg
 figlink: .na.character
@@ -34,8 +36,6 @@ keywords: ultraviolet irradiation | UV | UVC | UVB | UVA | antimicrobial peptide
 automl_pathway: 0.9094053
 figid_alias: PMC9503046__F4a
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9503046__F4a
 ndex: ''
 seo: CreativeWork
@@ -82,12 +82,12 @@ schema-jsonld:
   - MAPK8
   - MAPK9
   - MAPK10
-  - MAP2K1
   - TRAF2
   - TANK
   - KRAS
   - HRAS
   - NRAS
+  - MAP2K1
   - CSF2
   - EGF
   - EGFR

@@ -3,6 +3,9 @@ figid: PMC7061297__figure3
 figtitle: Redox Regulation of Ion Channels and Receptors in Pulmonary Hypertension
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7061297
 filename: figure3.jpg
 figlink: pmc/articles/PMC7061297/figure/f3/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9686835
 figid_alias: PMC7061297__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7061297__F3
 ndex: ''
 seo: CreativeWork
@@ -63,16 +64,26 @@ schema-jsonld:
   - Hk
   - G6P
   - coq
+  - adp
   - ATPsynbeta
   - Atpalpha
-  - adp
-  - ca
+  - CycE
+  - cyc
   - Desat2
   - Fadd
   - Fad2
   - Desat1
   - Fancd2
   - Coa
+  - SLC2A1
+  - G6PD
+  - UBL4A
+  - DECR1
+  - WDTC1
+  - ATP8A2
+  - BRCA2
+  - FANCD2
+  - PSEN1
   - glucose
   - Pentose Phosphate
   - Ribulose

@@ -4,6 +4,9 @@ figtitle: Will We Unlock the Benefit of Metformin for Patients with Lung Cancer?
   from Current Evidence and New Hypotheses
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9318003
 filename: pharmaceuticals-15-00786-g002.jpg
 figlink: /pmc/articles/PMC9318003/figure/pharmaceuticals-15-00786-f002/
@@ -33,9 +36,6 @@ keywords: metformin | body mass index | fatty acid oxidation | PHD3 | EGFR
 automl_pathway: 0.924651
 figid_alias: PMC9318003__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC9318003__F2
 ndex: ''
 seo: CreativeWork
@@ -63,32 +63,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - nub
-  - Amph
-  - Had1
-  - SNF4Agamma
-  - AMPKalpha
-  - Lkb1
-  - Sirt1
-  - gig
-  - Tsc1
-  - Egfr
-  - Pi3K21B
-  - Pi3K59F
-  - Pi3K68D
-  - Pi3K92E
-  - Akt
-  - Rheb
-  - Mtor
-  - Tor
-  - S6k
-  - sima
-  - l(1)G0020
-  - Taf4
-  - Rpn2
-  - Sap-r
-  - Hex-A
-  - Glut1
   - POU2F1
   - SLC22A1
   - APRT
@@ -107,8 +81,8 @@ schema-jsonld:
   - TSC2
   - TSC1
   - CCL26
-  - ERBB2
   - EGFR
+  - ERBB2
   - EGF
   - PIK3CA
   - PIK3CB
@@ -127,8 +101,8 @@ schema-jsonld:
   - RHEB
   - RHEBP1
   - MTOR
-  - RPS6KB1
   - HIF1A
+  - RPS6KB1
   - CUX1
   - SART3
   - IGF1
@@ -139,4 +113,30 @@ schema-jsonld:
   - HK2
   - HK3
   - SLC2A1
+  - nub
+  - Amph
+  - Had1
+  - SNF4Agamma
+  - AMPKalpha
+  - Lkb1
+  - Sirt1
+  - gig
+  - Tsc1
+  - Egfr
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Rheb
+  - Mtor
+  - Tor
+  - sima
+  - S6k
+  - l(1)G0020
+  - Taf4
+  - Rpn2
+  - Sap-r
+  - Hex-A
+  - Glut1
 ---

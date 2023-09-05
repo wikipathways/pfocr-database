@@ -3,6 +3,8 @@ figid: PMC3579404__cshperspect-WNT-007955_F1
 figtitle: Conserved Wnt pathway branches and components
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3579404
 filename: cshperspect-WNT-007955_F1.jpg
 figlink: /pmc/articles/PMC3579404/figure/A007955F1/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.966971
 figid_alias: PMC3579404__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3579404__F1
 ndex: 565f4a54-deaf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -97,27 +97,27 @@ schema-jsonld:
   - ROR2
   - RORA
   - RYK
-  - GSK3A
-  - GSK3B
   - APC
   - PROC
+  - GSK3A
+  - GSK3B
   - AXIN1
   - AXIN2
   - BMP1
   - PRCP
   - PGPEP1
   - HIPK2
-  - RHO
-  - RHOD
-  - RHOA
-  - RHOB
-  - RHOC
   - CDC42
   - AKT1
   - RAC1
   - RAC2
   - RAC3
   - RHOG
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
   - TCF3
   - TCF7L1
   - MAPK8

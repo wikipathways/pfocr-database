@@ -21,6 +21,10 @@ organisms:
 - Agrobacterium tumefaciens
 - Agrobacterium rhizogenes
 - Cauliflower mosaic virus
+organisms_ner:
+- Glycine max
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8906750
 filename: sciadv.abm8145-f1.jpg
 figlink: /pmc/articles/PMC8906750/figure/F1/
@@ -55,8 +59,6 @@ keywords: ''
 automl_pathway: 0.9196916
 figid_alias: PMC8906750__F1
 figtype: Figure
-organisms_ner:
-- Glycine max
 redirect_from: /figures/PMC8906750__F1
 ndex: ''
 seo: CreativeWork
@@ -93,4 +95,35 @@ schema-jsonld:
   - 4CL4
   - CCR
   - C4H
+  - comt
+  - Cpr
+  - cad
+  - .na.character
+  - Drep4
+  - Ca-alpha1D
+  - shg
+  - dap
+  - AstA
+  - pal
+  - Pal2
+  - Nfs1
+  - Cse1
+  - Cth
+  - Coa
+  - 'On'
+  - dw
+  - lin
+  - drl
+  - COMT
+  - CAD
+  - DFFB
+  - ACOD1
+  - DAP
+  - IAPP
+  - DNPEP
+  - PAM
+  - LRIT1
+  - SHCBP1
+  - CTH
+  - SLC2A1
 ---

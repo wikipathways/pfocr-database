@@ -3,6 +3,10 @@ figid: PMC8398928__pharmaceuticals-14-00717-g001
 figtitle: 'Current Therapies in Clinical Trials of Parkinson’s Disease: A 2021 Update'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Homo sapiens
 pmcid: PMC8398928
 filename: pharmaceuticals-14-00717-g001.jpg
 figlink: /pmc/articles/PMC8398928/figure/pharmaceuticals-14-00717-f001/
@@ -35,10 +39,6 @@ keywords: α-synuclein | clinical trials | dopamine receptor agonists | gene the
 automl_pathway: 0.8238196
 figid_alias: PMC8398928__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC8398928__F1
 ndex: ''
 seo: CreativeWork
@@ -70,10 +70,10 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - pd
-  - park
-  - Pink1
   - DJ-1alpha
   - dj-1beta
+  - park
+  - Pink1
   - Lrrk
   - ATPsynbeta
   - Atpalpha
@@ -81,8 +81,14 @@ schema-jsonld:
   - sns
   - Uch
   - CG11700
-  - PINK1
+  - park7
+  - pink1
+  - lrrk2
+  - uchl1
+  - tmub2
+  - nedd8
   - PARK7
+  - PINK1
   - LRRK2
   - ATP8A2
   - UCHL1
@@ -130,10 +136,4 @@ schema-jsonld:
   - PSMF1
   - SEM1
   - USP5
-  - pink1
-  - park7
-  - lrrk2
-  - uchl1
-  - tmub2
-  - nedd8
 ---

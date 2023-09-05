@@ -4,6 +4,10 @@ figtitle: Tumor suppressors and oncogenes in the Wnt pathway
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC3331705
 filename: cshperspect-WNT-008052_F1.jpg
 figlink: /pmc/articles/PMC3331705/figure/A008052F1/
@@ -22,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9093521
 figid_alias: PMC3331705__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC3331705__F1
 ndex: abd18555-df0f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -108,4 +109,15 @@ schema-jsonld:
   - Cytip
   - Lrp6
   - Lrp5
+  - porcn
+  - porcnl
+  - gsk3ba
+  - gsk3ab
+  - tank
+  - csnk1a1
+  - apc
+  - bcl9
+  - elk4
+  - lrp6
+  - lrp5
 ---

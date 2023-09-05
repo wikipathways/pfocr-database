@@ -14,6 +14,15 @@ organisms:
 - Candida albicans
 - Canis lupus familiaris
 - Streptomyces hygroscopicus
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Canis lupus familiaris
+- Heterocephalus glaber
+- Callithrix jacchus
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC4852795
 filename: cshperspectmed-AGE-025924_F1.jpg
 figlink: /pmc/articles/PMC4852795/figure/A025924F1/
@@ -40,14 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9499582
 figid_alias: PMC4852795__F1
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Canis lupus familiaris
-- Heterocephalus glaber
-- Callithrix jacchus
-- Drosophila melanogaster
 redirect_from: /figures/PMC4852795__F1
 ndex: 9adb229f-dee9-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -86,28 +87,38 @@ schema-jsonld:
   - Pdpk1
   - Prr5
   - Grb10
-  - pk
   - Rps6kb1
-  - Irs2
   - Irs1
+  - Irs2
   - Ulk1
   - Eif4ebp1
   - Tfeb
   - Prkca
   - Insr
+  - Prkaa2
+  - Prkcg
+  - SGK1
+  - RHEB
+  - DEPTOR
+  - TSC2
+  - TSC1
+  - MTOR
+  - RICTOR
+  - MLST8
+  - PDK1
+  - GRB10
+  - IRS1
+  - IRS2
+  - ULK1
+  - TFEB
+  - INSR
   - FOXO1
   - FOXO3
   - FOXO4
   - FOXO6
-  - SGK1
-  - MTOR
   - RPTOR
   - MAPKAP1
-  - RICTOR
-  - MLST8
-  - RHEB
   - RHEBP1
-  - DEPTOR
   - PRKAA1
   - PRKAA2
   - PRKAB1
@@ -115,25 +126,16 @@ schema-jsonld:
   - PRKAG1
   - PRKAG2
   - PRKAG3
-  - TSC2
-  - TSC1
   - CCL26
   - AKT1
   - AKT2
   - AKT3
   - AKT1S1
-  - PDK1
   - PDPK1
   - PRR5
-  - GRB10
   - RPS6KB1
-  - IRS2
-  - IRS1
-  - ULK1
   - EIF4EBP1
-  - TFEB
   - PRKCA
-  - INSR
   - IGF1R
   - INSRR
   - PRRT2
@@ -146,8 +148,6 @@ schema-jsonld:
   - PRKCQ
   - PRKCZ
   - PRKD3
-  - Prkaa2
-  - Prkcg
   - foxo
   - Tpi
   - Crtc
@@ -172,6 +172,22 @@ schema-jsonld:
   - Pkc98E
   - aPKC
   - Pkc53E
+  - sgk1
+  - rheb
+  - rhebl1
+  - deptor
+  - tsc2
+  - tsc1b
+  - mtor
+  - rictorb
+  - mlst8
+  - pdk1
+  - grb10a
+  - rps6kb1b
+  - irs1
+  - irs2b
+  - ulk1b
+  - tfeb
   - glucose
   - Rapamycin
   - Cancer

@@ -4,6 +4,8 @@ figtitle: 'Protein Tyrosine Phosphatases and Type 1 Diabetes: Genetic and Functi
   Implications of PTPN2 and PTPN22'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3740690
 filename: RevDiabeticStud-09-188-002.jpg
 figlink: /pmc/articles/PMC3740690/figure/F1/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8336427
 figid_alias: PMC3740690__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3740690__F1
 ndex: 07458581-df22-11ea-99da-0ac135e8bacf
 seo: CreativeWork

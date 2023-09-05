@@ -3,6 +3,8 @@ figid: PMC4789572__oncoscience-03-58-g007
 figtitle: Circadian-disruption-induced gene expression changes in rodent mammary tissues
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4789572
 filename: oncoscience-03-58-g007.jpg
 figlink: /pmc/articles/PMC4789572/figure/F7/
@@ -22,9 +24,6 @@ keywords: .na.character
 automl_pathway: 0.8634462
 figid_alias: PMC4789572__F7
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4789572__F7
 ndex: 65dd51c8-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -42,71 +41,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - p53
-  - betaTub60D
-  - hth
-  - CycD
-  - gl
-  - sno
-  - LanB2
-  - anon-70Db
-  - CycE
-  - Cdk2
-  - cyc
-  - mst
-  - hpo
-  - Mst84Dd
-  - Mst84Dc
-  - Mst84Db
-  - Mst84Da
-  - CG12279
-  - Mst87F
-  - Mst98Cb
-  - Mst98Ca
-  - anon-70Dc
-  - lok
-  - tefu
-  - grp
-  - mei-41
-  - put
-  - RYa-R
-  - Fas2
-  - FASN1
-  - Fas3
-  - fand
-  - tei
-  - rg
-  - FASN2
-  - FASN3
-  - Drs
-  - AspRS
-  - Dro
-  - Myc
-  - ras
-  - Ras64B
-  - Ras85D
-  - RhoGAP1A
-  - Abl
-  - ber
-  - noc
-  - Cyt-c-d
-  - Cyt-c-p
-  - Decay
-  - kay
-  - sina
-  - ci
-  - CkIIbeta
-  - Andorra
-  - Anp
-  - Acam
-  - P48
-  - Pten
-  - gig
-  - dor
-  - stumps
-  - Or33a
-  - sah
-  - 'On'
   - TP53
   - TP63
   - TP73
@@ -144,15 +78,15 @@ schema-jsonld:
   - PIDD1
   - BID
   - MYC
-  - KRAS
-  - HRAS
-  - NRAS
   - BCR
   - RN7SL263P
   - ABL1
   - MTTP
   - DSP-AS1
   - ABL2
+  - KRAS
+  - HRAS
+  - NRAS
   - BBC3
   - CASP3
   - FOS
@@ -161,7 +95,6 @@ schema-jsonld:
   - FOSL2
   - PERP
   - MDM2
-  - IGF1
   - IGFBP1
   - IGFBP2
   - IGFBP3
@@ -169,6 +102,7 @@ schema-jsonld:
   - IGFBP5
   - IGFBP6
   - IGFBP7
+  - IGF1
   - MDM4
   - SERPINE1
   - SERPINB2

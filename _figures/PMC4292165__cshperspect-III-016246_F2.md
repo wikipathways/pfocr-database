@@ -3,6 +3,8 @@ figid: PMC4292165__cshperspect-III-016246_F2
 figtitle: Signaling pathway of endosomal TLRs
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4292165
 filename: cshperspect-III-016246_F2.jpg
 figlink: /pmc/articles/PMC4292165/figure/CSHPERSPECT-III-A016246F2/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9409218
 figid_alias: PMC4292165__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4292165__F2
 ndex: 4b028c74-df05-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -69,8 +69,8 @@ schema-jsonld:
   - MYD88
   - IRAK4
   - TRAF3
-  - CHUK
   - TBK1
+  - CHUK
   - TRAF6
   - IRAK1
   - IKBKG

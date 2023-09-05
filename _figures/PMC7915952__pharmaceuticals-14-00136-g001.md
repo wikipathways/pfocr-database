@@ -5,6 +5,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Caenorhabditis elegans
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC7915952
 filename: pharmaceuticals-14-00136-g001.jpg
 figlink: pmc/articles/PMC7915952/figure/pharmaceuticals-14-00136-f001/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.965447
 figid_alias: PMC7915952__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC7915952__F1
 ndex: ''
 seo: CreativeWork
@@ -68,4 +69,7 @@ schema-jsonld:
   - Mela
   - Gm42368
   - Drosha
+  - ago2
+  - dgcr8
+  - drosha
 ---

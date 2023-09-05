@@ -22,6 +22,9 @@ organisms:
 - Influenza B virus
 - Homo sapiens
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7565951
 filename: microorganisms-08-01424-g002.jpg
 figlink: pmc/articles/PMC7565951/figure/microorganisms-08-01424-f002/
@@ -48,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9313614
 figid_alias: PMC7565951__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7565951__F2
 ndex: ''
 seo: CreativeWork
@@ -151,4 +152,15 @@ schema-jsonld:
   - IFNA16
   - IFNA21
   - TRIM63
+  - usp15
+  - trim25
+  - ftr34
+  - mavs
+  - trim44
+  - traf3
+  - tbk1
+  - irf3
+  - irf7
+  - irf5
+  - ifnphi1
 ---

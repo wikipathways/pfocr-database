@@ -4,6 +4,10 @@ figtitle: Nicotinamide Adenine Dinucleotide (NAD+) Biosynthetic Pathways
 organisms:
 - Homo sapiens
 - Danio rerio
+organisms_ner:
+- Homo sapiens
+- Danio rerio
+- Drosophila melanogaster
 pmcid: PMC6613304
 filename: jamapsychiatry-76-1026-g005.jpg
 figlink: pmc/articles/PMC6613304/figure/yoi190035f5/
@@ -40,9 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9011813
 figid_alias: PMC6613304__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6613304__F5
 ndex: ''
 seo: CreativeWork
@@ -79,9 +80,9 @@ schema-jsonld:
   - NAPRT
   - QPRT
   - ACMSD
-  - NMNAT2
   - NMNAT1
   - NMNAT3
+  - NMNAT2
   - TWIST2
   - NADK
   - DECR1
@@ -92,13 +93,22 @@ schema-jsonld:
   - STAC3
   - naprt
   - acmsd
-  - nmnat2
   - nmnat1
   - nmnat3
+  - nmnat2
   - nadkb
   - nmrk2
   - cpsf4
   - nmrk1
+  - de
+  - na
+  - Nmnat
+  - ams
+  - CycE
+  - cyc
+  - Nadsyn
+  - CG33156
+  - nr
   - Kynurenine
   - Tryptophan
   - TCA

@@ -4,6 +4,9 @@ figtitle: Molecular interactions during pheromone induced cell polarization
 organisms:
 - Saccharomyces cerevisiae
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC2773630
 filename: cshperspect-SYM-003384_F6.jpg
 figlink: /pmc/articles/PMC2773630/figure/A003384F6/
@@ -37,9 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9023828
 figid_alias: PMC2773630__F6
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Homo sapiens
 redirect_from: /figures/PMC2773630__F6
 ndex: ''
 seo: CreativeWork
@@ -73,6 +73,9 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CDC42
+  - STK24
+  - FAR1
+  - CDK1
   - CDC24
   - STE20
   - STE11
@@ -81,9 +84,6 @@ schema-jsonld:
   - FUS3
   - BNI1
   - RSR1
-  - FAR1
   - CDC28
-  - STK24
-  - CDK1
   - Pheromone
 ---

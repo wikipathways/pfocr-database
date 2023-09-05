@@ -6,6 +6,8 @@ figtitle: Schematic Representation of Indole Glucosinolate Pathway Showing the I
 organisms:
 - Arabidopsis thaliana
 - Homo sapiens
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC2807926
 filename: mplantssp098f02_4c.jpg
 figlink: /pmc/articles/PMC2807926/figure/fig2/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9554395
 figid_alias: PMC2807926__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2807926__F2
 ndex: ''
 seo: CreativeWork

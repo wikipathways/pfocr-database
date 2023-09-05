@@ -3,6 +3,9 @@ figid: PMC2895371__Fig3_Rev-Scott
 figtitle: AKAP-Lbc integrates multiple signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2895371
 filename: Fig3_Rev-Scott.jpg
 figlink: /pmc/articles/PMC2895371/figure/f3-0100086/
@@ -30,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.947806
 figid_alias: PMC2895371__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2895371__F3
 ndex: c0fd2ff2-defa-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -4,6 +4,8 @@ figtitle: Context-dependent transforming growth factor B (TGFB) signaling output
   arise from pathway interactions
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5630004
 filename: cshperspect-TGF-022301_F1.jpg
 figlink: /pmc/articles/PMC5630004/figure/A022301F1/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9665649
 figid_alias: PMC5630004__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5630004__F1
 ndex: 9c760c53-decf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,7 +56,6 @@ schema-jsonld:
   - TGFB1
   - TGFB2
   - TGFB3
-  - TNF
   - WNT1
   - WNT2
   - WNT2B
@@ -76,6 +75,7 @@ schema-jsonld:
   - WNT16
   - WNT5A
   - WNT5B
+  - TNF
   - TGFA
   - FGF1
   - FGF2

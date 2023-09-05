@@ -5,6 +5,9 @@ figtitle: Sub-Cellular and Signaling Mechanisms Underlying Polar PIN Localizatio
   is proposed based on results discussed in this review
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2902905
 filename: mplantssn069f01_4c.jpg
 figlink: /pmc/articles/PMC2902905/figure/fig1/
@@ -46,9 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9540806
 figid_alias: PMC2902905__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2902905__F1
 ndex: 2a895cb7-deea-11ea-99da-0ac135e8bacf
 seo: CreativeWork

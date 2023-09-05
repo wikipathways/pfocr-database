@@ -4,10 +4,12 @@ figtitle: Proposed biosynthetic pathway of fatty acids leading to the observed r
   of the isoprenyl esters
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7684689
 filename: Beilstein_J_Org_Chem-16-2776-g012.jpg
 figlink: pmc/articles/PMC7684689/figure/C5/
-number: S5
+number: SF5
 caption: Proposed biosynthetic pathway of fatty acids leading to the observed regioisomers
   of the isoprenyl esters. All acids shown were found in form of their isoprenyl esters.
   (Z)-9-Hexadecenoic acid is obtained from palmitic acid by a Δ9-desaturase (ds).
@@ -34,11 +36,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8321371
-figid_alias: PMC7684689__S5
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7684689__S5
+figid_alias: PMC7684689__SF5
+figtype: Supplemental figure
+redirect_from: /figures/PMC7684689__SF5
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

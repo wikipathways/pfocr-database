@@ -17,6 +17,11 @@ organisms:
 - Quercus coccifera
 - Galax urceolata
 - Agrobacterium tumefaciens
+organisms_ner:
+- Arabidopsis thaliana
+- Solanum lycopersicum
+- Glycine max
+- Prunus persica
 pmcid: PMC2682507
 filename: jexboterp097f01_lw.jpg
 figlink: /pmc/articles/PMC2682507/figure/fig1/
@@ -38,9 +43,6 @@ keywords: .na.character
 automl_pathway: 0.8840669
 figid_alias: PMC2682507__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
-- Solanum lycopersicum
 redirect_from: /figures/PMC2682507__F1
 ndex: ''
 seo: CreativeWork
@@ -71,6 +73,22 @@ schema-jsonld:
   - LATE
   - PAL5
   - ANS
+  - CHS10
+  - CHS3
+  - CHI1A
+  - CHI2-A
+  - ANS2
+  - ANS3
+  - LOC18784865
+  - LOC18766147
+  - LOC18793306
+  - LOC18768537
+  - LOC18784995
+  - LOC18786520
+  - LOC18770366
+  - LOC18777306
+  - LOC18788884
+  - LOC18777055
   - 4-Coumaroyl-CoA
   - Anthocyanidin
   - Anthocyanins

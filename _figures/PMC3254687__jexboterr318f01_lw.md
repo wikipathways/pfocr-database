@@ -20,6 +20,8 @@ organisms:
 - Sinapis alba
 - Citrus nobilis
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC3254687
 filename: jexboterr318f01_lw.jpg
 figlink: /pmc/articles/PMC3254687/figure/fig1/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.8264555
 figid_alias: PMC3254687__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3254687__F1
 ndex: ''
 seo: CreativeWork

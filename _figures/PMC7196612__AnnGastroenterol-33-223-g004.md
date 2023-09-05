@@ -3,6 +3,8 @@ figid: PMC7196612__AnnGastroenterol-33-223-g004
 figtitle: Oncogenic properties of Bacteroides (B.) fragilis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7196612
 filename: AnnGastroenterol-33-223-g004.jpg
 figlink: pmc/articles/PMC7196612/figure/F3/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9489772
 figid_alias: PMC7196612__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7196612__F3
 ndex: ''
 seo: CreativeWork

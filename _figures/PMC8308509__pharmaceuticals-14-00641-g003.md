@@ -10,6 +10,11 @@ organisms:
 - Saccharomyces cerevisiae
 - Human immunodeficiency virus 1
 - Xenopus laevis
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Xenopus laevis
 pmcid: PMC8308509
 filename: pharmaceuticals-14-00641-g003.jpg
 figlink: /pmc/articles/PMC8308509/figure/pharmaceuticals-14-00641-f003/
@@ -53,10 +58,6 @@ keywords: epigenetic | myelodysplastic syndrome | acute myeloid leukemia | DNA m
 automl_pathway: 0.8814509
 figid_alias: PMC8308509__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC8308509__F3
 ndex: ''
 seo: CreativeWork
@@ -196,4 +197,27 @@ schema-jsonld:
   - ICAM4
   - ICAM5
   - Icam1
+  - nfkb1.L
+  - nfkb1.S
+  - bcl2.S
+  - bcl2.L
+  - bcl2l1.S
+  - xiap.L
+  - ube2v2.S
+  - prkdc.L
+  - mcm4.S
+  - mcm4.L
+  - sp1.L
+  - dnmt1.L
+  - tgfb1.L
+  - tgfb1.S
+  - tnf.L
+  - tnf.S
+  - igf1.L
+  - igf1.S
+  - cxcl12.L
+  - cxcl12.S
+  - casc3.S
+  - casc3.L
+  - itga5.S
 ---

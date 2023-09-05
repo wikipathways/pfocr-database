@@ -12,6 +12,10 @@ organisms:
 - Macaca mulatta
 - Callithrix jacchus
 - Bromus secalinus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3181609
 filename: DialoguesClinNeurosci-2-247-g002.jpg
 figlink: /pmc/articles/PMC3181609/figure/DialoguesClinNeurosci-2-247-g002/
@@ -46,8 +50,6 @@ keywords: .na.character
 automl_pathway: 0.9189203
 figid_alias: PMC3181609__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC3181609__F2
 ndex: ''
 seo: CreativeWork
@@ -90,5 +92,30 @@ schema-jsonld:
   - ba
   - Mapt
   - Csnk1e
+  - APP
+  - CAT
+  - CRAT
+  - GLYAT
+  - FGFR3
+  - SGSM3
+  - MAPT
+  - app
+  - Appl
+  - ApepP
+  - APP-BP1
+  - Coa
+  - Ca-alpha1T
+  - ChAT
+  - sv
+  - db
+  - mid
+  - achi
+  - emc
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - mapP
+  - tau
   - Choline
 ---

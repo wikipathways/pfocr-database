@@ -8,6 +8,13 @@ organisms:
 - Sus scrofa
 - Poecilia reticulata
 - Eugenia axillaris
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Sus scrofa
+- Homo sapiens
+- Poecilia reticulata
+- Drosophila melanogaster
 pmcid: PMC5874888
 filename: bioengineering-05-00022-g004.jpg
 figlink: /pmc/articles/PMC5874888/figure/bioengineering-05-00022-f004/
@@ -29,12 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9033984
 figid_alias: PMC5874888__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Rattus norvegicus
-- Sus scrofa
-- Homo sapiens
-- Poecilia reticulata
 redirect_from: /figures/PMC5874888__F4
 ndex: de8040b7-df0c-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,7 +64,6 @@ schema-jsonld:
   - Pdpk1
   - Lonp1
   - P4ha1
-  - Trp53
   - Slc1a3
   - Slc2a1
   - Tpt1
@@ -75,15 +75,15 @@ schema-jsonld:
   - Pkm
   - Rps6ka3
   - Ccn2
-  - Slc25a1
   - Ldha
+  - Slc25a1
+  - Trp53
   - Tp53
   - CAT
   - SIAH2
   - PDK1
   - LONP1
   - P4HA1
-  - TP53
   - SLC2A1
   - TPT1
   - MTOR
@@ -93,11 +93,11 @@ schema-jsonld:
   - HK2
   - RPS6KA3
   - CCN2
-  - SLC25A1
   - LDHA
+  - SLC25A1
+  - TP53
   - CRAT
   - GLYAT
-  - COX4I1
   - PDP1
   - DLAT
   - DLD
@@ -106,14 +106,15 @@ schema-jsonld:
   - PDHB
   - PDHX
   - PDPK1
-  - TP63
-  - TP73
   - KCNA5
   - KIF2A
   - KLK2
   - HOOK2
   - PKM
   - PKLR
+  - COX4I1
+  - TP63
+  - TP73
   - cat
   - pdk1
   - lonp1
@@ -123,8 +124,26 @@ schema-jsonld:
   - hk2
   - rps6ka3b
   - ccn2
-  - si:dkey-178e17.1
   - ldha
+  - si:dkey-178e17.1
+  - Ca-alpha1T
+  - ChAT
+  - sv
+  - Hia
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - Lon
+  - Glut1
+  - Tctp
+  - Tor
+  - Glut3
+  - sima
+  - sea
+  - p53
+  - betaTub60D
+  - hth
   - SIAH2
   - VHL
 ---

@@ -3,6 +3,9 @@ figid: PMC7770493__pharmrev.120.000086f3
 figtitle: cAMP signalosomes at the endoplasmic reticulum, nucleus, and centrosome
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7770493
 filename: pharmrev.120.000086f3.jpg
 figlink: pmc/articles/PMC7770493/figure/F3/
@@ -25,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9501829
 figid_alias: PMC7770493__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7770493__F3
 ndex: ''
 seo: CreativeWork
@@ -47,6 +48,7 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - AKAP13
   - PDE3B
   - ADCY7
   - SEC24B
@@ -156,8 +158,19 @@ schema-jsonld:
   - DNAL1
   - DNAL4
   - DYNLT2
+  - AKAP6
   - PAEP
   - AKAP7
+  - akap13
+  - pde3b
+  - parapinopsina
+  - pde4d
+  - pde4a
+  - pln
+  - atp2a1
+  - akap9
+  - akap6
+  - akap7
   - Ga12
   - Ca2+
 ---

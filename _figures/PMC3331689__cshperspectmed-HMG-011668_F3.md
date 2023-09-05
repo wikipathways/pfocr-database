@@ -3,6 +3,8 @@ figid: PMC3331689__cshperspectmed-HMG-011668_F3
 figtitle: Regulation of hepcidin by iron and inflammation
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
 pmcid: PMC3331689
 filename: cshperspectmed-HMG-011668_F3.jpg
 figlink: /pmc/articles/PMC3331689/figure/A011668F3/
@@ -28,9 +30,6 @@ keywords: .na.character
 automl_pathway: 0.9383077
 figid_alias: PMC3331689__F3
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC3331689__F3
 ndex: 1fb850af-deae-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -62,34 +61,4 @@ schema-jsonld:
   - bmp6
   - mt2
   - il6r
-  - BMP1
-  - BMP2
-  - BMP3
-  - BMP4
-  - BMP5
-  - BMP6
-  - BMP7
-  - BMP8A
-  - BMP8B
-  - BMP10
-  - BMP15
-  - GDF1
-  - GDF2
-  - GDF3
-  - GDF5
-  - GDF6
-  - GDF7
-  - IL6
-  - HJV
-  - MT2A
-  - IL6R
-  - HFE
-  - SMAD1
-  - SMAD4
-  - SMAD5
-  - SMAD6
-  - SMAD7
-  - SMAD9
-  - SMAD2
-  - SMAD3
 ---

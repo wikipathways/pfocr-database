@@ -9,10 +9,14 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8321552
 filename: elife-70429-fig2-figsupp2.jpg
 figlink: /pmc/articles/PMC8321552/figure/fig2s2/
-number: F2
+number: SF2_2
 caption: 'Analog #4 differentially regulated genes that overlapped with the known
   p53 target gene set were used to perform a KEGG analysis for the p53 pathway.'
 papertitle: A subset of CB002 xanthine analogs bypass p53-signaling to restore a p53
@@ -25,12 +29,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: p53 | cancer | therapy | xanthines | CB002 | noxa | Human
 automl_pathway: 0.8284975
-figid_alias: PMC8321552__F2
-figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-redirect_from: /figures/PMC8321552__F2
+figid_alias: PMC8321552__SF2_2
+figtype: Supplemental figure
+redirect_from: /figures/PMC8321552__SF2_2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -69,8 +70,8 @@ schema-jsonld:
   - Bid
   - Adgrb1
   - Mdm2
-  - Rchy1
   - Cop1
+  - Rchy1
   - Sult1e1
   - Map3k8
   - Jak3
@@ -83,10 +84,10 @@ schema-jsonld:
   - E2F1
   - UBE2L3
   - MYC
-  - ABL1
   - KRAS
   - HRAS
   - NRAS
+  - ABL1
   - ATM
   - ATR
   - ANTXR1
@@ -106,11 +107,44 @@ schema-jsonld:
   - ADGRB1
   - MDM2
   - SIAH1
-  - RCHY1
   - COP1
   - CARD16
+  - RCHY1
   - MAP3K8
   - SULT1E1
   - CASP3
   - MTOR
+  - p53
+  - betaTub60D
+  - hth
+  - 'On'
+  - as
+  - Ras64B
+  - Ras85D
+  - tefu
+  - mei-41
+  - put
+  - RYa-R
+  - CycE
+  - cyc
+  - che
+  - Ace
+  - Vsx2
+  - fus
+  - pico
+  - pig
+  - CG15914
+  - norpA
+  - Pka-C1
+  - sina
+  - ci
+  - Est-6
+  - fliI
+  - Decay
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Tor
+  - phm
 ---

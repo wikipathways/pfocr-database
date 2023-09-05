@@ -4,6 +4,9 @@ figtitle: Identification of DEGs relevant to protein processing in the endoplasm
   reticulum pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC6739099
 filename: mSystems.00268-19-f0008.jpg
 figlink: /pmc/articles/PMC6739099/figure/fig8/
@@ -23,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8862942
 figid_alias: PMC6739099__F8
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6739099__F8
 ndex: 21f2bf81-df17-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -42,16 +42,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - betaCOP
+  - Sec23
   - Cnx14D
   - Cnx99A
-  - Caf1-180
+  - sel
+  - sei
   - elB
   - pio
   - pigeon
-  - crt
-  - Calr
-  - Go
   - Ost
   - Ost48
   - Ostgamma
@@ -62,71 +60,66 @@ schema-jsonld:
   - Nplp2
   - Yod1
   - Ero1L
-  - Taf8
   - Ubqn
   - Dsk
   - Rad23
   - sub
+  - pag
+  - Pdi
+  - Rop
+  - Sec61beta
   - Svip
   - bip
   - Hsc70-3
-  - Fs(3)Bak
-  - Atf6
   - PEK
   - rl
+  - Atf6
   - be
+  - betaCOP
   - eIF2alpha
   - eIF2beta
   - Keap1
   - cnc
   - Rpn12
+  - hep
   - STUB1
   - Chi
-  - hep
   - park
+  - cui
   - crc
-  - bsk
   - Herp
-  - sip3
+  - ftz
   - Roc1a
   - Had1
-  - Cul1
   - fbp
-  - cop
-  - Yif1
   - cid
   - ci
-  - Sec23
-  - sel
-  - sei
-  - pag
-  - Pdi
-  - Rop
-  - Sec61beta
-  - cui
-  - ftz
   - Ste12DOR
+  - Caf1-180
+  - crt
+  - Calr
+  - Go
+  - Taf8
+  - Fs(3)Bak
+  - bsk
+  - sip3
+  - Cul1
+  - cop
+  - Yif1
   - CANX
   - BATF2
-  - MAN1B1
-  - POLA1
-  - RRBP1
-  - EIF3A
-  - CD109
+  - LMAN2
   - S100A10
   - EXOSC3
-  - LMAN2
-  - CALCR
-  - CALR
-  - SLC6A8
-  - SERTAD1
   - DDOST
   - MCF2L
-  - HSP90B1
   - TRAM1
   - TICAM2
   - TMED7-TICAM2
   - S100B
+  - F8A1
+  - F8A2
+  - F8A3
   - OTUB1
   - PSMA1
   - PSMA2
@@ -173,11 +166,19 @@ schema-jsonld:
   - SEM1
   - USP5
   - EDEM1
-  - SLC26A4
-  - PTGDS
-  - SARAF
   - UBQLN2
   - UBQLN1
+  - ZUP1
+  - PRDX1
+  - PAG1
+  - PDCD1
+  - RPL17
+  - SNCA
+  - SPATA2
+  - RPL17-C18orf32
+  - P4HB
+  - PADI1
+  - PDIA2
   - BCAP31
   - TRAP
   - ACP5
@@ -186,15 +187,15 @@ schema-jsonld:
   - TRRAP
   - TDRD7
   - SCYL1
-  - ZUP1
-  - PAG1
+  - SEC1P
+  - MAN1B1
   - SVIP
   - GDF10
   - HSPA5
   - PRTN3
-  - BAK1
-  - ATF6
   - EIF2AK3
+  - ATF6
+  - GOLGA4
   - RBM14
   - KANK2
   - CACYBP
@@ -207,24 +208,24 @@ schema-jsonld:
   - EIF2S2
   - GABPA
   - NFE2L2
-  - MARCHF6
   - CENPV
-  - EPHB6
-  - DNLZ
+  - MAP2K7
+  - MARCHF6
+  - CUL1
+  - CUL2
+  - CUL3
+  - CUL4A
+  - CUL4B
+  - CUL5
+  - CUL7
   - ATF4
-  - XBP1P1
-  - MAPK8
-  - MAPK9
-  - MAPK10
   - LUM
   - SELENOS
-  - DERL1
   - SEL1L
+  - DERL1
   - HERPUD1
-  - SYVN1
   - RBX1
   - APEH
-  - CUL1
   - FBP1
   - FOLR1
   - FOLR2
@@ -232,28 +233,27 @@ schema-jsonld:
   - FUBP1
   - RAB14
   - DDIT3
-  - F8A1
-  - F8A2
-  - F8A3
-  - PRDX1
-  - PDCD1
-  - RPL17
-  - SNCA
-  - SPATA2
-  - RPL17-C18orf32
-  - P4HB
-  - PADI1
-  - PDIA2
-  - SEC1P
-  - GOLGA4
-  - MAP2K7
-  - CUL2
-  - CUL3
-  - CUL4A
-  - CUL4B
-  - CUL5
-  - CUL7
   - SULT1E1
+  - POLA1
+  - RRBP1
+  - EIF3A
+  - CD109
+  - CALCR
+  - CALR
+  - SLC6A8
+  - SERTAD1
+  - HSP90B1
+  - ERLEC1
+  - SLC26A4
+  - PTGDS
+  - BAK1
+  - EPHB6
+  - DNLZ
+  - XBP1P1
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - SYVN1
   - TRAM
   - Be
   - Amino

@@ -4,6 +4,9 @@ figtitle: Discovery, Biosynthesis and Biological Activity of a Succinylated Myxo
   from the Myxobacterial Strain MSr12020
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9611931
 filename: microorganisms-10-01959-g005.jpg
 figlink: /pmc/articles/PMC9611931/figure/microorganisms-10-01959-f005/
@@ -26,8 +29,6 @@ keywords: myxochelin | myxobacteria | biosynthesis | natural products | secondar
 automl_pathway: 0.9049453
 figid_alias: PMC9611931__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9611931__F5
 ndex: ''
 seo: CreativeWork
@@ -49,9 +50,17 @@ schema-jsonld:
   - ATPsynbeta
   - Atpalpha
   - Hn
-  - ca
-  - Pcp
   - red
   - trc
-  - Pa
+  - ca
+  - Pcp
+  - ATP8A2
+  - ARMC1
+  - IK
+  - DYRK3
+  - BMP1
+  - PRCP
+  - PGPEP1
+  - PAM
+  - MYCBP2
 ---

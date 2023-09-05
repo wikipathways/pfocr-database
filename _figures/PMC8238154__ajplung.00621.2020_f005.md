@@ -4,6 +4,9 @@ figtitle: CF monocyte-derived macrophages have an attenuated response to extrace
   vesicles secreted by airway epithelial cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8238154
 filename: ajplung.00621.2020_f005.jpg
 figlink: /pmc/articles/PMC8238154/figure/F0005/
@@ -39,9 +42,6 @@ keywords: airway epithelial cells | cystic fibrosis | cytokine secretion | exoso
 automl_pathway: 0.7849211
 figid_alias: PMC8238154__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8238154__F5
 ndex: ''
 seo: CreativeWork

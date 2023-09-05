@@ -8,6 +8,12 @@ organisms:
 - Cyprinus carpio
 - Homo sapiens
 - Human immunodeficiency virus
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Cyprinus carpio
+- Xenopus laevis
 pmcid: PMC5683310
 filename: cddiscovery201771-f2.jpg
 figlink: /pmc/articles/PMC5683310/figure/fig2/
@@ -34,11 +40,6 @@ keywords: .na.character
 automl_pathway: 0.9131249
 figid_alias: PMC5683310__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
-- Cyprinus carpio
 redirect_from: /figures/PMC5683310__F2
 ndex: d17894e9-dea2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -87,9 +88,9 @@ schema-jsonld:
   - KLF4
   - CTBP1
   - CTBP2
-  - ZNF750
   - RCOR1
   - RXRB
+  - ZNF750
   - PPL
   - PKP1
   - RBBP8
@@ -114,8 +115,8 @@ schema-jsonld:
   - Klf4
   - Ctbp1
   - Ctbp2
-  - Znf750
   - Rcor1
+  - Znf750
   - Ppl
   - Pkp1
   - Rbbp8
@@ -133,9 +134,9 @@ schema-jsonld:
   - Flg
   - Pparg
   - Snai2
-  - Zfp750
   - Rxrb
   - Rcor2
+  - Zfp750
   - Myod1
   - Hdac1-ps
   - Fgfr1
@@ -145,4 +146,30 @@ schema-jsonld:
   - myod1
   - myl4
   - pparg
+  - ctnnb1.S
+  - ctnnb1.L
+  - klf4.L
+  - ctbp1.L
+  - ctbp2l.S
+  - rcor1.L
+  - entr1.L
+  - znf750.L
+  - znf750.S
+  - ppl.L
+  - rbbp8.L
+  - homer3.L
+  - homer3.S
+  - kdm1a.S
+  - myog.S
+  - mybph.S
+  - myod1.S
+  - myod1.L
+  - myl4.L
+  - klf5.S
+  - hdac1.S
+  - fgfr1.S
+  - fgfr1.L
+  - pparg.L
+  - snai2.L
+  - snai2.S
 ---

@@ -4,6 +4,8 @@ figtitle: Schematic diagram of the phenylpropanoid/benzenoid biosynthetic pathwa
   in plants
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC5597090
 filename: bioengineering-02-00204-g001.jpg
 figlink: /pmc/articles/PMC5597090/figure/bioengineering-02-00204-f001/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9547071
 figid_alias: PMC5597090__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC5597090__F1
 ndex: ''
 seo: CreativeWork

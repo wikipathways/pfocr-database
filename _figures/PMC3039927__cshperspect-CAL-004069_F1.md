@@ -4,6 +4,10 @@ figtitle: Organellar Ca2+ buffering and intracellular Ca2+ dynamics
 organisms:
 - Mus musculus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC3039927
 filename: cshperspect-CAL-004069_F1.jpg
 figlink: /pmc/articles/PMC3039927/figure/A004069F1/
@@ -45,9 +49,6 @@ keywords: .na.character
 automl_pathway: 0.9265189
 figid_alias: PMC3039927__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC3039927__F1
 ndex: 5bf53b8b-dee0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -107,13 +108,14 @@ schema-jsonld:
   - P4HB
   - PADI1
   - PDIA2
-  - GDF10
   - HSPA5
+  - GDF10
   - ORAI1
   - STIM1
   - F7
   - SDF4
   - NUCB1
+  - NUCB2
   - DDX6
   - ETS1
   - FKBP5
@@ -121,7 +123,6 @@ schema-jsonld:
   - NONO
   - SRSF11
   - H3P43
-  - NUCB2
   - Tlx2
   - Casq1
   - Hrc
@@ -147,4 +148,19 @@ schema-jsonld:
   - Ddx6
   - Ifit2
   - Ets1
+  - ca
+  - Calx
+  - RyR
+  - SERCA
+  - Itpr
+  - crt
+  - Pdi
+  - Hsc70-3
+  - Hsp70Ab
+  - bip
+  - Orai
+  - CycE
+  - cyc
+  - Stim
+  - Rpn10
 ---

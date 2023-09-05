@@ -6,6 +6,9 @@ figtitle: Mapping Molecular Networks within Clitoria ternatea Linn. against LPS-
 organisms:
 - Clitoria ternatea
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9032563
 filename: pharmaceuticals-15-00467-g001.jpg
 figlink: /pmc/articles/PMC9032563/figure/pharmaceuticals-15-00467-f001/
@@ -35,8 +38,6 @@ keywords: butterfly pea | Clitoria ternatea | anti-neuroinflammation | Alzheimer
 automl_pathway: 0.8913179
 figid_alias: PMC9032563__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9032563__F1
 ndex: ''
 seo: CreativeWork
@@ -68,6 +69,7 @@ schema-jsonld:
   - RHOD
   - RHOB
   - RHOC
+  - DECR1
   - PARP1
   - COL11A2
   - PARP2
@@ -85,9 +87,21 @@ schema-jsonld:
   - TNKS
   - TNKS2
   - TIPARP
-  - DECR1
   - PAEP
   - PREP
   - PTPN22
   - AIFM1
+  - Pkg21D
+  - for
+  - mid
+  - ena
+  - Rho1
+  - rho
+  - Bx
+  - Lcp65Ab1
+  - Parp
+  - Pep
+  - bgcn
+  - AIF
+  - Decay
 ---

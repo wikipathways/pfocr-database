@@ -4,10 +4,12 @@ figtitle: Biosynthetic pathway from fluoride ion to fluoroacetate 1 and 4-fluoro
   2 in S
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC2748706
 filename: Beilstein_J_Org_Chem-05-37-02.jpg
 figlink: /pmc/articles/PMC2748706/figure/C1/
-number: S1
+number: SF1
 caption: Biosynthetic pathway from fluoride ion to fluoroacetate 1 and 4-fluorothreonine
   2 in S. cattleya [].
 papertitle: Synthesis of phosphonate and phostone analogues of ribose-1-phosphates.
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8467072
-figid_alias: PMC2748706__S1
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC2748706__S1
+figid_alias: PMC2748706__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC2748706__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

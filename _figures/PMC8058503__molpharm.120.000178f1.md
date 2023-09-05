@@ -4,6 +4,8 @@ figtitle: Proteomic Approaches to Investigate Regulated Trafficking and Signalin
   of G Protein–Coupled Receptors
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8058503
 filename: molpharm.120.000178f1.jpg
 figlink: /pmc/articles/PMC8058503/figure/F1/
@@ -48,8 +50,6 @@ keywords: ''
 automl_pathway: 0.9499229
 figid_alias: PMC8058503__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8058503__F1
 ndex: ''
 seo: CreativeWork
@@ -99,9 +99,9 @@ schema-jsonld:
   - grk
   - AP-2alpha
   - TfAP-2
-  - adp
   - ATPsynbeta
   - Atpalpha
+  - adp
   - ca
   - ps
   - Arr2

@@ -4,6 +4,10 @@ figtitle: Association of the activity of metagene 19 with two distinct image phe
 organisms:
 - Homo sapiens
 - Rattus norvegicus
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Danio rerio
 pmcid: PMC5749594
 filename: radiol.2017161845.fig3b.jpg
 figlink: /pmc/articles/PMC5749594/figure/fig3b/
@@ -27,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9182659
 figid_alias: PMC5749594__F3b
 figtype: Figure
-organisms_ner:
-- Rattus norvegicus
-- Homo sapiens
 redirect_from: /figures/PMC5749594__F3b
 ndex: ''
 seo: CreativeWork
@@ -51,15 +52,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Lrig1
-  - Egf
-  - Egfr
-  - Pik3ca
-  - Kras
   - LRIG1
   - EGF
   - EGFR
-  - PIK3CA
+  - PI3
+  - RICTOR
   - KRAS
   - NRAS
+  - Lrig1
+  - Egf
+  - Egfr
+  - Wfdc15b
+  - Kras
+  - lrig1
+  - egf
+  - celsr1a
+  - egfra
+  - kras
 ---

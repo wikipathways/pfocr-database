@@ -20,6 +20,10 @@ organisms:
 - Homo sapiens
 - metagenome
 - Oreochromis niloticus
+organisms_ner:
+- Aeromonas hydrophila
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7768417
 filename: microorganisms-08-02043-g004.jpg
 figlink: pmc/articles/PMC7768417/figure/microorganisms-08-02043-f004/
@@ -69,9 +73,6 @@ keywords: .na.character
 automl_pathway: 0.9664254
 figid_alias: PMC7768417__F4
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-- Aeromonas hydrophila
 redirect_from: /figures/PMC7768417__F4
 ndex: ''
 seo: CreativeWork
@@ -121,11 +122,18 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - hemE
-  - btuD
-  - hemN
   - hemH
-  - iscU
+  - hemN
   - araA
+  - NDUFB3
+  - TNFAIP1
+  - WDTC1
+  - ISCU
+  - NFU1
+  - DECR1
+  - NFS1
+  - btuD
+  - iscU
   - araB
   - araD
   - NADH

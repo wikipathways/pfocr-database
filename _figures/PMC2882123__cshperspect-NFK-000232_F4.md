@@ -3,6 +3,8 @@ figid: PMC2882123__cshperspect-NFK-000232_F4
 figtitle: Induction of Toll and Imd pathway by pathogens
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2882123
 filename: cshperspect-NFK-000232_F4.jpg
 figlink: /pmc/articles/PMC2882123/figure/A000232F4/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8331444
 figid_alias: PMC2882123__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2882123__F4
 ndex: ''
 seo: CreativeWork

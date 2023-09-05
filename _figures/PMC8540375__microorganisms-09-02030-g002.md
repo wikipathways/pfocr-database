@@ -4,6 +4,8 @@ figtitle: Microbial Lipopeptide-Producing Strains and Their Metabolic Roles unde
   Anaerobic Conditions
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC8540375
 filename: microorganisms-09-02030-g002.jpg
 figlink: /pmc/articles/PMC8540375/figure/microorganisms-09-02030-f002/
@@ -23,8 +25,6 @@ keywords: biosurfactant | anaerobic bacteria | nitrate respiration | non-ribosom
 automl_pathway: 0.7811516
 figid_alias: PMC8540375__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC8540375__F2
 ndex: ''
 seo: CreativeWork

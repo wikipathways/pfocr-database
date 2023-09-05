@@ -3,6 +3,8 @@ figid: PMC7339703__RomJOphthalmol-64-100-g001
 figtitle: Melanin synthesis pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7339703
 filename: RomJOphthalmol-64-100-g001.jpg
 figlink: pmc/articles/PMC7339703/figure/F1/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.9226382
 figid_alias: PMC7339703__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7339703__F1
 ndex: ''
 seo: CreativeWork

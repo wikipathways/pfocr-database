@@ -16,6 +16,11 @@ organisms:
 - Heterocephalus glaber
 - Homo sapiens
 - Somniosus microcephalus
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC8612763
 filename: elife-64860-fig6-figsupp3.jpg
 figlink: /pmc/articles/PMC8612763/figure/fig6s3/
@@ -37,9 +42,6 @@ keywords: aging | natural lifespan variation | longevity | gene-environment inte
 automl_pathway: 0.9509245
 figid_alias: PMC8612763__F6
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Drosophila melanogaster
 redirect_from: /figures/PMC8612763__F6
 ndex: ''
 seo: CreativeWork
@@ -57,16 +59,41 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - ILV5
-  - ILV2
+  - na
+  - tn
+  - tna
+  - Mat1
+  - alphaTub84B
+  - Decr1
+  - Arid4b
+  - Clec3b
+  - Agtr1a
+  - Ddx39b
+  - Bat1b
+  - Ddx39a
+  - ba
+  - Prrc2a
+  - DECR1
+  - ARID4B
+  - TNC
+  - TNN
+  - TNR
+  - TNXB
+  - CLEC3B
+  - SRR
+  - AGTR1
+  - ATM
+  - SLC33A1
+  - PGR-AS1
+  - DDX39B
+  - DDX39A
+  - SLC7A9
+  - PRRC2A
   - ILV3
+  - ILV2
+  - ILV5
   - ILV1
   - BAT1
   - YBT1
   - BAT2
-  - tn
-  - tna
-  - na
-  - Mat1
-  - alphaTub84B
 ---

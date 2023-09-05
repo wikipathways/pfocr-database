@@ -3,6 +3,9 @@ figid: PMC8707465__microorganisms-09-02607-g002
 figtitle: Novel Therapies of Hepatitis B and D
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8707465
 filename: microorganisms-09-02607-g002.jpg
 figlink: /pmc/articles/PMC8707465/figure/microorganisms-09-02607-f002/
@@ -37,8 +40,6 @@ keywords: Hepatitis B virus (HBV) | Hepatitis D virus (HDV) | novel therapies | 
 automl_pathway: 0.9389011
 figid_alias: PMC8707465__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8707465__F2
 ndex: ''
 seo: CreativeWork
@@ -80,4 +81,18 @@ schema-jsonld:
   - Anp
   - Acam
   - msi
+  - HSPG2
+  - SDC2
+  - EGFR
+  - CLCN7
+  - HOPX
+  - SLC10A1
+  - NPC1
+  - TMEM37
+  - PARTICL
+  - GOLGA4
+  - ERVK-9
+  - ERVK-11
+  - ERVK-19
+  - MCDR1
 ---

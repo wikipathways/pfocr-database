@@ -3,6 +3,9 @@ figid: PMC7074686__microorganisms-08-00180-g001
 figtitle: Interplay of different signalling pathways that enable C
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7074686
 filename: microorganisms-08-00180-g001.jpg
 figlink: pmc/articles/PMC7074686/figure/microorganisms-08-00180-f001/
@@ -49,9 +52,6 @@ keywords: .na.character
 automl_pathway: 0.8935673
 figid_alias: PMC7074686__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7074686__F1
 ndex: ''
 seo: CreativeWork

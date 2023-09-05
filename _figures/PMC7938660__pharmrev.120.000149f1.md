@@ -3,6 +3,8 @@ figid: PMC7938660__pharmrev.120.000149f1
 figtitle: Metabolic formation of hydroxynorketamines from ketamine
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7938660
 filename: pharmrev.120.000149f1.jpg
 figlink: pmc/articles/PMC7938660/figure/F1/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.842675
 figid_alias: PMC7938660__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7938660__F1
 ndex: ''
 seo: CreativeWork

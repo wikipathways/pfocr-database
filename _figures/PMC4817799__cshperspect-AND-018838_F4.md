@@ -4,6 +4,8 @@ figtitle: Regulation of neural precursor plasticity within the classical neuroge
   zones
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4817799
 filename: cshperspect-AND-018838_F4.jpg
 figlink: /pmc/articles/PMC4817799/figure/A018838F4/
@@ -44,8 +46,6 @@ keywords: .na.character
 automl_pathway: 0.937304
 figid_alias: PMC4817799__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4817799__F4
 ndex: 76d74459-defe-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC7818013__JZhejiangUnivSciB-22-1-38-g001
 figtitle: 'DNA double-strand break repair pathway choice: a new focus on 53BP1'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7818013
 filename: JZhejiangUnivSciB-22-1-38-g001.jpg
 figlink: pmc/articles/PMC7818013/figure/JZhejiangUnivSciB-22-1-38-f001/
@@ -25,9 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9218093
 figid_alias: PMC7818013__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC7818013__F1
 ndex: ''
 seo: CreativeWork

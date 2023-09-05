@@ -22,6 +22,10 @@ organisms:
 - metagenomes
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6967385
 filename: mSystems.00451-19-f0002.jpg
 figlink: pmc/articles/PMC6967385/figure/fig2/
@@ -43,10 +47,6 @@ keywords: .na.character
 automl_pathway: 0.883728
 figid_alias: PMC6967385__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC6967385__F2
 ndex: ''
 seo: CreativeWork
@@ -238,10 +238,47 @@ schema-jsonld:
   - RPS27A
   - PCK2
   - AQP7
+  - vs
+  - mir-bft
+  - Fatp1
+  - Ble
+  - bie
+  - l(1)16Fa
+  - mei-W68
+  - et
   - sad
-  - acs
-  - crp
-  - folD
+  - Smox
+  - nAChRalpha2
+  - dib
+  - Acbp1
+  - Acbp4
+  - Acbp6
+  - Acbp3
+  - Acbp2
+  - Acbp5
+  - anox
+  - AcCoAS
+  - Acsl
+  - bin
+  - Acox3
+  - ScpX
+  - Mcad
+  - CAP
+  - SMC3
+  - Cpn
+  - Capa
+  - capt
+  - bel
+  - SERCA
+  - Cadps
+  - Mmp1
+  - CG8188
+  - Ubc10
+  - Ubc84D
+  - Ubc87F
+  - Pepck2
+  - Pepck1
+  - 'On'
   - O
   - ketone
   - Caolesterol

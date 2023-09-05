@@ -8,6 +8,15 @@ organisms:
 - Ovis aries
 - Homo sapiens
 - Prevotella sp.
+organisms_ner:
+- Sus scrofa
+- Ovis aries
+- Rattus norvegicus
+- Mus musculus
+- Homo sapiens
+- Danio rerio
+- Arabidopsis thaliana
+- Saccharomyces cerevisiae S288C
 pmcid: PMC7996246
 filename: pharmaceuticals-14-00175-g003.jpg
 figlink: pmc/articles/PMC7996246/figure/pharmaceuticals-14-00175-f003/
@@ -36,10 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9594027
 figid_alias: PMC7996246__F3
 figtype: Figure
-organisms_ner:
-- Sus scrofa
-- Ovis aries
-- Rattus norvegicus
 redirect_from: /figures/PMC7996246__F3
 ndex: ''
 seo: CreativeWork
@@ -67,8 +72,8 @@ schema-jsonld:
   keywords:
   - ANGPT2
   - BCL2
-  - BDNF
   - NTRK2
+  - BDNF
   - MAP2
   - MAP1B
   - NEFM
@@ -77,13 +82,44 @@ schema-jsonld:
   - Agt
   - Agtr2
   - Bcl2
-  - Bdnf
   - Ntrk2
+  - Bdnf
   - Ptpn6
   - Map2
   - Map1b
   - Nefm
   - Agtr1a
   - Ube2v2
+  - Prickle1
+  - Ntrk1
+  - Mtus1
+  - Sirpa
+  - Nr0b2
+  - Man2a1
+  - Neu1
+  - Cebpb
+  - Agtrap
+  - Ms2
+  - VPS51
+  - NTRK1
+  - BDNF-AS
+  - PTPN6
+  - NR0B2
+  - MASP2
+  - GIMAP2
+  - UBE2V2
+  - angpt2b
+  - chmp2a
+  - ntrk1
+  - bdnf
+  - ptpn6
+  - map2
+  - map1b
+  - MPK1
+  - SHP1
+  - MAP1C
+  - CNGC4
+  - SLT2
+  - MMS2
   - 'NO'
 ---

@@ -31,10 +31,12 @@ organisms:
 - Ambystoma mexicanum
 - other sequences
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6912245
 filename: antioxidants-08-00564-g0A1.jpg
 figlink: /pmc/articles/PMC6912245/figure/antioxidants-08-00564-f0A1/
-number: AF1
+number: F1
 caption: Reconstruction and manual curation of the genome–scale metabolic networks
   of S. japonica and C. okamuranus. In green, the reactions present initially in the
   GSMNs, in red those that were deleted, in brown those added, and in orange those
@@ -49,11 +51,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8782625
-figid_alias: PMC6912245__AF1
-figtype: Appendix figure
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6912245__AF1
+figid_alias: PMC6912245__F1
+figtype: Figure
+redirect_from: /figures/PMC6912245__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -70,6 +70,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CTSL
+  - NLN
+  - BCR
+  - IGKV3D-20
+  - TRA-TGC7-1
   - Isopentenyl phosphate
   - RXN-10068
   - Isopentenyl diphosphate

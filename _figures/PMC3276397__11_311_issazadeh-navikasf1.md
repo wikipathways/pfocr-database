@@ -3,6 +3,9 @@ figid: PMC3276397__11_311_issazadeh-navikasf1
 figtitle: Effects of VitA in gut-associated lymphoid tissue
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3276397
 filename: 11_311_issazadeh-navikasf1.jpg
 figlink: /pmc/articles/PMC3276397/figure/f1-11_311_issazadeh-navikas/
@@ -37,9 +40,6 @@ keywords: .na.character
 automl_pathway: 0.918232
 figid_alias: PMC3276397__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3276397__F1
 ndex: 60d5746a-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork

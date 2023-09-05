@@ -4,6 +4,8 @@ figtitle: Major regulatory pathways involved in the regulation of Runx2, a chief
   regulator of osteogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5040224
 filename: medscimonitbasicres-22-95-g002.jpg
 figlink: /pmc/articles/PMC5040224/figure/f2-medscimonitbasicres-22-95/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8735505
 figid_alias: PMC5040224__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5040224__F2
 ndex: e572ac29-df1b-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -74,8 +74,8 @@ schema-jsonld:
   - TGFB1
   - TGFB2
   - TGFB3
-  - BMP4
   - BMP2
+  - BMP4
   - DKK1
   - DKK2
   - NOTCH1
@@ -94,10 +94,10 @@ schema-jsonld:
   - FZD9
   - GSK3B
   - IL11
-  - SMAD1
-  - GARS1
   - SMAD5
   - SMAD9
+  - SMAD1
+  - GARS1
   - SMAD4
   - SMAD6
   - SMAD7
@@ -113,8 +113,8 @@ schema-jsonld:
   - HES6
   - HES7
   - HEY
-  - LEF1
   - HNF4A
+  - LEF1
   - RUNX2
   - TNFSF11
   - Vitamin D

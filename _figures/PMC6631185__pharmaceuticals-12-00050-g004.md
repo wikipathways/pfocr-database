@@ -4,6 +4,8 @@ figtitle: Signaling pathway nodes effected by loss of CDK11 in A375 melanoma cel
   following PanCancer Reactome pathways analysis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6631185
 filename: pharmaceuticals-12-00050-g004.jpg
 figlink: /pmc/articles/PMC6631185/figure/pharmaceuticals-12-00050-f004/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.7629646
 figid_alias: PMC6631185__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6631185__F4
 ndex: 7beb9411-df2d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,12 +52,12 @@ schema-jsonld:
   - SFN
   - REXO2
   - PKMYT1
-  - BRCA1
   - FANCB
-  - WARS1
+  - BRCA1
   - MDC1
-  - CDC7
+  - WARS1
   - DDB2
+  - CDC7
   - BRIP1
   - MRPL36
   - CCNB1
@@ -77,9 +77,9 @@ schema-jsonld:
   - POLE2
   - MSH6
   - PCNA
+  - CCNA2
   - E2F1
   - UBE2L3
-  - CCNA2
   - MGMT
   - FANCA
   - CCND1

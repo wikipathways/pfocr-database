@@ -3,6 +3,8 @@ figid: PMC9612213__pharmaceuticals-15-01168-g001
 figtitle: Molecular Mechanisms of Inflammasome in Ischemic Stroke Pathogenesis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC9612213
 filename: pharmaceuticals-15-01168-g001.jpg
 figlink: /pmc/articles/PMC9612213/figure/pharmaceuticals-15-01168-f001/
@@ -28,8 +30,6 @@ keywords: ischemic stroke | neuroinflammation | NLRP3 inflammasome | NLRP1 infla
 automl_pathway: 0.9655672
 figid_alias: PMC9612213__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9612213__F1
 ndex: ''
 seo: CreativeWork
@@ -53,32 +53,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AGER
-  - MOK
-  - TLR1
-  - TLR2
-  - TLR3
-  - TLR4
-  - TLR5
-  - TLR6
-  - TLR7
-  - TLR8
-  - TLR9
-  - TLR10
-  - MAPK1
-  - MAPK3
-  - MAPK11
-  - MAPK12
-  - MAPK13
-  - MAPK14
-  - MAPK8
-  - MAPK9
-  - MAPK10
-  - NFKB1
-  - RELA
-  - RELB
-  - REL
-  - NFKB2
-  - NLRP3
-  - CASR
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - 18w
+  - tok
+  - tlr-2
+  - MKP-4
+  - p38b
+  - rl
+  - Dif
+  - dl
+  - Rel
+  - ca
 ---

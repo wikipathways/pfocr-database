@@ -3,6 +3,9 @@ figid: PMC4066640__cshperspectmed-MYC-014316_F5
 figtitle: MYC autorepression and general cellular gene repression by histone modification
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4066640
 filename: cshperspectmed-MYC-014316_F5.jpg
 figlink: /pmc/articles/PMC4066640/figure/A014316F5/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.8856977
 figid_alias: PMC4066640__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4066640__F5
 ndex: 9e062694-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -72,4 +73,17 @@ schema-jsonld:
   - EZH2
   - MYC
   - BCL2L10
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Pten
+  - E(z)
+  - Myc
+  - Me
+  - Ne
+  - Hr4
+  - PsGEF
+  - Low
 ---

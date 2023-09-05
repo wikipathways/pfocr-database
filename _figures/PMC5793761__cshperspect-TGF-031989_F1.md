@@ -3,6 +3,8 @@ figid: PMC5793761__cshperspect-TGF-031989_F1
 figtitle: Bone morphogenetic protein (BMP) signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5793761
 filename: cshperspect-TGF-031989_F1.jpg
 figlink: pmc/articles/PMC5793761/figure/A031989F1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9663982
 figid_alias: PMC5793761__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5793761__F1
 ndex: ''
 seo: CreativeWork
@@ -65,14 +65,11 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - BMPER
   - MGP
+  - BMPER
   - TGFBR3
   - LRP1
   - C1D
-  - NAA10
-  - OLAH
-  - ETV6
   - ACVRL1
   - ACVR1
   - ACVR2B
@@ -98,14 +95,14 @@ schema-jsonld:
   - BMPR2
   - BMPR1B
   - RGMA
-  - SMAD9
   - SMAD5
   - SMAD1
   - GARS1
-  - SMAD7
+  - SMAD9
   - SMAD6
-  - SMURF1
+  - SMAD7
   - SMURF2
+  - SMURF1
   - SMAD4
   - EPHB2
   - MAPK1

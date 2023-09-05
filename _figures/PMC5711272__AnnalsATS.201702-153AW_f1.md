@@ -4,6 +4,9 @@ figtitle: Central role of mitochondria in energy production, biosynthesis, and r
   regulation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5711272
 filename: AnnalsATS.201702-153AW_f1.jpg
 figlink: /pmc/articles/PMC5711272/figure/fig1/
@@ -62,8 +65,6 @@ keywords: .na.character
 automl_pathway: 0.8909689
 figid_alias: PMC5711272__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5711272__F1
 ndex: 7e12a669-df15-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -136,6 +137,25 @@ schema-jsonld:
   - Atpalpha
   - whd
   - ATPCL
+  - DECR1
+  - GLS2
+  - LDHA
+  - LDHB
+  - LDHC
+  - PDP1
+  - DLAT
+  - DLD
+  - PDHA1
+  - PDHA2
+  - PDHB
+  - PDHX
+  - SOD2
+  - WDTC1
+  - ATP8A2
+  - CPT1A
+  - CPT2
+  - CHPT1
+  - ACLY
   - Fatty acid
   - Fatty acids
   - Glucose

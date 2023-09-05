@@ -3,6 +3,9 @@ figid: PMC545204__pmed.0020012.g003
 figtitle: Retinoic Acid and Arsenic for Treating Acute Promyelocytic Leukemia
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC545204
 filename: pmed.0020012.g003.jpg
 figlink: /pmc/articles/PMC545204/figure/pmed-0020012-g003/
@@ -47,9 +50,6 @@ keywords: .na.character
 automl_pathway: 0.8982731
 figid_alias: PMC545204__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC545204__F3
 ndex: d83a4e24-df0d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -108,9 +108,9 @@ schema-jsonld:
   - l(2)39ADc
   - Rpt6
   - Sce
+  - COX1
   - COX4
   - COX5A
-  - COX1
   - ZNHIT3
   - IFNA1
   - PML
@@ -179,6 +179,7 @@ schema-jsonld:
   - PSMF1
   - SEM1
   - USP5
+  - PTGS1
   - COX8A
   - CPOX
   - COX5B
@@ -196,7 +197,6 @@ schema-jsonld:
   - COX7B
   - COX7B2
   - COX8C
-  - PTGS1
   - retinoic acid
   - tyrosine
   - Cancer

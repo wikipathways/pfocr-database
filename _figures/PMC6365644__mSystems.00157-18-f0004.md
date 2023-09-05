@@ -6,6 +6,9 @@ figtitle: Differentially regulated metabolic fluxes and metabolites in gluconeog
 organisms:
 - Acinetobacter baumannii
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6365644
 filename: mSystems.00157-18-f0004.jpg
 figlink: /pmc/articles/PMC6365644/figure/fig4/
@@ -41,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.8511708
 figid_alias: PMC6365644__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6365644__F4
 ndex: ''
 seo: CreativeWork
@@ -93,6 +94,36 @@ schema-jsonld:
   - CP
   - ATP8A2
   - DNAH8
+  - G6P
+  - fbp
+  - Ald1
+  - Aldh-III
+  - Pep
+  - bgcn
+  - CycE
+  - cyc
+  - pe
+  - sti
+  - mAcon1
+  - mal
+  - bs
+  - Mrtf
+  - Coa
+  - Cys
+  - mmy
+  - Csp
+  - pyr
+  - Kg
+  - Fum1
+  - arg
+  - aos
+  - im
+  - cp
+  - orn
+  - ATPsynbeta
+  - Atpalpha
+  - bd
+  - Vha14-1
   - phosphate
   - Ru5P
   - RO4780

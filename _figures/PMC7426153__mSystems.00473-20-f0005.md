@@ -3,6 +3,9 @@ figid: PMC7426153__mSystems.00473-20-f0005
 figtitle: Microbial Strategies for Survival in the Glass Sponge Vazella pourtalesii
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7426153
 filename: mSystems.00473-20-f0005.jpg
 figlink: .na.character
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9365936
 figid_alias: PMC7426153__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC7426153__F5
 ndex: ''
 seo: CreativeWork
@@ -100,8 +100,8 @@ schema-jsonld:
   - sti
   - Coa
   - fur
-  - pad
   - Sur
+  - pad
   - ca
   - chp
   - .na.character
@@ -163,9 +163,9 @@ schema-jsonld:
   - CIT
   - DHDDS
   - FURIN
+  - ABCC8
   - PADI4
   - DHX40
-  - ABCC8
   - CHP1
   - RHOV
   - NLRP12

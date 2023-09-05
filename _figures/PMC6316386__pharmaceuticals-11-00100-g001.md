@@ -13,6 +13,14 @@ organisms:
 - Phytomonas oxycareni
 - Homo sapiens
 - Bos taurus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Bos taurus
+- Cavia porcellus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC6316386
 filename: pharmaceuticals-11-00100-g001.jpg
 figlink: /pmc/articles/PMC6316386/figure/pharmaceuticals-11-00100-f001/
@@ -54,12 +62,6 @@ keywords: .na.character
 automl_pathway: 0.8409762
 figid_alias: PMC6316386__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-- Bos taurus
-- Cavia porcellus
 redirect_from: /figures/PMC6316386__F1
 ndex: 024f4f03-df24-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -100,23 +102,23 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - TRPA1
-  - TRPV1
   - F2RL1
   - NR1I2
   - SLC52A1
+  - TRPV1
+  - TRPV3
   - TRPV4
   - SPACA9
   - SPG21
-  - TRPV3
   - TRPC4
   - TRPM8
-  - LPA
   - TSLP
   - IL31
   - AP1B1
   - MIR711
+  - LPA
   - CRLF2
-  - HRH4
+  - LYVE1
   - KCNJ4
   - HSPG2
   - PLCE1
@@ -131,21 +133,21 @@ schema-jsonld:
   - PLCG1
   - PLCG2
   - HTR7
-  - S1PR3
   - CORD1
   - MBTPS1
   - HTR2B
   - RNU1-93P
-  - LYVE1
+  - HRH4
+  - S1PR3
   - Trpa1
-  - Trpv1
   - Par2
   - F2rl1
   - Slc52a2
+  - Trpv1
+  - Trpv3
   - Trpv4
   - Spg21
   - Spaca9
-  - Trpv3
   - Trpc4
   - Trpm8
   - Tslp
@@ -153,15 +155,37 @@ schema-jsonld:
   - Mllt1
   - Mir711
   - Crlf2
-  - Hrh4
   - Hrh1
   - Hspg2
   - Htr7
-  - S1pr3
   - S1pr1
   - Mbtps1
   - Htr2b
+  - Hrh4
+  - S1pr3
   - PLG
+  - TrpA1
+  - chb
+  - 5-HT1B
+  - 5-HT1A
+  - 5-HT2A
+  - na
+  - hir
+  - drg
+  - norpA
+  - sl
+  - Plc21C
+  - S1P
+  - His4r
+  - trpa1a
+  - trpv1
+  - trpv4
+  - crlf2
+  - htr7
+  - htr7a
+  - mbtps1
+  - htr2b
+  - s1pr3a
   - 5-HT
   - Histamine
   - Cyclic phosphatidic acid Sertraline

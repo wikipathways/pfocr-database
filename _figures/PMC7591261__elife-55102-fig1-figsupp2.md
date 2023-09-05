@@ -6,10 +6,13 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Drosophila melanogaster
+organisms_ner:
+- Drosophila melanogaster
+- Mus musculus
 pmcid: PMC7591261
 filename: elife-55102-fig1-figsupp2.jpg
 figlink: pmc/articles/PMC7591261/figure/fig1s2/
-number: SF1_2
+number: F1
 caption: (A) MAPK cascade from GSEA analysis of G1/S to S transition. Full results
   of GSEA analysis are listed in . (B) Top events from Kegg pathway analysis of DEGs
   from G1/S to S. Full results are listed in . (C) Gene ontology analysis showing
@@ -25,11 +28,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7086176
-figid_alias: PMC7591261__SF1_2
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7591261__SF1_2
+figid_alias: PMC7591261__F1
+figtype: Figure
+redirect_from: /figures/PMC7591261__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -66,6 +67,13 @@ schema-jsonld:
   - cyc
   - ase
   - anon-70Dc
+  - Elk3
+  - Hras
+  - Kras
+  - Rem1
+  - Tnf
+  - Il17a
+  - Gabrg2
   - Cromosone
   - Small cell lung cancer
   - papillomavirus

@@ -4,6 +4,8 @@ figtitle: RpoE Facilitates Stress-Resistance, Invasion, and Pathogenicity of Esc
   coli K1
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9147696
 filename: microorganisms-10-00879-g008.jpg
 figlink: /pmc/articles/PMC9147696/figure/microorganisms-10-00879-f008/
@@ -22,8 +24,6 @@ keywords: HBMECs | bacteremia | meningitis | E. coli K1 | RpoE | antibacterial p
 automl_pathway: 0.6174574
 figid_alias: PMC9147696__F8
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC9147696__F8
 ndex: ''
 seo: CreativeWork

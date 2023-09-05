@@ -3,6 +3,8 @@ figid: PMC7356105__microorganisms-08-00804-g003
 figtitle: TNF pathway inhibition in HGF in response to C
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7356105
 filename: microorganisms-08-00804-g003.jpg
 figlink: pmc/articles/PMC7356105/figure/microorganisms-08-00804-f003/
@@ -21,8 +23,6 @@ keywords: .na.character
 automl_pathway: 0.8551476
 figid_alias: PMC7356105__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7356105__F3
 ndex: ''
 seo: CreativeWork

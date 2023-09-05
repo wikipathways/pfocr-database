@@ -3,6 +3,9 @@ figid: PMC5553762__RevDiabeticStud-13-113-003
 figtitle: Physiological Effects of Dandelion (Taraxacum Officinale) in Type 2 Diabetes
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5553762
 filename: RevDiabeticStud-13-113-003.jpg
 figlink: /pmc/articles/PMC5553762/figure/F2/
@@ -40,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9248533
 figid_alias: PMC5553762__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5553762__F2
 ndex: 86978616-df0c-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -91,8 +92,8 @@ schema-jsonld:
   - cra
   - GlyP
   - Ts
-  - Surf1
   - Sur
+  - Surf1
   - G6P
   - Pen
   - alphaTub85E
@@ -116,6 +117,44 @@ schema-jsonld:
   - Pkc98E
   - aPKC
   - Pkc53E
+  - CGA
+  - CHGA
+  - MTMR11
+  - LUC7L3
+  - GCG
+  - GLP1R
+  - EHMT1
+  - ZGLP1
+  - GCK
+  - MAP4K3
+  - ABCC8
+  - GPR162
+  - ATP8A2
+  - PDX1
+  - WDTC1
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - IARS1
+  - IRS1
+  - IRS2
+  - IRS4
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - IGF1
   - Glucose
   - Pyruvate
 ---

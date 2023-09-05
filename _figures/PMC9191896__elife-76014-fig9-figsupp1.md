@@ -3,10 +3,13 @@ figid: PMC9191896__elife-76014-fig9-figsupp1
 figtitle: Pathway for sex hormone synthesis in the juvenile zebrafish
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC9191896
 filename: elife-76014-fig9-figsupp1.jpg
 figlink: /pmc/articles/PMC9191896/figure/fig9s1/
-number: F9
+number: SF9_1
 caption: Diagram shows a likely pathway for the synthesis of the two main sex steroids
   in zebrafish, 17ß-estradiol (E2; female) and 11-ketotestosterone (male), starting
   from cholesterol. Enzymes that catalyze each step are shown, with color indicating
@@ -23,12 +26,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: single-cell RNA sequencing | ovary | germ cells | germline stem cells |
   somatic gonad | sex determination | wnt9b | foxl2l | Estrogen synthesis | Zebrafish
 automl_pathway: 0.8711784
-figid_alias: PMC9191896__F9
-figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
-redirect_from: /figures/PMC9191896__F9
+figid_alias: PMC9191896__SF9_1
+figtype: Supplemental figure
+redirect_from: /figures/PMC9191896__SF9_1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

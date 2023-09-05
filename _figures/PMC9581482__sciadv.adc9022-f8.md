@@ -7,6 +7,12 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Argopecten nucleus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC9581482
 filename: sciadv.adc9022-f8.jpg
 figlink: /pmc/articles/PMC9581482/figure/F8/
@@ -32,10 +38,6 @@ keywords: ''
 automl_pathway: 0.9293745
 figid_alias: PMC9581482__F8
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
 redirect_from: /figures/PMC9581482__F8
 ndex: ''
 seo: CreativeWork
@@ -59,6 +61,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Ppig
+  - Atp7b
+  - Casp14
+  - Nr1h3
+  - Nr1h2
+  - Tg
+  - Fasn
+  - Il18
+  - Tnf
+  - Nos2
+  - Timp1
+  - wd
   - PPIG
   - CYP17A1
   - CYP19A1
@@ -138,17 +152,25 @@ schema-jsonld:
   - NOS2
   - ISYNA1
   - TIMP1
-  - Ppig
-  - Atp7b
-  - Casp14
-  - Nr1h3
-  - Nr1h2
-  - Tg
-  - Fasn
-  - Il18
-  - Tnf
-  - Nos2
-  - Timp1
-  - wd
   - Cyp3a23-3a1
+  - dib
+  - Hdl
+  - FASN1
+  - FASN2
+  - egr
+  - Inos
+  - Nos
+  - Timp
+  - Ubc7
+  - kn
+  - crl
+  - atp7b
+  - rxrga
+  - rxrbb
+  - rxrba
+  - rxrab
+  - tg
+  - fasn
+  - tnfa
+  - tnfb
 ---

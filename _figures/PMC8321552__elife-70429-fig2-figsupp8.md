@@ -9,10 +9,16 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
+- Arabidopsis thaliana
 pmcid: PMC8321552
 filename: elife-70429-fig2-figsupp8.jpg
 figlink: /pmc/articles/PMC8321552/figure/fig2s8/
-number: F2
+number: SF2_8
 caption: 'KEGG analysis of analog #4 differentially regulated genes was found to be
   enriched for the DNA replication pathway, adjp equal 5.05×10−3.'
 papertitle: A subset of CB002 xanthine analogs bypass p53-signaling to restore a p53
@@ -25,12 +31,9 @@ journal_nlm_ta: eLife
 publisher_name: eLife Sciences Publications, Ltd
 keywords: p53 | cancer | therapy | xanthines | CB002 | noxa | Human
 automl_pathway: 0.8720958
-figid_alias: PMC8321552__F2
-figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-redirect_from: /figures/PMC8321552__F2
+figid_alias: PMC8321552__SF2_8
+figtype: Supplemental figure
+redirect_from: /figures/PMC8321552__SF2_8
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -90,4 +93,50 @@ schema-jsonld:
   - RFC5
   - TENT4A
   - PCNA
+  - che
+  - Ace
+  - Chi
+  - chic
+  - mtSSB
+  - lig
+  - 'On'
+  - phm
+  - ple
+  - Eig71Ee
+  - l(2)46Da
+  - anon-48Ae
+  - Fs(3)Dam
+  - spel1
+  - tin
+  - Rf-c
+  - CG8142
+  - RfC4
+  - Gnf1
+  - Polr2A
+  - Prim1
+  - PolA1
+  - PolA2
+  - sv
+  - Prim2
+  - svr
+  - trmu
+  - ssb
+  - mmut
+  - exo1
+  - pms2
+  - msh2
+  - msh6
+  - mlh1
+  - msh3
+  - mlh3
+  - rpa2
+  - tent4a
+  - pcna
+  - TCP11
+  - CHI
+  - TT5
+  - WRNEXO
+  - EXO
+  - RPA
+  - POL
 ---

@@ -3,6 +3,9 @@ figid: PMC6680887__microorganisms-07-00191-g005
 figtitle: Dinoflagellate orthologues predicted in the DNA mismatch repair pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6680887
 filename: microorganisms-07-00191-g005.jpg
 figlink: /pmc/articles/PMC6680887/figure/microorganisms-07-00191-f005/
@@ -23,9 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9277315
 figid_alias: PMC6680887__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC6680887__F5
 ndex: ''
 seo: CreativeWork

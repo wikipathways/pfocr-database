@@ -11,6 +11,12 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - unidentified
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Mus musculus
+- Homo sapiens
+- Xenopus laevis
 pmcid: PMC3405855
 filename: cshperspect-CSD-008797_F5.jpg
 figlink: /pmc/articles/PMC3405855/figure/A008797F5/
@@ -39,11 +45,6 @@ keywords: .na.character
 automl_pathway: 0.9423068
 figid_alias: PMC3405855__F5
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-- Mus musculus
-- Danio rerio
 redirect_from: /figures/PMC3405855__F5
 ndex: fa630cd6-dedf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -87,7 +88,28 @@ schema-jsonld:
   - kay
   - Decay
   - cp
-  - oo
+  - fas
+  - mapk8b
+  - fadd
+  - cflara
+  - firrm
+  - casp8
+  - fosab
+  - il6
+  - egr1
+  - Re
+  - Fas
+  - Fasn
+  - Il1a
+  - Mapk8
+  - Ikbkb
+  - Cflar
+  - Firrm
+  - Fos
+  - Il6
+  - Casp3
+  - Egr1
+  - Cp
   - FAS
   - FASN
   - IL1A
@@ -117,29 +139,16 @@ schema-jsonld:
   - IL6
   - EGR1
   - CP
-  - HCC
-  - HYCC1
-  - Re
-  - Fas
-  - Fasn
-  - Il1a
-  - Mapk8
-  - Ikbkb
-  - Cflar
-  - Firrm
-  - Fos
-  - Il6
-  - Casp3
-  - Egr1
-  - Cp
-  - fas
-  - mapk8b
-  - fadd
-  - cflara
-  - firrm
-  - casp8
-  - fosab
-  - il6
-  - egr1
-  - hccsa.2
+  - fas.L
+  - fas.S
+  - mapk8.L
+  - mapk8.S
+  - ikbkb.L
+  - fadd.S
+  - fos.S
+  - il6.L
+  - il6.S
+  - casp3.2.L
+  - egr1.L
+  - egr1.S
 ---

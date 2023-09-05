@@ -4,6 +4,9 @@ figtitle: Schematic of opportunities for host-directed therapies modulating eico
   balance
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC4588138
 filename: cshperspectmed-TUB-021196_F1.jpg
 figlink: /pmc/articles/PMC4588138/figure/A021196F1/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9488468
 figid_alias: PMC4588138__F1
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC4588138__F1
 ndex: ''
 seo: CreativeWork

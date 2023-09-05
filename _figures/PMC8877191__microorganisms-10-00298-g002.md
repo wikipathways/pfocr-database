@@ -4,6 +4,8 @@ figtitle: Analysis of Ensifer aridi Mutants Affecting Regulation of Methionine, 
   and Inositol Metabolisms Suggests a Role in Stress Adaptation and Symbiosis Development
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8877191
 filename: microorganisms-10-00298-g002.jpg
 figlink: /pmc/articles/PMC8877191/figure/microorganisms-10-00298-f002/
@@ -30,8 +32,6 @@ keywords: Ensifer aridi | nitrogen-fixing symbiosis | trehalose | S-adenosylmeth
 automl_pathway: 0.8789972
 figid_alias: PMC8877191__F2
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC8877191__F2
 ndex: ''
 seo: CreativeWork

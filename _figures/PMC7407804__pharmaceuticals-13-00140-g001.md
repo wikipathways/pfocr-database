@@ -3,6 +3,8 @@ figid: PMC7407804__pharmaceuticals-13-00140-g001
 figtitle: Signaling events downstream of EphA activation by ephrin-As
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7407804
 filename: pharmaceuticals-13-00140-g001.jpg
 figlink: pmc/articles/PMC7407804/figure/pharmaceuticals-13-00140-f001/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.9560595
 figid_alias: PMC7407804__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7407804__F1
 ndex: ''
 seo: CreativeWork
@@ -48,8 +48,8 @@ schema-jsonld:
   - EPHA7
   - EPHA8
   - EPHA10
-  - VAV2
   - VAV3
+  - VAV2
   - ARHGEF15
   - AKT1
   - AKT2

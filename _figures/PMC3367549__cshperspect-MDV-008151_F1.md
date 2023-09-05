@@ -3,6 +3,8 @@ figid: PMC3367549__cshperspect-MDV-008151_F1
 figtitle: FGF signaling cascades, an example of RTK signaling
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3367549
 filename: cshperspect-MDV-008151_F1.jpg
 figlink: /pmc/articles/PMC3367549/figure/A008151F1/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9598402
 figid_alias: PMC3367549__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3367549__F1
 ndex: 348d50ae-ded8-11ea-99da-0ac135e8bacf
 seo: CreativeWork

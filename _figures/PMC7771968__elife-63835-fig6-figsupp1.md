@@ -6,10 +6,13 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Escherichia coli
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7771968
 filename: elife-63835-fig6-figsupp1.jpg
 figlink: pmc/articles/PMC7771968/figure/fig6s1/
-number: SF6_1
+number: F6
 caption: 'Metabolites that were increased in the metabolomics analysis of aged Cdk1
   cKO mice are highlighted in red. Enzymes with known associations to liver metabolic
   disease are included. ADA: Adenosine deaminase. XDH: Xanthine dehydrogenase.'
@@ -23,11 +26,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9683858
-figid_alias: PMC7771968__SF6_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC7771968__SF6_1
+figid_alias: PMC7771968__F6
+figtype: Figure
+redirect_from: /figures/PMC7771968__F6
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -43,12 +44,35 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Nt5c2
-  - Mp
-  - Brap
+  - NT5C2
+  - EMP2
+  - IMPA1
+  - BRAP
+  - APRT
+  - MFAP1
+  - ADA
+  - ADAD1
+  - ADAD2
+  - ADAR
+  - ADARB1
+  - ADARB2
+  - ADAT1
+  - ADAT2
+  - ADAT3
+  - XDH
+  - SORD
+  - fliF
+  - Imp
+  - CG11110
+  - CG17029
+  - CG17028
+  - CG17027
+  - CG9391
+  - CG9389
+  - Amph
   - Ada
-  - Xdh
-  - Sord
+  - AP-2alpha
+  - ry
   - GMP
   - AMP
   - Guanosine

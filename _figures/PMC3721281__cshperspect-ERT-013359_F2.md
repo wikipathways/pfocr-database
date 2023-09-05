@@ -3,6 +3,10 @@ figid: PMC3721281__cshperspect-ERT-013359_F2
 figtitle: Asparagine-linked glycosylation pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC3721281
 filename: cshperspect-ERT-013359_F2.jpg
 figlink: /pmc/articles/PMC3721281/figure/A013359F2/
@@ -30,10 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9051056
 figid_alias: PMC3721281__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC3721281__F2
 ndex: 08009f81-dea5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -68,8 +68,8 @@ schema-jsonld:
   - Alg1
   - Alg2
   - Alg-2
-  - anchor
   - Pgi
+  - anchor
   - Alg11
   - Ost
   - Ost48
@@ -85,15 +85,25 @@ schema-jsonld:
   - Alg10
   - ALG13
   - ALG14
-  - DPAGT1
-  - DOLK
+  - ALG7
+  - SEC59
   - DPM1
   - ALG5
   - ALG1
+  - ALG2
+  - CAX4
+  - ALG11
+  - ALG3
+  - ALG9
+  - ALG12
+  - ALG6
+  - ALG8
+  - DIE2
+  - RFT1
+  - DPAGT1
+  - DOLK
   - ALG1L1P
   - ALG1L2
-  - ALG2
-  - ALG11
   - GLT1D1
   - GTDC1
   - GYS1
@@ -104,26 +114,16 @@ schema-jsonld:
   - GNPDA1
   - DDOST
   - MCF2L
-  - ALG3
-  - ALG9
-  - ALG12
   - PIGB
   - PIGM
   - PIGV
   - PIGZ
   - POMT1
   - POMT2
-  - ALG6
-  - ALG8
   - ALG10
   - ALG10B
-  - RFT1
   - SLC19A1
   - SLC52A1
-  - ALG7
-  - SEC59
-  - CAX4
-  - DIE2
   - Dolichol
   - Glucose
   - Mannose

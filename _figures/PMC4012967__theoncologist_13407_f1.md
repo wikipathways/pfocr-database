@@ -3,6 +3,8 @@ figid: PMC4012967__theoncologist_13407_f1
 figtitle: IL-6/JAK/STAT pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4012967
 filename: theoncologist_13407_f1.jpg
 figlink: /pmc/articles/PMC4012967/figure/F1/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9249061
 figid_alias: PMC4012967__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4012967__F1
 ndex: 3ad2be23-df0d-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -133,8 +133,8 @@ schema-jsonld:
   - STAT6
   - STAT5A
   - STAT5B
+  - BCL2
   - MCL1
   - CCND1
-  - BCL2
   - Cancer
 ---

@@ -3,6 +3,8 @@ figid: PMC4067986__cshperspect-END-016881_F1
 figtitle: Cargo trafficking through the endocytic pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4067986
 filename: cshperspect-END-016881_F1.jpg
 figlink: /pmc/articles/PMC4067986/figure/A016881F1/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8297294
 figid_alias: PMC4067986__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4067986__F1
 ndex: ''
 seo: CreativeWork

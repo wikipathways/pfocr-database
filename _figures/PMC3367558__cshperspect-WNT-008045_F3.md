@@ -3,6 +3,8 @@ figid: PMC3367558__cshperspect-WNT-008045_F3
 figtitle: Negative regulation of AChR clustering by Wnt3a
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3367558
 filename: cshperspect-WNT-008045_F3.jpg
 figlink: /pmc/articles/PMC3367558/figure/A008045F3/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9646063
 figid_alias: PMC3367558__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3367558__F3
 ndex: ''
 seo: CreativeWork

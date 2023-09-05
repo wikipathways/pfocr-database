@@ -4,6 +4,10 @@ figtitle: Tomato Specialised Metabolism after Establishment of Symbiosis with th
   Endophytic Fungus Serendipita indica
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC8778627
 filename: microorganisms-10-00194-g002.jpg
 figlink: /pmc/articles/PMC8778627/figure/microorganisms-10-00194-f002/
@@ -31,9 +35,6 @@ keywords: endophyte | glycoalkaloids | phenolics | polyacetylenes | Piriformospo
 automl_pathway: 0.9552996
 figid_alias: PMC8778627__F2
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
-- Arabidopsis thaliana
 redirect_from: /figures/PMC8778627__F2
 ndex: ''
 seo: CreativeWork
@@ -57,12 +58,19 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - hmgr-1
-  - ssr-2
-  - tts-1
-  - tts-2
   - HMG1
   - CaS
   - SMT1
   - LOG2
+  - hmgr-1
+  - ssr-2
+  - tts-1
+  - tts-2
+  - FDFT1
+  - CSE1L
+  - CTNND1
+  - BCAR1
+  - TMX2-CTNND1
+  - SSR2
+  - PNPLA2
 ---

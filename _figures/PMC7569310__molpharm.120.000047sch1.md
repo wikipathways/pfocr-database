@@ -5,10 +5,15 @@ figtitle: Transient Receptor Potential Ankyrin-1 and Vanilloid-3 Differentially 
   Pneumotoxic Wood Smoke Particle Exposure
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
+- Caenorhabditis elegans
 pmcid: PMC7569310
 filename: molpharm.120.000047sch1.jpg
 figlink: /pmc/articles/PMC7569310/figure/sch1/
-number: SF1
+number: S1
 caption: Scheme outlining the integrated ERS response, common stimuli, and common
   cellular responses. The overall ERS pathway is highlighted in blue, with bold text
   specifying the biomarkers that were used as indices of ERS in this study. The various
@@ -26,11 +31,9 @@ journal_nlm_ta: Mol Pharmacol
 publisher_name: The American Society for Pharmacology and Experimental Therapeutics
 keywords: ''
 automl_pathway: 0.9385807
-figid_alias: PMC7569310__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC7569310__SF1
+figid_alias: PMC7569310__S1
+figtype: Scheme
+redirect_from: /figures/PMC7569310__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -58,6 +61,28 @@ schema-jsonld:
   - EIF2A
   - EIF2S1
   - ATF4
-  - ATF3
   - DDIT3
+  - ATF3
+  - GluProRS
+  - bip
+  - Hsc70-3
+  - Ire1
+  - crc
+  - Xbp1
+  - PEK
+  - rl
+  - eIF2alpha
+  - eIF2A
+  - Atf3
+  - xbp1
+  - elf2a
+  - eif2a
+  - atf4a
+  - ddit3
+  - atf3
+  - ire-1
+  - xbp-1
+  - eif-2alpha
+  - eif-2A
+  - atf-4
 ---

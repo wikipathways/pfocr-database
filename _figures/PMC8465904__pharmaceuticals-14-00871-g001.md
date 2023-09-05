@@ -4,6 +4,9 @@ figtitle: Crosstalk of the Wnt/Beta-Catenin Signaling Pathway in the Induction o
   Apoptosis on Cancer Cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8465904
 filename: pharmaceuticals-14-00871-g001.jpg
 figlink: /pmc/articles/PMC8465904/figure/pharmaceuticals-14-00871-f001/
@@ -41,9 +44,6 @@ keywords: crosstalk | β-catenin | apoptosis | signaling | cancer cells
 automl_pathway: 0.9062252
 figid_alias: PMC8465904__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8465904__F1
 ndex: ''
 seo: CreativeWork
@@ -93,16 +93,16 @@ schema-jsonld:
   - gus
   - dsh
   - Cdc42
-  - rho
-  - Bx
-  - Rho1
-  - Lcp65Ab1
   - Rac1
   - Rac2
   - Akt
   - Mtl
-  - Rok
+  - rho
+  - Bx
+  - Rho1
+  - Lcp65Ab1
   - bsk
+  - Rok
   - alb
   - CkIIbeta
   - Andorra
@@ -126,10 +126,10 @@ schema-jsonld:
   - ras
   - Ras64B
   - Ras85D
+  - bc2
+  - BC1
   - osa
   - nej
-  - BC1
-  - bc2
   - CBP
   - eIF4E1
   - pan
@@ -184,27 +184,27 @@ schema-jsonld:
   - DVL3
   - IFT81
   - CDC42
-  - RHO
-  - RHOD
-  - RHOA
-  - RHOB
-  - RHOC
   - AKT1
   - RAC1
   - RAC2
   - RAC3
   - RHOG
-  - ROCK1
-  - ROCK2
+  - RHO
+  - RHOD
+  - RHOA
+  - RHOB
+  - RHOC
   - MAPK8
   - MAPK9
   - MAPK10
+  - ROCK1
+  - ROCK2
+  - CXXC5
   - ALB
   - FBF1
   - A1BG
   - SNTB1
   - ANIB1
-  - CXXC5
   - PRRT2
   - PRKCA
   - PRKCB
@@ -248,8 +248,8 @@ schema-jsonld:
   - KRAS
   - HRAS
   - NRAS
-  - EP300
   - CHMP2A
+  - EP300
   - CREBBP
   - EIF4E
   - OPN1LW

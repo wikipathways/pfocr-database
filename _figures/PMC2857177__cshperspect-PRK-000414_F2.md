@@ -3,6 +3,8 @@ figid: PMC2857177__cshperspect-PRK-000414_F2
 figtitle: The cellular machineries required for OM biogenesis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2857177
 filename: cshperspect-PRK-000414_F2.jpg
 figlink: /pmc/articles/PMC2857177/figure/A000414F2/
@@ -26,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.8323601
 figid_alias: PMC2857177__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2857177__F2
 ndex: ''
 seo: CreativeWork

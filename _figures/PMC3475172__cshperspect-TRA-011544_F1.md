@@ -3,6 +3,9 @@ figid: PMC3475172__cshperspect-TRA-011544_F1
 figtitle: Model of canonical eukaryotic translation initiation pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3475172
 filename: cshperspect-TRA-011544_F1.jpg
 figlink: /pmc/articles/PMC3475172/figure/A011544F1/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.7664863
 figid_alias: PMC3475172__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3475172__F1
 ndex: ''
 seo: CreativeWork
@@ -65,10 +65,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - E3
   - eIF2alpha
   - eRF3
   - kra
+  - E3
   - Pka-R2
   - tc
   - an
@@ -84,9 +84,9 @@ schema-jsonld:
   - aa
   - ab
   - Appl
+  - SPTBN1
   - PDHA1
   - DHTKD1
-  - SPTBN1
   - TIMP1
   - AN
   - ELF2

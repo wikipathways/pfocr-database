@@ -4,6 +4,9 @@ figtitle: Differential Roles of Costimulatory Signaling Pathways in Type 1 Diabe
   Mellitus
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC1783691
 filename: RevDiabeticStud-01-156-001.jpg
 figlink: /pmc/articles/PMC1783691/figure/F1/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8902796
 figid_alias: PMC1783691__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC1783691__F1
 ndex: e4f8e859-dea1-11ea-99da-0ac135e8bacf
 seo: CreativeWork

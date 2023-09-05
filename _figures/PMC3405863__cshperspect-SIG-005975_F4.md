@@ -3,6 +3,9 @@ figid: PMC3405863__cshperspect-SIG-005975_F4
 figtitle: EGFR pathway in Drosophila
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3405863
 filename: cshperspect-SIG-005975_F4.jpg
 figlink: /pmc/articles/PMC3405863/figure/A005975F4/
@@ -35,9 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9626806
 figid_alias: PMC3405863__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3405863__F4
 ndex: d508fec7-ded8-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -72,8 +72,8 @@ schema-jsonld:
   - rab
   - Rab5
   - Rab4
-  - Krn
   - grk
+  - Krn
   - spi
   - tar
   - Fs(2)Tar

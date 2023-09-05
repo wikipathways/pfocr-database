@@ -9,6 +9,11 @@ organisms:
 - Sus scrofa
 - Escherichia coli K-12
 - Trypanosoma brucei
+organisms_ner:
+- Rattus norvegicus
+- Sus scrofa
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4762491
 filename: lpi-suppl.1-2015-045f2.jpg
 figlink: /pmc/articles/PMC4762491/figure/f2-lpi-suppl.1-2015-045/
@@ -32,11 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8213319
 figid_alias: PMC4762491__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Sus scrofa
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC4762491__F2
 ndex: c2d503e9-df27-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,26 +58,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - DPM2
-  - DPM3
-  - DPM1
-  - SRD5A3
-  - ALG3
-  - ALG9
-  - ALG12
-  - PIGB
-  - PIGM
-  - PIGV
-  - PIGZ
-  - POMT1
-  - POMT2
-  - SIT1
-  - MIXL1
-  - GPI
-  - GNPDA1
   - Dpm2
-  - Dpm3
   - Dpm1
+  - Dpm3
   - Srd5a3
   - Alg3
   - Alg9
@@ -85,6 +68,33 @@ schema-jsonld:
   - Pigv
   - Pigb
   - Gpi
+  - DPM2
+  - DPM1
+  - DPM3
+  - ALG3
+  - ALG9
+  - ALG12
+  - PIGV
+  - PIGB
+  - GPI
+  - SRD5A3
+  - PIGM
+  - PIGZ
+  - POMT1
+  - POMT2
+  - SIT1
+  - MIXL1
+  - GNPDA1
+  - dk
+  - rt
+  - sit
+  - rasp
+  - pig
+  - CG15914
+  - PIG-V
+  - PIG-B
+  - Pgi
+  - anchor
   - Diglyceride
   - Dolichol
   - Inositol

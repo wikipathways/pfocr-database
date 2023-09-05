@@ -3,6 +3,8 @@ figid: PMC5702855__cddiscovery201769-f2
 figtitle: Multiple signaling pathways drive EMT in GBC cells
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5702855
 filename: cddiscovery201769-f2.jpg
 figlink: /pmc/articles/PMC5702855/figure/fig2/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9547169
 figid_alias: PMC5702855__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5702855__F2
 ndex: 6cacbf59-deec-11ea-99da-0ac135e8bacf
 seo: CreativeWork

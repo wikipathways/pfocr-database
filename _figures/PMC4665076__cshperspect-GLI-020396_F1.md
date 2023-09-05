@@ -3,6 +3,9 @@ figid: PMC4665076__cshperspect-GLI-020396_F1
 figtitle: Overview of astrocytic metabolism
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4665076
 filename: cshperspect-GLI-020396_F1.jpg
 figlink: /pmc/articles/PMC4665076/figure/A020396F1/
@@ -54,8 +57,6 @@ keywords: .na.character
 automl_pathway: 0.8967831
 figid_alias: PMC4665076__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4665076__F1
 ndex: ''
 seo: CreativeWork
@@ -138,6 +139,18 @@ schema-jsonld:
   - Mhc
   - RNaseMRP:RNA
   - na
+  - LCT
+  - SLC16A7
+  - ATP8A2
+  - SLC16A4
+  - SLC16A3
+  - FRS2
+  - GLYAT
+  - DECR1
+  - ABCC1
+  - MARCKSL1
+  - WLS
+  - BRD2
   - pyrimidines
   - cys
   - fatty acids

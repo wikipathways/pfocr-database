@@ -3,6 +3,8 @@ figid: PMC3146358__carcinbgr044f01_ht
 figtitle: Metabolism of AA by the 5-LO pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3146358
 filename: carcinbgr044f01_ht.jpg
 figlink: /pmc/articles/PMC3146358/figure/fig1/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8904948
 figid_alias: PMC3146358__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3146358__F1
 ndex: ''
 seo: CreativeWork

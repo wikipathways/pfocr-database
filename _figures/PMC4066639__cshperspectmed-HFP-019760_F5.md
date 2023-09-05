@@ -4,6 +4,9 @@ figtitle: Stress-signaling pathways in C
 organisms:
 - Cryptococcus neoformans
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC4066639
 filename: cshperspectmed-HFP-019760_F5.jpg
 figlink: /pmc/articles/PMC4066639/figure/A019760F5/
@@ -40,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.7562708
 figid_alias: PMC4066639__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4066639__F5
 ndex: 516fa6b0-df2f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -75,9 +76,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - KRAS
-  - HRAS
-  - NRAS
   - PRKAR1A
   - PRKAR1B
   - PRKAR2A
@@ -85,6 +83,9 @@ schema-jsonld:
   - PRKACA
   - PRKACB
   - PRKACG
+  - KRAS
+  - HRAS
+  - NRAS
   - CGA
   - TMEM54
   - CACUL1
@@ -125,6 +126,31 @@ schema-jsonld:
   - SP1
   - PSG1
   - DAND5
+  - GPA1
+  - RAS1
+  - RLF2
+  - ACA1
+  - CDC24
+  - YPD1
+  - PKR1
+  - SSK1
+  - TPK1
+  - TPK2
+  - SSK2
+  - RIM101
+  - HOG1
+  - SRV2
+  - SLT2
+  - CAM1
+  - IRE1
+  - RHO1
+  - PKC1
+  - BCK1
+  - CMP2
+  - MKK2
+  - CRZ1
+  - KAR2
+  - PBS2
   - Melanin
   - Cancer
 ---

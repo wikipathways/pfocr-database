@@ -4,6 +4,9 @@ figtitle: 'Unravelling Formaldehyde Metabolism in Bacteria: Road towards Synthet
   Methylotrophy'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8879981
 filename: microorganisms-10-00220-g001.jpg
 figlink: /pmc/articles/PMC8879981/figure/microorganisms-10-00220-f001/
@@ -27,9 +30,6 @@ keywords: formaldehyde | assimilation | dissimilation | methylotrophy | syntheti
 automl_pathway: 0.7968361
 figid_alias: PMC8879981__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8879981__F1
 ndex: ''
 seo: CreativeWork

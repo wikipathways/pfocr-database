@@ -3,6 +3,9 @@ figid: PMC3579398__cshperspect-REP-012948_F3
 figtitle: Initiation of endoreplication in Drosophila follicle cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3579398
 filename: cshperspect-REP-012948_F3.jpg
 figlink: /pmc/articles/PMC3579398/figure/A012948F3/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.8850555
 figid_alias: PMC3579398__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3579398__F3
 ndex: 82c2ccd8-deb6-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -76,8 +76,8 @@ schema-jsonld:
   - Cdk1
   - stg
   - twe
-  - CycB
   - CycA
+  - CycB
   - L1CAM
   - RPS10
   - PSMD6

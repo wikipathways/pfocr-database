@@ -29,10 +29,12 @@ organisms:
 - Homo sapiens
 - Sar
 - uncultured actinomycete
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4902027
 filename: Beilstein_J_Org_Chem-12-769-g023.jpg
 figlink: /pmc/articles/PMC4902027/figure/C10/
-number: S10
+number: SF10
 caption: Proposed outline pathway for muraymycin biosynthesis based on the analysis
   of the biosynthetic gene cluster by Chen, Deng et al. []. MTA = 5'-deoxy-5'-(methylthio)adenosine.
 papertitle: 'Muraymycin nucleoside-peptide antibiotics: uridine-derived natural products
@@ -45,11 +47,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8808785
-figid_alias: PMC4902027__S10
-figtype: Scheme
-organisms_ner:
-- Mus musculus
-redirect_from: /figures/PMC4902027__S10
+figid_alias: PMC4902027__SF10
+figtype: Supplemental figure
+redirect_from: /figures/PMC4902027__SF10
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -64,7 +64,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - oh
-  - Snhg15
-  - C2
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - MTA1-like
+  - MtnA
+  - hh
+  - Hn
+  - gus
 ---

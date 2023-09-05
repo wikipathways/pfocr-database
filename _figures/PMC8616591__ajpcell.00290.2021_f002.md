@@ -3,6 +3,10 @@ figid: PMC8616591__ajpcell.00290.2021_f002
 figtitle: Glypican-1 in regulating multiple cellular signaling pathways
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC8616591
 filename: ajpcell.00290.2021_f002.jpg
 figlink: /pmc/articles/PMC8616591/figure/F0002/
@@ -32,8 +36,6 @@ keywords: cancer | glypican-1 | signaling pathways | therapeutic target
 automl_pathway: 0.9163861
 figid_alias: PMC8616591__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8616591__F2
 ndex: ''
 seo: CreativeWork
@@ -100,6 +102,31 @@ schema-jsonld:
   - GPC1
   - UST
   - LGR4
-  - LGR6
   - LGR5
+  - LGR6
+  - an
+  - arr
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - wo
+  - Tsp
+  - br
+  - prg
+  - fz
+  - Sce
+  - arm
+  - Lgr4
+  - dow
+  - lrp6
+  - lrp5
+  - ctnnb1
+  - znrf3
+  - rnf43
+  - gpc1b
+  - gpc1a
+  - usta
+  - lgr4
+  - lgr6
 ---

@@ -13,10 +13,12 @@ organisms:
 - Kobus kob
 - Homo sapiens
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6631691
 filename: pharmaceuticals-12-00086-sch003.jpg
 figlink: /pmc/articles/PMC6631691/figure/pharmaceuticals-12-00086-sch003/
-number: S3
+number: SF3
 caption: 'Methods for the synthesis of oligopeptidyl diaryl phosponates: the approach
   based on the three-component Birum–Oleksyszyn condensation followed by one-step
   incorporation of a peptide fragment (pathway a), an alternative version with the
@@ -31,11 +33,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9111988
-figid_alias: PMC6631691__S3
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6631691__S3
+figid_alias: PMC6631691__SF3
+figtype: Supplemental figure
+redirect_from: /figures/PMC6631691__SF3
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

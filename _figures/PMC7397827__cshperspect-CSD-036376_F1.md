@@ -3,6 +3,9 @@ figid: PMC7397827__cshperspect-CSD-036376_F1
 figtitle: Killer Pseudokinase Mixed Lineage Kinase Domain-Like Protein (MLKL)
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7397827
 filename: cshperspect-CSD-036376_F1.jpg
 figlink: /pmc/articles/PMC7397827/figure/PIBCSDA036376F1/
@@ -27,8 +30,6 @@ keywords: ''
 automl_pathway: 0.8943224
 figid_alias: PMC7397827__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7397827__F1
 ndex: ''
 seo: CreativeWork
@@ -60,4 +61,10 @@ schema-jsonld:
   - IGF2BP1
   - RIPK1
   - MLKL
+  - tlr3
+  - ticam1
+  - kita
+  - ngfra
+  - tnfrsfa
+  - tnfb
 ---

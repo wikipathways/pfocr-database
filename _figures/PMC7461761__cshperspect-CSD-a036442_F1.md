@@ -3,6 +3,9 @@ figid: PMC7461761__cshperspect-CSD-a036442_F1
 figtitle: Evolutionary Origins of Programmed Cell Death Signaling
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
+- Homo sapiens
 pmcid: PMC7461761
 filename: cshperspect-CSD-a036442_F1.jpg
 figlink: /pmc/articles/PMC7461761/figure/PIBCSDA036442F1/
@@ -46,8 +49,6 @@ keywords: ''
 automl_pathway: 0.8066685
 figid_alias: PMC7461761__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7461761__F1
 ndex: ''
 seo: CreativeWork
@@ -90,19 +91,29 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - FAD7
+  - CASP3
+  - EDS1
+  - CASP1
+  - TIR
+  - SAG101
+  - APK2A
+  - AT3G57710
+  - RRS1
+  - RPS4
+  - rps4
+  - ZAR1
   - AATF
   - FADD
-  - CASP1
+  - CASP8
   - CASP2
   - CASP4
   - CASP5
   - CASP6
-  - CASP8
   - CASP9
   - CASP10
   - CASP12
   - CASP14
-  - CASP3
   - CASP7
   - BCL2L11
   - SLC22A18
@@ -120,7 +131,5 @@ schema-jsonld:
   - GSDMD
   - IRF6
   - SCAF11
-  - RRS1
   - RPS4X
-  - ZAR1
 ---

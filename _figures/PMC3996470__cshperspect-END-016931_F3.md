@@ -3,6 +3,8 @@ figid: PMC3996470__cshperspect-END-016931_F3
 figtitle: Processing of APP to form AB peptide
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3996470
 filename: cshperspect-END-016931_F3.jpg
 figlink: /pmc/articles/PMC3996470/figure/A016931F3/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.7181439
 figid_alias: PMC3996470__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3996470__F3
 ndex: ''
 seo: CreativeWork

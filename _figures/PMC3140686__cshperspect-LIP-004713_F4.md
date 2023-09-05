@@ -3,6 +3,8 @@ figid: PMC3140686__cshperspect-LIP-004713_F4
 figtitle: Overview of the biosynthetic pathways of sterols
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3140686
 filename: cshperspect-LIP-004713_F4.jpg
 figlink: /pmc/articles/PMC3140686/figure/A004713F4/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8660233
 figid_alias: PMC3140686__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3140686__F4
 ndex: ''
 seo: CreativeWork

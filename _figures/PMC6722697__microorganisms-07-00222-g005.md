@@ -47,6 +47,9 @@ organisms:
 - Dolichospermum circinale AWQC131C
 - Homo sapiens
 - environmental samples
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6722697
 filename: microorganisms-07-00222-g005.jpg
 figlink: /pmc/articles/PMC6722697/figure/microorganisms-07-00222-f005/
@@ -67,8 +70,6 @@ keywords: .na.character
 automl_pathway: 0.8900813
 figid_alias: PMC6722697__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC6722697__F5
 ndex: ''
 seo: CreativeWork
@@ -87,6 +88,49 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - ABL2
+  - RERE
+  - MELTF
+  - MT1L
+  - FTMT
+  - ACTG2
+  - NDUFAB1
+  - CPAT1
+  - ACSM3
+  - PDLIM5
+  - STH
+  - SUPT20H
+  - Coa
+  - na
+  - CycE
+  - cyc
+  - Glt
+  - arg
+  - aos
+  - Hn
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - Tsf2
+  - Acp26Ab
+  - Acp26Aa
+  - CG18284
+  - Acp36DE
+  - SP
+  - Acp95EF
+  - Acph-1
+  - sah
+  - hh
+  - RasGAP1
+  - sth
+  - stt
+  - Stt3A
+  - Stt3B
+  - tx
+  - Neos
+  - VhaAC39-1
+  - Sytalpha
   - Acetyl CoA
   - Glutamyl
   - TCA

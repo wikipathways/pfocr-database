@@ -5,6 +5,10 @@ figtitle: Intracellular peptidoglycan (PGN) is detected by intracellular recepto
 organisms:
 - Drosophila melanogaster
 - Homo sapiens
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6780840
 filename: microorganisms-07-00336-g003.jpg
 figlink: /pmc/articles/PMC6780840/figure/microorganisms-07-00336-f003/
@@ -29,9 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9505149
 figid_alias: PMC6780840__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC6780840__F3
 ndex: a8a7b134-def4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -53,12 +54,12 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - PGRP-LE
-  - Traf6
   - Fadd
+  - Traf6
   - imd
-  - Tak1
   - Diap2
   - Tab2
+  - Tak1
   - Dredd
   - key
   - IKKbeta
@@ -69,15 +70,19 @@ schema-jsonld:
   - TRAF2
   - TANK
   - RIPK2
+  - TAB2
   - BIRC2
   - BIRC3
   - MAP3K7
   - NR2C2
-  - TAB2
-  - XIAP
   - IKBKG
   - IKBKB
   - REL
   - CHUK
   - NFKB1
+  - XIAP
+  - ripk2
+  - tab2
+  - rel
+  - xiap
 ---

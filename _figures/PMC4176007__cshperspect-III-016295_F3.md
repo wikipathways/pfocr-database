@@ -3,6 +3,9 @@ figid: PMC4176007__cshperspect-III-016295_F3
 figtitle: IL-6 synthesis and regulation of IL-6 mRNA stability by Arid5a
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4176007
 filename: cshperspect-III-016295_F3.jpg
 figlink: /pmc/articles/PMC4176007/figure/A016295F3/
@@ -26,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9577986
 figid_alias: PMC4176007__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Danio rerio
 redirect_from: /figures/PMC4176007__F3
 ndex: ''
 seo: CreativeWork

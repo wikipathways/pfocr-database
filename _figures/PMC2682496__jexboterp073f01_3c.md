@@ -4,6 +4,9 @@ figtitle: 'Outline of the two isoprenoid biosynthetic pathways in an Arabidopsis
   the MVA and MEP pathways'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2682496
 filename: jexboterp073f01_3c.jpg
 figlink: /pmc/articles/PMC2682496/figure/fig1/
@@ -25,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9490844
 figid_alias: PMC2682496__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2682496__F1
 ndex: ''
 seo: CreativeWork
@@ -45,6 +46,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - HmgZ
+  - HmgD
+  - Hmg-2
+  - Ipp
+  - CG9784
+  - CG9426
+  - CG6805
+  - Synj
+  - INPP5E
+  - 5PtaseI
+  - CTSL
+  - NLN
+  - HMGB1
+  - HMGB1P5
+  - HMGB2
+  - IPP
   - DMAPP
   - phytosterols
   - Pyruvate

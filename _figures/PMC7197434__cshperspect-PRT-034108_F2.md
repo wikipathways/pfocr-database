@@ -4,6 +4,9 @@ figtitle: Pharmacologic Approaches for Adapting Proteostasis in the Secretory Pa
   to Ameliorate Protein Conformational Diseases
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7197434
 filename: cshperspect-PRT-034108_F2.jpg
 figlink: /pmc/articles/PMC7197434/figure/PIBPRTA034108F2/
@@ -23,8 +26,6 @@ keywords: ''
 automl_pathway: 0.9662141
 figid_alias: PMC7197434__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7197434__F2
 ndex: ''
 seo: CreativeWork
@@ -57,6 +58,21 @@ schema-jsonld:
   - DDIT3
   - PPP1R15A
   - ATF6
-  - MBTPS2
   - MBTPS1
+  - MBTPS2
+  - bip
+  - Hsc70-3
+  - Ire1
+  - crc
+  - ATPsynbeta
+  - Atpalpha
+  - Xbp1
+  - PEK
+  - rl
+  - eIF2alpha
+  - eIF2beta
+  - PPP1R15
+  - Atf6
+  - S1P
+  - S2P
 ---

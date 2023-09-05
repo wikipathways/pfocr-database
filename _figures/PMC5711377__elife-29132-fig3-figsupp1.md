@@ -23,10 +23,20 @@ organisms:
 - Homo sapiens
 - Danio rerio
 - Ulex europaeus
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Equus asinus
+- Capra hircus
+- Homo sapiens
+- Danio rerio
+- Drosophila melanogaster
+- Arabidopsis thaliana
 pmcid: PMC5711377
 filename: elife-29132-fig3-figsupp1.jpg
 figlink: /pmc/articles/PMC5711377/figure/fig3s1/
-number: SF3_1
+number: F3
 caption: Mean of 4 biological replicates, each representing 5-6 pooled HIOs.
 papertitle: Bacterial colonization stimulates a complex physiological response in
   the immature human intestinal epithelium.
@@ -38,17 +48,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7467018
-figid_alias: PMC5711377__SF3_1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-- Oryctolagus cuniculus
-- Equus asinus
-- Capra hircus
-- Danio rerio
-redirect_from: /figures/PMC5711377__SF3_1
+figid_alias: PMC5711377__F3
+figtype: Figure
+redirect_from: /figures/PMC5711377__F3
 ndex: a8a337b7-df2e-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -83,31 +85,32 @@ schema-jsonld:
   - Ccna2
   - Cdc45
   - COX1
-  - ESCO1
-  - CDK1
-  - POLD1
   - WEE1
   - YWHAB
-  - ATP5F1A
-  - MORF4
   - ATM
-  - TPSAB1
   - PCNA
   - PRKDC
   - CCNH
   - E2F4
+  - SMAD4
+  - CCNA2
+  - CDC45
+  - ESCO1
+  - CDK1
+  - POLD1
+  - ATP5F1A
+  - MORF4
+  - TPSAB1
   - TFDP1
   - TFDP2
   - GUF1
   - SMAD1
-  - SMAD4
   - SMAD5
   - SMAD6
   - SMAD7
   - SMAD9
   - SMAD2
   - SMAD3
-  - CCNA2
   - CDKL1
   - CDKL2
   - CDKL3
@@ -133,7 +136,6 @@ schema-jsonld:
   - CDK19
   - CDK20
   - CDK2
-  - CDC45
   - cdk1
   - wee1
   - ywhabb
@@ -147,4 +149,39 @@ schema-jsonld:
   - smad4b
   - ccna2
   - cdc45
+  - Ubc7
+  - kn
+  - crl
+  - coi
+  - Curl
+  - eco
+  - coc
+  - fzy
+  - CkIIalpha
+  - sens
+  - tefu
+  - Tps1
+  - CycH
+  - rbl
+  - Smox
+  - Mad
+  - Med
+  - Cdk4
+  - SkpA
+  - SkpD
+  - SkpC
+  - SkpE
+  - SkpB
+  - SkpF
+  - Orc5
+  - Orc1
+  - Orc6
+  - Orc3
+  - Orc4
+  - Orc2
+  - CTF7
+  - CDC2
+  - AT5G44920
+  - TPS1
+  - RBL
 ---

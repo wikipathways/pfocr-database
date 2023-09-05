@@ -4,6 +4,8 @@ figtitle: Therapeutic strategy for downregulation of excess inflammatory mucus t
   normal physiological mucus levels, using a small-molecule kinase inhibitor of MAPK13
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6321995
 filename: AnnalsATS.201808-531MG_f2.jpg
 figlink: /pmc/articles/PMC6321995/figure/fig2/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9510562
 figid_alias: PMC6321995__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6321995__F2
 ndex: ''
 seo: CreativeWork
@@ -59,12 +59,13 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - IL13
   - IL4
+  - IL13
   - IL13RA2
   - CLCA1
   - MUC5AC
-  - MAPK13
   - STAT6
-  - PC
+  - APC
+  - PROC
+  - MAPK13
 ---

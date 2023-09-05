@@ -3,6 +3,8 @@ figid: PMC5088527__cshperspect-EPI-019463_F7
 figtitle: Linking the circadian clock with the NAD+ salvage pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5088527
 filename: cshperspect-EPI-019463_F7.jpg
 figlink: /pmc/articles/PMC5088527/figure/A019463F7/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9405181
 figid_alias: PMC5088527__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5088527__F7
 ndex: ''
 seo: CreativeWork

@@ -4,6 +4,8 @@ figtitle: Pathway of ethylene synthesis and reduction in its level through subst
   mobilization
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7825764
 filename: microorganisms-09-00125-g001.jpg
 figlink: pmc/articles/PMC7825764/figure/microorganisms-09-00125-f001/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.944441
 figid_alias: PMC7825764__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7825764__F1
 ndex: ''
 seo: CreativeWork
@@ -49,7 +49,10 @@ schema-jsonld:
   - ACC
   - tacc
   - acclinal-wing
+  - MTA1-like
+  - MtnA
   - cn
+  - Ccn
   - Methionine
   - Ammonia
   - ketobutyrate

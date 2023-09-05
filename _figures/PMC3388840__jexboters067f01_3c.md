@@ -17,6 +17,14 @@ organisms:
 - Homo sapiens
 - Rattus norvegicus
 - Helicoverpa zea
+organisms_ner:
+- Arabidopsis thaliana
+- Vitis vinifera
+- Solanum lycopersicum
+- Malus domestica
+- Glycine max
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3388840
 filename: jexboters067f01_3c.jpg
 figlink: /pmc/articles/PMC3388840/figure/fig1/
@@ -45,14 +53,6 @@ keywords: .na.character
 automl_pathway: 0.9171736
 figid_alias: PMC3388840__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
-- Vitis vinifera
-- Malus domestica
-- Solanum lycopersicum
-- Glycine max
-- Rattus norvegicus
-- Homo sapiens
 redirect_from: /figures/PMC3388840__F1
 ndex: c7b4240f-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -79,20 +79,20 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - TT4
   - MYB111
   - MYB48
+  - TT4
   - CHI
   - TT5
-  - MYB12
   - MYB11
+  - MYB12
   - F3H
   - FLS1
   - FLS3
   - MYBL2
   - DFR
-  - TT8
   - TTG1
+  - TT8
   - OMT1
   - LDOX
   - TT2
@@ -108,11 +108,11 @@ schema-jsonld:
   - CHS
   - ANR
   - PPO
-  - FLS
-  - MYB36
   - MYB
   - gst
   - LOC606710
+  - FLS
+  - MYB36
   - LOC778065
   - CHS10
   - CHS3
@@ -122,10 +122,6 @@ schema-jsonld:
   - GSTU41
   - GSTU47
   - MATE
-  - Mybl2
-  - Galnt13
-  - Myb
-  - Hhex
   - LYST
   - ANKRD11
   - LMO1
@@ -158,6 +154,45 @@ schema-jsonld:
   - GSTT2B
   - SGTA
   - PPOX
+  - Coa
+  - Chi
+  - chic
+  - Gip
+  - anon-4Ce
+  - cathD
+  - ppk
+  - vvl
+  - Tep2
+  - l(1)17Ca
+  - Myb
+  - Rab1
+  - wake
+  - lolal
+  - mir-ban
+  - Hex-t2
+  - Hex-C
+  - Hex-A
+  - Hex-t1
+  - Hex1
+  - rha
+  - gt
+  - GstS1
+  - GstE12
+  - GstD1
+  - GstD2
+  - GstD3
+  - GstD4
+  - GstD5
+  - GstD6
+  - GstD7
+  - GstD8
+  - Sgt
+  - ort
+  - oc
+  - PPO2
+  - PPO1
+  - Ppox
+  - PPO3
   - Leucocyanidin
   - Dihydroquercetin
   - Naringenin

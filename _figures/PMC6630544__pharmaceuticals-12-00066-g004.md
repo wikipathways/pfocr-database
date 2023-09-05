@@ -4,6 +4,8 @@ figtitle: General representation of serine biosynthesis in different organisms a
   its connection with different metabolic pathways
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC6630544
 filename: pharmaceuticals-12-00066-g004.jpg
 figlink: /pmc/articles/PMC6630544/figure/pharmaceuticals-12-00066-f004/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.899303
 figid_alias: PMC6630544__F4
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6630544__F4
 ndex: ''
 seo: CreativeWork

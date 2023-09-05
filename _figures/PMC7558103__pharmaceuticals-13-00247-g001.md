@@ -7,6 +7,10 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - Saccharomyces cerevisiae
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC7558103
 filename: pharmaceuticals-13-00247-g001.jpg
 figlink: pmc/articles/PMC7558103/figure/pharmaceuticals-13-00247-f001/
@@ -25,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9109919
 figid_alias: PMC7558103__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC7558103__F1
 ndex: ''
 seo: CreativeWork
@@ -45,16 +46,20 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - NAPRT
-  - NMNAT2
   - NMNAT1
   - NMNAT3
+  - NMNAT2
   - NAMPT
   - STAC3
   - Naprt
-  - Nmnat2
   - Nmnat1
   - Nmnat3
+  - Nmnat2
   - Nampt
+  - naprt
+  - nmnat1
+  - nmnat3
+  - nmnat2
   - Nicotinic Acid
   - Vitamin B
   - Tryptophan

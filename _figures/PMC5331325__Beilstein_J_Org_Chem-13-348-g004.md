@@ -4,6 +4,8 @@ figtitle: Schematic of the biosynthetic pathway leading to erythromycin A (1) in
   bacterium Saccharopolyspora erythraea
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5331325
 filename: Beilstein_J_Org_Chem-13-348-g004.jpg
 figlink: /pmc/articles/PMC5331325/figure/F3/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.7818424
 figid_alias: PMC5331325__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC5331325__F3
 ndex: ''
 seo: CreativeWork
@@ -72,9 +72,9 @@ schema-jsonld:
   - Acp95EF
   - Acph-1
   - te
+  - 'On'
   - Son
   - jigr1
-  - 'On'
   - ome
   - 6-deoxyerythronolide B
   - erythromycin A

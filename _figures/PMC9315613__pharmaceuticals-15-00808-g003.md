@@ -42,6 +42,12 @@ organisms:
 - Opsanus beta
 - Betapolyomavirus macacae
 - NA
+organisms_ner:
+- Mus musculus
+- Rattus norvegicus
+- Cricetulus griseus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC9315613
 filename: pharmaceuticals-15-00808-g003.jpg
 figlink: /pmc/articles/PMC9315613/figure/pharmaceuticals-15-00808-f003/
@@ -70,11 +76,6 @@ keywords: phytochemicals | tumor glycolysis | tumor hypoxia | Warburg effect | H
 automl_pathway: 0.903592
 figid_alias: PMC9315613__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Rattus norvegicus
-- Cricetulus griseus
-- Homo sapiens
 redirect_from: /figures/PMC9315613__F3
 ndex: ''
 seo: CreativeWork
@@ -224,4 +225,36 @@ schema-jsonld:
   - MAPK10
   - SETD2
   - ARNT
+  - Thor
+  - eIF4E1
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Tor
+  - S6k
+  - p53
+  - betaTub60D
+  - hth
+  - sima
+  - Ras64B
+  - Ras85D
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - lok
+  - osa
+  - nej
+  - hp
+  - levy
+  - COX6AL2
+  - MKP-4
+  - p38b
+  - tgo
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
 ---

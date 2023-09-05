@@ -7,6 +7,10 @@ organisms:
 - Danio rerio
 - Syzygium aromaticum
 - Panthera pardus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8759737
 filename: sciadv.abm2059-f1.jpg
 figlink: /pmc/articles/PMC8759737/figure/F1/
@@ -48,9 +52,6 @@ keywords: ''
 automl_pathway: 0.5584877
 figid_alias: PMC8759737__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8759737__F1
 ndex: ''
 seo: CreativeWork
@@ -90,6 +91,24 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Prl3b1
+  - Gab1
+  - Ptpn11
+  - Grb2
+  - Slc25a3
+  - Ptpru
+  - Ptprs
+  - Reg1
+  - Reg2
+  - Shc1
+  - Rap1gap
+  - Rasa1
+  - Targ1
+  - Taar4
+  - ras
+  - Hras
+  - Kras
+  - Rem1
   - CSH2
   - GAB1
   - PIGU
@@ -121,22 +140,31 @@ schema-jsonld:
   - MAPK9
   - MAPK10
   - MTG1
-  - Prl3b1
-  - Gab1
-  - Ptpn11
-  - Grb2
-  - Slc25a3
-  - Ptpru
-  - Ptprs
-  - Reg1
-  - Reg2
-  - Shc1
-  - Rap1gap
-  - Rasa1
-  - Targ1
-  - Taar4
-  - ras
-  - Hras
-  - Kras
-  - Rem1
+  - dos
+  - csw
+  - drk
+  - Tie
+  - Ras85D
+  - InR
+  - Ptp69D
+  - Sos
+  - Shc
+  - Gapdh2
+  - CdGAPr
+  - Gapdh1
+  - RasGAP1
+  - ArfGAP1
+  - Tailor
+  - Ras64B
+  - MKP-4
+  - p38b
+  - rl
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - soz
+  - tsr
+  - Mod(var)E69
+  - syndrome
 ---

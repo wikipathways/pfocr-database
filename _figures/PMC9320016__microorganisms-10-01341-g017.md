@@ -4,6 +4,8 @@ figtitle: 'In Silico Genomic and Metabolic Atlas of Limosilactobacillus reuteri 
   20016: An Insight into Human Health'
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9320016
 filename: microorganisms-10-01341-g017.jpg
 figlink: /pmc/articles/PMC9320016/figure/microorganisms-10-01341-f017/
@@ -25,8 +27,6 @@ keywords: probiotic | health benefits | adhesion | genome | metabolome | reuteri
 automl_pathway: 0.8364521
 figid_alias: PMC9320016__F17
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC9320016__F17
 ndex: ''
 seo: CreativeWork

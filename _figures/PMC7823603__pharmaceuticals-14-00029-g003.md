@@ -4,6 +4,8 @@ figtitle: Role of nuclear factor erythroid 2-related factor 2/hemeoxygenase-1 (N
   signaling pathway in oxidative stress
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC7823603
 filename: pharmaceuticals-14-00029-g003.jpg
 figlink: pmc/articles/PMC7823603/figure/pharmaceuticals-14-00029-f003/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9001548
 figid_alias: PMC7823603__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7823603__F3
 ndex: ''
 seo: CreativeWork

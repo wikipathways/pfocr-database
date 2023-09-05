@@ -10,6 +10,8 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Danio rerio
+organisms_ner:
+- NA
 pmcid: PMC4902042
 filename: lpi-suppl.1-2015-095f3.jpg
 figlink: /pmc/articles/PMC4902042/figure/f3-lpi-suppl.1-2015-095/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.8722184
 figid_alias: PMC4902042__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC4902042__F3
 ndex: ''
 seo: CreativeWork

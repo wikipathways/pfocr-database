@@ -3,6 +3,9 @@ figid: PMC4058660__pharmaceuticals-04-01070f2
 figtitle: PI3K signaling in neural aging and disease
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4058660
 filename: pharmaceuticals-04-01070f2.jpg
 figlink: /pmc/articles/PMC4058660/figure/f2-pharmaceuticals-04-01070/
@@ -20,9 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9038509
 figid_alias: PMC4058660__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4058660__F2
 ndex: 23dc4e31-df11-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -42,9 +42,9 @@ schema-jsonld:
   - Bace
   - CG32052
   - ar
-  - Low
   - ATPsynbeta
   - Atpalpha
+  - Low
   - Pi3K21B
   - Pi3K59F
   - Pi3K68D

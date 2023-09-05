@@ -3,6 +3,8 @@ figid: PMC3002804__scipharm.2010.78.133f3
 figtitle: Proposed biosynthetic pathway for oleuropein in Oleaceae
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3002804
 filename: scipharm.2010.78.133f3.jpg
 figlink: /pmc/articles/PMC3002804/figure/f3-scipharm.2010.78.133/
@@ -19,8 +21,6 @@ keywords: .na.character
 automl_pathway: 0.7452486
 figid_alias: PMC3002804__F3
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3002804__F3
 ndex: ''
 seo: CreativeWork

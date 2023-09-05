@@ -4,6 +4,8 @@ figtitle: Alternative assimilation pathways of d-arabitol with an example of the
   and expected labeling of Rib5P
 organisms:
 - Bacillus methanolicus
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7511216
 filename: mSystems.00745-20-f0001.jpg
 figlink: pmc/articles/PMC7511216/figure/fig1/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.7169106
 figid_alias: PMC7511216__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7511216__F1
 ndex: ''
 seo: CreativeWork
@@ -58,6 +58,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - Rpi
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Rpe
+  - H15
+  - Nmdar1
+  - Best1
+  - fit
+  - pts
+  - PheRS-m
+  - db
+  - d4
+  - Dd
   - 5-phosphate
   - NADH O00OO-P
   - histidine

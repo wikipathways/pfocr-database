@@ -3,6 +3,9 @@ figid: PMC7765855__microorganisms-08-02034-g004
 figtitle: Targeted Genome Mining—From Compound Discovery to Biosynthetic Pathway Elucidation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7765855
 filename: microorganisms-08-02034-g004.jpg
 figlink: pmc/articles/PMC7765855/figure/microorganisms-08-02034-f004/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.8512985
 figid_alias: PMC7765855__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7765855__F4
 ndex: ''
 seo: CreativeWork
@@ -44,6 +45,22 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - magu
+  - vi
+  - Sh
+  - ple
+  - Eig71Ee
+  - l(2)46Da
+  - anon-48Ae
+  - Pen
+  - peng
+  - peo
+  - PNMT
+  - PENK
+  - PUM3
+  - PCSK1N
+  - TSPAN33
+  - GBA1LP
   - Acetyl-CoA
   - Majonyl-CoA
   - O

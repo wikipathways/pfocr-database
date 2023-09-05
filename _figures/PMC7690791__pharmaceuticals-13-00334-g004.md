@@ -18,6 +18,9 @@ organisms:
 - Rattus norvegicus
 - Saimiri
 - Felis catus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
 pmcid: PMC7690791
 filename: pharmaceuticals-13-00334-g004.jpg
 figlink: pmc/articles/PMC7690791/figure/pharmaceuticals-13-00334-f004/
@@ -48,8 +51,6 @@ keywords: .na.character
 automl_pathway: 0.9615525
 figid_alias: PMC7690791__F4
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC7690791__F4
 ndex: ''
 seo: CreativeWork
@@ -81,9 +82,50 @@ schema-jsonld:
   - Pla2g5
   - Hspg2
   - da
-  - pk
   - pc
+  - pk
   - H2-Aa
   - Tip3
+  - DMTN
+  - PLA2G1B
+  - PLA2G2A
+  - PLA2G6
+  - PLA2G3
+  - PLA2G5
+  - PLA2G7
+  - PLA2G10
+  - PLA2G12A
+  - PLA2G12B
+  - PLA2G2C
+  - PLA2G2D
+  - PLA2G2E
+  - PLA2G2F
+  - PLA2G4A
+  - PLA2G4C
+  - PLA2G4D
+  - HSPG2
+  - PLCE1
+  - PLCZ1
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
+  - PLCD1
+  - PLCD3
+  - PLCD4
+  - PLCG1
+  - PLCG2
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - SOCS1
   - 5-HT
 ---

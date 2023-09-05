@@ -3,6 +3,9 @@ figid: PMC9028089__microorganisms-10-00794-g002
 figtitle: Yeasts Inhabiting Extreme Environments and Their Biotechnological Applications
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9028089
 filename: microorganisms-10-00794-g002.jpg
 figlink: /pmc/articles/PMC9028089/figure/microorganisms-10-00794-f002/
@@ -35,8 +38,6 @@ keywords: extreme habitats | extremophilic yeasts | stress response | yeast biot
 automl_pathway: 0.9388074
 figid_alias: PMC9028089__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9028089__F2
 ndex: ''
 seo: CreativeWork
@@ -86,4 +87,34 @@ schema-jsonld:
   - hrg
   - fi
   - Pa
+  - CYBA
+  - CYBB
+  - DUOX1
+  - DUOX2
+  - NCF1
+  - NCF2
+  - NCF4
+  - NOX1
+  - NOX3
+  - NOX4
+  - NOX5
+  - RAC1
+  - DECR1
+  - TF
+  - APRT
+  - MFAP1
+  - ACLY
+  - ACACA
+  - BMS1
+  - ACACB
+  - LPA
+  - TMED7
+  - LINC01194
+  - REG3A
+  - ASAP2
+  - MRPS30
+  - PAPOLA
+  - PDAP1
+  - TUSC2
+  - ASAP1
 ---

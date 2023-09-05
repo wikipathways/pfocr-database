@@ -3,6 +3,9 @@ figid: PMC3839607__cshperspect-END-016949_F4
 figtitle: Endosomal sorting regulates integrin-based focal adhesions
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3839607
 filename: cshperspect-END-016949_F4.jpg
 figlink: /pmc/articles/PMC3839607/figure/A016949F4/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9434641
 figid_alias: PMC3839607__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3839607__F4
 ndex: ''
 seo: CreativeWork
@@ -75,18 +76,32 @@ schema-jsonld:
   - betaTub56D
   - mys
   - Prosbeta1
-  - Pen
-  - alphaTub85E
-  - Prosalpha2
-  - nAChRalpha2
+  - A3
+  - nAChRalpha3
+  - Prosalpha3
+  - alphaTub84D
   - Col4a1
   - Ca-alpha1D
   - alphaTub84B
   - nAChRalpha1
   - wb
   - Prosalpha1
-  - A3
-  - nAChRalpha3
-  - Prosalpha3
-  - alphaTub84D
+  - Pen
+  - alphaTub85E
+  - Prosalpha2
+  - nAChRalpha2
+  - RAB4A
+  - RAB5A
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - DAB2
+  - PTK2
+  - B3GNT2
+  - B3GNTL1
+  - ADRA1D
+  - GPR162
 ---

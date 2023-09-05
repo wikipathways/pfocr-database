@@ -4,6 +4,8 @@ figtitle: Assembly of the interferon (IFN)G receptor (IFNGR) and activation of J
   kinase (JAK)-signal transducers and activators of transcription (STAT) signaling
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC6396335
 filename: cshperspect-CYT-028480_F1.jpg
 figlink: pmc/articles/PMC6396335/figure/PIBCYTa028480F1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.740535
 figid_alias: PMC6396335__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6396335__F1
 ndex: ''
 seo: CreativeWork
@@ -65,10 +65,10 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - JAK1
-  - STAT1
   - JAK2
   - JAK3
   - TYK2
+  - STAT1
   - SOCS1
   - PTPN11
   - SOD1

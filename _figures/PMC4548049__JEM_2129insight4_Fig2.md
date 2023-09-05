@@ -4,6 +4,9 @@ figtitle: 'Inborn errors underlying herpes simplex encephalitis: From TLR3 to IR
 organisms:
 - Homo sapiens
 - Human alphaherpesvirus 1
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC4548049
 filename: JEM_2129insight4_Fig2.jpg
 figlink: /pmc/articles/PMC4548049/figure/fig2/
@@ -29,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9723404
 figid_alias: PMC4548049__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4548049__F2
 ndex: ''
 seo: CreativeWork
@@ -65,12 +66,21 @@ schema-jsonld:
   - TBK1
   - IKBKE
   - IRF3
-  - CD40
-  - ARHGEF7
-  - ASCC1
-  - H3P40
   - RELA
   - SYT1
   - GORASP1
   - WNK1
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - tlr3
+  - ticam1
+  - traf3
+  - rigi
+  - cgasa
+  - tbk1
+  - irf3
+  - rela
+  - nfkb1
 ---

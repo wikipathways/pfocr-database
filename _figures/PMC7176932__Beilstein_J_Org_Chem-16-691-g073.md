@@ -4,10 +4,12 @@ figtitle: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (to
   and proposed mechanism for product formation of 456 and 457 (bottom)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7176932
 filename: Beilstein_J_Org_Chem-16-691-g073.jpg
 figlink: pmc/articles/PMC7176932/figure/C72/
-number: S72
+number: SF72
 caption: Umpolung pathway for chiral, nonracemic tertiary alcohol synthesis (top)
   and proposed mechanism for product formation of 456 and 457 (bottom).
 papertitle: Recent advances in Cu-catalyzed C(sp3)–Si and C(sp3)–B bond formation.
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8147346
-figid_alias: PMC7176932__S72
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7176932__S72
+figid_alias: PMC7176932__SF72
+figtype: Supplemental figure
+redirect_from: /figures/PMC7176932__SF72
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -45,7 +45,6 @@ schema-jsonld:
   - Me
   - ee
   - betaTub60D
-  - mo
   - Cu
   - NO Vrin
   - Bu, MeOH

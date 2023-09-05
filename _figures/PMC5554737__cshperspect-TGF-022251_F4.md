@@ -5,6 +5,8 @@ figtitle: The bipotential gonad differentiates into male or female in response t
   (AMH/MIS), a member or the TGFB family
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5554737
 filename: cshperspect-TGF-022251_F4.jpg
 figlink: /pmc/articles/PMC5554737/figure/A022251F4/
@@ -28,8 +30,6 @@ keywords: .na.character
 automl_pathway: 0.8948841
 figid_alias: PMC5554737__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5554737__F4
 ndex: ''
 seo: CreativeWork
@@ -52,12 +52,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - SRY
-  - AMH
-  - BMPR1A
-  - SMAD1
-  - GARS1
-  - BCL2L10
+  - sty
+  - Sry-beta
+  - Sry-alpha
+  - Sry-delta
+  - mis
+  - cno
+  - Mad
+  - vas
   - Testosterone
   - testosterone
 ---

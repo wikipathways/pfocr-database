@@ -4,6 +4,8 @@ figtitle: Interactions between the renin–angiotensin–aldosterone system and 
   Disease-2019
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7219856
 filename: jcvp-publish-ahead-of-print-10.1097.fjc.0000000000000840-g001.jpg
 figlink: pmc/articles/PMC7219856/figure/F1/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9487577
 figid_alias: PMC7219856__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7219856__F1
 ndex: ''
 seo: CreativeWork

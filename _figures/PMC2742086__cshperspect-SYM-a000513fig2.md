@@ -3,6 +3,9 @@ figid: PMC2742086__cshperspect-SYM-a000513fig2
 figtitle: Functional and structural organization of migratory mesenchymal cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2742086
 filename: cshperspect-SYM-a000513fig2.jpg
 figlink: /pmc/articles/PMC2742086/figure/A000513F2/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9609012
 figid_alias: PMC2742086__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2742086__F2
 ndex: 0d507e86-ded9-11ea-99da-0ac135e8bacf
 seo: CreativeWork

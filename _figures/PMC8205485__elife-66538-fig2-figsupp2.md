@@ -3,10 +3,12 @@ figid: PMC8205485__elife-66538-fig2-figsupp2
 figtitle: Domain architecture and proposed signal transduction pathway for XssS/XssR/XssQ
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC8205485
 filename: elife-66538-fig2-figsupp2.jpg
 figlink: /pmc/articles/PMC8205485/figure/fig2s2/
-number: F2
+number: SF2_2
 caption: Hybrid-type histidine kinase XssS presumably senses a cold signal and transduces
   it to the response regulator XssR, which in turn activates the transcription of
   extracellular sulfated polysaccharide biosynthesis (xss) genes via the signal transduction ATPase
@@ -28,11 +30,9 @@ publisher_name: eLife Sciences Publications, Ltd
 keywords: synechocystis sp. PCC 6803 | cyanobacteria | exopolysaccharide | bloom |
   Other
 automl_pathway: 0.8591018
-figid_alias: PMC8205485__F2
-figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC8205485__F2
+figid_alias: PMC8205485__SF2_2
+figtype: Supplemental figure
+redirect_from: /figures/PMC8205485__SF2_2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -57,6 +57,6 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - cold
-  - hth
   - whd
+  - hth
 ---

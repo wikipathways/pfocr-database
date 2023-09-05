@@ -4,10 +4,12 @@ figtitle: Biosynthetic pathway of leukotrienes (LTs), LT receptors, and mechanis
   of action of antileukotriene drugs (reproduced with permission from reference )
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4033953
 filename: pharmaceuticals-03-01792-g001.jpg
 figlink: /pmc/articles/PMC4033953/figure/pharmaceuticals-03-01792-f001/
-number: S1
+number: SF1
 caption: Biosynthetic pathway of leukotrienes (LTs), LT receptors, and mechanisms
   of action of antileukotriene drugs (reproduced with permission from reference []).
 papertitle: Role of Leukotrienes and Leukotriene Modifiers in Asthma.
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9527745
-figid_alias: PMC4033953__S1
-figtype: Scheme
-organisms_ner:
-- Homo sapiens
-redirect_from: /figures/PMC4033953__S1
+figid_alias: PMC4033953__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC4033953__SF1
 ndex: c8b5d12e-deef-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:

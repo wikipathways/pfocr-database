@@ -11,6 +11,14 @@ organisms:
 - Armoracia rusticana
 - Ophiopogon japonicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Oryctolagus cuniculus
+- Bos taurus
+- Capra hircus
+- Drosophila melanogaster
 pmcid: PMC5385391
 filename: cddiscovery20178-f9.jpg
 figlink: /pmc/articles/PMC5385391/figure/fig9/
@@ -33,13 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9442554
 figid_alias: PMC5385391__F9
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-- Rattus norvegicus
-- Oryctolagus cuniculus
-- Bos taurus
-- Capra hircus
 redirect_from: /figures/PMC5385391__F9
 ndex: 5de4da48-defe-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -86,4 +87,12 @@ schema-jsonld:
   - Tmem132a
   - Camk4
   - Hbp1
+  - norpA
+  - sl
+  - Plc21C
+  - Dsp1
+  - Stim
+  - Orai
+  - caz
+  - ca
 ---

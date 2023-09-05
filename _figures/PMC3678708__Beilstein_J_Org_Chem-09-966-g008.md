@@ -3,10 +3,12 @@ figid: PMC3678708__Beilstein_J_Org_Chem-09-966-g008
 figtitle: Synthesis of aryl azide model probe 14
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3678708
 filename: Beilstein_J_Org_Chem-09-966-g008.jpg
 figlink: /pmc/articles/PMC3678708/figure/C2/
-number: S2
+number: SF2
 caption: Synthesis of aryl azide model probe 14.
 papertitle: Design and synthesis of tag-free photoprobes for the identification of
   the molecular target for CCG-1423, a novel inhibitor of the Rho/MKL1/SRF signaling
@@ -19,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8380119
-figid_alias: PMC3678708__S2
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC3678708__S2
+figid_alias: PMC3678708__SF2
+figtype: Supplemental figure
+redirect_from: /figures/PMC3678708__SF2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

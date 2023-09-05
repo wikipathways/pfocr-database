@@ -4,6 +4,9 @@ figtitle: 'From Bench to Bedside: Clinical and Biomedical Investigations on Hepa
   C Virus (HCV) Genotypes and Risk Factors for Albuminuria'
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9598589
 filename: bioengineering-09-00509-g002.jpg
 figlink: /pmc/articles/PMC9598589/figure/bioengineering-09-00509-f002/
@@ -37,8 +40,6 @@ keywords: hepatitis C virus (HCV) genotype | albuminuria | proteinuria | nephrop
 automl_pathway: 0.8988242
 figid_alias: PMC9598589__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9598589__F2
 ndex: ''
 seo: CreativeWork
@@ -71,4 +72,26 @@ schema-jsonld:
   - cold
   - mtSSB
   - tf
+  - CD40LG
+  - C3
+  - ERVK-2
+  - C5
+  - C5AR1
+  - ERVK-3
+  - C3AR1
+  - TF
+  - CXCL10
+  - CXCL11
+  - CXCL12
+  - CXCL13
+  - CXCL14
+  - CXCL9
+  - PF4
+  - CXCL1
+  - CXCL2
+  - CXCL3
+  - CXCL5
+  - CXCL6
+  - CXCL8
+  - PPBP
 ---

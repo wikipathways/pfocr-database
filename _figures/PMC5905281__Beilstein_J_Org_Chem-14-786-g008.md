@@ -3,10 +3,12 @@ figid: PMC5905281__Beilstein_J_Org_Chem-14-786-g008
 figtitle: Plausible reaction pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC5905281
 filename: Beilstein_J_Org_Chem-14-786-g008.jpg
 figlink: /pmc/articles/PMC5905281/figure/C4/
-number: S4
+number: SF4
 caption: Plausible reaction pathway.
 papertitle: 'Bromide-assisted chemoselective Heck reaction of 3-bromoindazoles under
   high-speed ball-milling conditions: synthesis of axitinib.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8224692
-figid_alias: PMC5905281__S4
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC5905281__S4
+figid_alias: PMC5905281__SF4
+figtype: Supplemental figure
+redirect_from: /figures/PMC5905281__SF4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -37,11 +37,11 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - mbr
-  - Me
   - path
   - stumps
   - br
   - pd
+  - Me
   - Hpd
   - Pd(II)
   - Br  Me  Pd

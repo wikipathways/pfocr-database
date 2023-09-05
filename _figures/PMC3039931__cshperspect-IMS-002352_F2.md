@@ -3,6 +3,9 @@ figid: PMC3039931__cshperspect-IMS-002352_F2
 figtitle: Tyrosine kinase pathways leading to CARD9 and TLR signaling responses
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
+- Homo sapiens
 pmcid: PMC3039931
 filename: cshperspect-IMS-002352_F2.jpg
 figlink: /pmc/articles/PMC3039931/figure/A002352F2/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9480017
 figid_alias: PMC3039931__F2
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC3039931__F2
 ndex: ''
 seo: CreativeWork

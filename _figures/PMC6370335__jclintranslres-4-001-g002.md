@@ -3,6 +3,9 @@ figid: PMC6370335__jclintranslres-4-001-g002
 figtitle: Intercellular and intracellular signals that initiate liver regeneration
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6370335
 filename: jclintranslres-4-001-g002.jpg
 figlink: /pmc/articles/PMC6370335/figure/jclintranslres-4-001-g002/
@@ -51,8 +54,6 @@ keywords: .na.character
 automl_pathway: 0.9365593
 figid_alias: PMC6370335__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6370335__F2
 ndex: e3f26791-dec1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -102,15 +103,14 @@ schema-jsonld:
   - NFKB1
   - C5
   - C5AR1
-  - ACOX2
   - TNF
   - IL6
   - IL1B
   - HGF
   - SOS1
   - FUT1
-  - EGF
   - HBEGF
+  - EGF
   - MET
   - JAK1
   - JAK2
@@ -133,6 +133,19 @@ schema-jsonld:
   - STAT3
   - PTGS2
   - ERN1
+  - ACOX2
+  - tnfb
+  - il6
+  - il1b
+  - hbegfb
+  - egf
+  - celsr1a
+  - met
+  - rab1ab
+  - tgfa
+  - stat3
+  - COX2
+  - tnfa
   - Serotonin Sphingosine
   - 1-phosphate
   - PGE2

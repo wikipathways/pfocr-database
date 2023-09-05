@@ -4,6 +4,8 @@ figtitle: Recognition of microorganisms and induction of innate immune responses
   Drosophila
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC2829096
 filename: intimmdxp128f02_4c.jpg
 figlink: /pmc/articles/PMC2829096/figure/fig2/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.9536159
 figid_alias: PMC2829096__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC2829096__F2
 ndex: ''
 seo: CreativeWork

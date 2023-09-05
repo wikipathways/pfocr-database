@@ -3,6 +3,9 @@ figid: PMC3579397__cshperspect-MIT-011437_F1
 figtitle: Sulfide production
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3579397
 filename: cshperspect-MIT-011437_F1.jpg
 figlink: /pmc/articles/PMC3579397/figure/A011437F1/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9086325
 figid_alias: PMC3579397__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3579397__F1
 ndex: ''
 seo: CreativeWork
@@ -66,13 +67,27 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - CBS
+  - GNMT
   - ACAT1
   - MAT1A
-  - GNMT
   - CTH
   - SLC2A1
   - SERPINA1
   - TGFBI
   - CSAD
   - SUOX
+  - Cbs
+  - cbs
+  - caboose
+  - Gnmt
+  - mat
+  - Mad
+  - Nfs1
+  - Cse1
+  - Cth
+  - Cys
+  - mmy
+  - Csp
+  - so
+  - shop
 ---

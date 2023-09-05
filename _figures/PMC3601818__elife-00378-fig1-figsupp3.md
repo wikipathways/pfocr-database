@@ -4,10 +4,13 @@ figtitle: Schematic model of LIN-12/Notch signaling pathway
 organisms:
 - Caenorhabditis elegans
 - Homo sapiens
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC3601818
 filename: elife-00378-fig1-figsupp3.jpg
 figlink: /pmc/articles/PMC3601818/figure/fig1s3/
-number: SF1_3
+number: F1
 caption: '(A) Schematic model showing the core LIN-12/Notch signaling pathway. The
   binding of the ligand APX-1/DSL to the receptor LIN-12/Notch triggers proteolytic
   cleavages. SEL-12/Presenilin releases the Notch intracellular domain (NICD), which
@@ -23,11 +26,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9190544
-figid_alias: PMC3601818__SF1_3
-figtype: Supplemental figure
-organisms_ner:
-- Caenorhabditis elegans
-redirect_from: /figures/PMC3601818__SF1_3
+figid_alias: PMC3601818__F1
+figtype: Figure
+redirect_from: /figures/PMC3601818__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -50,4 +51,13 @@ schema-jsonld:
   - sel-12
   - sel-8
   - lag-1
+  - NOTCH1
+  - NOTCH2
+  - NOTCH3
+  - NOTCH4
+  - CSHL1
+  - RBPJ
+  - SMPX
+  - CCL4
+  - CCL4L1
 ---

@@ -4,6 +4,8 @@ figtitle: Development of a Peptide Derived from Platelet-Derived Growth Factor (
   into a Potential Drug Candidate for the Treatment of Wounds
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7698658
 filename: wound.2019.1051_figure5.jpg
 figlink: /pmc/articles/PMC7698658/figure/f5/
@@ -29,8 +31,6 @@ keywords: wound healing | peptides | PDGF | immunogenicity | cytotoxicity | tran
 automl_pathway: 0.77012
 figid_alias: PMC7698658__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7698658__F5
 ndex: ''
 seo: CreativeWork
@@ -82,13 +82,13 @@ schema-jsonld:
   - CDK1
   - CDK2
   - CENPF
-  - CCNB1
   - AURKB
+  - CCNB1
   - AREG
   - CENPE
   - IL6
-  - BUB1B
   - BIRC5
+  - BUB1B
   - TLR7
   - IL16
   - TRAF2

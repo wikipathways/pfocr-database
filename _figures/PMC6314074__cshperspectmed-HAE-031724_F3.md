@@ -3,6 +3,10 @@ figid: PMC6314074__cshperspectmed-HAE-031724_F3
 figtitle: Life cycle of hepatitis E virus (HEV)
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC6314074
 filename: cshperspectmed-HAE-031724_F3.jpg
 figlink: pmc/articles/PMC6314074/figure/A031724F3/
@@ -50,9 +54,6 @@ keywords: .na.character
 automl_pathway: 0.7580741
 figid_alias: PMC6314074__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Caenorhabditis elegans
 redirect_from: /figures/PMC6314074__F3
 ndex: ''
 seo: CreativeWork
@@ -126,9 +127,31 @@ schema-jsonld:
   - stnA
   - lmgA
   - tal-1A
-  - Gp93
   - Hsp70Ab
+  - Gp93
   - rab-7
   - rab-5
   - hsp-90
+  - ATN1
+  - HARS1
+  - SRSF5
+  - HGS
+  - RAB27A
+  - CLTA
+  - CLTB
+  - CLTC
+  - RAB7A
+  - RAB7B
+  - RAB5A
+  - HSPG2
+  - SDC2
+  - HSPA8
+  - ASZ1
+  - NCKIPSD
+  - AHI1
+  - HSPA5
+  - HSP90AA1
+  - HSP90B1
+  - TRAP1
+  - HSP90AB1
 ---

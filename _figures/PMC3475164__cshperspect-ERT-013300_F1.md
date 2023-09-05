@@ -3,6 +3,9 @@ figid: PMC3475164__cshperspect-ERT-013300_F1
 figtitle: Biosynthesis of glycerophospholipids
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3475164
 filename: cshperspect-ERT-013300_F1.jpg
 figlink: /pmc/articles/PMC3475164/figure/A013300F1/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9320905
 figid_alias: PMC3475164__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3475164__F1
 ndex: 1558356a-de9f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,11 +63,11 @@ schema-jsonld:
   - VhaAC39-1
   - Pc
   - ctp
-  - adp
   - ATPsynbeta
   - Atpalpha
-  - Hn
+  - adp
   - Pa
+  - Hn
   - wisp
   - PAPLA1
   - Pli
@@ -101,8 +101,8 @@ schema-jsonld:
   - DHDDS
   - PC
   - SLC25A1
-  - WDTC1
   - ATP8A2
+  - WDTC1
   - CDSN
   - PTDSS1
   - CARD14
@@ -129,7 +129,6 @@ schema-jsonld:
   - DGKZ
   - DGKI
   - DGKK
-  - CHURC1
   - CDIPT
   - PSD
   - PISD

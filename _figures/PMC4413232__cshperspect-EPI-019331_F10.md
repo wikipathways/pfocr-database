@@ -4,6 +4,9 @@ figtitle: Sonic Hedgehog signaling maintains proliferation/self-renewal of cereb
   progenitor cells
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4413232
 filename: cshperspect-EPI-019331_F10.jpg
 figlink: /pmc/articles/PMC4413232/figure/A019331F10/
@@ -26,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.8604562
 figid_alias: PMC4413232__F10
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4413232__F10
 ndex: 91ffc4e7-df1f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,8 +53,8 @@ schema-jsonld:
   - SHH
   - PTCH1
   - MYCN
-  - GLI1
   - GLI2
+  - GLI1
   - CDKN2A
   - H3P10
   - PRC1
@@ -75,5 +76,14 @@ schema-jsonld:
   - TP53
   - TP63
   - TP73
+  - ptc
+  - Zdhhc8
+  - Arpc5
+  - Su(osk)P16
+  - feo
+  - rb
+  - p53
+  - betaTub60D
+  - hth
   - Cancer
 ---

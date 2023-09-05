@@ -4,6 +4,9 @@ figtitle: An example pathway
 organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3392049
 filename: 72-joint_summit_t2012f3.jpg
 figlink: /pmc/articles/PMC3392049/figure/f3-72-joint_summit_t2012/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.7685007
 figid_alias: PMC3392049__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3392049__F3
 ndex: c82dec05-df28-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -59,12 +60,12 @@ schema-jsonld:
   - MAP2K7
   - MAP2K1
   - MAP2K2
-  - CUX1
-  - CYTIP
-  - CRTAP
   - EPHB2
   - MAPK1
   - MAPK3
+  - CUX1
+  - CYTIP
+  - CRTAP
   - MLIP
   - AK6
   - MDM2
@@ -89,6 +90,30 @@ schema-jsonld:
   - RBM45
   - E2F1
   - UBE2L3
+  - as
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - ar
+  - Pten
+  - Dsor1
+  - Mtk
+  - Erk7
+  - rl
+  - casp
+  - CrebB
+  - CrebA
+  - CycE
+  - cyc
+  - pan
+  - CBP
+  - nej
+  - eIF4E1
+  - Debcl
+  - Rbf
+  - E2f1
+  - ine
   - Testosterone
   - Testosterone Testosterone
   - Cancer

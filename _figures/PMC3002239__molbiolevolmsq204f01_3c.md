@@ -4,6 +4,8 @@ figtitle: Functional Compensation of Primary and Secondary Metabolites by Duplic
   Genes in Arabidopsis thaliana
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC3002239
 filename: molbiolevolmsq204f01_3c.jpg
 figlink: /pmc/articles/PMC3002239/figure/fig1/
@@ -34,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.8732076
 figid_alias: PMC3002239__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC3002239__F1
 ndex: ''
 seo: CreativeWork

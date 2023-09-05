@@ -3,6 +3,9 @@ figid: PMC5932588__cshperspect-JCT-028753_F1
 figtitle: Molecular mechanisms that connect cellular junctions to the Hippo pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC5932588
 filename: cshperspect-JCT-028753_F1.jpg
 figlink: pmc/articles/PMC5932588/figure/A028753F1/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.6986581
 figid_alias: PMC5932588__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC5932588__F1
 ndex: ''
 seo: CreativeWork
@@ -80,14 +80,14 @@ schema-jsonld:
   - Rcc1
   - .na.character
   - Su(dx)
+  - sav
   - hpo
   - hop
-  - sav
   - Mst57Dc
   - Mst57Db
   - Mst57Da
-  - mats
   - wts
+  - mats
   - yki
   - sd
   - mmm
@@ -131,16 +131,16 @@ schema-jsonld:
   - DACH1
   - ITCH
   - TJP2
-  - GFER
   - SAV1
-  - STING1
+  - GFER
   - MST1
   - STK4
-  - ACAT1
-  - MAT1A
+  - STING1
   - LATS1
   - HDAC8
   - LAS1L
+  - ACAT1
+  - MAT1A
   - MOB1A
   - YAP1
   - TEAD1

@@ -3,6 +3,8 @@ figid: PMC2279909__Volmer5
 figtitle: Metabolic pathway for lactose degradation
 organisms:
 - Escherichia coli
+organisms_ner:
+- NA
 pmcid: PMC2279909
 filename: Volmer5.jpg
 figlink: /pmc/articles/PMC2279909/figure/f5/
@@ -20,8 +22,6 @@ keywords: .na.character
 automl_pathway: 0.9226835
 figid_alias: PMC2279909__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2279909__F5
 ndex: ''
 seo: CreativeWork

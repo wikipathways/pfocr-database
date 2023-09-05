@@ -4,6 +4,8 @@ figtitle: JAK-STAT (Janus kinase/signal transducers and activators of transcript
   pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f5.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig5/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9502121
 figid_alias: PMC4979452__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F5
 ndex: bf234bdc-def0-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,8 +56,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - EGF
   - TGFA
+  - EGF
   - TNFRSF1A
   - IFNG
   - IL6

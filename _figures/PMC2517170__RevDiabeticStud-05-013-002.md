@@ -4,6 +4,8 @@ figtitle: The Role of Skeletal Muscle Sphingolipids in the Development of Insuli
   Resistance
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2517170
 filename: RevDiabeticStud-05-013-002.jpg
 figlink: /pmc/articles/PMC2517170/figure/F2/
@@ -25,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.5415602
 figid_alias: PMC2517170__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2517170__F2
 ndex: ''
 seo: CreativeWork
@@ -45,6 +45,14 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - AGXT
+  - RBM14
+  - KANK2
+  - CACYBP
+  - TP53INP1
+  - TSACC
+  - RBM14-RBM4
+  - MBTPS1
   - 3-ketosphinganine
   - Sphinganine
   - Dihydroceramide

@@ -3,6 +3,9 @@ figid: PMC2869521__cshperspect-NFK-000109_F4
 figtitle: Solid tumors activate the NFKB pathway to maintain cell survival
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2869521
 filename: cshperspect-NFK-000109_F4.jpg
 figlink: /pmc/articles/PMC2869521/figure/A000109F4/
@@ -31,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9569199
 figid_alias: PMC2869521__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2869521__F4
 ndex: 80ad638c-decd-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -63,17 +63,18 @@ schema-jsonld:
   keywords:
   - IKKepsilon
   - as
+  - foi
   - mapP
   - Raf
   - kra
   - kraken
   - Myd88
+  - Mtor
+  - Tor
   - Pi3K21B
   - Pi3K59F
   - Pi3K68D
   - Pi3K92E
-  - Mtor
-  - Tor
   - CYLD
   - Sec5
   - key
@@ -92,6 +93,7 @@ schema-jsonld:
   - BRAF
   - RAF1
   - KRAS
+  - MTOR
   - PIK3CA
   - PIK3CB
   - PIK3CD
@@ -102,7 +104,6 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
-  - MTOR
   - RALB
   - MTG1
   - EXOC2

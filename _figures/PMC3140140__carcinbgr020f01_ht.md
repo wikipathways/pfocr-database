@@ -4,6 +4,9 @@ figtitle: Variation in the suppressive abilities of Wnt antagonists with respect
   canonical and non-canonical Wnt signaling pathways
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC3140140
 filename: carcinbgr020f01_ht.jpg
 figlink: /pmc/articles/PMC3140140/figure/fig1/
@@ -24,8 +27,6 @@ keywords: .na.character
 automl_pathway: 0.9452701
 figid_alias: PMC3140140__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC3140140__F1
 ndex: 6f31de8a-defe-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -83,4 +84,24 @@ schema-jsonld:
   - MAPK9
   - MAPK10
   - GSK3B
+  - Wnt5
+  - Wnt4
+  - wg
+  - Wnt2
+  - arr
+  - fz
+  - Axn
+  - Apc
+  - Apc2
+  - Fs(3)Apc
+  - CaMKII
+  - bsk
+  - sgg
+  - gskt
+  - arm
+  - ca
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
 ---

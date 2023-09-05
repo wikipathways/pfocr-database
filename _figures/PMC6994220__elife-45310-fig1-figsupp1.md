@@ -16,10 +16,15 @@ organisms:
 - Sinapis alba
 - Homo sapiens
 - Escherichia coli
+organisms_ner:
+- Arabidopsis thaliana
+- Solanum lycopersicum
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC6994220
 filename: elife-45310-fig1-figsupp1.jpg
 figlink: pmc/articles/PMC6994220/figure/fig1s1/
-number: SF1_1
+number: F1
 caption: '(A) A pathway for cis-carotene and xanthophyll synthesis. Tri-cis-ζ-carotene
   and tetra-cis-lycopene are isomerised by ZISO and CRTISO to form di-cis-ζ-carotene
   and lycopene, respectively. ziso and ccr2 mutants accumulate cis-carotenes (; ).
@@ -52,13 +57,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9697022
-figid_alias: PMC6994220__SF1_1
-figtype: Supplemental figure
-organisms_ner:
-- Arabidopsis thaliana
-- Solanum lycopersicum
-- Homo sapiens
-redirect_from: /figures/PMC6994220__SF1_1
+figid_alias: PMC6994220__F1
+figtype: Figure
+redirect_from: /figures/PMC6994220__F1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -123,6 +124,20 @@ schema-jsonld:
   - CR2
   - CRIPTOP2
   - RNY5
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - por
+  - Dark
+  - Taf8
+  - mRpL16
+  - sl
+  - ccd
+  - Ccs
+  - AcCoAS
+  - Acsl
+  - Cr-2
   - cis-carotene
   - phytoene
   - phytofluene

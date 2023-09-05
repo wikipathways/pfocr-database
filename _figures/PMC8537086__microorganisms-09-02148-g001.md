@@ -5,6 +5,9 @@ figtitle: Staphylococcus aureus Transcriptome Data and Metabolic Modelling Inves
   and the cdaA Operon for Metabolic Adaptation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8537086
 filename: microorganisms-09-02148-g001.jpg
 figlink: /pmc/articles/PMC8537086/figure/microorganisms-09-02148-f001/
@@ -34,8 +37,6 @@ keywords: metabolism | flux balance analysis | phosphorylation | regulation | ri
 automl_pathway: 0.873937
 figid_alias: PMC8537086__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8537086__F1
 ndex: ''
 seo: CreativeWork
@@ -79,4 +80,11 @@ schema-jsonld:
   - Acam
   - FIG4
   - Cda4
+  - PSMD8
+  - RPS14
+  - THRSP
+  - DEPP1
+  - GOPC
+  - IL31RA
+  - CDA
 ---

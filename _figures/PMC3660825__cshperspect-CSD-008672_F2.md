@@ -3,6 +3,10 @@ figid: PMC3660825__cshperspect-CSD-008672_F2
 figtitle: Similarities and differences in apoptotic machinery across evolution
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3660825
 filename: cshperspect-CSD-008672_F2.jpg
 figlink: /pmc/articles/PMC3660825/figure/A008672F2/
@@ -29,10 +33,6 @@ keywords: .na.character
 automl_pathway: 0.9336772
 figid_alias: PMC3660825__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Caenorhabditis elegans
-- Homo sapiens
 redirect_from: /figures/PMC3660825__F2
 ndex: ''
 seo: CreativeWork
@@ -57,6 +57,10 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - egl-1
+  - ced-9
+  - ced-4
+  - ced-3
   - Debcl
   - Fs(3)Bak
   - Buffy
@@ -68,13 +72,9 @@ schema-jsonld:
   - Diap1
   - Drice
   - Decay
-  - egl-1
-  - ced-9
-  - ced-4
-  - ced-3
   - BCL2
-  - BAX
   - BAK1
+  - BAX
   - DIABLO
   - AXL
   - RNF111

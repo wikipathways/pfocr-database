@@ -3,6 +3,9 @@ figid: PMC8001969__pharmaceuticals-14-00217-g004
 figtitle: MTOR signaling pathway and its important regulatory functions are shown
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8001969
 filename: pharmaceuticals-14-00217-g004.jpg
 figlink: pmc/articles/PMC8001969/figure/pharmaceuticals-14-00217-f004/
@@ -41,9 +44,6 @@ keywords: .na.character
 automl_pathway: 0.8823422
 figid_alias: PMC8001969__F4
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8001969__F4
 ndex: ''
 seo: CreativeWork
@@ -88,6 +88,7 @@ schema-jsonld:
   - Pi3K59F
   - Pi3K68D
   - Pi3K92E
+  - Tak1
   - SNF4Agamma
   - AMPKalpha
   - Tsc1
@@ -102,13 +103,14 @@ schema-jsonld:
   - dor
   - DOR
   - dl
-  - Tti1
   - lqfR
+  - Tti1
   - Mitf
   - Fkbp12
   - Dif
   - Rel
   - Atg1
+  - Akt
   - S6k
   - Thor
   - SREBP
@@ -129,6 +131,8 @@ schema-jsonld:
   - PIK3R6
   - PIK3R1
   - PIK3R2
+  - MAP3K7
+  - NR2C2
   - PRKAA1
   - PRKAA2
   - PRKAB1
@@ -151,11 +155,9 @@ schema-jsonld:
   - PDPK1
   - DEPTOR
   - AKT1S1
-  - OPRD1
-  - TP53INP2
-  - TTI1
   - TELO2
   - ETV7
+  - TTI1
   - TFEB
   - FKBP1A
   - FKBP1AP1
@@ -164,6 +166,9 @@ schema-jsonld:
   - FKBP1AP4
   - NFKB1
   - ULK1
+  - AKT1
+  - AKT2
+  - AKT3
   - SGK1
   - PRKCA
   - RPS6KB1

@@ -4,6 +4,9 @@ figtitle: 'Heat therapy: mechanistic underpinnings and applications to cardiovas
   health'
 organisms:
 - NA
+organisms_ner:
+- Caenorhabditis elegans
+- Homo sapiens
 pmcid: PMC8285605
 filename: japplphysiol.00141.2020_f003.jpg
 figlink: /pmc/articles/PMC8285605/figure/F0003/
@@ -37,8 +40,6 @@ keywords: heat shock proteins | hot water immersion | sauna | vascular function
 automl_pathway: 0.8971388
 figid_alias: PMC8285605__F3
 figtype: Figure
-organisms_ner:
-- Caenorhabditis elegans
 redirect_from: /figures/PMC8285605__F3
 ndex: ''
 seo: CreativeWork
@@ -73,4 +74,44 @@ schema-jsonld:
   - hsp-70
   - hsp-25
   - mcp-1
+  - HSP90AA1
+  - HSP90B1
+  - TRAP1
+  - HSP90AB1
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - NOS3
+  - ENO4
+  - HSPA1A
+  - HSPA4
+  - HSPB1
+  - HSPB2
+  - GPX1
+  - GPX2
+  - GPX3
+  - GPX4
+  - GPX5
+  - GPX6
+  - GPX7
+  - GPX8
+  - SOD1
+  - SOD2
+  - SOD3
+  - IL6
+  - IL1B
+  - NFKB1
+  - RELA
+  - RELB
+  - REL
+  - NFKB2
+  - IL10
+  - ICAM1
+  - CCL2
 ---

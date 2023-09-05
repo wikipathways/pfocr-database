@@ -4,6 +4,8 @@ figtitle: Working model for metabolic outcomes resulting from 5,10-mTHF limitati
 organisms:
 - Salmonella enterica
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC7065518
 filename: mSystems.00843-19-f0005.jpg
 figlink: pmc/articles/PMC7065518/figure/fig5/
@@ -32,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.9642413
 figid_alias: PMC7065518__F5
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7065518__F5
 ndex: ''
 seo: CreativeWork

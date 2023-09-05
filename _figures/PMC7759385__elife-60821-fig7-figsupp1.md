@@ -3,10 +3,13 @@ figid: PMC7759385__elife-60821-fig7-figsupp1
 figtitle: Unifying model of Vpr function
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7759385
 filename: elife-60821-fig7-figsupp1.jpg
 figlink: pmc/articles/PMC7759385/figure/fig7s1/
-number: SF7_1
+number: F7
 caption: (1) Stimulation of various PRRs results in activation of transcription factors
   such as IRF3 and NF-κB. To activate ISGs or proinflammatory genes expression, NF-κB
   and IRF3 translocate to the nucleus via the classical Karyopherin-α/β-dependent
@@ -30,11 +33,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9433689
-figid_alias: PMC7759385__SF7_1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7759385__SF7_1
+figid_alias: PMC7759385__F7
+figtype: Figure
+redirect_from: /figures/PMC7759385__F7
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -67,14 +68,13 @@ schema-jsonld:
   - betaTub60D
   - Rpt5
   - DCTN2-p50
-  - awd
   - Irp-1B
   - Irp-1A
   - Trf
   - Tsf1
-  - Ppa
   - Pas
   - shakB
+  - Ppa
   - Imp
   - CG11110
   - CG17029
@@ -82,4 +82,22 @@ schema-jsonld:
   - CG17027
   - CG9391
   - CG9389
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - IRF3
+  - TBPL2
+  - TRIM63
+  - IL5
+  - TERF1
+  - TRH
+  - IRF6
+  - INPP5K
+  - IMPA1
+  - BRAP
 ---

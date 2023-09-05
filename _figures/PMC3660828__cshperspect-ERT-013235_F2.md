@@ -3,6 +3,9 @@ figid: PMC3660828__cshperspect-ERT-013235_F2
 figtitle: Biosynthetic pathways of aminoglycerophospholipids
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3660828
 filename: cshperspect-ERT-013235_F2.jpg
 figlink: /pmc/articles/PMC3660828/figure/A013235F2/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9039014
 figid_alias: PMC3660828__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3660828__F2
 ndex: ''
 seo: CreativeWork

@@ -4,6 +4,9 @@ figtitle: Metabolic Engineering of Corynebacterium glutamicum for Sustainable Pr
   of the Aromatic Dicarboxylic Acid Dipicolinic Acid
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9024752
 filename: microorganisms-10-00730-g001.jpg
 figlink: /pmc/articles/PMC9024752/figure/microorganisms-10-00730-f001/
@@ -35,8 +38,6 @@ keywords: dipicolinic acid | Corynebacterium glutamicum | metabolic engineering 
 automl_pathway: 0.8138223
 figid_alias: PMC9024752__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9024752__F1
 ndex: ''
 seo: CreativeWork
@@ -71,4 +72,7 @@ schema-jsonld:
   - Mip
   - LysE
   - dpa
+  - asd
+  - dapA
+  - dapB
 ---

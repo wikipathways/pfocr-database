@@ -4,6 +4,8 @@ figtitle: Functional features of SLC6A14 and SLC38A5 and their relevance to glut
   and serine–glycine–one-carbon pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC8000594
 filename: pharmaceuticals-14-00216-g002.jpg
 figlink: pmc/articles/PMC8000594/figure/pharmaceuticals-14-00216-f002/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.924187
 figid_alias: PMC8000594__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC8000594__F2
 ndex: ''
 seo: CreativeWork

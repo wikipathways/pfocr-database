@@ -3,6 +3,9 @@ figid: PMC7938660__pharmrev.120.000149f2
 figtitle: Putative synaptic mechanisms of (2R,6R)- and (2S,6S)-hydroxynorketamine
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC7938660
 filename: pharmrev.120.000149f2.jpg
 figlink: pmc/articles/PMC7938660/figure/F2/
@@ -33,8 +36,6 @@ keywords: .na.character
 automl_pathway: 0.9430993
 figid_alias: PMC7938660__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC7938660__F2
 ndex: ''
 seo: CreativeWork
@@ -88,4 +89,14 @@ schema-jsonld:
   - MAPK10
   - CRTC1
   - EEF2
+  - Nmdar2
+  - Nmdar1
+  - Akt
+  - MKP-4
+  - p38b
+  - rl
+  - Crtc
+  - Tor
+  - eEF2
+  - CG4849
 ---

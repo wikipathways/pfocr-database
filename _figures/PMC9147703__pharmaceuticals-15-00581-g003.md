@@ -4,6 +4,9 @@ figtitle: Advances in Research on Antiviral Activities of Sulfated Polysaccharid
   from Seaweeds
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC9147703
 filename: pharmaceuticals-15-00581-g003.jpg
 figlink: /pmc/articles/PMC9147703/figure/pharmaceuticals-15-00581-f003/
@@ -27,8 +30,6 @@ keywords: sulfated polysaccharides | seaweed | algae | antiviral | viruses | SAR
 automl_pathway: 0.9487942
 figid_alias: PMC9147703__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC9147703__F3
 ndex: ''
 seo: CreativeWork
@@ -57,11 +58,11 @@ schema-jsonld:
   - betaTub60D
   - Rpt5
   - DCTN2-p50
-  - Pos
   - CkIIbeta
   - Andorra
   - Anp
   - Acam
+  - Pos
   - lic
   - p38b
   - Nurf-38
@@ -82,4 +83,44 @@ schema-jsonld:
   - ti
   - Inos
   - Nos
+  - TLR1
+  - TLR2
+  - TLR3
+  - TLR4
+  - TLR5
+  - TLR6
+  - TLR7
+  - TLR8
+  - TLR9
+  - TLR10
+  - IRF6
+  - CD40
+  - ARHGEF7
+  - ASCC1
+  - H3P40
+  - CRK
+  - MAPK14
+  - MAPK1
+  - GRAP2
+  - AHSA1
+  - POLDIP2
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - FOS
+  - FOSB
+  - JUN
+  - JUNB
+  - JUND
+  - MAPK3
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
+  - MYD88
+  - NOS2
+  - ISYNA1
 ---

@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g199
 figtitle: Mechanistic pathway for heterogeneously catalyzed arylation reaction
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g199.jpg
 figlink: /pmc/articles/PMC6664406/figure/C191/
-number: S191
+number: SF191
 caption: Mechanistic pathway for heterogeneously catalyzed arylation reaction.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8480503
-figid_alias: PMC6664406__S191
-figtype: Scheme
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC6664406__S191
+figid_alias: PMC6664406__SF191
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF191
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -39,7 +39,7 @@ schema-jsonld:
   - br
   - kibra
   - abr
-  - ko
+  - ac
   - Br
   - NiPd(II)
   - KBr

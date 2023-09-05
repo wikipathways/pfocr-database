@@ -3,10 +3,13 @@ figid: PMC7289600__elife-57410-fig3-figsupp1
 figtitle: ERK and tested pathways
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7289600
 filename: elife-57410-fig3-figsupp1.jpg
 figlink: pmc/articles/PMC7289600/figure/fig3s1/
-number: SF3_1
+number: F3
 caption: (A) Canonical ERK/MAPK signaling pathway. (B) EGFR signaling pathway components
   with inhibitors and biosensors used in this study.
 papertitle: Signaling diversity enabled by Rap1-regulated plasma membrane ERK with
@@ -19,12 +22,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.7237976
-figid_alias: PMC7289600__SF3_1
-figtype: Supplemental figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
-redirect_from: /figures/PMC7289600__SF3_1
+figid_alias: PMC7289600__F3
+figtype: Figure
+redirect_from: /figures/PMC7289600__F3
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -45,8 +45,6 @@ schema-jsonld:
   - Ras85D
   - Rap1
   - Raf
-  - Dsor1
-  - Mtk
   - Erk7
   - rl
   - Rac1
@@ -66,9 +64,6 @@ schema-jsonld:
   - ARAF
   - BRAF
   - RAF1
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - EPHB2
   - MAPK1
   - MAPK3

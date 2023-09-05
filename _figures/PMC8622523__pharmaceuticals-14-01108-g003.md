@@ -13,6 +13,8 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Canis lupus familiaris
+organisms_ner:
+- Mus musculus
 pmcid: PMC8622523
 filename: pharmaceuticals-14-01108-g003.jpg
 figlink: /pmc/articles/PMC8622523/figure/pharmaceuticals-14-01108-f003/
@@ -30,8 +32,6 @@ keywords: Mesona procumbens | diterpenoids | mesonol | apoptosis | cell cycle ar
 automl_pathway: 0.7299381
 figid_alias: PMC8622523__F3
 figtype: Figure
-organisms_ner:
-- Mus musculus
 redirect_from: /figures/PMC8622523__F3
 ndex: ''
 seo: CreativeWork

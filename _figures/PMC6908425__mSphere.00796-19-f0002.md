@@ -5,6 +5,9 @@ figtitle: Deletion of fumarases leads to changes in carbon fluxes and amounts of
 organisms:
 - Salmonella enterica
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC6908425
 filename: mSphere.00796-19-f0002.jpg
 figlink: /pmc/articles/PMC6908425/figure/fig2/
@@ -37,8 +40,6 @@ keywords: .na.character
 automl_pathway: 0.7640933
 figid_alias: PMC6908425__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6908425__F2
 ndex: ''
 seo: CreativeWork
@@ -107,6 +108,50 @@ schema-jsonld:
   - PAEP
   - PREP
   - PTPN22
+  - zwf
+  - pgm
+  - lpd
+  - treA
+  - treF
+  - malZ
+  - glk
+  - glcB
+  - malQ
+  - pgi
+  - pgl
+  - otsA
+  - mdh
+  - acnA
+  - acnB
+  - glpX
+  - gnd
+  - fumA
+  - fumB
+  - icd
+  - fbaA
+  - fbaB
+  - malP
+  - glgP
+  - rpiA
+  - rpe
+  - tpiA
+  - sdhC
+  - sucA
+  - sucB
+  - gapA
+  - sucC
+  - sucD
+  - pgk
+  - folD
+  - talA
+  - alaT
+  - talB
+  - ytjC
+  - gpmA
+  - tktB
+  - tktA
+  - eno
+  - pykA
   - OAc
   - ADPG
   - DHAP

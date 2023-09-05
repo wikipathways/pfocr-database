@@ -3,6 +3,8 @@ figid: PMC3109860__Fig4_REVDent
 figtitle: CHK1 Inhibitors in Combination Chemotherapy
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC3109860
 filename: Fig4_REVDent.jpg
 figlink: /pmc/articles/PMC3109860/figure/f4-0110133/
@@ -22,9 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9647431
 figid_alias: PMC3109860__F4
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Arabidopsis thaliana
 redirect_from: /figures/PMC3109860__F4
 ndex: 637a4918-dea5-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -52,22 +51,19 @@ schema-jsonld:
   - BAX
   - MCL1
   - BAK1
-  - KRAS
-  - HRAS
-  - NRAS
   - SRC
   - FGR
   - FYN
   - YES1
+  - KRAS
+  - HRAS
+  - NRAS
   - RAF1
   - APAF1
   - MAP2K1
   - MAP2K2
   - MAPK3
   - MAPK1
-  - ALDH10A9
-  - PARP2
-  - MEK1
   - R115777
   - Tipifarnib
   - AZD0530

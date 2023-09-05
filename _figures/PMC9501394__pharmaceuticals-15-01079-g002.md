@@ -5,6 +5,8 @@ figtitle: 'Pharmacological Effects of Houttuynia cordata Thunb (H. cordata): A C
 organisms:
 - Houttuynia cordata
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9501394
 filename: pharmaceuticals-15-01079-g002.jpg
 figlink: /pmc/articles/PMC9501394/figure/pharmaceuticals-15-01079-f002/
@@ -25,8 +27,6 @@ keywords: Houttuynia cordata Thunb | anti-inflammatory | anti-viral | anti-bacte
 automl_pathway: 0.910558
 figid_alias: PMC9501394__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9501394__F2
 ndex: ''
 seo: CreativeWork

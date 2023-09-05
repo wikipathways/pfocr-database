@@ -30,6 +30,10 @@ organisms:
 - Sporisorium reilianum f. sp. zeae
 - Dictyostelia
 - Homo sapiens
+organisms_ner:
+- Arabidopsis thaliana
+- Homo sapiens
+- Saccharomyces cerevisiae S288C
 pmcid: PMC7409079
 filename: microorganisms-08-01072-g001.jpg
 figlink: pmc/articles/PMC7409079/figure/microorganisms-08-01072-f001/
@@ -55,9 +59,6 @@ keywords: .na.character
 automl_pathway: 0.9096565
 figid_alias: PMC7409079__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-- Arabidopsis thaliana
 redirect_from: /figures/PMC7409079__F1
 ndex: ''
 seo: CreativeWork
@@ -82,24 +83,52 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - RAS1
+  - UBC2
+  - UBC4
+  - UBC5
+  - UBC3
+  - CRK1
+  - RKF2
+  - UBC1
+  - HGL1
+  - SAMDC
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - SRPX2
+  - UBE2A
+  - UBE2B
+  - UBE2D2
+  - UBE2L1
+  - CDC34
+  - UBE2K
+  - AKR1B1
+  - FDXR
+  - APLNR
+  - RBBP8
+  - RIMS1
+  - AMD1
   - RIM9
   - RAS2
   - RAD6
   - RIM20
-  - UBC4
   - RIM101
   - RHO4
-  - UBC5
   - RIM13
-  - CDC34
-  - UBC1
   - RTC3
-  - UBC2
-  - UBC3
-  - CRK1
-  - RKF2
-  - HGL1
-  - SAMDC
   - Pheromone
   - Nitrogen
   - Carbon

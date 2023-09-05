@@ -3,6 +3,9 @@ figid: PMC2930805__carcinbgq142f01_ht
 figtitle: Metabolic signaling pathway of candidate pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC2930805
 filename: carcinbgq142f01_ht.jpg
 figlink: /pmc/articles/PMC2930805/figure/fig1/
@@ -20,9 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9297133
 figid_alias: PMC2930805__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC2930805__F1
 ndex: ea90da4a-df0a-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,8 +58,8 @@ schema-jsonld:
   - MFAP1
   - ATP8A2
   - STK11
-  - IRS2
   - IRS1
+  - IRS2
   - PIK3CA
   - PIK3CB
   - PIK3CD

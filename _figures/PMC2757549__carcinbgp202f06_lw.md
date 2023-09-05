@@ -4,6 +4,8 @@ figtitle: Diagram depicting the inhibitory and activating effects of OSU-A9 on t
   Akt–NFKB signaling axis and stress response signaling, respectively
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC2757549
 filename: carcinbgp202f06_lw.jpg
 figlink: /pmc/articles/PMC2757549/figure/fig6/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.8070076
 figid_alias: PMC2757549__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2757549__F6
 ndex: 863c196e-deaf-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -43,36 +43,8 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - AKT1
-  - AKT2
-  - AKT3
-  - GSK3B
-  - CHUK
-  - IKBKB
-  - IKBKG
-  - IKBKE
-  - TBK1
-  - NFKB1
-  - RELA
-  - RELB
-  - REL
-  - NFKB2
-  - ERBB2
-  - CRK
-  - MAPK14
-  - MAPK1
-  - AIMP2
-  - GRAP2
-  - AHSA1
-  - POLDIP2
-  - MAPK11
-  - MAPK12
-  - MAPK13
-  - NKRF
-  - AHR
-  - ESR2
-  - DDIT3
-  - ESR1
-  - ERAL1
+  - relA
+  - ahr
+  - era
   - Cancer
 ---

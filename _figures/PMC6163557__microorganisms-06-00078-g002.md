@@ -3,6 +3,10 @@ figid: PMC6163557__microorganisms-06-00078-g002
 figtitle: Biosynthetic Routes to the Sda antigen
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Arabidopsis thaliana
+- Drosophila melanogaster
 pmcid: PMC6163557
 filename: microorganisms-06-00078-g002.jpg
 figlink: /pmc/articles/PMC6163557/figure/microorganisms-06-00078-f002/
@@ -25,9 +29,6 @@ keywords: .na.character
 automl_pathway: 0.7790253
 figid_alias: PMC6163557__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Arabidopsis thaliana
 redirect_from: /figures/PMC6163557__F2
 ndex: ''
 seo: CreativeWork
@@ -49,15 +50,15 @@ schema-jsonld:
   keywords:
   - IGKV2-24
   - NDUFA6
-  - BDKRB1
   - B3GNT2
   - B3GNTL1
-  - NDUFA5
+  - BDKRB1
   - IGKV6D-41
+  - NDUFA5
   - IGKV2D-18
+  - FUT3
   - FAM83H
   - ST3GAL6
-  - FUT3
   - AT3G52060
   - BG3
   - BGL2
@@ -68,6 +69,15 @@ schema-jsonld:
   - XYLT
   - NRT1.1
   - AL3
+  - jus
+  - CG46339
+  - egh
+  - LanB1
+  - betaTub56D
+  - mys
+  - Prosbeta1
+  - sd
+  - I-3
   - Neu5Aca2-3(GalNAcB1-4)Galss1-3GleNAc
   - Sialyl N-acetyllactosamine
   - O

@@ -4,6 +4,8 @@ figtitle: 'Biosynthesis of Wyosine Derivatives in tRNA: An Ancient and Highly Di
   Pathway in Archaea'
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC4481705
 filename: molbiolevolmsq096f04_3c.jpg
 figlink: /pmc/articles/PMC4481705/figure/fig4/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.9075729
 figid_alias: PMC4481705__F4
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC4481705__F4
 ndex: ''
 seo: CreativeWork

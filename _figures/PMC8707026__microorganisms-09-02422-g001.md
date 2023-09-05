@@ -4,6 +4,9 @@ figtitle: Molecular Rationale of Insect-Microbes Symbiosis—From Insect Behavio
   Mechanism
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8707026
 filename: microorganisms-09-02422-g001.jpg
 figlink: /pmc/articles/PMC8707026/figure/microorganisms-09-02422-f001/
@@ -38,9 +41,6 @@ keywords: insect symbiosis | holobiont | gut microbiome | arthropod vector | hos
 automl_pathway: 0.9566729
 figid_alias: PMC8707026__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC8707026__F1
 ndex: ''
 seo: CreativeWork
@@ -102,14 +102,14 @@ schema-jsonld:
   - Duox
   - ca
   - mesh
+  - Cad99C
+  - Erk7
+  - rl
+  - norpA
   - inaC
   - Pkc98E
   - aPKC
   - Pkc53E
-  - Erk7
-  - rl
-  - Cad99C
-  - norpA
   - Cat
   - Ca-alpha1T
   - ChAT
@@ -120,8 +120,8 @@ schema-jsonld:
   - upd2
   - upd1
   - upd3
-  - bsk
   - Stat92E
+  - bsk
   - 'On'
   - dome
   - Ptp61F
@@ -145,6 +145,12 @@ schema-jsonld:
   - DHH
   - IHH
   - SHH
+  - EPHB2
+  - MAPK3
+  - PLCB1
+  - PLCB2
+  - PLCB3
+  - PLCB4
   - PRRT2
   - PRKCA
   - PRKCB
@@ -156,12 +162,6 @@ schema-jsonld:
   - PRKCQ
   - PRKCZ
   - PRKD3
-  - EPHB2
-  - MAPK3
-  - PLCB1
-  - PLCB2
-  - PLCB3
-  - PLCB4
   - CAT
   - CRAT
   - GLYAT
@@ -171,10 +171,6 @@ schema-jsonld:
   - STIP1
   - HOPX
   - UROD
-  - JAK1
-  - JAK2
-  - JAK3
-  - TYK2
   - SOAT1
   - STAT1
   - STAT2
@@ -183,4 +179,8 @@ schema-jsonld:
   - STAT6
   - STAT5A
   - STAT5B
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
 ---

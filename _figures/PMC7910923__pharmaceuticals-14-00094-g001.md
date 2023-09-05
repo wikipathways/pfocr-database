@@ -5,6 +5,8 @@ organisms:
 - Homo sapiens
 - Aklioshbomyces papillarum
 - Dorcatragus megalotis
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7910923
 filename: pharmaceuticals-14-00094-g001.jpg
 figlink: pmc/articles/PMC7910923/figure/pharmaceuticals-14-00094-f001/
@@ -30,8 +32,6 @@ keywords: .na.character
 automl_pathway: 0.904833
 figid_alias: PMC7910923__F1
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7910923__F1
 ndex: ''
 seo: CreativeWork
@@ -54,6 +54,16 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - sam
+  - qkr54B
+  - sls
+  - Sam-S
+  - comt
+  - sah
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
   - Oestradiol
   - Catechol Estrogens
   - tetrahydrofolate

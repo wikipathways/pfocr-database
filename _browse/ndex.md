@@ -14,7 +14,7 @@ btn-class: "btn-ndex btn-pill"
     {% if pw.ndex and pw.ndex != '' %}
     {% assign ndex-short =  pw.ndex | truncate: 11 %}
       <li><a href="{{ pw.url }}">{{ pw.figtitle }} ({{ pw.year }}, <em>{{ pw.organisms | join: "," }})</em></a>
-      </li>
+      </li> 
     {% endif %} 
   {% endfor %} 
 </ul>

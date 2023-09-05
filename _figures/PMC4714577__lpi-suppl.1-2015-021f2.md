@@ -3,6 +3,9 @@ figid: PMC4714577__lpi-suppl.1-2015-021f2
 figtitle: Schematic of the PG biogenesis pathway in E
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC4714577
 filename: lpi-suppl.1-2015-021f2.jpg
 figlink: /pmc/articles/PMC4714577/figure/f2-lpi-suppl.1-2015-021/
@@ -28,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.932534
 figid_alias: PMC4714577__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC4714577__F2
 ndex: ''
 seo: CreativeWork

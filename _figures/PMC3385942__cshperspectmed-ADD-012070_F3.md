@@ -4,6 +4,8 @@ figtitle: Chronic morphine decreases VTA DA soma size yet increases neuronal exc
   while DA transmission to NAc is decreased
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3385942
 filename: cshperspectmed-ADD-012070_F3.jpg
 figlink: /pmc/articles/PMC3385942/figure/A012070F3/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9450903
 figid_alias: PMC3385942__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3385942__F3
 ndex: e74384f9-de90-11ea-99da-0ac135e8bacf
 seo: CreativeWork

@@ -3,6 +3,9 @@ figid: PMC8550232__sciadv.abh0050-f1
 figtitle: Drosophila brains and immunity induction
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC8550232
 filename: sciadv.abh0050-f1.jpg
 figlink: /pmc/articles/PMC8550232/figure/F1/
@@ -29,8 +32,6 @@ keywords: ''
 automl_pathway: 0.9476761
 figid_alias: PMC8550232__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC8550232__F1
 ndex: ''
 seo: CreativeWork
@@ -81,7 +82,14 @@ schema-jsonld:
   - PGRP-LC
   - Dredd
   - Rel
-  - AttD
   - DptB
   - heph
+  - AttD
+  - GANAB
+  - WG
+  - TLR4
+  - TNF
+  - UTP25
+  - ADSL
+  - IGKV2-29
 ---

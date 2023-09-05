@@ -3,6 +3,9 @@ figid: PMC4315049__cmc-suppl.3-2014-023f2
 figtitle: Secretion of FABP4 in association with lipolysis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4315049
 filename: cmc-suppl.3-2014-023f2.jpg
 figlink: /pmc/articles/PMC4315049/figure/f2-cmc-suppl.3-2014-023/
@@ -33,9 +36,6 @@ keywords: .na.character
 automl_pathway: 0.963857
 figid_alias: PMC4315049__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4315049__F2
 ndex: d75b8d33-decb-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -68,7 +68,6 @@ schema-jsonld:
   - GC
   - ATPsynbeta
   - Atpalpha
-  - pk
   - Akt
   - Pkg21D
   - Pka-C1
@@ -114,9 +113,9 @@ schema-jsonld:
   - PDE3B
   - MTG1
   - AKT1
+  - PTK2B
   - AKT2
   - AKT3
-  - PTK2B
   - PRKAR1A
   - PRKAR1B
   - PRKAR2A

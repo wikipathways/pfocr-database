@@ -3,6 +3,8 @@ figid: PMC4033999__pharmaceuticals-03-01594-g002
 figtitle: Dual effects of NSAIDs on the novel LTCC-mediated LTC4synthesis pathway
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC4033999
 filename: pharmaceuticals-03-01594-g002.jpg
 figlink: /pmc/articles/PMC4033999/figure/pharmaceuticals-03-01594-f002/
@@ -19,8 +21,6 @@ keywords: .na.character
 automl_pathway: 0.8729519
 figid_alias: PMC4033999__F2
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4033999__F2
 ndex: ''
 seo: CreativeWork

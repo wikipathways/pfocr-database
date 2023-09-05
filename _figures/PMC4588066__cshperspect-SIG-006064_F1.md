@@ -3,6 +3,8 @@ figid: PMC4588066__cshperspect-SIG-006064_F1
 figtitle: Regulation of oocyte maturation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4588066
 filename: cshperspect-SIG-006064_F1.jpg
 figlink: /pmc/articles/PMC4588066/figure/A006064F1/
@@ -31,8 +33,6 @@ keywords: .na.character
 automl_pathway: 0.8892456
 figid_alias: PMC4588066__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4588066__F1
 ndex: d80b19bf-df13-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -60,8 +60,6 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - GPR3
-  - MOS
-  - MOCOS
   - PRKAR1A
   - PRKAR1B
   - PRKAR2A
@@ -69,6 +67,8 @@ schema-jsonld:
   - PRKACA
   - PRKACB
   - PRKACG
+  - MOS
+  - MOCOS
   - MAP2K7
   - MAP2K1
   - MAP2K2
@@ -93,9 +93,9 @@ schema-jsonld:
   - RASGRF1
   - CDC25A
   - CDC25B
-  - WEE1
   - MYT1
   - PKMYT1
+  - WEE1
   - CSF2
   - LAMC2
   - CDK1

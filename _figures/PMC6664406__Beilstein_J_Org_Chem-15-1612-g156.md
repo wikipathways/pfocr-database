@@ -3,10 +3,12 @@ figid: PMC6664406__Beilstein_J_Org_Chem-15-1612-g156
 figtitle: Palladium acetate-catalyzed mechanistic pathway
 organisms:
 - NA
+organisms_ner:
+- NA
 pmcid: PMC6664406
 filename: Beilstein_J_Org_Chem-15-1612-g156.jpg
 figlink: /pmc/articles/PMC6664406/figure/C148/
-number: S148
+number: SF148
 caption: Palladium acetate-catalyzed mechanistic pathway.
 papertitle: 'Recent advances on the transition-metal-catalyzed synthesis of imidazopyridines:
   an updated coverage.'
@@ -18,11 +20,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9050742
-figid_alias: PMC6664406__S148
-figtype: Scheme
-organisms_ner:
-- NA
-redirect_from: /figures/PMC6664406__S148
+figid_alias: PMC6664406__SF148
+figtype: Supplemental figure
+redirect_from: /figures/PMC6664406__SF148
 ndex: ''
 seo: CreativeWork
 schema-jsonld:

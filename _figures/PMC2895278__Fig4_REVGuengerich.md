@@ -4,6 +4,8 @@ figtitle: Latter steps of postulated pathway for synthesis of morphine, based on
   with plants
 organisms:
 - Homo sapiens
+organisms_ner:
+- NA
 pmcid: PMC2895278
 filename: Fig4_REVGuengerich.jpg
 figlink: /pmc/articles/PMC2895278/figure/f4-0100153/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.9585056
 figid_alias: PMC2895278__F4
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC2895278__F4
 ndex: ''
 seo: CreativeWork

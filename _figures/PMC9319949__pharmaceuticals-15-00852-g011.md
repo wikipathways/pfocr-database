@@ -4,6 +4,8 @@ figtitle: 'Repositioning Linagliptin for the Mitigation of Cadmium-Induced Testi
   Dysfunction in Rats: Targeting HMGB1/TLR4/NLRP3 Axis and Autophagy'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC9319949
 filename: pharmaceuticals-15-00852-g011.jpg
 figlink: /pmc/articles/PMC9319949/figure/pharmaceuticals-15-00852-f011/
@@ -36,8 +38,6 @@ keywords: cadmium | HMGB1 | NLRP3 inflammasome | apoptosis | autophagy | linagli
 automl_pathway: 0.9431154
 figid_alias: PMC9319949__F11
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC9319949__F11
 ndex: ''
 seo: CreativeWork
@@ -68,8 +68,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - DPP4
-  - HMGB1
   - TLR4
+  - HMGB1
   - NLRP3
   - PRKAA1
   - PRKAA2
@@ -80,14 +80,14 @@ schema-jsonld:
   - PRKAG3
   - MTOR
   - TNF
-  - IL18
   - IL15
+  - IL18
   - SQSTM1
-  - BECN1
   - GTF2H1
   - KHDRBS1
   - NUP62
   - DCTN4
+  - BECN1
   - BCL2
   - BAX
 ---

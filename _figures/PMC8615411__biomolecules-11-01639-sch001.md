@@ -6,10 +6,15 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Oryctolagus cuniculus
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC8615411
 filename: biomolecules-11-01639-sch001.jpg
 figlink: /pmc/articles/PMC8615411/figure/biomolecules-11-01639-sch001/
-number: SF1
+number: S1
 caption: (A) 7-Dehydrocholesterol isomerism to vitamin D3 via a two-step sequential
   pericyclic reaction and its activation pathway to 25(OH)D3 (1) and 1α,25(OH)2D3
   (2). (B) Deactivation pathways of 1 and 2 to 26,23-lactone and calcitroic acid through
@@ -23,13 +28,9 @@ journal_nlm_ta: Biomolecules
 publisher_name: MDPI
 keywords: vitamin D3 | synthesis | D-ring modification | structure-activity relationship
 automl_pathway: 0.9110272
-figid_alias: PMC8615411__SF1
-figtype: Supplemental figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
-redirect_from: /figures/PMC8615411__SF1
+figid_alias: PMC8615411__S1
+figtype: Scheme
+redirect_from: /figures/PMC8615411__S1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -50,7 +51,6 @@ schema-jsonld:
   - oh
   - Cyp2r1
   - Cyp27a1
-  - Cyp27b1
   - Kitl
   - fa
   - Col11a1
@@ -58,5 +58,11 @@ schema-jsonld:
   - CYP2R1
   - CYP27A1
   - ARSL
-  - CYP27B1
+  - cd
+  - hv
+  - roh
+  - ase
+  - Con
+  - how
+  - VhaAC39-1
 ---

@@ -7,6 +7,11 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - Candida dubliniensis
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC7601870
 filename: pharmaceuticals-13-00292-g002.jpg
 figlink: pmc/articles/PMC7601870/figure/pharmaceuticals-13-00292-f002/
@@ -33,10 +38,6 @@ keywords: .na.character
 automl_pathway: 0.903618
 figid_alias: PMC7601870__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC7601870__F2
 ndex: ''
 seo: CreativeWork
@@ -66,12 +67,12 @@ schema-jsonld:
   - Csnk2a2
   - Gnat2
   - Acc
+  - Mpeg1
   - Spl
   - Sgpl1
   - Ppp1r9b
   - Sp1
   - Spin2g
-  - Mpeg1
   - Acly
   - Fasn
   - Usf1
@@ -104,18 +105,11 @@ schema-jsonld:
   - ACACA
   - BMS1
   - ACACB
-  - PRKAA1
-  - PRKAA2
-  - PRKAB1
-  - PRKAB2
-  - PRKAG1
-  - PRKAG2
-  - PRKAG3
+  - MPEG1
   - SGPL1
   - SP1
   - PSG1
   - DAND5
-  - MPEG1
   - ACLY
   - FASN
   - USF1
@@ -175,11 +169,53 @@ schema-jsonld:
   - RPS6KB2
   - Csnk2b
   - Ccne1
-  - Prkaa2
   - Scd
   - Scd2
   - Dgkb
   - Pik3cg
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
+  - CkIIbeta
+  - CkIIbeta2
+  - CkIIalpha
+  - CycE
+  - cyc
+  - ACC
+  - tacc
+  - acclinal-wing
+  - .na.character
+  - Sply
+  - grass
+  - Spn42Dd
+  - spi
+  - ATPCL
+  - FASN1
+  - FASN2
+  - LRP1
+  - modSP
+  - LpR2
+  - mgl
+  - scd
+  - Hsc70-4
+  - Cpes
+  - lds
+  - Dgk
+  - Pa
+  - Pld
+  - norpA
+  - sl
+  - Plc21C
+  - Pla
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Khc
+  - gig
+  - S6k
   - Pyruvate
   - Acetyl-CoA
   - TCA

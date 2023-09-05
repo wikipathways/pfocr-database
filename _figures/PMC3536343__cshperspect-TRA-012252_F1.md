@@ -3,6 +3,9 @@ figid: PMC3536343__cshperspect-TRA-012252_F1
 figtitle: MTORC1 signaling to the translational machinery
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC3536343
 filename: cshperspect-TRA-012252_F1.jpg
 figlink: /pmc/articles/PMC3536343/figure/A012252F1/
@@ -32,9 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9348234
 figid_alias: PMC3536343__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC3536343__F1
 ndex: d25b428b-df08-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -76,10 +76,10 @@ schema-jsonld:
   - Lkb1
   - Raf
   - Pten
-  - Dsor1
-  - Mtk
   - Erk7
   - rl
+  - Dsor1
+  - Mtk
   - SNF4Agamma
   - AMPKalpha
   - gig
@@ -197,12 +197,12 @@ schema-jsonld:
   - MTOR
   - RICTOR
   - MLST8
-  - MAP2K7
-  - MAP2K1
-  - MAP2K2
   - EPHB2
   - MAPK1
   - MAPK3
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
   - PRKAA1
   - PRKAA2
   - PRKAB1
@@ -229,8 +229,8 @@ schema-jsonld:
   - EIF4A2
   - EIF4E
   - EIF4G1
-  - PDCD4
   - EEF2K
+  - PDCD4
   - EIF4G2
   - EIF4G3
   - POLDIP3

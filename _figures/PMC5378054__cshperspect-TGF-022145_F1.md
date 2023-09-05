@@ -4,6 +4,10 @@ figtitle: Transforming growth factor B (TGFB) signaling pathway and its context-
   regulation
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Danio rerio
+- Homo sapiens
 pmcid: PMC5378054
 filename: cshperspect-TGF-022145_F1.jpg
 figlink: /pmc/articles/PMC5378054/figure/A022145F1/
@@ -30,8 +34,6 @@ keywords: .na.character
 automl_pathway: 0.8382529
 figid_alias: PMC5378054__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5378054__F1
 ndex: 42ced798-df24-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -56,6 +58,39 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - dpp
+  - gbb
+  - put
+  - mav
+  - Smox
+  - Mad
+  - Akt
+  - Sara
+  - foxo
+  - Med
+  - Dad
+  - inaC
+  - Pkc98E
+  - aPKC
+  - Pkc53E
+  - CaMKII
+  - sgg
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - acvrl1
+  - kita
+  - ngfra
+  - smad4a
+  - smad4b
+  - smad6a
+  - smad7
+  - c9
+  - gsk3ba
+  - gsk3ab
+  - smurf1
+  - nedd4l
   - TGFB1
   - TGFB2
   - TGFB3

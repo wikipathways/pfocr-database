@@ -25,6 +25,17 @@ organisms:
 - Homo sapiens
 - Mus musculus
 - human oral metagenome
+organisms_ner:
+- Mus musculus
+- Veillonella parvula
+- Veillonella dispar
+- Veillonella seminalis
+- Veillonella atypica
+- Homo sapiens
+- Sus scrofa
+- Ovis aries
+- Streptococcus agalactiae
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC8400620
 filename: microorganisms-09-01775-g005.jpg
 figlink: /pmc/articles/PMC8400620/figure/microorganisms-09-01775-f005/
@@ -50,16 +61,6 @@ keywords: oral Veillonella | pan-genome analysis | BPGA | KEGG | metabolic pathw
 automl_pathway: 0.7924802
 figid_alias: PMC8400620__F5
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Veillonella parvula
-- Veillonella dispar
-- Veillonella seminalis
-- Homo sapiens
-- Sus scrofa
-- Ovis aries
-- Veillonella atypica
-- Streptococcus agalactiae
 redirect_from: /figures/PMC8400620__F5
 ndex: ''
 seo: CreativeWork
@@ -157,4 +158,28 @@ schema-jsonld:
   - GALM
   - adhE
   - pfkA
+  - deoB
+  - ackA
+  - leuA
+  - aldB
+  - aidB
+  - atoB
+  - fruA
+  - fruK
+  - pgi
+  - pgm
+  - ytjC
+  - frdA
+  - maeA
+  - moeA
+  - fbaA
+  - tolB
+  - tolA
+  - pgk
+  - pck
+  - dld
+  - pflD
+  - acnA
+  - frdB
+  - sdhB
 ---

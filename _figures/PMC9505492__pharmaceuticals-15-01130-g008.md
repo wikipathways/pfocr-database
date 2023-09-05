@@ -5,6 +5,8 @@ figtitle: Magnesium Isoglycyrrhizinate Attenuates Anti-Tuberculosis Drug-Induced
   Signaling Pathway in Mice
 organisms:
 - NA
+organisms_ner:
+- Danio rerio
 pmcid: PMC9505492
 filename: pharmaceuticals-15-01130-g008.jpg
 figlink: /pmc/articles/PMC9505492/figure/pharmaceuticals-15-01130-f008/
@@ -28,8 +30,6 @@ keywords: magnesium isoglycyrrhizinate | anti-tuberculosis drugs | liver injury 
 automl_pathway: 0.9570851
 figid_alias: PMC9505492__F8
 figtype: Figure
-organisms_ner:
-- Danio rerio
 redirect_from: /figures/PMC9505492__F8
 ndex: ''
 seo: CreativeWork

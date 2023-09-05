@@ -4,6 +4,9 @@ figtitle: Proposed metabolic pathway for glucose by anaerobic fungi co-cultured 
   methanogens
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7830786
 filename: microorganisms-09-00190-g003.jpg
 figlink: pmc/articles/PMC7830786/figure/microorganisms-09-00190-f003/
@@ -32,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9596768
 figid_alias: PMC7830786__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7830786__F3
 ndex: ''
 seo: CreativeWork
@@ -63,16 +64,16 @@ schema-jsonld:
   - Pfk
   - CG15812
   - ac
-  - Ald1
   - Tpi
+  - Ald1
   - Mdh1
   - Mdh2
   - Men-b
   - Men
   - fr
   - Pgk
-  - Pep
-  - bgcn
+  - Pepck2
+  - Pepck1
   - Pgm1
   - Mcr
   - Me
@@ -86,6 +87,44 @@ schema-jsonld:
   - emc
   - adp
   - Adh
+  - PFKL
+  - PFKM
+  - PFKP
+  - ADCY1
+  - ADCY2
+  - ADCY3
+  - ADCY4
+  - ADCY5
+  - ADCY6
+  - ADCY7
+  - ADCY8
+  - ADCY9
+  - ADCY10
+  - GNPTAB
+  - TPI1
+  - FBXO3
+  - MDH2
+  - PCK2
+  - VCAN
+  - NR3C2
+  - ADH5
+  - ALDH1L1
+  - LDHA
+  - LDHB
+  - LDHC
+  - PFN2
+  - TWIST1
+  - ATP8A2
+  - FGFR3
+  - WDTC1
+  - AVP
+  - ADH1A
+  - ADH1B
+  - ADH1C
+  - ADH4
+  - ADH6
+  - ADH7
+  - ADHFE1
   - Glucose
   - Glucose-6-P
   - Fructose-6-P

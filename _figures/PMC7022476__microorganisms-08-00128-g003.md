@@ -3,6 +3,9 @@ figid: PMC7022476__microorganisms-08-00128-g003
 figtitle: Acetoin synthesis pathway in L
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7022476
 filename: microorganisms-08-00128-g003.jpg
 figlink: pmc/articles/PMC7022476/figure/microorganisms-08-00128-f003/
@@ -23,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9330478
 figid_alias: PMC7022476__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7022476__F3
 ndex: ''
 seo: CreativeWork
@@ -56,6 +57,19 @@ schema-jsonld:
   - Ald1
   - Ald2
   - Ca-alpha1D
+  - DECR1
+  - GLUD1
+  - UGDH
+  - H6PD
+  - CRYL1
+  - GOT1
+  - SLC17A5
+  - IGFALS
+  - SOD1
+  - AR
+  - TP63
+  - IS1
+  - ABCD1
   - NAD(P)H
   - Glu
   - NAD

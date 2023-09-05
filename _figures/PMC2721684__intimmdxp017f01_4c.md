@@ -3,6 +3,9 @@ figid: PMC2721684__intimmdxp017f01_4c
 figtitle: Signaling pathways triggered by TLR3, TLR4 and TLR1–TLR2
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC2721684
 filename: intimmdxp017f01_4c.jpg
 figlink: /pmc/articles/PMC2721684/figure/fig1/
@@ -35,8 +38,6 @@ keywords: .na.character
 automl_pathway: 0.9500853
 figid_alias: PMC2721684__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2721684__F1
 ndex: 34afdc35-dec7-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -79,9 +80,9 @@ schema-jsonld:
   - MYD88
   - TRIM69
   - TICAM1
-  - IRAK4
-  - IRAK1
   - IRAK2
+  - IRAK1
+  - IRAK4
   - TRAF6
   - UQCRFS1
   - RIPK1
@@ -107,4 +108,18 @@ schema-jsonld:
   - IRF3
   - NFKB1
   - IFNA1
+  - tram1
+  - tlr3
+  - tirap
+  - myd88
+  - ticam1
+  - irak1
+  - irak4
+  - traf6
+  - ripk1l
+  - traf3
+  - tbk1
+  - ikbkg
+  - irf3
+  - ifnphi1
 ---

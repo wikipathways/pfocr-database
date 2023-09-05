@@ -3,6 +3,9 @@ figid: PMC2878364__carcinbgq073f06_4c
 figtitle: Composite network presentation of the response to BPDE in normal fibroblasts
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC2878364
 filename: carcinbgq073f06_4c.jpg
 figlink: /pmc/articles/PMC2878364/figure/fig6/
@@ -28,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8673209
 figid_alias: PMC2878364__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2878364__F6
 ndex: 4163ec44-df1b-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -139,4 +140,17 @@ schema-jsonld:
   - IFNA17
   - IFNA21
   - IFNB1
+  - CycE
+  - cyc
+  - ema
+  - heph
+  - Low
+  - PolG1
+  - pyd
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - Sou
+  - egr
 ---

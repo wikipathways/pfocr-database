@@ -11,10 +11,15 @@ organisms:
 - Mus musculus
 - Escherichia coli
 - vectors
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC4887211
 filename: elife-14087-fig9-figsupp1.jpg
 figlink: /pmc/articles/PMC4887211/figure/fig9s1/
-number: SF9_1
+number: F9
 caption: 'Upon infection with RNA or DNA viruses, host cells can recognize nucleic
   acids of viruses and initiate MAVS- or STING-dependent signaling pathway to induce
   the production of inflammatory cytokines and type I interferons. When Fbxo21 is
@@ -32,12 +37,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.9433823
-figid_alias: PMC4887211__SF9_1
-figtype: Supplemental figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
-redirect_from: /figures/PMC4887211__SF9_1
+figid_alias: PMC4887211__F9
+figtype: Figure
+redirect_from: /figures/PMC4887211__F9
 ndex: d7da78d3-ded9-11ea-99da-0ac135e8bacf
 seo: CreativeWork
 schema-jsonld:
@@ -102,5 +104,24 @@ schema-jsonld:
   - Syp
   - Mapk14
   - Ahsa1
+  - Cul1
+  - SkpA
+  - Roc1a
+  - Ask1
+  - bsk
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - nedd8
+  - skp1
+  - rbx1
+  - fbxo21
+  - map3k5
+  - mapk8b
+  - mapk14a
   - SB203580
 ---

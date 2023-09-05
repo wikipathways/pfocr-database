@@ -3,6 +3,9 @@ figid: PMC4979452__cddiscovery201650-f3
 figtitle: Ion homeostasis
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4979452
 filename: cddiscovery201650-f3.jpg
 figlink: /pmc/articles/PMC4979452/figure/fig3/
@@ -34,9 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9043524
 figid_alias: PMC4979452__F3
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
-- Homo sapiens
 redirect_from: /figures/PMC4979452__F3
 ndex: d927db6c-df10-11ea-99da-0ac135e8bacf
 seo: CreativeWork

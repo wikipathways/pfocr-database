@@ -3,6 +3,8 @@ figid: PMC7657592__mSphere.00998-20-f0009
 figtitle: Genetic model depicting the role of RgdA in A
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC7657592
 filename: mSphere.00998-20-f0009.jpg
 figlink: pmc/articles/PMC7657592/figure/fig9/
@@ -24,8 +26,6 @@ keywords: .na.character
 automl_pathway: 0.9184786
 figid_alias: PMC7657592__F9
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC7657592__F9
 ndex: ''
 seo: CreativeWork
@@ -45,8 +45,8 @@ schema-jsonld:
     name: WikiPathways
   keywords:
   - dpr1
-  - Pka-C1
   - Pka-C2
+  - Pka-C1
   - Gli
   - ci
 ---

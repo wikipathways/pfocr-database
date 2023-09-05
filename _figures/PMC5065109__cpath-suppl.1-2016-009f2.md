@@ -16,6 +16,11 @@ organisms:
 - Rattus norvegicus
 - Homo sapiens
 - NA
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Danio rerio
 pmcid: PMC5065109
 filename: cpath-suppl.1-2016-009f2.jpg
 figlink: /pmc/articles/PMC5065109/figure/f2-cpath-suppl.1-2016-009/
@@ -52,10 +57,6 @@ keywords: .na.character
 automl_pathway: 0.9352575
 figid_alias: PMC5065109__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
 redirect_from: /figures/PMC5065109__F2
 ndex: 678ff52d-dea1-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -96,10 +97,10 @@ schema-jsonld:
   - JAK1
   - STAT3
   - STAT1
-  - MAPK3
   - MAPK8
   - MAPK9
   - MAPK10
+  - MAPK3
   - MAPK1
   - SHH
   - CDKL1
@@ -135,8 +136,21 @@ schema-jsonld:
   - Jak1
   - Stat3
   - Stat1
-  - Mapk3
   - Mapk8
+  - Mapk3
   - Mapk1
   - Shh
+  - ifng1
+  - ifngr1
+  - ifngr1l
+  - ifngr2
+  - jak2b
+  - jak1
+  - stat3
+  - stat1a
+  - stat1b
+  - stat4
+  - mapk8b
+  - mapk3
+  - shha
 ---

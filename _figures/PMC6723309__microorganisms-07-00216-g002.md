@@ -19,6 +19,11 @@ organisms:
 - Mus musculus
 - Rattus norvegicus
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Rattus norvegicus
+- Drosophila melanogaster
 pmcid: PMC6723309
 filename: microorganisms-07-00216-g002.jpg
 figlink: /pmc/articles/PMC6723309/figure/microorganisms-07-00216-f002/
@@ -51,10 +56,6 @@ keywords: .na.character
 automl_pathway: 0.8525863
 figid_alias: PMC6723309__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
-- Rattus norvegicus
 redirect_from: /figures/PMC6723309__F2
 ndex: 5ac19ede-df1f-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -84,25 +85,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - Egfr
-  - Map2k6
-  - Crk
-  - Grap2
-  - Syp
-  - Mapk14
-  - Ahsa1
-  - Akt1
-  - Pik3r1
-  - Kcna2
-  - Mapkapk2
-  - Map2k2
-  - Pdcd6ip
-  - Nfkbib
-  - Tsg101
-  - Nfkb1
-  - Pin1
-  - Rilp
-  - Hgs
   - EGFR
   - MAP2K6
   - CRK
@@ -150,9 +132,53 @@ schema-jsonld:
   - HARS1
   - SRSF5
   - HGS
+  - Egfr
+  - Map2k6
+  - Crk
+  - Grap2
+  - Syp
+  - Mapk14
+  - Ahsa1
+  - Akt1
+  - Pik3r1
+  - Kcna2
+  - Mapkapk2
+  - Map2k2
+  - Nfkbib
+  - Pdcd6ip
+  - Tsg101
+  - Nfkb1
+  - Pin1
+  - Rilp
+  - Hgs
   - Pik3cg
   - Rela
   - Prickle1
   - Srsf5
+  - scb
+  - lic
+  - p38b
+  - Nurf-38
+  - Ebp
+  - p38a
+  - Hrb87F
+  - p38c
+  - Akt
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - MAPk-Ak2
+  - IKKepsilon
+  - key
+  - IKKbeta
+  - ALiX
+  - Dif
+  - dl
+  - Rel
+  - dod
+  - Rilpl
+  - Hrs
+  - HisRS
   - Cancer
 ---

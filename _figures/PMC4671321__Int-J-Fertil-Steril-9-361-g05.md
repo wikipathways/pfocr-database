@@ -5,6 +5,11 @@ figtitle: Predicted model for the action of GSK3B in buffalo embryonic stem ( ES
 organisms:
 - Bubalus bubalis
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Bubalus bubalis
+- Danio rerio
+- Arabidopsis thaliana
 pmcid: PMC4671321
 filename: Int-J-Fertil-Steril-9-361-g05.jpg
 figlink: /pmc/articles/PMC4671321/figure/F5/
@@ -26,9 +31,6 @@ keywords: .na.character
 automl_pathway: 0.9591789
 figid_alias: PMC4671321__F5
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Bubalus bubalis
 redirect_from: /figures/PMC4671321__F5
 ndex: ff977436-ded4-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -134,5 +136,22 @@ schema-jsonld:
   - POU5F1P4
   - MYC
   - NANOG
+  - dkk1b
+  - m17
+  - cby1
+  - il6st
+  - grb2b
+  - gab1
+  - ptpn11a
+  - gsk3ba
+  - gsk3ab
+  - ctnnb1
+  - pou5f3
+  - myca
+  - nanog
+  - VPS34
+  - SHP2
+  - OCT4
+  - OCT3
   - Cancer
 ---

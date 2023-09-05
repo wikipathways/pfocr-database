@@ -3,10 +3,13 @@ figid: PMC4077430__Beilstein_J_Org_Chem-10-1121-g008
 figtitle: The two-step synthetic pathway towards the methanofullerenes AIM 1–9
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC4077430
 filename: Beilstein_J_Org_Chem-10-1121-g008.jpg
 figlink: /pmc/articles/PMC4077430/figure/C1/
-number: S1
+number: SF1
 caption: The two-step synthetic pathway towards the methanofullerenes AIM 1–9.
 papertitle: 'Novel indolin-2-one-substituted methanofullerenes bearing long n-alkyl
   chains: synthesis and application in bulk-heterojunction solar cells.'
@@ -18,11 +21,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.8662422
-figid_alias: PMC4077430__S1
-figtype: Scheme
-organisms_ner:
-- Saccharomyces cerevisiae S288C
-redirect_from: /figures/PMC4077430__S1
+figid_alias: PMC4077430__SF1
+figtype: Supplemental figure
+redirect_from: /figures/PMC4077430__SF1
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -36,14 +37,21 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - AIM9
+  - AIM6
+  - AIM4
+  - AIM7
   - AIM3
+  - MZM1
   - MIC12
   - AIM2
-  - AIM4
-  - AIM6
   - BOL3
-  - AIM7
-  - AIM9
-  - MZM1
+  - IGKV2-28
+  - CD5L
+  - CD69
+  - DNMT1
+  - CRYBG1
+  - AURKB
+  - SLC45A2
   - C12H25
 ---

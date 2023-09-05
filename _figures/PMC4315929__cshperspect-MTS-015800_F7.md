@@ -3,6 +3,9 @@ figid: PMC4315929__cshperspect-MTS-015800_F7
 figtitle: Cilia assembly and disassembly cycle
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4315929
 filename: cshperspect-MTS-015800_F7.jpg
 figlink: /pmc/articles/PMC4315929/figure/A015800F7/
@@ -20,9 +23,6 @@ keywords: .na.character
 automl_pathway: 0.9427759
 figid_alias: PMC4315929__F7
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC4315929__F7
 ndex: 5cc1a077-debd-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -39,6 +39,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - gammaTub23C
+  - betaTub56D
+  - betaTub60D
+  - alphaTub67C
+  - alphaTub84B
+  - HDAC6
+  - Cep97
+  - Cp110
+  - Go
+  - Cep290
+  - polo
+  - Rab8
   - CEP83
   - TUBD1
   - TUBE1
@@ -62,24 +74,12 @@ schema-jsonld:
   - TUBG1
   - TUBG2
   - TTBK2
-  - HDAC6
-  - CCP110
   - CEP97
+  - CCP110
   - CEP290
   - PLK1
   - CIMAP3
   - DVL2
   - NEDD9
   - RAB8A
-  - gammaTub23C
-  - betaTub56D
-  - betaTub60D
-  - alphaTub67C
-  - alphaTub84B
-  - Cp110
-  - Cep97
-  - Go
-  - Cep290
-  - polo
-  - Rab8
 ---

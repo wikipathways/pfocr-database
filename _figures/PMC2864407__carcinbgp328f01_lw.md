@@ -4,6 +4,8 @@ figtitle: 'Description of the sex hormone metabolic pathway: genes involved in s
   bioactivation, metabolism, and inactivation of estrogen and other hormones'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2864407
 filename: carcinbgp328f01_lw.jpg
 figlink: /pmc/articles/PMC2864407/figure/fig1/
@@ -22,8 +24,6 @@ keywords: .na.character
 automl_pathway: 0.8662856
 figid_alias: PMC2864407__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2864407__F1
 ndex: c12652ba-df16-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -49,8 +49,8 @@ schema-jsonld:
   - CYP11B1
   - CYP11B2
   - CYP19A1
-  - CYP1A2
   - CYP1A1
+  - CYP1A2
   - ESR2
   - COMT
   - Aldosterone

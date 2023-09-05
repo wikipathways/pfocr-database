@@ -4,6 +4,9 @@ figtitle: Molecular mechanisms for Crumbs endocytic and recycling regulation in 
   cells
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC4176004
 filename: cshperspect-END-016899_F1.jpg
 figlink: /pmc/articles/PMC4176004/figure/A016899F1/
@@ -40,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.7736363
 figid_alias: PMC4176004__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC4176004__F1
 ndex: ''
 seo: CreativeWork
@@ -75,9 +76,9 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - mid
   - Rab5
   - Syx7
-  - mid
   - Cdc42
   - par
   - para
@@ -87,5 +88,11 @@ schema-jsonld:
   - aPKC
   - Nuc
   - kibra
+  - RAB5A
+  - CDC42
+  - NR1I2
+  - JTB
+  - NUCB1
+  - WWC1
   - Lys
 ---

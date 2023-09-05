@@ -4,6 +4,9 @@ figtitle: The flavonoid pathway in Arabidopsis
 organisms:
 - Arabidopsis thaliana
 - Homo sapiens
+organisms_ner:
+- Arabidopsis thaliana
+- Drosophila melanogaster
 pmcid: PMC2652062
 filename: jexbotern323f01_lw.jpg
 figlink: /pmc/articles/PMC2652062/figure/fig1/
@@ -34,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.8321596
 figid_alias: PMC2652062__F1
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC2652062__F1
 ndex: ''
 seo: CreativeWork
@@ -73,10 +74,25 @@ schema-jsonld:
   - TT2
   - FLS1
   - FLS3
-  - TT8
   - TT1
+  - TT8
   - TTG2
   - BAN
+  - Coa
+  - Gip
+  - anon-4Ce
+  - Chi
+  - chic
+  - cathD
+  - ppk
+  - vvl
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - wake
+  - lolal
+  - mir-ban
   - dihydroquercetin
   - naringenin
   - naringenin chalcone

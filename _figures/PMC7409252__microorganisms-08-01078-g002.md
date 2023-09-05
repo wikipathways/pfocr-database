@@ -11,6 +11,9 @@ organisms:
 - Clostridioides difficile CD34
 - Homo sapiens
 - Bikinia letestui
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC7409252
 filename: microorganisms-08-01078-g002.jpg
 figlink: pmc/articles/PMC7409252/figure/microorganisms-08-01078-f002/
@@ -73,8 +76,6 @@ keywords: .na.character
 automl_pathway: 0.9354834
 figid_alias: PMC7409252__F2
 figtype: Figure
-organisms_ner:
-- NA
 redirect_from: /figures/PMC7409252__F2
 ndex: ''
 seo: CreativeWork
@@ -135,6 +136,31 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - CCL27
+  - TNF
+  - IL5
+  - IL13
+  - IL17A
+  - IL22
+  - IL21
+  - IL9
+  - IL6
+  - TGFB1
+  - TGFB2
+  - TGFB3
+  - IL10
+  - IL37
+  - IL23A
+  - MADCAM1
+  - tnfb
+  - il13
+  - thoc2
+  - eda
+  - il21
+  - il22
+  - il6
+  - th2
+  - il10
   - Ganciclovir
   - Valganciclovir
   - Tofacitinib

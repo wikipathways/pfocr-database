@@ -3,6 +3,9 @@ figid: PMC7343979__mSphere.00366-20-f0001
 figtitle: Signal transduction pathways that regulate C
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
+- Homo sapiens
 pmcid: PMC7343979
 filename: mSphere.00366-20-f0001.jpg
 figlink: pmc/articles/PMC7343979/figure/fig1/
@@ -25,8 +28,6 @@ keywords: .na.character
 automl_pathway: 0.9590115
 figid_alias: PMC7343979__F1
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC7343979__F1
 ndex: ''
 seo: CreativeWork
@@ -60,8 +61,24 @@ schema-jsonld:
   - PBS2
   - HOG1
   - CPR1
-  - TPK1
   - TPK2
   - EFG1
+  - MAPKAP1
+  - BUB1B
+  - CDC25C
+  - RASGRF1
+  - CDC25A
+  - CDC25B
+  - MTG1
+  - PRKAR1A
+  - PRKAR1B
+  - PRKAR2A
+  - PRKAR2B
+  - PRKACA
+  - PRKACB
+  - PRKACG
+  - PKLR
+  - PROK1
+  - GFM1
   - GDP
 ---

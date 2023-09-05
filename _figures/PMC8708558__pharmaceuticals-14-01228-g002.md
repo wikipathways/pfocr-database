@@ -5,6 +5,10 @@ figtitle: Comprehensive Transcriptome and Pathway Analyses Revealed Central Role
 organisms:
 - Homo sapiens
 - Mus musculus
+organisms_ner:
+- Homo sapiens
+- Mus musculus
+- Danio rerio
 pmcid: PMC8708558
 filename: pharmaceuticals-14-01228-g002.jpg
 figlink: /pmc/articles/PMC8708558/figure/pharmaceuticals-14-01228-f002/
@@ -28,9 +32,6 @@ keywords: fascin | breast cancer | miRNA | pathway analysis | transcriptome | IP
 automl_pathway: 0.7863346
 figid_alias: PMC8708558__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Mus musculus
 redirect_from: /figures/PMC8708558__F2
 ndex: ''
 seo: CreativeWork
@@ -103,4 +104,26 @@ schema-jsonld:
   - Adamts7
   - Pdlim7
   - Emilin1
+  - cotl1
+  - fscn1a
+  - lsp1a
+  - fhl3a
+  - zyx
+  - pgfb
+  - vim
+  - c1r
+  - p3h1
+  - bmp1l
+  - bmp10l
+  - plod1a
+  - col18a1a
+  - hapln3
+  - hhipl1
+  - fam171a1
+  - mfge8b
+  - tor4aa
+  - pdlim2
+  - col6a2
+  - adamts7
+  - pdlim7
 ---

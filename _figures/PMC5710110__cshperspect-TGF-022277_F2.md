@@ -3,6 +3,8 @@ figid: PMC5710110__cshperspect-TGF-022277_F2
 figtitle: Transforming growth factor B (TGFB)-induced Smad signaling pathway
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC5710110
 filename: cshperspect-TGF-022277_F2.jpg
 figlink: /pmc/articles/PMC5710110/figure/A022277F2/
@@ -33,8 +35,6 @@ keywords: .na.character
 automl_pathway: 0.9011819
 figid_alias: PMC5710110__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC5710110__F2
 ndex: 8cd18d20-df12-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -73,16 +73,16 @@ schema-jsonld:
   - TGFB1
   - TGFB2
   - TGFB3
-  - SMAD2
   - SMAD4
+  - SMAD2
   - CDK4
   - CDKN1A
   - MYC
   - GSK3A
   - GSK3B
-  - CDK9
   - CDK8
-  - ID1
-  - ID2
+  - CDK9
   - ID3
+  - ID2
+  - ID1
 ---

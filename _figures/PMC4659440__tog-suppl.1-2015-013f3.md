@@ -5,6 +5,8 @@ figtitle: HGF-MET signaling pathway with its downstream effector components (MAP
   and proliferation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4659440
 filename: tog-suppl.1-2015-013f3.jpg
 figlink: /pmc/articles/PMC4659440/figure/f3-tog-suppl.1-2015-013/
@@ -23,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.9117686
 figid_alias: PMC4659440__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4659440__F3
 ndex: 4be0139d-df08-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -87,7 +87,7 @@ schema-jsonld:
   - GRAP2
   - AHSA1
   - POLDIP2
-  - RORC
   - MTOR
+  - RORC
   - Cancer
 ---

@@ -4,10 +4,12 @@ figtitle: Comparative genomic reconstruction of L-gulonate and related uronic ac
   catabolic pathways and regulons in gammaproteobacteria
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC5788505
 filename: elife-31097-fig4-figsupp2.jpg
 figlink: /pmc/articles/PMC5788505/figure/fig4s2/
-number: SF4_2
+number: F4
 caption: (A) Genomic context of L-gulonate, D-glucuronate, and L-galactonate utilization
   genes and regulons in 45 bacteria from the Pasteurellales lineage. The L-gulonate
   catabolic pathway from H. influenzae Rd KW20 was projected onto the pathogenic gammaproteobacteria,
@@ -54,11 +56,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.516447
-figid_alias: PMC5788505__SF4_2
-figtype: Supplemental figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
-redirect_from: /figures/PMC5788505__SF4_2
+figid_alias: PMC5788505__F4
+figtype: Figure
+redirect_from: /figures/PMC5788505__F4
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -109,18 +109,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - eda
+  - uxuA
   - kdgK
+  - eda
   - uxuB
   - uxaC
-  - uxuA
   - uxuR
   - uidB
   - uidA
-  - exuT
-  - exuR
   - uxaA
   - uxaB
+  - exuT
+  - exuR
   - lgoD
   - rspB
   - F3031

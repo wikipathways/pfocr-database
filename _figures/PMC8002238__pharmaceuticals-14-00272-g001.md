@@ -3,6 +3,9 @@ figid: PMC8002238__pharmaceuticals-14-00272-g001
 figtitle: Cyclophosphamide metabolic pathway (adapted from Jonge et al., 2005 )
 organisms:
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8002238
 filename: pharmaceuticals-14-00272-g001.jpg
 figlink: pmc/articles/PMC8002238/figure/pharmaceuticals-14-00272-f001/
@@ -22,8 +25,6 @@ keywords: .na.character
 automl_pathway: 0.871349
 figid_alias: PMC8002238__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC8002238__F1
 ndex: ''
 seo: CreativeWork
@@ -83,6 +84,19 @@ schema-jsonld:
   - GSTT2
   - GSTZ1
   - GSTT2B
+  - Adh
+  - Aldh
+  - Aldh-III
+  - GstS1
+  - GstE12
+  - GstD1
+  - GstD2
+  - GstD3
+  - GstD4
+  - GstD5
+  - GstD6
+  - GstD7
+  - GstD8
   - Dechloroethylcyclophosphamide
   - DCCP
   - Cyclophosphamide

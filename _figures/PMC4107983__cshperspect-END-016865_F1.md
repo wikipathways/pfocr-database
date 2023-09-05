@@ -3,6 +3,8 @@ figid: PMC4107983__cshperspect-END-016865_F1
 figtitle: Transcriptional programs controlling endocytosis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC4107983
 filename: cshperspect-END-016865_F1.jpg
 figlink: /pmc/articles/PMC4107983/figure/A016865F1/
@@ -35,8 +37,6 @@ keywords: .na.character
 automl_pathway: 0.9513091
 figid_alias: PMC4107983__F1
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC4107983__F1
 ndex: ''
 seo: CreativeWork
@@ -75,8 +75,6 @@ schema-jsonld:
   - TFEB
   - RAB5A
   - MTG1
-  - APP
-  - SUCLA2
   - RPE65
   - UVRAG
   - TP63

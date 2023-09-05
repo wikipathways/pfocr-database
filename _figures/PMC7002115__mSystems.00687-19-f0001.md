@@ -3,6 +3,8 @@ figid: PMC7002115__mSystems.00687-19-f0001
 figtitle: Scheme of the cell wall biosynthetic pathway and its inhibition by bacitracin
 organisms:
 - NA
+organisms_ner:
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC7002115
 filename: mSystems.00687-19-f0001.jpg
 figlink: pmc/articles/PMC7002115/figure/fig1/
@@ -39,8 +41,6 @@ keywords: .na.character
 automl_pathway: 0.8567683
 figid_alias: PMC7002115__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC7002115__F1
 ndex: ''
 seo: CreativeWork

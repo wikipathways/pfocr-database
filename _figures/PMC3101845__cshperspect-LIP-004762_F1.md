@@ -3,6 +3,8 @@ figid: PMC3101845__cshperspect-LIP-004762_F1
 figtitle: Regulation of Tat2 sorting to the vacuole
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
 pmcid: PMC3101845
 filename: cshperspect-LIP-004762_F1.jpg
 figlink: /pmc/articles/PMC3101845/figure/A004762F1/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9448658
 figid_alias: PMC3101845__F1
 figtype: Figure
-organisms_ner:
-- Drosophila melanogaster
 redirect_from: /figures/PMC3101845__F1
 ndex: ''
 seo: CreativeWork

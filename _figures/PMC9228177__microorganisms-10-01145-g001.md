@@ -5,6 +5,9 @@ figtitle: Impact of Elevated Levels of Dissolved CO2 on Performance and Proteome
 organisms:
 - Escherichia coli
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC9228177
 filename: microorganisms-10-01145-g001.jpg
 figlink: /pmc/articles/PMC9228177/figure/microorganisms-10-01145-f001/
@@ -31,8 +34,6 @@ keywords: scale-down | fermentation | physiology | Escherichia coli | proteome |
 automl_pathway: 0.9191982
 figid_alias: PMC9228177__F1
 figtype: Figure
-organisms_ner:
-- Escherichia coli str. K-12 substr. MG1655
 redirect_from: /figures/PMC9228177__F1
 ndex: ''
 seo: CreativeWork
@@ -55,6 +56,18 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
+  - BGN
+  - GPI
+  - PGPEP1
+  - MAN2C1
+  - GAL
+  - GALP
+  - MAN2B1
+  - LEMD3
+  - GMDS
+  - DECR1
+  - MTG1
+  - FUCA1
   - pgi
   - manA
   - glcB

@@ -26,6 +26,10 @@ organisms:
 - Homo sapiens
 - Saccharomyces cerevisiae
 - Gallus gallus
+organisms_ner:
+- Homo sapiens
+- Gallus gallus
+- Danio rerio
 pmcid: PMC8003559
 filename: microorganisms-09-00638-g003.jpg
 figlink: pmc/articles/PMC8003559/figure/microorganisms-09-00638-f003/
@@ -54,9 +58,6 @@ keywords: .na.character
 automl_pathway: 0.9718076
 figid_alias: PMC8003559__F3
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Gallus gallus
 redirect_from: /figures/PMC8003559__F3
 ndex: ''
 seo: CreativeWork
@@ -107,5 +108,12 @@ schema-jsonld:
   - NFKBIA
   - NFKB1
   - LITAF
+  - tnfb
+  - tradd
+  - myd88
+  - irak4
+  - irak1
+  - ikbkg
+  - traf6
   - LPS
 ---

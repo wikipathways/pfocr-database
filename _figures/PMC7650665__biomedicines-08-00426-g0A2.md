@@ -4,10 +4,13 @@ figtitle: Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by
   kinases from human, vaccinia virus, and herpes simplex virus
 organisms:
 - NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
 pmcid: PMC7650665
 filename: biomedicines-08-00426-g0A2.jpg
 figlink: pmc/articles/PMC7650665/figure/biomedicines-08-00426-f0A2/
-number: AF2
+number: F2
 caption: 'Nucleoside metabolism in DNA precursors synthesis (salvage pathway) by different
   kinases from human, vaccinia virus, and herpes simplex virus. HSV-tk418m is A167Y
   mutant HSV-tk armed into tk of WR VV backbone which is described earlier in the
@@ -29,11 +32,9 @@ journal_nlm_ta: .na.character
 publisher_name: .na.character
 keywords: .na.character
 automl_pathway: 0.846546
-figid_alias: PMC7650665__AF2
-figtype: Appendix figure
-organisms_ner:
-- Drosophila melanogaster
-redirect_from: /figures/PMC7650665__AF2
+figid_alias: PMC7650665__F2
+figtype: Figure
+redirect_from: /figures/PMC7650665__F2
 ndex: ''
 seo: CreativeWork
 schema-jsonld:
@@ -61,12 +62,12 @@ schema-jsonld:
   - Andorra
   - Anp
   - Acam
-  - dc
   - Dt
-  - Dg
-  - AP-1gamma
+  - dc
   - da
   - nAChRalpha2
+  - Dg
+  - AP-1gamma
   - Ts
   - Amph
   - SNF4Agamma
@@ -74,6 +75,18 @@ schema-jsonld:
   - Cmpk
   - awd
   - Datp
+  - ITPR1
+  - DTYMK
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - CMPK1
+  - TTPA
+  - UEVLD
   - Pyrimidine nucleosides
   - Purine nucleosides
   - dGuo

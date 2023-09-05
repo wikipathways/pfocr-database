@@ -38,6 +38,9 @@ organisms:
 - Bacteriophage sp.
 - mixed culture
 - Ceriodaphnia cornuta
+organisms_ner:
+- Mus musculus
+- Drosophila melanogaster
 pmcid: PMC7466637
 filename: nanomaterials-10-01527-sch015a.jpg
 figlink: .na.character
@@ -59,9 +62,6 @@ keywords: .na.character
 automl_pathway: 0.667985
 figid_alias: PMC7466637__F15a
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC7466637__F15a
 ndex: ''
 seo: CreativeWork
@@ -81,34 +81,15 @@ schema-jsonld:
   keywords:
   - Ie
   - oh
-  - ba
   - Eda
   - Br
   - Hk1
   - Nhs
+  - Mp
   - Enc
-  - PKD1P4
-  - MMP8
-  - EDA
-  - NHS
-  - BMP1
-  - BMP2
-  - BMP3
-  - BMP4
-  - BMP5
-  - BMP6
-  - BMP7
-  - BMP8A
-  - BMP8B
-  - BMP10
-  - BMP15
-  - GDF1
-  - GDF2
-  - GDF3
-  - GDF5
-  - GDF6
-  - GDF7
-  - MAN2C1
+  - Hn
+  - br
+  - enc
   - N(C4H9)4
   - H
   - N(C,Hg)4

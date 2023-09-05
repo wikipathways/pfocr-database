@@ -4,6 +4,8 @@ figtitle: Schematic summary of Yap1-related signaling cascades under environment
   stresses
 organisms:
 - NA
+organisms_ner:
+- Saccharomyces cerevisiae S288C
 pmcid: PMC6887862
 filename: mSphere.00785-19-f0009.jpg
 figlink: /pmc/articles/PMC6887862/figure/fig9/
@@ -29,8 +31,6 @@ keywords: .na.character
 automl_pathway: 0.8968729
 figid_alias: PMC6887862__F9
 figtype: Figure
-organisms_ner:
-- Saccharomyces cerevisiae S288C
 redirect_from: /figures/PMC6887862__F9
 ndex: ''
 seo: CreativeWork

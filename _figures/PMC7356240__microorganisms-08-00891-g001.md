@@ -4,6 +4,8 @@ figtitle: Macrophage migration inhibitory factor (MIF) mediates immune response 
   in dengue pathogenesis
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC7356240
 filename: microorganisms-08-00891-g001.jpg
 figlink: pmc/articles/PMC7356240/figure/microorganisms-08-00891-f001/
@@ -37,9 +39,6 @@ keywords: .na.character
 automl_pathway: 0.8505225
 figid_alias: PMC7356240__F1
 figtype: Figure
-organisms_ner:
-- Danio rerio
-- Homo sapiens
 redirect_from: /figures/PMC7356240__F1
 ndex: ''
 seo: CreativeWork
@@ -70,14 +69,6 @@ schema-jsonld:
     '@type': Organization
     name: WikiPathways
   keywords:
-  - mif
-  - tnfb
-  - il6
-  - mmp9
-  - cd74b
-  - cd4-1
-  - cxcr2
-  - cxcr4b
   - MIF
   - AMH
   - S100A8

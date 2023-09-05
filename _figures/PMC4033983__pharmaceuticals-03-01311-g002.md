@@ -3,6 +3,8 @@ figid: PMC4033983__pharmaceuticals-03-01311-g002
 figtitle: ATM and ATR signaling pathways
 organisms:
 - NA
+organisms_ner:
+- Arabidopsis thaliana
 pmcid: PMC4033983
 filename: pharmaceuticals-03-01311-g002.jpg
 figlink: /pmc/articles/PMC4033983/figure/pharmaceuticals-03-01311-f002/
@@ -27,8 +29,6 @@ keywords: .na.character
 automl_pathway: 0.9556831
 figid_alias: PMC4033983__F2
 figtype: Figure
-organisms_ner:
-- Arabidopsis thaliana
 redirect_from: /figures/PMC4033983__F2
 ndex: ''
 seo: CreativeWork

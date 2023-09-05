@@ -4,6 +4,9 @@ figtitle: 'When to Measure Plasma Homocysteine and how to Place it in Context: T
   Homocystinurias'
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC8518101
 filename: jmotherandchild-24-039-g002.jpg
 figlink: /pmc/articles/PMC8518101/figure/j_jmotherandchild.20202402si.2016.000007_fig_002/
@@ -32,9 +35,6 @@ keywords: re-methylation | cystathionine beta synthase deficiency | MTHFR defici
 automl_pathway: 0.9309257
 figid_alias: PMC8518101__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Drosophila melanogaster
 redirect_from: /figures/PMC8518101__F2
 ndex: ''
 seo: CreativeWork
@@ -62,8 +62,8 @@ schema-jsonld:
   - CNR1
   - CBLC
   - MMACHC
-  - MMD
   - MMUT
+  - MMD
   - MMAA
   - CBLB
   - MMAB

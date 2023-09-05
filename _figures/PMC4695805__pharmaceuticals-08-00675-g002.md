@@ -7,6 +7,10 @@ organisms:
 - Saccharomyces cerevisiae
 - Lactate dehydrogenase-elevating virus
 - NA
+organisms_ner:
+- Mus musculus
+- Homo sapiens
+- Drosophila melanogaster
 pmcid: PMC4695805
 filename: pharmaceuticals-08-00675-g002.jpg
 figlink: /pmc/articles/PMC4695805/figure/pharmaceuticals-08-00675-f002/
@@ -30,9 +34,6 @@ keywords: .na.character
 automl_pathway: 0.8039795
 figid_alias: PMC4695805__F2
 figtype: Figure
-organisms_ner:
-- Mus musculus
-- Homo sapiens
 redirect_from: /figures/PMC4695805__F2
 ndex: 4316ff0d-dea2-11ea-99da-0ac135e8bacf
 seo: CreativeWork
@@ -58,14 +59,14 @@ schema-jsonld:
   - Hps3
   - Pdk1
   - Pdpk1
-  - Pdk2
-  - Pdk3
   - Pdk4
+  - Pdk3
+  - Pdk2
   - PDK1
   - PDPK1
-  - PDK2
-  - PDK3
   - PDK4
+  - PDK3
+  - PDK2
   - PDP1
   - DLAT
   - DLD
@@ -73,6 +74,13 @@ schema-jsonld:
   - PDHA2
   - PDHB
   - PDHX
+  - Coa
+  - CycE
+  - cyc
+  - Pdh
+  - Pdha
+  - Pdf
+  - Pdhb
   - Fatty acids
   - Pyruvate
   - Lactate

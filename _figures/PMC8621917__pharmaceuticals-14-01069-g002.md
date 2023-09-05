@@ -19,6 +19,12 @@ organisms:
 - Human papillomavirus
 - Human papillomavirus type 16
 - Homo sapiens
+organisms_ner:
+- Homo sapiens
+- Rattus norvegicus
+- Mus musculus
+- Drosophila melanogaster
+- Danio rerio
 pmcid: PMC8621917
 filename: pharmaceuticals-14-01069-g002.jpg
 figlink: /pmc/articles/PMC8621917/figure/pharmaceuticals-14-01069-f002/
@@ -37,10 +43,6 @@ keywords: rutin | therapeutic potential | cancer | cell signaling pathways | miR
 automl_pathway: 0.9547966
 figid_alias: PMC8621917__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
-- Rattus norvegicus
-- Mus musculus
 redirect_from: /figures/PMC8621917__F2
 ndex: ''
 seo: CreativeWork
@@ -126,4 +128,28 @@ schema-jsonld:
   - Ctnnb1
   - Trp53
   - Pik3r1
+  - Dif
+  - dl
+  - Rel
+  - cass
+  - p53
+  - betaTub60D
+  - hth
+  - Pi3K21B
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - Akt
+  - Tor
+  - Wnt5
+  - Wnt4
+  - wg
+  - sgg
+  - arm
+  - badb
+  - tp53
+  - mtor
+  - stat3
+  - gsk3ba
+  - ctnnb1
 ---

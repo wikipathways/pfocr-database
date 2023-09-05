@@ -5,6 +5,9 @@ figtitle: Contrasting strategies for disrupting interferon (IFN)-mediated respon
 organisms:
 - Homo sapiens
 - NA
+organisms_ner:
+- Homo sapiens
+- Danio rerio
 pmcid: PMC6396338
 filename: cshperspectmed-HAE-033464_F6.jpg
 figlink: pmc/articles/PMC6396338/figure/A033464F6/
@@ -40,8 +43,6 @@ keywords: .na.character
 automl_pathway: 0.9227327
 figid_alias: PMC6396338__F6
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC6396338__F6
 ndex: ''
 seo: CreativeWork
@@ -91,14 +92,14 @@ schema-jsonld:
   - IKBKE
   - TBK1
   - IRF3
-  - RELA
-  - SYT1
-  - GORASP1
-  - WNK1
   - CD40
   - ARHGEF7
   - ASCC1
   - H3P40
+  - RELA
+  - SYT1
+  - GORASP1
+  - WNK1
   - EIF2AK2
   - SMOC1
   - IFNK
@@ -116,5 +117,17 @@ schema-jsonld:
   - IFNA17
   - IFNA21
   - STAT2
+  - tlr3
+  - tyk2
+  - mavs
+  - ticam1
+  - pak2a
+  - itpka
+  - irf3
+  - nfkb1
+  - rela
+  - eif2ak2
+  - ifnphi2
+  - stat2
   - OAS
 ---

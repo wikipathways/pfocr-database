@@ -3,6 +3,8 @@ figid: PMC2908475__intimmdxq053f02_4c
 figtitle: The intracellular signaling network regulating T-cell trafficking and differentiation
 organisms:
 - NA
+organisms_ner:
+- Homo sapiens
 pmcid: PMC2908475
 filename: intimmdxq053f02_4c.jpg
 figlink: /pmc/articles/PMC2908475/figure/fig2/
@@ -42,8 +44,6 @@ keywords: .na.character
 automl_pathway: 0.9515702
 figid_alias: PMC2908475__F2
 figtype: Figure
-organisms_ner:
-- Homo sapiens
 redirect_from: /figures/PMC2908475__F2
 ndex: 6fd6f5bd-deef-11ea-99da-0ac135e8bacf
 seo: CreativeWork
