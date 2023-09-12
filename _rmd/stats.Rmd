@@ -69,14 +69,14 @@ paper.num <- nrow(papers)
 fig.hs.num <- nrow(figures_hs)
 paper.hs.num <- nrow(papers_hs)
 gene.total <- nrow(genes)
-gene.unique <- nrow(ncbigenes)
-gene.hs.unique <- nrow(ncbigenes_hs)
+gene.unique <- paste(nrow(ncbigenes), "(ncbigene)")
+gene.hs.unique <- paste(nrow(ncbigenes_hs), "(human)")
 chem.total <- nrow(chems)
-chem.unique.mesh <- nrow(chemicals_mesh)
-chem.unique.chebi <- nrow(chemicals_chebi)
+chem.unique.mesh <- paste(nrow(chemicals_mesh), "(mesh)")
+chem.unique.chebi <- paste(nrow(chemicals_chebi), "(chebi)")
 di.total <- nrow(dis)
-di.unique.mesh <- nrow(diseases_mesh)
-di.unique.doid <- nrow(diseases_doid)
+di.unique.mesh <- paste(nrow(diseases_mesh), "(mesh)")
+di.unique.doid <- paste(nrow(diseases_doid), "(doid)")
 
 data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique.mesh, di.unique.mesh), Specific = c(gene.hs.unique, chem.unique.chebi, di.unique.doid))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
@@ -93,7 +93,7 @@ knitr::kable(data,
 ```
 
 ## Main page plot
-```{r plot}
+```{r plot, warning=FALSE}
 years.plot <- figs %>%
     dplyr::filter(!is.na(year)) %>%
       group_by(year) %>%
@@ -102,7 +102,7 @@ years.plot <- figs %>%
 min.year = min(years.plot$year)
 max.year = max(years.plot$year)
     
-years.plot %>%
+p <- years.plot %>%
       ggplot(aes(x=factor(year, levels = seq(min.year, max.year)), y=fig_cnt, 
                  fill = case_when(
                    year == max.year ~ "no",
@@ -126,11 +126,12 @@ years.plot %>%
           legend.box.background = element_rect(fill='transparent') #transparent legend panel
       ) 
 
+p
 ```
 ```{r save, warning=FALSE}
 
 ggsave("../assets/img/pfocr_stats.png", plot = last_plot(), 
-       width = 550, height = 300, units = "px", dpi = 250, bg='transparent')
+       width = 1100, height = 600, units = "px", dpi = 450, bg='transparent')
 ```
 
 ![](assets/img/pfocr_stats.png)

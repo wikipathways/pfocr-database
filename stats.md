@@ -53,14 +53,14 @@ paper.num <- nrow(papers)
 fig.hs.num <- nrow(figures_hs)
 paper.hs.num <- nrow(papers_hs)
 gene.total <- nrow(genes)
-gene.unique <- nrow(ncbigenes)
-gene.hs.unique <- nrow(ncbigenes_hs)
+gene.unique <- paste(nrow(ncbigenes), "(ncbigene)")
+gene.hs.unique <- paste(nrow(ncbigenes_hs), "(human)")
 chem.total <- nrow(chems)
-chem.unique.mesh <- nrow(chemicals_mesh)
-chem.unique.chebi <- nrow(chemicals_chebi)
+chem.unique.mesh <- paste(nrow(chemicals_mesh), "(mesh)")
+chem.unique.chebi <- paste(nrow(chemicals_chebi), "(chebi)")
 di.total <- nrow(dis)
-di.unique.mesh <- nrow(diseases_mesh)
-di.unique.doid <- nrow(diseases_doid)
+di.unique.mesh <- paste(nrow(diseases_mesh), "(mesh)")
+di.unique.doid <- paste(nrow(diseases_doid), "(doid)")
 
 data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique.mesh, di.unique.mesh), Specific = c(gene.hs.unique, chem.unique.chebi, di.unique.doid))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
@@ -69,11 +69,11 @@ row.names(data) = c("Genes", "Chemicals", "Diseases")
 The Pathway Figure OCR project has identified 103009 pathway figures
 from 87705 published papers.
 
-|           |     Total |  Unique | Specific |
-|:----------|----------:|--------:|---------:|
-| Genes     | 4,426,921 | 146,866 |   18,383 |
-| Chemicals |   335,939 |  13,979 |    4,085 |
-| Diseases  |    44,434 |   1,602 |      201 |
+|           |     Total | Unique            | Specific      |
+|:----------|----------:|:------------------|:--------------|
+| Genes     | 4,426,921 | 146866 (ncbigene) | 18383 (human) |
+| Chemicals |   309,761 | 13979 (mesh)      | 4085 (chebi)  |
+| Diseases  |    41,738 | 1602 (mesh)       | 201 (doid)    |
 
 Contents extracted from figures
 
@@ -88,7 +88,7 @@ years.plot <- figs %>%
 min.year = min(years.plot$year)
 max.year = max(years.plot$year)
     
-years.plot %>%
+p <- years.plot %>%
       ggplot(aes(x=factor(year, levels = seq(min.year, max.year)), y=fig_cnt, 
                  fill = case_when(
                    year == max.year ~ "no",
@@ -111,13 +111,15 @@ years.plot %>%
           legend.background = element_rect(fill='transparent'), #transparent legend bg
           legend.box.background = element_rect(fill='transparent') #transparent legend panel
       ) 
+
+p
 ```
 
 ![](stats_files/figure-markdown_github/plot-1.png)
 
 ``` r
 ggsave("../assets/img/pfocr_stats.png", plot = last_plot(), 
-       width = 550, height = 300, units = "px", dpi = 250, bg='transparent')
+       width = 1100, height = 600, units = "px", dpi = 450, bg='transparent')
 ```
 
 ![](assets/img/pfocr_stats.png)

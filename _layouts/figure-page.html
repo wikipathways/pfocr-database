@@ -240,13 +240,15 @@ layout: default
           <th title="Chemical name from MeSH">Name</th>
           <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody> 
+        <tbody>
           {% for row in chemsTable %}
           <tr>
             <td>{{ row["word"] }}</td>
             <td>{{ row["match"] }}</td>
             {% if row["mesh"] != "NA" %}
-              <td><a href='http://id.nlm.nih.gov/mesh/{{ row["mesh"] }}' target="_blank">{{ row["mesh"] }}</a></td>
+            {% assign parts = row["mesh"] | split: ":" %}
+            {% assign meshid = parts[1] %}
+              <td><a href='http://id.nlm.nih.gov/mesh/{{ row["meshid"] }}' target="_blank">{{ row["mesh"] }}</a></td>
             {% else %}
               <td></td>
             {% endif %}
@@ -313,7 +315,9 @@ layout: default
               <td>{{ row["word"] }}</td>
               <td>{{ row["match"] }}</td>
               {% if row["mesh"] != "NA" %}
-                <td><a href='http://id.nlm.nih.gov/mesh/{{ row["mesh"] }}' target="_blank">{{ row["mesh"] }}</a></td>
+              {% assign parts = row["mesh"] | split: ":" %}
+              {% assign meshid = parts[1] %}
+                <td><a href='http://id.nlm.nih.gov/mesh/{{ row["meshid"] }}' target="_blank">{{ row["mesh"] }}</a></td>
               {% else %}
                 <td></td>
               {% endif %}
