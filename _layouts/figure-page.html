@@ -157,7 +157,7 @@ layout: default
     </div>
   </div>
 </div>
-<select id="organismSelect" onchange="filterTable()" style="margin-bottom: 10px;">
+<select id="organismSelect" style="margin-bottom: 10px;">
   {% if unique_organisms.size > 1 %}
     <option value="All">All organisms</option>
   {% endif %}
@@ -246,9 +246,7 @@ layout: default
             <td>{{ row["word"] }}</td>
             <td>{{ row["match"] }}</td>
             {% if row["mesh"] != "NA" %}
-            {% assign parts = row["mesh"] | split: ":" %}
-            {% assign meshid = parts[1] %}
-              <td><a href='http://id.nlm.nih.gov/mesh/{{ row["meshid"] }}' target="_blank">{{ row["mesh"] }}</a></td>
+            <td><a href='https://bioregistry.io/{{ row["mesh"] }}' target="_blank">{{ row["mesh"] }}</a></td>
             {% else %}
               <td></td>
             {% endif %}
@@ -315,9 +313,7 @@ layout: default
               <td>{{ row["word"] }}</td>
               <td>{{ row["match"] }}</td>
               {% if row["mesh"] != "NA" %}
-              {% assign parts = row["mesh"] | split: ":" %}
-              {% assign meshid = parts[1] %}
-                <td><a href='http://id.nlm.nih.gov/mesh/{{ row["meshid"] }}' target="_blank">{{ row["mesh"] }}</a></td>
+                <td><a href='https://bioregistry.io/{{ row["mesh"] }}' target="_blank">{{ row["mesh"] }}</a></td>
               {% else %}
                 <td></td>
               {% endif %}
