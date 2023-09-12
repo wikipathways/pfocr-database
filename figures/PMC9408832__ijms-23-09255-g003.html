@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9408832/bin/ijms-23-09255-g003.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -2251,21 +2251,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9408832__ijms-23-09255-g003-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9408832__ijms-23-09255-g003-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC9408832__ijms-23-09255-g003.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -2274,10 +2288,306 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>Ceramide-1-P</td>
+            <td>Ceramides</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002518' target="_blank">mesh:D002518</a></td>
+            
+            
+              <td>ceramide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17761' target="_blank">chebi:17761</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucosyl-Ceramide</td>
+            <td>D-glucosyl-N-acylsphingosine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005963' target="_blank">mesh:D005963</a></td>
+            
+            
+              <td>Glucosylceramides</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18368' target="_blank">chebi:18368</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2-OHOA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C483229' target="_blank">mesh:C483229</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sphingomyelin</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013109' target="_blank">mesh:D013109</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetyl</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011632' target="_blank">mesh:C011632</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Geniposide</td>
+            <td>Geniposide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C007835' target="_blank">mesh:C007835</a></td>
+            
+            
+              <td>geniposide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:5299' target="_blank">chebi:5299</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fluoxetine</td>
+            <td>Fluoxetine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005473' target="_blank">mesh:D005473</a></td>
+            
+            
+              <td>fluoxetine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:5118' target="_blank">chebi:5118</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Serine</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047902' target="_blank">mesh:C047902</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Palmitoyl-CoA</td>
+            <td>Palmitoyl Coenzyme A</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010171' target="_blank">mesh:D010171</a></td>
+            
+            
+              <td>palmitoyl-CoA</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15525' target="_blank">chebi:15525</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3-Ketodihydrosphingosine</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002882' target="_blank">mesh:C002882</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dihydrospingosine</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dihydroceramide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C109343' target="_blank">mesh:C109343</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sphingosine-1-P</td>
+            <td>Sphingosine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013110' target="_blank">mesh:D013110</a></td>
+            
+            
+              <td>sphingosine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16393' target="_blank">chebi:16393</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ethanolamine</td>
+            <td>Ethanolamines</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004983' target="_blank">mesh:D004983</a></td>
+            
+            
+              <td>ethanolamines</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:23981' target="_blank">chebi:23981</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Myriocin</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C001996' target="_blank">mesh:C001996</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fenretinide</td>
+            <td>Fenretinide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D017313' target="_blank">mesh:D017313</a></td>
+            
+            
+              <td>4-hydroxyphenyl retinamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:42588' target="_blank">chebi:42588</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>THC</td>
+            <td>Dronabinol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013759' target="_blank">mesh:D013759</a></td>
+            
+            
+              <td>Delta(9)-tetrahydrocannabinol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:66964' target="_blank">chebi:66964</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Carmofur</td>
+            <td>Carmofur</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C017367' target="_blank">mesh:C017367</a></td>
+            
+            
+              <td>1-hexylcarbamoyl-5-fluorouracil</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:31360' target="_blank">chebi:31360</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Safingol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C005682' target="_blank">mesh:C005682</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>SKI-II</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C556356' target="_blank">mesh:C556356</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fingolimod</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C098720' target="_blank">mesh:C098720</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -2319,8 +2629,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

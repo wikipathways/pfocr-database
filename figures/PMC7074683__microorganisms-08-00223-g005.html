@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7074683/bin/microorganisms-08-00223-g005.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -259,21 +259,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7074683__microorganisms-08-00223-g005-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7074683__microorganisms-08-00223-g005-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC7074683__microorganisms-08-00223-g005.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -282,112 +296,192 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Cypermethrin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Cypermethrin</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C017160' target="_blank">C017160</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C017160' target="_blank">mesh:C017160</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">3-(2,2-Dichloroethenyl)-2,2-dimethyl cyclopropanecarboxylate</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-(2,2-Dichloroethenyl)-2,2-dimethyl cyclopropanecarboxylate</td>
+            <td>Dichlorvos</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004006' target="_blank">D004006</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004006' target="_blank">mesh:D004006</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Hydroxy-3- phenoxy</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C031110' target="_blank">C031110</a></td>
+              <td>dichlorvos</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34690' target="_blank">chebi:34690</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">benzene acetonitrile</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Hydroxy-3- phenoxy</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C032159' target="_blank">C032159</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031110' target="_blank">mesh:C031110</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">3-Phenoxybenzaldehyde</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C064808' target="_blank">C064808</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">3-Phenoxybenzoic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>benzene acetonitrile</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C017618' target="_blank">C017618</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C032159' target="_blank">mesh:C032159</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Benzoix acid 2,5 Dimethyl</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C036128' target="_blank">C036128</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Phthalic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-Phenoxybenzaldehyde</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010795' target="_blank">D010795</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C064808' target="_blank">mesh:C064808</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">benzene</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001554' target="_blank">D001554</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Oleic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-Phenoxybenzoic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D009829' target="_blank">D009829</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C017618' target="_blank">mesh:C017618</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">2-Pentadecanone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C068047' target="_blank">C068047</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Hexadecanoic acid methyl</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Benzoix acid 2,5 Dimethyl</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D019308' target="_blank">D019308</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C036128' target="_blank">mesh:C036128</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">ester</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Phthalic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004952' target="_blank">D004952</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010795' target="_blank">mesh:D010795</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>benzene</td>
+            <td>Benzene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001554' target="_blank">mesh:D001554</a></td>
+            
+            
+              <td>benzene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16716' target="_blank">chebi:16716</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oleic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009829' target="_blank">mesh:D009829</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2-Pentadecanone</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C068047' target="_blank">mesh:C068047</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hexadecanoic acid methyl</td>
+            <td>Palmitic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019308' target="_blank">mesh:D019308</a></td>
+            
+            
+              <td>hexadecanoic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15756' target="_blank">chebi:15756</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ester</td>
+            <td>ester</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004952' target="_blank">mesh:D004952</a></td>
+            
+            
+              <td>Esters</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35701' target="_blank">chebi:35701</a></td>
             
           </tr>
           
@@ -431,8 +525,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

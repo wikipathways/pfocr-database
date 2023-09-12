@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744311/bin/41021_2021_233_Fig1_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -1025,21 +1025,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8744311__41021_2021_233_Fig1_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8744311__41021_2021_233_Fig1_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC8744311__41021_2021_233_Fig1_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -1048,10 +1062,292 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>1,3-butadiene</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031763' target="_blank">mesh:C031763</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-epoxy</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004852' target="_blank">mesh:D004852</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>butene</td>
+            <td>butene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C558934' target="_blank">mesh:C558934</a></td>
+            
+            
+              <td>butylene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:48361' target="_blank">chebi:48361</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>H2O2</td>
+            <td>Water</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014867' target="_blank">mesh:D014867</a></td>
+            
+            
+              <td>water</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15377' target="_blank">chebi:15377</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cl</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002713' target="_blank">mesh:D002713</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Epoxide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004852' target="_blank">mesh:D004852</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>1-chloro-2-hydroxy</td>
+            <td>Niclosamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009534' target="_blank">mesh:D009534</a></td>
+            
+            
+              <td>Niclosamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:7553' target="_blank">chebi:7553</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3-butene</td>
+            <td>butene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C558934' target="_blank">mesh:C558934</a></td>
+            
+            
+              <td>butylene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:48361' target="_blank">chebi:48361</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CHB</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C077218' target="_blank">mesh:C077218</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2,3,4-diepoxy</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C473520' target="_blank">mesh:C473520</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>butane</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002073' target="_blank">mesh:D002073</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3-butene-1,2</td>
+            <td>but-2-ene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C021639' target="_blank">mesh:C021639</a></td>
+            
+            
+              <td>2-butene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:48363' target="_blank">chebi:48363</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>diol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C518382' target="_blank">mesh:C518382</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Epoxide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004852' target="_blank">mesh:D004852</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>1-chloro-3-buten</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C580717' target="_blank">mesh:C580717</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CBO</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C412201' target="_blank">mesh:C412201</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>1-chloro-3,4-epoxy</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C467960' target="_blank">mesh:C467960</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2-butanol</td>
+            <td>butan-2-ol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C043958' target="_blank">mesh:C043958</a></td>
+            
+            
+              <td>2-butanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35687' target="_blank">chebi:35687</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-epoxybutane</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C038843' target="_blank">mesh:C038843</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>1,2-diol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C518382' target="_blank">mesh:C518382</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -1093,10 +1389,26 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
+            
+            <tr>
+              <td>BDD</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:C562420' target="_blank">mesh:C562420</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
             
           </tbody>
         </table>

@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4550053/bin/12864_2015_1841_Fig6_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -659,21 +659,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC4550053__12864_2015_1841_Fig6_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC4550053__12864_2015_1841_Fig6_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC4550053__12864_2015_1841_Fig6_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -682,88 +696,150 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Farnesyl pyrophosphate</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Farnesyl pyrophosphate</td>
+            <td>2-trans,6-trans-farnesyl diphosphate</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C004808' target="_blank">C004808</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C004808' target="_blank">mesh:C004808</a></td>
+            
+            
+              <td>farnesyl pyrophosphate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17407' target="_blank">chebi:17407</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">7-Dehydrocholesterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>7-Dehydrocholesterol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C016705' target="_blank">C016705</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C016705' target="_blank">mesh:C016705</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Methyl farnesoate</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C032429' target="_blank">C032429</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Juvenile hormone III acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Methyl farnesoate</td>
+            <td>methyl farnesoate</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C036585' target="_blank">C036585</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C032429' target="_blank">mesh:C032429</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Juvenile hormone III acid diol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C036585' target="_blank">C036585</a></td>
+              <td>methyl farnesoate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:80535' target="_blank">chebi:80535</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">2-Deoxyecdysone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Juvenile hormone III acid</td>
+            <td>juvenile hormone III</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C044348' target="_blank">C044348</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C036585' target="_blank">mesh:C036585</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Cholesterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002784' target="_blank">D002784</a></td>
+              <td>juvenile hormone III</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:27493' target="_blank">chebi:27493</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Epoxide</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Juvenile hormone III acid diol</td>
+            <td>juvenile hormone III</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004852' target="_blank">D004852</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C036585' target="_blank">mesh:C036585</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Juvenile Hormone Acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007605' target="_blank">D007605</a></td>
+              <td>juvenile hormone III</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:27493' target="_blank">chebi:27493</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Famesyl diphosphate</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>2-Deoxyecdysone</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011756' target="_blank">D011756</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C044348' target="_blank">mesh:C044348</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cholesterol</td>
+            <td>Cholesterol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002784' target="_blank">mesh:D002784</a></td>
+            
+            
+              <td>cholesterol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16113' target="_blank">chebi:16113</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Epoxide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004852' target="_blank">mesh:D004852</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Juvenile Hormone Acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007605' target="_blank">mesh:D007605</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Famesyl diphosphate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011756' target="_blank">mesh:D011756</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
@@ -807,8 +883,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399318/bin/jvms-82-1017-g001.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -1243,21 +1243,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7399318__jvms-82-1017-g001-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7399318__jvms-82-1017-g001-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC7399318__jvms-82-1017-g001.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -1266,504 +1280,878 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">LXA4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>LXA4</td>
+            <td>lipoxin A4</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C040527' target="_blank">C040527</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C040527' target="_blank">mesh:C040527</a></td>
+            
+            
+              <td>lipoxin A4</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:6498' target="_blank">chebi:6498</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">O14,15-LTE4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>O14,15-LTE4</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C531124' target="_blank">C531124</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C531124' target="_blank">mesh:C531124</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">13,14-dihydro</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025395' target="_blank">C025395</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-keto</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>13,14-dihydro</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007651' target="_blank">D007651</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025395' target="_blank">mesh:C025395</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">8,12-iso-IPF2A</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C438786' target="_blank">C438786</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">VI-1,5-lactone 8,15-DIHETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>15-keto</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C425704' target="_blank">C425704</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007651' target="_blank">mesh:D007651</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">8-iso-PGA2 O</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C569739' target="_blank">C569739</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">5,15-DIHETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8,12-iso-IPF2A</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025170' target="_blank">C025170</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C438786' target="_blank">mesh:C438786</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">15-keto-PGF2A</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C026528' target="_blank">C026528</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">8,12-iso</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>VI-1,5-lactone 8,15-DIHETE</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C080501' target="_blank">C080501</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C425704' target="_blank">mesh:C425704</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">18-iso-13,14-dihydroz</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C080501' target="_blank">C080501</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-keto-PGF2a Ps,6S-LXA4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8-iso-PGA2 O</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C026528' target="_blank">C026528</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C569739' target="_blank">mesh:C569739</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">15-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025984' target="_blank">C025984</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-keto PGJ2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>5,15-DIHETE</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C037112' target="_blank">C037112</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025170' target="_blank">mesh:C025170</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">11-dehydro-TXB2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C049235' target="_blank">C049235</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">8-iso-PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>15-keto-PGF2A</td>
+            <td>15-oxoprostaglandin F2alpha</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C011987' target="_blank">C011987</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026528' target="_blank">mesh:C026528</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">13,14-dihydro- 13,14-dihydroQ PGE</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025395' target="_blank">C025395</a></td>
+              <td>15-ketoprostaglandin F2alpha</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28442' target="_blank">chebi:28442</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Q15-keto-PGD2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8,12-iso</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C034832' target="_blank">C034832</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C080501' target="_blank">mesh:C080501</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">8-iso-15</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C080501' target="_blank">C080501</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">TXB2 5-IPF22-VI 8-iso</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>18-iso-13,14-dihydroz</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C438786' target="_blank">C438786</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C080501' target="_blank">mesh:C080501</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">8-iso-15(R)</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C080501' target="_blank">C080501</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">O12-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>15-keto-PGF2a Ps,6S-LXA4</td>
+            <td>15-oxoprostaglandin F2alpha</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D019377' target="_blank">D019377</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026528' target="_blank">mesh:C026528</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">11-beta-13,14-dihydro</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025395' target="_blank">C025395</a></td>
+              <td>15-ketoprostaglandin F2alpha</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28442' target="_blank">chebi:28442</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">8-iso-PGF226-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>15-HETE</td>
+            <td>(5Z,8Z,11Z,13E)-15-HETE</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C075750' target="_blank">C075750</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025984' target="_blank">mesh:C025984</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">11-beta-PGF22 TXA2 PGF2A</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D015237' target="_blank">D015237</a></td>
+              <td>15-hydroxy-5,8,11,13-eicosatetraenoic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:64017' target="_blank">chebi:64017</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">20-hydroxy</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>15-keto PGJ2</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004092' target="_blank">D004092</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C037112' target="_blank">mesh:C037112</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">delta12-PGJ2O</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C040810' target="_blank">C040810</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">delta-12,14-PGJ2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>11-dehydro-TXB2</td>
+            <td>11-dehydro-thromboxane B2</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C040810' target="_blank">C040810</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C049235' target="_blank">mesh:C049235</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">12-KETE 5-KETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C054994' target="_blank">C054994</a></td>
+              <td>11-dehydro-thromboxane B2</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28667' target="_blank">chebi:28667</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">12-keto-LTB4 18-carboxy</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8-iso-PGE2</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C082648' target="_blank">C082648</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011987' target="_blank">mesh:C011987</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">5-HDETE 5-HETE P0odinor-LTB4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C040212' target="_blank">C040212</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">13,14-dihydro-15-keto</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>13,14-dihydro- 13,14-dihydroQ PGE</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C025087' target="_blank">C025087</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025395' target="_blank">mesh:C025395</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">20-hydroxy-PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C048824' target="_blank">C048824</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-keto-PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Q15-keto-PGD2</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C026346' target="_blank">C026346</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C034832' target="_blank">mesh:C034832</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">O</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013481' target="_blank">D013481</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8-iso-15</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C027356' target="_blank">C027356</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C080501' target="_blank">mesh:C080501</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">20-carboxy-LTB4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007975' target="_blank">D007975</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">PG</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>TXB2 5-IPF22-VI 8-iso</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010400' target="_blank">D010400</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C438786' target="_blank">mesh:C438786</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">O PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D015232' target="_blank">D015232</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">LTB4 20-hydroxy-LTB4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8-iso-15(R)</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007975' target="_blank">D007975</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C080501' target="_blank">mesh:C080501</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Q6-trans-LTB4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007975' target="_blank">D007975</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">O15-keto-PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>O12-HETE</td>
+            <td>12-Hydroxy-5,8,10,14-eicosatetraenoic Acid</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C026346' target="_blank">C026346</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019377' target="_blank">mesh:D019377</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">6-keto</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007651' target="_blank">D007651</a></td>
+              <td>12-HETE</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:19138' target="_blank">chebi:19138</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">HETEL018-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>11-beta-13,14-dihydro</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006893' target="_blank">D006893</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025395' target="_blank">mesh:C025395</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">O 19-HETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C055986' target="_blank">C055986</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-keto-tetranor-PGE2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>8-iso-PGF226-HETE</td>
+            <td>8-epi-prostaglandin F2alpha</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C054932' target="_blank">C054932</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C075750' target="_blank">mesh:C075750</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">6,15-diketo-13,14</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C033371' target="_blank">C033371</a></td>
+              <td>8-epi-prostaglandin F2alpha</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34505' target="_blank">chebi:34505</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11,12-EETO</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>11-beta-PGF22 TXA2 PGF2A</td>
+            <td>Dinoprost</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C058453' target="_blank">C058453</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D015237' target="_blank">mesh:D015237</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">11,12-DHETO</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C039041' target="_blank">C039041</a></td>
+              <td>prostaglandin F2alpha</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15553' target="_blank">chebi:15553</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">14,15-EET</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>20-hydroxy</td>
+            <td>20-alpha-Dihydroprogesterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C046782' target="_blank">C046782</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004092' target="_blank">mesh:D004092</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">20-carboxy-AAO</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C015732' target="_blank">C015732</a></td>
+              <td>(20S)-20-hydroxypregn-4-en-3-one</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28453' target="_blank">chebi:28453</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Q-ON-acetyl-LTE4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>delta12-PGJ2O</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C047630' target="_blank">C047630</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C040810' target="_blank">mesh:C040810</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">PO 68,9-DHET</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C094207' target="_blank">C094207</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">15-DHETO 5,6-DHET</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>delta-12,14-PGJ2</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C039041' target="_blank">C039041</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C040810' target="_blank">mesh:C040810</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">6-DHET-lactone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C094207' target="_blank">C094207</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">7,17-hydroxy-DPA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>12-KETE 5-KETE</td>
+            <td>12-oxo-ETE</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C502590' target="_blank">C502590</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C054994' target="_blank">mesh:C054994</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">17-HDPA</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C070729' target="_blank">C070729</a></td>
+              <td>12-keto-5,8,11,13-eicosatetraenoic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34151' target="_blank">chebi:34151</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">DPA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>12-keto-LTB4 18-carboxy</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C502590' target="_blank">C502590</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C082648' target="_blank">mesh:C082648</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">5,6-EPETE</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C043832' target="_blank">C043832</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">DHA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>5-HDETE 5-HETE P0odinor-LTB4</td>
+            <td>leukotriene B5</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C111716' target="_blank">C111716</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C040212' target="_blank">mesh:C040212</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">8-iso-PGF3A</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C075750' target="_blank">C075750</a></td>
+              <td>leukotriene B5</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:88493' target="_blank">chebi:88493</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">PGE3</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>13,14-dihydro-15-keto</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C033246' target="_blank">C033246</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025087' target="_blank">mesh:C025087</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>20-hydroxy-PGE2</td>
+            <td>20-hydroxyprostaglandin E2</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C048824' target="_blank">mesh:C048824</a></td>
+            
+            
+              <td>20-hydroxyprostaglandin E2</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:137370' target="_blank">chebi:137370</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>15-keto-PGE2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026346' target="_blank">mesh:C026346</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>O</td>
+            <td>Superoxides</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013481' target="_blank">mesh:D013481</a></td>
+            
+            
+              <td>superoxide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18421' target="_blank">chebi:18421</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>11-HETE</td>
+            <td>11-HETE</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C027356' target="_blank">mesh:C027356</a></td>
+            
+            
+              <td>11-hydroxy-5,8,12,14-eicosatetraenoic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:72606' target="_blank">chebi:72606</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>20-carboxy-LTB4</td>
+            <td>Leukotriene B4</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007975' target="_blank">mesh:D007975</a></td>
+            
+            
+              <td>leukotriene B4</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15647' target="_blank">chebi:15647</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PG</td>
+            <td>Penicillin G</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010400' target="_blank">mesh:D010400</a></td>
+            
+            
+              <td>benzylpenicillin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18208' target="_blank">chebi:18208</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>O PGE2</td>
+            <td>Dinoprostone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D015232' target="_blank">mesh:D015232</a></td>
+            
+            
+              <td>prostaglandin E2</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15551' target="_blank">chebi:15551</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>LTB4 20-hydroxy-LTB4</td>
+            <td>Leukotriene B4</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007975' target="_blank">mesh:D007975</a></td>
+            
+            
+              <td>leukotriene B4</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15647' target="_blank">chebi:15647</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Q6-trans-LTB4</td>
+            <td>Leukotriene B4</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007975' target="_blank">mesh:D007975</a></td>
+            
+            
+              <td>leukotriene B4</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15647' target="_blank">chebi:15647</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>O15-keto-PGE2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026346' target="_blank">mesh:C026346</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>6-keto</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007651' target="_blank">mesh:D007651</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>HETEL018-HETE</td>
+            <td>Hydroxyeicosatetraenoic Acids</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006893' target="_blank">mesh:D006893</a></td>
+            
+            
+              <td>HETE</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:36275' target="_blank">chebi:36275</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>O 19-HETE</td>
+            <td>19-HETE</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C055986' target="_blank">mesh:C055986</a></td>
+            
+            
+              <td>19-hydroxy-5,8,11,14-eicosatetraenoic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:63998' target="_blank">chebi:63998</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>15-keto-tetranor-PGE2</td>
+            <td>Tetranor-PGE1</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C054932' target="_blank">mesh:C054932</a></td>
+            
+            
+              <td>tetranorprostaglandin E1</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:165344' target="_blank">chebi:165344</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>6,15-diketo-13,14</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C033371' target="_blank">mesh:C033371</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>11,12-EETO</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C058453' target="_blank">mesh:C058453</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>11,12-DHETO</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C039041' target="_blank">mesh:C039041</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>14,15-EET</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C046782' target="_blank">mesh:C046782</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>20-carboxy-AAO</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C015732' target="_blank">mesh:C015732</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Q-ON-acetyl-LTE4</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047630' target="_blank">mesh:C047630</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PO 68,9-DHET</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C094207' target="_blank">mesh:C094207</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>15-DHETO 5,6-DHET</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C039041' target="_blank">mesh:C039041</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>6-DHET-lactone</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C094207' target="_blank">mesh:C094207</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>7,17-hydroxy-DPA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C502590' target="_blank">mesh:C502590</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>17-HDPA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C070729' target="_blank">mesh:C070729</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>DPA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C502590' target="_blank">mesh:C502590</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>5,6-EPETE</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C043832' target="_blank">mesh:C043832</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>DHA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C111716' target="_blank">mesh:C111716</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>8-iso-PGF3A</td>
+            <td>8-epi-prostaglandin F2alpha</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C075750' target="_blank">mesh:C075750</a></td>
+            
+            
+              <td>8-epi-prostaglandin F2alpha</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34505' target="_blank">chebi:34505</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PGE3</td>
+            <td>prostaglandin E3</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C033246' target="_blank">mesh:C033246</a></td>
+            
+            
+              <td>prostaglandin E3</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28031' target="_blank">chebi:28031</a></td>
             
           </tr>
           
@@ -1807,8 +2195,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

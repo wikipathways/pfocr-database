@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8700840/bin/foods-10-02962-g004.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -749,21 +749,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8700840__foods-10-02962-g004-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8700840__foods-10-02962-g004-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC8700840__foods-10-02962-g004.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -772,10 +786,614 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>D-Galactose</td>
+            <td>Galactose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005690' target="_blank">mesh:D005690</a></td>
+            
+            
+              <td>galactose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28260' target="_blank">chebi:28260</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Lactose</td>
+            <td>Lactose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007785' target="_blank">mesh:D007785</a></td>
+            
+            
+              <td>alpha-lactose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:36219' target="_blank">chebi:36219</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Diacetyl</td>
+            <td>Diacetyl</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003931' target="_blank">mesh:D003931</a></td>
+            
+            
+              <td>butane-2,3-dione</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16583' target="_blank">chebi:16583</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Lactose</td>
+            <td>Lactose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007785' target="_blank">mesh:D007785</a></td>
+            
+            
+              <td>alpha-lactose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:36219' target="_blank">chebi:36219</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>D-Glucose</td>
+            <td>Glucose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005947' target="_blank">mesh:D005947</a></td>
+            
+            
+              <td>D-glucopyranose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4167' target="_blank">chebi:4167</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucose</td>
+            <td>Glucose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005947' target="_blank">mesh:D005947</a></td>
+            
+            
+              <td>D-glucopyranose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4167' target="_blank">chebi:4167</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Pyruvate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011773' target="_blank">mesh:D011773</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>(S)-2-Acetolactate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006359' target="_blank">mesh:C006359</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetoin</td>
+            <td>Acetoin</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000093' target="_blank">mesh:D000093</a></td>
+            
+            
+              <td>acetoin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15688' target="_blank">chebi:15688</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2,3-Butanediol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026978' target="_blank">mesh:C026978</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Malonyl</td>
+            <td>Malonyl Coenzyme A</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008316' target="_blank">mesh:D008316</a></td>
+            
+            
+              <td>malonyl-CoA</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15531' target="_blank">chebi:15531</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetaldehyde</td>
+            <td>Acetaldehyde</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000079' target="_blank">mesh:D000079</a></td>
+            
+            
+              <td>acetaldehyde</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15343' target="_blank">chebi:15343</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>N-1</td>
+            <td>Nitrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009584' target="_blank">mesh:D009584</a></td>
+            
+            
+              <td>dinitrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17997' target="_blank">chebi:17997</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP082323-CP082325</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4027' target="_blank">chebi:4027</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP082323-CP082325</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide hydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4026' target="_blank">chebi:4026</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CH</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C103208' target="_blank">mesh:C103208</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP023728</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4027' target="_blank">chebi:4027</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP023728</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide hydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4026' target="_blank">chebi:4026</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP043518-CP043528</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4027' target="_blank">chebi:4027</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP043518-CP043528</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide hydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4026' target="_blank">chebi:4026</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>NCTC12958</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>LS483339</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C538946' target="_blank">mesh:C538946</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Leuconostoc mesenteroides DSM20484</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C499881' target="_blank">mesh:C499881</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP012009-CP012010</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4027' target="_blank">chebi:4027</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP012009-CP012010</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide hydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4026' target="_blank">chebi:4026</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetyl-CoA</td>
+            <td>Acetyl Coenzyme A</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000105' target="_blank">mesh:D000105</a></td>
+            
+            
+              <td>acetyl-CoA</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15351' target="_blank">chebi:15351</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP041944</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4027' target="_blank">chebi:4027</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CP041944</td>
+            <td>Cyclophosphamide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003520' target="_blank">mesh:D003520</a></td>
+            
+            
+              <td>cyclophosphamide hydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4026' target="_blank">chebi:4026</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>MTCC25067</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C055172' target="_blank">mesh:C055172</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>AP017973-AP017974</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetyl-P Acetyladenylate</td>
+            <td>5'-acetylphosphoadenosine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C017987' target="_blank">mesh:C017987</a></td>
+            
+            
+              <td>acetyl adenylate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:37666' target="_blank">chebi:37666</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetate</td>
+            <td>Acetates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000085' target="_blank">mesh:D000085</a></td>
+            
+            
+              <td>acetate ester</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:47622' target="_blank">chebi:47622</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3-Hydroxy</td>
+            <td>hydroxy monocarboxylic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006880' target="_blank">mesh:D006880</a></td>
+            
+            
+              <td>Hydroxy Acids</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35868' target="_blank">chebi:35868</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>propionyl-CoA</td>
+            <td>propionyl-CoA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C009061' target="_blank">mesh:C009061</a></td>
+            
+            
+              <td>propionyl-coenzyme A</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15539' target="_blank">chebi:15539</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Isocitrate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007523' target="_blank">mesh:D007523</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Citrate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C102006' target="_blank">mesh:C102006</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acryloyl</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026200' target="_blank">mesh:C026200</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oxaloacetate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010071' target="_blank">mesh:D010071</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Propanoyl</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C417902' target="_blank">mesh:C417902</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>TCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C000589078' target="_blank">mesh:C000589078</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2-Oxoglutarate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C029743' target="_blank">mesh:C029743</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Succinyl</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C035687' target="_blank">mesh:C035687</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Succinate</td>
+            <td>Succinates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013386' target="_blank">mesh:D013386</a></td>
+            
+            
+              <td>succinate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26806' target="_blank">chebi:26806</a></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -817,10 +1435,40 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
+            
+            <tr>
+              <td>Glucose-6P</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:C537811' target="_blank">mesh:C537811</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>CP012009-CP012010</td>
+              <td>NA</td>
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
             
           </tbody>
         </table>

@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7707100/bin/BPH-177-5467-g002.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -325,21 +325,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7707100__BPH-177-5467-g002-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7707100__BPH-177-5467-g002-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC7707100__BPH-177-5467-g002.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -348,56 +362,94 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">L-arginine</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>L-arginine</td>
+            <td>NA</td>
             
-              <td title="Identifier"></td>
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">L-citrulline</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>L-citrulline</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C071162' target="_blank">C071162</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C071162' target="_blank">mesh:C071162</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">CGMP</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C016276' target="_blank">C016276</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">GMP</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>CGMP</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C068152' target="_blank">C068152</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C016276' target="_blank">mesh:C016276</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">NO-CGMP</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C016276' target="_blank">C016276</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">nitrates</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>GMP</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D009566' target="_blank">D009566</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C068152' target="_blank">mesh:C068152</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>NO-CGMP</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C016276' target="_blank">mesh:C016276</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>nitrates</td>
+            <td>Nitrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009566' target="_blank">mesh:D009566</a></td>
+            
+            
+              <td>nitrates</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:51081' target="_blank">chebi:51081</a></td>
             
           </tr>
           
@@ -441,104 +493,178 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             
             <tr>
-              <td title="Word in figure as detected by OCR">SIGNALLING IN</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>SIGNALLING IN</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C566796' target="_blank">C566796</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:C566796' target="_blank">mesh:C566796</a></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">Chronic kidney disease</td>
-              <td title="Database maintaining identifiers">MESH</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D051436' target="_blank">D051436</a></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Diabetic nephropathy</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>Chronic kidney disease</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003928' target="_blank">D003928</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D051436' target="_blank">mesh:D051436</a></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">hypertension</td>
-              <td title="Database maintaining identifiers">MESH</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006973' target="_blank">D006973</a></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Myocardial ischaemia</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>Diabetic nephropathy</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003324' target="_blank">D003324</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003928' target="_blank">mesh:D003928</a></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">Diabetic cardiomyopathy</td>
-              <td title="Database maintaining identifiers">MESH</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D058065' target="_blank">D058065</a></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Heart failure</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>hypertension</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006333' target="_blank">D006333</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006973' target="_blank">mesh:D006973</a></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">Erectile dysfunction</td>
-              <td title="Database maintaining identifiers">MESH</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007172' target="_blank">D007172</a></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Benign prostatic hyperplasia  Hyperglycaemia</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>Myocardial ischaemia</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011470' target="_blank">D011470</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003324' target="_blank">mesh:D003324</a></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">Hypotensive</td>
-              <td title="Database maintaining identifiers">MESH</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007022' target="_blank">D007022</a></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Nonarteritic anterior ischaemic optic neuropathy</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>Diabetic cardiomyopathy</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D018917' target="_blank">D018917</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D058065' target="_blank">mesh:D058065</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">pulmonary hypertension</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>Heart failure</td>
+              <td>Heart Failure</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006976' target="_blank">D006976</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006333' target="_blank">mesh:D006333</a></td>
+              
+              
+                <td>congestive heart failure</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:6000' target="_blank">doid:6000</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Erectile dysfunction</td>
+              <td>Erectile Dysfunction</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007172' target="_blank">mesh:D007172</a></td>
+              
+              
+                <td>impotence</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:1875' target="_blank">doid:1875</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Benign prostatic hyperplasia  Hyperglycaemia</td>
+              <td>Prostatic Hyperplasia</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011470' target="_blank">mesh:D011470</a></td>
+              
+              
+                <td>prostatic hypertrophy</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:11132' target="_blank">doid:11132</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Hypotensive</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007022' target="_blank">mesh:D007022</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Nonarteritic anterior ischaemic optic neuropathy</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D018917' target="_blank">mesh:D018917</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>pulmonary hypertension</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006976' target="_blank">mesh:D006976</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             

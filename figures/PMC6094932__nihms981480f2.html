@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094932/bin/nihms981480f2.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -343,21 +343,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6094932__nihms981480f2-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6094932__nihms981480f2-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6094932__nihms981480f2.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -366,160 +380,276 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Cbz-O-succinimide</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Cbz-O-succinimide</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C032620' target="_blank">C032620</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C032620' target="_blank">mesh:C032620</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">NaHCO3</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>NaHCO3</td>
+            <td>Sodium Bicarbonate</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D017693' target="_blank">D017693</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D017693' target="_blank">mesh:D017693</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">dioxane</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004146' target="_blank">D004146</a></td>
+              <td>sodium hydrogencarbonate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:32139' target="_blank">chebi:32139</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">OMe</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>dioxane</td>
+            <td>Dioxanes</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C091723' target="_blank">C091723</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004146' target="_blank">mesh:D004146</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Vancomycin</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014640' target="_blank">D014640</a></td>
+              <td>dioxanes</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:46926' target="_blank">chebi:46926</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">MeON</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>OMe</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C526611' target="_blank">C526611</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C091723' target="_blank">mesh:C091723</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">NABH4</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C059662' target="_blank">C059662</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">OMe MeOH-CH2Cl2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Vancomycin</td>
+            <td>Vancomycin</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C522640' target="_blank">C522640</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014640' target="_blank">mesh:D014640</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">THF</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006461' target="_blank">C006461</a></td>
+              <td>vancomycin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28001' target="_blank">chebi:28001</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">imidazole</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>MeON</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C029899' target="_blank">C029899</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C526611' target="_blank">mesh:C526611</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">DMF</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C503868' target="_blank">C503868</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">O NHCBZ</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>NABH4</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013481' target="_blank">D013481</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C059662' target="_blank">mesh:C059662</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Pd</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010165' target="_blank">D010165</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">H2</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>OMe MeOH-CH2Cl2</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006859' target="_blank">D006859</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C522640' target="_blank">mesh:C522640</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">toluene</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014050' target="_blank">D014050</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">H2O:toluene:MeOH</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>THF</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014050' target="_blank">D014050</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006461' target="_blank">mesh:C006461</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">BnO</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C479860' target="_blank">C479860</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">BnBr</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>imidazole</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C068746' target="_blank">C068746</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C029899' target="_blank">mesh:C029899</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">NaH</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>DMF</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012964' target="_blank">D012964</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C503868' target="_blank">mesh:C503868</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>O NHCBZ</td>
+            <td>Superoxides</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013481' target="_blank">mesh:D013481</a></td>
+            
+            
+              <td>superoxide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18421' target="_blank">chebi:18421</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Pd</td>
+            <td>Palladium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010165' target="_blank">mesh:D010165</a></td>
+            
+            
+              <td>palladium</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:33363' target="_blank">chebi:33363</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>H2</td>
+            <td>Hydrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006859' target="_blank">mesh:D006859</a></td>
+            
+            
+              <td>dihydrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18276' target="_blank">chebi:18276</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>toluene</td>
+            <td>Toluene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014050' target="_blank">mesh:D014050</a></td>
+            
+            
+              <td>toluene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17578' target="_blank">chebi:17578</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>H2O:toluene:MeOH</td>
+            <td>Toluene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014050' target="_blank">mesh:D014050</a></td>
+            
+            
+              <td>toluene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17578' target="_blank">chebi:17578</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>BnO</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C479860' target="_blank">mesh:C479860</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>BnBr</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C068746' target="_blank">mesh:C068746</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>NaH</td>
+            <td>Sodium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012964' target="_blank">mesh:D012964</a></td>
+            
+            
+              <td>sodium-23 atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:52634' target="_blank">chebi:52634</a></td>
             
           </tr>
           
@@ -563,8 +693,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

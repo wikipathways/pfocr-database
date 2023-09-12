@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6090282/bin/fphar-09-00873-g013.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -1214,21 +1214,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6090282__fphar-09-00873-g013-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6090282__fphar-09-00873-g013-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6090282__fphar-09-00873-g013.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -1237,72 +1251,122 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Na</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Na</td>
+            <td>Sodium</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012964' target="_blank">D012964</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012964' target="_blank">mesh:D012964</a></td>
+            
+            
+              <td>sodium-23 atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:52634' target="_blank">chebi:52634</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">TMZ</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>TMZ</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C047246' target="_blank">C047246</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047246' target="_blank">mesh:C047246</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Ca</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002118' target="_blank">D002118</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">K</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Ca</td>
+            <td>Calcium</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011188' target="_blank">D011188</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002118' target="_blank">mesh:D002118</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Nifedipine</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D009543' target="_blank">D009543</a></td>
+              <td>calcium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22984' target="_blank">chebi:22984</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Canrenone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>K</td>
+            <td>Potassium</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002192' target="_blank">D002192</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011188' target="_blank">mesh:D011188</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Ca2</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002118' target="_blank">D002118</a></td>
+              <td>potassium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26216' target="_blank">chebi:26216</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Ryanodine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Nifedipine</td>
+            <td>Nifedipine</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012433' target="_blank">D012433</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009543' target="_blank">mesh:D009543</a></td>
+            
+            
+              <td>nifedipine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:7565' target="_blank">chebi:7565</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Canrenone</td>
+            <td>Canrenone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002192' target="_blank">mesh:D002192</a></td>
+            
+            
+              <td>canrenone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:135445' target="_blank">chebi:135445</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ca2</td>
+            <td>Calcium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002118' target="_blank">mesh:D002118</a></td>
+            
+            
+              <td>calcium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22984' target="_blank">chebi:22984</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ryanodine</td>
+            <td>Ryanodine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012433' target="_blank">mesh:D012433</a></td>
+            
+            
+              <td>ryanodine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:8925' target="_blank">chebi:8925</a></td>
             
           </tr>
           
@@ -1346,40 +1410,66 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Cancer</td>
-              <td title="Database maintaining identifiers"></td>
+              <td>Cancer</td>
+              <td>NA</td>
               
-                <td title="Identifier"></td>
+                <td></td>
               
-            </tr>
-            
-            <tr>
-              <td title="Word in figure as detected by OCR">Cardiomyopathy</td>
-              <td title="Database maintaining identifiers"></td>
               
-                <td title="Identifier"></td>
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Lung cancer</td>
-              <td title="Database maintaining identifiers"></td>
+              <td>Cardiomyopathy</td>
+              <td>NA</td>
               
-                <td title="Identifier"></td>
+                <td></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             
             <tr>
-              <td title="Word in figure as detected by OCR">Noonan syndrome</td>
-              <td title="Database maintaining identifiers"></td>
+              <td>Lung cancer</td>
+              <td>NA</td>
               
-                <td title="Identifier"></td>
+                <td></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Noonan syndrome</td>
+              <td>NA</td>
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             

@@ -109,10 +109,10 @@ publications and grant applications.</p>
 
 <p>Read in files</p>
 
-<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">figs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_figures_kept.rds"</span><span class="p">))</span><span class="w">
-</span><span class="n">genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_genes_kept.rds"</span><span class="p">))</span><span class="w">
-</span><span class="n">chems</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_chemicals_kept.rds"</span><span class="p">))</span><span class="w">
-</span><span class="n">dis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_diseases_kept.rds"</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">figs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_figures.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_genes.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">chems</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_chemicals.rds"</span><span class="p">))</span><span class="w">
+</span><span class="n">dis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">readRDS</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">local.path</span><span class="p">,</span><span class="s2">"pfocr_diseases.rds"</span><span class="p">))</span><span class="w">
 </span></code></pre></div></div>
 
 <h2 id="contents-and-counts">Contents and counts</h2>
@@ -130,10 +130,14 @@ publications and grant applications.</p>
 </span><span class="n">ncbigenes_hs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">genes</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
     </span><span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="n">organism_id</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">9606</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
     </span><span class="n">distinct</span><span class="p">(</span><span class="n">ncbigene_id</span><span class="p">)</span><span class="w">
-</span><span class="n">chemicals</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">chems</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
-    </span><span class="n">distinct</span><span class="p">(</span><span class="n">identifier</span><span class="p">)</span><span class="w">
-</span><span class="n">diseases</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dis</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
-    </span><span class="n">distinct</span><span class="p">(</span><span class="n">identifier</span><span class="p">)</span><span class="w">
+</span><span class="n">chemicals_mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">chems</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">mesh</span><span class="p">)</span><span class="w">
+</span><span class="n">chemicals_chebi</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">chems</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">chebi</span><span class="p">)</span><span class="w">
+</span><span class="n">diseases_mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dis</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">mesh</span><span class="p">)</span><span class="w">
+</span><span class="n">diseases_doid</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dis</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+    </span><span class="n">distinct</span><span class="p">(</span><span class="n">doid</span><span class="p">)</span><span class="w">
 </span><span class="n">fig.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">figs</span><span class="p">)</span><span class="w">
 </span><span class="n">paper.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">papers</span><span class="p">)</span><span class="w">
 </span><span class="n">fig.hs.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">figures_hs</span><span class="p">)</span><span class="w">
@@ -142,16 +146,18 @@ publications and grant applications.</p>
 </span><span class="n">gene.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes</span><span class="p">)</span><span class="w">
 </span><span class="n">gene.hs.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes_hs</span><span class="p">)</span><span class="w">
 </span><span class="n">chem.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chems</span><span class="p">)</span><span class="w">
-</span><span class="n">chem.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_mesh</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.unique.chebi</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_chebi</span><span class="p">)</span><span class="w">
 </span><span class="n">di.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">dis</span><span class="p">)</span><span class="w">
-</span><span class="n">di.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases</span><span class="p">)</span><span class="w">
+</span><span class="n">di.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_mesh</span><span class="p">)</span><span class="w">
+</span><span class="n">di.unique.doid</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_doid</span><span class="p">)</span><span class="w">
 
-</span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Total</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.total</span><span class="p">,</span><span class="n">chem.total</span><span class="p">,</span><span class="n">di.total</span><span class="p">),</span><span class="w"> </span><span class="n">Unique</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique</span><span class="p">))</span><span class="w">
+</span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Total</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.total</span><span class="p">,</span><span class="n">chem.total</span><span class="p">,</span><span class="n">di.total</span><span class="p">),</span><span class="w"> </span><span class="n">Unique</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique.mesh</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique.mesh</span><span class="p">),</span><span class="w"> </span><span class="n">Specific</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.hs.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique.chebi</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique.doid</span><span class="p">))</span><span class="w">
 </span><span class="n">row.names</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Genes"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Chemicals"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Diseases"</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
 
-<p>The Pathway Figure OCR project has identified 91117 pathway figures from
-78173 published papers.</p>
+<p>The Pathway Figure OCR project has identified 103009 pathway figures
+from 87705 published papers.</p>
 
 <table>
   <thead>
@@ -159,23 +165,27 @@ publications and grant applications.</p>
       <th style="text-align: left"> </th>
       <th style="text-align: right">Total</th>
       <th style="text-align: right">Unique</th>
+      <th style="text-align: right">Specific</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: left">Genes</td>
-      <td style="text-align: right">4,419,511</td>
-      <td style="text-align: right">146,566</td>
+      <td style="text-align: right">4,426,921</td>
+      <td style="text-align: right">146,866</td>
+      <td style="text-align: right">18,383</td>
     </tr>
     <tr>
       <td style="text-align: left">Chemicals</td>
-      <td style="text-align: right">213,767</td>
-      <td style="text-align: right">10,944</td>
+      <td style="text-align: right">335,939</td>
+      <td style="text-align: right">13,979</td>
+      <td style="text-align: right">4,085</td>
     </tr>
     <tr>
       <td style="text-align: left">Diseases</td>
-      <td style="text-align: right">27,815</td>
-      <td style="text-align: right">1,162</td>
+      <td style="text-align: right">44,434</td>
+      <td style="text-align: right">1,602</td>
+      <td style="text-align: right">201</td>
     </tr>
   </tbody>
 </table>

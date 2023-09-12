@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548342/bin/41598_2021_26_Fig5_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -915,21 +915,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8548342__41598_2021_26_Fig5_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8548342__41598_2021_26_Fig5_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC8548342__41598_2021_26_Fig5_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -938,10 +952,418 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>Nitrogen</td>
+            <td>Nitrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009584' target="_blank">mesh:D009584</a></td>
+            
+            
+              <td>dinitrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17997' target="_blank">chebi:17997</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucose</td>
+            <td>Glucose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005947' target="_blank">mesh:D005947</a></td>
+            
+            
+              <td>D-glucopyranose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4167' target="_blank">chebi:4167</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sulfate</td>
+            <td>Sulfates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013431' target="_blank">mesh:D013431</a></td>
+            
+            
+              <td>inorganic sulfate salt</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24840' target="_blank">chebi:24840</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ATP</td>
+            <td>Adenosine Triphosphate</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000255' target="_blank">mesh:D000255</a></td>
+            
+            
+              <td>ATP</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15422' target="_blank">chebi:15422</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ethanol</td>
+            <td>Ethanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000431' target="_blank">mesh:D000431</a></td>
+            
+            
+              <td>ethanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16236' target="_blank">chebi:16236</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ADP</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000244' target="_blank">mesh:D000244</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Pyruvate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011773' target="_blank">mesh:D011773</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sulfite</td>
+            <td>Sulfites</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013447' target="_blank">mesh:D013447</a></td>
+            
+            
+              <td>sulfites</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26823' target="_blank">chebi:26823</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nitrate</td>
+            <td>Nitrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009566' target="_blank">mesh:D009566</a></td>
+            
+            
+              <td>nitrates</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:51081' target="_blank">chebi:51081</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>glycine</td>
+            <td>Glycine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005998' target="_blank">mesh:D005998</a></td>
+            
+            
+              <td>glycine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15428' target="_blank">chebi:15428</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>proline</td>
+            <td>Ile-Pro-Pro</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C489032' target="_blank">mesh:C489032</a></td>
+            
+            
+              <td>isoleucyl-prolyl-proline</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:158716' target="_blank">chebi:158716</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>carbon</td>
+            <td>Carbon</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002244' target="_blank">mesh:D002244</a></td>
+            
+            
+              <td>carbon atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:27594' target="_blank">chebi:27594</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydrogen</td>
+            <td>Hydrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006859' target="_blank">mesh:D006859</a></td>
+            
+            
+              <td>dihydrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18276' target="_blank">chebi:18276</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>sulfide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013440' target="_blank">mesh:D013440</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Acetyl Col</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C057112' target="_blank">mesh:C057112</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Lactic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019344' target="_blank">mesh:D019344</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nitrite</td>
+            <td>Nitrites</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009573' target="_blank">mesh:D009573</a></td>
+            
+            
+              <td>nitrites</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:25549' target="_blank">chebi:25549</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycine</td>
+            <td>Glycine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005998' target="_blank">mesh:D005998</a></td>
+            
+            
+              <td>glycine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15428' target="_blank">chebi:15428</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>proline</td>
+            <td>Ile-Pro-Pro</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C489032' target="_blank">mesh:C489032</a></td>
+            
+            
+              <td>isoleucyl-prolyl-proline</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:158716' target="_blank">chebi:158716</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nitrate</td>
+            <td>Nitrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009566' target="_blank">mesh:D009566</a></td>
+            
+            
+              <td>nitrates</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:51081' target="_blank">chebi:51081</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nitrogen</td>
+            <td>Nitrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009584' target="_blank">mesh:D009584</a></td>
+            
+            
+              <td>dinitrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17997' target="_blank">chebi:17997</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>dioxide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C414667' target="_blank">mesh:C414667</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sorbitol</td>
+            <td>Sorbitol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013012' target="_blank">mesh:D013012</a></td>
+            
+            
+              <td>glucitol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:30911' target="_blank">chebi:30911</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>TCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C000589078' target="_blank">mesh:C000589078</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nitric</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D017942' target="_blank">mesh:D017942</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>oxide</td>
+            <td>oxide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010087' target="_blank">mesh:D010087</a></td>
+            
+            
+              <td>Oxides</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:25741' target="_blank">chebi:25741</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glutathione</td>
+            <td>Glutathione</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005978' target="_blank">mesh:D005978</a></td>
+            
+            
+              <td>glutathione</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16856' target="_blank">chebi:16856</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>NADHNADH</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dinitrogen</td>
+            <td>nitrooxidanyl</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031701' target="_blank">mesh:C031701</a></td>
+            
+            
+              <td>nitrogen trioxide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:29329' target="_blank">chebi:29329</a></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -983,10 +1405,26 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
+            
+            <tr>
+              <td>GS</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011125' target="_blank">mesh:D011125</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
             
           </tbody>
         </table>

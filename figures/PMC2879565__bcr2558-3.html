@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879565/bin/bcr2558-3.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -554,21 +554,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC2879565__bcr2558-3-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC2879565__bcr2558-3-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC2879565__bcr2558-3.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -577,64 +591,108 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Perifosine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Perifosine</td>
+            <td>perifosine</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C105905' target="_blank">C105905</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C105905' target="_blank">mesh:C105905</a></td>
+            
+            
+              <td>perifosine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:67272' target="_blank">chebi:67272</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Canertinib</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Canertinib</td>
+            <td>canertinib</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C420268' target="_blank">C420268</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C420268' target="_blank">mesh:C420268</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Vandetanib</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C452423' target="_blank">C452423</a></td>
+              <td>Canertinib</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:61399' target="_blank">chebi:61399</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Pazopanib</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Vandetanib</td>
+            <td>vandetanib</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C516667' target="_blank">C516667</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C452423' target="_blank">mesh:C452423</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">BEZ235</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C531198' target="_blank">C531198</a></td>
+              <td>N-(4-bromo-2-fluorophenyl)-6-methoxy-7-((1-methylpiperidin-4-yl)methoxy)quinazolin-4-amine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:49960' target="_blank">chebi:49960</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">AZD8055</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Pazopanib</td>
+            <td>pazopanib</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C546624' target="_blank">C546624</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C516667' target="_blank">mesh:C516667</a></td>
+            
+            
+              <td>pazopanib</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:71219' target="_blank">chebi:71219</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Rapamycin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>BEZ235</td>
+            <td>dactolisib</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D020123' target="_blank">D020123</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C531198' target="_blank">mesh:C531198</a></td>
+            
+            
+              <td>dactolisib</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:71952' target="_blank">chebi:71952</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>AZD8055</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C546624' target="_blank">mesh:C546624</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Rapamycin</td>
+            <td>Sirolimus</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D020123' target="_blank">mesh:D020123</a></td>
+            
+            
+              <td>sirolimus</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:9168' target="_blank">chebi:9168</a></td>
             
           </tr>
           
@@ -678,8 +736,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229120/bin/gmb-34-1-640-gfig1.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -259,21 +259,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3229120__gmb-34-1-640-gfig1-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3229120__gmb-34-1-640-gfig1-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC3229120__gmb-34-1-640-gfig1.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -282,120 +296,206 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">(15,25)-norpseudoephedrine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>(15,25)-norpseudoephedrine</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C005331' target="_blank">C005331</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C005331' target="_blank">mesh:C005331</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">cathine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>cathine</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C005331' target="_blank">C005331</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C005331' target="_blank">mesh:C005331</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">trans-cinnamoyl-CoA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C022903' target="_blank">C022903</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">cathinone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>trans-cinnamoyl-CoA</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C023665' target="_blank">C023665</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C022903' target="_blank">mesh:C022903</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">3-hydroxy-3-phenylpropionic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C031579' target="_blank">C031579</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">benzoyl-CoA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>cathinone</td>
+            <td>2-aminopropiophenone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C037817' target="_blank">C037817</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C023665' target="_blank">mesh:C023665</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">3-oxo-3-phenylpropionyl-CoA</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C078024' target="_blank">C078024</a></td>
+              <td>cathinone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:59332' target="_blank">chebi:59332</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">3-hydroxy-3-phenylpropionyl-CoA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-hydroxy-3-phenylpropionic acid</td>
+            <td>3-hydroxy-3-phenylpropionic acid</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C086434' target="_blank">C086434</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031579' target="_blank">mesh:C031579</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">aldol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C116609' target="_blank">C116609</a></td>
+              <td>beta-hydroxyphenylpropionic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:19929' target="_blank">chebi:19929</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">benzaldehyde</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>benzoyl-CoA</td>
+            <td>benzoyl-CoA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001547' target="_blank">D001547</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C037817' target="_blank">mesh:C037817</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">L-phenylalanine</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010649' target="_blank">D010649</a></td>
+              <td>benzoyl-coenzyme A</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15515' target="_blank">chebi:15515</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">norephedrine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-oxo-3-phenylpropionyl-CoA</td>
+            <td>3-phenylpropanoyl-CoA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010665' target="_blank">D010665</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C078024' target="_blank">mesh:C078024</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">pyruvate</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011773' target="_blank">D011773</a></td>
+              <td>phenylpropionyl-coenzyme A</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:85675' target="_blank">chebi:85675</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">benzoic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3-hydroxy-3-phenylpropionyl-CoA</td>
+            <td>3-hydroxy-3-phenylpropionyl-CoA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D019817' target="_blank">D019817</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C086434' target="_blank">mesh:C086434</a></td>
+            
+            
+              <td>3-hydroxy-3-phenylpropionyl-coenzyme A</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:71290' target="_blank">chebi:71290</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>aldol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C116609' target="_blank">mesh:C116609</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>benzaldehyde</td>
+            <td>Benzaldehydes</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001547' target="_blank">mesh:D001547</a></td>
+            
+            
+              <td>benzaldehydes</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22698' target="_blank">chebi:22698</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>L-phenylalanine</td>
+            <td>Phenylalanine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010649' target="_blank">mesh:D010649</a></td>
+            
+            
+              <td>phenylalanine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28044' target="_blank">chebi:28044</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>norephedrine</td>
+            <td>Phenylpropanolamine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010665' target="_blank">mesh:D010665</a></td>
+            
+            
+              <td>phenylpropanolamine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:8104' target="_blank">chebi:8104</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>pyruvate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011773' target="_blank">mesh:D011773</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>benzoic acid</td>
+            <td>benzoic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019817' target="_blank">mesh:D019817</a></td>
+            
+            
+              <td>Benzoic Acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:30746' target="_blank">chebi:30746</a></td>
             
           </tr>
           
@@ -439,8 +539,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

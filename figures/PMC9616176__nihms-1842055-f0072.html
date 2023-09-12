@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9616176/bin/nihms-1842055-f0072.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -351,21 +351,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9616176__nihms-1842055-f0072-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9616176__nihms-1842055-f0072-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC9616176__nihms-1842055-f0072.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -374,10 +388,194 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>benzo[b]furans</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C105430' target="_blank">mesh:C105430</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PdCl2(CH3CN)2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C496336' target="_blank">mesh:C496336</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Pd</td>
+            <td>Palladium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010165' target="_blank">mesh:D010165</a></td>
+            
+            
+              <td>palladium</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:33363' target="_blank">chebi:33363</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Li-O</td>
+            <td>Lithium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008094' target="_blank">mesh:D008094</a></td>
+            
+            
+              <td>lithium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:30145' target="_blank">chebi:30145</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Li</td>
+            <td>Lithium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008094' target="_blank">mesh:D008094</a></td>
+            
+            
+              <td>lithium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:30145' target="_blank">chebi:30145</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PhMe  B</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C470110' target="_blank">mesh:C470110</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>indoles</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C030374' target="_blank">mesh:C030374</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PdCl2(CH3CN)2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C496336' target="_blank">mesh:C496336</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>H2O</td>
+            <td>Water</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014867' target="_blank">mesh:D014867</a></td>
+            
+            
+              <td>water</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15377' target="_blank">chebi:15377</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ArB(OH)2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001128' target="_blank">mesh:D001128</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PhMe </td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C470110' target="_blank">mesh:C470110</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>H2O</td>
+            <td>Water</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014867' target="_blank">mesh:D014867</a></td>
+            
+            
+              <td>water</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15377' target="_blank">chebi:15377</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ArB(OH)2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001128' target="_blank">mesh:D001128</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -419,8 +617,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

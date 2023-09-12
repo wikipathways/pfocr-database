@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996089/bin/nihms-1068355-f0001.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -1167,21 +1167,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6996089__nihms-1068355-f0001-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6996089__nihms-1068355-f0001-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6996089__nihms-1068355-f0001.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -1190,280 +1204,486 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Cholesterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Cholesterol</td>
+            <td>Cholesterol</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002784' target="_blank">D002784</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002784' target="_blank">mesh:D002784</a></td>
+            
+            
+              <td>cholesterol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16113' target="_blank">chebi:16113</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Sterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Sterol</td>
+            <td>Sterols</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013261' target="_blank">D013261</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013261' target="_blank">mesh:D013261</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">bile acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001647' target="_blank">D001647</a></td>
+              <td>sterol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15889' target="_blank">chebi:15889</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">hydroxycholesterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>bile acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006888' target="_blank">D006888</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001647' target="_blank">mesh:D001647</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">3B-hydroxy-5-cholestenoic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C029435' target="_blank">C029435</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">24-dihydroxycholesterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>hydroxycholesterol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C057657' target="_blank">C057657</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006888' target="_blank">mesh:D006888</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">hydroxy A5-Cz steroid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013256' target="_blank">D013256</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Oxysterol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>3B-hydroxy-5-cholestenoic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C083714' target="_blank">C083714</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C029435' target="_blank">mesh:C029435</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">7a-dihydroxy-5-cholestenoic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C063075' target="_blank">C063075</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">7a-hydroxy-4-cholesten-3-one</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>24-dihydroxycholesterol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C002656' target="_blank">C002656</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C057657' target="_blank">mesh:C057657</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">12a-trihydroxycholestanoic  acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C057499' target="_blank">C057499</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">THCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>hydroxy A5-Cz steroid</td>
+            <td>Steroids</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C003681' target="_blank">C003681</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013256' target="_blank">mesh:D013256</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">dihydroxycholestanoic  acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000596' target="_blank">D000596</a></td>
+              <td>steroid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35341' target="_blank">chebi:35341</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">DHCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Oxysterol</td>
+            <td>Arthrofactin</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C054757' target="_blank">C054757</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C083714' target="_blank">mesh:C083714</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Cholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002793' target="_blank">D002793</a></td>
+              <td>arthrofactin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:80022' target="_blank">chebi:80022</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Chenodeoxycholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>7a-dihydroxy-5-cholestenoic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002635' target="_blank">D002635</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C063075' target="_blank">mesh:C063075</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">muricholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C004821' target="_blank">C004821</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Bile acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>7a-hydroxy-4-cholesten-3-one</td>
+            <td>7alpha-hydroxycholest-4-en-3-one</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001647' target="_blank">D001647</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002656' target="_blank">mesh:C002656</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">CoA</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C065987' target="_blank">C065987</a></td>
+              <td>7 alpha-hydroxy-4-cholesten-3-one</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17899' target="_blank">chebi:17899</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">amino acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>12a-trihydroxycholestanoic  acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000596' target="_blank">D000596</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C057499' target="_blank">mesh:C057499</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">N</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D009584' target="_blank">D009584</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">CDCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>THCA</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C081330' target="_blank">C081330</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C003681' target="_blank">mesh:C003681</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Glycine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D005998' target="_blank">D005998</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">taurine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>dihydroxycholestanoic  acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013654' target="_blank">D013654</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000596' target="_blank">mesh:D000596</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">bile acids</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001647' target="_blank">D001647</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">BSH</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>DHCA</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C507890' target="_blank">C507890</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C054757' target="_blank">mesh:C054757</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">bile salt</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001647' target="_blank">D001647</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">78-hydroxysteroid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Cholic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006914' target="_blank">D006914</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002793' target="_blank">mesh:D002793</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Deoxycholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003840' target="_blank">D003840</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">DCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Chenodeoxycholic acid</td>
+            <td>Chenodeoxycholic Acid</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C048628' target="_blank">C048628</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002635' target="_blank">mesh:D002635</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Lithocholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D008095' target="_blank">D008095</a></td>
+              <td>chenodeoxycholic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16755' target="_blank">chebi:16755</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">LCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>muricholic acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C502354' target="_blank">C502354</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C004821' target="_blank">mesh:C004821</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Ursodeoxycholic acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014580' target="_blank">D014580</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">UDCA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Bile acid</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C433771' target="_blank">C433771</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001647' target="_blank">mesh:D001647</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CoA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C065987' target="_blank">mesh:C065987</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>amino acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000596' target="_blank">mesh:D000596</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>N</td>
+            <td>Nitrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009584' target="_blank">mesh:D009584</a></td>
+            
+            
+              <td>dinitrogen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17997' target="_blank">chebi:17997</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>CDCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C081330' target="_blank">mesh:C081330</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycine</td>
+            <td>Glycine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005998' target="_blank">mesh:D005998</a></td>
+            
+            
+              <td>glycine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15428' target="_blank">chebi:15428</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>taurine</td>
+            <td>Taurine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013654' target="_blank">mesh:D013654</a></td>
+            
+            
+              <td>taurine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15891' target="_blank">chebi:15891</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>bile acids</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001647' target="_blank">mesh:D001647</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>BSH</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C507890' target="_blank">mesh:C507890</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>bile salt</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001647' target="_blank">mesh:D001647</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>78-hydroxysteroid</td>
+            <td>Hydroxysteroids</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006914' target="_blank">mesh:D006914</a></td>
+            
+            
+              <td>hydroxy steroid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35350' target="_blank">chebi:35350</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Deoxycholic acid</td>
+            <td>Deoxycholic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003840' target="_blank">mesh:D003840</a></td>
+            
+            
+              <td>deoxycholic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28834' target="_blank">chebi:28834</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>DCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C048628' target="_blank">mesh:C048628</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Lithocholic acid</td>
+            <td>Lithocholic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008095' target="_blank">mesh:D008095</a></td>
+            
+            
+              <td>isolithocholic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:81253' target="_blank">chebi:81253</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>LCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C502354' target="_blank">mesh:C502354</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ursodeoxycholic acid</td>
+            <td>Ursodeoxycholic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014580' target="_blank">mesh:D014580</a></td>
+            
+            
+              <td>ursodeoxycholic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:9907' target="_blank">chebi:9907</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>UDCA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C433771' target="_blank">mesh:C433771</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
@@ -1507,16 +1727,24 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             
             <tr>
-              <td title="Word in figure as detected by OCR">inborn errors</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>inborn errors</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D008661' target="_blank">D008661</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008661' target="_blank">mesh:D008661</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             

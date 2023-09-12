@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7091927/bin/41429_2018_Article_BFja2017115_Fig1_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -881,21 +881,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7091927__41429_2018_Article_BFja2017115_Fig1_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7091927__41429_2018_Article_BFja2017115_Fig1_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC7091927__41429_2018_Article_BFja2017115_Fig1_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -904,80 +918,136 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Zanamivir</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Zanamivir</td>
+            <td>Zanamivir</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D053243' target="_blank">D053243</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D053243' target="_blank">mesh:D053243</a></td>
+            
+            
+              <td>zanamivir</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50663' target="_blank">chebi:50663</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Oseltamivir</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Oseltamivir</td>
+            <td>Oseltamivir</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D053139' target="_blank">D053139</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D053139' target="_blank">mesh:D053139</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Peramivir</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C414210' target="_blank">C414210</a></td>
+              <td>oseltamivir</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:7798' target="_blank">chebi:7798</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Laninamivir</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Peramivir</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C546918' target="_blank">C546918</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C414210' target="_blank">mesh:C414210</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Amantadine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000547' target="_blank">D000547</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Rimantadine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Laninamivir</td>
+            <td>Laninamivir</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012299' target="_blank">D012299</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C546918' target="_blank">mesh:C546918</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">S-03318</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013455' target="_blank">D013455</a></td>
+              <td>laninamivir</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:177801' target="_blank">chebi:177801</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Favipiravir</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Amantadine</td>
+            <td>Amantadine</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C462182' target="_blank">C462182</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000547' target="_blank">mesh:D000547</a></td>
+            
+            
+              <td>amantadine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:2618' target="_blank">chebi:2618</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Ribavirin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Rimantadine</td>
+            <td>Rimantadine</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012254' target="_blank">D012254</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012299' target="_blank">mesh:D012299</a></td>
+            
+            
+              <td>rimantadine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:49886' target="_blank">chebi:49886</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>S-03318</td>
+            <td>Sulfur</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013455' target="_blank">mesh:D013455</a></td>
+            
+            
+              <td>polysulfur</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17909' target="_blank">chebi:17909</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Favipiravir</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C462182' target="_blank">mesh:C462182</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ribavirin</td>
+            <td>Ribavirin</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012254' target="_blank">mesh:D012254</a></td>
+            
+            
+              <td>ribavirin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:63580' target="_blank">chebi:63580</a></td>
             
           </tr>
           
@@ -1021,8 +1091,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

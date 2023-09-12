@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8080481/bin/11248_2021_256_Fig2_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -587,21 +587,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8080481__11248_2021_256_Fig2_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8080481__11248_2021_256_Fig2_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC8080481__11248_2021_256_Fig2_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -610,10 +624,1804 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>Mannose</td>
+            <td>Mannose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008358' target="_blank">mesh:D008358</a></td>
+            
+            
+              <td>D-mannopyranose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4208' target="_blank">chebi:4208</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fructose</td>
+            <td>Fructose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005632' target="_blank">mesh:D005632</a></td>
+            
+            
+              <td>fructose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28757' target="_blank">chebi:28757</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fructofuranose</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C052127' target="_blank">mesh:C052127</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>myo-Inositol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C572459' target="_blank">mesh:C572459</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ascorbic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001205' target="_blank">mesh:D001205</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Galactinol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C013536' target="_blank">mesh:C013536</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycine</td>
+            <td>Glycine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005998' target="_blank">mesh:D005998</a></td>
+            
+            
+              <td>glycine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15428' target="_blank">chebi:15428</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Valine</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C521924' target="_blank">mesh:C521924</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Alanine</td>
+            <td>Alanine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000409' target="_blank">mesh:D000409</a></td>
+            
+            
+              <td>alanine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16449' target="_blank">chebi:16449</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Lysine</td>
+            <td>Tyr-Lys</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C114808' target="_blank">mesh:C114808</a></td>
+            
+            
+              <td>tyrosyl-lysine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:75004' target="_blank">chebi:75004</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Galactose</td>
+            <td>Galactose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005690' target="_blank">mesh:D005690</a></td>
+            
+            
+              <td>galactose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28260' target="_blank">chebi:28260</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Galactopyranone</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cadaverine</td>
+            <td>Cadaverine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002103' target="_blank">mesh:D002103</a></td>
+            
+            
+              <td>cadaverine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18127' target="_blank">chebi:18127</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Aspartic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C403564' target="_blank">mesh:C403564</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Threonine</td>
+            <td>Gly-Thr</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C061951' target="_blank">mesh:C061951</a></td>
+            
+            
+              <td>glycyl-threonine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:73920' target="_blank">chebi:73920</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sucrose</td>
+            <td>Sucrose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013395' target="_blank">mesh:D013395</a></td>
+            
+            
+              <td>sucrose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17992' target="_blank">chebi:17992</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Citralic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000596' target="_blank">mesh:D000596</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Serine</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047902' target="_blank">mesh:C047902</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucose</td>
+            <td>Glucose</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005947' target="_blank">mesh:D005947</a></td>
+            
+            
+              <td>D-glucopyranose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4167' target="_blank">chebi:4167</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Isoleucine</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C043801' target="_blank">mesh:C043801</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucopyranose</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C013844' target="_blank">mesh:C013844</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Malic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C030298' target="_blank">mesh:C030298</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Thymine</td>
+            <td>Thymine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013941' target="_blank">mesh:D013941</a></td>
+            
+            
+              <td>thymine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17821' target="_blank">chebi:17821</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Uracil</td>
+            <td>Uracil</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014498' target="_blank">mesh:D014498</a></td>
+            
+            
+              <td>uracil</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17568' target="_blank">chebi:17568</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Maleic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C030272' target="_blank">mesh:C030272</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Trebalose</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glucose-6-phosphate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019298' target="_blank">mesh:D019298</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fructose-6-phosphate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C027618' target="_blank">mesh:C027618</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fumaric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C032005' target="_blank">mesh:C032005</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Succinic acid</td>
+            <td>Succinic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019802' target="_blank">mesh:D019802</a></td>
+            
+            
+              <td>succinic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15741' target="_blank">chebi:15741</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Pyruvic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019289' target="_blank">mesh:D019289</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oxalacetate</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Proline</td>
+            <td>Ile-Pro-Pro</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C489032' target="_blank">mesh:C489032</a></td>
+            
+            
+              <td>isoleucyl-prolyl-proline</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:158716' target="_blank">chebi:158716</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glyceric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C042971' target="_blank">mesh:C042971</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Gluconic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C030691' target="_blank">mesh:C030691</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ribulose-5-phosphate</td>
+            <td>ribulose 5-phosphate</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031524' target="_blank">mesh:C031524</a></td>
+            
+            
+              <td>ribulose 5-phosphate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:37455' target="_blank">chebi:37455</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>AcCoA Mevalonate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008798' target="_blank">mesh:D008798</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Erythronic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C121691' target="_blank">mesh:C121691</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Erythrose-4-phosphate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C026959' target="_blank">mesh:C026959</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Citric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019343' target="_blank">mesh:D019343</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Putrescine</td>
+            <td>Putrescine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011700' target="_blank">mesh:D011700</a></td>
+            
+            
+              <td>putrescine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17148' target="_blank">chebi:17148</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Shikimic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012765' target="_blank">mesh:D012765</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>cis-Aconitic acid</td>
+            <td>Aconitic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000156' target="_blank">mesh:D000156</a></td>
+            
+            
+              <td>aconitic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22211' target="_blank">chebi:22211</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Isocitric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C034219' target="_blank">mesh:C034219</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ketoglutaric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007656' target="_blank">mesh:D007656</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glutamic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C030030' target="_blank">mesh:C030030</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>GABA</td>
+            <td>gamma-Aminobutyric Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005680' target="_blank">mesh:D005680</a></td>
+            
+            
+              <td>gamma-aminobutyric acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16865' target="_blank">chebi:16865</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>phosphate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010710' target="_blank">mesh:D010710</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Phytol</td>
+            <td>Phytol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010836' target="_blank">mesh:D010836</a></td>
+            
+            
+              <td>phytol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17327' target="_blank">chebi:17327</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Phytol</td>
+            <td>Phytol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010836' target="_blank">mesh:D010836</a></td>
+            
+            
+              <td>phytol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17327' target="_blank">chebi:17327</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>IPPIDMAPP FPP</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C039834' target="_blank">mesh:C039834</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ribose-5-phosphate</td>
+            <td>ribose phosphate</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031626' target="_blank">mesh:C031626</a></td>
+            
+            
+              <td>ribose-5-phosphate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26562' target="_blank">chebi:26562</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ribose</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012266' target="_blank">mesh:D012266</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyrosine</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Phenylalanine</td>
+            <td>Leu-Phe</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C119108' target="_blank">mesh:C119108</a></td>
+            
+            
+              <td>leucyl-phenylalanine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:73585' target="_blank">chebi:73585</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tryptophan</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fatty acids</td>
+            <td>Fatty Acids</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005227' target="_blank">mesh:D005227</a></td>
+            
+            
+              <td>fatty acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35366' target="_blank">chebi:35366</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glutamine</td>
+            <td>Arg-Gln</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C578860' target="_blank">mesh:C578860</a></td>
+            
+            
+              <td>arginyl-glutamine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:73813' target="_blank">chebi:73813</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycerol sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Glycerolgalactose</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Squalene</td>
+            <td>Squalene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013185' target="_blank">mesh:D013185</a></td>
+            
+            
+              <td>squalene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15440' target="_blank">chebi:15440</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Quercetin</td>
+            <td>Quercetin</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011794' target="_blank">mesh:D011794</a></td>
+            
+            
+              <td>quercetin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16243' target="_blank">chebi:16243</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D044949' target="_blank">mesh:D044949</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cinnamic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C029010' target="_blank">mesh:C029010</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Quinic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011801' target="_blank">mesh:D011801</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cholesterol</td>
+            <td>Cholesterol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002784' target="_blank">mesh:D002784</a></td>
+            
+            
+              <td>cholesterol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16113' target="_blank">chebi:16113</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Campesterol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C021273' target="_blank">mesh:C021273</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sitosterol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012855' target="_blank">mesh:D012855</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Rutin</td>
+            <td>Rutin</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012431' target="_blank">mesh:D012431</a></td>
+            
+            
+              <td>rutin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28527' target="_blank">chebi:28527</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Quercetin malonyl glucoside</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C529808' target="_blank">mesh:C529808</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Quercetin bexose mali acid</td>
+            <td>Quercetin</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011794' target="_blank">mesh:D011794</a></td>
+            
+            
+              <td>quercetin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16243' target="_blank">chebi:16243</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferoc-glocoside</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Komperol-glucoside</td>
+            <td>Glucosides</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005960' target="_blank">mesh:D005960</a></td>
+            
+            
+              <td>glucoside</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24278' target="_blank">chebi:24278</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferol glucoside</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C511963' target="_blank">mesh:C511963</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>p-Coumaric acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C032171' target="_blank">mesh:C032171</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Coumaroyl hexose</td>
+            <td>Hexoses</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006601' target="_blank">mesh:D006601</a></td>
+            
+            
+              <td>hexose</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18133' target="_blank">chebi:18133</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>carbohydrates</td>
+            <td>Carbohydrates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002241' target="_blank">mesh:D002241</a></td>
+            
+            
+              <td>carbohydrate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16646' target="_blank">chebi:16646</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugarfuranose</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>C18:0-1-glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>C18:0-2-glycerol</td>
+            <td>Glycerol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005990' target="_blank">mesh:D005990</a></td>
+            
+            
+              <td>glycerol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17754' target="_blank">chebi:17754</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar alcohol</td>
+            <td>Sugar Alcohols</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013402' target="_blank">mesh:D013402</a></td>
+            
+            
+              <td>alditol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17522' target="_blank">chebi:17522</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar alcohol</td>
+            <td>Sugar Alcohols</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013402' target="_blank">mesh:D013402</a></td>
+            
+            
+              <td>alditol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17522' target="_blank">chebi:17522</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar alcohol</td>
+            <td>Sugar Alcohols</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013402' target="_blank">mesh:D013402</a></td>
+            
+            
+              <td>alditol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17522' target="_blank">chebi:17522</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar alcohol</td>
+            <td>Sugar Alcohols</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013402' target="_blank">mesh:D013402</a></td>
+            
+            
+              <td>alditol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17522' target="_blank">chebi:17522</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Sugar alcohol</td>
+            <td>Sugar Alcohols</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013402' target="_blank">mesh:D013402</a></td>
+            
+            
+              <td>alditol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17522' target="_blank">chebi:17522</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferol rutinoside</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C492687' target="_blank">mesh:C492687</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferol rutinoside</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C492687' target="_blank">mesh:C492687</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>trans-Caffeic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002109' target="_blank">mesh:D002109</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Kaempferol-diglucosida</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D044949' target="_blank">mesh:D044949</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>trans-Chlorogenic acid</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>cis-Chlorogenic acid</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>trans-Neochlorogenic acid</td>
+            <td>linoleic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019787' target="_blank">mesh:D019787</a></td>
+            
+            
+              <td>Linoleic Acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17351' target="_blank">chebi:17351</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>cls-Neochlorogenic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002713' target="_blank">mesh:D002713</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>cis-Noochlorogenic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C013792' target="_blank">mesh:C013792</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>trans-Cryptochlorogenic acid</td>
+            <td>linoleic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019787' target="_blank">mesh:D019787</a></td>
+            
+            
+              <td>Linoleic Acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17351' target="_blank">chebi:17351</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>di-Caffeoyl quinic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C481910' target="_blank">mesh:C481910</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>d-Caffeoyl quinic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C481910' target="_blank">mesh:C481910</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Caffeoyishikimic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000596' target="_blank">mesh:D000596</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Veratric acid</td>
+            <td>3,4-dimethoxybenzoic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C009333' target="_blank">mesh:C009333</a></td>
+            
+            
+              <td>veratric acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:296881' target="_blank">chebi:296881</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dodecanol</td>
+            <td>Dodecanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007851' target="_blank">mesh:D007851</a></td>
+            
+            
+              <td>dodecan-1-ol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28878' target="_blank">chebi:28878</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hexadecene</td>
+            <td>1-hexadecene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C010734' target="_blank">mesh:C010734</a></td>
+            
+            
+              <td>cetene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:77507' target="_blank">chebi:77507</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydrocarbon</td>
+            <td>Hydrocarbons</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006838' target="_blank">mesh:D006838</a></td>
+            
+            
+              <td>hydrocarbon</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24632' target="_blank">chebi:24632</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydrocarbon</td>
+            <td>Hydrocarbons</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006838' target="_blank">mesh:D006838</a></td>
+            
+            
+              <td>hydrocarbon</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24632' target="_blank">chebi:24632</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Vanillic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014641' target="_blank">mesh:D014641</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Benzoic acid</td>
+            <td>benzoic acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019817' target="_blank">mesh:D019817</a></td>
+            
+            
+              <td>Benzoic Acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:30746' target="_blank">chebi:30746</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydrocarbons</td>
+            <td>Hydrocarbons</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006838' target="_blank">mesh:D006838</a></td>
+            
+            
+              <td>hydrocarbon</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24632' target="_blank">chebi:24632</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ferulic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C004999' target="_blank">mesh:C004999</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Feruloyl-malate</td>
+            <td>Malates</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008293' target="_blank">mesh:D008293</a></td>
+            
+            
+              <td>malate</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:25115' target="_blank">chebi:25115</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Chlorogenic acid glycoside</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Chlorogenic acid glycoside</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Chlorogenic acid glycoside</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Chlorogenic acid glycoside</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Chlorogenic acid glycoside</td>
+            <td>Chlorogenic Acid</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002726' target="_blank">mesh:D002726</a></td>
+            
+            
+              <td>chlorogenic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16112' target="_blank">chebi:16112</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nonacosane</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047577' target="_blank">mesh:C047577</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Nonacosane</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C047577' target="_blank">mesh:C047577</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydrocarbon</td>
+            <td>Hydrocarbons</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006838' target="_blank">mesh:D006838</a></td>
+            
+            
+              <td>hydrocarbon</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:24632' target="_blank">chebi:24632</a></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -655,8 +2463,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

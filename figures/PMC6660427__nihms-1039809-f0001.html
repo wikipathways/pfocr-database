@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660427/bin/nihms-1039809-f0001.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -463,21 +463,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6660427__nihms-1039809-f0001-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6660427__nihms-1039809-f0001-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6660427__nihms-1039809-f0001.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -486,184 +500,318 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">DHEAS</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>DHEAS</td>
+            <td>NA</td>
             
-              <td title="Identifier"></td>
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">sulfuryl</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>sulfuryl</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C048899' target="_blank">C048899</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C048899' target="_blank">mesh:C048899</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">DHEA</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003687' target="_blank">D003687</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">UDP</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>DHEA</td>
+            <td>Dehydroepiandrosterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014530' target="_blank">D014530</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003687' target="_blank">mesh:D003687</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">5a-Androstanedione</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006576' target="_blank">C006576</a></td>
+              <td>dehydroepiandrosterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28689' target="_blank">chebi:28689</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Androsterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>UDP</td>
+            <td>Uridine Diphosphate</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000738' target="_blank">D000738</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014530' target="_blank">mesh:D014530</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">glucuronyl</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C036582' target="_blank">C036582</a></td>
+              <td>UDP</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17659' target="_blank">chebi:17659</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Glucuronide</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>5a-Androstanedione</td>
+            <td>androstane-3,17-dione</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D020719' target="_blank">D020719</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006576' target="_blank">mesh:C006576</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">ADT-G</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C092798' target="_blank">C092798</a></td>
+              <td>androstane-3,17-dione</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22542' target="_blank">chebi:22542</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Androstenedione</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Androsterone</td>
+            <td>Androsterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000735' target="_blank">D000735</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000738' target="_blank">mesh:D000738</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Androstenediol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D015114' target="_blank">D015114</a></td>
+              <td>androsterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16032' target="_blank">chebi:16032</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Androstanediol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>glucuronyl</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C051508' target="_blank">C051508</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C036582' target="_blank">mesh:C036582</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">3a-diol-Glucuronide</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C028895' target="_blank">C028895</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">3a-diol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Glucuronide</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C518382' target="_blank">C518382</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D020719' target="_blank">mesh:D020719</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Estrone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004970' target="_blank">D004970</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">diol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>ADT-G</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C518382' target="_blank">C518382</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C092798' target="_blank">mesh:C092798</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Etiocholanolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D005043' target="_blank">D005043</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Androstanedione</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Androstenedione</td>
+            <td>Androstenedione</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006576' target="_blank">C006576</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000735' target="_blank">mesh:D000735</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Testosterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013739' target="_blank">D013739</a></td>
+              <td>androst-4-ene-3,17-dione</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16422' target="_blank">chebi:16422</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Estradiol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Androstenediol</td>
+            <td>Androstenediol</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004958' target="_blank">D004958</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D015114' target="_blank">mesh:D015114</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">diol-Glucuronide</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D020719' target="_blank">D020719</a></td>
+              <td>androst-5-ene-3beta,17beta-diol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:2710' target="_blank">chebi:2710</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">diol-G</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Androstanediol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C028895' target="_blank">C028895</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C051508' target="_blank">mesh:C051508</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3a-diol-Glucuronide</td>
+            <td>3,17-Androstanediol glucuronide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C028895' target="_blank">mesh:C028895</a></td>
+            
+            
+              <td>androstane-3,17-diol glucuronide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:172699' target="_blank">chebi:172699</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3a-diol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C518382' target="_blank">mesh:C518382</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Estrone</td>
+            <td>Estrone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004970' target="_blank">mesh:D004970</a></td>
+            
+            
+              <td>estrone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17263' target="_blank">chebi:17263</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>diol</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C518382' target="_blank">mesh:C518382</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Etiocholanolone</td>
+            <td>Etiocholanolone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005043' target="_blank">mesh:D005043</a></td>
+            
+            
+              <td>3alpha-hydroxy-5beta-androstan-17-one</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28195' target="_blank">chebi:28195</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Androstanedione</td>
+            <td>androstane-3,17-dione</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006576' target="_blank">mesh:C006576</a></td>
+            
+            
+              <td>androstane-3,17-dione</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22542' target="_blank">chebi:22542</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Testosterone</td>
+            <td>Testosterone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013739' target="_blank">mesh:D013739</a></td>
+            
+            
+              <td>testosterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17347' target="_blank">chebi:17347</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Estradiol</td>
+            <td>Estradiol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004958' target="_blank">mesh:D004958</a></td>
+            
+            
+              <td>17beta-estradiol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16469' target="_blank">chebi:16469</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>diol-Glucuronide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D020719' target="_blank">mesh:D020719</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>diol-G</td>
+            <td>3,17-Androstanediol glucuronide</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C028895' target="_blank">mesh:C028895</a></td>
+            
+            
+              <td>androstane-3,17-diol glucuronide</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:172699' target="_blank">chebi:172699</a></td>
             
           </tr>
           
@@ -707,8 +855,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

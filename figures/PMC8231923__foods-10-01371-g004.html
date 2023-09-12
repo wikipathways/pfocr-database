@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8231923/bin/foods-10-01371-g004.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -381,21 +381,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8231923__foods-10-01371-g004-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC8231923__foods-10-01371-g004-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC8231923__foods-10-01371-g004.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -404,10 +418,334 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>Tyrosine</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyramine</td>
+            <td>Tyramine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014439' target="_blank">mesh:D014439</a></td>
+            
+            
+              <td>tyramine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15760' target="_blank">chebi:15760</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyrosol</td>
+            <td>2-(4-hydroxyphenyl)ethanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011867' target="_blank">mesh:C011867</a></td>
+            
+            
+              <td>4-hydroxyphenylethanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:1879' target="_blank">chebi:1879</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>p-HPEA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025086' target="_blank">mesh:C025086</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>L-DOPA</td>
+            <td>Levodopa</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007980' target="_blank">mesh:D007980</a></td>
+            
+            
+              <td>L-dopa</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15765' target="_blank">chebi:15765</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dopamine</td>
+            <td>Dopamine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004298' target="_blank">mesh:D004298</a></td>
+            
+            
+              <td>dopamine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18243' target="_blank">chebi:18243</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydroxy-tyrosol</td>
+            <td>2-(4-hydroxyphenyl)ethanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011867' target="_blank">mesh:C011867</a></td>
+            
+            
+              <td>4-hydroxyphenylethanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:1879' target="_blank">chebi:1879</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-DHPEA</td>
+            <td>3,4-DHPEA-EA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C121925' target="_blank">mesh:C121925</a></td>
+            
+            
+              <td>3,4-dixydroxyphenylethanol elenolic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:89421' target="_blank">chebi:89421</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oleuropein</td>
+            <td>oleuropein</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002769' target="_blank">mesh:C002769</a></td>
+            
+            
+              <td>oleuropein</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:7747' target="_blank">chebi:7747</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oleacein</td>
+            <td>Oleacein</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C578055' target="_blank">mesh:C578055</a></td>
+            
+            
+              <td>oleacein</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:175090' target="_blank">chebi:175090</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-DHPEA</td>
+            <td>3,4-DHPEA-EA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C121925' target="_blank">mesh:C121925</a></td>
+            
+            
+              <td>3,4-dixydroxyphenylethanol elenolic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:89421' target="_blank">chebi:89421</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyrosine</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyramine</td>
+            <td>Tyramine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014439' target="_blank">mesh:D014439</a></td>
+            
+            
+              <td>tyramine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15760' target="_blank">chebi:15760</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Tyrosol</td>
+            <td>2-(4-hydroxyphenyl)ethanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011867' target="_blank">mesh:C011867</a></td>
+            
+            
+              <td>4-hydroxyphenylethanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:1879' target="_blank">chebi:1879</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>p-HPEA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C025086' target="_blank">mesh:C025086</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>L-DOPA</td>
+            <td>Levodopa</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007980' target="_blank">mesh:D007980</a></td>
+            
+            
+              <td>L-dopa</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15765' target="_blank">chebi:15765</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Dopamine</td>
+            <td>Dopamine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004298' target="_blank">mesh:D004298</a></td>
+            
+            
+              <td>dopamine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18243' target="_blank">chebi:18243</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-DHPA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C036017' target="_blank">mesh:C036017</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Hydroxy-tyrosol</td>
+            <td>2-(4-hydroxyphenyl)ethanol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C011867' target="_blank">mesh:C011867</a></td>
+            
+            
+              <td>4-hydroxyphenylethanol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:1879' target="_blank">chebi:1879</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-DHPEA</td>
+            <td>3,4-DHPEA-EA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C121925' target="_blank">mesh:C121925</a></td>
+            
+            
+              <td>3,4-dixydroxyphenylethanol elenolic acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:89421' target="_blank">chebi:89421</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oleuropein</td>
+            <td>oleuropein</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002769' target="_blank">mesh:C002769</a></td>
+            
+            
+              <td>oleuropein</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:7747' target="_blank">chebi:7747</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Oleacein</td>
+            <td>Oleacein</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C578055' target="_blank">mesh:C578055</a></td>
+            
+            
+              <td>oleacein</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:175090' target="_blank">chebi:175090</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>3,4-DHPEA-EDA</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C547883' target="_blank">mesh:C547883</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -449,8 +787,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

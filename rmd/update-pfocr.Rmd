@@ -171,13 +171,13 @@ by(batch.figs, seq_len(nrow(batch.figs)), function(f){
     dplyr::filter(figid == fls$figid) %>%
     dplyr::mutate(word = str_replace_all(word, '"', '')) %>%
     dplyr::mutate(word = str_replace_all(word, "'", "")) %>%
-    dplyr::select(-c(figid, figid_alias))
+    dplyr::select(-c(figid))
   # tbcy = list(chemicals = unname(lapply( split(tbc,seq_along(tbc[,1])), as.list)))
   tbd = dis %>%
     dplyr::filter(figid == fls$figid) %>%
     dplyr::mutate(word = str_replace_all(word, '"', '')) %>%
     dplyr::mutate(word = str_replace_all(word, "'", "")) %>%
-    dplyr::select(-c(figid, figid_alias))
+    dplyr::select(-c(figid))
   # tbdy = list(diseases = unname(lapply( split(tbd,seq_along(tbd[,1])), as.list)))
   
   # get ndex
@@ -185,7 +185,7 @@ by(batch.figs, seq_len(nrow(batch.figs)), function(f){
 
   # get keywords
   kwg = tbg %>%
-      dplyr::distinct(ncbigene_symbol) 
+      dplyr::distinct(ncbigene_symbol)
   kwc = tbc %>%
       dplyr::distinct(word)
   kwd = tbd %>%

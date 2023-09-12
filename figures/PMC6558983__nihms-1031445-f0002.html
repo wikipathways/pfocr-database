@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558983/bin/nihms-1031445-f0002.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -329,21 +329,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6558983__nihms-1031445-f0002-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6558983__nihms-1031445-f0002-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6558983__nihms-1031445-f0002.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -352,152 +366,262 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Saxitoxin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Saxitoxin</td>
+            <td>Saxitoxin</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012530' target="_blank">D012530</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012530' target="_blank">mesh:D012530</a></td>
+            
+            
+              <td>saxitoxin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34970' target="_blank">chebi:34970</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">saxitoxin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>saxitoxin</td>
+            <td>Saxitoxin</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D012530' target="_blank">D012530</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012530' target="_blank">mesh:D012530</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">STX</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C034903' target="_blank">C034903</a></td>
+              <td>saxitoxin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34970' target="_blank">chebi:34970</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">neosaxitoxin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>STX</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C034902' target="_blank">C034902</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C034903' target="_blank">mesh:C034903</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">neoSTX</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C083001' target="_blank">C083001</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11-8-hydroxysaxitoxin</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>neosaxitoxin</td>
+            <td>neosaxitoxin</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C064182' target="_blank">C064182</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C034902' target="_blank">mesh:C034902</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">GTX4</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C038094' target="_blank">C038094</a></td>
+              <td>neosaxitoxin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:167561' target="_blank">chebi:167561</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">B-saxitoxinol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>neoSTX</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C083403' target="_blank">C083403</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C083001' target="_blank">mesh:C083001</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">V-STOH</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D014639' target="_blank">D014639</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">decarbamoyl dideokuvakhokhin</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>11-8-hydroxysaxitoxin</td>
+            <td>NA</td>
             
-              <td title="Identifier"></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C064182' target="_blank">mesh:C064182</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">ddSTX</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C062226' target="_blank">C062226</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">dideoxysaxitoxin</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>GTX4</td>
+            <td>NA</td>
             
-              <td title="Identifier"></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C038094' target="_blank">mesh:C038094</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">o-saitoxinol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D010100' target="_blank">D010100</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Fatty acid</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>B-saxitoxinol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D005227' target="_blank">D005227</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C083403' target="_blank">mesh:C083403</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">heme diiron</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006418' target="_blank">D006418</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">2Fe-2S</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>V-STOH</td>
+            <td>Vanadium</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C111959' target="_blank">C111959</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014639' target="_blank">mesh:D014639</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">ketoglutarate</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C029743' target="_blank">C029743</a></td>
+              <td>vanadium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:27698' target="_blank">chebi:27698</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">iron</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>decarbamoyl dideokuvakhokhin</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D007501' target="_blank">D007501</a></td>
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ddSTX</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C062226' target="_blank">mesh:C062226</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>dideoxysaxitoxin</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>o-saitoxinol</td>
+            <td>Oxygen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D010100' target="_blank">mesh:D010100</a></td>
+            
+            
+              <td>dioxygen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15379' target="_blank">chebi:15379</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Fatty acid</td>
+            <td>Fatty Acids</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D005227' target="_blank">mesh:D005227</a></td>
+            
+            
+              <td>fatty acid</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:35366' target="_blank">chebi:35366</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>heme diiron</td>
+            <td>heme b</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006418' target="_blank">mesh:D006418</a></td>
+            
+            
+              <td>Heme</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26355' target="_blank">chebi:26355</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>2Fe-2S</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C111959' target="_blank">mesh:C111959</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ketoglutarate</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C029743' target="_blank">mesh:C029743</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>iron</td>
+            <td>Iron</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007501' target="_blank">mesh:D007501</a></td>
+            
+            
+              <td>iron atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:18248' target="_blank">chebi:18248</a></td>
             
           </tr>
           
@@ -541,16 +665,24 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             
             <tr>
-              <td title="Word in figure as detected by OCR">toxicity</td>
-              <td title="Database maintaining identifiers">MESH</td>
+              <td>toxicity</td>
+              <td>NA</td>
               
-                <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D064420' target="_blank">D064420</a></td>
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D064420' target="_blank">mesh:D064420</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
               
             </tr>
             

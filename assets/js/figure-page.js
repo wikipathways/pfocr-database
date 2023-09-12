@@ -46,6 +46,7 @@ JS for every figure page
   trsDis.hide();
   trsDis.slice(0, startIndex).show();
   checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
+
   checkButtonDesc();
 
   btnMoreDesc.click(function (e) {
@@ -99,7 +100,6 @@ JS for every figure page
 
   btnMoreChems.click(function (e) {
     e.preventDefault();
-    filterTable();
     $("#chems-table tr").slice(startIndex, trsLenChems).show();
     checkButton(trsLenChems, $("#chems-table tr:visible").length, btnMoreChems, btnLessChems, btnLessChems1, tblGradChems);
   });
@@ -168,7 +168,7 @@ JS for every figure page
     function filterTable() {
       const selectedOrganism = orgSelect.value;
       // Loop through each table row (starting from 1 to skip the header)
-      newRowCount = 0;
+      var newRowCount = 0;
       for (let i = 1; i < trs.length; i++) {
         const cell = trs[i].getElementsByTagName("td")[0];
         const organism = cell.textContent || cell.innerText;
@@ -183,6 +183,7 @@ JS for every figure page
       checkButton(newRowCount, newRowCount, btnMore, btnLess, btnLess1, tblGrad);
     }
 
+    // Genes for PathVisio
     const pvgBtn = document.querySelector('.pvg-btn');
 
     pvgBtn.addEventListener('click', () => {
@@ -196,7 +197,7 @@ JS for every figure page
     })
     });
 
-    // Function to prep datanodes for PV
+    // Function to prep genes for PV
     function getPVgenes() {
       var pvGenes = '<?xml version="1.0" encoding="UTF-8"?>'+
       '<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="untitled" Data-Source="COPIED">';
@@ -234,6 +235,55 @@ JS for every figure page
       return (pvGenes);
     }
 
+    // Chemicals for PathVisio
+    const pvcBtn = document.querySelector('.pvc-btn');
+
+    pvcBtn.addEventListener('click', () => {
+      var toPvc = getPVchems();
+      navigator.clipboard.writeText(toPvc)
+    .then(() => {
+      toPvc = '';
+    })
+    .catch(err => {
+      console.log('Something went wrong', err);
+    })
+    });
+
+    // Function to prep chemicals for PV
+    function getPVchems() {
+      var pvChems = '<?xml version="1.0" encoding="UTF-8"?>'+
+      '<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="untitled" Data-Source="COPIED">';
+      var GraphIdNum = 1000;
+      var CenterX = 100;
+      var CenterY = 100;
+
+      for (let i = 1; i < trsChem.length; i++) {
+        const cell = trsChem[i].getElementsByTagName("td")[4];
+        var chebi = cell.textContent || cell.innerText;
+        // Show or hide the row based on the selected organism
+        if (chebi.startsWith("chebi:") ) {
+          chebi = chebi.substring("chebi:".length)
+          var GraphId = "a"+GraphIdNum;
+          pvChems = pvChems + '<DataNode TextLabel="'+ trsChem[i].getElementsByTagName("td")[3].innerText +
+          '" GraphId="'+ GraphId +'" Type="Metabolite">'+
+          '<Comment>OCR lexicon match: '+trsChem[i].getElementsByTagName("td")[0].innerText +'</Comment>'+
+          '<Graphics CenterX="' + CenterX + '" CenterY="' + CenterY + '" Width="90" Height="25" ZOrder="33000" FontSize="12" Valign="Middle" Color="0000ff" />'+  
+          '<Xref Database="ChEBI" ID="' + chebi +
+           '" /> </DataNode>';
+           GraphIdNum++;
+           CenterY = CenterY + 25;
+           var rowCheck = GraphIdNum % 10;
+           if (rowCheck == 0) {
+             CenterX = CenterX + 100;
+             CenterY = 100;
+           }
+        } 
+      }
+      pvChems = pvChems + '<InfoBox CenterX="0.0" CenterY="0.0" /></Pathway>';
+      return (pvChems);
+    }
+
+    // Drugst.one button
     const drugBtn = document.querySelector('.drugstone-btn');
     if (drugBtn) {
      drugBtn.addEventListener('click', () => {

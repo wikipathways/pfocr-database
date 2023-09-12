@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7843995/bin/41598_2021_81962_Fig5_HTML.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -719,21 +719,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7843995__41598_2021_81962_Fig5_HTML-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC7843995__41598_2021_81962_Fig5_HTML-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC7843995__41598_2021_81962_Fig5_HTML.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -742,200 +756,346 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">Estramustine</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Estramustine</td>
+            <td>Estramustine</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004961' target="_blank">D004961</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004961' target="_blank">mesh:D004961</a></td>
+            
+            
+              <td>estramustine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:4868' target="_blank">chebi:4868</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Eshdiol</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>Eshdiol</td>
+            <td>NA</td>
             
-              <td title="Identifier"></td>
+              <td></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Medroxyprogesterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D008525' target="_blank">D008525</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">acetate</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Medroxyprogesterone</td>
+            <td>Medroxyprogesterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000085' target="_blank">D000085</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008525' target="_blank">mesh:D008525</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Rasagiline</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C031967' target="_blank">C031967</a></td>
+              <td>medroxyprogesterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:6715' target="_blank">chebi:6715</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Tamoxifen</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>acetate</td>
+            <td>Acetates</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013629' target="_blank">D013629</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000085' target="_blank">mesh:D000085</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Raloxifene</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D020849' target="_blank">D020849</a></td>
+              <td>acetate ester</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:47622' target="_blank">chebi:47622</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">estrogens</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Rasagiline</td>
+            <td>rasagiline</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004967' target="_blank">D004967</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C031967' target="_blank">mesh:C031967</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Clomifene</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002996' target="_blank">D002996</a></td>
+              <td>rasagiline</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:63620' target="_blank">chebi:63620</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Toremfene</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>Tamoxifen</td>
+            <td>Tamoxifen</td>
             
-              <td title="Identifier"></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013629' target="_blank">mesh:D013629</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Estradiol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004958' target="_blank">D004958</a></td>
+              <td>tamoxifen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:41774' target="_blank">chebi:41774</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Progesterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Raloxifene</td>
+            <td>Raloxifene Hydrochloride</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011374' target="_blank">D011374</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D020849' target="_blank">mesh:D020849</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Ralofene</td>
-            <td title="Database maintaining identifiers"></td>
             
-              <td title="Identifier"></td>
+              <td>raloxifene hydrochloride</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50740' target="_blank">chebi:50740</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Toremfene Tamorifen</td>
-            <td title="Database maintaining identifiers"></td>
+            <td>estrogens</td>
+            <td>estrogen</td>
             
-              <td title="Identifier"></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004967' target="_blank">mesh:D004967</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Ralafene</td>
-            <td title="Database maintaining identifiers"></td>
             
-              <td title="Identifier"></td>
+              <td>Estrogens</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50114' target="_blank">chebi:50114</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">ToremifeneTamoxifen</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Clomifene</td>
+            <td>Clomiphene</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013629' target="_blank">D013629</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002996' target="_blank">mesh:D002996</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">trioxide</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C470086' target="_blank">C470086</a></td>
+              <td>clomiphene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:3752' target="_blank">chebi:3752</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Etonogestrel</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Toremfene</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C044815' target="_blank">C044815</a></td>
+              <td></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Clomifene estrogens</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002996' target="_blank">D002996</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Aflibercept Clomifene estrogens</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Estradiol</td>
+            <td>Estradiol</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D002996' target="_blank">D002996</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004958' target="_blank">mesh:D004958</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Androgen</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D000728' target="_blank">D000728</a></td>
+              <td>17beta-estradiol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16469' target="_blank">chebi:16469</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">estrogen</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Progesterone</td>
+            <td>Progesterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004967' target="_blank">D004967</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011374' target="_blank">mesh:D011374</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">Estrogen</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D004967' target="_blank">D004967</a></td>
+              <td>progesterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17026' target="_blank">chebi:17026</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Toremifene</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Ralofene</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D017312' target="_blank">D017312</a></td>
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Toremfene Tamorifen</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Ralafene</td>
+            <td>NA</td>
+            
+              <td></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>ToremifeneTamoxifen</td>
+            <td>Tamoxifen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013629' target="_blank">mesh:D013629</a></td>
+            
+            
+              <td>tamoxifen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:41774' target="_blank">chebi:41774</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>trioxide</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C470086' target="_blank">mesh:C470086</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Etonogestrel</td>
+            <td>etonogestrel</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C044815' target="_blank">mesh:C044815</a></td>
+            
+            
+              <td>etonogestrel</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50777' target="_blank">chebi:50777</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Clomifene estrogens</td>
+            <td>Clomiphene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002996' target="_blank">mesh:D002996</a></td>
+            
+            
+              <td>clomiphene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:3752' target="_blank">chebi:3752</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Aflibercept Clomifene estrogens</td>
+            <td>Clomiphene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002996' target="_blank">mesh:D002996</a></td>
+            
+            
+              <td>clomiphene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:3752' target="_blank">chebi:3752</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Androgen</td>
+            <td>Androgens</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000728' target="_blank">mesh:D000728</a></td>
+            
+            
+              <td>androgen</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50113' target="_blank">chebi:50113</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>estrogen</td>
+            <td>estrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004967' target="_blank">mesh:D004967</a></td>
+            
+            
+              <td>Estrogens</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50114' target="_blank">chebi:50114</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Estrogen</td>
+            <td>estrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004967' target="_blank">mesh:D004967</a></td>
+            
+            
+              <td>Estrogens</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50114' target="_blank">chebi:50114</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Toremifene</td>
+            <td>Toremifene</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D017312' target="_blank">mesh:D017312</a></td>
+            
+            
+              <td>toremifene</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:9635' target="_blank">chebi:9635</a></td>
             
           </tr>
           
@@ -979,8 +1139,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             

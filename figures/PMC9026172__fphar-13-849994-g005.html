@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9026172/bin/fphar-13-849994-g005.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -3635,21 +3635,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9026172__fphar-13-849994-g005-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC9026172__fphar-13-849994-g005-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC9026172__fphar-13-849994-g005.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -3658,10 +3672,124 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
+          
+          <tr>
+            <td>Nicotine</td>
+            <td>Nicotine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009538' target="_blank">mesh:D009538</a></td>
+            
+            
+              <td>(S)-nicotine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17688' target="_blank">chebi:17688</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>JH4JH3JH23H20H25H24H23H23H2</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C007503' target="_blank">mesh:C007503</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Linoleic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D008041' target="_blank">mesh:D008041</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Estrogen</td>
+            <td>estrogen</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D004967' target="_blank">mesh:D004967</a></td>
+            
+            
+              <td>Estrogens</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:50114' target="_blank">chebi:50114</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Amphetamine</td>
+            <td>Amphetamine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000661' target="_blank">mesh:D000661</a></td>
+            
+            
+              <td>amphetamine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:2679' target="_blank">chebi:2679</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Arachidonic acid</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001095' target="_blank">mesh:D001095</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Cocaine</td>
+            <td>Cocaine</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003042' target="_blank">mesh:D003042</a></td>
+            
+            
+              <td>cocaine</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:27958' target="_blank">chebi:27958</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Calcium</td>
+            <td>Calcium</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D002118' target="_blank">mesh:D002118</a></td>
+            
+            
+              <td>calcium atom</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:22984' target="_blank">chebi:22984</a></td>
+            
+          </tr>
           
         </tbody>
       </table>
@@ -3703,10 +3831,264 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
+            
+            <tr>
+              <td>Salmonella infection</td>
+              <td>Salmonella Infections</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D012480' target="_blank">mesh:D012480</a></td>
+              
+              
+                <td>salmonellosis</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:0060859' target="_blank">doid:0060859</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Prostate cancer</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011471' target="_blank">mesh:D011471</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Small cell lung cancer</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D055752' target="_blank">mesh:D055752</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Non-alcoholic fatty liver disease</td>
+              <td>Non-alcoholic Fatty Liver Disease</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D065626' target="_blank">mesh:D065626</a></td>
+              
+              
+                <td>non-alcoholic fatty liver disease</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:0080208' target="_blank">doid:0080208</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>cancer</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009369' target="_blank">mesh:D009369</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Toxoplasmosis</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014123' target="_blank">mesh:D014123</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>cancer</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D009369' target="_blank">mesh:D009369</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>SIPR3 MAPK10 MMP1 TERT CYP19A1 MACA CHRM1 MOLL OPRM1 MCLI</td>
+              <td>NA</td>
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Viral carcinogenesis</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D063646' target="_blank">mesh:D063646</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>diabetic</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003920' target="_blank">mesh:D003920</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Alzheimer disease</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000544' target="_blank">mesh:D000544</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>atherosclerosis</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D050197' target="_blank">mesh:D050197</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Epstein-Barr virus infection</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D020031' target="_blank">mesh:D020031</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>infection</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D007239' target="_blank">mesh:D007239</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Amyotrophic lateral sclerosis</td>
+              <td>Amyotrophic Lateral Sclerosis</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D000690' target="_blank">mesh:D000690</a></td>
+              
+              
+                <td>amyotrophic lateral sclerosis-parkinsonism/dementia complex 1</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:0111246' target="_blank">doid:0111246</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>ALS</td>
+              <td>Amyotrophic Lateral Sclerosis 2, Juvenile</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:C565957' target="_blank">mesh:C565957</a></td>
+              
+              
+                <td>amyotrophic lateral sclerosis type 2</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:0060194' target="_blank">doid:0060194</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>Chagas disease</td>
+              <td>Chagas disease</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014355' target="_blank">mesh:D014355</a></td>
+              
+              
+                <td>Chagas Disease</td>
+              
+              
+                <td><a href='https://bioregistry.io/doid:12140' target="_blank">doid:12140</a></td>
+              
+            </tr>
+            
+            <tr>
+              <td>trypanosomiasis</td>
+              <td>NA</td>
+              
+                <td><a href='http://id.nlm.nih.gov/mesh/mesh:D014352' target="_blank">mesh:D014352</a></td>
+              
+              
+                <td></td>
+              
+              
+                <td></td>
+              
+            </tr>
             
           </tbody>
         </table>

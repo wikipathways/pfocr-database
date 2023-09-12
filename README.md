@@ -6,8 +6,11 @@ Visit site at: https://pfocr.wikipathways.org/
 ## Content
 Pathway figure content can be added as .md files to the [\_figures](https://github.com/wikipathways/pfocr-database/tree/main/_figures) directory. The top portion of the .md file is the Jekyll Front Matter, which defines metadata used to generate the site, organize content and generate search metadata optimized for search engines.
 
+## Updates
+The site is too big to be build by GH Pages, so it is built locally and `_site` is pushed to the gh-pages branch. The `_site` dir is otherwise ignored by the main branch.
+
 ## Development
-In order to rebuild the site locally, e.g. for testing, you'll need to:
+In order to rebuild the site locally you'll need to:
 1. clone the repo
 2. install Ruby, Jekyll and Bundler ([guide](https://jekyllrb.com/docs/installation/))
   * Try to match [these versions](https://pages.github.com/versions/) where possible in order to get the same behavior locally as via GitHub. Pay attention to Jekyll and Ruby versions in particular.

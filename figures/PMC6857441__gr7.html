@@ -136,7 +136,7 @@
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
       <a class="dropdown-item" style="color: #000000;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857441/bin/gr7.jpg" target="_blank">Download JPG</a>
-      <a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>
+      <!--<a class="dropdown-item" style="color: #000000;" href="" target="_blank">Download GPML</a>-->
       </div>
     </div>
     <!-- SHARE MENU -->
@@ -457,21 +457,35 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-    <h2 id="chemicals">Chemical mentions
-      
-      <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6857441__gr7-chemicals.tsv"
+
+<div style="display: flex; align-items: baseline;">   
+  <h2 id="chemicals">Chemical mentions </h2>   
+  <!-- download button -->
+  <div style="padding:5px">
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC6857441__gr7-chemicals.tsv"
       target="_blank">
-        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
         </span>
       </a>
-      <!-- <a href="https://github.com/wikipathways/pfocr-database/edit/main/_figures/PMC6857441__gr7.md"
-      target="_blank">
-        <span title="Edit chemicals" style="color: #666; font-size: 0.8em;">
-          <i class="fa fa-pencil"></i>
-        </span>
-      </a> -->
-    </h2>
+  </div>
+  <!-- share menu options -->
+  <div class="dropdown">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButtonDatanodes2" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Copy to PathVisio" style="color: #FF8120; background-color: #FFFFFF; font-size: 1.2em;"> 
+        <i class="fa fa-share"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes2">
+      
+      <button title="Copy chemicals as DataNodes for PathVisio"
+      class="dropdown-item pvc-btn" type="button">Copy DataNodes for PathVisio</button>
+
+    </div>
+  </div>
+</div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
       
       
@@ -480,176 +494,304 @@
       <table id="chems-table"> 
         <thead>
           <th title="Word in figure as detected by OCR">Word</th>
-          <th title="Database maintaining identifiers">Datasource</th>
-          <th title="Identifier representing word as maintained by datasource">Identifier</th>
+          <th title="Transformed word that matched MeSH term">Match</th>
+          <th title="Matching MeSH identifier">MeSH</th>
+          <th title="Chemical name from MeSH">Name</th>
+          <th title="ChEBI identifier mapped from MeSH">ChEBI</th>
         </thead>
-        <tbody>
+        <tbody> 
           
           <tr>
-            <td title="Word in figure as detected by OCR">17-allohydroxypregnanolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>17-allohydroxypregnanolone</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006022' target="_blank">C006022</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006022' target="_blank">mesh:C006022</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">Ba-17HP</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>Ba-17HP</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D001464' target="_blank">D001464</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D001464' target="_blank">mesh:D001464</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">17a-hydroxyprogesterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D019326' target="_blank">D019326</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">17a-hydroxypregnanolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>17a-hydroxyprogesterone</td>
+            <td>17-alpha-Hydroxyprogesterone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C013051' target="_blank">C013051</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D019326' target="_blank">mesh:D019326</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">pregnanetriol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D011279' target="_blank">D011279</a></td>
+              <td>17alpha-hydroxyprogesterone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17252' target="_blank">chebi:17252</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11-deoxycortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>17a-hydroxypregnanolone</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003350' target="_blank">D003350</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C013051' target="_blank">mesh:C013051</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">tetrahydro-11-deoxycortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C009412' target="_blank">C009412</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11B-hydroxyandrosterone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>pregnanetriol</td>
+            <td>Pregnanetriol</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C002528' target="_blank">C002528</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D011279' target="_blank">mesh:D011279</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">5a-tetrahydrocortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013760' target="_blank">D013760</a></td>
+              <td>5beta-Pregnane-3alpha,17alpha,20alpha-triol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34464' target="_blank">chebi:34464</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">5a-THF</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>11-deoxycortisol</td>
+            <td>Cortodoxone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006461' target="_blank">C006461</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003350' target="_blank">mesh:D003350</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">hydroxyetiocholanolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C002528' target="_blank">C002528</a></td>
+              <td>11-deoxycortisol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28324' target="_blank">chebi:28324</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">cortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>tetrahydro-11-deoxycortisol</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D006854' target="_blank">D006854</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C009412' target="_blank">mesh:C009412</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">tetrahydrocortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013760' target="_blank">D013760</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">THF</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>11B-hydroxyandrosterone</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C006461' target="_blank">C006461</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002528' target="_blank">mesh:C002528</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">B-cortol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C003544' target="_blank">C003544</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">68-hydroxycortisol</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>5a-tetrahydrocortisol</td>
+            <td>Tetrahydrocortisol</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C001380' target="_blank">C001380</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013760' target="_blank">mesh:D013760</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">11-ketoetiocholanolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C015962' target="_blank">C015962</a></td>
+              <td>tetrahydrocortisol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28320' target="_blank">chebi:28320</a></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">11ketoEt</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>5a-THF</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C016531' target="_blank">C016531</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006461' target="_blank">mesh:C006461</a></td>
             
-          </tr>
-          
-          <tr>
-            <td title="Word in figure as detected by OCR">B-cortolone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+             
+              <td></td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/C003545' target="_blank">C003545</a></td>
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">cortisone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>hydroxyetiocholanolone</td>
+            <td>NA</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D003348' target="_blank">D003348</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C002528' target="_blank">mesh:C002528</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
           <tr>
-            <td title="Word in figure as detected by OCR">tetrahydrocortisone</td>
-            <td title="Database maintaining identifiers">MESH</td>
+            <td>cortisol</td>
+            <td>Hydrocortisone</td>
             
-              <td title="Visit MESH page"><a href='http://id.nlm.nih.gov/mesh/D013761' target="_blank">D013761</a></td>
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D006854' target="_blank">mesh:D006854</a></td>
+            
+            
+              <td>cortisol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:17650' target="_blank">chebi:17650</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>tetrahydrocortisol</td>
+            <td>Tetrahydrocortisol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013760' target="_blank">mesh:D013760</a></td>
+            
+            
+              <td>tetrahydrocortisol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:28320' target="_blank">chebi:28320</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>THF</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C006461' target="_blank">mesh:C006461</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>B-cortol</td>
+            <td>Cortol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C003544' target="_blank">mesh:C003544</a></td>
+            
+            
+              <td>cortol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:3898' target="_blank">chebi:3898</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>68-hydroxycortisol</td>
+            <td>6beta-hydroxycortisol</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C001380' target="_blank">mesh:C001380</a></td>
+            
+            
+              <td>6 beta-hydroxycortisol</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:139271' target="_blank">chebi:139271</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>11-ketoetiocholanolone</td>
+            <td>11-Ketoetiocholanolone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C015962' target="_blank">mesh:C015962</a></td>
+            
+            
+              <td>11-ketoetiocholanolone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:34135' target="_blank">chebi:34135</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>11ketoEt</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C016531' target="_blank">mesh:C016531</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>B-cortolone</td>
+            <td>Cortolone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:C003545' target="_blank">mesh:C003545</a></td>
+            
+            
+              <td>cortolone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:3899' target="_blank">chebi:3899</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>cortisone</td>
+            <td>Cortisone</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D003348' target="_blank">mesh:D003348</a></td>
+            
+            
+              <td>cortisone</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:16962' target="_blank">chebi:16962</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>tetrahydrocortisone</td>
+            <td>NA</td>
+            
+              <td><a href='http://id.nlm.nih.gov/mesh/mesh:D013761' target="_blank">mesh:D013761</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
             
           </tr>
           
@@ -693,8 +835,10 @@
         <table id="dis-table"> 
           <thead>
             <th title="Word in figure as detected by OCR">Word</th>
-            <th title="Database maintaining identifiers">Datasource</th>
-            <th title="Identifier representing word as maintained by datasource">Identifier</th>
+            <th title="Transformed word that matched MeSH term">Match</th>
+            <th title="Matching MeSH identifier">MeSH</th>
+            <th title="Disease name from MeSH">Name</th>
+            <th title="DOID identifier mapped from MeSH">DOID</th>
           </thead>
           <tbody>
             
