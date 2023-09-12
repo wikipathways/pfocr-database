@@ -143,14 +143,14 @@ publications and grant applications.</p>
 </span><span class="n">fig.hs.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">figures_hs</span><span class="p">)</span><span class="w">
 </span><span class="n">paper.hs.num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">papers_hs</span><span class="p">)</span><span class="w">
 </span><span class="n">gene.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">genes</span><span class="p">)</span><span class="w">
-</span><span class="n">gene.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes</span><span class="p">)</span><span class="w">
-</span><span class="n">gene.hs.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes_hs</span><span class="p">)</span><span class="w">
+</span><span class="n">gene.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes</span><span class="p">),</span><span class="w"> </span><span class="s2">"(ncbigene)"</span><span class="p">)</span><span class="w">
+</span><span class="n">gene.hs.unique</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">ncbigenes_hs</span><span class="p">),</span><span class="w"> </span><span class="s2">"(human)"</span><span class="p">)</span><span class="w">
 </span><span class="n">chem.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chems</span><span class="p">)</span><span class="w">
-</span><span class="n">chem.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_mesh</span><span class="p">)</span><span class="w">
-</span><span class="n">chem.unique.chebi</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_chebi</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_mesh</span><span class="p">),</span><span class="w"> </span><span class="s2">"(mesh)"</span><span class="p">)</span><span class="w">
+</span><span class="n">chem.unique.chebi</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">chemicals_chebi</span><span class="p">),</span><span class="w"> </span><span class="s2">"(chebi)"</span><span class="p">)</span><span class="w">
 </span><span class="n">di.total</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">dis</span><span class="p">)</span><span class="w">
-</span><span class="n">di.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_mesh</span><span class="p">)</span><span class="w">
-</span><span class="n">di.unique.doid</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_doid</span><span class="p">)</span><span class="w">
+</span><span class="n">di.unique.mesh</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_mesh</span><span class="p">),</span><span class="w"> </span><span class="s2">"(mesh)"</span><span class="p">)</span><span class="w">
+</span><span class="n">di.unique.doid</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">nrow</span><span class="p">(</span><span class="n">diseases_doid</span><span class="p">),</span><span class="w"> </span><span class="s2">"(doid)"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Total</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.total</span><span class="p">,</span><span class="n">chem.total</span><span class="p">,</span><span class="n">di.total</span><span class="p">),</span><span class="w"> </span><span class="n">Unique</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique.mesh</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique.mesh</span><span class="p">),</span><span class="w"> </span><span class="n">Specific</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">gene.hs.unique</span><span class="p">,</span><span class="w"> </span><span class="n">chem.unique.chebi</span><span class="p">,</span><span class="w"> </span><span class="n">di.unique.doid</span><span class="p">))</span><span class="w">
 </span><span class="n">row.names</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Genes"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Chemicals"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Diseases"</span><span class="p">)</span><span class="w">
@@ -164,28 +164,28 @@ from 87705 published papers.</p>
     <tr>
       <th style="text-align: left"> </th>
       <th style="text-align: right">Total</th>
-      <th style="text-align: right">Unique</th>
-      <th style="text-align: right">Specific</th>
+      <th style="text-align: left">Unique</th>
+      <th style="text-align: left">Specific</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: left">Genes</td>
       <td style="text-align: right">4,426,921</td>
-      <td style="text-align: right">146,866</td>
-      <td style="text-align: right">18,383</td>
+      <td style="text-align: left">146866 (ncbigene)</td>
+      <td style="text-align: left">18383 (human)</td>
     </tr>
     <tr>
       <td style="text-align: left">Chemicals</td>
-      <td style="text-align: right">335,939</td>
-      <td style="text-align: right">13,979</td>
-      <td style="text-align: right">4,085</td>
+      <td style="text-align: right">309,761</td>
+      <td style="text-align: left">13979 (mesh)</td>
+      <td style="text-align: left">4085 (chebi)</td>
     </tr>
     <tr>
       <td style="text-align: left">Diseases</td>
-      <td style="text-align: right">44,434</td>
-      <td style="text-align: right">1,602</td>
-      <td style="text-align: right">201</td>
+      <td style="text-align: right">41,738</td>
+      <td style="text-align: left">1602 (mesh)</td>
+      <td style="text-align: left">201 (doid)</td>
     </tr>
   </tbody>
 </table>
@@ -202,7 +202,7 @@ from 87705 published papers.</p>
 </span><span class="n">min.year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">min</span><span class="p">(</span><span class="n">years.plot</span><span class="o">$</span><span class="n">year</span><span class="p">)</span><span class="w">
 </span><span class="n">max.year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="n">years.plot</span><span class="o">$</span><span class="n">year</span><span class="p">)</span><span class="w">
     
-</span><span class="n">years.plot</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+</span><span class="n">p</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">years.plot</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
       </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">factor</span><span class="p">(</span><span class="n">year</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">seq</span><span class="p">(</span><span class="n">min.year</span><span class="p">,</span><span class="w"> </span><span class="n">max.year</span><span class="p">)),</span><span class="w"> </span><span class="n">y</span><span class="o">=</span><span class="n">fig_cnt</span><span class="p">,</span><span class="w"> 
                  </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">case_when</span><span class="p">(</span><span class="w">
                    </span><span class="n">year</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">max.year</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="s2">"no"</span><span class="p">,</span><span class="w">
@@ -225,12 +225,14 @@ from 87705 published papers.</p>
           </span><span class="n">legend.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">),</span><span class="w"> </span><span class="c1">#transparent legend bg</span><span class="w">
           </span><span class="n">legend.box.background</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">)</span><span class="w"> </span><span class="c1">#transparent legend panel</span><span class="w">
       </span><span class="p">)</span><span class="w"> 
+
+</span><span class="n">p</span><span class="w">
 </span></code></pre></div></div>
 
 <p><img src="stats_files/figure-markdown_github/plot-1.png" alt="" /></p>
 
 <div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggsave</span><span class="p">(</span><span class="s2">"../assets/img/pfocr_stats.png"</span><span class="p">,</span><span class="w"> </span><span class="n">plot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">last_plot</span><span class="p">(),</span><span class="w"> 
-       </span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">550</span><span class="p">,</span><span class="w"> </span><span class="n">height</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">300</span><span class="p">,</span><span class="w"> </span><span class="n">units</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"px"</span><span class="p">,</span><span class="w"> </span><span class="n">dpi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">250</span><span class="p">,</span><span class="w"> </span><span class="n">bg</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">)</span><span class="w">
+       </span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1100</span><span class="p">,</span><span class="w"> </span><span class="n">height</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">600</span><span class="p">,</span><span class="w"> </span><span class="n">units</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"px"</span><span class="p">,</span><span class="w"> </span><span class="n">dpi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">450</span><span class="p">,</span><span class="w"> </span><span class="n">bg</span><span class="o">=</span><span class="s1">'transparent'</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
 
 <p><img src="assets/img/pfocr_stats.png" alt="" /></p>

@@ -79,6 +79,51 @@ JS for every figure page
     } 
   }
 
+
+  function checkButton(trsLength, currentLength, btnM, btnL,btnL1,tblG) {
+    if (trsLength > startIndex){
+      if (currentLength == trsLength ) {
+      btnM.hide();
+      btnL.show();
+      btnL1.show();
+      tblG.style.display = 'none';
+      } else {
+      btnM.show();
+      btnL.hide();
+      btnL1.hide();
+      tblG.style.display = 'block';
+      }
+    } else {
+      btnM.hide();
+      btnL.hide();
+      btnL1.hide();
+      tblG.style.display = 'none';
+    }
+  }
+
+  window.onload = function() {
+    orgSelect.addEventListener("change", filterTable);
+  }
+
+    // Function to filter the table
+    function filterTable() {
+        const selectedOrganism = orgSelect.value;
+        // Loop through each table row (starting from 1 to skip the header)
+        var newRowCount = 0;
+        for (let i = 1; i < trs.length; i++) {
+          const cell = trs[i].getElementsByTagName("td")[0];
+          const organism = cell.textContent || cell.innerText;
+          // Show or hide the row based on the selected organism
+          if (organism === selectedOrganism || selectedOrganism === "All") {
+            trs[i].style.display = "";
+            newRowCount++;
+          } else {
+            trs[i].style.display = "none";
+          }
+        }
+        checkButton(newRowCount, newRowCount, btnMore, btnLess, btnLess1, tblGrad);
+    }
+
   btnMore.click(function (e) {
     e.preventDefault();
     $("#participants-table tr").slice(startIndex, trsLength).show();
@@ -87,6 +132,7 @@ JS for every figure page
   btnLess.click(function (e) {
     e.preventDefault();
     orgSelect.selectedIndex = 0; // reset organism select
+    filterTable();
     $("#participants-table tr").slice(startIndex, trsLength).hide();
     checkButton(trsLength, $("#participants-table tr:visible").length, btnMore, btnLess, btnLess1,tblGrad);
   });
@@ -130,27 +176,6 @@ JS for every figure page
     checkButton(trsLenDis, $("#dis-table tr:visible").length, btnMoreDis, btnLessDis, btnLessDis1, tblGradDis);
   });
 
-  function checkButton(trsLength, currentLength, btnM, btnL,btnL1,tblG) {
-    if (trsLength > startIndex){
-      if (currentLength == trsLength ) {
-      btnM.hide();
-      btnL.show();
-      btnL1.show();
-      tblG.style.display = 'none';
-      } else {
-      btnM.show();
-      btnL.hide();
-      btnL1.hide();
-      tblG.style.display = 'block';
-      }
-    } else {
-      btnM.hide();
-      btnL.hide();
-      btnL1.hide();
-      tblG.style.display = 'none';
-    }
-  }
-
   const copyBtn = document.querySelector('.copy-btn');
   const toCopy = document.querySelector('.copy-btn').getAttribute('to-copy');
 
@@ -164,24 +189,6 @@ JS for every figure page
       })
   });
 
-    // Function to filter the table
-    function filterTable() {
-      const selectedOrganism = orgSelect.value;
-      // Loop through each table row (starting from 1 to skip the header)
-      var newRowCount = 0;
-      for (let i = 1; i < trs.length; i++) {
-        const cell = trs[i].getElementsByTagName("td")[0];
-        const organism = cell.textContent || cell.innerText;
-        // Show or hide the row based on the selected organism
-        if (organism === selectedOrganism || selectedOrganism === "All") {
-          trs[i].style.display = "";
-          newRowCount++;
-        } else {
-          trs[i].style.display = "none";
-        }
-      }
-      checkButton(newRowCount, newRowCount, btnMore, btnLess, btnLess1, tblGrad);
-    }
 
     // Genes for PathVisio
     const pvgBtn = document.querySelector('.pvg-btn');
