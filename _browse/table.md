@@ -6,15 +6,20 @@ tooltip: "Searchable table with filtering and sort options"
 btn-class: "btn-front"
 ---
 <a class="btn btn-sm btn-front my-2" style="float:right;" href="/#browse">Browse</a>
-<div class="table-responsive-sm">
+<div class="table-responsive-sm" style="color: white;"> <!-- to hide tag artifacts -->
 <table  class="table table-sm" id="myTable">
   <col style="width:auto" />
   <col style="width:75px" />
   <col style="width:200px" />
   <!-- NOTE: SORT IS TOO SLOW FOR FULL TABLE -->
-  <th>Figure Title</th>
-  <th>Year</th>
-  <th>Organism</th>
+  <thead>
+    <tr>
+      <th>Figure Title</th>
+      <th>Year</th>
+      <th>Organism</th>
+    </tr>
+  </thead>  
+  <tbody>
   {% assign pw-sorted = site.figures | sort: "year" | reverse  %}
   {% for pw in pw-sorted %}
   {% assign clean-title = pw.figtitle | remove: "'" | remove: '"' %}
@@ -26,5 +31,6 @@ btn-class: "btn-front"
     <td title="{{ pw.organisms | join: ", "}}">{{ pw.organisms | join: ", "}}</td>
   </tr> 
   {% endfor %} 
+  </tbody>
 </table>
 </div>

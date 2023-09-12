@@ -18,10 +18,10 @@ Set the path to these files
 Read in files
 
 ``` r
-figs <- readRDS(file.path(local.path,"pfocr_figures_kept.rds"))
-genes <- readRDS(file.path(local.path,"pfocr_genes_kept.rds"))
-chems <- readRDS(file.path(local.path,"pfocr_chemicals_kept.rds"))
-dis <- readRDS(file.path(local.path,"pfocr_diseases_kept.rds"))
+figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
+genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
+chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
+dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
 ```
 
 ## Contents and counts
@@ -40,10 +40,14 @@ ncbigenes <- genes %>%
 ncbigenes_hs <- genes %>%
     dplyr::filter(organism_id == 9606) %>%
     distinct(ncbigene_id)
-chemicals <- chems %>%
-    distinct(identifier)
-diseases <- dis %>%
-    distinct(identifier)
+chemicals_mesh <- chems %>%
+    distinct(mesh)
+chemicals_chebi <- chems %>%
+    distinct(chebi)
+diseases_mesh <- dis %>%
+    distinct(mesh)
+diseases_doid <- dis %>%
+    distinct(doid)
 fig.num <- nrow(figs)
 paper.num <- nrow(papers)
 fig.hs.num <- nrow(figures_hs)
@@ -52,22 +56,24 @@ gene.total <- nrow(genes)
 gene.unique <- nrow(ncbigenes)
 gene.hs.unique <- nrow(ncbigenes_hs)
 chem.total <- nrow(chems)
-chem.unique <- nrow(chemicals)
+chem.unique.mesh <- nrow(chemicals_mesh)
+chem.unique.chebi <- nrow(chemicals_chebi)
 di.total <- nrow(dis)
-di.unique <- nrow(diseases)
+di.unique.mesh <- nrow(diseases_mesh)
+di.unique.doid <- nrow(diseases_doid)
 
-data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique, di.unique))
+data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.unique, chem.unique.mesh, di.unique.mesh), Specific = c(gene.hs.unique, chem.unique.chebi, di.unique.doid))
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 91117 pathway figures from
-78173 published papers.
+The Pathway Figure OCR project has identified 103009 pathway figures
+from 87705 published papers.
 
-|           |     Total |  Unique |
-|:----------|----------:|--------:|
-| Genes     | 4,419,511 | 146,566 |
-| Chemicals |   213,767 |  10,944 |
-| Diseases  |    27,815 |   1,162 |
+|           |     Total |  Unique | Specific |
+|:----------|----------:|--------:|---------:|
+| Genes     | 4,426,921 | 146,866 |   18,383 |
+| Chemicals |   335,939 |  13,979 |    4,085 |
+| Diseases  |    44,434 |   1,602 |      201 |
 
 Contents extracted from figures
 
