@@ -115,7 +115,8 @@ layout: default
   -->
 
 <!-- TABLES --> 
-{% assign figid_genes = page.figid | replace: ".", "_" | append: "-genes" %}
+{% assign clean_page_figid = page.figid | replace: ".", "_" %}
+{% assign figid_genes = clean_page_figid | append: "-genes" %}
 {% assign genes=site.data[figid_genes] %}
 {% assign unique_organisms = "" | split: "," %}
 {% for gene in genes %}
@@ -128,7 +129,7 @@ layout: default
   <h2 id="participants">Gene mentions </h2>   
   <!-- download button -->
   <div style="padding:5px">
-    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ page.figid }}-genes.tsv"
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ clean_page_figid }}-genes.tsv"
       target="_blank">
         <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
@@ -198,12 +199,11 @@ layout: default
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-{% assign data-chems = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-chemicals.tsv" %}
 <div style="display: flex; align-items: baseline;">   
   <h2 id="chemicals">Chemical mentions </h2>   
   <!-- download button -->
   <div style="padding:5px">
-    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ page.figid }}-chemicals.tsv"
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ clean_page_figid }}-chemicals.tsv"
       target="_blank">
         <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
@@ -228,7 +228,7 @@ layout: default
   </div>
 </div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
-      {% assign figid-chems = page.figid | replace: ".", "_" | append: "-chemicals" %}
+      {% assign figid-chems = clean_page_figid | append: "-chemicals" %}
       {% assign chemsTable=site.data[figid-chems] %}
       <!-- {% assign chems=page.chemicals %} -->
       <div class="table-container">
@@ -272,7 +272,7 @@ layout: default
           options
         </button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonChems">
-        <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-chemicals.tsv">Download TSV</a>
+        <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ clean_page_figid }}-chemicals.tsv">Download TSV</a>
         </div>
       </div> -->
       <input type="button" class="badge badge-secondary" id="tableMoreChems" value="more rows" style="float: left; margin-top: -8px;">
@@ -280,8 +280,7 @@ layout: default
 
       <br />
       <h2 id="diseases">Disease mentions
-        {% assign data-dis = "https://github.com/wikipathways/pfocr-database/blob/main/_data/"| append: page.figid | append: "-diseases.tsv" %}
-        <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ page.figid }}-diseases.tsv"
+        <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/{{ clean_page_figid }}-diseases.tsv"
         target="_blank">
           <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
             <i class="fa fa-download"></i>
@@ -295,7 +294,7 @@ layout: default
         </a> -->
       </h2>
         <input type="button" class="badge badge-secondary" id="tableLessDis1" value="fewer rows" style="float: left; margin-bottom: 2px;">
-        {% assign figid-dis = page.figid | replace: ".", "_" | append: "-diseases" %}
+        {% assign figid-dis = clean_page_figid | append: "-diseases" %}
         {% assign disTable=site.data[figid-dis] %}
         <!-- {% assign dis=page.diseases %} -->
         <div class="table-container">
@@ -339,7 +338,7 @@ layout: default
             options
           </button>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDis">
-          <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ page.figid }}-diseases.tsv">Download TSV</a>
+          <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/{{ clean_page_figid }}-diseases.tsv">Download TSV</a>
           </div>
         </div> -->
         <input type="button" class="badge badge-secondary" id="tableMoreDis" value="more rows" style="float: left; margin-top: -8px;">
