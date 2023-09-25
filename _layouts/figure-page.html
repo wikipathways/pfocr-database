@@ -115,7 +115,7 @@ layout: default
   -->
 
 <!-- TABLES --> 
-{% assign figid_genes=page.figid | append: "-genes" %}
+{% assign figid_genes = page.figid | replace: ".", "_" | append: "-genes" %}
 {% assign genes=site.data[figid_genes] %}
 {% assign unique_organisms = "" | split: "," %}
 {% for gene in genes %}
@@ -228,7 +228,7 @@ layout: default
   </div>
 </div>
       <input type="button" class="badge badge-secondary" id="tableLessChems1" value="fewer rows" style="float: left; margin-bottom: 2px;">
-      {% assign figid-chems = page.figid | append: "-chemicals" %}
+      {% assign figid-chems = page.figid | replace: ".", "_" | append: "-chemicals" %}
       {% assign chemsTable=site.data[figid-chems] %}
       <!-- {% assign chems=page.chemicals %} -->
       <div class="table-container">
@@ -295,7 +295,7 @@ layout: default
         </a> -->
       </h2>
         <input type="button" class="badge badge-secondary" id="tableLessDis1" value="fewer rows" style="float: left; margin-bottom: 2px;">
-        {% assign figid-dis = page.figid | append: "-diseases" %}
+        {% assign figid-dis = page.figid | replace: ".", "_" | append: "-diseases" %}
         {% assign disTable=site.data[figid-dis] %}
         <!-- {% assign dis=page.diseases %} -->
         <div class="table-container">
