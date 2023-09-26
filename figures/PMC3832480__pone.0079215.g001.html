@@ -197,11 +197,12 @@
 
 
 
+
 <div style="display: flex; align-items: baseline;">   
   <h2 id="participants">Gene mentions </h2>   
   <!-- download button -->
   <div style="padding:5px">
-    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone.0079215.g001-genes.tsv"
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone_0079215_g001-genes.tsv"
       target="_blank">
         <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
@@ -223,11 +224,21 @@
       class="dropdown-item pvg-btn" type="button">Copy DataNodes for PathVisio</button>
 
       
+      <button title="Query drug interactions with the up to 100 human genes in this figure. Learn more at the link destination."
+      style="color: #000000; background-image: url(https://cdn.drugst.one/libs/drugstone-buttons/0.0.1/android-chrome-192x192.png);background-repeat: no-repeat;background-position: left;background-position-x: left;background-size: 20px 20px;background-position-x: 6px;background-origin: padding-box;padding-left: 32px !important; margin: 10px;"
+      class="dropdown-item drugstone-btn" type="button">Query Drugst.One</button>
+      
     </div>
   </div>
 </div>
 <select id="organismSelect" style="margin-bottom: 10px;">
   
+    <option value="All">All organisms</option>
+  
+  
+    <option value="Drosophila melanogaster">Drosophila melanogaster</option>
+  
+    <option value="Homo sapiens">Homo sapiens</option>
    
 </select>
 <br>
@@ -245,6 +256,106 @@
     </thead>
     <tbody>
       
+        <tr>
+          <td>Drosophila melanogaster</td>
+          <td>Invertebrates</td>
+          <td>COX-2</td>
+          <td>COX2</td>
+          <td>ncbigene_symbol</td>
+          <td>COX2</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/19893535' target="_blank">19893535</a></td>
+        </tr>
+      
+        <tr>
+          <td>Drosophila melanogaster</td>
+          <td>Invertebrates</td>
+          <td>COX-1</td>
+          <td>COX1</td>
+          <td>ncbigene_symbol</td>
+          <td>COX1</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/19893533' target="_blank">19893533</a></td>
+        </tr>
+      
+        <tr>
+          <td>Drosophila melanogaster</td>
+          <td>Invertebrates</td>
+          <td>(PGI,)</td>
+          <td>PGI</td>
+          <td>ncbigene_symbol</td>
+          <td>Pgi</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/35886' target="_blank">35886</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>COX-2</td>
+          <td>COX-2</td>
+          <td>ncbigene_synonym</td>
+          <td>PTGS2</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/5743' target="_blank">5743</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>COX-1</td>
+          <td>COX1</td>
+          <td>ncbigene_symbol</td>
+          <td>COX1</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/4512' target="_blank">4512</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>COX-1</td>
+          <td>COX1</td>
+          <td>ncbigene_synonym</td>
+          <td>PTGS1</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/5742' target="_blank">5742</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>clin</td>
+          <td>C1IN</td>
+          <td>ncbigene_synonym</td>
+          <td>SERPING1</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/710' target="_blank">710</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>(PGI,)</td>
+          <td>PGI</td>
+          <td>ncbigene_synonym</td>
+          <td>BGN</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/633' target="_blank">633</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>(PGI,)</td>
+          <td>PGI</td>
+          <td>ncbigene_synonym</td>
+          <td>GPI</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/2821' target="_blank">2821</a></td>
+        </tr>
+      
+        <tr>
+          <td>Homo sapiens</td>
+          <td>Primates</td>
+          <td>(PGI,)</td>
+          <td>PGI</td>
+          <td>ncbigene_synonym</td>
+          <td>PGPEP1</td>
+          <td><a href='https://www.ncbi.nlm.nih.gov/gene/54858' target="_blank">54858</a></td>
+        </tr>
+      
     </tbody>
   </table>
   <div id="tableGrad" class="table-gradient-overlay"></div>
@@ -253,12 +364,11 @@
 <input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
 
 <br />
-
 <div style="display: flex; align-items: baseline;">   
   <h2 id="chemicals">Chemical mentions </h2>   
   <!-- download button -->
   <div style="padding:5px">
-    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone.0079215.g001-chemicals.tsv"
+    <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone_0079215_g001-chemicals.tsv"
       target="_blank">
         <span title="Download as TSV" style="color: #FF8120; font-size: 1.2em;">
           <i class="fa fa-download"></i>
@@ -297,6 +407,104 @@
         </thead>
         <tbody>
           
+          <tr>
+            <td>Arachidonic Acid</td>
+            <td>NA</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D001095' target="_blank">mesh:D001095</a></td>
+            
+             
+              <td></td>
+            
+            
+              <td></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Indomethacin</td>
+            <td>Indomethacin</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D007213' target="_blank">mesh:D007213</a></td>
+            
+            
+              <td>indometacin</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:49662' target="_blank">chebi:49662</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PGE</td>
+            <td>Prostaglandins E</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D011458' target="_blank">mesh:D011458</a></td>
+            
+            
+              <td>prostaglandins E</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26338' target="_blank">chebi:26338</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>PGG</td>
+            <td>Prostaglandins G</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D011462' target="_blank">mesh:D011462</a></td>
+            
+            
+              <td>prostaglandins G</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26343' target="_blank">chebi:26343</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Prostacyclin</td>
+            <td>Epoprostenol</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D011464' target="_blank">mesh:D011464</a></td>
+            
+            
+              <td>prostaglandin I2</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:15552' target="_blank">chebi:15552</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Thromboxane</td>
+            <td>Thromboxanes</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D013931' target="_blank">mesh:D013931</a></td>
+            
+            
+              <td>thromboxane</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26995' target="_blank">chebi:26995</a></td>
+            
+          </tr>
+          
+          <tr>
+            <td>Thromboxane A</td>
+            <td>Thromboxanes</td>
+            
+            <td><a href='https://bioregistry.io/mesh:D013931' target="_blank">mesh:D013931</a></td>
+            
+            
+              <td>thromboxane</td>
+            
+            
+              <td><a href='https://bioregistry.io/chebi:26995' target="_blank">chebi:26995</a></td>
+            
+          </tr>
+          
         </tbody>
       </table>
       <div id="tableGradChems" class="table-gradient-overlay"></div>
@@ -307,7 +515,7 @@
           options
         </button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonChems">
-        <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/PMC3832480__pone.0079215.g001-chemicals.tsv">Download TSV</a>
+        <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/PMC3832480__pone_0079215_g001-chemicals.tsv">Download TSV</a>
         </div>
       </div> -->
       <input type="button" class="badge badge-secondary" id="tableMoreChems" value="more rows" style="float: left; margin-top: -8px;">
@@ -315,8 +523,7 @@
 
       <br />
       <h2 id="diseases">Disease mentions
-        
-        <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone.0079215.g001-diseases.tsv"
+        <a href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/_data/PMC3832480__pone_0079215_g001-diseases.tsv"
         target="_blank">
           <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
             <i class="fa fa-download"></i>
@@ -354,7 +561,7 @@
             options
           </button>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDis">
-          <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/PMC3832480__pone.0079215.g001-diseases.tsv">Download TSV</a>
+          <a class="dropdown-item" style="color: #000000;" href="https://raw.githubusercontent.com/wikipathways/pfocr-database/main/download/PMC3832480__pone_0079215_g001-diseases.tsv">Download TSV</a>
           </div>
         </div> -->
         <input type="button" class="badge badge-secondary" id="tableMoreDis" value="more rows" style="float: left; margin-top: -8px;">
