@@ -1,0 +1,159 @@
+---
+title: "update pfocr ALL"
+author: "Alex"
+date: "9/2/2023"
+# output: html_document
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# PFOCR Update All Figures
+This R notebooks prepares md and tsv files for ALL figures in the latest PFOCR rds files and overwrites the Jekyll web content. ***Be sure to extract any curated content and merge with latest rds files prior to this updating.***
+ 
+```{r install, include=FALSE}
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(tools)
+library(yaml)
+library(stringr)
+source("updatefm.R")
+```
+
+## Read PFOCR .rds files
+Set the path to these files
+```{r setpath, include=FALSE}
+local.path <- "~/Dropbox (Gladstone)/Pathway Figure OCR/LATEST"
+```
+
+Read in files
+```{r read}
+figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
+genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
+chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
+dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
+```
+
+## Prefilter for gene and chem content
+```{r prefilter}
+keep.g <- distinct(genes, figid)
+keep.c <- chems %>%
+  group_by(figid, word) %>% # count unique matches
+  group_by(figid) %>% 
+  dplyr::summarise(cnt = n()) %>%
+  dplyr::filter(cnt >= 3) %>%
+  dplyr::distinct(figid) 
+keep <- union(keep.g,keep.c)
+# unkept <- setdiff(figs$figid, keep) # to do the small and empty ones as well
+
+figs <- dplyr::filter(figs, figid %in% keep$figid) %>%
+    dplyr::mutate(caption = str_replace_all(caption, "\r","")) %>% #\x{0D} 
+    dplyr::mutate(caption = str_replace_all(caption, "\\\\","/")) %>% #\x{0D} 
+    dplyr::mutate(figtitle = str_replace_all(figtitle, "\\\\","/")) #\x{0D}
+genes <- dplyr::filter(genes, figid %in% keep$figid)
+chems <- dplyr::filter(chems, figid %in% keep$figid) %>%
+    dplyr::mutate(word = str_replace_all(word, "","")) #\037 and \x{1F}
+dis <- dplyr::filter(dis, figid %in% keep$figid)%>%
+    dplyr::mutate(word = str_replace_all(word, "","")) #\037 and \x{1F}
+```
+
+## Produce md and tsv
+```{r md}
+
+i=1
+batch.figs = figs[1:nrow(figs),] 
+# batch.figs = filter(figs, figid %in% redo_figids6)
+
+by(batch.figs, seq_len(nrow(batch.figs)), function(f){
+  fls = as.list(f)
+  fid = fls$figid
+  ffp = file.path("..","_figures",paste(fid,"md",sep = "."))
+  print(paste(i,ffp))
+  i <<- i+1
+  
+  # build tables
+  tbg = genes %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::mutate(word = str_replace_all(word, '"', '')) %>%
+    dplyr::mutate(word = str_replace_all(word, "'", "")) %>%
+    dplyr::select(-c(figid, count_org))
+  # tbgy = list(genes = unname(lapply( split(tbg,seq_along(tbg[,1])), as.list)))
+  tbc = chems %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::mutate(word = str_replace_all(word, '"', '')) %>%
+    dplyr::mutate(word = str_replace_all(word, "'", "")) %>%
+    dplyr::select(-c(figid))
+  # tbcy = list(chemicals = unname(lapply( split(tbc,seq_along(tbc[,1])), as.list)))
+  tbd = dis %>%
+    dplyr::filter(figid == fls$figid) %>%
+    dplyr::mutate(word = str_replace_all(word, '"', '')) %>%
+    dplyr::mutate(word = str_replace_all(word, "'", "")) %>%
+    dplyr::select(-c(figid))
+  # tbdy = list(diseases = unname(lapply( split(tbd,seq_along(tbd[,1])), as.list)))
+  
+  # get ndex
+  ndex = list(ndex = "")
+
+  # get keywords
+  kwg = tbg %>%
+      dplyr::distinct(ncbigene_symbol)
+  kwc = tbc %>%
+      dplyr::distinct(word)
+  kwd = tbd %>%
+      dplyr::distinct(word)
+
+  keywords = c(unlist(kwg), unlist(kwc), unlist(kwd))
+
+  # build schema
+  schema = list(seo = "CreativeWork",
+                "schema-jsonld" = list("@context"="https://schema.org/",
+                                   "@id"=paste0("https://pfocr.wikipathways.org/figures/",
+                                                                        fid, ".html"),
+                                   "@type"="Dataset",
+                                   description = fls$caption,
+                                   license = "CC0",
+                                   name = "CreativeWork",
+                                   creator = list("@type"="Organization",
+                                                  name = "WikiPathways"),
+                                   keywords = unname(keywords)))
+
+  # final tweaks to content
+  fls$figid = fid #stripped ext
+  fls$redirect_from = paste0("/figures/",fls$figid_alias)
+  clean_orgs = str_replace_all(fls$organisms, '"', '')
+  clean_orgs = str_replace_all(clean_orgs, "'", "")
+  clean_orgs = str_replace_all(clean_orgs, ":", "")
+  fls$organisms = strsplit(clean_orgs, " \\| ")[[1]]
+  clean_orgs_ner = str_replace_all(fls$organisms_ner, '"', '')
+  clean_orgs_ner = str_replace_all(clean_orgs_ner, "'", "")
+  clean_orgs_ner = str_replace_all(clean_orgs_ner, ":", "")
+  fls$organisms_ner = strsplit(clean_orgs_ner, " \\| ")[[1]]
+  if (is.na(fls$year)){fls$year = ''}
+
+  # write to md file
+  con <- file(ffp, "w")
+  write_yaml_custom(append(append(fls, ndex),schema), con)
+  close.connection(con)
+
+  # write tsvs for download
+  if (nrow(tbg) > 0){
+    gfp = file.path("..","_data",paste0(fid,"-genes.tsv"))
+    write.table(tbg, gfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
+  if (nrow(tbc) > 0){
+    cfp = file.path("..","_data",paste0(fid,"-chemicals.tsv"))
+    write.table(tbc, cfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
+  if (nrow(tbd) > 0){
+    dfp = file.path("..","_data",paste0(fid,"-diseases.tsv"))
+    write.table(tbd, dfp, row.names = F, col.names = T, sep = "\t", quote = F)
+  }
+} )
+
+```
+
