@@ -1,0 +1,181 @@
+---
+figid: PMC10384750__pharmaceuticals-16-01004-g003
+figtitle: Exploring the mTOR Signalling Pathway and Its Inhibitory Scope in Cancer
+organisms:
+- NA
+organisms_ner:
+- Drosophila melanogaster
+- Homo sapiens
+pmcid: PMC10384750
+filename: pharmaceuticals-16-01004-g003.jpg
+figlink: /pmc/articles/PMC10384750/figure/pharmaceuticals-16-01004-f003/
+number: F3
+caption: Illustration describing the regulation of mTOR complex.
+papertitle: Exploring the mTOR Signalling Pathway and Its Inhibitory Scope in Cancer.
+reftext: Suhail Ahmad Mir, et al. Pharmaceuticals (Basel). 2023 Jul;16(7):1004.
+year: '2023'
+doi: 10.3390/ph16071004
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords: cancer | regulation of mTOR signalling pathway | mTORC1/2 | mTOR inhibitors
+  | rapamycin
+automl_pathway: 0.9485497
+figid_alias: PMC10384750__F3
+figtype: Figure
+redirect_from: /figures/PMC10384750__F3
+ndex: ''
+seo: CreativeWork
+schema-jsonld:
+  '@context': https://schema.org/
+  '@id': https://pfocr.wikipathways.org/figures/PMC10384750__pharmaceuticals-16-01004-g003.html
+  '@type': Dataset
+  description: Illustration describing the regulation of mTOR complex.
+  license: CC0
+  name: CreativeWork
+  creator:
+    '@type': Organization
+    name: WikiPathways
+  keywords:
+  - Amph
+  - ATPsynbeta
+  - Atpalpha
+  - SNF4Agamma
+  - AMPKalpha
+  - Myb
+  - Pi3K21B
+  - Taf5
+  - Pi3K59F
+  - Pi3K68D
+  - Pi3K92E
+  - l(1)G0020
+  - Taf4
+  - Rpn2
+  - Sap-r
+  - Thor
+  - eIF4E1
+  - Rheb
+  - Crtc
+  - Pdk1
+  - Akt
+  - Tsc1
+  - gig
+  - S6k
+  - Pten
+  - rag
+  - RagA-B
+  - rags
+  - RagC-D
+  - CkIIbeta
+  - Andorra
+  - Anp
+  - Acam
+  - APRT
+  - MFAP1
+  - ATP8A2
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - IRS1
+  - PIK3R1
+  - PIK3R2
+  - ARHGEF7
+  - CBFA2T2
+  - PPP1R13B
+  - PPP1R12C
+  - PIK3CA
+  - PIK3CB
+  - PIK3CD
+  - PIK3CG
+  - PIK3R3
+  - PIK3R4
+  - PIK3R5
+  - PIK3R6
+  - CUX1
+  - SART3
+  - EIF4EBP1
+  - ANGPT1
+  - ANGPT2
+  - ANGPT4
+  - AREG
+  - BDNF
+  - CSF1
+  - EFNA1
+  - EFNA2
+  - EFNA3
+  - EFNA4
+  - EFNA5
+  - EGF
+  - EREG
+  - FGF1
+  - FGF10
+  - FGF16
+  - FGF17
+  - FGF18
+  - FGF19
+  - FGF2
+  - FGF20
+  - FGF21
+  - FGF22
+  - FGF23
+  - FGF3
+  - FGF4
+  - FGF5
+  - FGF6
+  - FGF7
+  - FGF8
+  - FGF9
+  - FLT3LG
+  - HGF
+  - IGF1
+  - IGF2
+  - INS
+  - KITLG
+  - NGF
+  - NTF3
+  - NTF4
+  - PDGFA
+  - PDGFB
+  - PDGFC
+  - PDGFD
+  - PGF
+  - TGFA
+  - VEGFA
+  - VEGFB
+  - VEGFC
+  - VEGFD
+  - RHEB
+  - RHEBP1
+  - MTOR
+  - RPTOR
+  - PDK1
+  - PDPK1
+  - AKT1
+  - AKT2
+  - AKT3
+  - TSC1
+  - CCL26
+  - TSC2
+  - RPS6KB1
+  - PTEN
+  - RRAGA
+  - RRAGB
+  - RRAGD
+  - RRAGC
+  - MTG1
+  - MAPKAP1
+  - RICTOR
+  - MLST8
+  - Glucose
+  - ATP
+  - AMP
+  - Rapamycin
+  - Metformin
+  - Resveratrol
+  - GDP
+  - Amino acids
+---

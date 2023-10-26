@@ -66,14 +66,14 @@ data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.un
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 103009 pathway figures
-from 87705 published papers.
+The Pathway Figure OCR project has identified 105451 pathway figures
+from 89737 published papers.
 
 |           |     Total | Unique            | Specific      |
 |:----------|----------:|:------------------|:--------------|
-| Genes     | 4,426,921 | 146866 (ncbigene) | 18383 (human) |
-| Chemicals |   309,761 | 13979 (mesh)      | 4085 (chebi)  |
-| Diseases  |    41,738 | 1602 (mesh)       | 201 (doid)    |
+| Genes     | 4,534,575 | 147613 (ncbigene) | 18441 (human) |
+| Chemicals |   319,846 | 14212 (mesh)      | 4120 (chebi)  |
+| Diseases  |    43,218 | 1632 (mesh)       | 204 (doid)    |
 
 Contents extracted from figures
 
