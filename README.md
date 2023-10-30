@@ -18,3 +18,4 @@ In order to rebuild the site locally you'll need to:
 3. run `bundle install`
 4. run `bundle exec jekyll serve`  <-- run this each time you want to restart the local server
 5. goto http://127.0.0.1:4000
+6. run `bundle exec jekyll build` <-- run this to generate _site files without localhost URLs
