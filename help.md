@@ -20,11 +20,15 @@ title: Help
 <div id="download">
 <h1>Download</h1>
 
-<!-- <h2>GMT: Gene Matrix Transposed</h2> -->
+<h2>Download GMT: Gene Matrix Transposed</h2>
+<ul>
+<li>The latest GMT for all pathway figures can be found at https://data.wikipathways.org/pfocr/current. Archives of prior releases can be found in sibling directories.
+</li>
+</ul>
 
 <h2>Downloading and Accessing Individual Pathways</h2>
 <ul>
-<li>The permanent link to a specific pathway has the pattern <code>https://pfocr.wikipathways.org//figures/{figid}.html</code>. This link is also accessible from the <b>options</b> drop-down under the figure from the pathway figure page.</li>
+<li>The permanent link to a specific pathway has the pattern <code>https://pfocr.wikipathways.org/figures/{figid}.html</code>. This link is also accessible from the <b>options</b> drop-down under the figure from the pathway figure page.</li>
 <li>View the figure at PMC directly from the <b>options</b> drop-down under the figure from the pathway figure page.</li>
 <li>To read the associated paper at PMC, access the <b>options</b> drop-down under the figure from the pathway figure page.</li>
 <li>If the figure has been translated to a <b>WikiPathways</b> model, you can open it directly at WikiPathways from the pathway figure page by accessing the <b>options</b> drop-down under the figure.</li>
