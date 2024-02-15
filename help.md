@@ -1,6 +1,12 @@
 ---
 title: Help
 ---
+<div id="video">
+ <h1>Video Tour</h1>
+        <p>Take a video tour of the PFOCR website!</p>
+        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/8XRS_dTX-eM?si=ufH5i7Ah7Dc8sMx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+        <p>TogoTV. Feb 13 2024, YouTube: <a href="https://youtu.be/8XRS_dTX-eM" target="_blank">https://youtu.be/8XRS_dTX-eM</a>, DOI: <a href="https://doi.org/10.7875/togotv.2024.004" target="_blank">https://doi.org/10.7875/togotv.2024.004</a>.</p>
+        
 <div id="navigate">
 <h1>Navigate</h1>
 

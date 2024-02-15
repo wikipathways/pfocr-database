@@ -15,6 +15,7 @@ title: Home
                 <h2 style="font-family:Poppins; line-height:1.4"><b>Pathway Figure OCR</b> is an open science project dedicated to extracting pathway information from the published literature to be freely used by anyone.
                 </h2>
                 <a class="btn btn-sm btn-front my-1" href="/about.html">Read more</a>
+                <a class="btn btn-sm btn-front my-1" href="https://youtu.be/8XRS_dTX-eM" target="_blank">Video tour</a>
                 <br /><br />
                 <div class="row-main gy-5 py-5" style="display:flex; flex-wrap: wrap;margin-right: -95px;margin-left: 25px;">
                   <div class="col-7 mx-3"> 
