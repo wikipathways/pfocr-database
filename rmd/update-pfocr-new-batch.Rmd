@@ -112,7 +112,7 @@ source("updatefm.R")
 ## Read PFOCR .rds files
 Set the path to these files. UPDATE PER RUN
 ```{r setpath, include=FALSE}
-local.path <- "~/Dropbox (Gladstone)/pfocr-pipeline-runs/20231001"
+local.path <- "~/Dropbox (Gladstone)/pfocr-pipeline-runs/20240701"
 ```
 
 Read in files
@@ -148,6 +148,27 @@ dis <- dplyr::filter(dis, figid %in% keep$figid)%>%
 
 ## Produce md and tsv
 ```{r md}
+
+# Custom yaml writing function to enforce organism lists
+write_yaml_custom <- function(data, con) {
+  cat("---\n", file = con)
+  for (i in 1:length(data)) {
+      if (names(data[i]) == "organisms") {
+          cat("organisms:\n", file = con, append = TRUE)
+          for (o in data$organisms) {
+              cat("- ",o, "\n", sep = "", file = con, append = TRUE)
+          }
+      } else if (names(data[i]) == "organisms_ner") {
+          cat("organisms_ner:\n", file = con, append = TRUE)
+          for (o in data$organisms_ner) {
+              cat("- ",o, "\n", sep = "", file = con, append = TRUE)
+          }
+      } else {
+          yaml::write_yaml(data[i], con)
+      }
+  }
+  cat("---\n", file = con, append = TRUE)
+}
 
 i=1
 batch.figs = figs[1:nrow(figs),] 
