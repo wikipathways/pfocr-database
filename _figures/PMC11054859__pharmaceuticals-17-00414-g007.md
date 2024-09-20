@@ -1,0 +1,250 @@
+---
+figid: PMC11054859__pharmaceuticals-17-00414-g007
+figtitle: KEGG pathway (hsa04151 P13K-AKT signaling pathway)
+organisms:
+- NA
+organisms_ner:
+- Homo sapiens
+pmcid: PMC11054859
+filename: PMC11054859__pharmaceuticals-17-00414-g007.jpg
+figlink: /pmc/articles/PMC11054859/figure/F7
+number: F7
+caption: KEGG pathway (hsa04151 P13K-AKT signaling pathway). The red nodes represent
+  up-regulated genes while the green ones are down-regulated genes. Two genes are
+  linked together with solid lines if they function together in the present KEGG pathways
+  while those connected with dotted lines do not function together
+papertitle: 'Exploring the Mechanisms of Traditional Chinese Herbal Therapy in Gastric
+  Cancer: A Comprehensive Network Pharmacology Study of the Tiao-Yuan-Tong-Wei decoction'
+reftext: Juan Chen, et al. Pharmaceuticals (Basel). 2024 Apr;17(4).
+year: '2024'
+doi: 10.3390/ph17040414
+journal_title: Pharmaceuticals
+journal_nlm_ta: Pharmaceuticals (Basel)
+publisher_name: MDPI
+keywords: gastric cancer | Tiao-Yuan-Tong-Wei decoction | agrimoniin | baicalin |
+  corosolic acid | CASP3 | PIK3CA
+automl_pathway: 0.8574297
+figid_alias: PMC11054859__F7
+figtype: Figure
+redirect_from: /figures/PMC11054859__F7
+ndex: ''
+seo: CreativeWork
+schema-jsonld:
+  '@context': https://schema.org/
+  '@id': https://pfocr.wikipathways.org/figures/PMC11054859__pharmaceuticals-17-00414-g007.html
+  '@type': Dataset
+  description: KEGG pathway (hsa04151 P13K-AKT signaling pathway). The red nodes represent
+    up-regulated genes while the green ones are down-regulated genes. Two genes are
+    linked together with solid lines if they function together in the present KEGG
+    pathways while those connected with dotted lines do not function together
+  license: CC0
+  name: CreativeWork
+  creator:
+    '@type': Organization
+    name: WikiPathways
+  keywords:
+  - MTOR
+  - EIF4E2
+  - APRT
+  - MFAP1
+  - PRKAA1
+  - PRKAA2
+  - PRKAB1
+  - PRKAB2
+  - PRKAG1
+  - PRKAG2
+  - PRKAG3
+  - RHEB
+  - RHEBP1
+  - RORC
+  - TSC2
+  - EIF4B
+  - RPS6KB1
+  - POR
+  - VDAC2
+  - XYLT2
+  - SOS1
+  - SOS2
+  - NOS3
+  - ENO4
+  - PRRT2
+  - PRKCA
+  - PRKCB
+  - PRKCD
+  - PRKCE
+  - PRKCG
+  - PRKCH
+  - PRKCI
+  - PRKCQ
+  - PRKCZ
+  - PRKD3
+  - GSAP
+  - SHC2
+  - ACTA1
+  - ACTA2
+  - ACTB
+  - ACTC1
+  - ACTG1
+  - ACTG2
+  - MAPK1
+  - MAPK3
+  - MAPK11
+  - MAPK12
+  - MAPK13
+  - MAPK14
+  - MAPK8
+  - MAPK9
+  - MAPK10
+  - RAF1
+  - MAP2K7
+  - MAP2K1
+  - MAP2K2
+  - PTPA
+  - PCK2
+  - HSF4
+  - CDKL1
+  - CDKL2
+  - CDKL3
+  - CDKL4
+  - CDKL5
+  - CDK3
+  - CDK4
+  - CDK5
+  - CDK6
+  - CDK7
+  - CDK8
+  - CDK9
+  - CDK10
+  - CDK11A
+  - CDK11B
+  - CDK12
+  - CDK13
+  - CDK14
+  - CDK15
+  - CDK16
+  - CDK17
+  - CDK18
+  - CDK19
+  - CDK20
+  - CDK1
+  - CDK2
+  - RBL2
+  - MAPKAP1
+  - RICTOR
+  - MLST8
+  - PHLPP1
+  - BCL2L11
+  - BAD
+  - BCR
+  - RN7SL263P
+  - SYCN
+  - CD19
+  - PHF11
+  - PIK3AP1
+  - JAK1
+  - JAK2
+  - JAK3
+  - TYK2
+  - TNFRSF17
+  - PTK2
+  - ITGA1
+  - ITGA10
+  - ITGA11
+  - ITGA2
+  - ITGA2B
+  - ITGA3
+  - ITGA4
+  - ITGA5
+  - ITGA6
+  - ITGA7
+  - ITGA8
+  - ITGA9
+  - ITGAD
+  - ITGAE
+  - ITGAL
+  - ITGAM
+  - ITGAV
+  - ITGAX
+  - HSP90AA1
+  - HSP90B1
+  - TRAP1
+  - HSP90AB1
+  - PTEN
+  - CXCL10
+  - CXCL11
+  - CXCL12
+  - CXCL13
+  - CXCL14
+  - CXCL9
+  - PF4
+  - CXCL1
+  - CXCL2
+  - CXCL3
+  - CXCL5
+  - CXCL6
+  - CXCL8
+  - PPBP
+  - FZD4
+  - NMUR1
+  - LPAR3
+  - LGR6
+  - MRGPRX3
+  - MRGPRX4
+  - GPR151
+  - OXER1
+  - GPRC6A
+  - MRGPRX1
+  - VN1R17P
+  - GPR166P
+  - GRM1
+  - GRM2
+  - GRM3
+  - GRM4
+  - GRM5
+  - GRM6
+  - GRM7
+  - GRM8
+  - CASR
+  - GABBR1
+  - GABBR2
+  - GPR156
+  - GPR158
+  - GPR179
+  - GPRC5A
+  - GPRC5B
+  - GPRC5C
+  - GPRC5D
+  - SERPINA4
+  - CREB1
+  - CREB3
+  - CREB5
+  - CREB3L1
+  - CREB3L2
+  - CREB3L3
+  - CREB3L4
+  - CREM
+  - ATF1
+  - ATF2
+  - MCL1
+  - RXRA
+  - RXRB
+  - RXRG
+  - CHUK
+  - IKBKB
+  - IKBKG
+  - IKBKE
+  - TBK1
+  - MYB
+  - SLURP1
+  - TP53
+  - TP63
+  - TP73
+  - AMP
+  - Protein
+  - Raptor
+  - PION
+  - MEK
+  - CTM
+  - DNA
+  - Bim
+---
