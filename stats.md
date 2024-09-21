@@ -18,10 +18,10 @@ Set the path to these files
 Read in files
 
 ``` r
-figs <- readRDS(file.path(local.path,"pfocr_figures.rds"))
-genes <- readRDS(file.path(local.path,"pfocr_genes.rds"))
-chems <- readRDS(file.path(local.path,"pfocr_chemicals.rds"))
-dis <- readRDS(file.path(local.path,"pfocr_diseases.rds"))
+figs <- readRDS(file.path(local.path,"pfocr_figures_draft.rds"))
+genes <- readRDS(file.path(local.path,"pfocr_genes_draft.rds"))
+chems <- readRDS(file.path(local.path,"pfocr_chemicals_draft.rds"))
+dis <- readRDS(file.path(local.path,"pfocr_diseases_draft.rds"))
 ```
 
 ## Contents and counts
@@ -66,14 +66,14 @@ data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.un
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 103009 pathway figures
-from 87705 published papers.
+The Pathway Figure OCR project has identified 110408 pathway figures
+from 93057 published papers.
 
 |           |     Total | Unique            | Specific      |
 |:----------|----------:|:------------------|:--------------|
-| Genes     | 4,426,921 | 146866 (ncbigene) | 18383 (human) |
-| Chemicals |   309,761 | 13979 (mesh)      | 4085 (chebi)  |
-| Diseases  |    41,738 | 1602 (mesh)       | 201 (doid)    |
+| Genes     | 4,687,583 | 147974 (ncbigene) | 18586 (human) |
+| Chemicals |   346,094 | 14212 (mesh)      | 6785 (chebi)  |
+| Diseases  |    44,598 | 1632 (mesh)       | 673 (doid)    |
 
 Contents extracted from figures
 
