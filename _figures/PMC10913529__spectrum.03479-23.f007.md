@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10913529
-filename: PMC10913529__spectrum.03479-23.f007.jpg
+filename: spectrum.03479-23.f007.jpg
 figlink: /pmc/articles/PMC10913529/figure/F7
 number: F7
 caption: Schematic model of the inhibitory ability of tubercidin against PRRSV. Tubercidin

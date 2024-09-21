@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10221447
-filename: PMC10221447__pharmaceuticals-16-00739-g003.jpg
+filename: pharmaceuticals-16-00739-g003.jpg
 figlink: /pmc/articles/PMC10221447/figure/F3
 number: F3
 caption: Mechanism of action of NPs alleviates MIRI in cardiomyocytes through PI3K/Akt

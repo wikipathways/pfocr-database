@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11054859
-filename: PMC11054859__pharmaceuticals-17-00414-g006.jpg
+filename: pharmaceuticals-17-00414-g006.jpg
 figlink: /pmc/articles/PMC11054859/figure/F6
 number: F6
 caption: KEGG pathway (hsa05226 gastric cancer). The red nodes represent up-regulated

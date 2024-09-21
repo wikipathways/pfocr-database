@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11124422
-filename: PMC11124422__pharmaceuticals-17-00636-g003.jpg
+filename: pharmaceuticals-17-00636-g003.jpg
 figlink: /pmc/articles/PMC11124422/figure/F3
 number: F3
 caption: Effects of APS on ICIs, CAR-T therapy, and DC cancer vaccines within the

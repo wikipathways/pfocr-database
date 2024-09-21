@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC11064513
-filename: PMC11064513__spectrum.03473-23.f008.jpg
+filename: spectrum.03473-23.f008.jpg
 figlink: /pmc/articles/PMC11064513/figure/F8
 number: F8
 caption: Metabolic pathway analysis of different metabolites in cecum microbial samples.

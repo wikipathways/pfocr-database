@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10748332
-filename: PMC10748332__pharmaceuticals-16-01714-g002.jpg
+filename: pharmaceuticals-16-01714-g002.jpg
 figlink: /pmc/articles/PMC10748332/figure/F2
 number: F2
 caption: 'Proposed mechanism of action for metformin. Left: A low dose of metformin

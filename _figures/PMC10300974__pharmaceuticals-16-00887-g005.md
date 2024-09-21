@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10300974
-filename: PMC10300974__pharmaceuticals-16-00887-g005.jpg
+filename: pharmaceuticals-16-00887-g005.jpg
 figlink: /pmc/articles/PMC10300974/figure/F5
 number: F5
 caption: A summary of the function of cholestasis-related genes affected by Hypericum

@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10610064
-filename: PMC10610064__pharmaceuticals-16-01441-g004.jpg
+filename: pharmaceuticals-16-01441-g004.jpg
 figlink: /pmc/articles/PMC10610064/figure/F4
 number: F4
 caption: Ras/Raf/MEK/ERK signaling pathway activation. It denotes a critical protein

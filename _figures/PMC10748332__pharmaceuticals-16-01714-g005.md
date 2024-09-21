@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10748332
-filename: PMC10748332__pharmaceuticals-16-01714-g005.jpg
+filename: pharmaceuticals-16-01714-g005.jpg
 figlink: /pmc/articles/PMC10748332/figure/F5
 number: F5
 caption: 'Signaling pathways involved in neuroprotective mechanisms. Metformin’s potential

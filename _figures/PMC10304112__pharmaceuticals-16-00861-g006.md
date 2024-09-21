@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10304112
-filename: PMC10304112__pharmaceuticals-16-00861-g006.jpg
+filename: pharmaceuticals-16-00861-g006.jpg
 figlink: /pmc/articles/PMC10304112/figure/F6
 number: F6
 caption: Schematic diagram of the network of metabolic pathways associated with different

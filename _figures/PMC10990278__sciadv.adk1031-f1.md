@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10990278
-filename: PMC10990278__sciadv.adk1031-f1.jpg
+filename: sciadv.adk1031-f1.jpg
 figlink: /pmc/articles/PMC10990278/figure/F1
 number: F1
 caption: PORCN mediates Wnt palmitoleation that is essential for Wnt secretion. Engagement

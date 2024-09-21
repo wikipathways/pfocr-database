@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10610064
-filename: PMC10610064__pharmaceuticals-16-01441-g001.jpg
+filename: pharmaceuticals-16-01441-g001.jpg
 figlink: /pmc/articles/PMC10610064/figure/F1
 number: F1
 caption: ABL Kinase Activation and Signaling in Solid Tumors. ABL kinases are activated

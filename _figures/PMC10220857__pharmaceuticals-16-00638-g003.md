@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10220857
-filename: PMC10220857__pharmaceuticals-16-00638-g003.jpg
+filename: pharmaceuticals-16-00638-g003.jpg
 figlink: /pmc/articles/PMC10220857/figure/F3
 number: F3
 caption: Anthocyanin biosynthetic pathway (adapted from [11]). CHS (chalcone synthase),

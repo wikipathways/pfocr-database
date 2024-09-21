@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10949484
-filename: PMC10949484__msystems.01193-23.f006.jpg
+filename: msystems.01193-23.f006.jpg
 figlink: /pmc/articles/PMC10949484/figure/F6
 number: F6
 caption: Genes upregulated (circle) and downregulated (square) across all transconjugants

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11357512
-filename: PMC11357512__pharmaceuticals-17-01030-g002.jpg
+filename: pharmaceuticals-17-01030-g002.jpg
 figlink: /pmc/articles/PMC11357512/figure/F2
 number: F2
 caption: Schematic diagram of signalling pathway in a cardiomyocyte with lamin A/C

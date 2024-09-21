@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10975674
-filename: PMC10975674__pharmaceuticals-17-00379-g006.jpg
+filename: pharmaceuticals-17-00379-g006.jpg
 figlink: /pmc/articles/PMC10975674/figure/F6
 number: F6
 caption: Oxidative stress and Nrf2–ARE signaling. Nuclear factor erythroid 2-related

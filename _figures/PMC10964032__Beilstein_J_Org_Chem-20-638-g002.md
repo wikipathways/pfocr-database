@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10964032
-filename: PMC10964032__Beilstein_J_Org_Chem-20-638-g002.jpg
+filename: Beilstein_J_Org_Chem-20-638-g002.jpg
 figlink: /pmc/articles/PMC10964032/figure/F1
 number: F1
 caption: Biosynthesis of selected fungal meroterpenoids. (A, B) Dearomatizing prenylation

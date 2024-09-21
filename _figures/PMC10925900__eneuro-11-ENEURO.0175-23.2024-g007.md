@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10925900
-filename: PMC10925900__eneuro-11-ENEURO.0175-23.2024-g007.jpg
+filename: eneuro-11-ENEURO.0175-23.2024-g007.jpg
 figlink: /pmc/articles/PMC10925900/figure/F7
 number: F7
 caption: Diagram summarizing the CP-AMPAR-AKAP-CaN-NFAT-Mdm2 excitation-transcription

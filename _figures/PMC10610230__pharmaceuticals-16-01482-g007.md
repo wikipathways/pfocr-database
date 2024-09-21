@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10610230
-filename: PMC10610230__pharmaceuticals-16-01482-g007.jpg
+filename: pharmaceuticals-16-01482-g007.jpg
 figlink: /pmc/articles/PMC10610230/figure/F7
 number: F7
 caption: Mechanism underlying the therapeutic effect of PT on IDD. PT could downregulate

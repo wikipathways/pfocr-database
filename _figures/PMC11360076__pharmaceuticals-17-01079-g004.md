@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11360076
-filename: PMC11360076__pharmaceuticals-17-01079-g004.jpg
+filename: pharmaceuticals-17-01079-g004.jpg
 figlink: /pmc/articles/PMC11360076/figure/F4
 number: F4
 caption: The protein–protein interaction map of the upstream regulators that significantly

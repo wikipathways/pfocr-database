@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10536424
-filename: PMC10536424__pharmaceuticals-16-01266-g003.jpg
+filename: pharmaceuticals-16-01266-g003.jpg
 figlink: /pmc/articles/PMC10536424/figure/F3
 number: F3
 caption: Anti-cancer mechanisms of PDE5 inhibitors. Via activation of the cGMP/PKG

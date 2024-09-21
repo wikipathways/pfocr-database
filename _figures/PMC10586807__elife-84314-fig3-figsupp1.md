@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10586807
-filename: PMC10586807__elife-84314-fig3-figsupp1.jpg
+filename: elife-84314-fig3-figsupp1.jpg
 figlink: /pmc/articles/PMC10586807/figure/F1
 number: SF3_1.
 caption: Pearson’s or Spearman’s correlation between gene hits in antigen-dependent

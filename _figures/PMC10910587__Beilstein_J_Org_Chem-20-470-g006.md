@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10910587
-filename: PMC10910587__Beilstein_J_Org_Chem-20-470-g006.jpg
+filename: Beilstein_J_Org_Chem-20-470-g006.jpg
 figlink: /pmc/articles/PMC10910587/figure/F1
 number: S1
 caption: Proposed biosynthetic pathway for compounds 1–5

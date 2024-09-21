@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11356869
-filename: PMC11356869__pharmaceuticals-17-00984-g002.jpg
+filename: pharmaceuticals-17-00984-g002.jpg
 figlink: /pmc/articles/PMC11356869/figure/F2
 number: F2
 caption: East Asian Herbal Medicine (EAHM) effect on bone to prevent osteoporosis.

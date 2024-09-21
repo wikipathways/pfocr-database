@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11356869
-filename: PMC11356869__pharmaceuticals-17-00984-g001.jpg
+filename: pharmaceuticals-17-00984-g001.jpg
 figlink: /pmc/articles/PMC11356869/figure/F1
 number: F1
 caption: Signaling pathways in osteogenesis and osteoclastogenesis. Osteoblasts produce

@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10999976
-filename: PMC10999976__Beilstein_J_Org_Chem-20-692-g004.jpg
+filename: Beilstein_J_Org_Chem-20-692-g004.jpg
 figlink: /pmc/articles/PMC10999976/figure/F3
 number: F3
 caption: '(a) Plausible biosynthetic pathway of variochelin A–E (1–5). The circles

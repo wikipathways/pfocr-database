@@ -8,7 +8,7 @@ organisms_ner:
 - Caenorhabditis elegans
 - Homo sapiens
 pmcid: PMC10581177
-filename: PMC10581177__spectrum.02152-23.f006.jpg
+filename: spectrum.02152-23.f006.jpg
 figlink: /pmc/articles/PMC10581177/figure/F6
 number: F6
 caption: Proposed pathobiological functions and regulatory mechanisms of the Ras/cAMP/PKA

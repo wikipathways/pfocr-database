@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10459054
-filename: PMC10459054__pharmaceuticals-16-01122-g001.jpg
+filename: pharmaceuticals-16-01122-g001.jpg
 figlink: /pmc/articles/PMC10459054/figure/F1
 number: F1
 caption: Typical pathway of miRNA formation. miRNA genes are transcribed in the nucleus

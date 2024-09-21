@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11070974
-filename: PMC11070974__Beilstein_J_Org_Chem-20-959-g002.jpg
+filename: Beilstein_J_Org_Chem-20-959-g002.jpg
 figlink: /pmc/articles/PMC11070974/figure/F1
 number: F1
 caption: 'Biosynthetic pathway of terpenoids. Valuable terpenoids, noncanonical C11

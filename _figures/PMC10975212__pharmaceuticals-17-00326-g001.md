@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10975212
-filename: PMC10975212__pharmaceuticals-17-00326-g001.jpg
+filename: pharmaceuticals-17-00326-g001.jpg
 figlink: /pmc/articles/PMC10975212/figure/F1
 number: F1
 caption: 'The TGF-β/SMAD signaling pathway. (A) Ligand binding: A heteromeric complex

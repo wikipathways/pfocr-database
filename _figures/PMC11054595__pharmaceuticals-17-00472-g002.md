@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11054595
-filename: PMC11054595__pharmaceuticals-17-00472-g002.jpg
+filename: pharmaceuticals-17-00472-g002.jpg
 figlink: /pmc/articles/PMC11054595/figure/F2
 number: F2
 caption: The mechanisms or pathways associated with sepsis-induced ALI. Uncontrolled

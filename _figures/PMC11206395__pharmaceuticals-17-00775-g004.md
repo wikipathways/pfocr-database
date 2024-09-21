@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11206395
-filename: PMC11206395__pharmaceuticals-17-00775-g004.jpg
+filename: pharmaceuticals-17-00775-g004.jpg
 figlink: /pmc/articles/PMC11206395/figure/F4
 number: F4
 caption: The therapeutic mechanism of polyphenols for depression. Depression is caused

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10609794
-filename: PMC10609794__pharmaceuticals-16-01425-g002.jpg
+filename: pharmaceuticals-16-01425-g002.jpg
 figlink: /pmc/articles/PMC10609794/figure/F2
 number: F2
 caption: Role of the PRG4-CD44 axis in mitigating the pro-inflammatory and pro-fibrotic

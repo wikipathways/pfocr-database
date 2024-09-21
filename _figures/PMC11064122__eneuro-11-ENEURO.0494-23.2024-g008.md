@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11064122
-filename: PMC11064122__eneuro-11-ENEURO.0494-23.2024-g008.jpg
+filename: eneuro-11-ENEURO.0494-23.2024-g008.jpg
 figlink: /pmc/articles/PMC11064122/figure/F8
 number: F8
 caption: Schematic diagram of the mechanisms underlying preconditioning (PC)-induced

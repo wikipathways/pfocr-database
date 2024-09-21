@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10220821
-filename: PMC10220821__pharmaceuticals-16-00663-g007.jpg
+filename: pharmaceuticals-16-00663-g007.jpg
 figlink: /pmc/articles/PMC10220821/figure/F7
 number: F7
 caption: The metabolic pathway of clopidogrel (in)activation, considering the configuration

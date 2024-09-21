@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10820227
-filename: PMC10820227__pharmaceuticals-17-00043-g007.jpg
+filename: pharmaceuticals-17-00043-g007.jpg
 figlink: /pmc/articles/PMC10820227/figure/F7
 number: F7
 caption: ESR2/PI3K/AKT signalling pathway

@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11097647
-filename: PMC11097647__msystems.01405-23.f006.jpg
+filename: msystems.01405-23.f006.jpg
 figlink: /pmc/articles/PMC11097647/figure/F6
 number: F6
 caption: B cell receptor signaling pathway-enriched Module_01. Host genes involved

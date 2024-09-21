@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC11035983
-filename: PMC11035983__Beilstein_J_Org_Chem-20-815-g002.jpg
+filename: Beilstein_J_Org_Chem-20-815-g002.jpg
 figlink: /pmc/articles/PMC11035983/figure/F1
 number: F1
 caption: (a) Representative bioactive drimane-type sesquiterpenoids (DMTs). (b) Reported

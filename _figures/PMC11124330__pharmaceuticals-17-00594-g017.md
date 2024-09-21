@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11124330
-filename: PMC11124330__pharmaceuticals-17-00594-g017.jpg
+filename: pharmaceuticals-17-00594-g017.jpg
 figlink: /pmc/articles/PMC11124330/figure/F17
 number: F17
 caption: Schematic illustration of this study. BEPD regulates neutrophil recruitment

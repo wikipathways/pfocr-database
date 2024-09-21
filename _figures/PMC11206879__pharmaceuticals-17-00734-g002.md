@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11206879
-filename: PMC11206879__pharmaceuticals-17-00734-g002.jpg
+filename: pharmaceuticals-17-00734-g002.jpg
 figlink: /pmc/articles/PMC11206879/figure/F2
 number: F2
 caption: (A) The canonical activation of the NF-κB pathway begins with the activation

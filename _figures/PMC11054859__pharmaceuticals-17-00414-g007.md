@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11054859
-filename: PMC11054859__pharmaceuticals-17-00414-g007.jpg
+filename: pharmaceuticals-17-00414-g007.jpg
 figlink: /pmc/articles/PMC11054859/figure/F7
 number: F7
 caption: KEGG pathway (hsa04151 P13K-AKT signaling pathway). The red nodes represent

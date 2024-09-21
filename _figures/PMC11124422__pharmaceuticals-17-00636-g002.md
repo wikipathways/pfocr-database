@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11124422
-filename: PMC11124422__pharmaceuticals-17-00636-g002.jpg
+filename: pharmaceuticals-17-00636-g002.jpg
 figlink: /pmc/articles/PMC11124422/figure/F2
 number: F2
 caption: Diagram of the mechanism by which APS induces apoptosis in cancer cells by

@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10581046
-filename: PMC10581046__spectrum.01809-23.f007.jpg
+filename: spectrum.01809-23.f007.jpg
 figlink: /pmc/articles/PMC10581046/figure/F7
 number: F7
 caption: Metabolic pathway analysis of infection-associated module genes. Module genes

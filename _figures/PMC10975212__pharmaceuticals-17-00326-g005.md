@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10975212
-filename: PMC10975212__pharmaceuticals-17-00326-g005.jpg
+filename: pharmaceuticals-17-00326-g005.jpg
 figlink: /pmc/articles/PMC10975212/figure/F5
 number: F5
 caption: Non-SMAD, non-canonical TGF-β pathways. (A) ERK/MAP kinase pathway. TGF-β

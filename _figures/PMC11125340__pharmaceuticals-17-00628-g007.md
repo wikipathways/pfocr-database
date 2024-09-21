@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11125340
-filename: PMC11125340__pharmaceuticals-17-00628-g007.jpg
+filename: pharmaceuticals-17-00628-g007.jpg
 figlink: /pmc/articles/PMC11125340/figure/F7
 number: F7
 caption: BW18 promotes megakaryocytic and erythroid differentiation in erythroleukemia

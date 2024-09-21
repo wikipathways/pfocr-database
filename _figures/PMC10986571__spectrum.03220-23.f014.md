@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10986571
-filename: PMC10986571__spectrum.03220-23.f014.jpg
+filename: spectrum.03220-23.f014.jpg
 figlink: /pmc/articles/PMC10986571/figure/F14
 number: F14
 caption: Scheme depicting the mechanism of HO-1 and its metabolites against EqHV-8

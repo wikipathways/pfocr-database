@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10459054
-filename: PMC10459054__pharmaceuticals-16-01122-g004.jpg
+filename: pharmaceuticals-16-01122-g004.jpg
 figlink: /pmc/articles/PMC10459054/figure/F4
 number: F4
 caption: (1) AC acts on tumor-associated proteins, such as MMP3, and enhances 5-Fu

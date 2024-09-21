@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10304636
-filename: PMC10304636__pharmaceuticals-16-00836-g004.jpg
+filename: pharmaceuticals-16-00836-g004.jpg
 figlink: /pmc/articles/PMC10304636/figure/F4
 number: F4
 caption: Schematic diagram representing cardioprotective molecular mechanisms of GLP-1

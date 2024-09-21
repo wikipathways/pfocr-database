@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Caenorhabditis elegans
 pmcid: PMC10975450
-filename: PMC10975450__pharmaceuticals-17-00337-g002.jpg
+filename: pharmaceuticals-17-00337-g002.jpg
 figlink: /pmc/articles/PMC10975450/figure/F2
 number: F2
 caption: 'Signaling pathway molecular mechanisms: Several signaling pathways play

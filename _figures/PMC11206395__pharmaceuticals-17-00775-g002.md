@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11206395
-filename: PMC11206395__pharmaceuticals-17-00775-g002.jpg
+filename: pharmaceuticals-17-00775-g002.jpg
 figlink: /pmc/articles/PMC11206395/figure/F2
 number: F2
 caption: The therapeutic mechanism of polyphenols for sleep disorders. Sleep disorders

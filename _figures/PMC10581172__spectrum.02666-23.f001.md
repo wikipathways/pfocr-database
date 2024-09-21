@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC10581172
-filename: PMC10581172__spectrum.02666-23.f001.jpg
+filename: spectrum.02666-23.f001.jpg
 figlink: /pmc/articles/PMC10581172/figure/F1
 number: F1
 caption: Ergosterol synthesis pathway in Aspergillus fumigatus. Azoles inhibit Cyp51

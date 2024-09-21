@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10675562
-filename: PMC10675562__pharmaceuticals-16-01514-g006.jpg
+filename: pharmaceuticals-16-01514-g006.jpg
 figlink: /pmc/articles/PMC10675562/figure/F6
 number: F6
 caption: The HS potential inhibitory mechanism of GA via TGF-β/Smad signaling pathway.

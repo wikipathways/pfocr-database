@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10459054
-filename: PMC10459054__pharmaceuticals-16-01122-g002.jpg
+filename: pharmaceuticals-16-01122-g002.jpg
 figlink: /pmc/articles/PMC10459054/figure/F2
 number: F2
 caption: Anti-cancer mechanisms of five agents (1) resveratrol induces growth inhibition

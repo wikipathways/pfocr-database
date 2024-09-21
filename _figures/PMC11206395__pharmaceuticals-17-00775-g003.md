@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11206395
-filename: PMC11206395__pharmaceuticals-17-00775-g003.jpg
+filename: pharmaceuticals-17-00775-g003.jpg
 figlink: /pmc/articles/PMC11206395/figure/F3
 number: F3
 caption: The therapeutic mechanism of polyphenols for anxiety disorder. Anxiety disorder

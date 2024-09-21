@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10610260
-filename: PMC10610260__pharmaceuticals-16-01453-g002.jpg
+filename: pharmaceuticals-16-01453-g002.jpg
 figlink: /pmc/articles/PMC10610260/figure/F2
 number: F2
 caption: Dexmedetomidine’s highlighted mechanisms of action. (A) depicts the cellular

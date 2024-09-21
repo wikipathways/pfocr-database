@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC10458348
-filename: PMC10458348__pharmaceuticals-16-01095-g004.jpg
+filename: pharmaceuticals-16-01095-g004.jpg
 figlink: /pmc/articles/PMC10458348/figure/F4
 number: F4
 caption: 'Mechanism of action of the Wnt signaling pathway: The major Wnt signal pathway

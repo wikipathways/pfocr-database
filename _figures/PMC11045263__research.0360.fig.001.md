@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11045263
-filename: PMC11045263__research.0360.fig.001.jpg
+filename: research.0360.fig.001.jpg
 figlink: /pmc/articles/PMC11045263/figure/F1
 number: F1
 caption: The mechanisms underlying enhanced immunotherapy efficacy through exercise.

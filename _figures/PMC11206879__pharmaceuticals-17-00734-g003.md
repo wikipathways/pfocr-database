@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC11206879
-filename: PMC11206879__pharmaceuticals-17-00734-g003.jpg
+filename: pharmaceuticals-17-00734-g003.jpg
 figlink: /pmc/articles/PMC11206879/figure/F3
 number: F3
 caption: 'Alterations in major signaling pathways that have been identified in OS
