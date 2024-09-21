@@ -3,7 +3,7 @@ layout: none
 ---
 [
   {% assign sorted_figures = site.figures | sort: "year" | reverse %}
-  {% for pw in sorted_figures %}
+  {% for pw in sorted_figures limit:50000 %}
    {
         "title"    : "{{ pw.figtitle | escape }}",
         "alias"    : "{{ pw.figid_alias }}",

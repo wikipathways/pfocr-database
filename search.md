@@ -17,7 +17,7 @@ title: Search Results
   <span title="pro-tip" >
     <i class="fa fa-circle-info"></i>
   </span>
-  <i>Pro-tip:</i> Start typing any keywords for figure titles, captions, genes or metabolites and the first 40 results will appear. You can include organisms, keywords, and even publication year in your query. Multi-term queries are processed as AND queries.
+  <i>Pro-tip:</i> Start typing any keywords for figure titles, captions, genes or metabolites and the first 40 results will appear. You can include organisms, keywords, and even publication year in your query. Multi-term queries are processed as AND queries. Only the past 7 years are searchable.
 </div> 
 
 <div class="search">
