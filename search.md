@@ -45,6 +45,7 @@ title: Search Results
     {% for bp in sorted_browse %} 
       <li><a class="btn btn-sm {{bp.btn-class}} my-1" style="font-size:medium;width:105px;" href="{{bp.url}}" title="{{bp.tooltip}}"> {{ bp.display-title }}</a></li>
     {% endfor %}   
+    <li><a class="btn btn-sm btn-annotation btn-pill my-1" style="font-size:medium;width:105px;" href="https://pfocrummage.maayanlab.cloud" title="Search human figures by gene sets, PMC and keywords">PFOCRummage</a></li>
   </ul>
 </div> 
 
