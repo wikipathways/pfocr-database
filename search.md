@@ -57,7 +57,7 @@ SimpleJekyllSearch({
   searchResultTemplate: '<table style="border-style:none; padding:0px; margin:0px;"><tr> ' +
         '<td style="width:160px;border-style:none;"><a style="text-decoration:none;" href="{url}" ' + 
         'target="_blank"><img alt="Figure thumbnail" ' +
-         'src="https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}/bin/{filename}"/></a></td>' +
+         'src="https://europepmc.org/articles/{pmcid}/bin/{filename}"/></a></td>' +
          '<td style="border-style:none;"><a style="font-size:16px;text-decoration:none;color:#1A0DAB;" href="{url}" ' +
          'target="_blank">{title}</a>' +
          '<br/><span style="color:#777777;">{alias} - {organisms}</span>' +
