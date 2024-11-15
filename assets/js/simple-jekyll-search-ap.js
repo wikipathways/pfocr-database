@@ -155,9 +155,13 @@
     
     function search (crit) {
       if (!crit) {
-        return []
+        return { results: [], total: 0 }
       }
-      return findMatches(data, crit, opt.searchStrategy, opt).sort(opt.sort)
+      const matches = findMatches(data, crit, opt.searchStrategy, opt)
+      return {
+        results: matches.slice(0, opt.limit),
+        total: matches.length
+      }
     }
     
     function __setOptions_4 (_opt) {
@@ -172,13 +176,13 @@
     
     function findMatches (data, crit, strategy, opt) {
       const matches = []
-      for (let i = 0; i < data.length && matches.length < opt.limit; i++) {
+      for (let i = 0; i < data.length; i++) {
         const match = findMatchesInObject(data[i], crit, strategy, opt)
         if (match) {
           matches.push(match)
         }
       }
-      return matches
+      return matches.sort(opt.sort)
     }
     
     function findMatchesInObject (obj, crit, strategy, opt) {
@@ -404,32 +408,57 @@
             debounce(function () { search(e.target.value) }, options.debounceTime)
           }
         });
+
+        options.resultsContainer.addEventListener('click', function(e) {
+          if (e.target.classList.contains('show-more-link')) {
+            e.preventDefault();
+            const currentResults = _$Repository_4.search(options.searchInput.value);
+            const newLimit = options.limit + 40;
+            renderMore(currentResults, options.searchInput.value, newLimit);
+          }
+        });
+
         hasInputListener = true;
       }
    
       function search (query) {
         if (isValidQuery(query)) {
           emptyResultsContainer()
-          render(_$Repository_4.search(query), query)
+          const searchResults = _$Repository_4.search(query)
+          render(searchResults.results, searchResults.total, query)
         }
       }
     
-      function render (results, query) {
-        const len = results.length
-        if (len === 0) {
+      function render (results, totalResults, query) {
+        if (totalResults === 0) {
           return appendToResultsContainer(options.noResultsText)
         }
-        for (let i = 0; i < len; i++) {
+        for (let i = 0; i < results.length; i++) {
           results[i].query = query
           appendToResultsContainer(_$Templater_7.compile(results[i]))
         }
-        if (len === options.limit) {
-            return appendToResultsContainer('<div class="alert alert-warning" role="alert">' +
+        if (totalResults > options.limit) {
+          return appendToResultsContainer(
+            '<div class="alert alert-warning" role="alert">' +
             '<span title="pro-tip" >' +
               '<i class="fa fa-circle-info"></i>' +
-            '</span><i>&nbsp;Note:</i> Additional results not shown. Consider adding keywords to refine your search.' +
-          '</div> ')
-          }
+            '</span>' +
+            '<i>&nbsp;Note:</i> Showing ' + results.length + ' of ' + totalResults + ' results. ' +
+            '<a href="#" class="show-more-link">Show more</a>' +
+            '</div>'
+          )
+        }
+      }
+    
+      function renderMore(results, query, newLimit) {
+        options.limit = newLimit
+        _$Repository_4.setOptions({
+          limit: newLimit
+        })
+        
+        options.resultsContainer.innerHTML = ''
+        const searchResults = _$Repository_4.search(query)
+        render(searchResults.results, searchResults.total, query)
       }
     
       function isValidQuery (query) {
