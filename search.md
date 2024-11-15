@@ -37,10 +37,6 @@ title: Search Results
 <div class="alert" role="alert" style="float:right;width:150px;background-color:#ffeaca;color:#857444;">
   <h3>Additional ways to find figures:</h3> 
   <ul style="list-style:none;margin-left:-5px;text-align:center;">
-   {% assign sorted_browse = site.browse | where:"btn-class","btn-front" | sort: "order" %} 
-    {% for bp in sorted_browse %}
-      <li><a class="btn btn-sm {{bp.btn-class}} my-1" style="font-size:medium;width:105px;" href="{{bp.url}}" title="{{bp.tooltip}}"> {{ bp.display-title }}</a></li>
-    {% endfor %}
     {% assign sorted_browse = site.browse | where_exp:"item","item.btn-class contains 'pill'" | sort: "order" %}
     {% for bp in sorted_browse %} 
       <li><a class="btn btn-sm {{bp.btn-class}} my-1" style="font-size:medium;width:105px;" href="{{bp.url}}" title="{{bp.tooltip}}"> {{ bp.display-title }}</a></li>
