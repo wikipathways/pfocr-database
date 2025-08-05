@@ -66,8 +66,8 @@ data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.un
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 110408 pathway figures
-from 93057 published papers.
+The Pathway Figure OCR project has identified 116,972 pathway figures
+from 97,351 published papers.
 
 |           |     Total | Unique            | Specific      |
 |:----------|----------:|:------------------|:--------------|
