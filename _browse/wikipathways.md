@@ -13,7 +13,7 @@ btn-class: "btn-wikipathways btn-pill"
       </span>
     </a>
 </h1>
-<p>Browse the subset of pathway figures below that have been manually translated into WikiPathways models.</p>
+<p>Browse the subset of pathway figures below that have been manually translated into WikiPathways models. A tutorial describing how to create a WikiPathways model from a published figure is available on <a href="https://academy.wikipathways.org/stages/sig-start/" target="_blank">WikiPathways Academy</a>.</p>
 <hr/><br/>
 {% assign sorted_figures = site.figures | sort: "year" | reverse %}
 <ul> 
