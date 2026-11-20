@@ -8,8 +8,8 @@ This R notebooks prepares counts and figures to summarize PFOCR
 activity. The output files are displayed on the website and used in
 publications and grant applications.
 
--   Data points are collected in \_*data/*
--   Plots are saved in *assets/img/*
+- Data points are collected in \_*data/*
+- Plots are saved in *assets/img/*
 
 ## Read PFOCR .rds files
 
@@ -66,14 +66,14 @@ data <- data.frame(Total = c(gene.total,chem.total,di.total), Unique = c(gene.un
 row.names(data) = c("Genes", "Chemicals", "Diseases")
 ```
 
-The Pathway Figure OCR project has identified 116972 pathway figures
-from 97351 published papers.
+The Pathway Figure OCR project has identified 129811 pathway figures
+from 106300 published papers.
 
 |           |     Total | Unique            | Specific      |
 |:----------|----------:|:------------------|:--------------|
-| Genes     | 4,902,180 | 148382 (ncbigene) | 18775 (human) |
-| Chemicals |   377,499 | 14212 (mesh)      | 7855 (chebi)  |
-| Diseases  |    47,266 | 1632 (mesh)       | 748 (doid)    |
+| Genes     | 5,367,275 | 153393 (ncbigene) | 19187 (human) |
+| Chemicals |   437,015 | 14212 (mesh)      | 9104 (chebi)  |
+| Diseases  |    52,392 | 1632 (mesh)       | 895 (doid)    |
 
 Contents extracted from figures
 
