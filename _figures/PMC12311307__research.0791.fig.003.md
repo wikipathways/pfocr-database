@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12311307
-filename: jpg
+filename: research.0791.fig.003.jpg
 figlink: /pmc/articles/PMC12311307/figure/F3/
 number: F3
 caption: 'Potential targets of cell surface receptors on NEPC formation. (A) Proto-oncogenes:

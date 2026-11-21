@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13306136
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-51-4-624-g003.jpg
 figlink: /pmc/articles/PMC13306136/figure/F3/
 number: F3
 caption: '内皮细胞衰老与能量感应通路失衡Figure 3 Aging of endothelial cells and imbalance of energy

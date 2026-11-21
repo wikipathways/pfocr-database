@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC12772274
-filename: jpg
+filename: spectrum.03247-25.f005.jpg
 figlink: /pmc/articles/PMC12772274/figure/F5/
 number: F5
 caption: The pathway diagram of fatty acid, amino acids biosynthesis, and TCA cycle

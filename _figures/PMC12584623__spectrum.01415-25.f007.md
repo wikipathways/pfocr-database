@@ -10,7 +10,7 @@ organisms_ner:
 - Danio rerio
 - Homo sapiens
 pmcid: PMC12584623
-filename: jpg
+filename: spectrum.01415-25.f007.jpg
 figlink: /pmc/articles/PMC12584623/figure/F7/
 number: F7
 caption: The mechanism linking the intestinal permeability and bile acid accumulation

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12323604
-filename: jpg
+filename: spectrum.03423-24.f007.jpg
 figlink: /pmc/articles/PMC12323604/figure/F7/
 number: F7
 caption: A working model of MGF505-3R promoting ferroptosis to restrict type I IFN

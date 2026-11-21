@@ -9,7 +9,7 @@ organisms_ner:
 - Danio rerio
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC13304942
-filename: jpg
+filename: pharmaceuticals-19-00832-g008.jpg
 figlink: /pmc/articles/PMC13304942/figure/F8/
 number: F8
 caption: Crosstalk between AhR and Nrf2 pathways in the regulation of inflammation

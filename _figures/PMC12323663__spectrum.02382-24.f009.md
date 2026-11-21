@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12323663
-filename: jpg
+filename: spectrum.02382-24.f009.jpg
 figlink: /pmc/articles/PMC12323663/figure/F9/
 number: F9
 caption: Metabolic reprogramming strategy for metabolite screening in tigecycline-resistant

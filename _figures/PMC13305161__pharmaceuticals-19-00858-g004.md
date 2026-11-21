@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC13305161
-filename: jpg
+filename: pharmaceuticals-19-00858-g004.jpg
 figlink: /pmc/articles/PMC13305161/figure/F4/
 number: F4
 caption: Crosstalk between environmental signals, ferroptosis, and healing. This integrated

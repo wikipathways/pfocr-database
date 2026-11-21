@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12889132
-filename: jpg
+filename: spectrum.03363-25.f007.jpg
 figlink: /pmc/articles/PMC12889132/figure/F7/
 number: F7
 caption: KEGG histidine metabolism pathway overlaid with differential gene expression

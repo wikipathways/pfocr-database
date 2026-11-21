@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12472781
-filename: jpg
+filename: pharmaceuticals-18-01280-g008.jpg
 figlink: /pmc/articles/PMC12472781/figure/F8/
 number: F8
 caption: Spliceosome pathway and the identified proteins in ADEs. Red star indicated

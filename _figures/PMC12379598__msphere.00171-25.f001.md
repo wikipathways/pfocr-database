@@ -9,7 +9,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12379598
-filename: jpg
+filename: msphere.00171-25.f001.jpg
 figlink: /pmc/articles/PMC12379598/figure/F1/
 number: F1
 caption: Integrated pathways for the metabolism of lignin-derived aromatics and single-carbon

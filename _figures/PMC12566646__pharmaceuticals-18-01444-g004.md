@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12566646
-filename: jpg
+filename: pharmaceuticals-18-01444-g004.jpg
 figlink: /pmc/articles/PMC12566646/figure/F4/
 number: F4
 caption: Network analysis. Compared to anti-allergic drugs, ACP treatment for allergic

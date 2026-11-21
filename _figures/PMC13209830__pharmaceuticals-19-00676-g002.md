@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13209830
-filename: jpg
+filename: pharmaceuticals-19-00676-g002.jpg
 figlink: /pmc/articles/PMC13209830/figure/F2/
 number: F2
 caption: 'Integrated signaling pathways regulating vascular smooth muscle tone. The

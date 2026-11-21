@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12542780
-filename: jpg
+filename: msystems.00847-25.f003.jpg
 figlink: /pmc/articles/PMC12542780/figure/F3/
 number: F3
 caption: Redox imbalance during Mode 3 and strategies to resolve it. Strategy (A)

@@ -10,7 +10,7 @@ organisms_ner:
 - Arabidopsis thaliana
 - Danio rerio
 pmcid: PMC12964088
-filename: jpg
+filename: TurkJSurg-42-1-144-figure-5.jpg
 figlink: /pmc/articles/PMC12964088/figure/F5/
 number: F5
 caption: 'Hypothetical mechanism linking postoperative oxidative stress, BRCA1 deficiency,

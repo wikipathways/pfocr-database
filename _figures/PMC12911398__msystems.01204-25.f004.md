@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC12911398
-filename: jpg
+filename: msystems.01204-25.f004.jpg
 figlink: /pmc/articles/PMC12911398/figure/F4/
 number: F4
 caption: Putative AMGs identified in groundwater Patescibacteriota phages involved

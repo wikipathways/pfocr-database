@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12567467
-filename: jpg
+filename: pharmaceuticals-18-01443-g011.jpg
 figlink: /pmc/articles/PMC12567467/figure/F11/
 number: F11
 caption: Schematic representation of ClpP–HSPA8 axis in EOC. HSPA8 destabilizes ClpP,

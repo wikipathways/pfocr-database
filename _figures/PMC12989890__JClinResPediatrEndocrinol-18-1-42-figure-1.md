@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12989890
-filename: jpg
+filename: JClinResPediatrEndocrinol-18-1-42-figure-1.jpg
 figlink: /pmc/articles/PMC12989890/figure/F1/
 number: F1
 caption: Steroidogenic pathway of adrenal gland [modified from Figure.3 Rosenfeld

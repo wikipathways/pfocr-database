@@ -9,7 +9,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12462669
-filename: jpg
+filename: MAKCollection-10-02-Doc033-g001.jpg
 figlink: /pmc/articles/PMC12462669/figure/F1/
 number: F1
 caption: Postulated pathway for the formation of naphthalene–DNA adducts (according

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12736104
-filename: jpg
+filename: pharmaceuticals-18-01784-g001.jpg
 figlink: /pmc/articles/PMC12736104/figure/F1/
 number: F1
 caption: Conceptual overview of immune checkpoint pathways highlighting BTLA as an

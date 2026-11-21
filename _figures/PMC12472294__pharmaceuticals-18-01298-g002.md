@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12472294
-filename: jpg
+filename: pharmaceuticals-18-01298-g002.jpg
 figlink: /pmc/articles/PMC12472294/figure/F2/
 number: F2
 caption: Pain processing involves molecular and neural modulation in several areas,

@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12306180
-filename: jpg
+filename: msphere.00242-25.f006.jpg
 figlink: /pmc/articles/PMC12306180/figure/F6/
 number: F6
 caption: 'Proposed model of NTHi and Mcat coinfection. Green arrows and text represent

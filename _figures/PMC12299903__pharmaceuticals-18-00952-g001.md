@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12299903
-filename: jpg
+filename: pharmaceuticals-18-00952-g001.jpg
 figlink: /pmc/articles/PMC12299903/figure/F1/
 number: F1
 caption: Synthetic pathway to obtain alumina nanobiostructures based on EAAA-Lun-1

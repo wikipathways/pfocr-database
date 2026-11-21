@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12736151
-filename: jpg
+filename: pharmaceuticals-18-01785-g007.jpg
 figlink: /pmc/articles/PMC12736151/figure/F7/
 number: F7
 caption: Schematic illustration of the modulatory mechanism of ferroptosis inducers.

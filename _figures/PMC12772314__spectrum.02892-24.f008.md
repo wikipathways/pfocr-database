@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12772314
-filename: jpg
+filename: spectrum.02892-24.f008.jpg
 figlink: /pmc/articles/PMC12772314/figure/F8/
 number: F8
 caption: Schematic overview of metabolic pathways of B. cereus GYRND102. The portrayed

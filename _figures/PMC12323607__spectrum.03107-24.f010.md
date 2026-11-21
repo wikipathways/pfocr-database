@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12323607
-filename: jpg
+filename: spectrum.03107-24.f010.jpg
 figlink: /pmc/articles/PMC12323607/figure/F10/
 number: F10
 caption: 'Schematic showing the mechanisms underlying the activity of hyperoside against

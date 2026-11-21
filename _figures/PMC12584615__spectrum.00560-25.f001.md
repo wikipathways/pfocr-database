@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12584615
-filename: jpg
+filename: spectrum.00560-25.f001.jpg
 figlink: /pmc/articles/PMC12584615/figure/F1/
 number: F1
 caption: Metabolic pathways for degradation of 2,4-dichlorophenoxyacetic acid (2,4-D)

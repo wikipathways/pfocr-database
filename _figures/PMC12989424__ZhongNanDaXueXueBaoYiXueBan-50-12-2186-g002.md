@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12989424
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-12-2186-g002.jpg
 figlink: /pmc/articles/PMC12989424/figure/F2/
 number: F2
 caption: '肠道菌群通过多种通路构成一个高效的促转移网络Figure 2 Gut microbiota forms an efficient transfer

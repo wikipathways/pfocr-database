@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12710303
-filename: jpg
+filename: msystems.00692-25.f007.jpg
 figlink: /pmc/articles/PMC12710303/figure/F7/
 number: F7
 caption: Diagram of the primary molecular mechanism through which NaB inhibits CRC.

@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13118383
-filename: jpg
+filename: pharmaceuticals-19-00578-g003.jpg
 figlink: /pmc/articles/PMC13118383/figure/F3/
 number: F3
 caption: 'Combined analysis of transcriptome and network pharmacology: (A) “Target-pathway-phenotype”

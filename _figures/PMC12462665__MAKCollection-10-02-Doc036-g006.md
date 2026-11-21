@@ -11,7 +11,7 @@ organisms_ner:
 - Mus musculus
 - Drosophila melanogaster
 pmcid: PMC12462665
-filename: jpg
+filename: MAKCollection-10-02-Doc036-g006.jpg
 figlink: /pmc/articles/PMC12462665/figure/F3/
 number: F3
 caption: Postulated metabolic pathway for the processing of 1,2,4-trichlorobenzene

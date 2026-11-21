@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12911416
-filename: jpg
+filename: msystems.01509-25.f007.jpg
 figlink: /pmc/articles/PMC12911416/figure/F7/
 number: F7
 caption: Proposed mechanism of L-arginine enhancing the bactericidal efficiency of

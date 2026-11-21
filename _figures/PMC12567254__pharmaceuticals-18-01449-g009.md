@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12567254
-filename: jpg
+filename: pharmaceuticals-18-01449-g009.jpg
 figlink: /pmc/articles/PMC12567254/figure/F9/
 number: F9
 caption: 'The dietary supplement AS is rich in flavonoid compounds and can effectively

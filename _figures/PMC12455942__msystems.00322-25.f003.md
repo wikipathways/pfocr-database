@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12455942
-filename: jpg
+filename: msystems.00322-25.f003.jpg
 figlink: /pmc/articles/PMC12455942/figure/F3/
 number: F3
 caption: Metabolic models of PAOs from the full-scale EBPR plant. Colors indicate

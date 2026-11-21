@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12625758
-filename: jpg
+filename: msystems.00910-25.f007.jpg
 figlink: /pmc/articles/PMC12625758/figure/F7/
 number: F7
 caption: A graphical representation of the plant-associated lifestyle of MSSRF30T.

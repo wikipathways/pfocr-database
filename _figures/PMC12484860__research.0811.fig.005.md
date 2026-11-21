@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12484860
-filename: jpg
+filename: research.0811.fig.005.jpg
 figlink: /pmc/articles/PMC12484860/figure/F5/
 number: F5
 caption: Sepsis and mitochondrial quality control mechanisms. Mitochondria, the powerhouses

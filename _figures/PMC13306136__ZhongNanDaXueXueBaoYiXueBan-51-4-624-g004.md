@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13306136
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-51-4-624-g004.jpg
 figlink: /pmc/articles/PMC13306136/figure/F4/
 number: F4
 caption: '巨噬细胞表型转换与代谢调控Figure 4 Phenotypic transformation and metabolic regulation

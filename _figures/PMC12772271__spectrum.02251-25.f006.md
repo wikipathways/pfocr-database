@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Arabidopsis thaliana
 pmcid: PMC12772271
-filename: jpg
+filename: spectrum.02251-25.f006.jpg
 figlink: /pmc/articles/PMC12772271/figure/F6/
 number: F6
 caption: 'Xylose-, xylobiose-, and xylan-specific responses in a representative metabolic

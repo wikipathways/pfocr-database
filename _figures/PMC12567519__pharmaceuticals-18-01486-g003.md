@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12567519
-filename: jpg
+filename: pharmaceuticals-18-01486-g003.jpg
 figlink: /pmc/articles/PMC12567519/figure/F3/
 number: F3
 caption: Molecular Targets of Flavonoids Within the PI3K/AKT/mTOR Pathway in Breast

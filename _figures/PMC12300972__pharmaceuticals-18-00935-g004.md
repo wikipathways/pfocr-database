@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12300972
-filename: jpg
+filename: pharmaceuticals-18-00935-g004.jpg
 figlink: /pmc/articles/PMC12300972/figure/F4/
 number: F4
 caption: L-lactate regulates astroglial glutamate uptake and glycolysis through the

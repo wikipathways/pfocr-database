@@ -7,7 +7,7 @@ organisms_ner:
 - Danio rerio
 - Homo sapiens
 pmcid: PMC12655531
-filename: jpg
+filename: pharmaceuticals-18-01596-g010.jpg
 figlink: /pmc/articles/PMC12655531/figure/F10/
 number: F10
 caption: Proposed mechanism of action of SA in RL95-2 EC cells and HESC normal cells.

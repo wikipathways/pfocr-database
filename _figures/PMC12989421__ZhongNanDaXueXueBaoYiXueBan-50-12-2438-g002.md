@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12989421
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-12-2438-g002.jpg
 figlink: /pmc/articles/PMC12989421/figure/F2/
 number: F2
 caption: 'VNS调节痛觉的作用机制Figure 2 Mechanisms of pain modulation by VNSVNS: Vagus nerve

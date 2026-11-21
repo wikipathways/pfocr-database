@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12696696
-filename: jpg
+filename: research.0958.fig.010.jpg
 figlink: /pmc/articles/PMC12696696/figure/F10/
 number: F10
 caption: A schematic diagram of the mechanisms for inflammasome activation in bronchiectasis.

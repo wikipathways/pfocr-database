@@ -9,7 +9,7 @@ organisms_ner:
 - Mus musculus
 - Danio rerio
 pmcid: PMC12311307
-filename: jpg
+filename: research.0791.fig.002.jpg
 figlink: /pmc/articles/PMC12311307/figure/F2/
 number: F2
 caption: Potential targets on the surface of NEPC cells. Targeted inhibition of PARP1

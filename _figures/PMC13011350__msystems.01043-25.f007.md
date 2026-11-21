@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13011350
-filename: jpg
+filename: msystems.01043-25.f007.jpg
 figlink: /pmc/articles/PMC13011350/figure/F7/
 number: F7
 caption: 'Proposed mechanism of taurine against Lm infection. Taurine targets Lm virulence

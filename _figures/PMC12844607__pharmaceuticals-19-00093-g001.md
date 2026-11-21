@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12844607
-filename: jpg
+filename: pharmaceuticals-19-00093-g001.jpg
 figlink: /pmc/articles/PMC12844607/figure/F1/
 number: F1
 caption: Immunomodulatory and antitumoral mechanisms of curcumin and its derivatives,

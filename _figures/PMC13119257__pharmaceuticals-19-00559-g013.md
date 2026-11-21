@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13119257
-filename: jpg
+filename: pharmaceuticals-19-00559-g013.jpg
 figlink: /pmc/articles/PMC13119257/figure/F13/
 number: F13
 caption: Proposed mechanistic model of Rebamipide’s therapeutic and preventive actions

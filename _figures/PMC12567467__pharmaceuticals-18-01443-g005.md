@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12567467
-filename: jpg
+filename: pharmaceuticals-18-01443-g005.jpg
 figlink: /pmc/articles/PMC12567467/figure/F5/
 number: F5
 caption: Pharmacological activation of ClpP by ZG111, ONC201, and ONC212 induces mitochondrial

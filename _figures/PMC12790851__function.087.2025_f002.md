@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12790851
-filename: jpg
+filename: function.087.2025_f002.jpg
 figlink: /pmc/articles/PMC12790851/figure/F2/
 number: F2
 caption: Lipid mediators of the arachidonic acid signaling cascade. The enzymes lipoxygenases,

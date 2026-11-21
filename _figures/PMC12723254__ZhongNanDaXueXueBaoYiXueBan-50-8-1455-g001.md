@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12723254
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-8-1455-g001.jpg
 figlink: /pmc/articles/PMC12723254/figure/F1/
 number: F1
 caption: '脊髓神经胶质细胞参与慢性疼痛发生Figure 1 Spinal cord glial cells involved in the occurrence

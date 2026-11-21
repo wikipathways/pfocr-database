@@ -10,7 +10,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13028884
-filename: jpg
+filename: pharmaceuticals-19-00389-g001.jpg
 figlink: /pmc/articles/PMC13028884/figure/F1/
 number: F1
 caption: The riboflavin biosynthetic pathway (RFBP). GTP, guanosine triphosphate;

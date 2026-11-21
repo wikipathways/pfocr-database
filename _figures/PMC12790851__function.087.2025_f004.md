@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12790851
-filename: jpg
+filename: function.087.2025_f004.jpg
 figlink: /pmc/articles/PMC12790851/figure/F4/
 number: F4
 caption: Renal epithelial-immune cell interactions in sterile inflammation. Injury

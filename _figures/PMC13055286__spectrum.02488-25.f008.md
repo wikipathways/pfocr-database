@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13055286
-filename: jpg
+filename: spectrum.02488-25.f008.jpg
 figlink: /pmc/articles/PMC13055286/figure/F8/
 number: F8
 caption: The molecular mechanism of EsxN immune escape from macrophage killing and

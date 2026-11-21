@@ -7,7 +7,7 @@ organisms_ner:
 - Pseudogymnoascus destructans
 - Homo sapiens
 pmcid: PMC12817938
-filename: jpg
+filename: msystems.00903-25.f005.jpg
 figlink: /pmc/articles/PMC12817938/figure/F5/
 number: F5
 caption: Network representation of energy metabolism and related pathways in P. destructans

@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC13118965
-filename: jpg
+filename: pharmaceuticals-19-00523-g007.jpg
 figlink: /pmc/articles/PMC13118965/figure/F7/
 number: F7
 caption: 'Schematic diagram illustrating the proposed mechanism of LGZG in ameliorating

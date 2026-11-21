@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12323382
-filename: jpg
+filename: spectrum.00482-24.f003.jpg
 figlink: /pmc/articles/PMC12323382/figure/F3/
 number: F3
 caption: 'The potential pathway by which gut microbes and metabolites influence atherosclerosis.

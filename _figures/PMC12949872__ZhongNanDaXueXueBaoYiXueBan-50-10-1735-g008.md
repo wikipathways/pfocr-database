@@ -10,7 +10,7 @@ organisms_ner:
 - Rattus norvegicus
 - Danio rerio
 pmcid: PMC12949872
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-10-1735-g008.jpg
 figlink: /pmc/articles/PMC12949872/figure/F8/
 number: F8
 caption: 'GPs regulate m6A methylase and demethylase, which in turn increases the

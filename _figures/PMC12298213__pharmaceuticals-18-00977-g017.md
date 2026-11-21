@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12298213
-filename: jpg
+filename: pharmaceuticals-18-00977-g017.jpg
 figlink: /pmc/articles/PMC12298213/figure/F17/
 number: F17
 caption: Therapeutic mechanism of AD808 in the mouse model of Alzheimer’s disease.

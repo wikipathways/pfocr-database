@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12389403
-filename: jpg
+filename: pharmaceuticals-18-01133-g001.jpg
 figlink: /pmc/articles/PMC12389403/figure/F1/
 number: F1
 caption: Schematic representation of cardiomyocyte metabolic maturation. In immature

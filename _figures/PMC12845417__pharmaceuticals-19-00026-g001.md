@@ -10,7 +10,7 @@ organisms_ner:
 - Mus musculus
 - Drosophila melanogaster
 pmcid: PMC12845417
-filename: jpg
+filename: pharmaceuticals-19-00026-g001.jpg
 figlink: /pmc/articles/PMC12845417/figure/F1/
 number: F1
 caption: 'The siRNA pathway mediating post-transcriptional gene silencing. RNA interference

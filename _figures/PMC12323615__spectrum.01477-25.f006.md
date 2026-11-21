@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12323615
-filename: jpg
+filename: spectrum.01477-25.f006.jpg
 figlink: /pmc/articles/PMC12323615/figure/F6/
 number: F6
 caption: A model for the regulation of the ComDE pathway in S. mutans is shown. The

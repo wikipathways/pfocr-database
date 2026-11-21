@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12472998
-filename: jpg
+filename: pharmaceuticals-18-01317-g003.jpg
 figlink: /pmc/articles/PMC12472998/figure/F3/
 number: F3
 caption: 'The signaling pathway involved in regulating macrophage polarization in

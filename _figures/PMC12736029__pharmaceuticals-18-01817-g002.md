@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12736029
-filename: jpg
+filename: pharmaceuticals-18-01817-g002.jpg
 figlink: /pmc/articles/PMC12736029/figure/F2/
 number: F2
 caption: Endocannabinoid system-Extracellular vesicles interface. Endocannabinoid

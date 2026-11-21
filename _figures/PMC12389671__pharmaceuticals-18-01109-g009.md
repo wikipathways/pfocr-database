@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12389671
-filename: jpg
+filename: pharmaceuticals-18-01109-g009.jpg
 figlink: /pmc/articles/PMC12389671/figure/F9/
 number: F9
 caption: Overall mechanism diagram of QFD against SIC by suppressing TLR4/NF-κB/NLRP3

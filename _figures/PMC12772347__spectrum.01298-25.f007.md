@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12772347
-filename: jpg
+filename: spectrum.01298-25.f007.jpg
 figlink: /pmc/articles/PMC12772347/figure/F7/
 number: F7
 caption: Proposed model of IAA-mediated MAPK pathway regulation under heat stress.

@@ -25,7 +25,7 @@ organisms_ner:
 - Danio rerio
 - Arabidopsis thaliana
 pmcid: PMC12943385
-filename: jpg
+filename: pharmaceuticals-19-00212-g009.jpg
 figlink: /pmc/articles/PMC12943385/figure/F9/
 number: F9
 caption: Mechanism of Qingfei Tongluo Jiedu formula (QTJD) in the treatment of Mycoplasma

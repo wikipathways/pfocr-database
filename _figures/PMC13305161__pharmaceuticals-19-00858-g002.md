@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13305161
-filename: jpg
+filename: pharmaceuticals-19-00858-g002.jpg
 figlink: /pmc/articles/PMC13305161/figure/F2/
 number: F2
 caption: 'Mechanistic networks driving ferroptosis in colitis. This figure details

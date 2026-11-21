@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12710314
-filename: jpg
+filename: msystems.01469-25.f008.jpg
 figlink: /pmc/articles/PMC12710314/figure/F8/
 number: F8
 caption: Metabolic nodes influenced by the transcription factor LigR. Blue arrows

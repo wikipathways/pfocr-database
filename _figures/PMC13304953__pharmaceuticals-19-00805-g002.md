@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC13304953
-filename: jpg
+filename: pharmaceuticals-19-00805-g002.jpg
 figlink: /pmc/articles/PMC13304953/figure/F2/
 number: F2
 caption: Fragmentation pathways of the nine compounds in WTHXC. (A) Proposed fragmentation

@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Mus musculus
 pmcid: PMC13304611
-filename: jpg
+filename: pharmaceuticals-19-00877-g008.jpg
 figlink: /pmc/articles/PMC13304611/figure/F8/
 number: F8
 caption: Schematic illustration of the microbiota–SCFA–FFAR2–NLRP3–IL-1β signaling

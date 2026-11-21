@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12282186
-filename: jpg
+filename: msystems.01732-24.f003.jpg
 figlink: /pmc/articles/PMC12282186/figure/F3/
 number: F3
 caption: 'DE miRNAs and mirPath V.3—KEGG predicted functional pathways (KEGG pathway

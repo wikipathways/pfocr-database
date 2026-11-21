@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12403566
-filename: jpg
+filename: spectrum.01820-25.f006.jpg
 figlink: /pmc/articles/PMC12403566/figure/F6/
 number: F6
 caption: Functional enriched pathways in LGD, HGD, and invasive cancer-derived bacterial

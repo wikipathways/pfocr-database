@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Danio rerio
 pmcid: PMC12300286
-filename: jpg
+filename: pharmaceuticals-18-00978-g003.jpg
 figlink: /pmc/articles/PMC12300286/figure/F3/
 number: F3
 caption: In cancer cells, MYC upregulates ASS1 expression, enhancing arginine biosynthesis

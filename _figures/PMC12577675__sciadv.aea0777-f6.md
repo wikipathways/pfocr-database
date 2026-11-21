@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12577675
-filename: jpg
+filename: sciadv.aea0777-f6.jpg
 figlink: /pmc/articles/PMC12577675/figure/F6/
 number: F6
 caption: (A) Formation of alkyl nickel(I) intermediate through OSET, SCS, P.T., and

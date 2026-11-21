@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12790851
-filename: jpg
+filename: function.087.2025_f001.jpg
 figlink: /pmc/articles/PMC12790851/figure/F1/
 number: F1
 caption: 'Schematic representation of DAMPs and PAMPs with their PRRs. This schematic

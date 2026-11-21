@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Mus musculus
 pmcid: PMC13228072
-filename: jpg
+filename: spectrum.03429-25.f012.jpg
 figlink: /pmc/articles/PMC13228072/figure/F12/
 number: F12
 caption: 'Signaling mechanisms underlying aberrant vascular remodeling in the uterus

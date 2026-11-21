@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC12671167
-filename: jpg
+filename: spectrum.03428-24.f008.jpg
 figlink: /pmc/articles/PMC12671167/figure/F8/
 number: F8
 caption: The genes related to the enterobactin biosynthesis pathway were confirmed

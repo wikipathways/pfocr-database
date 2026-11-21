@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12573267
-filename: jpg
+filename: research.0967.fig.002.jpg
 figlink: /pmc/articles/PMC12573267/figure/F2/
 number: F2
 caption: Regulation of tumor metabolism by ncRNA-encoded micropeptides. In HCC, circRNA-encoded

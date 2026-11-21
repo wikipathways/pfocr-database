@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12566796
-filename: jpg
+filename: pharmaceuticals-18-01457-g001.jpg
 figlink: /pmc/articles/PMC12566796/figure/F1/
 number: F1
 caption: 'Overview of factors contributing to Aβ accumulation and aggregation pathways

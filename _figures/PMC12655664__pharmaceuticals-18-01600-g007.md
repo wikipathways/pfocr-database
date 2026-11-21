@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12655664
-filename: jpg
+filename: pharmaceuticals-18-01600-g007.jpg
 figlink: /pmc/articles/PMC12655664/figure/F7/
 number: F7
 caption: Pathway diagram of succinate metabolic disorder induced by BPAF and the in

@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12724140
-filename: jpg
+filename: msphere.00520-25.f006.jpg
 figlink: /pmc/articles/PMC12724140/figure/F6/
 number: F6
 caption: The schematic diagram shows the link between microtubule destabilization

@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13209509
-filename: jpg
+filename: pharmaceuticals-19-00718-g009.jpg
 figlink: /pmc/articles/PMC13209509/figure/F9/
 number: F9
 caption: 'Mechanism diagram of Wugen San (WGS) against rheumatoid arthritis (RA).

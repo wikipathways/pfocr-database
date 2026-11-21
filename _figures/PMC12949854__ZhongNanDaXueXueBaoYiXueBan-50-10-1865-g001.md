@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12949854
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-10-1865-g001.jpg
 figlink: /pmc/articles/PMC12949854/figure/F1/
 number: F1
 caption: 'IKZF3 基因在多种肿瘤中作用的信号转导通路Figure 1 Ignal transduction pathways of IKZF3 gene

@@ -12,7 +12,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12502722
-filename: jpg
+filename: spectrum.00741-25.f005.jpg
 figlink: /pmc/articles/PMC12502722/figure/F5/
 number: F5
 caption: Proposed pathway for E3 biodegradation by the IF-consortium

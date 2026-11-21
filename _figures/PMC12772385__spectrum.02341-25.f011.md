@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12772385
-filename: jpg
+filename: spectrum.02341-25.f011.jpg
 figlink: /pmc/articles/PMC12772385/figure/F11/
 number: F11
 caption: Mechanism of andrographolide against respiratory syncytial virus infection.

@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12723254
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-8-1455-g002.jpg
 figlink: /pmc/articles/PMC12723254/figure/F2/
 number: F2
 caption: '脊髓小胶质细胞/星形胶质细胞参与EIA过程的可能机制Figure 2 Possible mechanisms of spinal cord microglia/astrocyte

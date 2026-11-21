@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12580996
-filename: jpg
+filename: Beilstein_J_Org_Chem-21-2260-g020.jpg
 figlink: /pmc/articles/PMC12580996/figure/F19/
 number: S19
 caption: Ag(I)-mediated pathway-controlled cycloisomerization of tryptamine-ynamides

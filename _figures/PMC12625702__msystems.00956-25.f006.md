@@ -10,7 +10,7 @@ organisms_ner:
 - Escherichia coli str. K-12 substr. MG1655
 - Homo sapiens
 pmcid: PMC12625702
-filename: jpg
+filename: msystems.00956-25.f006.jpg
 figlink: /pmc/articles/PMC12625702/figure/F6/
 number: F6
 caption: Reconstruction of the metabolic capabilities of the four key thermophilic

@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13141888
-filename: jpg
+filename: spectrum.03105-25.f004.jpg
 figlink: /pmc/articles/PMC13141888/figure/F4/
 number: F4
 caption: 'Proposed pathways for degradation of phenol, benzoic acid, salicylic acid,

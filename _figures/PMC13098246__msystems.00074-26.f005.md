@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13098246
-filename: jpg
+filename: msystems.00074-26.f005.jpg
 figlink: /pmc/articles/PMC13098246/figure/F5/
 number: F5
 caption: Graphical representation of E. coli RL3019, T. saccharolyticum M1442, and

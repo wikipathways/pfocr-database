@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12946533
-filename: jpg
+filename: BalkanMedJ-43-3-136-figure-7.jpg
 figlink: /pmc/articles/PMC12946533/figure/F7/
 number: F7
 caption: sFgl2 from sFgl2-MSCs binds neutrophil CD32b, activating the TGF- β-Smad2/3

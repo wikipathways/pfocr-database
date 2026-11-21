@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12389544
-filename: jpg
+filename: pharmaceuticals-18-01082-g002.jpg
 figlink: /pmc/articles/PMC12389544/figure/F2/
 number: F2
 caption: Distinct Roles and Functions of M1 and M2 Macrophages. This image was created

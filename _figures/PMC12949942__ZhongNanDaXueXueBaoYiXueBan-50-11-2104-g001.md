@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12949942
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-50-11-2104-g001.jpg
 figlink: /pmc/articles/PMC12949942/figure/F1/
 number: F1
 caption: 'TGF-β1信号通路的核心机制与交互网络Figure 1 Core mechanisms and interactive network of

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12625709
-filename: jpg
+filename: msystems.00611-25.f005.jpg
 figlink: /pmc/articles/PMC12625709/figure/F5/
 number: F5
 caption: Relative abundances of metabolites in the TCA cycle pathway in mock- versus

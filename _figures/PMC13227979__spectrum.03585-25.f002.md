@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC13227979
-filename: jpg
+filename: spectrum.03585-25.f002.jpg
 figlink: /pmc/articles/PMC13227979/figure/F2/
 number: F2
 caption: 'Schematic overview of fitness-associated gene depletion in the menaquinone

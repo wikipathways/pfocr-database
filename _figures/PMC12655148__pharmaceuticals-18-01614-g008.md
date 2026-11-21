@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12655148
-filename: jpg
+filename: pharmaceuticals-18-01614-g008.jpg
 figlink: /pmc/articles/PMC12655148/figure/F8/
 number: F8
 caption: Diagrams of the PI3K-AKT signaling pathway. Highlighting the target that

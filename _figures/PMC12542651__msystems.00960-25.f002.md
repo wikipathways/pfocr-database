@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12542651
-filename: jpg
+filename: msystems.00960-25.f002.jpg
 figlink: /pmc/articles/PMC12542651/figure/F2/
 number: F2
 caption: 'The cellulose degradation pathway (top left) includes degradation pathways

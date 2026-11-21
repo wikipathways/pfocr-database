@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC13118558
-filename: jpg
+filename: pharmaceuticals-19-00545-g013.jpg
 figlink: /pmc/articles/PMC13118558/figure/F13/
 number: F13
 caption: Proposed Working Model Illustrating the Synergistic Antitumor Effects of

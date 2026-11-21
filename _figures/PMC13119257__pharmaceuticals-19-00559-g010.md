@@ -10,7 +10,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13119257
-filename: jpg
+filename: pharmaceuticals-19-00559-g010.jpg
 figlink: /pmc/articles/PMC13119257/figure/F10/
 number: F10
 caption: Network analysis of key regulatory genes associated with MHFD and Rebamipide

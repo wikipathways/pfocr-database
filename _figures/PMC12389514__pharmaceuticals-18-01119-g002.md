@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC12389514
-filename: jpg
+filename: pharmaceuticals-18-01119-g002.jpg
 figlink: /pmc/articles/PMC12389514/figure/F2/
 number: F2
 caption: Metabolic pathway of folate synthesis in bacteria, highlighting the target

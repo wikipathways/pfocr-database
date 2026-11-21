@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12484860
-filename: jpg
+filename: research.0811.fig.002.jpg
 figlink: /pmc/articles/PMC12484860/figure/F2/
 number: F2
 caption: The transport and activation mechanisms of the JAK/STAT signaling pathway

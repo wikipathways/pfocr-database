@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12472545
-filename: jpg
+filename: pharmaceuticals-18-01263-g010.jpg
 figlink: /pmc/articles/PMC12472545/figure/F10/
 number: F10
 caption: 'Correlation between DEPs and pathways in KEGG analysis: (A) necroptosis;

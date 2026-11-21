@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Danio rerio
 pmcid: PMC12566657
-filename: jpg
+filename: pharmaceuticals-18-01445-g008.jpg
 figlink: /pmc/articles/PMC12566657/figure/F8/
 number: F8
 caption: Proposed mechanism of dasatinib. Dasatinib has been demonstrated to increase

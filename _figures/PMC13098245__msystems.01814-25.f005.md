@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13098245
-filename: jpg
+filename: msystems.01814-25.f005.jpg
 figlink: /pmc/articles/PMC13098245/figure/F5/
 number: F5
 caption: MazF-mt9 selectively enhances synthesis of enzymes and transporters for PDIM

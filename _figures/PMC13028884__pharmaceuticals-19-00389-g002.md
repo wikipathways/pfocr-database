@@ -11,7 +11,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13028884
-filename: jpg
+filename: pharmaceuticals-19-00389-g002.jpg
 figlink: /pmc/articles/PMC13028884/figure/F2/
 number: F2
 caption: The riboflavin biosynthetic pathway (RFBP, yellow box) and interconnected

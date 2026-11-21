@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC13209886
-filename: jpg
+filename: pharmaceuticals-19-00707-g014.jpg
 figlink: /pmc/articles/PMC13209886/figure/F14/
 number: F14
 caption: 'Catalytic role of ICL1/ICL2. On the top left, the schematic catalytic pathway:

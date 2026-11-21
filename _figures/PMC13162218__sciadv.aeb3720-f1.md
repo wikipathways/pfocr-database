@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13162218
-filename: jpg
+filename: sciadv.aeb3720-f1.jpg
 figlink: /pmc/articles/PMC13162218/figure/F1/
 number: F1
 caption: '(A) Underdeveloped TM-free XEC strategy. (B) e-XEC of alkyl halides via

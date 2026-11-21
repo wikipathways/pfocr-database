@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12487761
-filename: jpg
+filename: msphere.00640-23.f001.jpg
 figlink: /pmc/articles/PMC12487761/figure/F1/
 number: F1
 caption: 'The extracellular adenosine signaling pathway. Signaling via adenosine receptors

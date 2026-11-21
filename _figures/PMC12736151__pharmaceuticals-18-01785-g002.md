@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12736151
-filename: jpg
+filename: pharmaceuticals-18-01785-g002.jpg
 figlink: /pmc/articles/PMC12736151/figure/F2/
 number: F2
 caption: 'The core molecular mechanism of ferroptosis: (a) Schematic representation

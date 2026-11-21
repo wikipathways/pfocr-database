@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12472799
-filename: jpg
+filename: pharmaceuticals-18-01275-g005a.jpg
 figlink: /pmc/articles/PMC12472799/figure/F5/
 number: F5
 caption: Herb-KEGG pathway interaction network and GO enrichment analysis. (A,B),

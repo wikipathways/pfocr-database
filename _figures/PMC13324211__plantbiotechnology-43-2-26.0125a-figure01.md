@@ -9,7 +9,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC13324211
-filename: jpg
+filename: plantbiotechnology-43-2-26.0125a-figure01.jpg
 figlink: /pmc/articles/PMC13324211/figure/FNA/
 number: F0
 caption: Figure 1. Engineered pathway for NRGI from NRG in S. pombe. NRGI is produced

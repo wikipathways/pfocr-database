@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC13141825
-filename: jpg
+filename: spectrum.02503-25.f004.jpg
 figlink: /pmc/articles/PMC13141825/figure/F4/
 number: F4
 caption: Functional annotation of nucleic acid sequences and metabolic mapping. Genome-based

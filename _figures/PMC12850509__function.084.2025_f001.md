@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12850509
-filename: jpg
+filename: function.084.2025_f001.jpg
 figlink: /pmc/articles/PMC12850509/figure/F1/
 number: F1
 caption: 'Schematic of strategy targeting CRH-nTS pathway. A Cre-expressing AAV driven

@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13209269
-filename: jpg
+filename: microorganisms-14-00980-g004a.jpg
 figlink: /pmc/articles/PMC13209269/figure/F4/
 number: F4
 caption: Effects of iron floc treatment on sediment nitrogen cycling functions. (a)

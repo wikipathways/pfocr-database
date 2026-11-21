@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12577707
-filename: jpg
+filename: sciadv.adx4417-f7.jpg
 figlink: /pmc/articles/PMC12577707/figure/F7/
 number: F7
 caption: This model illustrates how SA inhibits hypocotyl elongation in the dark via

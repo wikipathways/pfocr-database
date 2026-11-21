@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13305673
-filename: jpg
+filename: ZhongNanDaXueXueBaoYiXueBan-51-4-645-g001.jpg
 figlink: /pmc/articles/PMC13305673/figure/F1/
 number: F1
 caption: TMAO的产生与代谢通路Figure 1 Generation and metabolic pathway of TMAO

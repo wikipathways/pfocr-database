@@ -9,7 +9,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12462665
-filename: jpg
+filename: MAKCollection-10-02-Doc036-g004.jpg
 figlink: /pmc/articles/PMC12462665/figure/F1/
 number: F1
 caption: Postulated metabolic pathways for 1,2,3-trichlorobenzene, 1,2,4-trichlorobenzene

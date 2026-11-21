@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12484860
-filename: jpg
+filename: research.0811.fig.004.jpg
 figlink: /pmc/articles/PMC12484860/figure/F4/
 number: F4
 caption: The mechanism of action of HIF-1α in normoxia versus hypoxia inflammatory

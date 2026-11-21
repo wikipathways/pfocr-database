@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12573267
-filename: jpg
+filename: research.0967.fig.005.jpg
 figlink: /pmc/articles/PMC12573267/figure/F5/
 number: F5
 caption: Function of micropeptides encoded by ncRNA in other diseases. (A) The micropeptide

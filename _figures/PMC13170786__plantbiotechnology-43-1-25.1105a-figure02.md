@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Arabidopsis thaliana
 pmcid: PMC13170786
-filename: jpg
+filename: plantbiotechnology-43-1-25.1105a-figure02.jpg
 figlink: /pmc/articles/PMC13170786/figure/FNA/
 number: F0
 caption: 'Figure 2. Regulation of the nitrate assimilation pathway by NLP TFs. (A)

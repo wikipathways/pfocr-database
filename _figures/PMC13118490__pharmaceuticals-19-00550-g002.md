@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC13118490
-filename: jpg
+filename: pharmaceuticals-19-00550-g002.jpg
 figlink: /pmc/articles/PMC13118490/figure/F2/
 number: F2
 caption: 'Multitargeted mechanisms of natural compounds in cancer hallmarks. This

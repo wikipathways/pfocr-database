@@ -8,7 +8,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13170813
-filename: jpg
+filename: plantbiotechnology-43-1-25.1209a-figure01.jpg
 figlink: /pmc/articles/PMC13170813/figure/FNA/
 number: F0
 caption: Figure 1. Hordatine A (HA) biosynthetic pathway

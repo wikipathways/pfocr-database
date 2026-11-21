@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13119447
-filename: jpg
+filename: microorganisms-14-00736-g002a.jpg
 figlink: /pmc/articles/PMC13119447/figure/F2/
 number: F2
 caption: 'Inflammatory response patterns of neutrophils, macrophages, and natural

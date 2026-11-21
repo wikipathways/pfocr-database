@@ -17,7 +17,7 @@ organisms_ner:
 - Fusobacterium nucleatum
 - Danio rerio
 pmcid: PMC12502665
-filename: jpg
+filename: spectrum.00160-25.f007.jpg
 figlink: /pmc/articles/PMC12502665/figure/F7/
 number: F7
 caption: '(A) Upregulated miRNAs in wild-type mice altering 10 genes in Toll-like

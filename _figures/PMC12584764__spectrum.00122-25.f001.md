@@ -8,7 +8,7 @@ organisms_ner:
 - Escherichia coli str. K-12 substr. MG1655
 - Danio rerio
 pmcid: PMC12584764
-filename: jpg
+filename: spectrum.00122-25.f001.jpg
 figlink: /pmc/articles/PMC12584764/figure/F1/
 number: F1
 caption: Putative GlcNAc catabolism components in A. fumigatus. (A) Blasted with C.

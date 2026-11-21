@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Escherichia coli str. K-12 substr. MG1655
 pmcid: PMC13011439
-filename: jpg
+filename: msystems.01183-25.f004.jpg
 figlink: /pmc/articles/PMC13011439/figure/F4/
 number: F4
 caption: 'Integrated metabolic and virulence adaptation of S. aureus in response to

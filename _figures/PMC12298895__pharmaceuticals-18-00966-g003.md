@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12298895
-filename: jpg
+filename: pharmaceuticals-18-00966-g003.jpg
 figlink: /pmc/articles/PMC12298895/figure/F3/
 number: F3
 caption: The PI3K-Akt-mTOR pathway with autophagy and apoptosis regulation

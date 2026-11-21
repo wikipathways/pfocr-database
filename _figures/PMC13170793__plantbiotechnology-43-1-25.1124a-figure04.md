@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC13170793
-filename: jpg
+filename: plantbiotechnology-43-1-25.1124a-figure04.jpg
 figlink: /pmc/articles/PMC13170793/figure/FNA/
 number: F0
 caption: Figure 4. Putative oxalate synthesis pathway in oxalate-rich plants

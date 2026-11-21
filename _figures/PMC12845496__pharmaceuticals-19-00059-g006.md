@@ -8,7 +8,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12845496
-filename: jpg
+filename: pharmaceuticals-19-00059-g006.jpg
 figlink: /pmc/articles/PMC12845496/figure/F6/
 number: F6
 caption: Graphical abstract illustrates the pathway for DIC through crosstalk between

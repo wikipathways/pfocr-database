@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12577691
-filename: jpg
+filename: sciadv.aea6817-f2.jpg
 figlink: /pmc/articles/PMC12577691/figure/F2/
 number: F2
 caption: '(A) Mechanical cues activate integrins, leading to the recruitment of Talin,

@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - NA
 pmcid: PMC13098245
-filename: jpg
+filename: msystems.01814-25.f010.jpg
 figlink: /pmc/articles/PMC13098245/figure/F10/
 number: F10
 caption: MazF-mt9 expression leads to the reduced synthesis of enzymes involved in

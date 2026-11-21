@@ -10,7 +10,7 @@ organisms_ner:
 - Mus musculus
 - Danio rerio
 pmcid: PMC12735480
-filename: jpg
+filename: pharmaceuticals-18-01802-g006.jpg
 figlink: /pmc/articles/PMC12735480/figure/F6/
 number: F6
 caption: The schematic diagram shows the effect and mechanism of Myr alleviates IMQ-induced

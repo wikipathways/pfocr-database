@@ -17,7 +17,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12943270
-filename: jpg
+filename: pharmaceuticals-19-00236-g007.jpg
 figlink: /pmc/articles/PMC12943270/figure/F7/
 number: F7
 caption: HGWD interferes with RA based on TNF, Th17 cell differentiation, and IL-17

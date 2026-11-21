@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12735853
-filename: jpg
+filename: pharmaceuticals-18-01775-g012.jpg
 figlink: /pmc/articles/PMC12735853/figure/F12/
 number: F12
 caption: Therapeutic mechanism of ST909 in the rat model of ischemic brain injury.

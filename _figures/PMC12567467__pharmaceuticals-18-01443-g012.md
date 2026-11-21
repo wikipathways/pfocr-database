@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12567467
-filename: jpg
+filename: pharmaceuticals-18-01443-g012.jpg
 figlink: /pmc/articles/PMC12567467/figure/F12/
 number: F12
 caption: ClpP as a mitochondrial checkpoint in breast cancer subtypes. (A) In MCF7

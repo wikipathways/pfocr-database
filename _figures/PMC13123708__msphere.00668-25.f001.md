@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC13123708
-filename: jpg
+filename: msphere.00668-25.f001.jpg
 figlink: /pmc/articles/PMC13123708/figure/F1/
 number: F1
 caption: The central metabolic decision-making network of GAS links carbon source

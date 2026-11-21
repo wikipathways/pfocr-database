@@ -7,7 +7,7 @@ organisms_ner:
 - Danio rerio
 - Homo sapiens
 pmcid: PMC12790851
-filename: jpg
+filename: function.087.2025_f003.jpg
 figlink: /pmc/articles/PMC12790851/figure/F3/
 number: F3
 caption: 'Key intracellular signaling pathways activated by innate immune receptors.

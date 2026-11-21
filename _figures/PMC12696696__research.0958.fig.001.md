@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12696696
-filename: jpg
+filename: research.0958.fig.001.jpg
 figlink: /pmc/articles/PMC12696696/figure/F1/
 number: F1
 caption: Flowchart of patient inclusion and study design. (A) Flowchart of patient

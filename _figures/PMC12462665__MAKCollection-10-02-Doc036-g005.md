@@ -10,7 +10,7 @@ organisms_ner:
 - Mus musculus
 - Drosophila melanogaster
 pmcid: PMC12462665
-filename: jpg
+filename: MAKCollection-10-02-Doc036-g005.jpg
 figlink: /pmc/articles/PMC12462665/figure/F2/
 number: F2
 caption: Postulated metabolic pathway for 1,2,4-trichlorobenzene after intraperitoneal

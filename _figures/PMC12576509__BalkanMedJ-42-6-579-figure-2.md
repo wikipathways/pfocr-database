@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Danio rerio
 pmcid: PMC12576509
-filename: jpg
+filename: BalkanMedJ-42-6-579-figure-2.jpg
 figlink: /pmc/articles/PMC12576509/figure/F2/
 number: F2
 caption: Scheme showing interaction(s) between cGAS-STING pathway and EFAs and its

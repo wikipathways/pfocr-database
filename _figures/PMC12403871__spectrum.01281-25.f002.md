@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12403871
-filename: jpg
+filename: spectrum.01281-25.f002.jpg
 figlink: /pmc/articles/PMC12403871/figure/F2/
 number: F2
 caption: Metabolic pathways of M. sporium 5 with gene expression profiles. Transcriptomic

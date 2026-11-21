@@ -13,7 +13,7 @@ organisms_ner:
 - Mus musculus
 - Danio rerio
 pmcid: PMC12396819
-filename: jpg
+filename: elife-102681-fig7-figsupp1.jpg
 figlink: /pmc/articles/PMC12396819/figure/F1/
 number: SF7_1.
 caption: 'Pathway map of RAS Initiative with highlighted DEGs in ΔPr-A9 cells vs parental

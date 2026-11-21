@@ -7,7 +7,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC13210286
-filename: jpg
+filename: pharmaceuticals-19-00700-g005.jpg
 figlink: /pmc/articles/PMC13210286/figure/F5/
 number: F5
 caption: Schematic diagram of the mechanism of TFSC in the intervention of VaD. TFSC

@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12542780
-filename: jpg
+filename: msystems.00847-25.f002.jpg
 figlink: /pmc/articles/PMC12542780/figure/F2/
 number: F2
 caption: 'Genetic landscape of central carbon and amino acid metabolism in Dehalobacter

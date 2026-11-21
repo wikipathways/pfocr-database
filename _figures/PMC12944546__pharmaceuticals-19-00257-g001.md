@@ -11,7 +11,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12944546
-filename: jpg
+filename: pharmaceuticals-19-00257-g001.jpg
 figlink: /pmc/articles/PMC12944546/figure/F1/
 number: F1
 caption: STAT3 signaling pathway in tumorigenesis and progression

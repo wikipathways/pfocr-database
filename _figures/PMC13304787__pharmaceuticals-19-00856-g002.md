@@ -13,7 +13,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC13304787
-filename: jpg
+filename: pharmaceuticals-19-00856-g002.jpg
 figlink: /pmc/articles/PMC13304787/figure/F2/
 number: F2
 caption: Signaling pathway network diagram of anti-atherosclerotic effects of food

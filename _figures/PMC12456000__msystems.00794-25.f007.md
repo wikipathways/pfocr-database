@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Drosophila melanogaster
 pmcid: PMC12456000
-filename: jpg
+filename: msystems.00794-25.f007.jpg
 figlink: /pmc/articles/PMC12456000/figure/F7/
 number: F7
 caption: Validation of these key metabolic pathways. (A) Percent survival of WY28

@@ -18,7 +18,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12372124
-filename: jpg
+filename: pathophysiology-32-00037-g001.jpg
 figlink: /pmc/articles/PMC12372124/figure/F1/
 number: F1
 caption: 'Molecular basis of thyroid hormone (T3) influence on cardiovascular homeostasis.

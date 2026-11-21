@@ -9,7 +9,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12323346
-filename: jpg
+filename: spectrum.02150-24.f006.jpg
 figlink: /pmc/articles/PMC12323346/figure/F6/
 number: F6
 caption: 'Schematic diagrams of glucose and ccpA interacting at cellular carbon metabolic

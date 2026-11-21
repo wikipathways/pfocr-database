@@ -8,7 +8,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC13029481
-filename: jpg
+filename: pharmaceuticals-19-00408-g001.jpg
 figlink: /pmc/articles/PMC13029481/figure/F1/
 number: F1
 caption: Molecular Mechanism of Action of Glucagon-like Peptide-1 (GLP-1) in Pancreatic

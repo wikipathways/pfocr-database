@@ -7,7 +7,7 @@ organisms_ner:
 - Drosophila melanogaster
 - Homo sapiens
 pmcid: PMC12889044
-filename: jpg
+filename: spectrum.03025-25.f001.jpg
 figlink: /pmc/articles/PMC12889044/figure/F1/
 number: F1
 caption: ER stress-induced pathways. The induced UPR pathway, orchestrated by the

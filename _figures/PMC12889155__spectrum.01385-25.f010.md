@@ -9,7 +9,7 @@ organisms_ner:
 - Homo sapiens
 - Danio rerio
 pmcid: PMC12889155
-filename: jpg
+filename: spectrum.01385-25.f010.jpg
 figlink: /pmc/articles/PMC12889155/figure/F10/
 number: F10
 caption: Schematic representation of how T. gondii induces the activation of the PI3K-Akt-mTOR

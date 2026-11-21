@@ -7,7 +7,7 @@ organisms_ner:
 - Homo sapiens
 - Drosophila melanogaster
 pmcid: PMC12542631
-filename: jpg
+filename: msystems.01146-25.f001.jpg
 figlink: /pmc/articles/PMC12542631/figure/F1/
 number: F1
 caption: 'The workflow of this study. Part 1: Based on a ML framework, we applied

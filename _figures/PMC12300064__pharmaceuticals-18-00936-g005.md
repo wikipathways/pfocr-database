@@ -6,7 +6,7 @@ organisms:
 organisms_ner:
 - Homo sapiens
 pmcid: PMC12300064
-filename: jpg
+filename: pharmaceuticals-18-00936-g005.jpg
 figlink: /pmc/articles/PMC12300064/figure/F5/
 number: F5
 caption: BCR-ABL protein–protein interaction (PPI) network and pathway enrichment.
